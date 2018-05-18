@@ -1,0 +1,18 @@
+[Unit]
+Description=elections service
+Requires=elections.socket
+After=network.target
+
+[Service]
+PIDFile=/run/gunicorn/pid
+User=www-data
+Group=www-data
+RuntimeDirectory=gunicorn
+WorkingDirectory=/usr/local/aclu/election-data/server
+ExecStart=/usr/local/bin/gunicorn --config /usr/local/aclu/election-data/server/gunicorn.py server:app
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s TERM $MAINPID
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

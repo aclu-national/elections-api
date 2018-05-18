@@ -11,3 +11,8 @@ districts_116_pa:
 	curl -o districts_116_pa/districts_116_pa.zip http://www.pacourts.us/assets/files/setting-6061/file-6845.zip?cb=b6385e
 	unzip -d districts_116_pa districts_116_pa/districts_116_pa.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 districts_116_pa/districts_116_pa.geojson districts_116_pa/Remedial\ Plan\ Shapefile.shp
+
+legislators:
+	mkdir -p legislators
+	curl -o legislators/legislators-current.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-current.yaml
+	curl -o legislators/legislators-social-media.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-social-media.yaml

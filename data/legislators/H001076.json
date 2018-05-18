@@ -1,0 +1,51 @@
+{
+    "bio": {
+        "birthday": "1958-02-27", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Maggie Hassan", 
+        "bioguide": "H001076", 
+        "cspan": 67481, 
+        "fec": [
+            "S6NH00091"
+        ], 
+        "google_entity_id": "kg:/m/03c3zch", 
+        "govtrack": 412680, 
+        "icpsr": 41702, 
+        "lis": "S388", 
+        "maplight": 2192, 
+        "opensecrets": "N00038397", 
+        "votesmart": 42552, 
+        "wikidata": "Q24053", 
+        "wikipedia": "Maggie Hassan"
+    }, 
+    "name": {
+        "first": "Margaret", 
+        "last": "Hassan", 
+        "middle": "Wood", 
+        "nickname": "Maggie", 
+        "official_full": "Margaret Wood Hassan"
+    }, 
+    "social": {
+        "facebook": "SenatorHassan", 
+        "twitter": "Senatorhassan", 
+        "twitter_id": 946549322
+    }, 
+    "terms": [
+        {
+            "address": "330 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.hassan.senate.gov/content/contact-senator", 
+            "end": "2023-01-03", 
+            "office": "330 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3324", 
+            "start": "2017-01-03", 
+            "state": "NH", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.hassan.senate.gov"
+        }
+    ]
+}

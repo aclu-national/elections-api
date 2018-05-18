@@ -1,0 +1,106 @@
+{
+    "bio": {
+        "birthday": "1955-03-19", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Mike Coffman", 
+        "bioguide": "C001077", 
+        "cspan": 1031340, 
+        "fec": [
+            "H8CO06138", 
+            "H2CO00019"
+        ], 
+        "google_entity_id": "kg:/m/03gy95d", 
+        "govtrack": 412271, 
+        "house_history": 11815, 
+        "icpsr": 20906, 
+        "maplight": 753, 
+        "opensecrets": "N00024753", 
+        "thomas": "01912", 
+        "votesmart": 1535, 
+        "wikidata": "Q547218", 
+        "wikipedia": "Mike Coffman"
+    }, 
+    "name": {
+        "first": "Mike", 
+        "last": "Coffman", 
+        "official_full": "Mike Coffman"
+    }, 
+    "social": {
+        "facebook": "repmikecoffman", 
+        "twitter": "RepMikeCoffman", 
+        "twitter_id": 19407835, 
+        "youtube": "CongressmanCoffman", 
+        "youtube_id": "UCBCe9Os3VRutyBw3aLhYq5g"
+    }, 
+    "terms": [
+        {
+            "district": 6, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://coffman.house.gov"
+        }, 
+        {
+            "address": "1222 Longworth HOB; Washington DC 20515-0606", 
+            "contact_form": "https://forms.house.gov/coffman/contact-form.shtml", 
+            "district": 6, 
+            "end": "2013-01-03", 
+            "fax": "202-226-4623", 
+            "office": "1222 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7882", 
+            "start": "2011-01-05", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://coffman.house.gov"
+        }, 
+        {
+            "address": "2443 Rayburn HOB; Washington DC 20515-0606", 
+            "contact_form": "https://coffman.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "fax": "202-226-4623", 
+            "office": "2443 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7882", 
+            "rss_url": "http://coffman.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://coffman.house.gov"
+        }, 
+        {
+            "address": "2443 Rayburn HOB; Washington DC 20515-0606", 
+            "contact_form": "https://coffman.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "fax": "202-226-4623", 
+            "office": "2443 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7882", 
+            "rss_url": "http://coffman.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://coffman.house.gov"
+        }, 
+        {
+            "address": "2443 Rayburn House Office Building; Washington DC 20515-0606", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "fax": "202-226-4623", 
+            "office": "2443 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7882", 
+            "rss_url": "http://coffman.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "https://coffman.house.gov"
+        }
+    ]
+}

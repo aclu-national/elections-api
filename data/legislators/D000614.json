@@ -1,0 +1,97 @@
+{
+    "bio": {
+        "birthday": "1971-10-03", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Sean Duffy", 
+        "bioguide": "D000614", 
+        "cspan": 623570, 
+        "fec": [
+            "H0WI07051"
+        ], 
+        "google_entity_id": "kg:/m/026m6hd", 
+        "govtrack": 412488, 
+        "house_history": 12601, 
+        "icpsr": 21189, 
+        "maplight": 1493, 
+        "opensecrets": "N00030967", 
+        "thomas": "02072", 
+        "votesmart": 126238, 
+        "wikidata": "Q1729888", 
+        "wikipedia": "Sean Duffy"
+    }, 
+    "name": {
+        "first": "Sean", 
+        "last": "Duffy", 
+        "middle": "P.", 
+        "official_full": "Sean P. Duffy"
+    }, 
+    "social": {
+        "facebook": "RepSeanDuffy", 
+        "instagram": "repseanduffy", 
+        "instagram_id": 367550700, 
+        "twitter": "RepSeanDuffy", 
+        "twitter_id": 234022257, 
+        "youtube": "RepSeanDuffy", 
+        "youtube_id": "UChq-eV2HnV7Kr2zmj0yua7g"
+    }, 
+    "terms": [
+        {
+            "address": "1208 Longworth HOB; Washington DC 20515-4907", 
+            "district": 7, 
+            "end": "2013-01-03", 
+            "office": "1208 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3365", 
+            "start": "2011-01-05", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "http://duffy.house.gov/"
+        }, 
+        {
+            "address": "1208 Longworth HOB; Washington DC 20515-4907", 
+            "contact_form": "http://duffy.house.gov/contact", 
+            "district": 7, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3240", 
+            "office": "1208 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3365", 
+            "rss_url": "http://duffy.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "http://duffy.house.gov"
+        }, 
+        {
+            "address": "1208 Longworth HOB; Washington DC 20515-4907", 
+            "contact_form": "http://duffy.house.gov/contact", 
+            "district": 7, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3240", 
+            "office": "1208 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3365", 
+            "rss_url": "http://duffy.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "https://duffy.house.gov"
+        }, 
+        {
+            "address": "2330 Rayburn House Office Building; Washington DC 20515-4907", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3240", 
+            "office": "2330 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3365", 
+            "rss_url": "http://duffy.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "https://duffy.house.gov"
+        }
+    ]
+}

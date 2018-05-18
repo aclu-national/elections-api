@@ -1,0 +1,96 @@
+{
+    "bio": {
+        "birthday": "1961-07-15", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "David N. Cicilline", 
+        "bioguide": "C001084", 
+        "cspan": 1033865, 
+        "fec": [
+            "H0RI01073"
+        ], 
+        "google_entity_id": "kg:/m/04t97v", 
+        "govtrack": 412470, 
+        "house_history": 11826, 
+        "icpsr": 21172, 
+        "maplight": 1475, 
+        "opensecrets": "N00032019", 
+        "thomas": "02055", 
+        "votesmart": 7349, 
+        "wikidata": "Q938498", 
+        "wikipedia": "David Cicilline"
+    }, 
+    "name": {
+        "first": "David", 
+        "last": "Cicilline", 
+        "middle": "N.", 
+        "official_full": "David N. Cicilline"
+    }, 
+    "social": {
+        "facebook": "CongressmanDavidCicilline", 
+        "twitter": "RepCicilline", 
+        "twitter_id": 462143773, 
+        "youtube": "RepDavidCicilline", 
+        "youtube_id": "UC3sCl46o8hYP69LnidNltuw"
+    }, 
+    "terms": [
+        {
+            "address": "128 Cannon HOB; Washington DC 20515-3901", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3290", 
+            "office": "128 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4911", 
+            "start": "2011-01-05", 
+            "state": "RI", 
+            "type": "rep", 
+            "url": "http://cicilline.house.gov/"
+        }, 
+        {
+            "address": "128 Cannon HOB; Washington DC 20515-3901", 
+            "contact_form": "https://cicilline.house.gov/contact-me/email-me", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3290", 
+            "office": "128 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4911", 
+            "rss_url": "http://cicilline.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "RI", 
+            "type": "rep", 
+            "url": "http://cicilline.house.gov"
+        }, 
+        {
+            "address": "2244 Rayburn HOB; Washington DC 20515-3901", 
+            "contact_form": "https://cicilline.house.gov/contact-me/email-me", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3290", 
+            "office": "2244 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4911", 
+            "rss_url": "http://cicilline.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "RI", 
+            "type": "rep", 
+            "url": "http://cicilline.house.gov"
+        }, 
+        {
+            "address": "2244 Rayburn House Office Building; Washington DC 20515-3901", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3290", 
+            "office": "2244 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4911", 
+            "rss_url": "http://cicilline.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "RI", 
+            "type": "rep", 
+            "url": "https://cicilline.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "bio": {
+        "birthday": "1975-10-01", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Grace Meng", 
+        "bioguide": "M001188", 
+        "cspan": 68411, 
+        "fec": [
+            "H2NY06116"
+        ], 
+        "google_entity_id": "kg:/m/04ld76x", 
+        "govtrack": 412560, 
+        "house_history": 15032387500, 
+        "icpsr": 21342, 
+        "maplight": 1784, 
+        "opensecrets": "N00034547", 
+        "thomas": "02148", 
+        "votesmart": 69157, 
+        "wikidata": "Q5591303", 
+        "wikipedia": "Grace Meng"
+    }, 
+    "name": {
+        "first": "Grace", 
+        "last": "Meng", 
+        "official_full": "Grace Meng"
+    }, 
+    "social": {
+        "facebook": "repgracemeng", 
+        "twitter": "RepGraceMeng", 
+        "twitter_id": 1051127714, 
+        "youtube_id": "UCHg516zJKbIBtXFAJ0nu3XQ"
+    }, 
+    "terms": [
+        {
+            "address": "1317 Longworth HOB; Washington DC 20515-3206", 
+            "contact_form": "https://meng.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "office": "1317 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2601", 
+            "rss_url": "http://meng.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://meng.house.gov"
+        }, 
+        {
+            "address": "1317 Longworth HOB; Washington DC 20515-3206", 
+            "contact_form": "https://meng.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1589", 
+            "office": "1317 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2601", 
+            "rss_url": "http://meng.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://meng.house.gov"
+        }, 
+        {
+            "address": "1317 Longworth House Office Building; Washington DC 20515-3206", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1589", 
+            "office": "1317 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2601", 
+            "rss_url": "http://meng.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://meng.house.gov"
+        }
+    ]
+}

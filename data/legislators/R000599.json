@@ -1,0 +1,80 @@
+{
+    "bio": {
+        "birthday": "1972-08-25", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Raul Ruiz", 
+        "bioguide": "R000599", 
+        "cspan": 79727, 
+        "fec": [
+            "H2CA36439"
+        ], 
+        "google_entity_id": "kg:/m/02p8pz0", 
+        "govtrack": 412519, 
+        "icpsr": 21311, 
+        "maplight": 1743, 
+        "opensecrets": "N00033510", 
+        "thomas": "02109", 
+        "votesmart": 136407, 
+        "wikidata": "Q3701994", 
+        "wikipedia": "Raul Ruiz (politician)"
+    }, 
+    "name": {
+        "first": "Raul", 
+        "last": "Ruiz", 
+        "official_full": "Raul Ruiz"
+    }, 
+    "social": {
+        "facebook": "CongressmanRaulRuizMD", 
+        "twitter": "CongressmanRuiz", 
+        "twitter_id": 1089859058, 
+        "youtube": "repraulruiz", 
+        "youtube_id": "UCSDk-cyNPCo1iy6rweSPmBw"
+    }, 
+    "terms": [
+        {
+            "address": "1319 Longworth HOB; Washington DC 20515-0536", 
+            "contact_form": "https://ruiz.house.gov/email-me", 
+            "district": 36, 
+            "end": "2015-01-03", 
+            "office": "1319 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5330", 
+            "rss_url": "http://ruiz.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://ruiz.house.gov"
+        }, 
+        {
+            "address": "1319 Longworth HOB; Washington DC 20515-0536", 
+            "contact_form": "https://ruiz.house.gov/email-me", 
+            "district": 36, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1238", 
+            "office": "1319 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5330", 
+            "rss_url": "http://ruiz.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://ruiz.house.gov"
+        }, 
+        {
+            "address": "1319 Longworth House Office Building; Washington DC 20515-0536", 
+            "district": 36, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1238", 
+            "office": "1319 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5330", 
+            "rss_url": "http://ruiz.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://ruiz.house.gov"
+        }
+    ]
+}

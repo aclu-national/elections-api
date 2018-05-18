@@ -1,0 +1,159 @@
+{
+    "bio": {
+        "birthday": "1945-04-07", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Robert A. Brady", 
+        "bioguide": "B001227", 
+        "cspan": 55227, 
+        "fec": [
+            "H8PA01153"
+        ], 
+        "google_entity_id": "kg:/m/03tq5z", 
+        "govtrack": 400047, 
+        "house_history": 10355, 
+        "icpsr": 29777, 
+        "maplight": 165, 
+        "opensecrets": "N00001619", 
+        "thomas": "01469", 
+        "votesmart": 2519, 
+        "wikidata": "Q434522", 
+        "wikipedia": "Bob Brady"
+    }, 
+    "name": {
+        "first": "Robert", 
+        "last": "Brady", 
+        "middle": "Alan", 
+        "official_full": "Robert A. Brady"
+    }, 
+    "social": {
+        "facebook": "RepRobertBrady", 
+        "instagram": "repbrady", 
+        "instagram_id": 1405678385, 
+        "twitter": "RepBrady", 
+        "twitter_id": 148453195, 
+        "youtube": "BradyPA01", 
+        "youtube_id": "UCHbTbPH6iCtaA_AKPwDy04A"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1998-05-19", 
+            "state": "PA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "PA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "PA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robertbrady"
+        }, 
+        {
+            "district": 1, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robertbrady"
+        }, 
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robertbrady"
+        }, 
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://www.brady.house.gov"
+        }, 
+        {
+            "address": "102 Cannon HOB; Washington DC 20515-3801", 
+            "contact_form": "http://www.house.gov/formrobertbrady/issue.htm", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-0088", 
+            "office": "102 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4731", 
+            "start": "2011-01-05", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://www.brady.house.gov"
+        }, 
+        {
+            "address": "102 Cannon HOB; Washington DC 20515-3801", 
+            "contact_form": "https://brady.house.gov/contact-me/email-me", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-0088", 
+            "office": "102 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4731", 
+            "rss_url": "http://brady.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://brady.house.gov"
+        }, 
+        {
+            "address": "102 Cannon HOB; Washington DC 20515-3801", 
+            "contact_form": "https://brady.house.gov/contact-me/email-me", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0088", 
+            "office": "102 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4731", 
+            "rss_url": "http://brady.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://brady.house.gov"
+        }, 
+        {
+            "address": "2004 Rayburn House Office Building; Washington DC 20515-3801", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0088", 
+            "office": "2004 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4731", 
+            "rss_url": "http://brady.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "https://brady.house.gov"
+        }
+    ]
+}

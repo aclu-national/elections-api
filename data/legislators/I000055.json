@@ -1,0 +1,109 @@
+{
+    "bio": {
+        "birthday": "1944-12-28", 
+        "gender": "M", 
+        "religion": "Methodist"
+    }, 
+    "id": {
+        "ballotpedia": "Johnny Isakson", 
+        "bioguide": "I000055", 
+        "cspan": 59135, 
+        "fec": [
+            "S6GA00119", 
+            "H8GA06146"
+        ], 
+        "google_entity_id": "kg:/m/02556q", 
+        "govtrack": 400194, 
+        "house_history": 15687, 
+        "icpsr": 29909, 
+        "lis": "S305", 
+        "maplight": 298, 
+        "opensecrets": "N00002593", 
+        "thomas": "01608", 
+        "votesmart": 1721, 
+        "wikidata": "Q130024", 
+        "wikipedia": "Johnny Isakson"
+    }, 
+    "name": {
+        "first": "John", 
+        "last": "Isakson", 
+        "middle": "H.", 
+        "nickname": "Johnny", 
+        "official_full": "Johnny Isakson"
+    }, 
+    "social": {
+        "instagram": "senatorisakson", 
+        "twitter": "SenatorIsakson", 
+        "twitter_id": 78403308, 
+        "youtube": "SenatorIsakson", 
+        "youtube_id": "UCO80zDwuLZHtGr-KOfl_XCQ"
+    }, 
+    "terms": [
+        {
+            "district": 6, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "GA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "GA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://isakson.house.gov"
+        }, 
+        {
+            "class": 3, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "GA", 
+            "type": "sen", 
+            "url": "http://isakson.senate.gov"
+        }, 
+        {
+            "address": "131 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.isakson.senate.gov/public/index.cfm/email-me", 
+            "end": "2017-01-03", 
+            "fax": "202-228-0724", 
+            "office": "131 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3643", 
+            "rss_url": "http://www.isakson.senate.gov/public/?a=RSS.Feed", 
+            "start": "2011-01-05", 
+            "state": "GA", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "http://www.isakson.senate.gov"
+        }, 
+        {
+            "address": "131 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.isakson.senate.gov/public/index.cfm/email-me", 
+            "end": "2023-01-03", 
+            "fax": "202-228-0724", 
+            "office": "131 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3643", 
+            "rss_url": "http://www.isakson.senate.gov/public/?a=RSS.Feed", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.isakson.senate.gov"
+        }
+    ]
+}

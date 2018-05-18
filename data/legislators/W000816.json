@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1949-09-13", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Roger Williams", 
+        "bioguide": "W000816", 
+        "cspan": 623742, 
+        "fec": [
+            "H2TX33040", 
+            "S2TX00270"
+        ], 
+        "google_entity_id": "kg:/m/08rszb", 
+        "govtrack": 412578, 
+        "icpsr": 21364, 
+        "maplight": 1802, 
+        "opensecrets": "N00030602", 
+        "thomas": "02165", 
+        "votesmart": 50112, 
+        "wikidata": "Q4014560", 
+        "wikipedia": "Roger Williams (American politician)"
+    }, 
+    "name": {
+        "first": "Roger", 
+        "last": "Williams", 
+        "official_full": "Roger Williams"
+    }, 
+    "social": {
+        "facebook": "RepRogerWilliams", 
+        "twitter": "RepRWilliams", 
+        "twitter_id": 1077446982, 
+        "youtube_id": "UCBtfmMMQarjtLB9U_pWMOhw"
+    }, 
+    "terms": [
+        {
+            "address": "1122 Longworth HOB; Washington DC 20515-4325", 
+            "contact_form": "https://williams.house.gov/contact/email-me", 
+            "district": 25, 
+            "end": "2015-01-03", 
+            "fax": "512-473-8946", 
+            "office": "1122 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-9896", 
+            "rss_url": "http://williams.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://williams.house.gov"
+        }, 
+        {
+            "address": "1323 Longworth HOB; Washington DC 20515-4325", 
+            "contact_form": "https://williams.house.gov/contact/email-me", 
+            "district": 25, 
+            "end": "2017-01-03", 
+            "fax": "512-473-8946", 
+            "office": "1323 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-9896", 
+            "rss_url": "http://williams.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://williams.house.gov"
+        }, 
+        {
+            "address": "1323 Longworth House Office Building; Washington DC 20515-4325", 
+            "district": 25, 
+            "end": "2019-01-03", 
+            "fax": "512-473-8946", 
+            "office": "1323 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-9896", 
+            "rss_url": "http://williams.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://williams.house.gov"
+        }
+    ]
+}

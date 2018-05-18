@@ -1,0 +1,107 @@
+{
+    "bio": {
+        "birthday": "1970-02-03", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Tom Graves", 
+        "bioguide": "G000560", 
+        "cspan": 11519, 
+        "fec": [
+            "H0GA09030"
+        ], 
+        "google_entity_id": "kg:/m/0c02hpl", 
+        "govtrack": 412388, 
+        "house_history": 14278, 
+        "icpsr": 20962, 
+        "maplight": 1369, 
+        "opensecrets": "N00030788", 
+        "thomas": "01979", 
+        "votesmart": 31969, 
+        "wikidata": "Q1647301", 
+        "wikipedia": "Tom Graves"
+    }, 
+    "name": {
+        "first": "Tom", 
+        "last": "Graves", 
+        "official_full": "Tom Graves"
+    }, 
+    "social": {
+        "facebook": "reptomgraves", 
+        "instagram": "reptomgraves", 
+        "instagram_id": 241591770, 
+        "twitter": "RepTomGraves", 
+        "twitter_id": 190328374, 
+        "youtube": "CongressmanGraves", 
+        "youtube_id": "UCBxeA4MWCmfUox57bUTEH0g"
+    }, 
+    "terms": [
+        {
+            "district": 9, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2010-06-08", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://tomgraves.house.gov/"
+        }, 
+        {
+            "address": "1113 Longworth HOB; Washington DC 20515-1010", 
+            "contact_form": "http://tomgraves.house.gov/contact/", 
+            "district": 9, 
+            "end": "2013-01-03", 
+            "fax": "202-225-8272", 
+            "office": "1113 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5211", 
+            "start": "2011-01-05", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://tomgraves.house.gov/"
+        }, 
+        {
+            "address": "432 Cannon HOB; Washington DC 20515-1014", 
+            "contact_form": "http://tomgraves.house.gov/contact/", 
+            "district": 14, 
+            "end": "2015-01-03", 
+            "fax": "202-225-8272", 
+            "office": "432 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5211", 
+            "rss_url": "http://tomgraves.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://tomgraves.house.gov"
+        }, 
+        {
+            "address": "2442 Rayburn HOB; Washington DC 20515-1014", 
+            "contact_form": "http://tomgraves.house.gov/contact/", 
+            "district": 14, 
+            "end": "2017-01-03", 
+            "fax": "202-225-8272", 
+            "office": "2442 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5211", 
+            "rss_url": "http://tomgraves.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://tomgraves.house.gov"
+        }, 
+        {
+            "address": "2078 Rayburn House Office Building; Washington DC 20515-1014", 
+            "district": 14, 
+            "end": "2019-01-03", 
+            "fax": "202-225-8272", 
+            "office": "2078 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5211", 
+            "rss_url": "http://tomgraves.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://tomgraves.house.gov"
+        }
+    ]
+}

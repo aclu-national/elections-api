@@ -1,0 +1,174 @@
+{
+    "bio": {
+        "birthday": "1944-04-05", 
+        "gender": "M", 
+        "religion": "Roman Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Peter T. King", 
+        "bioguide": "K000210", 
+        "cspan": 26487, 
+        "fec": [
+            "H2NY03089"
+        ], 
+        "google_entity_id": "kg:/m/03tk4w", 
+        "govtrack": 400219, 
+        "house_history": 16338, 
+        "icpsr": 29375, 
+        "maplight": 321, 
+        "opensecrets": "N00001193", 
+        "thomas": "00635", 
+        "votesmart": 26968, 
+        "wikidata": "Q953554", 
+        "wikipedia": "Peter T. King"
+    }, 
+    "name": {
+        "first": "Peter", 
+        "last": "King", 
+        "middle": "T.", 
+        "nickname": "Pete", 
+        "official_full": "Peter T. King"
+    }, 
+    "social": {
+        "twitter": "RepPeteKing", 
+        "twitter_id": 18277655, 
+        "youtube": "RepPeterKing", 
+        "youtube_id": "UCbyQC19DsAq01oDBfZn_diw"
+    }, 
+    "terms": [
+        {
+            "district": 3, 
+            "end": "1995-01-03", 
+            "party": "Republican", 
+            "start": "1993-01-05", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/king"
+        }, 
+        {
+            "district": 3, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/king"
+        }, 
+        {
+            "district": 3, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://peteking.house.gov"
+        }, 
+        {
+            "district": 3, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://peteking.house.gov"
+        }, 
+        {
+            "address": "339 Cannon HOB; Washington DC 20515-3203", 
+            "contact_form": "http://peteking.house.gov/zip.shtml", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-226-2279", 
+            "office": "339 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7896", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://peteking.house.gov"
+        }, 
+        {
+            "address": "339 Cannon HOB; Washington DC 20515-3202", 
+            "contact_form": "https://peteking.house.gov/contact/email-me", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-226-2279", 
+            "office": "339 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7896", 
+            "rss_url": "http://peteking.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://peteking.house.gov"
+        }, 
+        {
+            "address": "339 Cannon HOB; Washington DC 20515-3202", 
+            "contact_form": "https://peteking.house.gov/contact/email-me", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-226-2279", 
+            "office": "339 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7896", 
+            "rss_url": "http://peteking.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://peteking.house.gov"
+        }, 
+        {
+            "address": "339 Cannon House Office Building; Washington DC 20515-3202", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-226-2279", 
+            "office": "339 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7896", 
+            "rss_url": "http://peteking.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://peteking.house.gov"
+        }
+    ]
+}

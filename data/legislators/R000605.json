@@ -1,0 +1,50 @@
+{
+    "bio": {
+        "birthday": "1954-10-24", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "R000605", 
+        "cspan": 78317, 
+        "fec": [
+            "S4SD00049"
+        ], 
+        "google_entity_id": "kg:/m/020z2p", 
+        "govtrack": 412669, 
+        "icpsr": 41505, 
+        "lis": "S381", 
+        "maplight": 2125, 
+        "opensecrets": "N00035187", 
+        "thomas": "02288", 
+        "votesmart": 7455, 
+        "wikidata": "Q722503", 
+        "wikipedia": "Mike Rounds"
+    }, 
+    "name": {
+        "first": "Mike", 
+        "last": "Rounds", 
+        "official_full": "Mike Rounds"
+    }, 
+    "social": {
+        "facebook": "SenatorMikeRounds", 
+        "twitter": "SenatorRounds", 
+        "twitter_id": 2955485182, 
+        "youtube_id": "UC-pvzimyBdpdkcIfsicrfrQ"
+    }, 
+    "terms": [
+        {
+            "address": "502 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.rounds.senate.gov/contact/email-mike", 
+            "end": "2021-01-03", 
+            "office": "502 Hart Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5842", 
+            "start": "2015-01-06", 
+            "state": "SD", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.rounds.senate.gov"
+        }
+    ]
+}

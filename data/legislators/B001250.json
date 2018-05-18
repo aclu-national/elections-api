@@ -1,0 +1,133 @@
+{
+    "bio": {
+        "birthday": "1951-07-13", 
+        "gender": "M", 
+        "religion": "Latter Day Saints"
+    }, 
+    "id": {
+        "ballotpedia": "Rob Bishop", 
+        "bioguide": "B001250", 
+        "cspan": 1003621, 
+        "fec": [
+            "H2UT01094"
+        ], 
+        "google_entity_id": "kg:/m/02tn41", 
+        "govtrack": 400029, 
+        "house_history": 10399, 
+        "icpsr": 20357, 
+        "maplight": 150, 
+        "opensecrets": "N00025292", 
+        "thomas": "01753", 
+        "votesmart": 50544, 
+        "wikidata": "Q433857", 
+        "wikipedia": "Rob Bishop"
+    }, 
+    "name": {
+        "first": "Rob", 
+        "last": "Bishop", 
+        "official_full": "Rob Bishop"
+    }, 
+    "social": {
+        "facebook": "RepRobBishop", 
+        "twitter": "RepRobBishop", 
+        "twitter_id": 148006729, 
+        "youtube": "CongressmanBishop", 
+        "youtube_id": "UCJC2BXNGQEUom7Tp7FKfxlQ"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robbishop"
+        }, 
+        {
+            "district": 1, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robbishop"
+        }, 
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robbishop"
+        }, 
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robbishop"
+        }, 
+        {
+            "address": "123 Cannon HOB; Washington DC 20515-4401", 
+            "contact_form": "http://robbishop.house.gov/ZipAuth.aspx", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5857", 
+            "office": "123 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-0453", 
+            "start": "2011-01-05", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "http://www.house.gov/robbishop"
+        }, 
+        {
+            "address": "123 Cannon HOB; Washington DC 20515-4401", 
+            "contact_form": "https://robbishop.house.gov/contact/contactform.htm", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5857", 
+            "office": "123 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-0453", 
+            "rss_url": "http://robbishop.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "http://robbishop.house.gov"
+        }, 
+        {
+            "address": "123 Cannon HOB; Washington DC 20515-4401", 
+            "contact_form": "https://robbishop.house.gov/contact/contactform.htm", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5857", 
+            "office": "123 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-0453", 
+            "rss_url": "http://robbishop.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "http://robbishop.house.gov"
+        }, 
+        {
+            "address": "123 Cannon House Office Building; Washington DC 20515-4401", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5857", 
+            "office": "123 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-0453", 
+            "rss_url": "http://robbishop.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "UT", 
+            "type": "rep", 
+            "url": "https://robbishop.house.gov"
+        }
+    ]
+}

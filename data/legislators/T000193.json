@@ -1,0 +1,175 @@
+{
+    "bio": {
+        "birthday": "1948-01-28", 
+        "gender": "M", 
+        "religion": "Methodist"
+    }, 
+    "id": {
+        "bioguide": "T000193", 
+        "cspan": 7304, 
+        "fec": [
+            "H4MS02068"
+        ], 
+        "google_entity_id": "kg:/m/033tc5", 
+        "govtrack": 400402, 
+        "house_history": 22870, 
+        "icpsr": 29368, 
+        "maplight": 490, 
+        "opensecrets": "N00003288", 
+        "thomas": "01151", 
+        "votesmart": 26929, 
+        "wikidata": "Q817877", 
+        "wikipedia": "Bennie Thompson"
+    }, 
+    "name": {
+        "first": "Bennie", 
+        "last": "Thompson", 
+        "middle": "G.", 
+        "official_full": "Bennie G. Thompson"
+    }, 
+    "social": {
+        "facebook": "CongressmanBennieGThompson", 
+        "instagram": "benniegthompson", 
+        "instagram_id": 347410575, 
+        "twitter": "BennieGThompson", 
+        "twitter_id": 82453460, 
+        "youtube": "RepBennieThompson", 
+        "youtube_id": "UCzt2pBxh0dI24kYrWretXRw"
+    }, 
+    "terms": [
+        {
+            "district": 2, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-04-13", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://www.house.gov/thompson"
+        }, 
+        {
+            "district": 2, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://www.house.gov/thompson"
+        }, 
+        {
+            "district": 2, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://benniethompson.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://benniethompson.house.gov"
+        }, 
+        {
+            "address": "2466 Rayburn HOB; Washington DC 20515-2402", 
+            "contact_form": "https://forms.house.gov/benniethompson/contact-form.shtml", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5898", 
+            "office": "2466 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5876", 
+            "start": "2011-01-05", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://benniethompson.house.gov"
+        }, 
+        {
+            "address": "2466 Rayburn HOB; Washington DC 20515-2402", 
+            "contact_form": "https://forms.house.gov/benniethompson/contact-form.shtml", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5898", 
+            "office": "2466 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5876", 
+            "rss_url": "http://benniethompson.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://benniethompson.house.gov"
+        }, 
+        {
+            "address": "2466 Rayburn HOB; Washington DC 20515-2402", 
+            "contact_form": "https://forms.house.gov/benniethompson/contact-form.shtml", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5898", 
+            "office": "2466 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5876", 
+            "rss_url": "http://benniethompson.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://benniethompson.house.gov"
+        }, 
+        {
+            "address": "2466 Rayburn House Office Building; Washington DC 20515-2402", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5898", 
+            "office": "2466 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5876", 
+            "rss_url": "http://benniethompson.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "https://benniethompson.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "bio": {
+        "birthday": "1934-11-17", 
+        "gender": "M", 
+        "religion": "Presbyterian"
+    }, 
+    "id": {
+        "ballotpedia": "Jim Inhofe", 
+        "bioguide": "I000024", 
+        "cspan": 5619, 
+        "fec": [
+            "S4OK00083", 
+            "H6OK01102"
+        ], 
+        "google_entity_id": "kg:/m/021kpl", 
+        "govtrack": 300055, 
+        "house_history": 15645, 
+        "icpsr": 15424, 
+        "lis": "S236", 
+        "maplight": 576, 
+        "opensecrets": "N00005582", 
+        "thomas": "00583", 
+        "votesmart": 27027, 
+        "wikidata": "Q723134", 
+        "wikipedia": "Jim Inhofe"
+    }, 
+    "name": {
+        "first": "James", 
+        "last": "Inhofe", 
+        "middle": "M.", 
+        "nickname": "Jim", 
+        "official_full": "James M. Inhofe"
+    }, 
+    "social": {
+        "facebook": "jiminhofe", 
+        "twitter": "InhofePress", 
+        "twitter_id": 20546536, 
+        "youtube": "jiminhofepressoffice", 
+        "youtube_id": "UCk3W3ilX8vGG-300qzNpG7w"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "1989-01-03", 
+            "party": "Republican", 
+            "start": "1987-01-06", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "1991-01-03", 
+            "party": "Republican", 
+            "start": "1989-01-03", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "1993-01-03", 
+            "party": "Republican", 
+            "start": "1991-01-03", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "1994-11-15", 
+            "party": "Republican", 
+            "start": "1993-01-05", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "class": 2, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1994-01-01", 
+            "state": "OK", 
+            "type": "sen"
+        }, 
+        {
+            "class": 2, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "OK", 
+            "type": "sen"
+        }, 
+        {
+            "class": 2, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "OK", 
+            "type": "sen", 
+            "url": "http://inhofe.senate.gov/"
+        }, 
+        {
+            "address": "205 Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.inhofe.senate.gov/contact", 
+            "end": "2015-01-03", 
+            "fax": "202-228-0380", 
+            "office": "205 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-4721", 
+            "rss_url": "http://www.inhofe.senate.gov/rss/feeds/?type=all&amp;cachebuster=eea6c4d7%2d939c%2d5c1e%2db6c7aa3b8b291208", 
+            "start": "2009-01-06", 
+            "state": "OK", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "http://www.inhofe.senate.gov"
+        }, 
+        {
+            "address": "205 Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.inhofe.senate.gov/contact", 
+            "end": "2021-01-03", 
+            "fax": "202-228-0380", 
+            "office": "205 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-4721", 
+            "rss_url": "http://www.inhofe.senate.gov/rss/feeds/?type=all&amp;cachebuster=eea6c4d7%2d939c%2d5c1e%2db6c7aa3b8b291208", 
+            "start": "2015-01-06", 
+            "state": "OK", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.inhofe.senate.gov"
+        }
+    ]
+}

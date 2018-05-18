@@ -1,0 +1,122 @@
+{
+    "bio": {
+        "birthday": "1963-02-08", 
+        "gender": "M"
+    }, 
+    "family": [
+        {
+            "name": "Michael Bilirakis", 
+            "relation": "son"
+        }
+    ], 
+    "id": {
+        "ballotpedia": "Gus M. Bilirakis", 
+        "bioguide": "B001257", 
+        "cspan": 1022873, 
+        "fec": [
+            "H6FL09070"
+        ], 
+        "google_entity_id": "kg:/m/0dy3z1", 
+        "govtrack": 412250, 
+        "house_history": 10413, 
+        "icpsr": 20758, 
+        "maplight": 731, 
+        "opensecrets": "N00027462", 
+        "thomas": "01838", 
+        "votesmart": 17318, 
+        "wikidata": "Q1555314", 
+        "wikipedia": "Gus Bilirakis"
+    }, 
+    "name": {
+        "first": "Gus", 
+        "last": "Bilirakis", 
+        "middle": "M.", 
+        "official_full": "Gus M. Bilirakis"
+    }, 
+    "social": {
+        "facebook": "GusBilirakis", 
+        "instagram": "gusbilirakis", 
+        "twitter": "RepGusBilirakis", 
+        "twitter_id": 26051676, 
+        "youtube": "RepGusBilirakis", 
+        "youtube_id": "UC2z1uu1n4-60xXs5x1mvLJw"
+    }, 
+    "terms": [
+        {
+            "district": 9, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://bilirakis.house.gov"
+        }, 
+        {
+            "district": 9, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://bilirakis.house.gov"
+        }, 
+        {
+            "address": "407 Cannon HOB; Washington DC 20515-0909", 
+            "contact_form": "http://bilirakis.house.gov/index.php?option=com_content&amp;task=view&amp;id=212&amp;Itemid=44", 
+            "district": 9, 
+            "end": "2013-01-03", 
+            "fax": "202-225-4085", 
+            "office": "407 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5755", 
+            "start": "2011-01-05", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://bilirakis.house.gov"
+        }, 
+        {
+            "address": "2313 Rayburn HOB; Washington DC 20515-0912", 
+            "contact_form": "https://bilirakis.house.gov/email-congressman-bilirakis/", 
+            "district": 12, 
+            "end": "2015-01-03", 
+            "fax": "202-225-4085", 
+            "office": "2313 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5755", 
+            "rss_url": "http://bilirakis.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://bilirakis.house.gov"
+        }, 
+        {
+            "address": "2112 Rayburn HOB; Washington DC 20515-0912", 
+            "contact_form": "https://bilirakis.house.gov/email-congressman-bilirakis/", 
+            "district": 12, 
+            "end": "2017-01-03", 
+            "fax": "202-225-4085", 
+            "office": "2112 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5755", 
+            "rss_url": "http://bilirakis.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://bilirakis.house.gov"
+        }, 
+        {
+            "address": "2112 Rayburn House Office Building; Washington DC 20515-0912", 
+            "district": 12, 
+            "end": "2019-01-03", 
+            "fax": "202-225-4085", 
+            "office": "2112 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5755", 
+            "rss_url": "http://bilirakis.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://bilirakis.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "bio": {
+        "birthday": "1950-11-23", 
+        "gender": "M", 
+        "religion": "Jewish"
+    }, 
+    "id": {
+        "ballotpedia": "Chuck Schumer", 
+        "bioguide": "S000148", 
+        "cspan": 5929, 
+        "fec": [
+            "S8NY00082", 
+            "H0NY16010"
+        ], 
+        "google_entity_id": "kg:/m/01w74d", 
+        "govtrack": 300087, 
+        "house_history": 21322, 
+        "icpsr": 14858, 
+        "lis": "S270", 
+        "maplight": 606, 
+        "opensecrets": "N00001093", 
+        "thomas": "01036", 
+        "votesmart": 26976, 
+        "wikidata": "Q380900", 
+        "wikipedia": "Chuck Schumer"
+    }, 
+    "leadership_roles": [
+        {
+            "chamber": "senate", 
+            "start": "2017-01-03", 
+            "title": "Minority Leader"
+        }
+    ], 
+    "name": {
+        "first": "Charles", 
+        "last": "Schumer", 
+        "middle": "E.", 
+        "nickname": "Chuck", 
+        "official_full": "Charles E. Schumer"
+    }, 
+    "social": {
+        "facebook": "senschumer", 
+        "twitter": "SenSchumer", 
+        "twitter_id": 17494010, 
+        "youtube": "SenatorSchumer", 
+        "youtube_id": "UC-ABttxh8uQv_10qmwGaidw"
+    }, 
+    "terms": [
+        {
+            "district": 16, 
+            "end": "1983-01-03", 
+            "party": "Democrat", 
+            "start": "1981-01-05", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "1985-01-03", 
+            "party": "Democrat", 
+            "start": "1983-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "1987-01-03", 
+            "party": "Democrat", 
+            "start": "1985-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "1989-01-03", 
+            "party": "Democrat", 
+            "start": "1987-01-06", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 9, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 9, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 9, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "class": 3, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "NY", 
+            "type": "sen", 
+            "url": "http://schumer.senate.gov/"
+        }, 
+        {
+            "class": 3, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "NY", 
+            "type": "sen", 
+            "url": "http://schumer.senate.gov/"
+        }, 
+        {
+            "address": "322 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.schumer.senate.gov/Contact/email-chuck", 
+            "end": "2017-01-03", 
+            "fax": "202-228-3027", 
+            "office": "322 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-6542", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.schumer.senate.gov"
+        }, 
+        {
+            "address": "322 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.schumer.senate.gov/contact/email-chuck", 
+            "end": "2023-01-03", 
+            "fax": "202-228-3027", 
+            "office": "322 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-6542", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.schumer.senate.gov"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "bio": {
+        "birthday": "1946-05-12", 
+        "gender": "M", 
+        "religion": "Roman Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Frank LoBiondo", 
+        "bioguide": "L000554", 
+        "cspan": 30867, 
+        "fec": [
+            "H2NJ02037"
+        ], 
+        "google_entity_id": "kg:/m/025y0c", 
+        "govtrack": 400244, 
+        "house_history": 17288, 
+        "icpsr": 29539, 
+        "maplight": 344, 
+        "opensecrets": "N00000851", 
+        "thomas": "00699", 
+        "votesmart": 21890, 
+        "wikidata": "Q616850", 
+        "wikipedia": "Frank LoBiondo"
+    }, 
+    "name": {
+        "first": "Frank", 
+        "last": "LoBiondo", 
+        "middle": "A.", 
+        "official_full": "Frank A. LoBiondo"
+    }, 
+    "social": {
+        "facebook": "FrankLoBiondo", 
+        "instagram": "repfranklobiondo", 
+        "twitter": "RepLoBiondo", 
+        "twitter_id": 241207373, 
+        "youtube": "USRepFrankLoBiondo", 
+        "youtube_id": "UCXBUOE1MAEUMNIg67sivY9Q"
+    }, 
+    "terms": [
+        {
+            "district": 2, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "NJ", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "NJ", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "NJ", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "NJ", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lobiondo"
+        }, 
+        {
+            "district": 2, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lobiondo"
+        }, 
+        {
+            "district": 2, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lobiondo"
+        }, 
+        {
+            "district": 2, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lobiondo"
+        }, 
+        {
+            "address": "2427 Rayburn HOB; Washington DC 20515-3002", 
+            "contact_form": "http://www.house.gov/lobiondo/IMA/issue.htm", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3318", 
+            "office": "2427 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6572", 
+            "start": "2011-01-05", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lobiondo"
+        }, 
+        {
+            "address": "2427 Rayburn HOB; Washington DC 20515-3002", 
+            "contact_form": "https://lobiondo.house.gov/contact-me/email-me", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3318", 
+            "office": "2427 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6572", 
+            "rss_url": "http://lobiondo.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://lobiondo.house.gov"
+        }, 
+        {
+            "address": "2427 Rayburn HOB; Washington DC 20515-3002", 
+            "contact_form": "https://lobiondo.house.gov/contact-me/email-me", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3318", 
+            "office": "2427 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6572", 
+            "rss_url": "http://lobiondo.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://lobiondo.house.gov"
+        }, 
+        {
+            "address": "2427 Rayburn House Office Building; Washington DC 20515-3002", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3318", 
+            "office": "2427 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6572", 
+            "rss_url": "http://lobiondo.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "https://lobiondo.house.gov"
+        }
+    ]
+}

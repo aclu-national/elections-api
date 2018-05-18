@@ -1,0 +1,68 @@
+{
+    "bio": {
+        "birthday": "1956-08-21", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Jon Tester", 
+        "bioguide": "T000464", 
+        "cspan": 1020176, 
+        "fec": [
+            "S6MT00162"
+        ], 
+        "google_entity_id": "kg:/m/066cdp", 
+        "govtrack": 412244, 
+        "icpsr": 40702, 
+        "lis": "S314", 
+        "maplight": 726, 
+        "opensecrets": "N00027605", 
+        "thomas": "01829", 
+        "votesmart": 20928, 
+        "wikidata": "Q529351", 
+        "wikipedia": "Jon Tester"
+    }, 
+    "name": {
+        "first": "Jon", 
+        "last": "Tester", 
+        "official_full": "Jon Tester"
+    }, 
+    "social": {
+        "facebook": "senatortester", 
+        "twitter": "SenatorTester", 
+        "twitter_id": 515822213, 
+        "youtube": "senatorjontester", 
+        "youtube_id": "UCgXAF-CON1coZFMxQkfj0fg"
+    }, 
+    "terms": [
+        {
+            "address": "724 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.tester.senate.gov/Contact/index.cfm", 
+            "end": "2013-01-03", 
+            "fax": "202-224-8594", 
+            "office": "724 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2644", 
+            "start": "2007-01-04", 
+            "state": "MT", 
+            "type": "sen", 
+            "url": "http://tester.senate.gov/"
+        }, 
+        {
+            "address": "311 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.tester.senate.gov/?p=email_senator", 
+            "end": "2019-01-03", 
+            "fax": "202-224-8594", 
+            "office": "311 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2644", 
+            "rss_url": "http://www.tester.senate.gov/rss/?p=hot_topic", 
+            "start": "2013-01-03", 
+            "state": "MT", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.tester.senate.gov"
+        }
+    ]
+}

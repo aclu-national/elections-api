@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1971-10-21", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Ted Budd", 
+        "bioguide": "B001305", 
+        "cspan": 103513, 
+        "fec": [
+            "H6NC13129"
+        ], 
+        "google_entity_id": "kg:/g/11c2nmnsj0", 
+        "govtrack": 412712, 
+        "icpsr": 21708, 
+        "maplight": 2224, 
+        "opensecrets": "N00039551", 
+        "votesmart": 171489, 
+        "wikidata": "Q27733792", 
+        "wikipedia": "Ted Budd"
+    }, 
+    "name": {
+        "first": "Ted", 
+        "last": "Budd", 
+        "official_full": "Ted Budd"
+    }, 
+    "social": {
+        "facebook": "RepTedBudd", 
+        "twitter": "RepTedBudd", 
+        "twitter_id": 817138492614524928
+    }, 
+    "terms": [
+        {
+            "address": "118 Cannon House Office Building; Washington DC 20515-3313", 
+            "district": 13, 
+            "end": "2019-01-03", 
+            "office": "118 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4531", 
+            "start": "2017-01-03", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "https://budd.house.gov"
+        }
+    ]
+}

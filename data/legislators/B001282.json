@@ -1,0 +1,79 @@
+{
+    "bio": {
+        "birthday": "1973-07-24", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Andy Barr", 
+        "bioguide": "B001282", 
+        "cspan": 61848, 
+        "fec": [
+            "H0KY06104"
+        ], 
+        "google_entity_id": "kg:/m/0ddc6r6", 
+        "govtrack": 412541, 
+        "icpsr": 21333, 
+        "maplight": 1765, 
+        "opensecrets": "N00031233", 
+        "thomas": "02131", 
+        "votesmart": 117290, 
+        "wikidata": "Q3828645", 
+        "wikipedia": "Andy Barr (American politician)"
+    }, 
+    "name": {
+        "first": "Garland", 
+        "last": "Barr", 
+        "nickname": "Andy", 
+        "official_full": "Andy Barr"
+    }, 
+    "social": {
+        "facebook": "RepAndyBarr", 
+        "twitter": "RepAndyBarr", 
+        "twitter_id": 1089334250, 
+        "youtube": "RepAndyBarr", 
+        "youtube_id": "UCVL2s6x7f7H0ZJ-uwU0pQ6Q"
+    }, 
+    "terms": [
+        {
+            "address": "1432 Longworth HOB; Washington DC 20515-1706", 
+            "contact_form": "https://barr.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "office": "1432 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4706", 
+            "rss_url": "http://barr.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "KY", 
+            "type": "rep", 
+            "url": "http://barr.house.gov"
+        }, 
+        {
+            "address": "1432 Longworth HOB; Washington DC 20515-1706", 
+            "contact_form": "https://barr.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "office": "1432 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4706", 
+            "rss_url": "http://barr.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "KY", 
+            "type": "rep", 
+            "url": "https://barr.house.gov"
+        }, 
+        {
+            "address": "1427 Longworth House Office Building; Washington DC 20515-1706", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "office": "1427 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4706", 
+            "rss_url": "http://barr.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "KY", 
+            "type": "rep", 
+            "url": "https://barr.house.gov"
+        }
+    ]
+}

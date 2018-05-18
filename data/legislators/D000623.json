@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1952-03-31", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "D000623", 
+        "cspan": 61736, 
+        "fec": [
+            "H0CA10073"
+        ], 
+        "google_entity_id": "kg:/m/0289gkw", 
+        "govtrack": 412613, 
+        "icpsr": 21504, 
+        "maplight": 2069, 
+        "opensecrets": "N00030709", 
+        "thomas": "02227", 
+        "votesmart": 69477, 
+        "wikidata": "Q6767311", 
+        "wikipedia": "Mark DeSaulnier"
+    }, 
+    "name": {
+        "first": "Mark", 
+        "last": "DeSaulnier", 
+        "official_full": "Mark DeSaulnier"
+    }, 
+    "social": {
+        "facebook": "RepMarkDeSaulnier", 
+        "instagram": "repdesaulnier", 
+        "twitter": "RepDeSaulnier", 
+        "twitter_id": 2968007206
+    }, 
+    "terms": [
+        {
+            "address": "327 Cannon HOB; Washington DC 20515-0511", 
+            "district": 11, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5609", 
+            "office": "327 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2095", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://desaulnier.house.gov"
+        }, 
+        {
+            "address": "115 Cannon House Office Building; Washington DC 20515-0511", 
+            "district": 11, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5609", 
+            "office": "115 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2095", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://desaulnier.house.gov"
+        }
+    ]
+}

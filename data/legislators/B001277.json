@@ -1,0 +1,70 @@
+{
+    "bio": {
+        "birthday": "1946-02-13", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Richard Blumenthal", 
+        "bioguide": "B001277", 
+        "cspan": 21799, 
+        "fec": [
+            "S0CT00177"
+        ], 
+        "google_entity_id": "kg:/m/03tg8m", 
+        "govtrack": 412490, 
+        "icpsr": 41101, 
+        "lis": "S341", 
+        "maplight": 1495, 
+        "opensecrets": "N00031685", 
+        "thomas": "02076", 
+        "votesmart": 1568, 
+        "wikidata": "Q2023708", 
+        "wikipedia": "Richard Blumenthal"
+    }, 
+    "name": {
+        "first": "Richard", 
+        "last": "Blumenthal", 
+        "official_full": "Richard Blumenthal"
+    }, 
+    "social": {
+        "facebook": "SenBlumenthal", 
+        "twitter": "SenBlumenthal", 
+        "twitter_id": 278124059, 
+        "youtube": "SenatorBlumenthal", 
+        "youtube_id": "UCHH-fn3_LVt0Q4od56rOi5g"
+    }, 
+    "terms": [
+        {
+            "address": "706 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.blumenthal.senate.gov/contact/", 
+            "end": "2017-01-03", 
+            "fax": "202-224-9673", 
+            "office": "706 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2823", 
+            "rss_url": "http://www.blumenthal.senate.gov/rss/feeds/?type=all", 
+            "start": "2011-01-05", 
+            "state": "CT", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.blumenthal.senate.gov"
+        }, 
+        {
+            "address": "706 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.blumenthal.senate.gov/contact/", 
+            "end": "2023-01-03", 
+            "fax": "202-224-9673", 
+            "office": "706 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2823", 
+            "rss_url": "http://www.blumenthal.senate.gov/rss/feeds/?type=all", 
+            "start": "2017-01-03", 
+            "state": "CT", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.blumenthal.senate.gov"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1962-04-25", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Keith Rothfus", 
+        "bioguide": "R000598", 
+        "cspan": 61949, 
+        "fec": [
+            "H0PA04220"
+        ], 
+        "google_entity_id": "kg:/m/0ds0r5g", 
+        "govtrack": 412570, 
+        "icpsr": 21357, 
+        "maplight": 1794, 
+        "opensecrets": "N00031253", 
+        "thomas": "02158", 
+        "votesmart": 119466, 
+        "wikidata": "Q5978897", 
+        "wikipedia": "Keith Rothfus"
+    }, 
+    "name": {
+        "first": "Keith", 
+        "last": "Rothfus", 
+        "middle": "J.", 
+        "official_full": "Keith J. Rothfus"
+    }, 
+    "social": {
+        "facebook": "keithrothfus", 
+        "twitter": "KeithRothfus", 
+        "twitter_id": 1155212191, 
+        "youtube": "reprothfus", 
+        "youtube_id": "UCPe5SCZKXEyUAMNUprj46Pg"
+    }, 
+    "terms": [
+        {
+            "address": "503 Cannon HOB; Washington DC 20515-3812", 
+            "contact_form": "https://rothfus.house.gov/email-keith", 
+            "district": 12, 
+            "end": "2015-01-03", 
+            "office": "503 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2065", 
+            "rss_url": "http://rothfus.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "http://rothfus.house.gov"
+        }, 
+        {
+            "address": "1205 Longworth HOB; Washington DC 20515-3812", 
+            "contact_form": "https://rothfus.house.gov/email-keith", 
+            "district": 12, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5709", 
+            "office": "1205 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2065", 
+            "rss_url": "http://rothfus.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "https://rothfus.house.gov"
+        }, 
+        {
+            "address": "1205 Longworth House Office Building; Washington DC 20515-3812", 
+            "district": 12, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5709", 
+            "office": "1205 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2065", 
+            "rss_url": "http://rothfus.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "https://rothfus.house.gov"
+        }
+    ]
+}

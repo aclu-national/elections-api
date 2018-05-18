@@ -1,0 +1,77 @@
+{
+    "bio": {
+        "birthday": "1964-07-27", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "David Brat", 
+        "bioguide": "B001290", 
+        "cspan": 75248, 
+        "fec": [
+            "H4VA07143"
+        ], 
+        "google_entity_id": "kg:/m/010qykqw", 
+        "govtrack": 412605, 
+        "house_history": 15032409257, 
+        "icpsr": 21553, 
+        "maplight": 2061, 
+        "opensecrets": "N00036013", 
+        "thomas": "02203", 
+        "votesmart": 152270, 
+        "wikidata": "Q17160419", 
+        "wikipedia": "Dave Brat"
+    }, 
+    "name": {
+        "first": "David", 
+        "last": "Brat", 
+        "middle": "Alan", 
+        "nickname": "Dave", 
+        "official_full": "Dave Brat"
+    }, 
+    "social": {
+        "facebook": "RepDaveBrat", 
+        "twitter": "RepDaveBrat", 
+        "twitter_id": 2560169238
+    }, 
+    "terms": [
+        {
+            "address": "303 Cannon HOB; Washington DC 20515-4607", 
+            "contact_form": "http://brat.house.gov/contact", 
+            "district": 7, 
+            "end": "2015-01-03", 
+            "fax": "202-225-0011", 
+            "office": "303 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2815", 
+            "start": "2014-11-12", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "http://brat.house.gov/"
+        }, 
+        {
+            "address": "330 Cannon HOB; Washington DC 20515-4607", 
+            "contact_form": "http://brat.house.gov/contact", 
+            "district": 7, 
+            "end": "2017-01-03", 
+            "office": "330 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2815", 
+            "start": "2015-01-06", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "http://brat.house.gov"
+        }, 
+        {
+            "address": "1628 Longworth House Office Building; Washington DC 20515-4607", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "office": "1628 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2815", 
+            "start": "2017-01-03", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://brat.house.gov"
+        }
+    ]
+}

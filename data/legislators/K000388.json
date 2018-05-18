@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1966-03-01", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Trent Kelly", 
+        "bioguide": "K000388", 
+        "cspan": 97322, 
+        "fec": [
+            "H6MS01131"
+        ], 
+        "google_entity_id": "kg:/m/013b9qgh", 
+        "govtrack": 412673, 
+        "icpsr": 21561, 
+        "maplight": 2163, 
+        "opensecrets": "N00037003", 
+        "thomas": "02294", 
+        "votesmart": 156389, 
+        "wikidata": "Q20204915", 
+        "wikipedia": "Trent Kelly"
+    }, 
+    "name": {
+        "first": "Trent", 
+        "last": "Kelly", 
+        "official_full": "Trent Kelly"
+    }, 
+    "social": {
+        "facebook": "reptrentkelly", 
+        "instagram": "reptrentkelly", 
+        "twitter": "reptrentkelly", 
+        "twitter_id": 3317799825, 
+        "youtube_id": "UCtDrz-8tdg4ZgOAQHToSWaQ"
+    }, 
+    "terms": [
+        {
+            "address": "1427 Longworth HOB; Washington DC 20515-2401", 
+            "contact_form": "https://trentkelly.house.gov/contact", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "office": "1427 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4306", 
+            "start": "2015-06-09", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "https://trentkelly.house.gov"
+        }, 
+        {
+            "address": "1721 Longworth House Office Building; Washington DC 20515-2401", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "office": "1721 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4306", 
+            "start": "2017-01-03", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "https://trentkelly.house.gov"
+        }
+    ]
+}

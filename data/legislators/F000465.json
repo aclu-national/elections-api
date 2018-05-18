@@ -1,0 +1,50 @@
+{
+    "bio": {
+        "birthday": "1967-11-15", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Drew Ferguson", 
+        "bioguide": "F000465", 
+        "cspan": 104731, 
+        "fec": [
+            "H6GA03113"
+        ], 
+        "google_entity_id": "kg:/g/11c0xj334k", 
+        "govtrack": 412700, 
+        "icpsr": 21717, 
+        "maplight": 2212, 
+        "opensecrets": "N00039090", 
+        "votesmart": 168132, 
+        "wikidata": "Q26157659", 
+        "wikipedia": "Drew Ferguson (politician)"
+    }, 
+    "name": {
+        "first": "A.", 
+        "last": "Ferguson", 
+        "middle": "Drew", 
+        "official_full": "A. Drew Ferguson IV", 
+        "suffix": "IV"
+    }, 
+    "social": {
+        "facebook": "RepDrewFerguson", 
+        "instagram": "repdrewferguson", 
+        "twitter": "RepDrewFerguson", 
+        "twitter_id": 806583915012046854, 
+        "youtube_id": "UCuK7_j2sREWi_7wBAN477bg"
+    }, 
+    "terms": [
+        {
+            "address": "1032 Longworth House Office Building; Washington DC 20515-1003", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "office": "1032 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5901", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://ferguson.house.gov"
+        }
+    ]
+}

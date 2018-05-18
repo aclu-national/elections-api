@@ -1,0 +1,56 @@
+{
+    "bio": {
+        "birthday": "1951-03-01", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Deb Fischer", 
+        "bioguide": "F000463", 
+        "cspan": 1034067, 
+        "fec": [
+            "S2NE00094"
+        ], 
+        "google_entity_id": "kg:/m/0c4cp0", 
+        "govtrack": 412556, 
+        "house_history": 15032390640, 
+        "icpsr": 41302, 
+        "lis": "S357", 
+        "maplight": 1780, 
+        "opensecrets": "N00033443", 
+        "thomas": "02179", 
+        "votesmart": 41963, 
+        "wikidata": "Q2580649", 
+        "wikipedia": "Deb Fischer"
+    }, 
+    "name": {
+        "first": "Deb", 
+        "last": "Fischer", 
+        "official_full": "Deb Fischer"
+    }, 
+    "social": {
+        "facebook": "senatordebfischer", 
+        "instagram": "senatorfischer", 
+        "twitter": "SenatorFischer", 
+        "twitter_id": 1071402577, 
+        "youtube": "senatordebfischer", 
+        "youtube_id": "UCrbEfZaG_WhB0PBHI1hefPQ"
+    }, 
+    "terms": [
+        {
+            "address": "454 Russell Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.fischer.senate.gov/public/index.cfm/contact", 
+            "end": "2019-01-03", 
+            "fax": "202-228-1325", 
+            "office": "454 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-6551", 
+            "rss_url": "http://www.fischer.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2013-01-03", 
+            "state": "NE", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.fischer.senate.gov"
+        }
+    ]
+}

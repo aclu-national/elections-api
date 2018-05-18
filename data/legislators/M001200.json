@@ -1,0 +1,48 @@
+{
+    "bio": {
+        "birthday": "1961-10-10", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "M001200", 
+        "cspan": 103621, 
+        "fec": [
+            "H6VA04061"
+        ], 
+        "google_entity_id": "kg:/m/0979v6", 
+        "govtrack": 412728, 
+        "icpsr": 21736, 
+        "maplight": 2240, 
+        "opensecrets": "N00039327", 
+        "votesmart": 8230, 
+        "wikidata": "Q4647699", 
+        "wikipedia": "Donald McEachin"
+    }, 
+    "name": {
+        "first": "A.", 
+        "last": "McEachin", 
+        "middle": "Donald", 
+        "official_full": "A. Donald McEachin"
+    }, 
+    "social": {
+        "facebook": "RepMcEachin", 
+        "instagram": "repmceachin", 
+        "twitter": "RepMcEachin", 
+        "twitter_id": 816181091673448448, 
+        "youtube_id": "UCMoPYHuZ3fZho0ZixZCfiFg"
+    }, 
+    "terms": [
+        {
+            "address": "314 Cannon House Office Building; Washington DC 20515-4604", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "office": "314 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6365", 
+            "start": "2017-01-03", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://mceachin.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "bio": {
+        "birthday": "1947-01-23", 
+        "gender": "M", 
+        "religion": "Presbyterian"
+    }, 
+    "id": {
+        "ballotpedia": "Tom Carper", 
+        "bioguide": "C000174", 
+        "cspan": 663, 
+        "fec": [
+            "S8DE00079"
+        ], 
+        "google_entity_id": "kg:/m/01xw7t", 
+        "govtrack": 300019, 
+        "house_history": 10671, 
+        "icpsr": 15015, 
+        "lis": "S277", 
+        "maplight": 545, 
+        "opensecrets": "N00012508", 
+        "thomas": "00179", 
+        "votesmart": 22421, 
+        "wikidata": "Q457432", 
+        "wikipedia": "Tom Carper"
+    }, 
+    "name": {
+        "first": "Thomas", 
+        "last": "Carper", 
+        "middle": "Richard", 
+        "official_full": "Thomas R. Carper"
+    }, 
+    "social": {
+        "facebook": "tomcarper", 
+        "twitter": "SenatorCarper", 
+        "twitter_id": 249787913, 
+        "youtube": "senatorcarper", 
+        "youtube_id": "UCgLnvbKwu4B3navofj6Qvvw"
+    }, 
+    "terms": [
+        {
+            "district": 0, 
+            "end": "1985-01-03", 
+            "party": "Democrat", 
+            "start": "1983-01-03", 
+            "state": "DE", 
+            "type": "rep"
+        }, 
+        {
+            "district": 0, 
+            "end": "1987-01-03", 
+            "party": "Democrat", 
+            "start": "1985-01-03", 
+            "state": "DE", 
+            "type": "rep"
+        }, 
+        {
+            "district": 0, 
+            "end": "1989-01-03", 
+            "party": "Democrat", 
+            "start": "1987-01-06", 
+            "state": "DE", 
+            "type": "rep"
+        }, 
+        {
+            "district": 0, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "DE", 
+            "type": "rep"
+        }, 
+        {
+            "district": 0, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "DE", 
+            "type": "rep"
+        }, 
+        {
+            "class": 1, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "DE", 
+            "type": "sen", 
+            "url": "http://carper.senate.gov"
+        }, 
+        {
+            "address": "513 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.carper.senate.gov/contact/", 
+            "end": "2013-01-03", 
+            "fax": "202-228-2190", 
+            "office": "513 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2441", 
+            "start": "2007-01-04", 
+            "state": "DE", 
+            "type": "sen", 
+            "url": "http://carper.senate.gov"
+        }, 
+        {
+            "address": "513 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.carper.senate.gov/public/index.cfm/email-senator-carper", 
+            "end": "2019-01-03", 
+            "fax": "202-228-2190", 
+            "office": "513 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2441", 
+            "rss_url": "http://www.carper.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2013-01-03", 
+            "state": "DE", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.carper.senate.gov/public"
+        }
+    ]
+}

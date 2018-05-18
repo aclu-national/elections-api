@@ -1,0 +1,135 @@
+{
+    "bio": {
+        "birthday": "1960-01-11", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Michael R. Turner", 
+        "bioguide": "T000463", 
+        "cspan": 1003607, 
+        "fec": [
+            "H2OH03067", 
+            "H2OH03091"
+        ], 
+        "google_entity_id": "kg:/m/03440l", 
+        "govtrack": 400411, 
+        "house_history": 23206, 
+        "icpsr": 20342, 
+        "maplight": 496, 
+        "opensecrets": "N00025175", 
+        "thomas": "01741", 
+        "votesmart": 45519, 
+        "wikidata": "Q505722", 
+        "wikipedia": "Mike Turner"
+    }, 
+    "name": {
+        "first": "Michael", 
+        "last": "Turner", 
+        "middle": "R.", 
+        "official_full": "Michael R. Turner"
+    }, 
+    "social": {
+        "facebook": "RepMikeTurner", 
+        "instagram": "repmiketurner", 
+        "twitter": "RepMikeTurner", 
+        "twitter_id": 51228911, 
+        "youtube": "CongressmanTurner", 
+        "youtube_id": "UC-6Ss-aZ3OPisf9GdVGtN8g"
+    }, 
+    "terms": [
+        {
+            "district": 3, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/miketurner"
+        }, 
+        {
+            "district": 3, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/miketurner"
+        }, 
+        {
+            "district": 3, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/miketurner"
+        }, 
+        {
+            "district": 3, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/miketurner"
+        }, 
+        {
+            "address": "2454 Rayburn HOB; Washington DC 20515-3503", 
+            "contact_form": "http://turner.house.gov/Contact/", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-225-6754", 
+            "office": "2454 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6465", 
+            "start": "2011-01-05", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://turner.house.gov/"
+        }, 
+        {
+            "address": "2239 Rayburn HOB; Washington DC 20515-3510", 
+            "contact_form": "http://turner.house.gov/contact/", 
+            "district": 10, 
+            "end": "2015-01-03", 
+            "fax": "202-225-6754", 
+            "office": "2239 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6465", 
+            "rss_url": "http://turner.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://turner.house.gov"
+        }, 
+        {
+            "address": "2239 Rayburn HOB; Washington DC 20515-3510", 
+            "contact_form": "http://turner.house.gov/contact/", 
+            "district": 10, 
+            "end": "2017-01-03", 
+            "fax": "202-225-6754", 
+            "office": "2239 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6465", 
+            "rss_url": "http://turner.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://turner.house.gov"
+        }, 
+        {
+            "address": "2368 Rayburn House Office Building; Washington DC 20515-3510", 
+            "district": 10, 
+            "end": "2019-01-03", 
+            "fax": "202-225-6754", 
+            "office": "2368 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6465", 
+            "rss_url": "http://turner.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://turner.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "bio": {
+        "birthday": "1955-10-07", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Bill Foster", 
+        "bioguide": "F000454", 
+        "cspan": 1027346, 
+        "fec": [
+            "H8IL14067", 
+            "H2IL11124"
+        ], 
+        "google_entity_id": "kg:/m/02rq8nc", 
+        "govtrack": 412257, 
+        "house_history": 13555, 
+        "icpsr": 20749, 
+        "maplight": 738, 
+        "opensecrets": "N00029139", 
+        "thomas": "01888", 
+        "votesmart": 101632, 
+        "wikidata": "Q2903389", 
+        "wikipedia": "Bill Foster (politician)"
+    }, 
+    "name": {
+        "first": "Bill", 
+        "last": "Foster", 
+        "official_full": "Bill Foster"
+    }, 
+    "social": {
+        "facebook": "CongressmanBillFoster", 
+        "twitter": "RepBillFoster", 
+        "twitter_id": 1080509366, 
+        "youtube": "RepBillFoster", 
+        "youtube_id": "UCicixINQr_-3cFHI2bJzFpQ"
+    }, 
+    "terms": [
+        {
+            "district": 14, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2008-03-08", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://foster.house.gov"
+        }, 
+        {
+            "district": 14, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://foster.house.gov"
+        }, 
+        {
+            "address": "1224 Longworth HOB; Washington DC 20515-1311", 
+            "contact_form": "https://foster.house.gov/contact/email-me", 
+            "district": 11, 
+            "end": "2015-01-03", 
+            "fax": "202-225-9420", 
+            "office": "1224 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3515", 
+            "rss_url": "http://foster.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://foster.house.gov"
+        }, 
+        {
+            "address": "1224 Longworth HOB; Washington DC 20515-1311", 
+            "contact_form": "https://foster.house.gov/contact/email-me", 
+            "district": 11, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9420", 
+            "office": "1224 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3515", 
+            "rss_url": "http://foster.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://foster.house.gov"
+        }, 
+        {
+            "address": "1224 Longworth House Office Building; Washington DC 20515-1311", 
+            "district": 11, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9420", 
+            "office": "1224 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3515", 
+            "rss_url": "http://foster.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "https://foster.house.gov"
+        }
+    ]
+}

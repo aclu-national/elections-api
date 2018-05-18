@@ -1,0 +1,72 @@
+{
+    "bio": {
+        "birthday": "1953-07-24", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Claire McCaskill", 
+        "bioguide": "M001170", 
+        "cspan": 1012014, 
+        "fec": [
+            "S6MO00305", 
+            "P80005721"
+        ], 
+        "google_entity_id": "kg:/m/040_w4", 
+        "govtrack": 412243, 
+        "house_history": 18811, 
+        "icpsr": 40701, 
+        "lis": "S312", 
+        "maplight": 725, 
+        "opensecrets": "N00027694", 
+        "thomas": "01820", 
+        "votesmart": 2109, 
+        "wikidata": "Q22260", 
+        "wikipedia": "Claire McCaskill"
+    }, 
+    "name": {
+        "first": "Claire", 
+        "last": "McCaskill", 
+        "official_full": "Claire McCaskill"
+    }, 
+    "social": {
+        "facebook": "senatormccaskill", 
+        "instagram": "clairecmc", 
+        "instagram_id": 182810702, 
+        "twitter": "McCaskillOffice", 
+        "twitter_id": 57065141, 
+        "youtube": "SenatorMcCaskill", 
+        "youtube_id": "UCnarZ9jmNhI-eDcEPBwqMFw"
+    }, 
+    "terms": [
+        {
+            "address": "506 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.mccaskill.senate.gov/?p=contact", 
+            "end": "2013-01-03", 
+            "fax": "202-228-6326", 
+            "office": "506 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-6154", 
+            "start": "2007-01-04", 
+            "state": "MO", 
+            "type": "sen", 
+            "url": "http://mccaskill.senate.gov/"
+        }, 
+        {
+            "address": "503 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.mccaskill.senate.gov/contact", 
+            "end": "2019-01-03", 
+            "fax": "202-228-6326", 
+            "office": "503 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-6154", 
+            "rss_url": "http://mccaskill.senate.gov/rss/?p=news", 
+            "start": "2013-01-03", 
+            "state": "MO", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.mccaskill.senate.gov"
+        }
+    ]
+}

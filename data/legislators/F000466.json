@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1973-12-17", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "F000466", 
+        "cspan": 103537, 
+        "fec": [
+            "H6PA08277"
+        ], 
+        "google_entity_id": "kg:/g/11c2l6lhlm", 
+        "govtrack": 412721, 
+        "icpsr": 21718, 
+        "maplight": 2233, 
+        "opensecrets": "N00038779", 
+        "votesmart": 167708, 
+        "wikidata": "Q27831059", 
+        "wikipedia": "Brian Fitzpatrick (American politician)"
+    }, 
+    "name": {
+        "first": "Brian", 
+        "last": "Fitzpatrick", 
+        "official_full": "Brian K. Fitzpatrick"
+    }, 
+    "social": {
+        "facebook": "repbrianfitzpatrick", 
+        "instagram": "repbrianfitz", 
+        "twitter": "repbrianfitz", 
+        "twitter_id": 816303263586914304, 
+        "youtube_id": "UCYMNcgHss4_Q5JY2vSvMpgw"
+    }, 
+    "terms": [
+        {
+            "address": "514 Cannon House Office Building; Washington DC 20515-3808", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "office": "514 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4276", 
+            "start": "2017-01-03", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "https://fitzpatrick.house.gov"
+        }
+    ]
+}

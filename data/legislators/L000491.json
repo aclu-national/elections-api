@@ -1,0 +1,174 @@
+{
+    "bio": {
+        "birthday": "1960-01-06", 
+        "gender": "M", 
+        "religion": "Baptist"
+    }, 
+    "id": {
+        "ballotpedia": "Frank D. Lucas", 
+        "bioguide": "L000491", 
+        "cspan": 35692, 
+        "fec": [
+            "H4OK06056"
+        ], 
+        "google_entity_id": "kg:/m/033tnk", 
+        "govtrack": 400247, 
+        "house_history": 17205, 
+        "icpsr": 29393, 
+        "maplight": 347, 
+        "opensecrets": "N00005559", 
+        "thomas": "00711", 
+        "votesmart": 27032, 
+        "wikidata": "Q246049", 
+        "wikipedia": "Frank Lucas (Oklahoma politician)"
+    }, 
+    "name": {
+        "first": "Frank", 
+        "last": "Lucas", 
+        "middle": "D.", 
+        "official_full": "Frank D. Lucas"
+    }, 
+    "social": {
+        "facebook": "RepFrankLucas", 
+        "twitter": "RepFrankLucas", 
+        "twitter_id": 242772524, 
+        "youtube": "RepFrankLucas", 
+        "youtube_id": "UCdYZbKY8pkWAThqwC3fdVMg"
+    }, 
+    "terms": [
+        {
+            "district": 6, 
+            "end": "1995-01-03", 
+            "party": "Republican", 
+            "start": "1993-05-10", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "OK", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lucas"
+        }, 
+        {
+            "district": 3, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lucas"
+        }, 
+        {
+            "district": 3, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lucas"
+        }, 
+        {
+            "district": 3, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lucas"
+        }, 
+        {
+            "address": "2311 Rayburn HOB; Washington DC 20515-3603", 
+            "contact_form": "http://www.house.gov/lucas/zipauth.htm", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-225-8698", 
+            "office": "2311 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5565", 
+            "start": "2011-01-05", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lucas"
+        }, 
+        {
+            "address": "2311 Rayburn HOB; Washington DC 20515-3603", 
+            "contact_form": "https://lucas.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2015-01-03", 
+            "fax": "202-225-8698", 
+            "office": "2311 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5565", 
+            "rss_url": "http://lucas.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://lucas.house.gov"
+        }, 
+        {
+            "address": "2405 Rayburn HOB; Washington DC 20515-3603", 
+            "contact_form": "https://lucas.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-225-8698", 
+            "office": "2405 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5565", 
+            "rss_url": "http://lucas.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://lucas.house.gov"
+        }, 
+        {
+            "address": "2405 Rayburn House Office Building; Washington DC 20515-3603", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-225-8698", 
+            "office": "2405 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5565", 
+            "rss_url": "http://lucas.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "https://lucas.house.gov"
+        }
+    ]
+}

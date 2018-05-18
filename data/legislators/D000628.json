@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1953-02-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "D000628", 
+        "cspan": 104529, 
+        "fec": [
+            "H6FL02208"
+        ], 
+        "google_entity_id": "kg:/g/11c2ld4vv7", 
+        "govtrack": 412691, 
+        "icpsr": 21714, 
+        "maplight": 2203, 
+        "opensecrets": "N00037442", 
+        "votesmart": 166297, 
+        "wikidata": "Q27733851", 
+        "wikipedia": "Neal Dunn"
+    }, 
+    "name": {
+        "first": "Neal", 
+        "last": "Dunn", 
+        "official_full": "Neal P. Dunn"
+    }, 
+    "social": {
+        "facebook": "drnealdunnfl2", 
+        "twitter": "drnealdunnfl2", 
+        "twitter_id": 815952318487298048, 
+        "youtube_id": "UCRTGfrYP-RuDzJ2KGok7TRA"
+    }, 
+    "terms": [
+        {
+            "address": "423 Cannon House Office Building; Washington DC 20515-0902", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "office": "423 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5235", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://dunn.house.gov"
+        }
+    ]
+}

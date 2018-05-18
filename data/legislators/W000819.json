@@ -1,0 +1,63 @@
+{
+    "bio": {
+        "birthday": "1969-05-20", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "W000819", 
+        "cspan": 76376, 
+        "fec": [
+            "H4NC06052"
+        ], 
+        "google_entity_id": "kg:/m/0115r5gz", 
+        "govtrack": 412670, 
+        "icpsr": 21543, 
+        "maplight": 2126, 
+        "opensecrets": "N00035311", 
+        "thomas": "02255", 
+        "votesmart": 146255, 
+        "wikidata": "Q17388892", 
+        "wikipedia": "Mark Walker (North Carolina politician)"
+    }, 
+    "name": {
+        "first": "Mark", 
+        "last": "Walker", 
+        "official_full": "Mark Walker"
+    }, 
+    "social": {
+        "facebook": "RepMarkWalker", 
+        "instagram": "repmarkwalker", 
+        "instagram_id": 1638422078, 
+        "twitter": "RepMarkWalker", 
+        "twitter_id": 2966205003, 
+        "youtube_id": "UC2w0KJe43jr0Hlhi6J5smhg"
+    }, 
+    "terms": [
+        {
+            "address": "312 Cannon HOB; Washington DC 20515-3306", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "fax": "202-225-8611", 
+            "office": "312 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3065", 
+            "start": "2015-01-06", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "https://walker.house.gov"
+        }, 
+        {
+            "address": "1305 Longworth House Office Building; Washington DC 20515-3306", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "fax": "202-225-8611", 
+            "office": "1305 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3065", 
+            "start": "2017-01-03", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "https://walker.house.gov"
+        }
+    ]
+}

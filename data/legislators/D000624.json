@@ -1,0 +1,63 @@
+{
+    "bio": {
+        "birthday": "1953-11-23", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "D000624", 
+        "cspan": 20818, 
+        "fec": [
+            "H4MI12079"
+        ], 
+        "google_entity_id": "kg:/m/03m4188", 
+        "govtrack": 412637, 
+        "house_history": 15032409588, 
+        "icpsr": 21529, 
+        "maplight": 2093, 
+        "opensecrets": "N00036149", 
+        "thomas": "02251", 
+        "votesmart": 152482, 
+        "wikidata": "Q5248232", 
+        "wikipedia": "Debbie Dingell"
+    }, 
+    "name": {
+        "first": "Debbie", 
+        "last": "Dingell", 
+        "official_full": "Debbie Dingell"
+    }, 
+    "social": {
+        "facebook": "RepDebbieDingell", 
+        "instagram": "repdingell", 
+        "twitter": "RepDebDingell", 
+        "twitter_id": 2970279814, 
+        "youtube_id": "UCnoP3KLT-HOvzDfC1-I-9lQ"
+    }, 
+    "terms": [
+        {
+            "address": "116 Cannon HOB; Washington DC 20515-2212", 
+            "district": 12, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0371", 
+            "office": "116 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4071", 
+            "start": "2015-01-06", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://debbiedingell.house.gov"
+        }, 
+        {
+            "address": "116 Cannon House Office Building; Washington DC 20515-2212", 
+            "district": 12, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0371", 
+            "office": "116 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4071", 
+            "start": "2017-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://debbiedingell.house.gov"
+        }
+    ]
+}

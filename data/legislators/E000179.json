@@ -1,0 +1,186 @@
+{
+    "bio": {
+        "birthday": "1947-02-18", 
+        "gender": "M", 
+        "religion": "Jewish"
+    }, 
+    "id": {
+        "bioguide": "E000179", 
+        "cspan": 6109, 
+        "fec": [
+            "H8NY19058"
+        ], 
+        "google_entity_id": "kg:/m/03tt1r", 
+        "govtrack": 400122, 
+        "house_history": 12815, 
+        "icpsr": 15603, 
+        "maplight": 233, 
+        "opensecrets": "N00001003", 
+        "thomas": "00344", 
+        "votesmart": 26972, 
+        "wikidata": "Q1329618", 
+        "wikipedia": "Eliot Engel"
+    }, 
+    "name": {
+        "first": "Eliot", 
+        "last": "Engel", 
+        "middle": "L.", 
+        "official_full": "Eliot L. Engel"
+    }, 
+    "social": {
+        "facebook": "RepEliotLEngel", 
+        "twitter": "RepEliotEngel", 
+        "twitter_id": 164007407, 
+        "youtube": "engel2161", 
+        "youtube_id": "UCZ-ctBF-a6CYPJWDoBV_JyA"
+    }, 
+    "terms": [
+        {
+            "district": 19, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 19, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 17, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 17, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 17, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 17, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 17, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 17, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/engel"
+        }, 
+        {
+            "district": 17, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/engel"
+        }, 
+        {
+            "district": 17, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/engel"
+        }, 
+        {
+            "district": 17, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/engel"
+        }, 
+        {
+            "address": "2161 Rayburn HOB; Washington DC 20515-3217", 
+            "contact_form": "http://www.house.gov/writerep", 
+            "district": 17, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5513", 
+            "office": "2161 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2464", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/engel"
+        }, 
+        {
+            "address": "2161 Rayburn HOB; Washington DC 20515-3216", 
+            "contact_form": "https://engel.house.gov/write-your-rep1", 
+            "district": 16, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5513", 
+            "office": "2161 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2464", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://engel.house.gov"
+        }, 
+        {
+            "address": "2462 Rayburn HOB; Washington DC 20515-3216", 
+            "contact_form": "https://engel.house.gov/write-your-rep1", 
+            "district": 16, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5513", 
+            "office": "2462 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2464", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://engel.house.gov"
+        }, 
+        {
+            "address": "2462 Rayburn House Office Building; Washington DC 20515-3216", 
+            "district": 16, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5513", 
+            "office": "2462 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2464", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://engel.house.gov"
+        }
+    ]
+}

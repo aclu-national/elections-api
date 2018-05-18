@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1984-07-02", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "S001196", 
+        "cspan": 76364, 
+        "fec": [
+            "H4NY21079"
+        ], 
+        "google_entity_id": "kg:/m/0110fjsf", 
+        "govtrack": 412648, 
+        "house_history": 15032411587, 
+        "icpsr": 21541, 
+        "maplight": 2104, 
+        "opensecrets": "N00035523", 
+        "thomas": "02263", 
+        "votesmart": 152539, 
+        "wikidata": "Q18211057", 
+        "wikipedia": "Elise Stefanik"
+    }, 
+    "name": {
+        "first": "Elise", 
+        "last": "Stefanik", 
+        "official_full": "Elise M. Stefanik"
+    }, 
+    "social": {
+        "facebook": "RepEliseStefanik", 
+        "twitter": "RepStefanik", 
+        "twitter_id": 2962813893, 
+        "youtube_id": "UCHvf42C8Vw6QnjwO2L2ukKA"
+    }, 
+    "terms": [
+        {
+            "address": "512 Cannon HOB; Washington DC 20515-3221", 
+            "district": 21, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0621", 
+            "office": "512 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4611", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://stefanik.house.gov"
+        }, 
+        {
+            "address": "318 Cannon House Office Building; Washington DC 20515-3221", 
+            "district": 21, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0621", 
+            "office": "318 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4611", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://stefanik.house.gov"
+        }
+    ]
+}

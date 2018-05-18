@@ -1,0 +1,97 @@
+{
+    "bio": {
+        "birthday": "1966-01-07", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Jeff Duncan", 
+        "bioguide": "D000615", 
+        "cspan": 62713, 
+        "fec": [
+            "H0SC03077"
+        ], 
+        "google_entity_id": "kg:/m/0ddgp1k", 
+        "govtrack": 412472, 
+        "house_history": 12602, 
+        "icpsr": 21174, 
+        "maplight": 1477, 
+        "opensecrets": "N00030752", 
+        "thomas": "02057", 
+        "votesmart": 47967, 
+        "wikidata": "Q1027026", 
+        "wikipedia": "Jeff Duncan (politician)"
+    }, 
+    "name": {
+        "first": "Jeff", 
+        "last": "Duncan", 
+        "official_full": "Jeff Duncan"
+    }, 
+    "social": {
+        "facebook": "RepJeffDuncan", 
+        "instagram": "repjeffduncan", 
+        "instagram_id": 382897929, 
+        "twitter": "RepJeffDuncan", 
+        "twitter_id": 240393970, 
+        "youtube": "congjeffduncan", 
+        "youtube_id": "UC1tuXL6ymImdpKYGEAH83QA"
+    }, 
+    "terms": [
+        {
+            "address": "116 Cannon HOB; Washington DC 20515-4003", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3216", 
+            "office": "116 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5301", 
+            "start": "2011-01-05", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "http://jeffduncan.house.gov/"
+        }, 
+        {
+            "address": "116 Cannon HOB; Washington DC 20515-4003", 
+            "contact_form": "https://jeffduncan.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3216", 
+            "office": "116 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5301", 
+            "rss_url": "http://jeffduncan.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "http://jeffduncan.house.gov"
+        }, 
+        {
+            "address": "106 Cannon HOB; Washington DC 20515-4003", 
+            "contact_form": "https://jeffduncan.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3216", 
+            "office": "106 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5301", 
+            "rss_url": "http://jeffduncan.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "http://jeffduncan.house.gov"
+        }, 
+        {
+            "address": "2229 Rayburn House Office Building; Washington DC 20515-4003", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3216", 
+            "office": "2229 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5301", 
+            "rss_url": "http://jeffduncan.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "https://jeffduncan.house.gov"
+        }
+    ]
+}

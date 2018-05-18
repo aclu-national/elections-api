@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1961-11-21", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "B001304", 
+        "cspan": 1029537, 
+        "fec": [
+            "H6MD04209"
+        ], 
+        "google_entity_id": "kg:/m/09v6fg", 
+        "govtrack": 412707, 
+        "icpsr": 21707, 
+        "maplight": 2219, 
+        "opensecrets": "N00036999", 
+        "votesmart": 19344, 
+        "wikidata": "Q4772558", 
+        "wikipedia": "Anthony G. Brown"
+    }, 
+    "name": {
+        "first": "Anthony", 
+        "last": "Brown", 
+        "official_full": "Anthony G. Brown"
+    }, 
+    "social": {
+        "facebook": "RepAnthonyBrown", 
+        "twitter": "RepAnthonyBrown", 
+        "twitter_id": 823552974253342721, 
+        "youtube": "RepAnthonyBrown"
+    }, 
+    "terms": [
+        {
+            "address": "1505 Longworth House Office Building; Washington DC 20515-2004", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "office": "1505 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8699", 
+            "start": "2017-01-03", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "https://anthonybrown.house.gov"
+        }
+    ]
+}

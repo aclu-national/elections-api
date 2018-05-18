@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1955-09-23", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "L000587", 
+        "cspan": 155, 
+        "fec": [
+            "H6MN02149"
+        ], 
+        "google_entity_id": "kg:/m/0fx5rd", 
+        "govtrack": 412711, 
+        "icpsr": 21733, 
+        "maplight": 2223, 
+        "opensecrets": "N00038400", 
+        "votesmart": 171558, 
+        "wikidata": "Q6162964", 
+        "wikipedia": "Jason Lewis (Minnesota politician)"
+    }, 
+    "name": {
+        "first": "Jason", 
+        "last": "Lewis", 
+        "official_full": "Jason Lewis"
+    }, 
+    "social": {
+        "facebook": "RepJasonLewis", 
+        "twitter": "RepJasonLewis", 
+        "twitter_id": 816047090849746945
+    }, 
+    "terms": [
+        {
+            "address": "418 Cannon House Office Building; Washington DC 20515-2302", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "office": "418 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2271", 
+            "start": "2017-01-03", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "https://jasonlewis.house.gov"
+        }
+    ]
+}

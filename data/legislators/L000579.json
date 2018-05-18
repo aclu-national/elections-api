@@ -1,0 +1,82 @@
+{
+    "bio": {
+        "birthday": "1941-03-08", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Alan Lowenthal", 
+        "bioguide": "L000579", 
+        "cspan": 93815, 
+        "fec": [
+            "H2CA00104"
+        ], 
+        "google_entity_id": "kg:/m/027jz0m", 
+        "govtrack": 412521, 
+        "icpsr": 21313, 
+        "maplight": 1745, 
+        "opensecrets": "N00033274", 
+        "thomas": "02111", 
+        "votesmart": 16469, 
+        "wikidata": "Q3740782", 
+        "wikipedia": "Alan Lowenthal"
+    }, 
+    "name": {
+        "first": "Alan", 
+        "last": "Lowenthal", 
+        "middle": "S.", 
+        "official_full": "Alan S. Lowenthal"
+    }, 
+    "social": {
+        "facebook": "RepLowenthal", 
+        "twitter": "RepLowenthal", 
+        "twitter_id": 1055730738, 
+        "youtube": "RepLowenthal", 
+        "youtube_id": "UC-GgROtn5Hxm1H9a6qvy_Wg"
+    }, 
+    "terms": [
+        {
+            "address": "515 Cannon HOB; Washington DC 20515-0547", 
+            "contact_form": "http://lowenthal.house.gov/contact/howtocontactme.htm", 
+            "district": 47, 
+            "end": "2015-01-03", 
+            "fax": "202-225-7926", 
+            "office": "515 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7924", 
+            "rss_url": "http://lowenthal.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lowenthal.house.gov"
+        }, 
+        {
+            "address": "108 Cannon HOB; Washington DC 20515-0547", 
+            "contact_form": "http://lowenthal.house.gov/contact/howtocontactme.htm", 
+            "district": 47, 
+            "end": "2017-01-03", 
+            "fax": "202-225-7926", 
+            "office": "108 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7924", 
+            "rss_url": "http://lowenthal.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lowenthal.house.gov"
+        }, 
+        {
+            "address": "125 Cannon House Office Building; Washington DC 20515-0547", 
+            "district": 47, 
+            "end": "2019-01-03", 
+            "fax": "202-225-7926", 
+            "office": "125 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7924", 
+            "rss_url": "http://lowenthal.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://lowenthal.house.gov"
+        }
+    ]
+}

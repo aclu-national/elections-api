@@ -1,0 +1,118 @@
+{
+    "bio": {
+        "birthday": "1962-05-22", 
+        "gender": "M"
+    }, 
+    "family": [
+        {
+            "name": "Senator Paul Sarbanes", 
+            "relation": "son"
+        }
+    ], 
+    "id": {
+        "bioguide": "S001168", 
+        "cspan": 1022884, 
+        "fec": [
+            "H6MD03292"
+        ], 
+        "google_entity_id": "kg:/m/08_r8n", 
+        "govtrack": 412212, 
+        "house_history": 22592, 
+        "icpsr": 20724, 
+        "maplight": 697, 
+        "opensecrets": "N00027751", 
+        "thomas": "01854", 
+        "votesmart": 66575, 
+        "wikidata": "Q984509", 
+        "wikipedia": "John Sarbanes"
+    }, 
+    "name": {
+        "first": "John", 
+        "last": "Sarbanes", 
+        "middle": "P.", 
+        "official_full": "John P. Sarbanes"
+    }, 
+    "social": {
+        "facebook": "RepSarbanes", 
+        "twitter": "RepSarbanes", 
+        "twitter_id": 364415553
+    }, 
+    "terms": [
+        {
+            "district": 3, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://sarbanes.house.gov"
+        }, 
+        {
+            "district": 3, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://sarbanes.house.gov"
+        }, 
+        {
+            "address": "2444 Rayburn HOB; Washington DC 20515-2003", 
+            "contact_form": "http://sarbanes.house.gov/federal.asp", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-225-9219", 
+            "office": "2444 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4016", 
+            "start": "2011-01-05", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://sarbanes.house.gov"
+        }, 
+        {
+            "address": "2444 Rayburn HOB; Washington DC 20515-2003", 
+            "contact_form": "http://sarbanes.house.gov/federal.asp", 
+            "district": 3, 
+            "end": "2015-01-03", 
+            "fax": "202-225-9219", 
+            "office": "2444 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4016", 
+            "rss_url": "http://sarbanes.house.gov/rss_news.asp", 
+            "start": "2013-01-03", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://sarbanes.house.gov"
+        }, 
+        {
+            "address": "2444 Rayburn HOB; Washington DC 20515-2003", 
+            "contact_form": "http://sarbanes.house.gov/federal.asp", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9219", 
+            "office": "2444 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4016", 
+            "rss_url": "http://sarbanes.house.gov/rss_news.asp", 
+            "start": "2015-01-06", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "https://sarbanes.house.gov"
+        }, 
+        {
+            "address": "2444 Rayburn House Office Building; Washington DC 20515-2003", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9219", 
+            "office": "2444 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4016", 
+            "rss_url": "http://sarbanes.house.gov/rss_news.asp", 
+            "start": "2017-01-03", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "https://sarbanes.house.gov"
+        }
+    ]
+}

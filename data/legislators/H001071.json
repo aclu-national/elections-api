@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1960-04-22", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "H001071", 
+        "cspan": 94974, 
+        "fec": [
+            "H0GA07125"
+        ], 
+        "google_entity_id": "kg:/m/0640dpx", 
+        "govtrack": 412623, 
+        "icpsr": 21514, 
+        "maplight": 2079, 
+        "opensecrets": "N00032243", 
+        "thomas": "02237", 
+        "votesmart": 122246, 
+        "wikidata": "Q6208081", 
+        "wikipedia": "Jody Hice"
+    }, 
+    "name": {
+        "first": "Jody", 
+        "last": "Hice", 
+        "official_full": "Jody B. Hice"
+    }, 
+    "social": {
+        "facebook": "CongressmanJodyHice", 
+        "twitter": "congressmanhice", 
+        "twitter_id": 2975091705, 
+        "youtube_id": "UCzUMsS8DusN2QLpgweFthgQ"
+    }, 
+    "terms": [
+        {
+            "address": "1516 Longworth HOB; Washington DC 20515-1010", 
+            "district": 10, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0776", 
+            "office": "1516 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4101", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://hice.house.gov"
+        }, 
+        {
+            "address": "324 Cannon House Office Building; Washington DC 20515-1010", 
+            "district": 10, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0776", 
+            "office": "324 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4101", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://hice.house.gov"
+        }
+    ]
+}

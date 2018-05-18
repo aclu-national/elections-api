@@ -1,0 +1,63 @@
+{
+    "bio": {
+        "birthday": "1945-02-06", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "W000822", 
+        "cspan": 79091, 
+        "fec": [
+            "H4NJ12149"
+        ], 
+        "google_entity_id": "kg:/m/08kj70", 
+        "govtrack": 412644, 
+        "house_history": 15032409972, 
+        "icpsr": 21538, 
+        "maplight": 2100, 
+        "opensecrets": "N00036158", 
+        "thomas": "02259", 
+        "votesmart": 24799, 
+        "wikidata": "Q4942457", 
+        "wikipedia": "Bonnie Watson Coleman"
+    }, 
+    "name": {
+        "first": "Bonnie", 
+        "last": "Watson Coleman", 
+        "official_full": "Bonnie Watson Coleman"
+    }, 
+    "social": {
+        "facebook": "RepBonnie", 
+        "instagram": "repbonnie", 
+        "twitter": "RepBonnie", 
+        "twitter_id": 2968451607, 
+        "youtube_id": "UCrxEaX0VKZKwg3930du2D5A"
+    }, 
+    "terms": [
+        {
+            "address": "126 Cannon HOB; Washington DC 20515-3012", 
+            "district": 12, 
+            "end": "2017-01-03", 
+            "fax": "202-225-6025", 
+            "office": "126 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5801", 
+            "start": "2015-01-06", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "https://watsoncoleman.house.gov"
+        }, 
+        {
+            "address": "1535 Longworth House Office Building; Washington DC 20515-3012", 
+            "district": 12, 
+            "end": "2019-01-03", 
+            "fax": "202-225-6025", 
+            "office": "1535 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5801", 
+            "start": "2017-01-03", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "https://watsoncoleman.house.gov"
+        }
+    ]
+}

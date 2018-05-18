@@ -1,0 +1,97 @@
+{
+    "bio": {
+        "birthday": "1954-11-10", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Bill Johnson (Ohio)", 
+        "bioguide": "J000292", 
+        "cspan": 623472, 
+        "fec": [
+            "H0OH06189"
+        ], 
+        "google_entity_id": "kg:/m/0ds3q2f", 
+        "govtrack": 412460, 
+        "house_history": 16071, 
+        "icpsr": 21162, 
+        "maplight": 1466, 
+        "opensecrets": "N00032088", 
+        "thomas": "02046", 
+        "votesmart": 120649, 
+        "wikidata": "Q862215", 
+        "wikipedia": "Bill Johnson (Ohio politician)"
+    }, 
+    "name": {
+        "first": "Bill", 
+        "last": "Johnson", 
+        "official_full": "Bill Johnson"
+    }, 
+    "social": {
+        "facebook": "RepBillJohnson", 
+        "instagram": "repbilljohnson", 
+        "instagram_id": 763495818, 
+        "twitter": "RepBillJohnson", 
+        "twitter_id": 211530910, 
+        "youtube": "RepBillJohnson", 
+        "youtube_id": "UCtF08Ay71haDRoJosRN2P_Q"
+    }, 
+    "terms": [
+        {
+            "address": "317 Cannon HOB; Washington DC 20515-3506", 
+            "district": 6, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5907", 
+            "office": "317 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5705", 
+            "start": "2011-01-05", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://billjohnson.house.gov/"
+        }, 
+        {
+            "address": "1710 Longworth HOB; Washington DC 20515-3506", 
+            "contact_form": "http://billjohnson.house.gov/contact/default.aspx", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5907", 
+            "office": "1710 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5705", 
+            "rss_url": "http://billjohnson.house.gov/constituentservices/opendoorsschedule.htm", 
+            "start": "2013-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://billjohnson.house.gov"
+        }, 
+        {
+            "address": "1710 Longworth HOB; Washington DC 20515-3506", 
+            "contact_form": "http://billjohnson.house.gov/contact/default.aspx", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5907", 
+            "office": "1710 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5705", 
+            "rss_url": "http://billjohnson.house.gov/constituentservices/opendoorsschedule.htm", 
+            "start": "2015-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://billjohnson.house.gov"
+        }, 
+        {
+            "address": "1710 Longworth House Office Building; Washington DC 20515-3506", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5907", 
+            "office": "1710 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5705", 
+            "rss_url": "http://billjohnson.house.gov/constituentservices/opendoorsschedule.htm", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://billjohnson.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1963-04-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "John Delaney", 
+        "bioguide": "D000620", 
+        "cspan": 68432, 
+        "fec": [
+            "H2MD06195"
+        ], 
+        "google_entity_id": "kg:/m/09g8h5d", 
+        "govtrack": 412544, 
+        "icpsr": 21334, 
+        "maplight": 1768, 
+        "opensecrets": "N00033897", 
+        "thomas": "02133", 
+        "votesmart": 135143, 
+        "wikidata": "Q2688821", 
+        "wikipedia": "John Delaney (Maryland politician)"
+    }, 
+    "name": {
+        "first": "John", 
+        "last": "Delaney", 
+        "middle": "K.", 
+        "official_full": "John K. Delaney"
+    }, 
+    "social": {
+        "facebook": "congressmanjohndelaney", 
+        "twitter": "RepJohnDelaney", 
+        "twitter_id": 937723303, 
+        "youtube": "repjohndelaney", 
+        "youtube_id": "UC-Sz2M53ZYi_8MvapFKZJiw"
+    }, 
+    "terms": [
+        {
+            "address": "1632 Longworth HOB; Washington DC 20515-2006", 
+            "contact_form": "https://delaney.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "office": "1632 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2721", 
+            "rss_url": "http://delaney.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://delaney.house.gov"
+        }, 
+        {
+            "address": "1632 Longworth HOB; Washington DC 20515-2006", 
+            "contact_form": "https://delaney.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "fax": "202-225-2193", 
+            "office": "1632 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2721", 
+            "rss_url": "http://delaney.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://delaney.house.gov"
+        }, 
+        {
+            "address": "1632 Longworth House Office Building; Washington DC 20515-2006", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2193", 
+            "office": "1632 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2721", 
+            "rss_url": "http://delaney.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "https://delaney.house.gov"
+        }
+    ]
+}

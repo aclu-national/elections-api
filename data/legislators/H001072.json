@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1956-12-05", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "H001072", 
+        "cspan": 9265172, 
+        "fec": [
+            "H4AR02141"
+        ], 
+        "google_entity_id": "kg:/m/0127p1zk", 
+        "govtrack": 412609, 
+        "icpsr": 21503, 
+        "maplight": 2065, 
+        "opensecrets": "N00035792", 
+        "thomas": "02223", 
+        "votesmart": 146290, 
+        "wikidata": "Q18631366", 
+        "wikipedia": "French Hill (politician)"
+    }, 
+    "name": {
+        "first": "French", 
+        "last": "Hill", 
+        "official_full": "J. French Hill"
+    }, 
+    "social": {
+        "facebook": "RepFrenchHill", 
+        "instagram": "repfrenchhill", 
+        "twitter": "RepFrenchHill", 
+        "twitter_id": 2953974395, 
+        "youtube_id": "UCT8uWroJtkwSsCJlVg0IKvQ"
+    }, 
+    "terms": [
+        {
+            "address": "1229 Longworth HOB; Washington DC 20515-0402", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5903", 
+            "office": "1229 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2506", 
+            "start": "2015-01-06", 
+            "state": "AR", 
+            "type": "rep", 
+            "url": "https://hill.house.gov"
+        }, 
+        {
+            "address": "1229 Longworth House Office Building; Washington DC 20515-0402", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5903", 
+            "office": "1229 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2506", 
+            "start": "2017-01-03", 
+            "state": "AR", 
+            "type": "rep", 
+            "url": "https://hill.house.gov"
+        }
+    ]
+}

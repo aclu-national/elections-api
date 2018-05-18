@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1966-08-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Doug Collins", 
+        "bioguide": "C001093", 
+        "cspan": 79719, 
+        "fec": [
+            "H2GA09150"
+        ], 
+        "google_entity_id": "kg:/m/0lq9rkz", 
+        "govtrack": 412531, 
+        "icpsr": 21323, 
+        "maplight": 1755, 
+        "opensecrets": "N00033518", 
+        "thomas": "02121", 
+        "votesmart": 67851, 
+        "wikidata": "Q3162841", 
+        "wikipedia": "Doug Collins (politician)"
+    }, 
+    "name": {
+        "first": "Doug", 
+        "last": "Collins", 
+        "official_full": "Doug Collins"
+    }, 
+    "social": {
+        "facebook": "RepresentativeDougCollins", 
+        "twitter": "RepDougCollins", 
+        "twitter_id": 1060487274, 
+        "youtube": "repdougcollins", 
+        "youtube_id": "UCgKTZXOJX2UwAdLNZ4MQdig"
+    }, 
+    "terms": [
+        {
+            "address": "513 Cannon HOB; Washington DC 20515-1009", 
+            "contact_form": "https://dougcollins.house.gov/email-me", 
+            "district": 9, 
+            "end": "2015-01-03", 
+            "fax": "202-226-1224", 
+            "office": "513 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-9893", 
+            "rss_url": "http://dougcollins.house.gov/latest-rss/latest-rss/", 
+            "start": "2013-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://dougcollins.house.gov"
+        }, 
+        {
+            "address": "1504 Longworth HOB; Washington DC 20515-1009", 
+            "contact_form": "https://dougcollins.house.gov/email-me", 
+            "district": 9, 
+            "end": "2017-01-03", 
+            "fax": "202-226-1224", 
+            "office": "1504 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-9893", 
+            "rss_url": "http://dougcollins.house.gov/latest-rss/latest-rss/", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://dougcollins.house.gov"
+        }, 
+        {
+            "address": "1504 Longworth House Office Building; Washington DC 20515-1009", 
+            "district": 9, 
+            "end": "2019-01-03", 
+            "fax": "202-226-1224", 
+            "office": "1504 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-9893", 
+            "rss_url": "http://dougcollins.house.gov/latest-rss/latest-rss/", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://dougcollins.house.gov"
+        }
+    ]
+}

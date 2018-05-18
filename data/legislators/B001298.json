@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1963-08-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "B001298", 
+        "cspan": 103442, 
+        "fec": [
+            "H6NE02125"
+        ], 
+        "google_entity_id": "kg:/m/01311t71", 
+        "govtrack": 412713, 
+        "icpsr": 21701, 
+        "maplight": 2225, 
+        "opensecrets": "N00037049", 
+        "votesmart": 166299, 
+        "wikidata": "Q19757583", 
+        "wikipedia": "Don Bacon (politician)"
+    }, 
+    "name": {
+        "first": "Don", 
+        "last": "Bacon", 
+        "official_full": "Don Bacon"
+    }, 
+    "social": {
+        "facebook": "RepDonBacon", 
+        "instagram": "RepDonBacon", 
+        "twitter": "repdonbacon", 
+        "twitter_id": 818975124460335106, 
+        "youtube_id": "UCR9abI1lZzAZ6HwQXc-dLFQ"
+    }, 
+    "terms": [
+        {
+            "address": "1516 Longworth House Office Building; Washington DC 20515-2702", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "office": "1516 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4155", 
+            "start": "2017-01-03", 
+            "state": "NE", 
+            "type": "rep", 
+            "url": "https://bacon.house.gov"
+        }
+    ]
+}

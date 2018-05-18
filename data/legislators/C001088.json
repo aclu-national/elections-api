@@ -1,0 +1,73 @@
+{
+    "bio": {
+        "birthday": "1963-09-09", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Chris Coons", 
+        "bioguide": "C001088", 
+        "cspan": 9269028, 
+        "fec": [
+            "S0DE00092"
+        ], 
+        "google_entity_id": "kg:/m/082d3d", 
+        "govtrack": 412390, 
+        "icpsr": 40916, 
+        "lis": "S337", 
+        "maplight": 1371, 
+        "opensecrets": "N00031820", 
+        "thomas": "01984", 
+        "votesmart": 122834, 
+        "wikidata": "Q923242", 
+        "wikipedia": "Chris Coons"
+    }, 
+    "name": {
+        "first": "Chris", 
+        "last": "Coons", 
+        "middle": "Andrew", 
+        "official_full": "Christopher A. Coons"
+    }, 
+    "social": {
+        "facebook": "senatorchriscoons", 
+        "instagram": "senatorchriscoons", 
+        "instagram_id": 25194715, 
+        "twitter": "SenCoonsOffice", 
+        "twitter_id": 435500714, 
+        "youtube": "senatorchriscoons", 
+        "youtube_id": "UC2lOVbsddn1HIkcDnmCw6tA"
+    }, 
+    "terms": [
+        {
+            "address": "127A Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.coons.senate.gov/contact/", 
+            "end": "2015-01-03", 
+            "fax": "202-228-3075", 
+            "office": "127a Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-5042", 
+            "rss_url": "http://www.coons.senate.gov/rss/feeds/?type=all", 
+            "start": "2010-11-15", 
+            "state": "DE", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "http://www.coons.senate.gov"
+        }, 
+        {
+            "address": "127A Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.coons.senate.gov/contact", 
+            "end": "2021-01-03", 
+            "fax": "202-228-3075", 
+            "office": "127a Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-5042", 
+            "rss_url": "http://www.coons.senate.gov/rss/feeds/?type=all", 
+            "start": "2015-01-06", 
+            "state": "DE", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.coons.senate.gov"
+        }
+    ]
+}

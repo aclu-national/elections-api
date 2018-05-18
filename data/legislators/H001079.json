@@ -1,0 +1,34 @@
+{
+    "bio": {
+        "birthday": "1959-05-10", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "H001079", 
+        "govtrack": 412743, 
+        "lis": "S395", 
+        "wikidata": "Q5120540", 
+        "wikipedia": "Cindy Hyde-Smith"
+    }, 
+    "name": {
+        "first": "Cindy", 
+        "last": "Hyde-Smith", 
+        "official_full": "Cindy Hyde-Smith"
+    }, 
+    "terms": [
+        {
+            "address": "G12 Dirksen Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "", 
+            "end": "2021-01-03", 
+            "office": "G12 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5054", 
+            "start": "2018-04-09", 
+            "state": "MS", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.senate.gov/senators/115thCongress/Hyde-Smith_Cindy.htm"
+        }
+    ]
+}

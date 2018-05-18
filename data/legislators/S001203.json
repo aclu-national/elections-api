@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1958-03-04", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Tina Smith", 
+        "bioguide": "S001203", 
+        "cspan": 111313, 
+        "fec": [
+            "S8MN00578"
+        ], 
+        "google_entity_id": "kg:/m/0127xvy3", 
+        "govtrack": 412742, 
+        "lis": "S394", 
+        "maplight": 2253, 
+        "opensecrets": "N00042353", 
+        "votesmart": 152968, 
+        "wikidata": "Q18631509", 
+        "wikipedia": "Tina Smith"
+    }, 
+    "name": {
+        "first": "Tina", 
+        "last": "Smith", 
+        "middle": "Flint", 
+        "official_full": "Tina Smith"
+    }, 
+    "social": {
+        "twitter": "SenTinaSmith"
+    }, 
+    "terms": [
+        {
+            "address": "309 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.smith.senate.gov/content/contact-senator", 
+            "end": "2021-01-03", 
+            "office": "309 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-5641", 
+            "start": "2018-01-03", 
+            "state": "MN", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.smith.senate.gov"
+        }
+    ]
+}

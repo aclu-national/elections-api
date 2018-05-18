@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1956-07-24", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "C001111", 
+        "cspan": 7960, 
+        "fec": [
+            "H6FL13205"
+        ], 
+        "google_entity_id": "kg:/m/04jyvv", 
+        "govtrack": 412697, 
+        "icpsr": 21712, 
+        "maplight": 2209, 
+        "opensecrets": "N00002942", 
+        "votesmart": 24311, 
+        "wikidata": "Q374693", 
+        "wikipedia": "Charlie Crist"
+    }, 
+    "name": {
+        "first": "Charlie", 
+        "last": "Crist", 
+        "official_full": "Charlie Crist"
+    }, 
+    "social": {
+        "facebook": "RepCharlieCrist", 
+        "instagram": "repcharliecrist", 
+        "twitter": "repcharliecrist", 
+        "twitter_id": 816030424778543104
+    }, 
+    "terms": [
+        {
+            "address": "427 Cannon House Office Building; Washington DC 20515-0913", 
+            "district": 13, 
+            "end": "2019-01-03", 
+            "office": "427 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5961", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://crist.house.gov"
+        }
+    ]
+}

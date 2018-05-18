@@ -1,0 +1,95 @@
+{
+    "bio": {
+        "birthday": "1969-12-10", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Austin Scott", 
+        "bioguide": "S001189", 
+        "cspan": 623344, 
+        "fec": [
+            "H0GA08099"
+        ], 
+        "google_entity_id": "kg:/m/076zn3y", 
+        "govtrack": 412417, 
+        "house_history": 22631, 
+        "icpsr": 21123, 
+        "maplight": 1429, 
+        "opensecrets": "N00032457", 
+        "thomas": "02009", 
+        "votesmart": 11812, 
+        "wikidata": "Q781167", 
+        "wikipedia": "Austin Scott (politician)"
+    }, 
+    "name": {
+        "first": "Austin", 
+        "last": "Scott", 
+        "official_full": "Austin Scott"
+    }, 
+    "social": {
+        "facebook": "RepAustinScott", 
+        "twitter": "AustinScottGA08", 
+        "twitter_id": 234797704, 
+        "youtube": "RepAustinScott", 
+        "youtube_id": "UC5M7eKHKQStktMyjieiHYZQ"
+    }, 
+    "terms": [
+        {
+            "address": "516 Cannon HOB; Washington DC 20515-1003", 
+            "district": 8, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3013", 
+            "office": "516 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6531", 
+            "start": "2011-01-05", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://austinscott.house.gov/"
+        }, 
+        {
+            "address": "516 Cannon HOB; Washington DC 20515-1008", 
+            "contact_form": "https://austinscott.house.gov/email-me/", 
+            "district": 8, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3013", 
+            "office": "516 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6531", 
+            "rss_url": "http://austinscott.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://austinscott.house.gov"
+        }, 
+        {
+            "address": "2417 Rayburn HOB; Washington DC 20515-1008", 
+            "contact_form": "https://austinscott.house.gov/email-me/", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3013", 
+            "office": "2417 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6531", 
+            "rss_url": "http://austinscott.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://austinscott.house.gov"
+        }, 
+        {
+            "address": "2417 Rayburn House Office Building; Washington DC 20515-1008", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3013", 
+            "office": "2417 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6531", 
+            "rss_url": "http://austinscott.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://austinscott.house.gov"
+        }
+    ]
+}

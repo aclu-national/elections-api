@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1968-05-11", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "Y000066", 
+        "cspan": 76211, 
+        "fec": [
+            "S4IA00103", 
+            "H4IA03115"
+        ], 
+        "google_entity_id": "kg:/m/0127pc92", 
+        "govtrack": 412628, 
+        "icpsr": 21521, 
+        "maplight": 2084, 
+        "opensecrets": "N00035509", 
+        "thomas": "02242", 
+        "votesmart": 155218, 
+        "wikidata": "Q19321008", 
+        "wikipedia": "David Young (Iowa politician)"
+    }, 
+    "name": {
+        "first": "David", 
+        "last": "Young", 
+        "official_full": "David Young"
+    }, 
+    "social": {
+        "facebook": "RepDavidYoung", 
+        "instagram": "repdavidyoung", 
+        "twitter": "RepDavidYoung", 
+        "twitter_id": 314205957, 
+        "youtube_id": "UCD2SzM1kn4iZfHccN4bocQA"
+    }, 
+    "terms": [
+        {
+            "address": "515 Cannon HOB; Washington DC 20515-1503", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "office": "515 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5476", 
+            "start": "2015-01-06", 
+            "state": "IA", 
+            "type": "rep", 
+            "url": "https://davidyoung.house.gov"
+        }, 
+        {
+            "address": "240 Cannon House Office Building; Washington DC 20515-1503", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "office": "240 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5476", 
+            "start": "2017-01-03", 
+            "state": "IA", 
+            "type": "rep", 
+            "url": "https://davidyoung.house.gov"
+        }
+    ]
+}

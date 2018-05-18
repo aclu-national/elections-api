@@ -1,0 +1,48 @@
+{
+    "bio": {
+        "birthday": "1953-12-04", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "R000607", 
+        "cspan": 73021, 
+        "fec": [
+            "H6FL19087"
+        ], 
+        "google_entity_id": "kg:/m/0764lz", 
+        "govtrack": 412699, 
+        "icpsr": 21742, 
+        "maplight": 2211, 
+        "opensecrets": "N00040007", 
+        "votesmart": 172678, 
+        "wikidata": "Q5482337", 
+        "wikipedia": "Francis Rooney"
+    }, 
+    "name": {
+        "first": "Francis", 
+        "last": "Rooney", 
+        "official_full": "Francis Rooney"
+    }, 
+    "social": {
+        "facebook": "RepRooney", 
+        "instagram": "RepFrancisRooney", 
+        "twitter": "RepRooney", 
+        "twitter_id": 816111677917851649, 
+        "youtube_id": "UC5dLBbrW1JwIGs9h248lk6g"
+    }, 
+    "terms": [
+        {
+            "address": "120 Cannon House Office Building; Washington DC 20515-0919", 
+            "district": 19, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0011", 
+            "office": "120 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2536", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://francisrooney.house.gov"
+        }
+    ]
+}

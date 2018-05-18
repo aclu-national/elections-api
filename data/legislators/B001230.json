@@ -1,0 +1,123 @@
+{
+    "bio": {
+        "birthday": "1962-02-11", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Tammy Baldwin", 
+        "bioguide": "B001230", 
+        "cspan": 57884, 
+        "fec": [
+            "H8WI00018", 
+            "S2WI00219"
+        ], 
+        "google_entity_id": "kg:/m/024v02", 
+        "govtrack": 400013, 
+        "house_history": 10361, 
+        "icpsr": 29940, 
+        "lis": "S354", 
+        "maplight": 136, 
+        "opensecrets": "N00004367", 
+        "thomas": "01558", 
+        "votesmart": 3470, 
+        "wikidata": "Q40628", 
+        "wikipedia": "Tammy Baldwin"
+    }, 
+    "name": {
+        "first": "Tammy", 
+        "last": "Baldwin", 
+        "official_full": "Tammy Baldwin"
+    }, 
+    "social": {
+        "facebook": "senatortammybaldwin", 
+        "instagram": "senatorbaldwin", 
+        "twitter": "SenatorBaldwin", 
+        "twitter_id": 1074518754, 
+        "youtube": "witammybaldwin", 
+        "youtube_id": "UC_XjYCRbbI2_TDDjJidwk0Q"
+    }, 
+    "terms": [
+        {
+            "district": 2, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "WI", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "WI", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "http://tammybaldwin.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "http://tammybaldwin.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "http://tammybaldwin.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "http://tammybaldwin.house.gov"
+        }, 
+        {
+            "address": "2446 Rayburn HOB; Washington DC 20515-4902", 
+            "contact_form": "http://www.house.gov/formbaldwin/IMA/get_address.htm", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-6942", 
+            "office": "2446 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2906", 
+            "start": "2011-01-05", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "http://tammybaldwin.house.gov"
+        }, 
+        {
+            "address": "709 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.baldwin.senate.gov/feedback", 
+            "end": "2019-01-03", 
+            "fax": "202-225-6942", 
+            "office": "709 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-5653", 
+            "rss_url": "http://www.baldwin.senate.gov/rss/feeds/?type=all", 
+            "start": "2013-01-03", 
+            "state": "WI", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.baldwin.senate.gov"
+        }
+    ]
+}

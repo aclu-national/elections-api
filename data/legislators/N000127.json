@@ -1,0 +1,106 @@
+{
+    "bio": {
+        "birthday": "1943-12-17", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Rick Nolan", 
+        "bioguide": "N000127", 
+        "cspan": 1001760, 
+        "fec": [
+            "H2MN08111"
+        ], 
+        "google_entity_id": "kg:/m/0dgfyp", 
+        "govtrack": 408211, 
+        "house_history": 18988, 
+        "icpsr": 14263, 
+        "maplight": 1730, 
+        "opensecrets": "N00021207", 
+        "thomas": "00867", 
+        "votesmart": 138505, 
+        "wikidata": "Q2151594", 
+        "wikipedia": "Rick Nolan"
+    }, 
+    "name": {
+        "first": "Richard", 
+        "last": "Nolan", 
+        "middle": "M.", 
+        "official_full": "Richard M. Nolan"
+    }, 
+    "social": {
+        "facebook": "UsRepRickNolan", 
+        "twitter": "USRepRickNolan", 
+        "twitter_id": 1055685948, 
+        "youtube": "USRepRickNolan", 
+        "youtube_id": "UCmGkPQXVR8GzVAPXN54AoXg"
+    }, 
+    "terms": [
+        {
+            "district": 6, 
+            "end": "1977-01-03", 
+            "party": "Democrat", 
+            "start": "1975-01-14", 
+            "state": "MN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "1979-01-03", 
+            "party": "Democrat", 
+            "start": "1977-01-04", 
+            "state": "MN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 6, 
+            "end": "1981-01-03", 
+            "party": "Democrat", 
+            "start": "1979-01-15", 
+            "state": "MN", 
+            "type": "rep"
+        }, 
+        {
+            "address": "2447 Rayburn HOB; Washington DC 20515-2308", 
+            "contact_form": "https://nolan.house.gov/contact/email-me", 
+            "district": 8, 
+            "end": "2015-01-03", 
+            "office": "2447 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6211", 
+            "rss_url": "http://nolan.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "http://nolan.house.gov"
+        }, 
+        {
+            "address": "2366 Rayburn HOB; Washington DC 20515-2308", 
+            "contact_form": "https://nolan.house.gov/contact/email-me", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0699", 
+            "office": "2366 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6211", 
+            "rss_url": "http://nolan.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "http://nolan.house.gov"
+        }, 
+        {
+            "address": "2366 Rayburn House Office Building; Washington DC 20515-2308", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0699", 
+            "office": "2366 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6211", 
+            "rss_url": "http://nolan.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "https://nolan.house.gov"
+        }
+    ]
+}

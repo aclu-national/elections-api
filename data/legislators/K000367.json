@@ -1,0 +1,66 @@
+{
+    "bio": {
+        "birthday": "1960-05-25", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Amy Klobuchar", 
+        "bioguide": "K000367", 
+        "cspan": 83701, 
+        "fec": [
+            "S6MN00267"
+        ], 
+        "google_entity_id": "kg:/m/05fbpt", 
+        "govtrack": 412242, 
+        "house_history": 16558, 
+        "icpsr": 40700, 
+        "lis": "S311", 
+        "maplight": 724, 
+        "opensecrets": "N00027500", 
+        "thomas": "01826", 
+        "votesmart": 65092, 
+        "wikidata": "Q22237", 
+        "wikipedia": "Amy Klobuchar"
+    }, 
+    "name": {
+        "first": "Amy", 
+        "last": "Klobuchar", 
+        "middle": "Jean", 
+        "official_full": "Amy Klobuchar"
+    }, 
+    "social": {
+        "youtube": "senatorklobuchar", 
+        "youtube_id": "UCvdeJsDsV51tFb_hVqvtYGA"
+    }, 
+    "terms": [
+        {
+            "address": "302 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.klobuchar.senate.gov/emailamy.cfm", 
+            "end": "2013-01-03", 
+            "fax": "202-228-2186", 
+            "office": "302 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3244", 
+            "start": "2007-01-04", 
+            "state": "MN", 
+            "type": "sen", 
+            "url": "http://klobuchar.senate.gov/"
+        }, 
+        {
+            "address": "302 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.klobuchar.senate.gov/public/index.cfm/contact", 
+            "end": "2019-01-03", 
+            "fax": "202-228-2186", 
+            "office": "302 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3244", 
+            "start": "2013-01-03", 
+            "state": "MN", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.klobuchar.senate.gov"
+        }
+    ]
+}

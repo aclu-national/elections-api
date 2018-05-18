@@ -1,0 +1,63 @@
+{
+    "bio": {
+        "birthday": "1951-11-07", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "A000372", 
+        "cspan": 62545, 
+        "fec": [
+            "H2GA12121"
+        ], 
+        "google_entity_id": "kg:/m/0127y9dk", 
+        "govtrack": 412625, 
+        "icpsr": 21516, 
+        "maplight": 2081, 
+        "opensecrets": "N00033720", 
+        "thomas": "02239", 
+        "votesmart": 136062, 
+        "wikidata": "Q18683976", 
+        "wikipedia": "Rick W. Allen"
+    }, 
+    "name": {
+        "first": "Rick", 
+        "last": "Allen", 
+        "official_full": "Rick W. Allen"
+    }, 
+    "social": {
+        "facebook": "CongressmanRickAllen", 
+        "instagram": "reprickallen", 
+        "instagram_id": 1666787116, 
+        "twitter": "reprickallen", 
+        "twitter_id": 2964287128, 
+        "youtube_id": "UCZPoYXHFDAV17BGLMzGAmpg"
+    }, 
+    "terms": [
+        {
+            "address": "513 Cannon HOB; Washington DC 20515-1012", 
+            "district": 12, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3377", 
+            "office": "513 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2823", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://allen.house.gov"
+        }, 
+        {
+            "address": "426 Cannon House Office Building; Washington DC 20515-1012", 
+            "district": 12, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3377", 
+            "office": "426 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2823", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://allen.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "bio": {
+        "birthday": "1980-04-18", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Justin Amash", 
+        "bioguide": "A000367", 
+        "cspan": 1033767, 
+        "fec": [
+            "H0MI03126"
+        ], 
+        "google_entity_id": "kg:/m/0c00p_n", 
+        "govtrack": 412438, 
+        "house_history": 8769, 
+        "icpsr": 21143, 
+        "maplight": 1449, 
+        "opensecrets": "N00031938", 
+        "thomas": "02029", 
+        "votesmart": 105566, 
+        "wikidata": "Q1714165", 
+        "wikipedia": "Justin Amash"
+    }, 
+    "name": {
+        "first": "Justin", 
+        "last": "Amash", 
+        "official_full": "Justin Amash"
+    }, 
+    "social": {
+        "facebook": "repjustinamash", 
+        "youtube": "repjustinamash", 
+        "youtube_id": "UCeg6HhoCXrS8xpON9dxtZgA"
+    }, 
+    "terms": [
+        {
+            "address": "114 Cannon HOB; Washington DC 20515-2203", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5144", 
+            "office": "114 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3831", 
+            "start": "2011-01-05", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "http://amash.house.gov/"
+        }, 
+        {
+            "address": "114 Cannon HOB; Washington DC 20515-2203", 
+            "contact_form": "https://amash.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5144", 
+            "office": "114 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3831", 
+            "rss_url": "http://amash.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "http://amash.house.gov"
+        }, 
+        {
+            "address": "114 Cannon HOB; Washington DC 20515-2203", 
+            "contact_form": "https://amash.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5144", 
+            "office": "114 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3831", 
+            "rss_url": "http://amash.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "http://amash.house.gov"
+        }, 
+        {
+            "address": "114 Cannon House Office Building; Washington DC 20515-2203", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5144", 
+            "office": "114 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3831", 
+            "rss_url": "http://amash.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://amash.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "bio": {
+        "birthday": "1952-08-24", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Bob Corker", 
+        "bioguide": "C001071", 
+        "cspan": 1021114, 
+        "fec": [
+            "S6TN00216", 
+            "S4TN00187"
+        ], 
+        "google_entity_id": "kg:/m/0d9fz3", 
+        "govtrack": 412248, 
+        "icpsr": 40705, 
+        "lis": "S310", 
+        "maplight": 729, 
+        "opensecrets": "N00027441", 
+        "thomas": "01825", 
+        "votesmart": 65905, 
+        "wikidata": "Q331719", 
+        "wikipedia": "Bob Corker"
+    }, 
+    "name": {
+        "first": "Bob", 
+        "last": "Corker", 
+        "official_full": "Bob Corker"
+    }, 
+    "social": {
+        "facebook": "bobcorker", 
+        "instagram": "senbobcorker", 
+        "instagram_id": 390025816, 
+        "twitter": "SenBobCorker", 
+        "twitter_id": 73303753, 
+        "youtube": "senatorcorker", 
+        "youtube_id": "UCm7if_szz7DxfcdYGrywHSA"
+    }, 
+    "terms": [
+        {
+            "address": "185 DIRKSEN SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.corker.senate.gov/public/index.cfm?p=ContactMe", 
+            "end": "2013-01-03", 
+            "fax": "202-228-0566", 
+            "office": "185 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3344", 
+            "start": "2007-01-04", 
+            "state": "TN", 
+            "type": "sen", 
+            "url": "http://corker.senate.gov/"
+        }, 
+        {
+            "address": "425 Dirksen Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.corker.senate.gov/public/index.cfm/emailme", 
+            "end": "2019-01-03", 
+            "fax": "202-228-0566", 
+            "office": "425 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3344", 
+            "rss_url": "http://www.corker.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2013-01-03", 
+            "state": "TN", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.corker.senate.gov"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1972-02-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "R000603", 
+        "cspan": 79710, 
+        "fec": [
+            "H2NC07096"
+        ], 
+        "google_entity_id": "kg:/m/0jt1s3l", 
+        "govtrack": 412641, 
+        "icpsr": 21544, 
+        "maplight": 2097, 
+        "opensecrets": "N00033527", 
+        "thomas": "02256", 
+        "votesmart": 102964, 
+        "wikidata": "Q5239255", 
+        "wikipedia": "David Rouzer"
+    }, 
+    "name": {
+        "first": "David", 
+        "last": "Rouzer", 
+        "official_full": "David Rouzer"
+    }, 
+    "social": {
+        "facebook": "RepRouzer", 
+        "instagram": "repdavidrouzer", 
+        "twitter": "RepDavidRouzer", 
+        "twitter_id": 834069080, 
+        "youtube_id": "UCBvOxpqoGi1HlHjX9v_gHZw"
+    }, 
+    "terms": [
+        {
+            "address": "424 Cannon HOB; Washington DC 20515-3307", 
+            "district": 7, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5773", 
+            "office": "424 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2731", 
+            "start": "2015-01-06", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "https://rouzer.house.gov"
+        }, 
+        {
+            "address": "424 Cannon House Office Building; Washington DC 20515-3307", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5773", 
+            "office": "424 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2731", 
+            "start": "2017-01-03", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "https://rouzer.house.gov"
+        }
+    ]
+}

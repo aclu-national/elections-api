@@ -1,0 +1,95 @@
+{
+    "bio": {
+        "birthday": "1970-02-21", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "P000601", 
+        "cspan": 61886, 
+        "fec": [
+            "H0MS04120"
+        ], 
+        "google_entity_id": "kg:/m/0c3y_s5", 
+        "govtrack": 412443, 
+        "house_history": 20039, 
+        "icpsr": 21148, 
+        "maplight": 1453, 
+        "opensecrets": "N00031958", 
+        "thomas": "02035", 
+        "votesmart": 69521, 
+        "wikidata": "Q24230", 
+        "wikipedia": "Steven Palazzo"
+    }, 
+    "name": {
+        "first": "Steven", 
+        "last": "Palazzo", 
+        "middle": "M.", 
+        "official_full": "Steven M. Palazzo"
+    }, 
+    "social": {
+        "facebook": "stevenpalazzo", 
+        "twitter": "CongPalazzo", 
+        "twitter_id": 299883942, 
+        "youtube": "CongressmanPalazzo", 
+        "youtube_id": "UCtPOy2vRbN2nD8dQPSOTXeA"
+    }, 
+    "terms": [
+        {
+            "address": "331 Cannon HOB; Washington DC 20515-2404", 
+            "district": 4, 
+            "end": "2013-01-03", 
+            "fax": "202-225-7074", 
+            "office": "331 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5772", 
+            "start": "2011-01-05", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://palazzo.house.gov/"
+        }, 
+        {
+            "address": "331 Cannon HOB; Washington DC 20515-2404", 
+            "contact_form": "http://palazzo.house.gov/contact/", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "fax": "202-225-7074", 
+            "office": "331 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5772", 
+            "rss_url": "http://palazzo.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://palazzo.house.gov"
+        }, 
+        {
+            "address": "331 Cannon HOB; Washington DC 20515-2404", 
+            "contact_form": "http://palazzo.house.gov/contact/", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-225-7074", 
+            "office": "331 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5772", 
+            "rss_url": "http://palazzo.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://palazzo.house.gov"
+        }, 
+        {
+            "address": "2349 Rayburn House Office Building; Washington DC 20515-2404", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-225-7074", 
+            "office": "2349 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5772", 
+            "rss_url": "http://palazzo.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "https://palazzo.house.gov"
+        }
+    ]
+}

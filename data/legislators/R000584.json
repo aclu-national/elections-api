@@ -1,0 +1,67 @@
+{
+    "bio": {
+        "birthday": "1943-05-03", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Jim Risch", 
+        "bioguide": "R000584", 
+        "cspan": 1020034, 
+        "fec": [
+            "S8ID00092"
+        ], 
+        "google_entity_id": "kg:/m/06y9p0", 
+        "govtrack": 412322, 
+        "icpsr": 40902, 
+        "lis": "S323", 
+        "maplight": 804, 
+        "opensecrets": "N00029441", 
+        "thomas": "01896", 
+        "votesmart": 2919, 
+        "wikidata": "Q721871", 
+        "wikipedia": "Jim Risch"
+    }, 
+    "name": {
+        "first": "James", 
+        "last": "Risch", 
+        "official_full": "James E. Risch"
+    }, 
+    "social": {
+        "twitter": "SenatorRisch", 
+        "twitter_id": 1096059529, 
+        "youtube": "SenatorJamesRisch", 
+        "youtube_id": "UCncKW8xyT5UbPNO27YuQnBA"
+    }, 
+    "terms": [
+        {
+            "address": "483 Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.risch.senate.gov/public/index.cfm?p=Email", 
+            "end": "2015-01-03", 
+            "fax": "202-224-2573", 
+            "office": "483 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-2752", 
+            "start": "2009-01-06", 
+            "state": "ID", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "http://www.risch.senate.gov"
+        }, 
+        {
+            "address": "483 Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.risch.senate.gov/public/index.cfm?p=Email", 
+            "end": "2021-01-03", 
+            "fax": "202-224-2573", 
+            "office": "483 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-2752", 
+            "start": "2015-01-06", 
+            "state": "ID", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.risch.senate.gov"
+        }
+    ]
+}

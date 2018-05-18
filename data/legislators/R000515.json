@@ -1,0 +1,174 @@
+{
+    "bio": {
+        "birthday": "1946-11-23", 
+        "gender": "M", 
+        "religion": "Protestant"
+    }, 
+    "id": {
+        "ballotpedia": "Bobby Rush", 
+        "bioguide": "R000515", 
+        "cspan": 26127, 
+        "fec": [
+            "H2IL01042"
+        ], 
+        "google_entity_id": "kg:/m/0255x3", 
+        "govtrack": 400350, 
+        "house_history": 20721, 
+        "icpsr": 29346, 
+        "maplight": 443, 
+        "opensecrets": "N00004887", 
+        "thomas": "01003", 
+        "votesmart": 26831, 
+        "wikidata": "Q888599", 
+        "wikipedia": "Bobby Rush"
+    }, 
+    "name": {
+        "first": "Bobby", 
+        "last": "Rush", 
+        "middle": "L.", 
+        "official_full": "Bobby L. Rush"
+    }, 
+    "social": {
+        "facebook": "congressmanbobbyrush", 
+        "twitter": "RepBobbyRush", 
+        "twitter_id": 305216911, 
+        "youtube": "CongressmanRush", 
+        "youtube_id": "UCbWqxBnS_w_uFTdQAL0YH5g"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/rush"
+        }, 
+        {
+            "district": 1, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/rush"
+        }, 
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/rush"
+        }, 
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/rush"
+        }, 
+        {
+            "address": "2268 Rayburn HOB; Washington DC 20515-1301", 
+            "contact_form": "http://www.house.gov/rush/zipauth.shtml", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-226-0333", 
+            "office": "2268 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4372", 
+            "start": "2011-01-05", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/rush"
+        }, 
+        {
+            "address": "2268 Rayburn HOB; Washington DC 20515-1301", 
+            "contact_form": "https://rush.house.gov/contact-me/legislative-issues", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-226-0333", 
+            "office": "2268 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4372", 
+            "rss_url": "http://rush.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://rush.house.gov"
+        }, 
+        {
+            "address": "2188 Rayburn HOB; Washington DC 20515-1301", 
+            "contact_form": "https://rush.house.gov/contact-me/legislative-issues", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0333", 
+            "office": "2188 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4372", 
+            "rss_url": "http://rush.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://rush.house.gov"
+        }, 
+        {
+            "address": "2188 Rayburn House Office Building; Washington DC 20515-1301", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0333", 
+            "office": "2188 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4372", 
+            "rss_url": "http://rush.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "https://rush.house.gov"
+        }
+    ]
+}

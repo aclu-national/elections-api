@@ -1,0 +1,106 @@
+{
+    "bio": {
+        "birthday": "1966-07-05", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Jim Himes", 
+        "bioguide": "H001047", 
+        "cspan": 1031341, 
+        "fec": [
+            "H8CT04172"
+        ], 
+        "google_entity_id": "kg:/m/03w9x9v", 
+        "govtrack": 412282, 
+        "house_history": 15590, 
+        "icpsr": 20907, 
+        "maplight": 764, 
+        "opensecrets": "N00029070", 
+        "thomas": "01913", 
+        "votesmart": 106744, 
+        "wikidata": "Q1689111", 
+        "wikipedia": "Jim Himes"
+    }, 
+    "name": {
+        "first": "James", 
+        "last": "Himes", 
+        "middle": "A.", 
+        "official_full": "James A. Himes"
+    }, 
+    "social": {
+        "facebook": "CongressmanJimHimes", 
+        "twitter": "JAHimes", 
+        "twitter_id": 31611298, 
+        "youtube": "congressmanhimes", 
+        "youtube_id": "UCCeB6czh6nhCHxOMCk_V4yA"
+    }, 
+    "terms": [
+        {
+            "district": 4, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "CT", 
+            "type": "rep", 
+            "url": "http://himes.house.gov"
+        }, 
+        {
+            "address": "119 Cannon HOB; Washington DC 20515-0704", 
+            "contact_form": "https://forms.house.gov/himes/contact-form.shtml", 
+            "district": 4, 
+            "end": "2013-01-03", 
+            "fax": "202-225-9629", 
+            "office": "119 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5541", 
+            "start": "2011-01-05", 
+            "state": "CT", 
+            "type": "rep", 
+            "url": "http://himes.house.gov"
+        }, 
+        {
+            "address": "119 Cannon HOB; Washington DC 20515-0704", 
+            "contact_form": "https://himes.house.gov/contact-me/email-me", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "fax": "202-225-9629", 
+            "office": "119 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5541", 
+            "rss_url": "http://himes.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CT", 
+            "type": "rep", 
+            "url": "http://himes.house.gov"
+        }, 
+        {
+            "address": "1227 Longworth HOB; Washington DC 20515-0704", 
+            "contact_form": "https://himes.house.gov/contact-me/email-me", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9629", 
+            "office": "1227 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5541", 
+            "rss_url": "http://himes.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CT", 
+            "type": "rep", 
+            "url": "http://himes.house.gov"
+        }, 
+        {
+            "address": "1227 Longworth House Office Building; Washington DC 20515-0704", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9629", 
+            "office": "1227 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5541", 
+            "rss_url": "http://himes.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CT", 
+            "type": "rep", 
+            "url": "https://himes.house.gov"
+        }
+    ]
+}

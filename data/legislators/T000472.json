@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1960-12-10", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Mark Takano", 
+        "bioguide": "T000472", 
+        "cspan": 2737, 
+        "fec": [
+            "H2CA43245"
+        ], 
+        "google_entity_id": "kg:/m/0k3lj_y", 
+        "govtrack": 412520, 
+        "icpsr": 21312, 
+        "maplight": 1744, 
+        "opensecrets": "N00006701", 
+        "thomas": "02110", 
+        "votesmart": 22337, 
+        "wikidata": "Q399593", 
+        "wikipedia": "Mark Takano"
+    }, 
+    "name": {
+        "first": "Mark", 
+        "last": "Takano", 
+        "official_full": "Mark Takano"
+    }, 
+    "social": {
+        "facebook": "RepMarkTakano", 
+        "instagram": "repmarktakano", 
+        "twitter": "RepMarkTakano", 
+        "twitter_id": 1037321378, 
+        "youtube": "RepMarkTakano", 
+        "youtube_id": "UCJg4F1irmSFeKoXZBaZbX2w"
+    }, 
+    "terms": [
+        {
+            "address": "1507 Longworth HOB; Washington DC 20515-0541", 
+            "contact_form": "https://takano.house.gov/contact/email-me", 
+            "district": 41, 
+            "end": "2015-01-03", 
+            "office": "1507 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2305", 
+            "rss_url": "http://takano.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://takano.house.gov"
+        }, 
+        {
+            "address": "1507 Longworth HOB; Washington DC 20515-0541", 
+            "contact_form": "https://takano.house.gov/contact/email-me", 
+            "district": 41, 
+            "end": "2017-01-03", 
+            "fax": "202-225-7018", 
+            "office": "1507 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2305", 
+            "rss_url": "http://takano.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://takano.house.gov"
+        }, 
+        {
+            "address": "1507 Longworth House Office Building; Washington DC 20515-0541", 
+            "district": 41, 
+            "end": "2019-01-03", 
+            "fax": "202-225-7018", 
+            "office": "1507 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2305", 
+            "rss_url": "http://takano.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://takano.house.gov"
+        }
+    ]
+}

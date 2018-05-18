@@ -1,0 +1,196 @@
+{
+    "bio": {
+        "birthday": "1947-05-27", 
+        "gender": "M", 
+        "religion": "Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Peter DeFazio", 
+        "bioguide": "D000191", 
+        "cspan": 6068, 
+        "fec": [
+            "H6OR04047", 
+            "S6OR00151"
+        ], 
+        "google_entity_id": "kg:/m/033ttx", 
+        "govtrack": 400100, 
+        "house_history": 12068, 
+        "icpsr": 15410, 
+        "maplight": 213, 
+        "opensecrets": "N00007781", 
+        "thomas": "00279", 
+        "votesmart": 27037, 
+        "wikidata": "Q1758507", 
+        "wikipedia": "Peter DeFazio"
+    }, 
+    "name": {
+        "first": "Peter", 
+        "last": "DeFazio", 
+        "middle": "A.", 
+        "official_full": "Peter A. DeFazio"
+    }, 
+    "social": {
+        "facebook": "RepPeterDeFazio", 
+        "twitter": "RepPeterDeFazio", 
+        "twitter_id": 252249233, 
+        "youtube": "PeterDeFazio", 
+        "youtube_id": "UCIF3HunhsVgTv7L2grnq2Rg"
+    }, 
+    "terms": [
+        {
+            "district": 4, 
+            "end": "1989-01-03", 
+            "party": "Democrat", 
+            "start": "1987-01-06", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://www.house.gov/defazio/"
+        }, 
+        {
+            "district": 4, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://www.house.gov/defazio/"
+        }, 
+        {
+            "district": 4, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://defazio.house.gov"
+        }, 
+        {
+            "district": 4, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://defazio.house.gov"
+        }, 
+        {
+            "address": "2134 Rayburn HOB; Washington DC 20515-3704", 
+            "contact_form": "http://www.house.gov/formdefazio/contact.html", 
+            "district": 4, 
+            "end": "2013-01-03", 
+            "fax": "202-225-0032", 
+            "office": "2134 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6416", 
+            "start": "2011-01-05", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://defazio.house.gov"
+        }, 
+        {
+            "address": "2134 Rayburn HOB; Washington DC 20515-3704", 
+            "contact_form": "https://defazio.house.gov/contact/email-me", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "office": "2134 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6416", 
+            "rss_url": "http://www.defazio.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://defazio.house.gov"
+        }, 
+        {
+            "address": "2134 Rayburn HOB; Washington DC 20515-3704", 
+            "contact_form": "https://defazio.house.gov/contact/email-me", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "office": "2134 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6416", 
+            "rss_url": "http://www.defazio.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://defazio.house.gov"
+        }, 
+        {
+            "address": "2134 Rayburn House Office Building; Washington DC 20515-3704", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "office": "2134 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6416", 
+            "rss_url": "http://www.defazio.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "https://defazio.house.gov"
+        }
+    ]
+}

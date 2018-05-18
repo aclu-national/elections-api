@@ -1,0 +1,67 @@
+{
+    "bio": {
+        "birthday": "1969-04-27", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Cory Booker", 
+        "bioguide": "B001288", 
+        "cspan": 84679, 
+        "fec": [
+            "S4NJ00185"
+        ], 
+        "google_entity_id": "kg:/m/06p430", 
+        "govtrack": 412598, 
+        "icpsr": 41308, 
+        "lis": "S370", 
+        "maplight": 2051, 
+        "opensecrets": "N00035267", 
+        "thomas": "02194", 
+        "votesmart": 76151, 
+        "wikidata": "Q1135767", 
+        "wikipedia": "Cory Booker"
+    }, 
+    "name": {
+        "first": "Cory", 
+        "last": "Booker", 
+        "middle": "Anthony", 
+        "official_full": "Cory A. Booker"
+    }, 
+    "social": {
+        "twitter": "SenBooker", 
+        "twitter_id": 2167097881, 
+        "youtube": "SenCoryBooker", 
+        "youtube_id": "UC6FlymqNS1VettnVZa7goPA"
+    }, 
+    "terms": [
+        {
+            "address": "141 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.booker.senate.gov/?p=contact", 
+            "end": "2015-01-03", 
+            "office": "141 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3224", 
+            "start": "2013-10-31", 
+            "state": "NJ", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "http://www.booker.senate.gov"
+        }, 
+        {
+            "address": "359 Dirksen Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.booker.senate.gov/?p=contact", 
+            "end": "2021-01-03", 
+            "fax": "202-224-8378", 
+            "office": "359 Dirksen Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3224", 
+            "start": "2015-01-06", 
+            "state": "NJ", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.booker.senate.gov"
+        }
+    ]
+}

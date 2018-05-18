@@ -1,0 +1,83 @@
+{
+    "bio": {
+        "birthday": "1974-09-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Joaquin Castro", 
+        "bioguide": "C001091", 
+        "cspan": 63974, 
+        "fec": [
+            "H2TX35011"
+        ], 
+        "google_entity_id": "kg:/m/0bmclg", 
+        "govtrack": 412576, 
+        "icpsr": 21362, 
+        "maplight": 1800, 
+        "opensecrets": "N00033316", 
+        "thomas": "02163", 
+        "votesmart": 49227, 
+        "wikidata": "Q1167934", 
+        "wikipedia": "Joaqu\u00edn Castro"
+    }, 
+    "name": {
+        "first": "Joaquin", 
+        "last": "Castro", 
+        "official_full": "Joaquin Castro"
+    }, 
+    "social": {
+        "facebook": "326420614138023", 
+        "instagram": "joaquincastrotx", 
+        "instagram_id": 378492005, 
+        "twitter": "JoaquinCastrotx", 
+        "twitter_id": 231510077, 
+        "youtube": "JoaquinCastroTX", 
+        "youtube_id": "UCsRxWnFdRiV2od1O5v5nEeQ"
+    }, 
+    "terms": [
+        {
+            "address": "212 Cannon HOB; Washington DC 20515-4320", 
+            "contact_form": "https://castro.house.gov/contact/email-me", 
+            "district": 20, 
+            "end": "2015-01-03", 
+            "fax": "202-225-1915", 
+            "office": "212 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3236", 
+            "rss_url": "http://castro.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://castro.house.gov"
+        }, 
+        {
+            "address": "212 Cannon HOB; Washington DC 20515-4320", 
+            "contact_form": "https://castro.house.gov/contact/email-me", 
+            "district": 20, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1915", 
+            "office": "212 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3236", 
+            "rss_url": "http://castro.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://castro.house.gov"
+        }, 
+        {
+            "address": "1221 Longworth House Office Building; Washington DC 20515-4320", 
+            "district": 20, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1915", 
+            "office": "1221 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3236", 
+            "rss_url": "http://castro.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://castro.house.gov"
+        }
+    ]
+}

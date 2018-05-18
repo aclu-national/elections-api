@@ -1,0 +1,60 @@
+{
+    "bio": {
+        "birthday": "1964-05-13", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "P000610", 
+        "cspan": 79090, 
+        "fec": [
+            "H2VI00082"
+        ], 
+        "google_entity_id": "kg:/m/012844_c", 
+        "govtrack": 412659, 
+        "house_history": 15032410230, 
+        "maplight": 2115, 
+        "opensecrets": "N00035000", 
+        "thomas": "02274", 
+        "wikidata": "Q18739104", 
+        "wikipedia": "Stacey Plaskett"
+    }, 
+    "name": {
+        "first": "Stacey", 
+        "last": "Plaskett", 
+        "official_full": "Stacey E. Plaskett"
+    }, 
+    "social": {
+        "facebook": "repstaceyplaskett", 
+        "twitter": "staceyplaskett", 
+        "twitter_id": 2724095695, 
+        "youtube_id": "UC3V7biFZHDFHDFZy6cCSZUA"
+    }, 
+    "terms": [
+        {
+            "address": "509 Cannon HOB; Washington DC 20515-5500", 
+            "district": 0, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5517", 
+            "office": "509 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-1790", 
+            "start": "2015-01-06", 
+            "state": "VI", 
+            "type": "rep", 
+            "url": "https://plaskett.house.gov"
+        }, 
+        {
+            "address": "331 Cannon House Office Building; Washington DC 20515-5500", 
+            "district": 0, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5517", 
+            "office": "331 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-1790", 
+            "start": "2017-01-03", 
+            "state": "VI", 
+            "type": "rep", 
+            "url": "https://plaskett.house.gov"
+        }
+    ]
+}

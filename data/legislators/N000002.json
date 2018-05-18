@@ -1,0 +1,181 @@
+{
+    "bio": {
+        "birthday": "1947-06-13", 
+        "gender": "M", 
+        "religion": "Jewish"
+    }, 
+    "id": {
+        "bioguide": "N000002", 
+        "cspan": 26159, 
+        "fec": [
+            "H2NY17071"
+        ], 
+        "google_entity_id": "kg:/m/03tk11", 
+        "govtrack": 400289, 
+        "house_history": 18837, 
+        "icpsr": 29377, 
+        "maplight": 385, 
+        "opensecrets": "N00000939", 
+        "thomas": "00850", 
+        "votesmart": 26980, 
+        "wikidata": "Q505598", 
+        "wikipedia": "Jerrold Nadler"
+    }, 
+    "name": {
+        "first": "Jerrold", 
+        "last": "Nadler", 
+        "middle": "L.", 
+        "official_full": "Jerrold Nadler"
+    }, 
+    "social": {
+        "facebook": "CongressmanNadler", 
+        "twitter": "RepJerryNadler", 
+        "twitter_id": 40302336, 
+        "youtube": "congressmannadler", 
+        "youtube_id": "UCQKj0qU1e7o2f5ftSh-c9aQ"
+    }, 
+    "terms": [
+        {
+            "district": 17, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1992-11-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/nadler"
+        }, 
+        {
+            "district": 8, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/nadler"
+        }, 
+        {
+            "district": 8, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/nadler"
+        }, 
+        {
+            "district": 8, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/nadler"
+        }, 
+        {
+            "address": "2334 Rayburn HOB; Washington DC 20515-3208", 
+            "contact_form": "http://www.house.gov/nadler/emailform.shtml", 
+            "district": 8, 
+            "end": "2013-01-03", 
+            "fax": "202-225-6923", 
+            "office": "2334 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5635", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/nadler"
+        }, 
+        {
+            "address": "2110 Rayburn HOB; Washington DC 20515-3210", 
+            "contact_form": "https://jerroldnadler.house.gov/forms/writeyourrep/default.aspx", 
+            "district": 10, 
+            "end": "2015-01-03", 
+            "fax": "202-225-6923", 
+            "office": "2110 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5635", 
+            "rss_url": "http://nadler.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://nadler.house.gov"
+        }, 
+        {
+            "address": "2109 Rayburn HOB; Washington DC 20515-3210", 
+            "contact_form": "https://jerroldnadler.house.gov/forms/writeyourrep/default.aspx", 
+            "district": 10, 
+            "end": "2017-01-03", 
+            "fax": "202-225-6923", 
+            "office": "2109 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5635", 
+            "rss_url": "http://nadler.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://nadler.house.gov"
+        }, 
+        {
+            "address": "2109 Rayburn House Office Building; Washington DC 20515-3210", 
+            "district": 10, 
+            "end": "2019-01-03", 
+            "fax": "202-225-6923", 
+            "office": "2109 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5635", 
+            "rss_url": "http://nadler.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://nadler.house.gov"
+        }
+    ]
+}

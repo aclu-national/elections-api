@@ -1,0 +1,155 @@
+{
+    "bio": {
+        "birthday": "1943-10-05", 
+        "gender": "M", 
+        "religion": "Jewish"
+    }, 
+    "id": {
+        "ballotpedia": "Ben Cardin", 
+        "bioguide": "C000141", 
+        "cspan": 4004, 
+        "fec": [
+            "H6MD03177", 
+            "S6MD03177"
+        ], 
+        "google_entity_id": "kg:/m/025k3k", 
+        "govtrack": 400064, 
+        "house_history": 10629, 
+        "icpsr": 15408, 
+        "lis": "S308", 
+        "maplight": 182, 
+        "opensecrets": "N00001955", 
+        "thomas": "00174", 
+        "votesmart": 26888, 
+        "wikidata": "Q723295", 
+        "wikipedia": "Ben Cardin"
+    }, 
+    "name": {
+        "first": "Benjamin", 
+        "last": "Cardin", 
+        "middle": "L.", 
+        "official_full": "Benjamin L. Cardin"
+    }, 
+    "social": {
+        "facebook": "senatorbencardin", 
+        "instagram": "senatorcardin", 
+        "twitter": "SenatorCardin", 
+        "twitter_id": 109071031, 
+        "youtube": "senatorcardin", 
+        "youtube_id": "UCiQaJnMzlfzzG3VESgyZChA"
+    }, 
+    "terms": [
+        {
+            "district": 3, 
+            "end": "1989-01-03", 
+            "party": "Democrat", 
+            "start": "1987-01-06", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "MD", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://www.house.gov/cardin"
+        }, 
+        {
+            "district": 3, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "MD", 
+            "type": "rep", 
+            "url": "http://www.house.gov/cardin"
+        }, 
+        {
+            "address": "509 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.cardin.senate.gov/contact/", 
+            "end": "2013-01-03", 
+            "fax": "202-224-1651", 
+            "office": "509 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-4524", 
+            "start": "2007-01-04", 
+            "state": "MD", 
+            "type": "sen", 
+            "url": "http://cardin.senate.gov/"
+        }, 
+        {
+            "address": "509 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.cardin.senate.gov/contact/", 
+            "end": "2019-01-03", 
+            "fax": "202-224-1651", 
+            "office": "509 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-4524", 
+            "rss_url": "http://www.cardin.senate.gov/rss/feeds/?type=all", 
+            "start": "2013-01-03", 
+            "state": "MD", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.cardin.senate.gov"
+        }
+    ]
+}

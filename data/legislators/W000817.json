@@ -1,0 +1,55 @@
+{
+    "bio": {
+        "birthday": "1949-06-22", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Elizabeth Warren", 
+        "bioguide": "W000817", 
+        "cspan": 1023023, 
+        "fec": [
+            "S2MA00170"
+        ], 
+        "google_entity_id": "kg:/m/01qh39", 
+        "govtrack": 412542, 
+        "house_history": 15032390639, 
+        "icpsr": 41301, 
+        "lis": "S366", 
+        "maplight": 1766, 
+        "opensecrets": "N00033492", 
+        "thomas": "02182", 
+        "votesmart": 141272, 
+        "wikidata": "Q434706", 
+        "wikipedia": "Elizabeth Warren"
+    }, 
+    "name": {
+        "first": "Elizabeth", 
+        "last": "Warren", 
+        "official_full": "Elizabeth Warren"
+    }, 
+    "social": {
+        "facebook": "senatorelizabethwarren", 
+        "twitter": "SenWarren", 
+        "twitter_id": 970207298, 
+        "youtube": "senelizabethwarren", 
+        "youtube_id": "UCTH9zV8Imw09J5bOoTR18_A"
+    }, 
+    "terms": [
+        {
+            "address": "317 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.warren.senate.gov/?p=email_senator", 
+            "end": "2019-01-03", 
+            "fax": "202-228-2072", 
+            "office": "317 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-4543", 
+            "rss_url": "http://www.warren.senate.gov/rss/?p=hot_topic", 
+            "start": "2013-01-03", 
+            "state": "MA", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.warren.senate.gov"
+        }
+    ]
+}

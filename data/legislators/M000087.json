@@ -1,0 +1,173 @@
+{
+    "bio": {
+        "birthday": "1946-02-19", 
+        "gender": "F", 
+        "religion": "Presbyterian"
+    }, 
+    "id": {
+        "ballotpedia": "Carolyn B. Maloney", 
+        "bioguide": "M000087", 
+        "cspan": 26162, 
+        "fec": [
+            "H2NY14037"
+        ], 
+        "google_entity_id": "kg:/m/03txd5", 
+        "govtrack": 400251, 
+        "house_history": 17437, 
+        "icpsr": 29379, 
+        "maplight": 349, 
+        "opensecrets": "N00000078", 
+        "thomas": "00729", 
+        "votesmart": 26978, 
+        "wikidata": "Q455833", 
+        "wikipedia": "Carolyn Maloney"
+    }, 
+    "name": {
+        "first": "Carolyn", 
+        "last": "Maloney", 
+        "middle": "B.", 
+        "official_full": "Carolyn B. Maloney"
+    }, 
+    "social": {
+        "facebook": "RepCarolynMaloney", 
+        "twitter": "RepMaloney", 
+        "twitter_id": 258900199, 
+        "youtube": "carolynbmaloney"
+    }, 
+    "terms": [
+        {
+            "district": 14, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 14, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 14, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 14, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 14, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 14, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/maloney"
+        }, 
+        {
+            "district": 14, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/maloney"
+        }, 
+        {
+            "district": 14, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://maloney.house.gov"
+        }, 
+        {
+            "district": 14, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://maloney.house.gov"
+        }, 
+        {
+            "address": "2332 Rayburn HOB; Washington DC 20515-3214", 
+            "contact_form": "http://maloney.house.gov/index.php?option=com_email_form&amp;Itemid=73", 
+            "district": 14, 
+            "end": "2013-01-03", 
+            "fax": "202-225-4709", 
+            "office": "2332 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7944", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://maloney.house.gov"
+        }, 
+        {
+            "address": "2308 Rayburn HOB; Washington DC 20515-3212", 
+            "contact_form": "https://maloney.house.gov/contact-me/email-me", 
+            "district": 12, 
+            "end": "2015-01-03", 
+            "fax": "202-225-4709", 
+            "office": "2308 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7944", 
+            "rss_url": "http://maloney.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://maloney.house.gov"
+        }, 
+        {
+            "address": "2308 Rayburn HOB; Washington DC 20515-3212", 
+            "contact_form": "https://maloney.house.gov/contact-me/email-me", 
+            "district": 12, 
+            "end": "2017-01-03", 
+            "fax": "202-225-4709", 
+            "office": "2308 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7944", 
+            "rss_url": "http://maloney.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://maloney.house.gov"
+        }, 
+        {
+            "address": "2308 Rayburn House Office Building; Washington DC 20515-3212", 
+            "district": 12, 
+            "end": "2019-01-03", 
+            "fax": "202-225-4709", 
+            "office": "2308 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7944", 
+            "rss_url": "http://maloney.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://maloney.house.gov"
+        }
+    ]
+}

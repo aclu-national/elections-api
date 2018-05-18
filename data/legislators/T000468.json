@@ -1,0 +1,91 @@
+{
+    "bio": {
+        "birthday": "1950-05-23", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Dina Titus", 
+        "bioguide": "T000468", 
+        "cspan": 1021622, 
+        "fec": [
+            "H8NV03036"
+        ], 
+        "google_entity_id": "kg:/m/07hwl2", 
+        "govtrack": 412318, 
+        "house_history": 23215, 
+        "icpsr": 20927, 
+        "maplight": 800, 
+        "opensecrets": "N00030191", 
+        "thomas": "01940", 
+        "votesmart": 2629, 
+        "wikidata": "Q524440", 
+        "wikipedia": "Dina Titus"
+    }, 
+    "name": {
+        "first": "Dina", 
+        "last": "Titus", 
+        "official_full": "Dina Titus"
+    }, 
+    "social": {
+        "facebook": "CongresswomanTitus", 
+        "instagram": "dinatitusnv", 
+        "instagram_id": 1110185253, 
+        "twitter": "RepDinaTitus", 
+        "twitter_id": 122174004, 
+        "youtube": "CongresswomanTitus", 
+        "youtube_id": "UC_US4jNqECuMSNrB7yVCbbw"
+    }, 
+    "terms": [
+        {
+            "district": 3, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NV", 
+            "type": "rep", 
+            "url": "http://titus.house.gov"
+        }, 
+        {
+            "address": "401 Cannon HOB; Washington DC 20515-2801", 
+            "contact_form": "https://titus.house.gov/contact/email-me", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3119", 
+            "office": "401 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5965", 
+            "rss_url": "http://titus.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NV", 
+            "type": "rep", 
+            "url": "http://titus.house.gov"
+        }, 
+        {
+            "address": "401 Cannon HOB; Washington DC 20515-2801", 
+            "contact_form": "https://titus.house.gov/contact/email-me", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "office": "401 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5965", 
+            "rss_url": "http://titus.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NV", 
+            "type": "rep", 
+            "url": "https://titus.house.gov"
+        }, 
+        {
+            "address": "2464 Rayburn House Office Building; Washington DC 20515-2801", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "office": "2464 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5965", 
+            "rss_url": "http://titus.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NV", 
+            "type": "rep", 
+            "url": "https://titus.house.gov"
+        }
+    ]
+}

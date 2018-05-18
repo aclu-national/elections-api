@@ -1,0 +1,80 @@
+{
+    "bio": {
+        "birthday": "1963-02-13", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Filemon Vela", 
+        "bioguide": "V000132", 
+        "cspan": 95434, 
+        "fec": [
+            "H2TX27190"
+        ], 
+        "google_entity_id": "kg:/m/0ll43fz", 
+        "govtrack": 412580, 
+        "icpsr": 21366, 
+        "maplight": 1804, 
+        "opensecrets": "N00034349", 
+        "thomas": "02167", 
+        "votesmart": 137719, 
+        "wikidata": "Q4069225", 
+        "wikipedia": "Filemon Vela Jr."
+    }, 
+    "name": {
+        "first": "Filemon", 
+        "last": "Vela", 
+        "official_full": "Filemon Vela"
+    }, 
+    "social": {
+        "facebook": "USCongressmanFilemonVela", 
+        "twitter": "RepFilemonVela", 
+        "twitter_id": 1083448909, 
+        "youtube": "RepFilemonVela"
+    }, 
+    "terms": [
+        {
+            "address": "437 Cannon HOB; Washington DC 20515-4334", 
+            "contact_form": "https://forms.house.gov/vela/webforms/email-me.shtml", 
+            "district": 34, 
+            "end": "2015-01-03", 
+            "fax": "202-225-9770", 
+            "office": "437 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-9901", 
+            "rss_url": "http://vela.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://vela.house.gov"
+        }, 
+        {
+            "address": "437 Cannon HOB; Washington DC 20515-4334", 
+            "contact_form": "https://forms.house.gov/vela/webforms/email-me.shtml", 
+            "district": 34, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9770", 
+            "office": "437 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-9901", 
+            "rss_url": "http://vela.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://vela.house.gov"
+        }, 
+        {
+            "address": "437 Cannon House Office Building; Washington DC 20515-4334", 
+            "district": 34, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9770", 
+            "office": "437 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-9901", 
+            "rss_url": "http://vela.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://vela.house.gov"
+        }
+    ]
+}

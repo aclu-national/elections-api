@@ -1,0 +1,198 @@
+{
+    "bio": {
+        "birthday": "1947-11-19", 
+        "gender": "M", 
+        "religion": "Christian Scientist"
+    }, 
+    "id": {
+        "ballotpedia": "Lamar Smith", 
+        "bioguide": "S000583", 
+        "cspan": 8884, 
+        "fec": [
+            "H6TX21012"
+        ], 
+        "google_entity_id": "kg:/m/03twnt", 
+        "govtrack": 400381, 
+        "house_history": 21856, 
+        "icpsr": 15445, 
+        "maplight": 470, 
+        "opensecrets": "N00001811", 
+        "thomas": "01075", 
+        "votesmart": 27097, 
+        "wikidata": "Q685149", 
+        "wikipedia": "Lamar Smith"
+    }, 
+    "name": {
+        "first": "Lamar", 
+        "last": "Smith", 
+        "middle": "S.", 
+        "official_full": "Lamar Smith"
+    }, 
+    "social": {
+        "facebook": "LamarSmithTX21", 
+        "twitter": "LamarSmithTX21", 
+        "twitter_id": 15856366, 
+        "youtube": "lamarsmithtexas21", 
+        "youtube_id": "UCc2q5flh9dSoyg4W9osGW8Q"
+    }, 
+    "terms": [
+        {
+            "district": 21, 
+            "end": "1989-01-03", 
+            "party": "Republican", 
+            "start": "1987-01-06", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "1991-01-03", 
+            "party": "Republican", 
+            "start": "1989-01-03", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "1993-01-03", 
+            "party": "Republican", 
+            "start": "1991-01-03", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "1995-01-03", 
+            "party": "Republican", 
+            "start": "1993-01-05", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 21, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://lamarsmith.house.gov"
+        }, 
+        {
+            "district": 21, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://lamarsmith.house.gov"
+        }, 
+        {
+            "district": 21, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://lamarsmith.house.gov"
+        }, 
+        {
+            "district": 21, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://lamarsmith.house.gov"
+        }, 
+        {
+            "address": "2409 Rayburn HOB; Washington DC 20515-4321", 
+            "contact_form": "http://lamarsmith.house.gov/contact.aspx?section=Mail", 
+            "district": 21, 
+            "end": "2013-01-03", 
+            "fax": "202-225-8628", 
+            "office": "2409 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4236", 
+            "start": "2011-01-05", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://lamarsmith.house.gov"
+        }, 
+        {
+            "address": "2409 Rayburn HOB; Washington DC 20515-4321", 
+            "contact_form": "http://lamarsmith.house.gov/contact/email-lamar", 
+            "district": 21, 
+            "end": "2015-01-03", 
+            "fax": "202-225-8628", 
+            "office": "2409 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4236", 
+            "rss_url": "http://lamarsmith.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://lamarsmith.house.gov"
+        }, 
+        {
+            "address": "2409 Rayburn HOB; Washington DC 20515-4321", 
+            "contact_form": "http://lamarsmith.house.gov/contact/email-lamar", 
+            "district": 21, 
+            "end": "2017-01-03", 
+            "fax": "202-225-8628", 
+            "office": "2409 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4236", 
+            "rss_url": "http://lamarsmith.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://lamarsmith.house.gov"
+        }, 
+        {
+            "address": "2409 Rayburn House Office Building; Washington DC 20515-4321", 
+            "district": 21, 
+            "end": "2019-01-03", 
+            "fax": "202-225-8628", 
+            "office": "2409 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4236", 
+            "rss_url": "http://lamarsmith.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://lamarsmith.house.gov"
+        }
+    ]
+}

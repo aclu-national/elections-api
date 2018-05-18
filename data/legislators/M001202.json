@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1978-09-16", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "M001202", 
+        "cspan": 103502, 
+        "fec": [
+            "H6FL07140"
+        ], 
+        "google_entity_id": "kg:/g/11c48s1mnv", 
+        "govtrack": 412694, 
+        "icpsr": 21738, 
+        "maplight": 2206, 
+        "opensecrets": "N00040133", 
+        "votesmart": 173426, 
+        "wikidata": "Q27804538", 
+        "wikipedia": "Stephanie Murphy"
+    }, 
+    "name": {
+        "first": "Stephanie", 
+        "last": "Murphy", 
+        "official_full": "Stephanie N. Murphy"
+    }, 
+    "social": {
+        "facebook": "RepStephMurphy", 
+        "instagram": "RepStephMurphy", 
+        "twitter": "RepStephMurphy", 
+        "twitter_id": 796183515998068736, 
+        "youtube": "RepStephMurphy"
+    }, 
+    "terms": [
+        {
+            "address": "1237 Longworth House Office Building; Washington DC 20515-0907", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "office": "1237 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4035", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://stephaniemurphy.house.gov"
+        }
+    ]
+}

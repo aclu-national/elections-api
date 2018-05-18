@@ -1,0 +1,182 @@
+{
+    "bio": {
+        "birthday": "1938-08-15", 
+        "gender": "F", 
+        "religion": "Christian"
+    }, 
+    "id": {
+        "ballotpedia": "Maxine Waters", 
+        "bioguide": "W000187", 
+        "cspan": 1953, 
+        "fec": [
+            "H4CA23011"
+        ], 
+        "google_entity_id": "kg:/m/024tyk", 
+        "govtrack": 400422, 
+        "house_history": 23438, 
+        "icpsr": 29106, 
+        "maplight": 507, 
+        "opensecrets": "N00006690", 
+        "thomas": "01205", 
+        "votesmart": 26759, 
+        "wikidata": "Q461727", 
+        "wikipedia": "Maxine Waters"
+    }, 
+    "name": {
+        "first": "Maxine", 
+        "last": "Waters", 
+        "official_full": "Maxine Waters"
+    }, 
+    "social": {
+        "facebook": "MaxineWaters", 
+        "instagram": "repmaxinewaters", 
+        "twitter": "RepMaxineWaters", 
+        "twitter_id": 36686040, 
+        "youtube": "MaxineWaters", 
+        "youtube_id": "UCOQ2js1VYFlo74n7Ns8WsLQ"
+    }, 
+    "terms": [
+        {
+            "district": 29, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 35, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 35, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 35, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 35, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 35, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 35, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/waters"
+        }, 
+        {
+            "district": 35, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/waters"
+        }, 
+        {
+            "district": 35, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/waters"
+        }, 
+        {
+            "district": 35, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/waters"
+        }, 
+        {
+            "address": "2344 Rayburn HOB; Washington DC 20515-0535", 
+            "contact_form": "http://www.house.gov/waters/IMA/issue.htm", 
+            "district": 35, 
+            "end": "2013-01-03", 
+            "fax": "202-225-7854", 
+            "office": "2344 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2201", 
+            "start": "2011-01-05", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/waters"
+        }, 
+        {
+            "address": "2221 Rayburn HOB; Washington DC 20515-0543", 
+            "contact_form": "https://waters.house.gov/contact/contactform.htm", 
+            "district": 43, 
+            "end": "2015-01-03", 
+            "fax": "202-225-7854", 
+            "office": "2221 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2201", 
+            "rss_url": "http://waters.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://waters.house.gov"
+        }, 
+        {
+            "address": "2221 Rayburn HOB; Washington DC 20515-0543", 
+            "contact_form": "https://waters.house.gov/contact/contactform.htm", 
+            "district": 43, 
+            "end": "2017-01-03", 
+            "fax": "202-225-7854", 
+            "office": "2221 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2201", 
+            "rss_url": "http://waters.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://waters.house.gov"
+        }, 
+        {
+            "address": "2221 Rayburn House Office Building; Washington DC 20515-0543", 
+            "district": 43, 
+            "end": "2019-01-03", 
+            "fax": "202-225-7854", 
+            "office": "2221 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2201", 
+            "rss_url": "http://waters.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://waters.house.gov"
+        }
+    ]
+}

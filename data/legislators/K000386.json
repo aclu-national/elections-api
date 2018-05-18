@@ -1,0 +1,60 @@
+{
+    "bio": {
+        "birthday": "1962-11-09", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "K000386", 
+        "cspan": 76367, 
+        "fec": [
+            "H4NY24073"
+        ], 
+        "google_entity_id": "kg:/m/0127pf8s", 
+        "govtrack": 412649, 
+        "icpsr": 21542, 
+        "maplight": 2105, 
+        "opensecrets": "N00035934", 
+        "thomas": "02264", 
+        "votesmart": 152546, 
+        "wikidata": "Q18619043", 
+        "wikipedia": "John Katko"
+    }, 
+    "name": {
+        "first": "John", 
+        "last": "Katko", 
+        "official_full": "John Katko"
+    }, 
+    "social": {
+        "facebook": "RepJohnKatko", 
+        "twitter": "RepJohnKatko", 
+        "twitter_id": 2966765501
+    }, 
+    "terms": [
+        {
+            "address": "1123 Longworth HOB; Washington DC 20515-3224", 
+            "district": 24, 
+            "end": "2017-01-03", 
+            "fax": "202-225-4042", 
+            "office": "1123 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3701", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://katko.house.gov"
+        }, 
+        {
+            "address": "1620 Longworth House Office Building; Washington DC 20515-3224", 
+            "district": 24, 
+            "end": "2019-01-03", 
+            "fax": "202-225-4042", 
+            "office": "1620 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3701", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://katko.house.gov"
+        }
+    ]
+}

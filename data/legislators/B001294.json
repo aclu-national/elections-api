@@ -1,0 +1,60 @@
+{
+    "bio": {
+        "birthday": "1955-04-26", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Rod Blum", 
+        "bioguide": "B001294", 
+        "cspan": 623771, 
+        "fec": [
+            "H2IA01055"
+        ], 
+        "google_entity_id": "kg:/m/0127p02j", 
+        "govtrack": 412627, 
+        "icpsr": 21520, 
+        "maplight": 2083, 
+        "opensecrets": "N00033744", 
+        "thomas": "02241", 
+        "votesmart": 135714, 
+        "wikidata": "Q18684853", 
+        "wikipedia": "Rod Blum"
+    }, 
+    "name": {
+        "first": "Rod", 
+        "last": "Blum", 
+        "official_full": "Rod Blum"
+    }, 
+    "social": {
+        "facebook": "congressmanrodblum", 
+        "twitter": "RepRodBlum", 
+        "twitter_id": 2965083477, 
+        "youtube_id": "UCACYUrK1zFAZzKcmz9ibEAg"
+    }, 
+    "terms": [
+        {
+            "address": "213 Cannon HOB; Washington DC 20515-1501", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "office": "213 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2911", 
+            "start": "2015-01-06", 
+            "state": "IA", 
+            "type": "rep", 
+            "url": "https://blum.house.gov"
+        }, 
+        {
+            "address": "1108 Longworth House Office Building; Washington DC 20515-1501", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "office": "1108 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2911", 
+            "start": "2017-01-03", 
+            "state": "IA", 
+            "type": "rep", 
+            "url": "https://blum.house.gov"
+        }
+    ]
+}

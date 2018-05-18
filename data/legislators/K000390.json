@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1980-04-25", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "K000390", 
+        "cspan": 79707, 
+        "fec": [
+            "H2NV00050"
+        ], 
+        "google_entity_id": "kg:/m/03hnv7g", 
+        "govtrack": 412716, 
+        "icpsr": 21729, 
+        "maplight": 2228, 
+        "opensecrets": "N00033530", 
+        "votesmart": 66851, 
+        "wikidata": "Q7375978", 
+        "wikipedia": "Ruben Kihuen"
+    }, 
+    "name": {
+        "first": "Ruben", 
+        "last": "Kihuen", 
+        "official_full": "Ruben J. Kihuen"
+    }, 
+    "social": {
+        "facebook": "RepKihuen", 
+        "instagram": "RepKihuen", 
+        "twitter": "RepKihuen", 
+        "twitter_id": 816282029276938240
+    }, 
+    "terms": [
+        {
+            "address": "313 Cannon House Office Building; Washington DC 20515-2804", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "office": "313 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-9894", 
+            "start": "2017-01-03", 
+            "state": "NV", 
+            "type": "rep", 
+            "url": "https://kihuen.house.gov"
+        }
+    ]
+}

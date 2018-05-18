@@ -1,0 +1,64 @@
+{
+    "bio": {
+        "birthday": "1962-05-14", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "W000820", 
+        "cspan": 76141, 
+        "fec": [
+            "H4CA45097"
+        ], 
+        "google_entity_id": "kg:/m/077r0l", 
+        "govtrack": 412618, 
+        "house_history": 15032409970, 
+        "icpsr": 21509, 
+        "maplight": 2074, 
+        "opensecrets": "N00035391", 
+        "thomas": "02232", 
+        "votesmart": 29346, 
+        "wikidata": "Q6862199", 
+        "wikipedia": "Mimi Walters"
+    }, 
+    "name": {
+        "first": "Mimi", 
+        "last": "Walters", 
+        "official_full": "Mimi Walters"
+    }, 
+    "social": {
+        "facebook": "RepMimiWalters", 
+        "instagram": "rep_mimiwalters", 
+        "instagram_id": 301820337, 
+        "twitter": "RepMimiWalters", 
+        "twitter_id": 47798449, 
+        "youtube_id": "UCyFubcwlZVLVLg-T-2PuooQ"
+    }, 
+    "terms": [
+        {
+            "address": "236 Cannon HOB; Washington DC 20515-0545", 
+            "district": 45, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9177", 
+            "office": "236 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5611", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://walters.house.gov"
+        }, 
+        {
+            "address": "215 Cannon House Office Building; Washington DC 20515-0545", 
+            "district": 45, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9177", 
+            "office": "215 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5611", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://walters.house.gov"
+        }
+    ]
+}

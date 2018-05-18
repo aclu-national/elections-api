@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1950-06-20", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "B001292", 
+        "cspan": 21141, 
+        "fec": [
+            "H4VA08224"
+        ], 
+        "google_entity_id": "kg:/m/053g16", 
+        "govtrack": 412657, 
+        "icpsr": 21554, 
+        "maplight": 2113, 
+        "opensecrets": "N00036018", 
+        "thomas": "02272", 
+        "votesmart": 1707, 
+        "wikidata": "Q3036086", 
+        "wikipedia": "Don Beyer"
+    }, 
+    "name": {
+        "first": "Donald", 
+        "last": "Beyer", 
+        "official_full": "Donald S. Beyer, Jr."
+    }, 
+    "social": {
+        "facebook": "repdonbeyer", 
+        "instagram": "repdonbeyer", 
+        "twitter": "repdonbeyer", 
+        "twitter_id": 2962868158, 
+        "youtube_id": "UCPJGVbOVcAVGiBwq8qr_T9w"
+    }, 
+    "terms": [
+        {
+            "address": "431 Cannon HOB; Washington DC 20515-4608", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0017", 
+            "office": "431 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4376", 
+            "start": "2015-01-06", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "http://beyer.house.gov"
+        }, 
+        {
+            "address": "1119 Longworth House Office Building; Washington DC 20515-4608", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0017", 
+            "office": "1119 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4376", 
+            "start": "2017-01-03", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://beyer.house.gov"
+        }
+    ]
+}

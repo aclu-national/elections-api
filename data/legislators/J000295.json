@@ -1,0 +1,84 @@
+{
+    "bio": {
+        "birthday": "1957-03-17", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "David Joyce", 
+        "bioguide": "J000295", 
+        "cspan": 68561, 
+        "fec": [
+            "H2OH14064"
+        ], 
+        "google_entity_id": "kg:/m/0ktwnp_", 
+        "govtrack": 412566, 
+        "icpsr": 21353, 
+        "maplight": 1790, 
+        "opensecrets": "N00035007", 
+        "thomas": "02154", 
+        "votesmart": 143052, 
+        "wikidata": "Q976778", 
+        "wikipedia": "David Joyce (politician)"
+    }, 
+    "name": {
+        "first": "David", 
+        "last": "Joyce", 
+        "middle": "P.", 
+        "official_full": "David P. Joyce"
+    }, 
+    "social": {
+        "facebook": "RepDaveJoyce", 
+        "instagram": "repdavejoyce", 
+        "instagram_id": 360743678, 
+        "twitter": "RepDaveJoyce", 
+        "twitter_id": 976969338, 
+        "youtube": "repdavejoyce", 
+        "youtube_id": "UCTu9xz2VYk-jtQv0TVsLyYA"
+    }, 
+    "terms": [
+        {
+            "address": "1535 Longworth HOB; Washington DC 20515-3514", 
+            "contact_form": "https://joyce.house.gov/email-me", 
+            "district": 14, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3307", 
+            "office": "1535 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5731", 
+            "rss_url": "http://joyce.house.gov/rss/press-releases.xml", 
+            "start": "2013-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://joyce.house.gov"
+        }, 
+        {
+            "address": "1124 Longworth HOB; Washington DC 20515-3514", 
+            "contact_form": "https://joyce.house.gov/email-me", 
+            "district": 14, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3307", 
+            "office": "1124 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5731", 
+            "rss_url": "http://joyce.house.gov/rss/press-releases.xml", 
+            "start": "2015-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://joyce.house.gov"
+        }, 
+        {
+            "address": "1124 Longworth House Office Building; Washington DC 20515-3514", 
+            "district": 14, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3307", 
+            "office": "1124 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5731", 
+            "rss_url": "http://joyce.house.gov/rss/press-releases.xml", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://joyce.house.gov"
+        }
+    ]
+}

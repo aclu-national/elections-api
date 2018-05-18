@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1979-06-27", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "T000477", 
+        "cspan": 96047, 
+        "fec": [
+            "H0VA02118"
+        ], 
+        "google_entity_id": "kg:/m/011bsmj8", 
+        "govtrack": 412727, 
+        "icpsr": 21748, 
+        "maplight": 2239, 
+        "opensecrets": "N00031263", 
+        "votesmart": 144514, 
+        "wikidata": "Q17089502", 
+        "wikipedia": "Scott Taylor (politician)"
+    }, 
+    "name": {
+        "first": "Scott", 
+        "last": "Taylor", 
+        "official_full": "Scott Taylor"
+    }, 
+    "social": {
+        "facebook": "RepScottTaylor", 
+        "twitter": "RepScottTaylor", 
+        "twitter_id": 837722935095930883, 
+        "youtube_id": "UCL_UCG7VqJRfneFTwg8UVmg"
+    }, 
+    "terms": [
+        {
+            "address": "412 Cannon House Office Building; Washington DC 20515-4602", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "office": "412 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4215", 
+            "start": "2017-01-03", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://taylor.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "bio": {
+        "birthday": "1949-12-10", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "P000612", 
+        "cspan": 75920, 
+        "fec": [
+            "S4GA11285"
+        ], 
+        "google_entity_id": "kg:/m/03wp8v4", 
+        "govtrack": 412666, 
+        "icpsr": 41501, 
+        "lis": "S379", 
+        "maplight": 2122, 
+        "opensecrets": "N00035516", 
+        "thomas": "02286", 
+        "votesmart": 151330, 
+        "wikidata": "Q17402717", 
+        "wikipedia": "David Perdue"
+    }, 
+    "name": {
+        "first": "David", 
+        "last": "Perdue", 
+        "official_full": "David Perdue"
+    }, 
+    "social": {
+        "facebook": "SenatorDavidPerdue", 
+        "instagram": "sendavidperdue", 
+        "instagram_id": 1650058430, 
+        "twitter": "sendavidperdue", 
+        "twitter_id": 2863210809, 
+        "youtube_id": "UCXHsrkPP4TAm0s0qB1C31Lw"
+    }, 
+    "terms": [
+        {
+            "address": "455 Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.perdue.senate.gov/connect/email", 
+            "end": "2021-01-03", 
+            "office": "455 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3521", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.perdue.senate.gov"
+        }
+    ]
+}

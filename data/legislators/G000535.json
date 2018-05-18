@@ -1,0 +1,174 @@
+{
+    "bio": {
+        "birthday": "1953-12-10", 
+        "gender": "M", 
+        "religion": "Roman Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Luis V. Gutierrez", 
+        "bioguide": "G000535", 
+        "cspan": 23476, 
+        "fec": [
+            "H2IL08039"
+        ], 
+        "google_entity_id": "kg:/m/0256d5", 
+        "govtrack": 400163, 
+        "house_history": 14235, 
+        "icpsr": 29348, 
+        "maplight": 269, 
+        "opensecrets": "N00004874", 
+        "thomas": "00478", 
+        "votesmart": 26841, 
+        "wikidata": "Q718127", 
+        "wikipedia": "Luis Guti\u00e9rrez"
+    }, 
+    "name": {
+        "first": "Luis", 
+        "last": "Guti\u00e9rrez", 
+        "middle": "V.", 
+        "official_full": "Luis V. Guti\u00e9rrez"
+    }, 
+    "social": {
+        "facebook": "RepGutierrez", 
+        "twitter": "RepGutierrez", 
+        "twitter_id": 36948268, 
+        "youtube": "repluisgutierrez", 
+        "youtube_id": "UCLooufcInrRP1FQn_WY9yDA"
+    }, 
+    "terms": [
+        {
+            "district": 4, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/gutierrez"
+        }, 
+        {
+            "district": 4, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/gutierrez"
+        }, 
+        {
+            "district": 4, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/gutierrez"
+        }, 
+        {
+            "district": 4, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/gutierrez"
+        }, 
+        {
+            "address": "2266 Rayburn HOB; Washington DC 20515-1304", 
+            "contact_form": "http://www.house.gov/writerep", 
+            "district": 4, 
+            "end": "2013-01-03", 
+            "fax": "202-225-7810", 
+            "office": "2266 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8203", 
+            "start": "2011-01-05", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/gutierrez"
+        }, 
+        {
+            "address": "2408 Rayburn HOB; Washington DC 20515-1304", 
+            "contact_form": "http://gutierrezforms.house.gov/contact/", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "fax": "202-225-7810", 
+            "office": "2408 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8203", 
+            "rss_url": "http://gutierrez.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://gutierrez.house.gov"
+        }, 
+        {
+            "address": "2408 Rayburn HOB; Washington DC 20515-1304", 
+            "contact_form": "http://gutierrezforms.house.gov/contact/", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-225-7810", 
+            "office": "2408 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8203", 
+            "rss_url": "http://gutierrez.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://gutierrez.house.gov"
+        }, 
+        {
+            "address": "2408 Rayburn House Office Building; Washington DC 20515-1304", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-225-7810", 
+            "office": "2408 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8203", 
+            "rss_url": "http://gutierrez.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "https://gutierrez.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1954-05-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Dwight Evans", 
+        "bioguide": "E000296", 
+        "cspan": 56729, 
+        "fec": [
+            "H6PA02171"
+        ], 
+        "google_entity_id": "kg:/m/03y8h6m", 
+        "govtrack": 412677, 
+        "icpsr": 21566, 
+        "maplight": 2167, 
+        "opensecrets": "N00038450", 
+        "votesmart": 9128, 
+        "wikidata": "Q5318148", 
+        "wikipedia": "Dwight Evans (politician)"
+    }, 
+    "name": {
+        "first": "Dwight", 
+        "last": "Evans", 
+        "official_full": "Dwight Evans"
+    }, 
+    "social": {
+        "facebook": "RepDwightEvans", 
+        "twitter": "RepDwightEvans", 
+        "twitter_id": 90639372
+    }, 
+    "terms": [
+        {
+            "address": "2301 Rayburn HOB; Washington DC 20515-3802", 
+            "contact_form": "https://evans.house.gov/contact/email", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "office": "2301 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4001", 
+            "rss_url": "https://evans.house.gov/rss.xml", 
+            "start": "2016-11-14", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "https://evans.house.gov/"
+        }, 
+        {
+            "address": "1105 Longworth House Office Building; Washington DC 20515-3802", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "office": "1105 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4001", 
+            "rss_url": "https://evans.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "PA", 
+            "type": "rep", 
+            "url": "https://evans.house.gov"
+        }
+    ]
+}

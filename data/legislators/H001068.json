@@ -1,0 +1,82 @@
+{
+    "bio": {
+        "birthday": "1964-02-18", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Jared Huffman", 
+        "bioguide": "H001068", 
+        "cspan": 622431, 
+        "fec": [
+            "H2CA06259"
+        ], 
+        "google_entity_id": "kg:/m/0ksfyx", 
+        "govtrack": 412511, 
+        "icpsr": 21303, 
+        "maplight": 1735, 
+        "opensecrets": "N00033030", 
+        "thomas": "02101", 
+        "votesmart": 59849, 
+        "wikidata": "Q3276717", 
+        "wikipedia": "Jared Huffman"
+    }, 
+    "name": {
+        "first": "Jared", 
+        "last": "Huffman", 
+        "official_full": "Jared Huffman"
+    }, 
+    "social": {
+        "facebook": "RepHuffman", 
+        "instagram": "rephuffman", 
+        "twitter": "RepHuffman", 
+        "twitter_id": 1071102246, 
+        "youtube": "rephuffman", 
+        "youtube_id": "UCJU6SP1ppp1ZhSiqZLiFgDA"
+    }, 
+    "terms": [
+        {
+            "address": "1630 Longworth HOB; Washington DC 20515-0502", 
+            "contact_form": "https://huffman.house.gov/contact/email-me", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5163", 
+            "office": "1630 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5161", 
+            "rss_url": "http://huffman.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://huffman.house.gov"
+        }, 
+        {
+            "address": "1630 Longworth HOB; Washington DC 20515-0502", 
+            "contact_form": "https://huffman.house.gov/contact/email-me", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5163", 
+            "office": "1630 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5161", 
+            "rss_url": "http://huffman.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://huffman.house.gov"
+        }, 
+        {
+            "address": "1406 Longworth House Office Building; Washington DC 20515-0502", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5163", 
+            "office": "1406 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5161", 
+            "rss_url": "http://huffman.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://huffman.house.gov"
+        }
+    ]
+}

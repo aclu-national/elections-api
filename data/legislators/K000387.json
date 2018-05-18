@@ -1,0 +1,63 @@
+{
+    "bio": {
+        "birthday": "1966-12-17", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Stephen Knight", 
+        "bioguide": "K000387", 
+        "cspan": 76118, 
+        "fec": [
+            "H4CA25123"
+        ], 
+        "google_entity_id": "kg:/m/05zjrvq", 
+        "govtrack": 412614, 
+        "icpsr": 21505, 
+        "maplight": 2070, 
+        "opensecrets": "N00035820", 
+        "thomas": "02228", 
+        "votesmart": 71098, 
+        "wikidata": "Q7613060", 
+        "wikipedia": "Steve Knight (politician)"
+    }, 
+    "name": {
+        "first": "Steve", 
+        "last": "Knight", 
+        "official_full": "Stephen Knight"
+    }, 
+    "social": {
+        "facebook": "RepresentativeSteveKnight", 
+        "instagram": "repsteveknight", 
+        "twitter": "SteveKnight25", 
+        "twitter_id": 2974648323, 
+        "youtube_id": "UCNfnbtkP6hGUq1TLFQ3fD5Q"
+    }, 
+    "terms": [
+        {
+            "address": "1023 Longworth HOB; Washington DC 20515-0525", 
+            "district": 25, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0683", 
+            "office": "1023 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-1956", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://knight.house.gov"
+        }, 
+        {
+            "address": "1023 Longworth House Office Building; Washington DC 20515-0525", 
+            "district": 25, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0683", 
+            "office": "1023 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-1956", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://knight.house.gov"
+        }
+    ]
+}

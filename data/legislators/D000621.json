@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1978-09-14", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Ron DeSantis", 
+        "bioguide": "D000621", 
+        "cspan": 79744, 
+        "fec": [
+            "H2FL00292"
+        ], 
+        "google_entity_id": "kg:/m/0l8mn35", 
+        "govtrack": 412526, 
+        "icpsr": 21318, 
+        "maplight": 1750, 
+        "opensecrets": "N00034746", 
+        "thomas": "02116", 
+        "votesmart": 137630, 
+        "wikidata": "Q3105215", 
+        "wikipedia": "Ron DeSantis"
+    }, 
+    "name": {
+        "first": "Ron", 
+        "last": "DeSantis", 
+        "official_full": "Ron DeSantis"
+    }, 
+    "social": {
+        "facebook": "RepDeSantis", 
+        "twitter": "RepDeSantis", 
+        "twitter_id": 1058807868, 
+        "youtube": "RepRonDeSantis", 
+        "youtube_id": "UCRM1qBatq45tZxRqYeUa02g"
+    }, 
+    "terms": [
+        {
+            "address": "427 Cannon HOB; Washington DC 20515-0906", 
+            "contact_form": "https://desantis.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "fax": "202-226-6299", 
+            "office": "427 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2706", 
+            "rss_url": "http://desantis.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://desantis.house.gov"
+        }, 
+        {
+            "address": "308 Cannon HOB; Washington DC 20515-0906", 
+            "contact_form": "https://desantis.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "fax": "202-226-6299", 
+            "office": "308 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2706", 
+            "rss_url": "http://desantis.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://desantis.house.gov"
+        }, 
+        {
+            "address": "1524 Longworth House Office Building; Washington DC 20515-0906", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "fax": "202-226-6299", 
+            "office": "1524 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2706", 
+            "rss_url": "http://desantis.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://desantis.house.gov"
+        }
+    ]
+}

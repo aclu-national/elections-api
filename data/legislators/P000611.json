@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1953-11-01", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "P000611", 
+        "cspan": 76253, 
+        "fec": [
+            "S2ME00158", 
+            "H4ME02234"
+        ], 
+        "google_entity_id": "kg:/m/0hrbhmw", 
+        "govtrack": 412633, 
+        "icpsr": 21524, 
+        "maplight": 2089, 
+        "opensecrets": "N00034584", 
+        "thomas": "02247", 
+        "votesmart": 120909, 
+        "wikidata": "Q4978147", 
+        "wikipedia": "Bruce Poliquin"
+    }, 
+    "name": {
+        "first": "Bruce", 
+        "last": "Poliquin", 
+        "official_full": "Bruce Poliquin"
+    }, 
+    "social": {
+        "facebook": "RepPoliquin", 
+        "twitter": "RepPoliquin", 
+        "twitter_id": 2932617195, 
+        "youtube_id": "UCFk3paQ30PAME40YgJkuH4Q"
+    }, 
+    "terms": [
+        {
+            "address": "426 Cannon HOB; Washington DC 20515-1902", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-2943", 
+            "office": "426 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6306", 
+            "start": "2015-01-06", 
+            "state": "ME", 
+            "type": "rep", 
+            "url": "https://poliquin.house.gov"
+        }, 
+        {
+            "address": "1208 Longworth House Office Building; Washington DC 20515-1902", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2943", 
+            "office": "1208 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6306", 
+            "start": "2017-01-03", 
+            "state": "ME", 
+            "type": "rep", 
+            "url": "https://poliquin.house.gov"
+        }
+    ]
+}

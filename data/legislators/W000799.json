@@ -1,0 +1,114 @@
+{
+    "bio": {
+        "birthday": "1964-04-06", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Tim Walz", 
+        "bioguide": "W000799", 
+        "cspan": 1018510, 
+        "fec": [
+            "H6MN01174"
+        ], 
+        "google_entity_id": "kg:/m/06wntz", 
+        "govtrack": 412214, 
+        "house_history": 24181, 
+        "icpsr": 20726, 
+        "maplight": 699, 
+        "opensecrets": "N00027467", 
+        "thomas": "01856", 
+        "votesmart": 65443, 
+        "wikidata": "Q2434360", 
+        "wikipedia": "Tim Walz"
+    }, 
+    "name": {
+        "first": "Timothy", 
+        "last": "Walz", 
+        "middle": "James", 
+        "official_full": "Timothy J. Walz"
+    }, 
+    "social": {
+        "twitter": "RepTimWalz", 
+        "twitter_id": 1262814457, 
+        "youtube": "1529tjw", 
+        "youtube_id": "UCAaYwb6XgcSVZ-5s3ei2g6g"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "http://walz.house.gov"
+        }, 
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "http://walz.house.gov"
+        }, 
+        {
+            "address": "1722 Longworth HOB; Washington DC 20515-2301", 
+            "contact_form": "http://walz.house.gov/zip_auth.shtm", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3433", 
+            "office": "1722 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2472", 
+            "start": "2011-01-05", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "http://walz.house.gov"
+        }, 
+        {
+            "address": "1034 Longworth HOB; Washington DC 20515-2301", 
+            "contact_form": "http://walz.house.gov/contact", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3433", 
+            "office": "1034 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2472", 
+            "rss_url": "http://walz.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "http://walz.house.gov"
+        }, 
+        {
+            "address": "1034 Longworth HOB; Washington DC 20515-2301", 
+            "contact_form": "http://walz.house.gov/contact", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3433", 
+            "office": "1034 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2472", 
+            "rss_url": "http://walz.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "http://walz.house.gov"
+        }, 
+        {
+            "address": "2313 Rayburn House Office Building; Washington DC 20515-2301", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3433", 
+            "office": "2313 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2472", 
+            "rss_url": "http://walz.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "MN", 
+            "type": "rep", 
+            "url": "https://walz.house.gov"
+        }
+    ]
+}

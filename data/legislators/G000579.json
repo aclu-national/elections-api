@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1984-03-03", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "G000579", 
+        "cspan": 104067, 
+        "fec": [
+            "H6WI08155"
+        ], 
+        "google_entity_id": "kg:/g/11c5qns1cc", 
+        "govtrack": 412731, 
+        "icpsr": 21720, 
+        "maplight": 2243, 
+        "opensecrets": "N00039330", 
+        "votesmart": 171843, 
+        "wikidata": "Q27842981", 
+        "wikipedia": "Mike Gallagher (American politician)"
+    }, 
+    "name": {
+        "first": "Mike", 
+        "last": "Gallagher", 
+        "official_full": "Mike Gallagher"
+    }, 
+    "social": {
+        "facebook": "RepMikeGallagher", 
+        "twitter": "RepGallagher", 
+        "twitter_id": 815966620300480514
+    }, 
+    "terms": [
+        {
+            "address": "1007 Longworth House Office Building; Washington DC 20515-4908", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "office": "1007 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5665", 
+            "start": "2017-01-03", 
+            "state": "WI", 
+            "type": "rep", 
+            "url": "https://gallagher.house.gov"
+        }
+    ]
+}

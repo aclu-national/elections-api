@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1947-02-02", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "B001301", 
+        "cspan": 1020529, 
+        "fec": [
+            "H6MI01226"
+        ], 
+        "google_entity_id": "kg:/m/05b2l3v", 
+        "govtrack": 412709, 
+        "icpsr": 21704, 
+        "maplight": 2221, 
+        "opensecrets": "N00039533", 
+        "votesmart": 170172, 
+        "wikidata": "Q6262116", 
+        "wikipedia": "Jack Bergman"
+    }, 
+    "name": {
+        "first": "Jack", 
+        "last": "Bergman", 
+        "official_full": "Jack Bergman"
+    }, 
+    "social": {
+        "facebook": "RepJackBergman", 
+        "instagram": "RepJackBergman", 
+        "twitter": "RepJackBergman", 
+        "twitter_id": 815241612154417152, 
+        "youtube": "RepJackBergman"
+    }, 
+    "terms": [
+        {
+            "address": "414 Cannon House Office Building; Washington DC 20515-2201", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "office": "414 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4735", 
+            "start": "2017-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://bergman.house.gov"
+        }
+    ]
+}

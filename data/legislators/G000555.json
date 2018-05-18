@@ -1,0 +1,89 @@
+{
+    "bio": {
+        "birthday": "1966-12-09", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Kirsten Gillibrand", 
+        "bioguide": "G000555", 
+        "cspan": 1022862, 
+        "fec": [
+            "H6NY20167", 
+            "S0NY00410"
+        ], 
+        "google_entity_id": "kg:/m/0gnfc4", 
+        "govtrack": 412223, 
+        "house_history": 14269, 
+        "icpsr": 20735, 
+        "lis": "S331", 
+        "maplight": 708, 
+        "opensecrets": "N00027658", 
+        "thomas": "01866", 
+        "votesmart": 65147, 
+        "wikidata": "Q22222", 
+        "wikipedia": "Kirsten Gillibrand"
+    }, 
+    "name": {
+        "first": "Kirsten", 
+        "last": "Gillibrand", 
+        "middle": "E.", 
+        "official_full": "Kirsten E. Gillibrand"
+    }, 
+    "social": {
+        "facebook": "SenKirstenGillibrand", 
+        "twitter": "SenGillibrand", 
+        "twitter_id": 72198806, 
+        "youtube": "KirstenEGillibrand", 
+        "youtube_id": "UCVEloQogVsmnkd5vxJInmYg"
+    }, 
+    "terms": [
+        {
+            "district": 20, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://gillibrand.house.gov"
+        }, 
+        {
+            "district": 20, 
+            "end": "2009-01-26", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://gillibrand.house.gov"
+        }, 
+        {
+            "address": "478 RUSSELL SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.gillibrand.senate.gov/contact/", 
+            "end": "2013-01-03", 
+            "fax": "202-228-0282", 
+            "office": "478 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-4451", 
+            "start": "2009-01-27", 
+            "state": "NY", 
+            "type": "sen", 
+            "url": "http://gillibrand.senate.gov"
+        }, 
+        {
+            "address": "478 Russell Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.gillibrand.senate.gov/contact/email-me", 
+            "end": "2019-01-03", 
+            "fax": "202-228-0282", 
+            "office": "478 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-4451", 
+            "rss_url": "http://www.gillibrand.senate.gov/rss/", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.gillibrand.senate.gov"
+        }
+    ]
+}

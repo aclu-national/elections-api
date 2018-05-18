@@ -1,0 +1,80 @@
+{
+    "bio": {
+        "birthday": "1964-11-28", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Michael Bennet", 
+        "bioguide": "B001267", 
+        "cspan": 1031622, 
+        "fec": [
+            "S0CO00211"
+        ], 
+        "google_entity_id": "kg:/m/05b60qf", 
+        "govtrack": 412330, 
+        "icpsr": 40910, 
+        "lis": "S330", 
+        "maplight": 1092, 
+        "opensecrets": "N00030608", 
+        "thomas": "01965", 
+        "votesmart": 110942, 
+        "wikidata": "Q554792", 
+        "wikipedia": "Michael Bennet"
+    }, 
+    "name": {
+        "first": "Michael", 
+        "last": "Bennet", 
+        "middle": "F.", 
+        "official_full": "Michael F. Bennet"
+    }, 
+    "social": {
+        "facebook": "senbennetco", 
+        "twitter": "SenBennetCo", 
+        "twitter_id": 224285242, 
+        "youtube": "SenatorBennet", 
+        "youtube_id": "UCXB3cljpMwTyCUyLr2ZVLow"
+    }, 
+    "terms": [
+        {
+            "class": 3, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-22", 
+            "state": "CO", 
+            "type": "sen", 
+            "url": "http://bennet.senate.gov/"
+        }, 
+        {
+            "address": "261 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.bennet.senate.gov/contact/email", 
+            "end": "2017-01-03", 
+            "fax": "202-228-5097", 
+            "office": "261 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-5852", 
+            "rss_url": "http://www.bennet.senate.gov/rss/feeds/?type=news", 
+            "start": "2011-01-05", 
+            "state": "CO", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.bennet.senate.gov"
+        }, 
+        {
+            "address": "261 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.bennet.senate.gov/?p=contact", 
+            "end": "2023-01-03", 
+            "fax": "202-228-5097", 
+            "office": "261 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-5852", 
+            "rss_url": "http://www.bennet.senate.gov/rss/feeds/?type=news", 
+            "start": "2017-01-03", 
+            "state": "CO", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.bennet.senate.gov"
+        }
+    ]
+}

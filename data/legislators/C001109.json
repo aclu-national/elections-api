@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1966-07-28", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "C001109", 
+        "cspan": 86147, 
+        "fec": [
+            "H6WY00159"
+        ], 
+        "google_entity_id": "kg:/m/04slt0", 
+        "govtrack": 412732, 
+        "icpsr": 21710, 
+        "maplight": 2244, 
+        "opensecrets": "N00035504", 
+        "votesmart": 145932, 
+        "wikidata": "Q5362573", 
+        "wikipedia": "Liz Cheney"
+    }, 
+    "name": {
+        "first": "Liz", 
+        "last": "Cheney", 
+        "official_full": "Liz Cheney"
+    }, 
+    "social": {
+        "facebook": "replizcheney", 
+        "twitter": "RepLizCheney", 
+        "twitter_id": 816719802328715264
+    }, 
+    "terms": [
+        {
+            "address": "416 Cannon House Office Building; Washington DC 20515-5000", 
+            "district": 0, 
+            "end": "2019-01-03", 
+            "office": "416 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2311", 
+            "start": "2017-01-03", 
+            "state": "WY", 
+            "type": "rep", 
+            "url": "https://cheney.house.gov"
+        }
+    ]
+}

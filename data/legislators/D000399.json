@@ -1,0 +1,166 @@
+{
+    "bio": {
+        "birthday": "1946-10-06", 
+        "gender": "M", 
+        "religion": "Methodist"
+    }, 
+    "id": {
+        "bioguide": "D000399", 
+        "cspan": 36810, 
+        "fec": [
+            "H4TX10028"
+        ], 
+        "google_entity_id": "kg:/m/03flzn", 
+        "govtrack": 400111, 
+        "house_history": 12328, 
+        "icpsr": 29571, 
+        "maplight": 224, 
+        "opensecrets": "N00006023", 
+        "thomas": "00303", 
+        "votesmart": 21689, 
+        "wikidata": "Q363817", 
+        "wikipedia": "Lloyd Doggett"
+    }, 
+    "name": {
+        "first": "Lloyd", 
+        "last": "Doggett", 
+        "middle": "A.", 
+        "official_full": "Lloyd Doggett"
+    }, 
+    "social": {
+        "facebook": "lloyddoggett", 
+        "instagram": "replloyddoggett", 
+        "twitter": "RepLloydDoggett", 
+        "twitter_id": 153944899, 
+        "youtube": "doggett", 
+        "youtube_id": "UCN-kiLKyHPcfRVZ28sAHS_g"
+    }, 
+    "terms": [
+        {
+            "district": 10, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 10, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/doggett"
+        }, 
+        {
+            "district": 25, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/doggett"
+        }, 
+        {
+            "district": 25, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/doggett"
+        }, 
+        {
+            "district": 25, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/doggett"
+        }, 
+        {
+            "address": "201 Cannon HOB; Washington DC 20515-4325", 
+            "contact_form": "http://www.house.gov/doggett/doggett_ima/doggett_get_address.shtml", 
+            "district": 25, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3073", 
+            "office": "201 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4865", 
+            "start": "2011-01-05", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/doggett"
+        }, 
+        {
+            "address": "201 Cannon HOB; Washington DC 20515-4335", 
+            "contact_form": "https://forms.house.gov/doggett/webforms/issue_subscribe.htm", 
+            "district": 35, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3073", 
+            "office": "201 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4865", 
+            "rss_url": "http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://doggett.house.gov"
+        }, 
+        {
+            "address": "2307 Rayburn HOB; Washington DC 20515-4335", 
+            "contact_form": "https://forms.house.gov/doggett/webforms/issue_subscribe.htm", 
+            "district": 35, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3073", 
+            "office": "2307 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4865", 
+            "rss_url": "http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://doggett.house.gov"
+        }, 
+        {
+            "address": "2307 Rayburn House Office Building; Washington DC 20515-4335", 
+            "district": 35, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3073", 
+            "office": "2307 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4865", 
+            "rss_url": "http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://doggett.house.gov"
+        }
+    ]
+}

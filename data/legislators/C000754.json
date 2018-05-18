@@ -1,0 +1,185 @@
+{
+    "bio": {
+        "birthday": "1954-06-19", 
+        "gender": "M", 
+        "religion": "Episcopalian"
+    }, 
+    "id": {
+        "ballotpedia": "Jim Cooper", 
+        "bioguide": "C000754", 
+        "cspan": 1201, 
+        "fec": [
+            "H2TN05131", 
+            "H2TN04027", 
+            "S4TN00096"
+        ], 
+        "google_entity_id": "kg:/m/03tm2p", 
+        "govtrack": 400081, 
+        "house_history": 11401, 
+        "icpsr": 15019, 
+        "maplight": 196, 
+        "opensecrets": "N00003132", 
+        "thomas": "00231", 
+        "votesmart": 48891, 
+        "wikidata": "Q973737", 
+        "wikipedia": "Jim Cooper"
+    }, 
+    "name": {
+        "first": "Jim", 
+        "last": "Cooper", 
+        "official_full": "Jim Cooper"
+    }, 
+    "social": {
+        "facebook": "JimCooper", 
+        "instagram": "repjimcooper", 
+        "instagram_id": 1037212884, 
+        "twitter": "RepJimCooper", 
+        "twitter_id": 22523087, 
+        "youtube": "RepJimCooper", 
+        "youtube_id": "UCjplyIIQbNZcl013AyDfPNg"
+    }, 
+    "terms": [
+        {
+            "district": 4, 
+            "end": "1985-01-03", 
+            "party": "Democrat", 
+            "start": "1983-01-03", 
+            "state": "TN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1987-01-03", 
+            "party": "Democrat", 
+            "start": "1985-01-03", 
+            "state": "TN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1989-01-03", 
+            "party": "Democrat", 
+            "start": "1987-01-06", 
+            "state": "TN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "TN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "TN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 4, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "TN", 
+            "type": "rep"
+        }, 
+        {
+            "district": 5, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "http://www.house.gov/cooper"
+        }, 
+        {
+            "district": 5, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "http://www.house.gov/cooper"
+        }, 
+        {
+            "district": 5, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "http://cooper.house.gov"
+        }, 
+        {
+            "district": 5, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "http://cooper.house.gov"
+        }, 
+        {
+            "address": "1536 Longworth HOB; Washington DC 20515-4205", 
+            "contact_form": "http://cooper.house.gov/index.php?option=com_content&amp;task=view&amp;id=117&amp;Itemid=61", 
+            "district": 5, 
+            "end": "2013-01-03", 
+            "fax": "202-226-1035", 
+            "office": "1536 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4311", 
+            "start": "2011-01-05", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "http://cooper.house.gov"
+        }, 
+        {
+            "address": "1536 Longworth HOB; Washington DC 20515-4205", 
+            "contact_form": "https://cooper.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2015-01-03", 
+            "fax": "202-226-1035", 
+            "office": "1536 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4311", 
+            "rss_url": "http://cooper.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "http://cooper.house.gov"
+        }, 
+        {
+            "address": "1536 Longworth HOB; Washington DC 20515-4205", 
+            "contact_form": "https://cooper.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2017-01-03", 
+            "fax": "202-226-1035", 
+            "office": "1536 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4311", 
+            "rss_url": "http://cooper.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "http://cooper.house.gov"
+        }, 
+        {
+            "address": "1536 Longworth House Office Building; Washington DC 20515-4205", 
+            "district": 5, 
+            "end": "2019-01-03", 
+            "fax": "202-226-1035", 
+            "office": "1536 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4311", 
+            "rss_url": "http://cooper.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "TN", 
+            "type": "rep", 
+            "url": "https://cooper.house.gov"
+        }
+    ]
+}

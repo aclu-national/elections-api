@@ -1,0 +1,117 @@
+{
+    "bio": {
+        "birthday": "1959-02-03", 
+        "gender": "M", 
+        "religion": "Episcopalian"
+    }, 
+    "id": {
+        "ballotpedia": "Robert J. Wittman", 
+        "bioguide": "W000804", 
+        "cspan": 1028089, 
+        "fec": [
+            "H8VA01147"
+        ], 
+        "google_entity_id": "kg:/m/03cx7ld", 
+        "govtrack": 412255, 
+        "house_history": 24189, 
+        "icpsr": 20756, 
+        "maplight": 736, 
+        "opensecrets": "N00029459", 
+        "thomas": "01886", 
+        "votesmart": 58133, 
+        "wikidata": "Q541251", 
+        "wikipedia": "Rob Wittman"
+    }, 
+    "name": {
+        "first": "Robert", 
+        "last": "Wittman", 
+        "middle": "J.", 
+        "official_full": "Robert J. Wittman"
+    }, 
+    "social": {
+        "facebook": "RepRobWittman", 
+        "instagram": "reprobwittman", 
+        "twitter": "RobWittman", 
+        "twitter_id": 15356407, 
+        "youtube": "RobWittman", 
+        "youtube_id": "UCIqIb-OaTbkIdU426eYIdPg"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-12-13", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "http://www.wittman.house.gov/"
+        }, 
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "http://www.wittman.house.gov/"
+        }, 
+        {
+            "address": "1317 Longworth HOB; Washington DC 20515-4601", 
+            "contact_form": "https://forms.house.gov/wittman/IMA/webforms/issue_subscribe.htm", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-4382", 
+            "office": "1317 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4261", 
+            "start": "2011-01-05", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "http://www.wittman.house.gov/"
+        }, 
+        {
+            "address": "2454 Rayburn HOB; Washington DC 20515-4601", 
+            "contact_form": "https://wittman.house.gov/contact-form/", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-4382", 
+            "office": "2454 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4261", 
+            "rss_url": "http://www.wittman.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "http://www.wittman.house.gov"
+        }, 
+        {
+            "address": "2454 Rayburn HOB; Washington DC 20515-4601", 
+            "contact_form": "https://wittman.house.gov/contact-form/", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-4382", 
+            "office": "2454 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4261", 
+            "rss_url": "http://www.wittman.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://wittman.house.gov"
+        }, 
+        {
+            "address": "2055 Rayburn House Office Building; Washington DC 20515-4601", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-4382", 
+            "office": "2055 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4261", 
+            "rss_url": "http://www.wittman.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://wittman.house.gov"
+        }
+    ]
+}

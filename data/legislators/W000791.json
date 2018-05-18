@@ -1,0 +1,152 @@
+{
+    "bio": {
+        "birthday": "1957-01-10", 
+        "gender": "M", 
+        "religion": "Episcopalian"
+    }, 
+    "id": {
+        "ballotpedia": "Greg Walden", 
+        "bioguide": "W000791", 
+        "cspan": 57892, 
+        "fec": [
+            "H6OR02116"
+        ], 
+        "google_entity_id": "kg:/m/033tx_", 
+        "govtrack": 400419, 
+        "house_history": 24165, 
+        "icpsr": 29932, 
+        "maplight": 504, 
+        "opensecrets": "N00007690", 
+        "thomas": "01596", 
+        "votesmart": 2979, 
+        "wikidata": "Q1397359", 
+        "wikipedia": "Greg Walden"
+    }, 
+    "name": {
+        "first": "Greg", 
+        "last": "Walden", 
+        "middle": "P.", 
+        "official_full": "Greg Walden"
+    }, 
+    "social": {
+        "facebook": "repgregwalden", 
+        "instagram": "repgregwalden", 
+        "instagram_id": 382962594, 
+        "twitter": "RepGregWalden", 
+        "twitter_id": 32010840, 
+        "youtube": "RepGregWalden", 
+        "youtube_id": "UCyaDp6ANSM9tvW7Y3LT_4KQ"
+    }, 
+    "terms": [
+        {
+            "district": 2, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "OR", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://walden.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://walden.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://walden.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://walden.house.gov"
+        }, 
+        {
+            "address": "2182 Rayburn HOB; Washington DC 20515-3702", 
+            "contact_form": "http://www.walden.house.gov/ContactGreg.ContactFormIQ.shtml", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5774", 
+            "office": "2182 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6730", 
+            "start": "2011-01-05", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://walden.house.gov"
+        }, 
+        {
+            "address": "2182 Rayburn HOB; Washington DC 20515-3702", 
+            "contact_form": "https://walden.house.gov/e-mail-greg", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5774", 
+            "office": "2182 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6730", 
+            "rss_url": "http://walden.house.gov/common/rss/?rss=100", 
+            "start": "2013-01-03", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://walden.house.gov"
+        }, 
+        {
+            "address": "2185 Rayburn HOB; Washington DC 20515-3702", 
+            "contact_form": "https://walden.house.gov/e-mail-greg", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5774", 
+            "office": "2185 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6730", 
+            "rss_url": "http://walden.house.gov/common/rss/?rss=100", 
+            "start": "2015-01-06", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "http://walden.house.gov"
+        }, 
+        {
+            "address": "2185 Rayburn House Office Building; Washington DC 20515-3702", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5774", 
+            "office": "2185 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6730", 
+            "rss_url": "http://walden.house.gov/common/rss/?rss=100", 
+            "start": "2017-01-03", 
+            "state": "OR", 
+            "type": "rep", 
+            "url": "https://walden.house.gov"
+        }
+    ]
+}

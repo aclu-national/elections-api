@@ -1,0 +1,95 @@
+{
+    "bio": {
+        "birthday": "1976-07-27", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Martha Roby", 
+        "bioguide": "R000591", 
+        "cspan": 61712, 
+        "fec": [
+            "H0AL02087"
+        ], 
+        "google_entity_id": "kg:/m/0drx5mb", 
+        "govtrack": 412394, 
+        "house_history": 20821, 
+        "icpsr": 21192, 
+        "maplight": 1408, 
+        "opensecrets": "N00030768", 
+        "thomas": "01986", 
+        "votesmart": 71604, 
+        "wikidata": "Q439117", 
+        "wikipedia": "Martha Roby"
+    }, 
+    "name": {
+        "first": "Martha", 
+        "last": "Roby", 
+        "official_full": "Martha Roby"
+    }, 
+    "social": {
+        "facebook": "Representative.Martha.Roby", 
+        "twitter": "RepMarthaRoby", 
+        "twitter_id": 224294785, 
+        "youtube": "reproby", 
+        "youtube_id": "UCeAWQdcSTlwv2vDGz0TQOxQ"
+    }, 
+    "terms": [
+        {
+            "address": "414 Cannon HOB; Washington DC 20515-0102", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-8913", 
+            "office": "414 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2901", 
+            "start": "2011-01-05", 
+            "state": "AL", 
+            "type": "rep", 
+            "url": "http://roby.house.gov/"
+        }, 
+        {
+            "address": "428 Cannon HOB; Washington DC 20515-0102", 
+            "contact_form": "https://roby.house.gov/contact-me", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-8913", 
+            "office": "428 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2901", 
+            "rss_url": "http://roby.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "AL", 
+            "type": "rep", 
+            "url": "http://roby.house.gov"
+        }, 
+        {
+            "address": "442 Cannon HOB; Washington DC 20515-0102", 
+            "contact_form": "https://roby.house.gov/contact-me", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-8913", 
+            "office": "442 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2901", 
+            "rss_url": "http://roby.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "AL", 
+            "type": "rep", 
+            "url": "http://roby.house.gov"
+        }, 
+        {
+            "address": "442 Cannon House Office Building; Washington DC 20515-0102", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-8913", 
+            "office": "442 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2901", 
+            "rss_url": "http://roby.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "AL", 
+            "type": "rep", 
+            "url": "https://roby.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "bio": {
+        "birthday": "1948-09-10", 
+        "gender": "M", 
+        "religion": "Unknown"
+    }, 
+    "id": {
+        "ballotpedia": "Ted Poe", 
+        "bioguide": "P000592", 
+        "cspan": 1011398, 
+        "fec": [
+            "H4TX02108"
+        ], 
+        "google_entity_id": "kg:/m/04928s", 
+        "govtrack": 400652, 
+        "house_history": 20022, 
+        "icpsr": 20528, 
+        "maplight": 657, 
+        "opensecrets": "N00026457", 
+        "thomas": "01802", 
+        "votesmart": 49198, 
+        "wikidata": "Q532661", 
+        "wikipedia": "Ted Poe"
+    }, 
+    "name": {
+        "first": "Ted", 
+        "last": "Poe", 
+        "official_full": "Ted Poe"
+    }, 
+    "social": {
+        "facebook": "106631626049851", 
+        "instagram": "judgetedpoe", 
+        "instagram_id": 438265816, 
+        "twitter": "JudgeTedPoe", 
+        "twitter_id": 74198348, 
+        "youtube": "CongressmanTedPoe", 
+        "youtube_id": "UCGdNUkVP16hOyL-fUDV1Knw"
+    }, 
+    "terms": [
+        {
+            "district": 2, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/poe"
+        }, 
+        {
+            "district": 2, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/poe"
+        }, 
+        {
+            "address": "430 Cannon HOB; Washington DC 20515-4302", 
+            "contact_form": "http://poe.house.gov/email/", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5547", 
+            "office": "430 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6565", 
+            "start": "2011-01-05", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/poe"
+        }, 
+        {
+            "address": "2412 Rayburn HOB; Washington DC 20515-4302", 
+            "contact_form": "https://poe.house.gov/index.cfm/contact-form#form_D05B44B5-B782-4DC7-BED6-FF0C90951FFF", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5547", 
+            "office": "2412 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6565", 
+            "rss_url": "http://poe.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://poe.house.gov"
+        }, 
+        {
+            "address": "2412 Rayburn HOB; Washington DC 20515-4302", 
+            "contact_form": "https://poe.house.gov/index.cfm/contact-form#form_D05B44B5-B782-4DC7-BED6-FF0C90951FFF", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5547", 
+            "office": "2412 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6565", 
+            "rss_url": "http://poe.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://poe.house.gov"
+        }, 
+        {
+            "address": "2132 Rayburn House Office Building; Washington DC 20515-4302", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5547", 
+            "office": "2132 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6565", 
+            "rss_url": "http://poe.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://poe.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "bio": {
+        "birthday": "1962-09-13", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Ann Wagner", 
+        "bioguide": "W000812", 
+        "cspan": 82702, 
+        "fec": [
+            "H2MO02102"
+        ], 
+        "google_entity_id": "kg:/m/07q9w8", 
+        "govtrack": 412548, 
+        "house_history": 15032387908, 
+        "icpsr": 21337, 
+        "maplight": 1772, 
+        "opensecrets": "N00033106", 
+        "thomas": "02137", 
+        "votesmart": 136083, 
+        "wikidata": "Q3917251", 
+        "wikipedia": "Ann Wagner"
+    }, 
+    "name": {
+        "first": "Ann", 
+        "last": "Wagner", 
+        "official_full": "Ann Wagner"
+    }, 
+    "social": {
+        "facebook": "RepAnnWagner", 
+        "twitter": "RepAnnWagner", 
+        "twitter_id": 1051446626, 
+        "youtube_id": "UCy2v2DXXvQnbRc8Zx77Dnsg"
+    }, 
+    "terms": [
+        {
+            "address": "435 Cannon HOB; Washington DC 20515-2502", 
+            "contact_form": "https://wagner.house.gov/contact/email-me", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "office": "435 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-1621", 
+            "rss_url": "http://wagner.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MO", 
+            "type": "rep", 
+            "url": "http://wagner.house.gov"
+        }, 
+        {
+            "address": "435 Cannon HOB; Washington DC 20515-2502", 
+            "contact_form": "https://wagner.house.gov/contact/email-me", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "office": "435 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-1621", 
+            "rss_url": "http://wagner.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "MO", 
+            "type": "rep", 
+            "url": "http://wagner.house.gov"
+        }, 
+        {
+            "address": "435 Cannon House Office Building; Washington DC 20515-2502", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2563", 
+            "office": "435 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-1621", 
+            "rss_url": "http://wagner.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "MO", 
+            "type": "rep", 
+            "url": "https://wagner.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "bio": {
+        "birthday": "1960-08-25", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Susan Brooks", 
+        "bioguide": "B001284", 
+        "cspan": 623720, 
+        "fec": [
+            "H2IN05082"
+        ], 
+        "google_entity_id": "kg:/m/0jt8ng2", 
+        "govtrack": 412539, 
+        "house_history": 15032386870, 
+        "icpsr": 21331, 
+        "maplight": 1763, 
+        "opensecrets": "N00033495", 
+        "thomas": "02129", 
+        "votesmart": 135988, 
+        "wikidata": "Q3225324", 
+        "wikipedia": "Susan Brooks"
+    }, 
+    "name": {
+        "first": "Susan", 
+        "last": "Brooks", 
+        "middle": "W.", 
+        "official_full": "Susan W. Brooks"
+    }, 
+    "social": {
+        "facebook": "congresswomansusanwbrooks", 
+        "instagram": "susanwbrooks", 
+        "instagram_id": 365798183, 
+        "twitter": "SusanWBrooks", 
+        "twitter_id": 1074101017, 
+        "youtube": "SusanWBrooks", 
+        "youtube_id": "UCMd7LzaBcbQ06aKHoj9KkSQ"
+    }, 
+    "terms": [
+        {
+            "address": "1505 Longworth HOB; Washington DC 20515-1405", 
+            "contact_form": "https://susanwbrooks.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2015-01-03", 
+            "office": "1505 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2276", 
+            "rss_url": "http://susanwbrooks.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "IN", 
+            "type": "rep", 
+            "url": "http://susanwbrooks.house.gov"
+        }, 
+        {
+            "address": "1505 Longworth HOB; Washington DC 20515-1405", 
+            "contact_form": "https://susanwbrooks.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0016", 
+            "office": "1505 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2276", 
+            "rss_url": "http://susanwbrooks.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "IN", 
+            "type": "rep", 
+            "url": "http://susanwbrooks.house.gov"
+        }, 
+        {
+            "address": "1030 Longworth House Office Building; Washington DC 20515-1405", 
+            "district": 5, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0016", 
+            "office": "1030 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2276", 
+            "rss_url": "http://susanwbrooks.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "IN", 
+            "type": "rep", 
+            "url": "https://susanwbrooks.house.gov"
+        }
+    ]
+}

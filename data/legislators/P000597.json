@@ -1,0 +1,106 @@
+{
+    "bio": {
+        "birthday": "1955-04-02", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Chellie Pingree", 
+        "bioguide": "P000597", 
+        "cspan": 1002167, 
+        "fec": [
+            "H8ME01120", 
+            "S0ME00038"
+        ], 
+        "google_entity_id": "kg:/m/05gflq", 
+        "govtrack": 412307, 
+        "house_history": 20032, 
+        "icpsr": 20920, 
+        "maplight": 789, 
+        "opensecrets": "N00013817", 
+        "thomas": "01927", 
+        "votesmart": 6586, 
+        "wikidata": "Q457243", 
+        "wikipedia": "Chellie Pingree"
+    }, 
+    "name": {
+        "first": "Chellie", 
+        "last": "Pingree", 
+        "official_full": "Chellie Pingree"
+    }, 
+    "social": {
+        "facebook": "ChelliePingree", 
+        "twitter": "ChelliePingree", 
+        "twitter_id": 14984637, 
+        "youtube": "congresswomanpingree", 
+        "youtube_id": "UCLKaWFM7I84WcreDRhhhkVg"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "ME", 
+            "type": "rep", 
+            "url": "http://pingree.house.gov"
+        }, 
+        {
+            "address": "1318 Longworth HOB; Washington DC 20515-1901", 
+            "contact_form": "https://forms.house.gov/pingree/contact-form.shtml", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5590", 
+            "office": "1318 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6116", 
+            "start": "2011-01-05", 
+            "state": "ME", 
+            "type": "rep", 
+            "url": "http://pingree.house.gov"
+        }, 
+        {
+            "address": "1318 Longworth HOB; Washington DC 20515-1901", 
+            "contact_form": "https://pingree.house.gov/email-me", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5590", 
+            "office": "1318 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6116", 
+            "rss_url": "http://pingree.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "ME", 
+            "type": "rep", 
+            "url": "http://pingree.house.gov"
+        }, 
+        {
+            "address": "2162 Rayburn HOB; Washington DC 20515-1901", 
+            "contact_form": "https://pingree.house.gov/email-me", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5590", 
+            "office": "2162 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6116", 
+            "rss_url": "http://pingree.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "ME", 
+            "type": "rep", 
+            "url": "https://pingree.house.gov"
+        }, 
+        {
+            "address": "2162 Rayburn House Office Building; Washington DC 20515-1901", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5590", 
+            "office": "2162 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6116", 
+            "rss_url": "http://pingree.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "ME", 
+            "type": "rep", 
+            "url": "https://pingree.house.gov"
+        }
+    ]
+}

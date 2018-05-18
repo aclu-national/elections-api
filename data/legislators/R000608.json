@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1957-08-02", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "R000608", 
+        "cspan": 104738, 
+        "fec": [
+            "H6NV03139"
+        ], 
+        "google_entity_id": "kg:/g/11cntnvwkg", 
+        "govtrack": 412715, 
+        "icpsr": 21743, 
+        "maplight": 2227, 
+        "opensecrets": "N00038734", 
+        "votesmart": 169471, 
+        "wikidata": "Q27825033", 
+        "wikipedia": "Jacky Rosen"
+    }, 
+    "name": {
+        "first": "Jacky", 
+        "last": "Rosen", 
+        "official_full": "Jacky Rosen"
+    }, 
+    "social": {
+        "facebook": "RepJackyRosen", 
+        "twitter": "repjackyrosen", 
+        "twitter_id": 818554054309715969
+    }, 
+    "terms": [
+        {
+            "address": "413 Cannon House Office Building; Washington DC 20515-2803", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "office": "413 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3252", 
+            "start": "2017-01-03", 
+            "state": "NV", 
+            "type": "rep", 
+            "url": "https://rosen.house.gov"
+        }
+    ]
+}

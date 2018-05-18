@@ -1,0 +1,97 @@
+{
+    "bio": {
+        "birthday": "1968-03-04", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "James Lankford", 
+        "bioguide": "L000575", 
+        "cspan": 1033847, 
+        "fec": [
+            "H0OK05114", 
+            "S4OK00232"
+        ], 
+        "google_entity_id": "kg:/m/0dgrrx6", 
+        "govtrack": 412464, 
+        "house_history": 17326, 
+        "icpsr": 21166, 
+        "lis": "S378", 
+        "maplight": 1470, 
+        "opensecrets": "N00031129", 
+        "thomas": "02050", 
+        "votesmart": 124938, 
+        "wikidata": "Q45940", 
+        "wikipedia": "James Lankford"
+    }, 
+    "name": {
+        "first": "James", 
+        "last": "Lankford", 
+        "official_full": "James Lankford"
+    }, 
+    "social": {
+        "facebook": "SenatorLankford", 
+        "instagram": "senatorlankford", 
+        "instagram_id": 1552251018, 
+        "twitter": "SenatorLankford", 
+        "twitter_id": 225921757, 
+        "youtube": "SenatorLankford", 
+        "youtube_id": "UCz8T6sK5fEycyWmVz6Vpe5Q"
+    }, 
+    "terms": [
+        {
+            "address": "509 Cannon HOB; Washington DC 20515-3605", 
+            "district": 5, 
+            "end": "2013-01-03", 
+            "fax": "202-226-1463", 
+            "office": "509 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2132", 
+            "start": "2011-01-05", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://lankford.house.gov/"
+        }, 
+        {
+            "address": "228 Cannon HOB; Washington DC 20515-3605", 
+            "contact_form": "https://lankford.house.gov/contact-me/", 
+            "district": 5, 
+            "end": "2015-01-03", 
+            "fax": "202-226-1463", 
+            "office": "228 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2132", 
+            "rss_url": "http://lankford.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "http://lankford.house.gov"
+        }, 
+        {
+            "address": "316 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "end": "2017-01-03", 
+            "office": "316 Hart Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5754", 
+            "start": "2015-01-06", 
+            "state": "OK", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.lankford.senate.gov"
+        }, 
+        {
+            "address": "316 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.lankford.senate.gov/contact/email", 
+            "end": "2023-01-03", 
+            "office": "316 Hart Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5754", 
+            "start": "2017-01-03", 
+            "state": "OK", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.lankford.senate.gov"
+        }
+    ]
+}

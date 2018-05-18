@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1961-03-07", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Juan Vargas", 
+        "bioguide": "V000130", 
+        "cspan": 8297, 
+        "fec": [
+            "H2CA50026"
+        ], 
+        "google_entity_id": "kg:/m/076bp4", 
+        "govtrack": 412522, 
+        "icpsr": 21314, 
+        "maplight": 1746, 
+        "opensecrets": "N00007021", 
+        "thomas": "02112", 
+        "votesmart": 29100, 
+        "wikidata": "Q3791701", 
+        "wikipedia": "Juan Vargas"
+    }, 
+    "name": {
+        "first": "Juan", 
+        "last": "Vargas", 
+        "official_full": "Juan Vargas"
+    }, 
+    "social": {
+        "facebook": "RepJuanVargas", 
+        "twitter": "RepJuanVargas", 
+        "twitter_id": 1260172386, 
+        "youtube": "RepJuanVargas", 
+        "youtube_id": "UCpMthf8y7bEMJH_td0dznRQ"
+    }, 
+    "terms": [
+        {
+            "address": "1605 Longworth HOB; Washington DC 20515-0551", 
+            "contact_form": "https://vargas.house.gov/contact", 
+            "district": 51, 
+            "end": "2015-01-03", 
+            "fax": "202-225-9073", 
+            "office": "1605 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8045", 
+            "rss_url": "http://vargas.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://vargas.house.gov"
+        }, 
+        {
+            "address": "1605 Longworth HOB; Washington DC 20515-0551", 
+            "contact_form": "https://vargas.house.gov/contact", 
+            "district": 51, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9073", 
+            "office": "1605 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8045", 
+            "rss_url": "http://vargas.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://vargas.house.gov"
+        }, 
+        {
+            "address": "1605 Longworth House Office Building; Washington DC 20515-0551", 
+            "district": 51, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9073", 
+            "office": "1605 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8045", 
+            "rss_url": "http://vargas.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://vargas.house.gov"
+        }
+    ]
+}

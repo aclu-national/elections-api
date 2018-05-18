@@ -1,0 +1,72 @@
+{
+    "bio": {
+        "birthday": "1947-01-28", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Jeanne Shaheen", 
+        "bioguide": "S001181", 
+        "cspan": 22850, 
+        "fec": [
+            "S0NH00219"
+        ], 
+        "google_entity_id": "kg:/m/01rrm2", 
+        "govtrack": 412323, 
+        "house_history": 22618, 
+        "icpsr": 40906, 
+        "lis": "S324", 
+        "maplight": 805, 
+        "opensecrets": "N00024790", 
+        "thomas": "01901", 
+        "votesmart": 1663, 
+        "wikidata": "Q270316", 
+        "wikipedia": "Jeanne Shaheen"
+    }, 
+    "name": {
+        "first": "Jeanne", 
+        "last": "Shaheen", 
+        "official_full": "Jeanne Shaheen"
+    }, 
+    "social": {
+        "facebook": "SenatorShaheen", 
+        "instagram": "senatorshaheen", 
+        "twitter": "SenatorShaheen", 
+        "twitter_id": 109287731, 
+        "youtube": "senatorshaheen", 
+        "youtube_id": "UCjLZAZMbDrybHyttdEC9LFA"
+    }, 
+    "terms": [
+        {
+            "address": "520 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.shaheen.senate.gov/contact/", 
+            "end": "2015-01-03", 
+            "fax": "202-228-3194", 
+            "office": "520 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2841", 
+            "rss_url": "http://www.shaheen.senate.gov/rss/", 
+            "start": "2009-01-06", 
+            "state": "NH", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "http://www.shaheen.senate.gov"
+        }, 
+        {
+            "address": "506 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.shaheen.senate.gov/contact/contact-jeanne", 
+            "end": "2021-01-03", 
+            "fax": "202-228-3194", 
+            "office": "506 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2841", 
+            "rss_url": "http://www.shaheen.senate.gov/rss/", 
+            "start": "2015-01-06", 
+            "state": "NH", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.shaheen.senate.gov"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "bio": {
+        "birthday": "1964-10-20", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Kamala Harris", 
+        "bioguide": "H001075", 
+        "cspan": 1018696, 
+        "fec": [
+            "S6CA00584"
+        ], 
+        "google_entity_id": "kg:/m/08sry2", 
+        "govtrack": 412678, 
+        "icpsr": 41701, 
+        "lis": "S387", 
+        "maplight": 2190, 
+        "opensecrets": "N00036915", 
+        "votesmart": 120012, 
+        "wikidata": "Q10853588", 
+        "wikipedia": "Kamala Harris"
+    }, 
+    "name": {
+        "first": "Kamala", 
+        "last": "Harris", 
+        "official_full": "Kamala D. Harris"
+    }, 
+    "social": {
+        "facebook": "SenatorKamalaHarris", 
+        "twitter": "SenKamalaHarris", 
+        "twitter_id": 803694179079458816
+    }, 
+    "terms": [
+        {
+            "address": "112 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.harris.senate.gov/contact", 
+            "end": "2023-01-03", 
+            "office": "112 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3553", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.harris.senate.gov"
+        }
+    ]
+}

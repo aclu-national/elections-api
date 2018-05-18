@@ -1,0 +1,81 @@
+{
+    "bio": {
+        "birthday": "1971-11-04", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Richard Hudson", 
+        "bioguide": "H001067", 
+        "cspan": 79622, 
+        "fec": [
+            "H2NC08185"
+        ], 
+        "google_entity_id": "kg:/m/0nbwfxs", 
+        "govtrack": 412550, 
+        "icpsr": 21346, 
+        "maplight": 1774, 
+        "opensecrets": "N00033630", 
+        "thomas": "02140", 
+        "votesmart": 136448, 
+        "wikidata": "Q3956999", 
+        "wikipedia": "Richard Hudson (American politician)"
+    }, 
+    "name": {
+        "first": "Richard", 
+        "last": "Hudson", 
+        "official_full": "Richard Hudson"
+    }, 
+    "social": {
+        "facebook": "RepRichHudson", 
+        "twitter": "RepRichHudson", 
+        "twitter_id": 935033864, 
+        "youtube": "RepRichHudson", 
+        "youtube_id": "UC9Q1qCvnQR7rHERjTjJl5Pg"
+    }, 
+    "terms": [
+        {
+            "address": "429 Cannon HOB; Washington DC 20515-3308", 
+            "contact_form": "https://hudson.house.gov/email-me", 
+            "district": 8, 
+            "end": "2015-01-03", 
+            "fax": "704-782-1004", 
+            "office": "429 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3715", 
+            "rss_url": "http://hudson.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "http://hudson.house.gov"
+        }, 
+        {
+            "address": "429 Cannon HOB; Washington DC 20515-3308", 
+            "contact_form": "https://hudson.house.gov/email-me", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "fax": "704-782-1004", 
+            "office": "429 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3715", 
+            "rss_url": "http://hudson.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "http://hudson.house.gov"
+        }, 
+        {
+            "address": "429 Cannon House Office Building; Washington DC 20515-3308", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "fax": "704-782-1004", 
+            "office": "429 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3715", 
+            "rss_url": "http://hudson.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "https://hudson.house.gov"
+        }
+    ]
+}

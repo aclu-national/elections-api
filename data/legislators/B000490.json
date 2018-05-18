@@ -1,0 +1,174 @@
+{
+    "bio": {
+        "birthday": "1947-02-04", 
+        "gender": "M", 
+        "religion": "Baptist"
+    }, 
+    "id": {
+        "bioguide": "B000490", 
+        "cspan": 26194, 
+        "fec": [
+            "H2GA02031"
+        ], 
+        "google_entity_id": "kg:/m/02554k", 
+        "govtrack": 400030, 
+        "house_history": 7697, 
+        "icpsr": 29339, 
+        "maplight": 148, 
+        "opensecrets": "N00002674", 
+        "thomas": "00091", 
+        "votesmart": 26817, 
+        "wikidata": "Q983428", 
+        "wikipedia": "Sanford Bishop"
+    }, 
+    "name": {
+        "first": "Sanford", 
+        "last": "Bishop", 
+        "middle": "D.", 
+        "official_full": "Sanford D. Bishop, Jr.", 
+        "suffix": "Jr."
+    }, 
+    "social": {
+        "facebook": "sanfordbishop", 
+        "twitter": "SanfordBishop", 
+        "twitter_id": 249410485, 
+        "youtube": "RepSanfordBishop", 
+        "youtube_id": "UCxF9veLBrkr_CqVq5eFYVGg"
+    }, 
+    "terms": [
+        {
+            "district": 2, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "GA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "GA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "GA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "GA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "GA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/bishop"
+        }, 
+        {
+            "district": 2, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/bishop"
+        }, 
+        {
+            "district": 2, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://bishop.house.gov"
+        }, 
+        {
+            "district": 2, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://bishop.house.gov"
+        }, 
+        {
+            "address": "2429 Rayburn HOB; Washington DC 20515-1002", 
+            "contact_form": "http://bishop.house.gov/display.cfm?section_id=13", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-2203", 
+            "office": "2429 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3631", 
+            "start": "2011-01-05", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://bishop.house.gov"
+        }, 
+        {
+            "address": "2429 Rayburn HOB; Washington DC 20515-1002", 
+            "contact_form": "http://bishop.house.gov/contact", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-2203", 
+            "office": "2429 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3631", 
+            "rss_url": "http://bishop.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://bishop.house.gov"
+        }, 
+        {
+            "address": "2407 Rayburn HOB; Washington DC 20515-1002", 
+            "contact_form": "http://bishop.house.gov/contact", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-2203", 
+            "office": "2407 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3631", 
+            "rss_url": "http://bishop.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://bishop.house.gov"
+        }, 
+        {
+            "address": "2407 Rayburn House Office Building; Washington DC 20515-1002", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2203", 
+            "office": "2407 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3631", 
+            "rss_url": "http://bishop.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://bishop.house.gov"
+        }
+    ]
+}

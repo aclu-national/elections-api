@@ -1,0 +1,182 @@
+{
+    "bio": {
+        "birthday": "1930-10-11", 
+        "gender": "M", 
+        "religion": "Methodist"
+    }, 
+    "id": {
+        "bioguide": "J000174", 
+        "cspan": 18711, 
+        "fec": [
+            "H2TX03118"
+        ], 
+        "google_entity_id": "kg:/m/02_21s", 
+        "govtrack": 400206, 
+        "house_history": 15916, 
+        "icpsr": 29143, 
+        "maplight": 307, 
+        "opensecrets": "N00008028", 
+        "thomas": "00603", 
+        "votesmart": 27079, 
+        "wikidata": "Q539470", 
+        "wikipedia": "Sam Johnson"
+    }, 
+    "name": {
+        "first": "Sam", 
+        "last": "Johnson", 
+        "middle": "Robert", 
+        "official_full": "Sam Johnson"
+    }, 
+    "social": {
+        "facebook": "RepSamJohnson", 
+        "instagram": "samjohnsontx03", 
+        "twitter": "SamsPressShop", 
+        "twitter_id": 249288197, 
+        "youtube": "RepSamJohnson", 
+        "youtube_id": "UCmzL7gzMX6-bgS9HNt8a8TA"
+    }, 
+    "terms": [
+        {
+            "district": 3, 
+            "end": "1993-01-03", 
+            "party": "Republican", 
+            "start": "1991-01-03", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1995-01-03", 
+            "party": "Republican", 
+            "start": "1993-01-05", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "TX", 
+            "type": "rep"
+        }, 
+        {
+            "district": 3, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/samjohnson"
+        }, 
+        {
+            "district": 3, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/samjohnson"
+        }, 
+        {
+            "district": 3, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/samjohnson"
+        }, 
+        {
+            "district": 3, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/samjohnson"
+        }, 
+        {
+            "address": "1211 Longworth HOB; Washington DC 20515-4303", 
+            "contact_form": "http://www.house.gov/formsamjohnson/IMA/issue.htm", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-225-1485", 
+            "office": "1211 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4201", 
+            "start": "2011-01-05", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/samjohnson"
+        }, 
+        {
+            "address": "1211 Longworth HOB; Washington DC 20515-4303", 
+            "contact_form": "http://samjohnson.house.gov/contact/", 
+            "district": 3, 
+            "end": "2015-01-03", 
+            "fax": "202-225-1485", 
+            "office": "1211 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4201", 
+            "rss_url": "http://samjohnson.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://samjohnson.house.gov"
+        }, 
+        {
+            "address": "2304 Rayburn HOB; Washington DC 20515-4303", 
+            "contact_form": "http://samjohnson.house.gov/contact/", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1485", 
+            "office": "2304 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4201", 
+            "rss_url": "http://samjohnson.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://samjohnson.house.gov"
+        }, 
+        {
+            "address": "2304 Rayburn House Office Building; Washington DC 20515-4303", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1485", 
+            "office": "2304 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4201", 
+            "rss_url": "http://samjohnson.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://samjohnson.house.gov"
+        }
+    ]
+}

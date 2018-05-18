@@ -1,0 +1,83 @@
+{
+    "bio": {
+        "birthday": "1971-01-03", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Mark Veasey", 
+        "bioguide": "V000131", 
+        "cspan": 79466, 
+        "fec": [
+            "H2TX33073"
+        ], 
+        "google_entity_id": "kg:/m/0kmnfw5", 
+        "govtrack": 412579, 
+        "icpsr": 21365, 
+        "maplight": 1803, 
+        "opensecrets": "N00033839", 
+        "thomas": "02166", 
+        "votesmart": 49671, 
+        "wikidata": "Q4068811", 
+        "wikipedia": "Marc Veasey"
+    }, 
+    "name": {
+        "first": "Marc", 
+        "last": "Veasey", 
+        "middle": "A.", 
+        "official_full": "Marc A. Veasey"
+    }, 
+    "social": {
+        "facebook": "CongressmanMarcVeasey", 
+        "instagram": "repveasey", 
+        "instagram_id": 676925345, 
+        "twitter": "RepVeasey", 
+        "twitter_id": 1074129612, 
+        "youtube": "marcveasey", 
+        "youtube_id": "UC2CRp1KF5uljZyhDRPR-72Q"
+    }, 
+    "terms": [
+        {
+            "address": "414 Cannon HOB; Washington DC 20515-4333", 
+            "contact_form": "https://veaseyforms.house.gov/forms/writeyourrep/", 
+            "district": 33, 
+            "end": "2015-01-03", 
+            "office": "414 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-9897", 
+            "rss_url": "http://veasey.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://veasey.house.gov"
+        }, 
+        {
+            "address": "414 Cannon HOB; Washington DC 20515-4333", 
+            "contact_form": "https://veaseyforms.house.gov/forms/writeyourrep/", 
+            "district": 33, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9702", 
+            "office": "414 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-9897", 
+            "rss_url": "http://veasey.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://veasey.house.gov"
+        }, 
+        {
+            "address": "1519 Longworth House Office Building; Washington DC 20515-4333", 
+            "district": 33, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9702", 
+            "office": "1519 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-9897", 
+            "rss_url": "http://veasey.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://veasey.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "bio": {
+        "birthday": "1971-05-28", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Marco Rubio", 
+        "bioguide": "R000595", 
+        "cspan": 87599, 
+        "fec": [
+            "S0FL00338"
+        ], 
+        "google_entity_id": "kg:/m/0dpr5f", 
+        "govtrack": 412491, 
+        "icpsr": 41102, 
+        "lis": "S350", 
+        "maplight": 1496, 
+        "opensecrets": "N00030612", 
+        "thomas": "02084", 
+        "votesmart": 1601, 
+        "wikidata": "Q324546", 
+        "wikipedia": "Marco Rubio"
+    }, 
+    "name": {
+        "first": "Marco", 
+        "last": "Rubio", 
+        "official_full": "Marco Rubio"
+    }, 
+    "social": {
+        "facebook": "SenatorMarcoRubio", 
+        "twitter": "SenRubioPress", 
+        "twitter_id": 229966028, 
+        "youtube": "SenatorMarcoRubio", 
+        "youtube_id": "UCh8t7sV_DBKz4A-RkL9feyg"
+    }, 
+    "terms": [
+        {
+            "address": "284 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.rubio.senate.gov/public/index.cfm/contact", 
+            "end": "2017-01-03", 
+            "fax": "202-228-0285", 
+            "office": "284 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3041", 
+            "rss_url": "http://www.rubio.senate.gov/public/?a=rss.feed", 
+            "start": "2011-01-05", 
+            "state": "FL", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "http://www.rubio.senate.gov"
+        }, 
+        {
+            "address": "284 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.rubio.senate.gov/public/index.cfm/contact", 
+            "end": "2023-01-03", 
+            "fax": "202-228-0285", 
+            "office": "284 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3041", 
+            "rss_url": "http://www.rubio.senate.gov/public/?a=rss.feed", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.rubio.senate.gov"
+        }
+    ]
+}

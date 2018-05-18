@@ -1,0 +1,96 @@
+{
+    "bio": {
+        "birthday": "1964-08-22", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Trey Gowdy", 
+        "bioguide": "G000566", 
+        "cspan": 9268950, 
+        "fec": [
+            "H0SC04257"
+        ], 
+        "google_entity_id": "kg:/m/0c3x3rz", 
+        "govtrack": 412473, 
+        "house_history": 14284, 
+        "icpsr": 21175, 
+        "maplight": 1478, 
+        "opensecrets": "N00030880", 
+        "thomas": "02058", 
+        "votesmart": 121782, 
+        "wikidata": "Q1822266", 
+        "wikipedia": "Trey Gowdy"
+    }, 
+    "name": {
+        "first": "Trey", 
+        "last": "Gowdy", 
+        "official_full": "Trey Gowdy"
+    }, 
+    "social": {
+        "facebook": "RepTreyGowdy", 
+        "instagram": "tgowdysc", 
+        "twitter": "TGowdySC", 
+        "twitter_id": 237348797, 
+        "youtube": "TGowdySC", 
+        "youtube_id": "UCVvxvugtuNZSygB4z4aVfsg"
+    }, 
+    "terms": [
+        {
+            "address": "1237 Longworth HOB; Washington DC 20515-4004", 
+            "district": 4, 
+            "end": "2013-01-03", 
+            "fax": "202-226-1177", 
+            "office": "1237 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6030", 
+            "start": "2011-01-05", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "http://gowdy.house.gov/"
+        }, 
+        {
+            "address": "1404 Longworth HOB; Washington DC 20515-4004", 
+            "contact_form": "https://gowdy.house.gov/forms/writeyourrep/default.aspx", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "fax": "202-226-1177", 
+            "office": "1404 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6030", 
+            "rss_url": "http://gowdy.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "http://gowdy.house.gov"
+        }, 
+        {
+            "address": "1404 Longworth HOB; Washington DC 20515-4004", 
+            "contact_form": "https://gowdy.house.gov/forms/writeyourrep/default.aspx", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-226-1177", 
+            "office": "1404 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6030", 
+            "rss_url": "http://gowdy.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "https://gowdy.house.gov"
+        }, 
+        {
+            "address": "2418 Rayburn House Office Building; Washington DC 20515-4004", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-226-1177", 
+            "office": "2418 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6030", 
+            "rss_url": "http://gowdy.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "SC", 
+            "type": "rep", 
+            "url": "https://gowdy.house.gov"
+        }
+    ]
+}

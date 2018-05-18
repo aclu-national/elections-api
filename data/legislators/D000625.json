@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1956-11-06", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Daniel Donovan (New York)", 
+        "bioguide": "D000625", 
+        "cspan": 74763, 
+        "fec": [
+            "H6NY11174"
+        ], 
+        "google_entity_id": "kg:/m/0c036qd", 
+        "govtrack": 412672, 
+        "icpsr": 21560, 
+        "maplight": 2161, 
+        "opensecrets": "N00036928", 
+        "thomas": "02293", 
+        "votesmart": 127760, 
+        "wikidata": "Q5217998", 
+        "wikipedia": "Dan Donovan (politician)"
+    }, 
+    "name": {
+        "first": "Daniel", 
+        "last": "Donovan", 
+        "middle": "M.", 
+        "official_full": "Daniel M. Donovan, Jr.", 
+        "suffix": "Jr."
+    }, 
+    "social": {
+        "facebook": "RepDanDonovan", 
+        "twitter": "RepDanDonovan", 
+        "twitter_id": 3353670647, 
+        "youtube_id": "UCT8-VskXvxCqDuSGzR5sWWg"
+    }, 
+    "terms": [
+        {
+            "address": "1725 Longworth HOB; Washington DC 20515-3211", 
+            "district": 11, 
+            "end": "2017-01-03", 
+            "office": "1725 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3371", 
+            "start": "2015-05-12", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://donovan.house.gov"
+        }, 
+        {
+            "address": "1541 Longworth House Office Building; Washington DC 20515-3211", 
+            "district": 11, 
+            "end": "2019-01-03", 
+            "office": "1541 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3371", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://donovan.house.gov"
+        }
+    ]
+}

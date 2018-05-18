@@ -1,0 +1,149 @@
+{
+    "bio": {
+        "birthday": "1951-01-24", 
+        "gender": "M", 
+        "religion": "Catholic"
+    }, 
+    "id": {
+        "bioguide": "T000460", 
+        "cspan": 57872, 
+        "fec": [
+            "H8CA01109"
+        ], 
+        "google_entity_id": "kg:/m/024sdl", 
+        "govtrack": 400403, 
+        "house_history": 23200, 
+        "icpsr": 29901, 
+        "maplight": 489, 
+        "opensecrets": "N00007419", 
+        "thomas": "01593", 
+        "votesmart": 3564, 
+        "wikidata": "Q1323196", 
+        "wikipedia": "Mike Thompson (California politician)"
+    }, 
+    "name": {
+        "first": "Mike", 
+        "last": "Thompson", 
+        "middle": "Michael", 
+        "official_full": "Mike Thompson"
+    }, 
+    "social": {
+        "facebook": "RepMikeThompson", 
+        "twitter": "RepThompson", 
+        "twitter_id": 303861808, 
+        "youtube": "CongressmanMThompson", 
+        "youtube_id": "UC6pGbtqHZYZmScFGSz5bbdg"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/mthompson"
+        }, 
+        {
+            "district": 1, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/mthompson"
+        }, 
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://mikethompson.house.gov"
+        }, 
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://mikethompson.house.gov"
+        }, 
+        {
+            "address": "231 Cannon HOB; Washington DC 20515-0501", 
+            "contact_form": "http://mikethompson.house.gov/contact/email.shtml", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-4335", 
+            "office": "231 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3311", 
+            "start": "2011-01-05", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://mikethompson.house.gov"
+        }, 
+        {
+            "address": "231 Cannon HOB; Washington DC 20515-0505", 
+            "contact_form": "https://mikethompson.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2015-01-03", 
+            "fax": "202-225-4335", 
+            "office": "231 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3311", 
+            "rss_url": "http://mikethompson.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://mikethompson.house.gov"
+        }, 
+        {
+            "address": "231 Cannon HOB; Washington DC 20515-0505", 
+            "contact_form": "https://mikethompson.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2017-01-03", 
+            "fax": "202-225-4335", 
+            "office": "231 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3311", 
+            "rss_url": "http://mikethompson.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://mikethompson.house.gov"
+        }, 
+        {
+            "address": "231 Cannon House Office Building; Washington DC 20515-0505", 
+            "district": 5, 
+            "end": "2019-01-03", 
+            "fax": "202-225-4335", 
+            "office": "231 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3311", 
+            "rss_url": "http://mikethompson.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://mikethompson.house.gov"
+        }
+    ]
+}

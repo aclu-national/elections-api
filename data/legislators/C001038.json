@@ -1,0 +1,150 @@
+{
+    "bio": {
+        "birthday": "1962-03-16", 
+        "gender": "M", 
+        "religion": "Roman Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Joseph Crowley", 
+        "bioguide": "C001038", 
+        "cspan": 57880, 
+        "fec": [
+            "H8NY07046"
+        ], 
+        "google_entity_id": "kg:/m/03v10s", 
+        "govtrack": 400087, 
+        "house_history": 11748, 
+        "icpsr": 29925, 
+        "maplight": 201, 
+        "opensecrets": "N00001127", 
+        "thomas": "01604", 
+        "votesmart": 4295, 
+        "wikidata": "Q971318", 
+        "wikipedia": "Joseph Crowley"
+    }, 
+    "name": {
+        "first": "Joseph", 
+        "last": "Crowley", 
+        "nickname": "Joe", 
+        "official_full": "Joseph Crowley"
+    }, 
+    "social": {
+        "facebook": "repjoecrowley", 
+        "twitter": "RepJoeCrowley", 
+        "twitter_id": 111635980, 
+        "youtube": "RepJoeCrowley", 
+        "youtube_id": "UCni23wivejzkS9G1L_XEBQw"
+    }, 
+    "terms": [
+        {
+            "district": 7, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/crowley"
+        }, 
+        {
+            "district": 7, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/crowley"
+        }, 
+        {
+            "district": 7, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/crowley"
+        }, 
+        {
+            "district": 7, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/crowley"
+        }, 
+        {
+            "address": "2404 Rayburn HOB; Washington DC 20515-3207", 
+            "contact_form": "https://forms.house.gov/crowley/contact.shtml", 
+            "district": 7, 
+            "end": "2013-01-03", 
+            "fax": "202-225-1909", 
+            "office": "2404 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3965", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/crowley"
+        }, 
+        {
+            "address": "1436 Longworth HOB; Washington DC 20515-3214", 
+            "contact_form": "https://crowley.house.gov/contact-me/email-me", 
+            "district": 14, 
+            "end": "2015-01-03", 
+            "fax": "202-225-1909", 
+            "office": "1436 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3965", 
+            "rss_url": "http://crowley.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://crowley.house.gov"
+        }, 
+        {
+            "address": "1436 Longworth HOB; Washington DC 20515-3214", 
+            "contact_form": "https://crowley.house.gov/contact-me/email-me", 
+            "district": 14, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1909", 
+            "office": "1436 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3965", 
+            "rss_url": "http://crowley.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://crowley.house.gov"
+        }, 
+        {
+            "address": "1035 Longworth House Office Building; Washington DC 20515-3214", 
+            "district": 14, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1909", 
+            "office": "1035 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3965", 
+            "rss_url": "http://crowley.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://crowley.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "bio": {
+        "birthday": "1960-08-30", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "T000476", 
+        "cspan": 77055, 
+        "fec": [
+            "S4NC00162"
+        ], 
+        "google_entity_id": "kg:/m/0fq0395", 
+        "govtrack": 412668, 
+        "icpsr": 41504, 
+        "lis": "S384", 
+        "maplight": 2124, 
+        "opensecrets": "N00035492", 
+        "thomas": "02291", 
+        "votesmart": 57717, 
+        "wikidata": "Q7786750", 
+        "wikipedia": "Thom Tillis"
+    }, 
+    "name": {
+        "first": "Thom", 
+        "last": "Tillis", 
+        "official_full": "Thom Tillis"
+    }, 
+    "social": {
+        "facebook": "SenatorThomTillis", 
+        "instagram": "senthomtillis", 
+        "twitter": "senthomtillis", 
+        "twitter_id": 2964174789, 
+        "youtube_id": "UCUD9VGV4SSGWjGdbn37Ea2w"
+    }, 
+    "terms": [
+        {
+            "address": "185 Dirksen Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.tillis.senate.gov/public/index.cfm/email-me", 
+            "end": "2021-01-03", 
+            "office": "185 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-6342", 
+            "start": "2015-01-06", 
+            "state": "NC", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.tillis.senate.gov/public"
+        }
+    ]
+}

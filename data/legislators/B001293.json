@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1967-03-18", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "B001293", 
+        "cspan": 78290, 
+        "fec": [
+            "H4MI08135"
+        ], 
+        "google_entity_id": "kg:/m/027qc0m", 
+        "govtrack": 412635, 
+        "icpsr": 21527, 
+        "maplight": 2091, 
+        "opensecrets": "N00036449", 
+        "thomas": "02249", 
+        "votesmart": 20157, 
+        "wikidata": "Q16196834", 
+        "wikipedia": "Mike Bishop (politician)"
+    }, 
+    "name": {
+        "first": "Mike", 
+        "last": "Bishop", 
+        "official_full": "Mike Bishop"
+    }, 
+    "social": {
+        "facebook": "RepMikeBishop", 
+        "twitter": "RepMikeBishop", 
+        "twitter_id": 2914571740, 
+        "youtube_id": "UCeG5_Zwq-4KXnGWufThSKRQ"
+    }, 
+    "terms": [
+        {
+            "address": "428 Cannon HOB; Washington DC 20515-2208", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5820", 
+            "office": "428 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4872", 
+            "start": "2015-01-06", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://mikebishop.house.gov"
+        }, 
+        {
+            "address": "428 Cannon House Office Building; Washington DC 20515-2208", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5820", 
+            "office": "428 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4872", 
+            "start": "2017-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://mikebishop.house.gov"
+        }
+    ]
+}

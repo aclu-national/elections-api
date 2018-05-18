@@ -1,0 +1,158 @@
+{
+    "bio": {
+        "birthday": "1937-01-25", 
+        "gender": "M", 
+        "religion": "Catholic"
+    }, 
+    "id": {
+        "bioguide": "P000096", 
+        "cspan": 45543, 
+        "fec": [
+            "H6NJ08118"
+        ], 
+        "google_entity_id": "kg:/m/03txs_", 
+        "govtrack": 400309, 
+        "house_history": 19391, 
+        "icpsr": 29741, 
+        "maplight": 403, 
+        "opensecrets": "N00000751", 
+        "thomas": "01510", 
+        "votesmart": 478, 
+        "wikidata": "Q529090", 
+        "wikipedia": "Bill Pascrell"
+    }, 
+    "name": {
+        "first": "Bill", 
+        "last": "Pascrell", 
+        "middle": "J.", 
+        "official_full": "Bill Pascrell, Jr.", 
+        "suffix": "Jr."
+    }, 
+    "social": {
+        "facebook": "pascrell", 
+        "twitter": "BillPascrell", 
+        "twitter_id": 74508260, 
+        "youtube": "RepPascrell", 
+        "youtube_id": "UCIy1Ru8oA14aRjpq6L3i-EQ"
+    }, 
+    "terms": [
+        {
+            "district": 8, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "NJ", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "NJ", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "NJ", 
+            "type": "rep"
+        }, 
+        {
+            "district": 8, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://www.pascrell.house.gov"
+        }, 
+        {
+            "district": 8, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://www.pascrell.house.gov"
+        }, 
+        {
+            "district": 8, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://pascrell.house.gov"
+        }, 
+        {
+            "district": 8, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://pascrell.house.gov"
+        }, 
+        {
+            "address": "2370 Rayburn HOB; Washington DC 20515-3008", 
+            "contact_form": "http://pascrell.house.gov/contact/", 
+            "district": 8, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5782", 
+            "office": "2370 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5751", 
+            "start": "2011-01-05", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://pascrell.house.gov"
+        }, 
+        {
+            "address": "2370 Rayburn HOB; Washington DC 20515-3009", 
+            "contact_form": "https://pascrell.house.gov/contact/email-me", 
+            "district": 9, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5782", 
+            "office": "2370 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5751", 
+            "rss_url": "http://www.house.gov/apps/list/press/nj08_pascrell/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://pascrell.house.gov"
+        }, 
+        {
+            "address": "2370 Rayburn HOB; Washington DC 20515-3009", 
+            "contact_form": "https://pascrell.house.gov/contact/email-me", 
+            "district": 9, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5782", 
+            "office": "2370 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5751", 
+            "rss_url": "http://www.house.gov/apps/list/press/nj08_pascrell/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://pascrell.house.gov"
+        }, 
+        {
+            "address": "2370 Rayburn House Office Building; Washington DC 20515-3009", 
+            "district": 9, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5782", 
+            "office": "2370 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5751", 
+            "rss_url": "http://www.house.gov/apps/list/press/nj08_pascrell/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "https://pascrell.house.gov"
+        }
+    ]
+}

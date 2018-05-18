@@ -1,0 +1,76 @@
+{
+    "bio": {
+        "birthday": "1963-01-07", 
+        "gender": "M"
+    }, 
+    "family": [
+        {
+            "name": "Ronald Ernest Paul", 
+            "relation": "son"
+        }
+    ], 
+    "id": {
+        "ballotpedia": "Rand Paul", 
+        "bioguide": "P000603", 
+        "cspan": 9265241, 
+        "fec": [
+            "S0KY00156"
+        ], 
+        "google_entity_id": "kg:/m/05pdb7q", 
+        "govtrack": 412492, 
+        "icpsr": 41104, 
+        "lis": "S348", 
+        "maplight": 1497, 
+        "opensecrets": "N00030836", 
+        "thomas": "02082", 
+        "votesmart": 117285, 
+        "wikidata": "Q463557", 
+        "wikipedia": "Rand Paul"
+    }, 
+    "name": {
+        "first": "Rand", 
+        "last": "Paul", 
+        "official_full": "Rand Paul"
+    }, 
+    "social": {
+        "facebook": "SenatorRandPaul", 
+        "instagram": "senatorrandpaul", 
+        "instagram_id": 541357095, 
+        "youtube": "SenatorRandPaul", 
+        "youtube_id": "UCeM9I-20oWUs8daIIpsNHoQ"
+    }, 
+    "terms": [
+        {
+            "address": "167 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.paul.senate.gov/?p=contact", 
+            "end": "2017-01-03", 
+            "fax": "202-228-1373", 
+            "office": "167 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-4343", 
+            "rss_url": "http://paul.senate.gov/rss/?p=news", 
+            "start": "2011-01-05", 
+            "state": "KY", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.paul.senate.gov"
+        }, 
+        {
+            "address": "167 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.paul.senate.gov/connect/email-rand", 
+            "end": "2023-01-03", 
+            "fax": "202-228-1373", 
+            "office": "167 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-4343", 
+            "rss_url": "http://paul.senate.gov/rss/?p=news", 
+            "start": "2017-01-03", 
+            "state": "KY", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.paul.senate.gov"
+        }
+    ]
+}

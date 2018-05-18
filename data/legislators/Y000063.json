@@ -1,0 +1,96 @@
+{
+    "bio": {
+        "birthday": "1976-01-08", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Kevin Yoder", 
+        "bioguide": "Y000063", 
+        "cspan": 61843, 
+        "fec": [
+            "H0KS03137"
+        ], 
+        "google_entity_id": "kg:/m/06w90zv", 
+        "govtrack": 412430, 
+        "house_history": 21107, 
+        "icpsr": 21135, 
+        "maplight": 1441, 
+        "opensecrets": "N00031502", 
+        "thomas": "02021", 
+        "votesmart": 34433, 
+        "wikidata": "Q187037", 
+        "wikipedia": "Kevin Yoder"
+    }, 
+    "name": {
+        "first": "Kevin", 
+        "last": "Yoder", 
+        "official_full": "Kevin Yoder"
+    }, 
+    "social": {
+        "facebook": "CongressmanKevinYoder", 
+        "instagram": "repkevinyoder", 
+        "twitter": "RepKevinYoder", 
+        "twitter_id": 252819642, 
+        "youtube": "RepYoder", 
+        "youtube_id": "UCCeYmn4A8kZEHCcAfeUW9lQ"
+    }, 
+    "terms": [
+        {
+            "address": "214 Cannon HOB; Washington DC 20515-1603", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-225-2807", 
+            "office": "214 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2865", 
+            "start": "2011-01-05", 
+            "state": "KS", 
+            "type": "rep", 
+            "url": "http://yoder.house.gov/"
+        }, 
+        {
+            "address": "215 Cannon HOB; Washington DC 20515-1603", 
+            "contact_form": "https://yoder.house.gov/contact/email-me", 
+            "district": 3, 
+            "end": "2015-01-03", 
+            "fax": "202-225-2807", 
+            "office": "215 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2865", 
+            "rss_url": "http://yoder.house.gov/common/rss/index.cfm?rss=49", 
+            "start": "2013-01-03", 
+            "state": "KS", 
+            "type": "rep", 
+            "url": "http://yoder.house.gov"
+        }, 
+        {
+            "address": "215 Cannon HOB; Washington DC 20515-1603", 
+            "contact_form": "https://yoder.house.gov/contact/email-me", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-225-2807", 
+            "office": "215 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2865", 
+            "rss_url": "http://yoder.house.gov/common/rss/index.cfm?rss=49", 
+            "start": "2015-01-06", 
+            "state": "KS", 
+            "type": "rep", 
+            "url": "http://yoder.house.gov"
+        }, 
+        {
+            "address": "2433 Rayburn House Office Building; Washington DC 20515-1603", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2807", 
+            "office": "2433 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2865", 
+            "rss_url": "http://yoder.house.gov/common/rss/index.cfm?rss=49", 
+            "start": "2017-01-03", 
+            "state": "KS", 
+            "type": "rep", 
+            "url": "https://yoder.house.gov"
+        }
+    ]
+}

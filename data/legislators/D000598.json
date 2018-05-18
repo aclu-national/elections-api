@@ -1,0 +1,136 @@
+{
+    "bio": {
+        "birthday": "1944-04-13", 
+        "gender": "F", 
+        "religion": "Jewish"
+    }, 
+    "id": {
+        "bioguide": "D000598", 
+        "cspan": 85595, 
+        "fec": [
+            "H0CA49055"
+        ], 
+        "google_entity_id": "kg:/m/024xs5", 
+        "govtrack": 400097, 
+        "house_history": 12571, 
+        "icpsr": 20108, 
+        "maplight": 207, 
+        "opensecrets": "N00009604", 
+        "thomas": "01641", 
+        "votesmart": 8168, 
+        "wikidata": "Q460675", 
+        "wikipedia": "Susan Davis (politician)"
+    }, 
+    "name": {
+        "first": "Susan", 
+        "last": "Davis", 
+        "middle": "A.", 
+        "official_full": "Susan A. Davis"
+    }, 
+    "social": {
+        "facebook": "RepSusanDavis", 
+        "twitter": "RepSusanDavis", 
+        "twitter_id": 432771620
+    }, 
+    "terms": [
+        {
+            "district": 49, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 53, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/susandavis"
+        }, 
+        {
+            "district": 53, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/susandavis"
+        }, 
+        {
+            "district": 53, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/susandavis"
+        }, 
+        {
+            "district": 53, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/susandavis"
+        }, 
+        {
+            "address": "1526 Longworth HOB; Washington DC 20515-0553", 
+            "contact_form": "http://www.house.gov/susandavis/contact.shtml", 
+            "district": 53, 
+            "end": "2013-01-03", 
+            "fax": "202-225-2948", 
+            "office": "1526 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2040", 
+            "start": "2011-01-05", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/susandavis"
+        }, 
+        {
+            "address": "1526 Longworth HOB; Washington DC 20515-0553", 
+            "contact_form": "https://susandavisforms.house.gov/forms/writeyourrep/", 
+            "district": 53, 
+            "end": "2015-01-03", 
+            "fax": "202-225-2948", 
+            "office": "1526 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2040", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/susandavis"
+        }, 
+        {
+            "address": "1214 Longworth HOB; Washington DC 20515-0553", 
+            "contact_form": "https://susandavisforms.house.gov/forms/writeyourrep/", 
+            "district": 53, 
+            "end": "2017-01-03", 
+            "fax": "202-225-2948", 
+            "office": "1214 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2040", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://susandavis.house.gov"
+        }, 
+        {
+            "address": "1214 Longworth House Office Building; Washington DC 20515-0553", 
+            "district": 53, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2948", 
+            "office": "1214 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2040", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://susandavis.house.gov"
+        }
+    ]
+}

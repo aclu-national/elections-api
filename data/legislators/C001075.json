@@ -1,0 +1,90 @@
+{
+    "bio": {
+        "birthday": "1957-09-28", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Bill Cassidy", 
+        "bioguide": "C001075", 
+        "cspan": 1030546, 
+        "fec": [
+            "H8LA00017", 
+            "S4LA00107"
+        ], 
+        "google_entity_id": "kg:/m/0286t7r", 
+        "govtrack": 412269, 
+        "house_history": 11811, 
+        "icpsr": 20919, 
+        "lis": "S373", 
+        "maplight": 751, 
+        "opensecrets": "N00030245", 
+        "thomas": "01925", 
+        "votesmart": 69494, 
+        "wikidata": "Q861999", 
+        "wikipedia": "Bill Cassidy"
+    }, 
+    "name": {
+        "first": "Bill", 
+        "last": "Cassidy", 
+        "official_full": "Bill Cassidy"
+    }, 
+    "social": {
+        "youtube": "SenatorBillCassidy", 
+        "youtube_id": "UCCEyGhUzxgkxFzWCY-rxz8g"
+    }, 
+    "terms": [
+        {
+            "district": 6, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://cassidy.house.gov"
+        }, 
+        {
+            "address": "1535 Longworth HOB; Washington DC 20515-1806", 
+            "contact_form": "https://forms.house.gov/cassidy/contact-form.shtml", 
+            "district": 6, 
+            "end": "2013-01-03", 
+            "fax": "202-225-7313", 
+            "office": "1535 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3901", 
+            "start": "2011-01-05", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://cassidy.house.gov"
+        }, 
+        {
+            "address": "1131 Longworth HOB; Washington DC 20515-1806", 
+            "contact_form": "https://cassidy.house.gov/contact/email-me", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "fax": "202-225-7313", 
+            "office": "1131 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3901", 
+            "rss_url": "http://cassidy.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://cassidy.house.gov"
+        }, 
+        {
+            "address": "520 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.cassidy.senate.gov/contact", 
+            "end": "2021-01-03", 
+            "fax": "202-225-7313", 
+            "office": "520 Hart Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5824", 
+            "start": "2015-01-06", 
+            "state": "LA", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.cassidy.senate.gov"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "bio": {
+        "birthday": "1950-05-20", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Chris Collins", 
+        "bioguide": "C001092", 
+        "cspan": 94144, 
+        "fec": [
+            "H8NY29032"
+        ], 
+        "google_entity_id": "kg:/m/03cv81x", 
+        "govtrack": 412563, 
+        "icpsr": 21345, 
+        "maplight": 1787, 
+        "opensecrets": "N00001285", 
+        "thomas": "02151", 
+        "votesmart": 139770, 
+        "wikidata": "Q5106218", 
+        "wikipedia": "Chris Collins (American politician)"
+    }, 
+    "name": {
+        "first": "Chris", 
+        "last": "Collins", 
+        "official_full": "Chris Collins"
+    }, 
+    "social": {
+        "facebook": "RepChrisCollins", 
+        "instagram": "repchriscollins", 
+        "instagram_id": 379808544, 
+        "twitter": "RepChrisCollins", 
+        "twitter_id": 1058256326, 
+        "youtube": "RepChrisCollins", 
+        "youtube_id": "UCSwQQJaKI4TzuYDUwHwwnxQ"
+    }, 
+    "terms": [
+        {
+            "address": "1117 Longworth HOB; Washington DC 20515-3227", 
+            "contact_form": "https://chriscollins.house.gov/contact/email-me", 
+            "district": 27, 
+            "end": "2015-01-03", 
+            "office": "1117 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5265", 
+            "rss_url": "http://chriscollins.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://chriscollins.house.gov"
+        }, 
+        {
+            "address": "1117 Longworth HOB; Washington DC 20515-3227", 
+            "contact_form": "https://chriscollins.house.gov/contact/email-me", 
+            "district": 27, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5910", 
+            "office": "1117 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5265", 
+            "rss_url": "http://chriscollins.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://chriscollins.house.gov"
+        }, 
+        {
+            "address": "1117 Longworth House Office Building; Washington DC 20515-3227", 
+            "district": 27, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5910", 
+            "office": "1117 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5265", 
+            "rss_url": "http://chriscollins.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://chriscollins.house.gov"
+        }
+    ]
+}

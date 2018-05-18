@@ -1,0 +1,96 @@
+{
+    "bio": {
+        "birthday": "1973-09-13", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Cedric Richmond", 
+        "bioguide": "R000588", 
+        "cspan": 62391, 
+        "fec": [
+            "H8LA02054"
+        ], 
+        "google_entity_id": "kg:/m/0bbw8s3", 
+        "govtrack": 412432, 
+        "house_history": 20816, 
+        "icpsr": 21137, 
+        "maplight": 1443, 
+        "opensecrets": "N00030184", 
+        "thomas": "02023", 
+        "votesmart": 35384, 
+        "wikidata": "Q561284", 
+        "wikipedia": "Cedric Richmond"
+    }, 
+    "name": {
+        "first": "Cedric", 
+        "last": "Richmond", 
+        "middle": "L.", 
+        "official_full": "Cedric L. Richmond"
+    }, 
+    "social": {
+        "facebook": "RepRichmond", 
+        "twitter": "RepRichmond", 
+        "twitter_id": 267854863, 
+        "youtube": "RepCedricRichmond", 
+        "youtube_id": "UCsB66Dq8sCGwr5K3g1kqTrA"
+    }, 
+    "terms": [
+        {
+            "address": "415 Cannon HOB; Washington DC 20515-1802", 
+            "district": 2, 
+            "end": "2013-01-03", 
+            "fax": "202-225-1988", 
+            "office": "415 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6636", 
+            "start": "2011-01-05", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://richmond.house.gov/"
+        }, 
+        {
+            "address": "240 Cannon HOB; Washington DC 20515-1802", 
+            "contact_form": "https://richmond.house.gov/contact-me/email-me", 
+            "district": 2, 
+            "end": "2015-01-03", 
+            "fax": "202-225-1988", 
+            "office": "240 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6636", 
+            "rss_url": "http://richmond.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://richmond.house.gov"
+        }, 
+        {
+            "address": "240 Cannon HOB; Washington DC 20515-1802", 
+            "contact_form": "https://richmond.house.gov/contact-me/email-me", 
+            "district": 2, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1988", 
+            "office": "240 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6636", 
+            "rss_url": "http://richmond.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://richmond.house.gov"
+        }, 
+        {
+            "address": "420 Cannon House Office Building; Washington DC 20515-1802", 
+            "district": 2, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1988", 
+            "office": "420 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6636", 
+            "rss_url": "http://richmond.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "https://richmond.house.gov"
+        }
+    ]
+}

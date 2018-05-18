@@ -1,0 +1,96 @@
+{
+    "bio": {
+        "birthday": "1954-06-14", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Bob Gibbs", 
+        "bioguide": "G000563", 
+        "cspan": 1033844, 
+        "fec": [
+            "H0OH18077"
+        ], 
+        "google_entity_id": "kg:/m/07qwv4", 
+        "govtrack": 412463, 
+        "house_history": 14280, 
+        "icpsr": 21165, 
+        "maplight": 1469, 
+        "opensecrets": "N00031128", 
+        "thomas": "02049", 
+        "votesmart": 45466, 
+        "wikidata": "Q887945", 
+        "wikipedia": "Bob Gibbs"
+    }, 
+    "name": {
+        "first": "Bob", 
+        "last": "Gibbs", 
+        "official_full": "Bob Gibbs"
+    }, 
+    "social": {
+        "facebook": "RepBobGibbs", 
+        "instagram": "repbobgibbs", 
+        "twitter": "RepBobGibbs", 
+        "twitter_id": 234822928, 
+        "youtube": "RepBobGibbs", 
+        "youtube_id": "UC4J-kVbeE32Up-b_wTLEUmA"
+    }, 
+    "terms": [
+        {
+            "address": "329 Cannon HOB; Washington DC 20515-3518", 
+            "district": 18, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3394", 
+            "office": "329 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6265", 
+            "start": "2011-01-05", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://gibbs.house.gov/"
+        }, 
+        {
+            "address": "329 Cannon HOB; Washington DC 20515-3507", 
+            "contact_form": "https://gibbs.house.gov/contact-me/email-me", 
+            "district": 7, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3394", 
+            "office": "329 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6265", 
+            "rss_url": "http://gibbs.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://gibbs.house.gov"
+        }, 
+        {
+            "address": "329 Cannon HOB; Washington DC 20515-3507", 
+            "contact_form": "https://gibbs.house.gov/contact-me/email-me", 
+            "district": 7, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3394", 
+            "office": "329 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6265", 
+            "rss_url": "http://gibbs.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://gibbs.house.gov"
+        }, 
+        {
+            "address": "2446 Rayburn House Office Building; Washington DC 20515-3507", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3394", 
+            "office": "2446 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6265", 
+            "rss_url": "http://gibbs.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://gibbs.house.gov"
+        }
+    ]
+}

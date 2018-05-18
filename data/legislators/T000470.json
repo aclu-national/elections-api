@@ -1,0 +1,97 @@
+{
+    "bio": {
+        "birthday": "1956-11-09", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Scott Tipton", 
+        "bioguide": "T000470", 
+        "cspan": 60384, 
+        "fec": [
+            "H6CO03139"
+        ], 
+        "google_entity_id": "kg:/m/0bn82p", 
+        "govtrack": 412405, 
+        "house_history": 23219, 
+        "icpsr": 21111, 
+        "maplight": 1417, 
+        "opensecrets": "N00027509", 
+        "thomas": "01997", 
+        "votesmart": 65403, 
+        "wikidata": "Q782994", 
+        "wikipedia": "Scott Tipton"
+    }, 
+    "name": {
+        "first": "Scott", 
+        "last": "Tipton", 
+        "middle": "R.", 
+        "official_full": "Scott R. Tipton"
+    }, 
+    "social": {
+        "facebook": "CongressmanScottTipton", 
+        "instagram": "repscotttipton", 
+        "twitter": "RepTipton", 
+        "twitter_id": 242873057, 
+        "youtube": "RepScottTipton", 
+        "youtube_id": "UCh9ssh1dvzpr1HOWaFm8rcg"
+    }, 
+    "terms": [
+        {
+            "address": "218 Cannon HOB; Washington DC 20515-0603", 
+            "district": 3, 
+            "end": "2013-01-03", 
+            "fax": "202-226-9669", 
+            "office": "218 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4761", 
+            "start": "2011-01-05", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://tipton.house.gov/"
+        }, 
+        {
+            "address": "218 Cannon HOB; Washington DC 20515-0603", 
+            "contact_form": "https://tipton.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2015-01-03", 
+            "fax": "202-226-9669", 
+            "office": "218 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4761", 
+            "rss_url": "http://tipton.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://tipton.house.gov"
+        }, 
+        {
+            "address": "218 Cannon HOB; Washington DC 20515-0603", 
+            "contact_form": "https://tipton.house.gov/contact-me/email-me", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-226-9669", 
+            "office": "218 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4761", 
+            "rss_url": "http://tipton.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://tipton.house.gov"
+        }, 
+        {
+            "address": "218 Cannon House Office Building; Washington DC 20515-0603", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-226-9669", 
+            "office": "218 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4761", 
+            "rss_url": "http://tipton.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "https://tipton.house.gov"
+        }
+    ]
+}

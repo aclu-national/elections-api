@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1959-02-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "B001297", 
+        "cspan": 78285, 
+        "fec": [
+            "S0CO00237", 
+            "H4CO04090"
+        ], 
+        "google_entity_id": "kg:/m/05zzjd2", 
+        "govtrack": 412619, 
+        "icpsr": 21510, 
+        "maplight": 2075, 
+        "opensecrets": "N00030829", 
+        "thomas": "02233", 
+        "votesmart": 125319, 
+        "wikidata": "Q1439421", 
+        "wikipedia": "Ken Buck"
+    }, 
+    "name": {
+        "first": "Ken", 
+        "last": "Buck", 
+        "official_full": "Ken Buck"
+    }, 
+    "social": {
+        "facebook": "repkenbuck", 
+        "twitter": "RepKenBuck", 
+        "twitter_id": 2862577383, 
+        "youtube_id": "UCHK7Wcwij7NoxXGTeSHUWzg"
+    }, 
+    "terms": [
+        {
+            "address": "416 Cannon HOB; Washington DC 20515-0604", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5870", 
+            "office": "416 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4676", 
+            "start": "2015-01-06", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "https://buck.house.gov"
+        }, 
+        {
+            "address": "1130 Longworth House Office Building; Washington DC 20515-0604", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5870", 
+            "office": "1130 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-4676", 
+            "start": "2017-01-03", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "https://buck.house.gov"
+        }
+    ]
+}

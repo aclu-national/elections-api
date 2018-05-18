@@ -1,0 +1,71 @@
+{
+    "bio": {
+        "birthday": "1955-04-08", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Ron Johnson (Wisconsin)", 
+        "bioguide": "J000293", 
+        "cspan": 62835, 
+        "fec": [
+            "S0WI00197"
+        ], 
+        "google_entity_id": "kg:/m/0cmdpzc", 
+        "govtrack": 412496, 
+        "icpsr": 41111, 
+        "lis": "S345", 
+        "maplight": 1501, 
+        "opensecrets": "N00032546", 
+        "thomas": "02086", 
+        "votesmart": 126217, 
+        "wikidata": "Q970272", 
+        "wikipedia": "Ron Johnson (American politician)"
+    }, 
+    "name": {
+        "first": "Ron", 
+        "last": "Johnson", 
+        "official_full": "Ron Johnson"
+    }, 
+    "social": {
+        "facebook": "senronjohnson", 
+        "instagram": "senronjohnson", 
+        "twitter": "SenRonJohnson", 
+        "twitter_id": 233737858, 
+        "youtube": "SenatorRonJohnson", 
+        "youtube_id": "UCG9XyTVtOAs7VX_q_QVHoaw"
+    }, 
+    "terms": [
+        {
+            "address": "328 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.ronjohnson.senate.gov/public/index.cfm/contact", 
+            "end": "2017-01-03", 
+            "fax": "920-230-7262", 
+            "office": "328 Hart Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5323", 
+            "rss_url": "http://www.ronjohnson.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2011-01-05", 
+            "state": "WI", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "http://www.ronjohnson.senate.gov"
+        }, 
+        {
+            "address": "328 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator", 
+            "end": "2023-01-03", 
+            "fax": "920-230-7262", 
+            "office": "328 Hart Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5323", 
+            "rss_url": "http://www.ronjohnson.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2017-01-03", 
+            "state": "WI", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.ronjohnson.senate.gov"
+        }
+    ]
+}

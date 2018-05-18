@@ -1,0 +1,85 @@
+{
+    "bio": {
+        "birthday": "1972-10-20", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Brian E. Schatz", 
+        "bioguide": "S001194", 
+        "cspan": 87784, 
+        "fec": [
+            "S4HI00136", 
+            "H6HI02244"
+        ], 
+        "google_entity_id": "kg:/m/0dd109", 
+        "govtrack": 412507, 
+        "icpsr": 41112, 
+        "lis": "S353", 
+        "maplight": 1728, 
+        "opensecrets": "N00028138", 
+        "thomas": "02173", 
+        "votesmart": 17852, 
+        "wikidata": "Q1827902", 
+        "wikipedia": "Brian Schatz"
+    }, 
+    "name": {
+        "first": "Brian", 
+        "last": "Schatz", 
+        "middle": "Emanuel", 
+        "official_full": "Brian Schatz"
+    }, 
+    "social": {
+        "facebook": "SenBrianSchatz", 
+        "twitter": "SenBrianSchatz", 
+        "twitter_id": 1262099252, 
+        "youtube": "senbrianschatz", 
+        "youtube_id": "UC8-mSYp2WqBiB_5iwtwKfow"
+    }, 
+    "terms": [
+        {
+            "address": "722 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.schatz.senate.gov/contact", 
+            "end": "2015-01-03", 
+            "fax": "202-228-1153", 
+            "office": "722 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3934", 
+            "start": "2012-12-27", 
+            "state": "HI", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "http://www.schatz.senate.gov"
+        }, 
+        {
+            "address": "722 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.schatz.senate.gov/contact", 
+            "end": "2017-01-03", 
+            "fax": "202-228-1153", 
+            "office": "722 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3934", 
+            "start": "2015-01-06", 
+            "state": "HI", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "http://www.schatz.senate.gov"
+        }, 
+        {
+            "address": "722 Hart Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.schatz.senate.gov/contact", 
+            "end": "2023-01-03", 
+            "fax": "202-228-1153", 
+            "office": "722 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3934", 
+            "start": "2017-01-03", 
+            "state": "HI", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.schatz.senate.gov"
+        }
+    ]
+}

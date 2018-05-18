@@ -1,0 +1,63 @@
+{
+    "bio": {
+        "birthday": "1954-10-18", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "L000581", 
+        "cspan": 79924, 
+        "fec": [
+            "H2MI14111"
+        ], 
+        "google_entity_id": "kg:/m/02w_vhg", 
+        "govtrack": 412638, 
+        "house_history": 15032411198, 
+        "icpsr": 21530, 
+        "maplight": 2094, 
+        "opensecrets": "N00034068", 
+        "thomas": "02252", 
+        "votesmart": 78851, 
+        "wikidata": "Q4960712", 
+        "wikipedia": "Brenda Lawrence"
+    }, 
+    "name": {
+        "first": "Brenda", 
+        "last": "Lawrence", 
+        "official_full": "Brenda L. Lawrence"
+    }, 
+    "social": {
+        "facebook": "395759603917487", 
+        "instagram": "repbrendalawrence", 
+        "twitter": "RepLawrence", 
+        "twitter_id": 2863006655, 
+        "youtube_id": "UCf0USy9GNigkB8O9sS1dodw"
+    }, 
+    "terms": [
+        {
+            "address": "1237 Longworth HOB; Washington DC 20515-2214", 
+            "district": 14, 
+            "end": "2017-01-03", 
+            "fax": "202-226-2356", 
+            "office": "1237 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5802", 
+            "start": "2015-01-06", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://lawrence.house.gov"
+        }, 
+        {
+            "address": "1213 Longworth House Office Building; Washington DC 20515-2214", 
+            "district": 14, 
+            "end": "2019-01-03", 
+            "fax": "202-226-2356", 
+            "office": "1213 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5802", 
+            "start": "2017-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://lawrence.house.gov"
+        }
+    ]
+}

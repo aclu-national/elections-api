@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1961-08-24", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "H001077", 
+        "cspan": 106094, 
+        "fec": [
+            "H6LA03148"
+        ], 
+        "google_entity_id": "kg:/g/11c1s3lp76", 
+        "govtrack": 412705, 
+        "icpsr": 21724, 
+        "maplight": 2217, 
+        "opensecrets": "N00039953", 
+        "votesmart": 174484, 
+        "wikidata": "Q25849505", 
+        "wikipedia": "Clay Higgins"
+    }, 
+    "name": {
+        "first": "Clay", 
+        "last": "Higgins", 
+        "official_full": "Clay Higgins"
+    }, 
+    "social": {
+        "facebook": "CongressmanClayHiggins", 
+        "twitter": "RepClayHiggins", 
+        "twitter_id": 843636970538618880
+    }, 
+    "terms": [
+        {
+            "address": "1711 Longworth House Office Building; Washington DC 20515-1803", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "office": "1711 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2031", 
+            "start": "2017-01-03", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "https://clayhiggins.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "bio": {
+        "birthday": "1947-12-29", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "R000600", 
+        "cspan": 5188, 
+        "fec": [
+            "H4AS00036"
+        ], 
+        "google_entity_id": "kg:/m/012964p3", 
+        "govtrack": 412664, 
+        "house_history": 15032412349, 
+        "maplight": 2120, 
+        "opensecrets": "N00007635", 
+        "thomas": "02222", 
+        "wikidata": "Q18684027", 
+        "wikipedia": "Amata Coleman Radewagen"
+    }, 
+    "name": {
+        "first": "Aumua", 
+        "last": "Amata", 
+        "official_full": "Aumua Amata Coleman Radewagen"
+    }, 
+    "social": {
+        "facebook": "aumuaamata", 
+        "twitter": "RepAmata", 
+        "twitter_id": 3026622545, 
+        "youtube_id": "UCGdrLQbt1PYDTPsampx4t1A"
+    }, 
+    "terms": [
+        {
+            "address": "1339 Longworth HOB; Washington DC 20515-5200", 
+            "district": 0, 
+            "end": "2017-01-03", 
+            "fax": "202-225-8757", 
+            "office": "1339 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-8577", 
+            "start": "2015-01-06", 
+            "state": "AS", 
+            "type": "rep", 
+            "url": "https://radewagen.house.gov"
+        }, 
+        {
+            "address": "1339 Longworth House Office Building; Washington DC 20515-5200", 
+            "district": 0, 
+            "end": "2019-01-03", 
+            "fax": "202-225-8757", 
+            "office": "1339 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-8577", 
+            "start": "2017-01-03", 
+            "state": "AS", 
+            "type": "rep", 
+            "url": "https://radewagen.house.gov"
+        }
+    ]
+}

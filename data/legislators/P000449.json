@@ -1,0 +1,134 @@
+{
+    "bio": {
+        "birthday": "1955-12-19", 
+        "gender": "M", 
+        "religion": "Methodist"
+    }, 
+    "id": {
+        "ballotpedia": "Rob Portman", 
+        "bioguide": "P000449", 
+        "cspan": 31819, 
+        "fec": [
+            "S0OH00133", 
+            "H4OH02032"
+        ], 
+        "google_entity_id": "kg:/m/0343xg", 
+        "govtrack": 400325, 
+        "house_history": 19838, 
+        "icpsr": 29386, 
+        "lis": "S349", 
+        "maplight": 419, 
+        "opensecrets": "N00003682", 
+        "thomas": "00924", 
+        "votesmart": 27008, 
+        "wikidata": "Q926069", 
+        "wikipedia": "Rob Portman"
+    }, 
+    "name": {
+        "first": "Robert", 
+        "last": "Portman", 
+        "middle": "J.", 
+        "nickname": "Rob", 
+        "official_full": "Rob Portman"
+    }, 
+    "social": {
+        "facebook": "senrobportman", 
+        "instagram": "senrobportman", 
+        "instagram_id": 370356159, 
+        "twitter": "SenRobPortman", 
+        "twitter_id": 18915145, 
+        "youtube": "SenRobPortman", 
+        "youtube_id": "UCwunkd8Zs-yAWKQwnwBp7ew"
+    }, 
+    "terms": [
+        {
+            "district": 2, 
+            "end": "1995-01-03", 
+            "party": "Republican", 
+            "start": "1993-05-04", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 2, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/portman"
+        }, 
+        {
+            "district": 2, 
+            "end": "2005-04-29", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/portman"
+        }, 
+        {
+            "address": "448 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.portman.senate.gov/public/index.cfm/contact-form", 
+            "end": "2017-01-03", 
+            "fax": "202-224-9075", 
+            "office": "448 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3353", 
+            "rss_url": "http://www.portman.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2011-01-05", 
+            "state": "OH", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "http://www.portman.senate.gov"
+        }, 
+        {
+            "address": "448 Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.portman.senate.gov/public/index.cfm/contact?p=contact-form", 
+            "end": "2023-01-03", 
+            "office": "448 Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-3353", 
+            "rss_url": "http://www.portman.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.portman.senate.gov"
+        }
+    ]
+}

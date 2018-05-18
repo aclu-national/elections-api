@@ -1,0 +1,79 @@
+{
+    "bio": {
+        "birthday": "1958-12-13", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Donald Norcross", 
+        "bioguide": "N000188", 
+        "cspan": 76311, 
+        "fec": [
+            "H4NJ01084"
+        ], 
+        "google_entity_id": "kg:/m/09g8b1_", 
+        "govtrack": 412606, 
+        "house_history": 15032409258, 
+        "icpsr": 21536, 
+        "maplight": 2062, 
+        "opensecrets": "N00036154", 
+        "thomas": "02202", 
+        "votesmart": 116277, 
+        "wikidata": "Q5294942", 
+        "wikipedia": "Donald Norcross"
+    }, 
+    "name": {
+        "first": "Donald", 
+        "last": "Norcross", 
+        "middle": "W.", 
+        "official_full": "Donald Norcross"
+    }, 
+    "social": {
+        "facebook": "DonaldNorcrossNJ", 
+        "instagram": "donald_norcross", 
+        "twitter": "DonaldNorcross", 
+        "twitter_id": 3122099613, 
+        "youtube_id": "UC7kXK_PyDiOT8YrdP0jYZHw"
+    }, 
+    "terms": [
+        {
+            "address": "2265 Rayburn HOB; Washington DC 20515-3001", 
+            "contact_form": "http://norcross.house.gov/contact", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "office": "2265 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6501", 
+            "start": "2014-11-12", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://norcross.house.gov/"
+        }, 
+        {
+            "address": "1531 Longworth HOB; Washington DC 20515-3001", 
+            "contact_form": "http://norcross.house.gov/contact", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-6583", 
+            "office": "1531 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6501", 
+            "start": "2015-01-06", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "http://norcross.house.gov"
+        }, 
+        {
+            "address": "1531 Longworth House Office Building; Washington DC 20515-3001", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-6583", 
+            "office": "1531 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6501", 
+            "start": "2017-01-03", 
+            "state": "NJ", 
+            "type": "rep", 
+            "url": "https://norcross.house.gov"
+        }
+    ]
+}

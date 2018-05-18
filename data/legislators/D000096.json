@@ -1,0 +1,158 @@
+{
+    "bio": {
+        "birthday": "1941-09-06", 
+        "gender": "M", 
+        "religion": "Baptist"
+    }, 
+    "id": {
+        "ballotpedia": "Danny K. Davis", 
+        "bioguide": "D000096", 
+        "cspan": 44325, 
+        "fec": [
+            "H4IL07037"
+        ], 
+        "google_entity_id": "kg:/m/0256k7", 
+        "govtrack": 400093, 
+        "house_history": 11949, 
+        "icpsr": 29717, 
+        "maplight": 209, 
+        "opensecrets": "N00004884", 
+        "thomas": "01477", 
+        "votesmart": 233, 
+        "wikidata": "Q1164657", 
+        "wikipedia": "Danny K. Davis"
+    }, 
+    "name": {
+        "first": "Danny", 
+        "last": "Davis", 
+        "middle": "K.", 
+        "official_full": "Danny K. Davis"
+    }, 
+    "social": {
+        "facebook": "CongressmanDKDavis", 
+        "twitter": "RepDannyDavis", 
+        "twitter_id": 789244177, 
+        "youtube": "dannykdavis07", 
+        "youtube_id": "UCdhrT09_XMr31tuI8OcKsjQ"
+    }, 
+    "terms": [
+        {
+            "district": 7, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/davis"
+        }, 
+        {
+            "district": 7, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/davis"
+        }, 
+        {
+            "district": 7, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/davis"
+        }, 
+        {
+            "district": 7, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/davis"
+        }, 
+        {
+            "address": "2159 Rayburn HOB; Washington DC 20515-1307", 
+            "contact_form": "https://forms.house.gov/davis/webforms/issue_subscribe.htm", 
+            "district": 7, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5641", 
+            "office": "2159 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5006", 
+            "start": "2011-01-05", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.house.gov/davis"
+        }, 
+        {
+            "address": "2159 Rayburn HOB; Washington DC 20515-1307", 
+            "contact_form": "https://davis.house.gov/email-me", 
+            "district": 7, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5641", 
+            "office": "2159 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5006", 
+            "rss_url": "http://davis.house.gov/index.php?format=feed&type=rss", 
+            "start": "2013-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://www.davis.house.gov"
+        }, 
+        {
+            "address": "2159 Rayburn HOB; Washington DC 20515-1307", 
+            "contact_form": "https://davis.house.gov/email-me", 
+            "district": 7, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5641", 
+            "office": "2159 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5006", 
+            "rss_url": "http://davis.house.gov/index.php?format=feed&type=rss", 
+            "start": "2015-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://davis.house.gov"
+        }, 
+        {
+            "address": "2159 Rayburn House Office Building; Washington DC 20515-1307", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5641", 
+            "office": "2159 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5006", 
+            "rss_url": "http://davis.house.gov/index.php?format=feed&type=rss", 
+            "start": "2017-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "https://davis.house.gov"
+        }
+    ]
+}

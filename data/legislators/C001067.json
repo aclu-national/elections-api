@@ -1,0 +1,115 @@
+{
+    "bio": {
+        "birthday": "1964-11-21", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Yvette D. Clarke", 
+        "bioguide": "C001067", 
+        "cspan": 1022875, 
+        "fec": [
+            "H4NY11138"
+        ], 
+        "google_entity_id": "kg:/m/06h90t", 
+        "govtrack": 412221, 
+        "house_history": 11798, 
+        "icpsr": 20733, 
+        "maplight": 706, 
+        "opensecrets": "N00026961", 
+        "thomas": "01864", 
+        "votesmart": 44741, 
+        "wikidata": "Q461679", 
+        "wikipedia": "Yvette Clarke"
+    }, 
+    "name": {
+        "first": "Yvette", 
+        "last": "Clarke", 
+        "middle": "D.", 
+        "official_full": "Yvette D. Clarke"
+    }, 
+    "social": {
+        "facebook": "repyvettedclarke", 
+        "twitter": "RepYvetteClarke", 
+        "twitter_id": 240812994, 
+        "youtube": "repyvetteclarke", 
+        "youtube_id": "UC8SuQiuL2P9fUHAxuRoTdUQ"
+    }, 
+    "terms": [
+        {
+            "district": 11, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://clarke.house.gov"
+        }, 
+        {
+            "district": 11, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://clarke.house.gov"
+        }, 
+        {
+            "address": "1029 Longworth HOB; Washington DC 20515-3211", 
+            "contact_form": "http://clarke.house.gov/contactform_zipcheck.shtml", 
+            "district": 11, 
+            "end": "2013-01-03", 
+            "fax": "202-226-0112", 
+            "office": "1029 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6231", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://clarke.house.gov"
+        }, 
+        {
+            "address": "2351 Rayburn HOB; Washington DC 20515-3209", 
+            "contact_form": "https://clarke.house.gov/contact/email-me", 
+            "district": 9, 
+            "end": "2015-01-03", 
+            "fax": "202-226-0112", 
+            "office": "2351 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6231", 
+            "rss_url": "http://clarke.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://clarke.house.gov"
+        }, 
+        {
+            "address": "2351 Rayburn HOB; Washington DC 20515-3209", 
+            "contact_form": "https://clarke.house.gov/contact/email-me", 
+            "district": 9, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0112", 
+            "office": "2351 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6231", 
+            "rss_url": "http://clarke.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://clarke.house.gov"
+        }, 
+        {
+            "address": "2058 Rayburn House Office Building; Washington DC 20515-3209", 
+            "district": 9, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0112", 
+            "office": "2058 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6231", 
+            "rss_url": "http://clarke.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://clarke.house.gov"
+        }
+    ]
+}

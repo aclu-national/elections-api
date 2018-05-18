@@ -1,0 +1,78 @@
+{
+    "bio": {
+        "birthday": "1946-05-27", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Alma Adams", 
+        "bioguide": "A000370", 
+        "cspan": 76386, 
+        "fec": [
+            "H4NC12100"
+        ], 
+        "google_entity_id": "kg:/m/02b45d", 
+        "govtrack": 412607, 
+        "house_history": 15032409256, 
+        "icpsr": 21545, 
+        "maplight": 2063, 
+        "opensecrets": "N00035451", 
+        "thomas": "02201", 
+        "votesmart": 5935, 
+        "wikidata": "Q4733597", 
+        "wikipedia": "Alma Adams"
+    }, 
+    "name": {
+        "first": "Alma", 
+        "last": "Adams", 
+        "official_full": "Alma S. Adams"
+    }, 
+    "social": {
+        "facebook": "CongresswomanAdams", 
+        "instagram": "repadams", 
+        "twitter": "RepAdams", 
+        "twitter_id": 2916086925, 
+        "youtube_id": "UCPI9ao1Cr1nxEUD2r-usRjQ"
+    }, 
+    "terms": [
+        {
+            "address": "2304 Rayburn HOB; Washington DC 20515-3312", 
+            "contact_form": "http://adams.house.gov/contact", 
+            "district": 12, 
+            "end": "2015-01-03", 
+            "office": "2304 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-1510", 
+            "start": "2014-11-12", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "http://adams.house.gov/"
+        }, 
+        {
+            "address": "222 Cannon HOB; Washington DC 20515-3312", 
+            "contact_form": "http://adams.house.gov/contact", 
+            "district": 12, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1512", 
+            "office": "222 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-1510", 
+            "start": "2015-01-06", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "http://adams.house.gov"
+        }, 
+        {
+            "address": "222 Cannon House Office Building; Washington DC 20515-3312", 
+            "district": 12, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1512", 
+            "office": "222 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-1510", 
+            "start": "2017-01-03", 
+            "state": "NC", 
+            "type": "rep", 
+            "url": "https://adams.house.gov"
+        }
+    ]
+}

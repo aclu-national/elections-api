@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1954-05-04", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Doug Jones (Alabama)", 
+        "bioguide": "J000300", 
+        "cspan": 1024592, 
+        "fec": [
+            "S0AL00156"
+        ], 
+        "google_entity_id": "kg:/g/11dyzdzg1j", 
+        "govtrack": 412741, 
+        "lis": "S393", 
+        "maplight": 2252, 
+        "opensecrets": "N00024817", 
+        "votesmart": 176464, 
+        "wikidata": "Q30122825", 
+        "wikipedia": "Doug Jones (politician)"
+    }, 
+    "name": {
+        "first": "Doug", 
+        "last": "Jones", 
+        "official_full": "Doug Jones"
+    }, 
+    "social": {
+        "twitter": "sendougjones"
+    }, 
+    "terms": [
+        {
+            "address": "326 Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.jones.senate.gov/content/contact-senator", 
+            "end": "2021-01-03", 
+            "office": "326 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-4124", 
+            "start": "2018-01-03", 
+            "state": "AL", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.jones.senate.gov"
+        }
+    ]
+}

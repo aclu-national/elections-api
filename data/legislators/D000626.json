@@ -1,0 +1,59 @@
+{
+    "bio": {
+        "birthday": "1970-03-01", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Warren Davidson", 
+        "bioguide": "D000626", 
+        "cspan": 102555, 
+        "fec": [
+            "H6OH08315"
+        ], 
+        "google_entity_id": "kg:/g/11cmmch3q8", 
+        "govtrack": 412675, 
+        "icpsr": 21564, 
+        "maplight": 2165, 
+        "opensecrets": "N00038767", 
+        "thomas": "02296", 
+        "votesmart": 166760, 
+        "wikidata": "Q24458117", 
+        "wikipedia": "Warren Davidson"
+    }, 
+    "name": {
+        "first": "Warren", 
+        "last": "Davidson", 
+        "official_full": "Warren Davidson"
+    }, 
+    "social": {
+        "facebook": "CongressmanWarrenDavidson", 
+        "twitter": "WarrenDavidson", 
+        "twitter_id": 742735530287304704, 
+        "youtube_id": "UCMzuyZWzk44YRNesFzPTeUw"
+    }, 
+    "terms": [
+        {
+            "address": "1011 Longworth HOB; Washington DC 20515-3508", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "office": "1011 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6205", 
+            "start": "2016-06-09", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "address": "1004 Longworth House Office Building; Washington DC 20515-3508", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "office": "1004 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-6205", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://davidson.house.gov"
+        }
+    ]
+}

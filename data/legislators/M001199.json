@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1980-07-10", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Brian Mast", 
+        "bioguide": "M001199", 
+        "cspan": 104540, 
+        "fec": [
+            "H6FL18097"
+        ], 
+        "google_entity_id": "kg:/g/11cs5xxx_f", 
+        "govtrack": 412698, 
+        "icpsr": 21735, 
+        "maplight": 2210, 
+        "opensecrets": "N00037269", 
+        "votesmart": 166245, 
+        "wikidata": "Q27733854", 
+        "wikipedia": "Brian Mast"
+    }, 
+    "name": {
+        "first": "Brian", 
+        "last": "Mast", 
+        "official_full": "Brian J. Mast"
+    }, 
+    "social": {
+        "facebook": "repbrianmast", 
+        "twitter": "repbrianmast", 
+        "twitter_id": 814103950404239360, 
+        "youtube": "repbrianmast"
+    }, 
+    "terms": [
+        {
+            "address": "2182 Rayburn House Office Building; Washington DC 20515-0918", 
+            "district": 18, 
+            "end": "2019-01-03", 
+            "office": "2182 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3026", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://mast.house.gov"
+        }
+    ]
+}

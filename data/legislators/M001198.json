@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1960-08-09", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "M001198", 
+        "cspan": 103425, 
+        "fec": [
+            "H6KS01179"
+        ], 
+        "google_entity_id": "kg:/g/11c4btdtm1", 
+        "govtrack": 412704, 
+        "icpsr": 21734, 
+        "maplight": 2216, 
+        "opensecrets": "N00037034", 
+        "votesmart": 172080, 
+        "wikidata": "Q27923290", 
+        "wikipedia": "Roger Marshall (politician)"
+    }, 
+    "name": {
+        "first": "Roger", 
+        "last": "Marshall", 
+        "official_full": "Roger W. Marshall"
+    }, 
+    "social": {
+        "facebook": "rogermarshallmd", 
+        "twitter": "RepMarshall", 
+        "twitter_id": 752364246218862592
+    }, 
+    "terms": [
+        {
+            "address": "312 Cannon House Office Building; Washington DC 20515-1601", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "office": "312 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2715", 
+            "start": "2017-01-03", 
+            "state": "KS", 
+            "type": "rep", 
+            "url": "https://marshall.house.gov"
+        }
+    ]
+}

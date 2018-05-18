@@ -1,0 +1,80 @@
+{
+    "bio": {
+        "birthday": "1966-07-30", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Sean Maloney", 
+        "bioguide": "M001185", 
+        "cspan": 79760, 
+        "fec": [
+            "H2NY22139"
+        ], 
+        "google_entity_id": "kg:/m/0b697g", 
+        "govtrack": 412562, 
+        "icpsr": 21344, 
+        "maplight": 1786, 
+        "opensecrets": "N00034277", 
+        "thomas": "02150", 
+        "votesmart": 139760, 
+        "wikidata": "Q2262244", 
+        "wikipedia": "Sean Patrick Maloney"
+    }, 
+    "name": {
+        "first": "Sean", 
+        "last": "Maloney", 
+        "middle": "Patrick", 
+        "official_full": "Sean Patrick Maloney"
+    }, 
+    "social": {
+        "facebook": "RepSeanMaloney", 
+        "twitter": "RepSeanMaloney", 
+        "twitter_id": 1072467470, 
+        "youtube_id": "UCNiVzzf4Vz-vCMPBcnjGuXQ"
+    }, 
+    "terms": [
+        {
+            "address": "1529 Longworth HOB; Washington DC 20515-3218", 
+            "contact_form": "https://seanmaloney.house.gov/contact/email-me", 
+            "district": 18, 
+            "end": "2015-01-03", 
+            "office": "1529 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5441", 
+            "rss_url": "http://seanmaloney.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://seanmaloney.house.gov"
+        }, 
+        {
+            "address": "1529 Longworth HOB; Washington DC 20515-3218", 
+            "contact_form": "https://seanmaloney.house.gov/contact/email-me", 
+            "district": 18, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3289", 
+            "office": "1529 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5441", 
+            "rss_url": "http://seanmaloney.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://seanmaloney.house.gov"
+        }, 
+        {
+            "address": "1027 Longworth House Office Building; Washington DC 20515-3218", 
+            "district": 18, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3289", 
+            "office": "1027 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5441", 
+            "rss_url": "http://seanmaloney.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://seanmaloney.house.gov"
+        }
+    ]
+}

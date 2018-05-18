@@ -1,0 +1,248 @@
+{
+    "bio": {
+        "birthday": "1946-07-11", 
+        "gender": "M", 
+        "religion": "Roman Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Ed Markey", 
+        "bioguide": "M000133", 
+        "cspan": 260, 
+        "fec": [
+            "H6MA07101", 
+            "S4MA00028"
+        ], 
+        "google_entity_id": "kg:/m/028vr4", 
+        "govtrack": 400253, 
+        "house_history": 17493, 
+        "icpsr": 14435, 
+        "lis": "S369", 
+        "maplight": 351, 
+        "opensecrets": "N00000270", 
+        "thomas": "00735", 
+        "votesmart": 26900, 
+        "wikidata": "Q1282411", 
+        "wikipedia": "Ed Markey"
+    }, 
+    "name": {
+        "first": "Edward", 
+        "last": "Markey", 
+        "middle": "J.", 
+        "nickname": "Ed", 
+        "official_full": "Edward J. Markey"
+    }, 
+    "social": {
+        "facebook": "EdJMarkey", 
+        "twitter": "SenMarkey", 
+        "twitter_id": 21406834, 
+        "youtube": "RepMarkey", 
+        "youtube_id": "UCT1ujew5yQy2uMhGrjiKHoA"
+    }, 
+    "terms": [
+        {
+            "district": 7, 
+            "end": "1977-01-03", 
+            "party": "Democrat", 
+            "start": "1975-01-14", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1979-01-03", 
+            "party": "Democrat", 
+            "start": "1977-01-04", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1981-01-03", 
+            "party": "Democrat", 
+            "start": "1979-01-15", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1983-01-03", 
+            "party": "Democrat", 
+            "start": "1981-01-05", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1985-01-03", 
+            "party": "Democrat", 
+            "start": "1983-01-03", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1987-01-03", 
+            "party": "Democrat", 
+            "start": "1985-01-03", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1989-01-03", 
+            "party": "Democrat", 
+            "start": "1987-01-06", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "MA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 7, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/markey"
+        }, 
+        {
+            "district": 7, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/markey"
+        }, 
+        {
+            "district": 7, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/markey"
+        }, 
+        {
+            "district": 7, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/markey"
+        }, 
+        {
+            "address": "2108 Rayburn HOB; Washington DC 20515-2107", 
+            "contact_form": "http://markey.house.gov/index.php?option=com_email_form&amp;Itemid=124", 
+            "district": 7, 
+            "end": "2013-01-03", 
+            "fax": "202-226-0092", 
+            "office": "2108 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2836", 
+            "start": "2011-01-05", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/markey"
+        }, 
+        {
+            "address": "2108 Rayburn HOB; Washington DC 20515-2107", 
+            "contact_form": "http://markey.house.gov/index.php?option=com_email_form&amp;Itemid=124", 
+            "district": 5, 
+            "end": "2013-07-15", 
+            "fax": "202-226-0092", 
+            "office": "2108 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2836", 
+            "rss_url": "http://markey.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/markey"
+        }, 
+        {
+            "address": "218 Russell Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.markey.senate.gov/contact", 
+            "end": "2015-01-03", 
+            "office": "218 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2742", 
+            "start": "2013-07-16", 
+            "state": "MA", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "http://www.markey.senate.gov"
+        }, 
+        {
+            "address": "255 Dirksen Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.markey.senate.gov/contact", 
+            "end": "2021-01-03", 
+            "office": "255 Dirksen Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2742", 
+            "start": "2015-01-06", 
+            "state": "MA", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.markey.senate.gov"
+        }
+    ]
+}

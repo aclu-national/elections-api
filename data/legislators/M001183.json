@@ -1,0 +1,68 @@
+{
+    "bio": {
+        "birthday": "1947-08-24", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Joe Manchin III", 
+        "bioguide": "M001183", 
+        "cspan": 62864, 
+        "fec": [
+            "S0WV00090"
+        ], 
+        "google_entity_id": "kg:/m/04lc5t", 
+        "govtrack": 412391, 
+        "icpsr": 40915, 
+        "lis": "S338", 
+        "maplight": 1372, 
+        "opensecrets": "N00032838", 
+        "thomas": "01983", 
+        "votesmart": 7547, 
+        "wikidata": "Q538868", 
+        "wikipedia": "Joe Manchin"
+    }, 
+    "name": {
+        "first": "Joe", 
+        "last": "Manchin", 
+        "official_full": "Joe Manchin, III", 
+        "suffix": "III"
+    }, 
+    "social": {
+        "facebook": "JoeManchinIII", 
+        "twitter": "Sen_JoeManchin", 
+        "twitter_id": 234374703, 
+        "youtube": "SenatorJoeManchin", 
+        "youtube_id": "UCGyPK_ye2ptpzQgOjKIn7ag"
+    }, 
+    "terms": [
+        {
+            "address": "303 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.manchin.senate.gov/contact_form.cfm", 
+            "end": "2013-01-03", 
+            "office": "303 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3954", 
+            "start": "2010-11-15", 
+            "state": "WV", 
+            "type": "sen", 
+            "url": "http://manchin.senate.gov/"
+        }, 
+        {
+            "address": "306 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.manchin.senate.gov/public/index.cfm/contact-form", 
+            "end": "2019-01-03", 
+            "fax": "202-228-0002", 
+            "office": "306 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3954", 
+            "rss_url": "http://www.manchin.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2013-01-03", 
+            "state": "WV", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.manchin.senate.gov"
+        }
+    ]
+}

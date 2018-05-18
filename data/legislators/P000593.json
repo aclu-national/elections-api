@@ -1,0 +1,114 @@
+{
+    "bio": {
+        "birthday": "1953-05-01", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Ed Perlmutter", 
+        "bioguide": "P000593", 
+        "cspan": 1021382, 
+        "fec": [
+            "H6CO07023"
+        ], 
+        "google_entity_id": "kg:/m/07n9ns", 
+        "govtrack": 412192, 
+        "house_history": 20024, 
+        "icpsr": 20705, 
+        "maplight": 679, 
+        "opensecrets": "N00027510", 
+        "thomas": "01835", 
+        "votesmart": 2653, 
+        "wikidata": "Q331507", 
+        "wikipedia": "Ed Perlmutter"
+    }, 
+    "name": {
+        "first": "Ed", 
+        "last": "Perlmutter", 
+        "official_full": "Ed Perlmutter"
+    }, 
+    "social": {
+        "facebook": "RepPerlmutter", 
+        "twitter": "RepPerlmutter", 
+        "twitter_id": 20552026, 
+        "youtube": "RepPerlmutter", 
+        "youtube_id": "UCJXuMAzxngpEvDdvlE6wS5g"
+    }, 
+    "terms": [
+        {
+            "district": 7, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://perlmutter.house.gov"
+        }, 
+        {
+            "district": 7, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://perlmutter.house.gov"
+        }, 
+        {
+            "address": "1221 Longworth HOB; Washington DC 20515-0607", 
+            "contact_form": "http://perlmutter.house.gov/IMA/issue_subscribe.htm", 
+            "district": 7, 
+            "end": "2013-01-03", 
+            "fax": "202-225-5278", 
+            "office": "1221 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2645", 
+            "start": "2011-01-05", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://perlmutter.house.gov"
+        }, 
+        {
+            "address": "1410 Longworth HOB; Washington DC 20515-0607", 
+            "contact_form": "https://forms.house.gov/perlmutter/webforms/contact.shtml", 
+            "district": 7, 
+            "end": "2015-01-03", 
+            "fax": "202-225-5278", 
+            "office": "1410 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2645", 
+            "rss_url": "http://perlmutter.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://perlmutter.house.gov"
+        }, 
+        {
+            "address": "1410 Longworth HOB; Washington DC 20515-0607", 
+            "contact_form": "https://forms.house.gov/perlmutter/webforms/contact.shtml", 
+            "district": 7, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5278", 
+            "office": "1410 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2645", 
+            "rss_url": "http://perlmutter.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "http://perlmutter.house.gov"
+        }, 
+        {
+            "address": "1410 Longworth House Office Building; Washington DC 20515-0607", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5278", 
+            "office": "1410 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2645", 
+            "rss_url": "http://perlmutter.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "CO", 
+            "type": "rep", 
+            "url": "https://perlmutter.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "bio": {
+        "birthday": "1962-03-03", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "David Schweikert", 
+        "bioguide": "S001183", 
+        "cspan": 5205, 
+        "fec": [
+            "H4AZ06045", 
+            "H8AZ05097"
+        ], 
+        "google_entity_id": "kg:/m/03wbpxj", 
+        "govtrack": 412399, 
+        "house_history": 22621, 
+        "icpsr": 21105, 
+        "maplight": 1413, 
+        "opensecrets": "N00006460", 
+        "thomas": "01994", 
+        "votesmart": 106387, 
+        "wikidata": "Q1176561", 
+        "wikipedia": "David Schweikert"
+    }, 
+    "name": {
+        "first": "David", 
+        "last": "Schweikert", 
+        "official_full": "David Schweikert"
+    }, 
+    "social": {
+        "facebook": "repdavidschweikert", 
+        "instagram": "repdavid", 
+        "instagram_id": 181147397, 
+        "twitter": "RepDavid", 
+        "twitter_id": 229197216, 
+        "youtube": "RepDavidSchweikert", 
+        "youtube_id": "UCVvuNVzkOUp7p_Pzkc6Zuvw"
+    }, 
+    "terms": [
+        {
+            "address": "1205 Longworth HOB; Washington DC 20515-0305", 
+            "district": 5, 
+            "end": "2013-01-03", 
+            "office": "1205 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2190", 
+            "start": "2011-01-05", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "http://schweikert.house.gov/"
+        }, 
+        {
+            "address": "1205 Longworth HOB; Washington DC 20515-0306", 
+            "contact_form": "https://schweikert.house.gov/contact-form", 
+            "district": 6, 
+            "end": "2015-01-03", 
+            "fax": "202-225-0096", 
+            "office": "1205 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2190", 
+            "rss_url": "http://schweikert.house.gov/rss/press-releases.xml", 
+            "start": "2013-01-03", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "http://schweikert.house.gov"
+        }, 
+        {
+            "address": "409 Cannon HOB; Washington DC 20515-0306", 
+            "contact_form": "https://schweikert.house.gov/contact-form", 
+            "district": 6, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0096", 
+            "office": "409 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2190", 
+            "rss_url": "http://schweikert.house.gov/rss/press-releases.xml", 
+            "start": "2015-01-06", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "http://schweikert.house.gov"
+        }, 
+        {
+            "address": "2059 Rayburn House Office Building; Washington DC 20515-0306", 
+            "district": 6, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0096", 
+            "office": "2059 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2190", 
+            "rss_url": "http://schweikert.house.gov/rss/press-releases.xml", 
+            "start": "2017-01-03", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "https://schweikert.house.gov"
+        }
+    ]
+}

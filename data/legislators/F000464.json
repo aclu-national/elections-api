@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1952-08-25", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "F000464", 
+        "cspan": 1021406, 
+        "fec": [
+            "H6NY19169"
+        ], 
+        "google_entity_id": "kg:/m/0bgx6c", 
+        "govtrack": 412719, 
+        "icpsr": 21716, 
+        "maplight": 2231, 
+        "opensecrets": "N00037288", 
+        "votesmart": 4311, 
+        "wikidata": "Q5856885", 
+        "wikipedia": "John Faso"
+    }, 
+    "name": {
+        "first": "John", 
+        "last": "Faso", 
+        "official_full": "John J. Faso"
+    }, 
+    "social": {
+        "facebook": "RepJohnFaso", 
+        "instagram": "RepJohnFaso", 
+        "twitter": "RepJohnFaso", 
+        "twitter_id": 815931811348017152
+    }, 
+    "terms": [
+        {
+            "address": "1616 Longworth House Office Building; Washington DC 20515-3219", 
+            "district": 19, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1168", 
+            "office": "1616 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5614", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://faso.house.gov"
+        }
+    ]
+}

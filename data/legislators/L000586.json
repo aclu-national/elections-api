@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1948-09-21", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "L000586", 
+        "cspan": 90480, 
+        "fec": [
+            "H0FL02086"
+        ], 
+        "google_entity_id": "kg:/m/03cg0sv", 
+        "govtrack": 412693, 
+        "icpsr": 21732, 
+        "maplight": 2205, 
+        "opensecrets": "N00030642", 
+        "votesmart": 24263, 
+        "wikidata": "Q4723052", 
+        "wikipedia": "Al Lawson"
+    }, 
+    "name": {
+        "first": "Al", 
+        "last": "Lawson", 
+        "official_full": "Al Lawson, Jr."
+    }, 
+    "social": {
+        "facebook": "RepAlLawsonJr", 
+        "twitter": "RepAlLawsonJr", 
+        "twitter_id": 818472418620608512
+    }, 
+    "terms": [
+        {
+            "address": "1337 Longworth House Office Building; Washington DC 20515-0905", 
+            "district": 5, 
+            "end": "2019-01-03", 
+            "office": "1337 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-0123", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://lawson.house.gov"
+        }
+    ]
+}

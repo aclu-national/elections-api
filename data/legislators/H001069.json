@@ -1,0 +1,57 @@
+{
+    "bio": {
+        "birthday": "1955-10-30", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Heidi Heitkamp", 
+        "bioguide": "H001069", 
+        "cspan": 95414, 
+        "fec": [
+            "S2ND00099"
+        ], 
+        "google_entity_id": "kg:/m/02f501", 
+        "govtrack": 412554, 
+        "house_history": 15032390641, 
+        "icpsr": 41303, 
+        "lis": "S360", 
+        "maplight": 1778, 
+        "opensecrets": "N00033782", 
+        "thomas": "02174", 
+        "votesmart": 41716, 
+        "wikidata": "Q50597", 
+        "wikipedia": "Heidi Heitkamp"
+    }, 
+    "name": {
+        "first": "Heidi", 
+        "last": "Heitkamp", 
+        "official_full": "Heidi Heitkamp"
+    }, 
+    "social": {
+        "facebook": "SenatorHeidiHeitkamp", 
+        "instagram": "senatorheitkamp", 
+        "instagram_id": 1146260729, 
+        "twitter": "SenatorHeitkamp", 
+        "twitter_id": 1061029050, 
+        "youtube": "senatorheidiheitkamp", 
+        "youtube_id": "UCsIiu6s5KJ_VYzpT_b1Jh4g"
+    }, 
+    "terms": [
+        {
+            "address": "516 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.heitkamp.senate.gov/public/index.cfm/contact", 
+            "end": "2019-01-03", 
+            "fax": "202-224-7776", 
+            "office": "516 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2043", 
+            "rss_url": "http://www.heitkamp.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2013-01-03", 
+            "state": "ND", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.heitkamp.senate.gov/public"
+        }
+    ]
+}

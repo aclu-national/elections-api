@@ -1,0 +1,165 @@
+{
+    "bio": {
+        "birthday": "1947-12-21", 
+        "gender": "F", 
+        "religion": "Lutheran"
+    }, 
+    "id": {
+        "ballotpedia": "Zoe Lofgren", 
+        "bioguide": "L000397", 
+        "cspan": 36520, 
+        "fec": [
+            "H4CA16049"
+        ], 
+        "google_entity_id": "kg:/m/024t94", 
+        "govtrack": 400245, 
+        "house_history": 17087, 
+        "icpsr": 29504, 
+        "maplight": 345, 
+        "opensecrets": "N00007479", 
+        "thomas": "00701", 
+        "votesmart": 21899, 
+        "wikidata": "Q218217", 
+        "wikipedia": "Zoe Lofgren"
+    }, 
+    "name": {
+        "first": "Zoe", 
+        "last": "Lofgren", 
+        "official_full": "Zoe Lofgren"
+    }, 
+    "social": {
+        "facebook": "zoelofgren", 
+        "twitter": "RepZoeLofgren", 
+        "twitter_id": 267938462, 
+        "youtube": "RepZoeLofgren", 
+        "youtube_id": "UCOaQ79adORFcaTuJZoIFuZQ"
+    }, 
+    "terms": [
+        {
+            "district": 16, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 16, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 16, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 16, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 16, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://zoelofgren.house.gov"
+        }, 
+        {
+            "district": 16, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://zoelofgren.house.gov"
+        }, 
+        {
+            "district": 16, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lofgren"
+        }, 
+        {
+            "district": 16, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lofgren"
+        }, 
+        {
+            "address": "1401 Longworth HOB; Washington DC 20515-0516", 
+            "contact_form": "http://lofgren.house.gov/emailform.shtml", 
+            "district": 16, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3336", 
+            "office": "1401 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3072", 
+            "start": "2011-01-05", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lofgren"
+        }, 
+        {
+            "address": "1401 Longworth HOB; Washington DC 20515-0519", 
+            "contact_form": "http://lofgren.house.gov/contact/", 
+            "district": 19, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3336", 
+            "office": "1401 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3072", 
+            "rss_url": "http://lofgren.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lofgren.house.gov"
+        }, 
+        {
+            "address": "1401 Longworth HOB; Washington DC 20515-0519", 
+            "contact_form": "http://lofgren.house.gov/contact/", 
+            "district": 19, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3336", 
+            "office": "1401 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3072", 
+            "rss_url": "http://lofgren.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://lofgren.house.gov"
+        }, 
+        {
+            "address": "1401 Longworth House Office Building; Washington DC 20515-0519", 
+            "district": 19, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3336", 
+            "office": "1401 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3072", 
+            "rss_url": "http://lofgren.house.gov/index.php?format=feed&amp;type=rss", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://lofgren.house.gov"
+        }
+    ]
+}

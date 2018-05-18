@@ -1,0 +1,89 @@
+{
+    "bio": {
+        "birthday": "1958-08-11", 
+        "gender": "M"
+    }, 
+    "family": [
+        {
+            "name": "Dale Edward Kildee", 
+            "relation": "nephew"
+        }
+    ], 
+    "id": {
+        "ballotpedia": "Dan Kildee", 
+        "bioguide": "K000380", 
+        "cspan": 623723, 
+        "fec": [
+            "H2MI05119"
+        ], 
+        "google_entity_id": "kg:/m/0n4c3yt", 
+        "govtrack": 412546, 
+        "icpsr": 21372, 
+        "maplight": 1770, 
+        "opensecrets": "N00033395", 
+        "thomas": "02134", 
+        "votesmart": 136102, 
+        "wikidata": "Q3880272", 
+        "wikipedia": "Dan Kildee"
+    }, 
+    "name": {
+        "first": "Daniel", 
+        "last": "Kildee", 
+        "middle": "T.", 
+        "official_full": "Daniel T. Kildee"
+    }, 
+    "social": {
+        "facebook": "RepDanKildee", 
+        "instagram": "repdankildee", 
+        "instagram_id": 582887115, 
+        "twitter": "RepDanKildee", 
+        "twitter_id": 1045110018, 
+        "youtube": "RepDanKildee", 
+        "youtube_id": "UC_KpQ-n3IT5dL5ul21XA9Yw"
+    }, 
+    "terms": [
+        {
+            "address": "327 Cannon HOB; Washington DC 20515-2205", 
+            "contact_form": "https://dankildee.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2015-01-03", 
+            "office": "327 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3611", 
+            "rss_url": "http://dankildee.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "http://dankildee.house.gov"
+        }, 
+        {
+            "address": "227 Cannon HOB; Washington DC 20515-2205", 
+            "contact_form": "https://dankildee.house.gov/contact/email-me", 
+            "district": 5, 
+            "end": "2017-01-03", 
+            "fax": "202-225-6393", 
+            "office": "227 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3611", 
+            "rss_url": "http://dankildee.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "http://dankildee.house.gov"
+        }, 
+        {
+            "address": "227 Cannon House Office Building; Washington DC 20515-2205", 
+            "district": 5, 
+            "end": "2019-01-03", 
+            "fax": "202-225-6393", 
+            "office": "227 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3611", 
+            "rss_url": "http://dankildee.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "MI", 
+            "type": "rep", 
+            "url": "https://dankildee.house.gov"
+        }
+    ]
+}

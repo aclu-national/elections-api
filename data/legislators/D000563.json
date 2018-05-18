@@ -1,0 +1,190 @@
+{
+    "bio": {
+        "birthday": "1944-11-21", 
+        "gender": "M", 
+        "religion": "Roman Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Dick Durbin", 
+        "bioguide": "D000563", 
+        "cspan": 6741, 
+        "fec": [
+            "S6IL00151", 
+            "H2IL20026"
+        ], 
+        "google_entity_id": "kg:/m/01xcd1", 
+        "govtrack": 300038, 
+        "house_history": 12527, 
+        "icpsr": 15021, 
+        "lis": "S253", 
+        "maplight": 563, 
+        "opensecrets": "N00004981", 
+        "thomas": "00326", 
+        "votesmart": 26847, 
+        "wikidata": "Q434804", 
+        "wikipedia": "Dick Durbin"
+    }, 
+    "leadership_roles": [
+        {
+            "chamber": "senate", 
+            "end": "2007-01-03", 
+            "start": "2005-01-04", 
+            "title": "Minority Whip"
+        }, 
+        {
+            "chamber": "senate", 
+            "end": "2009-01-06", 
+            "start": "2007-01-04", 
+            "title": "Majority Whip"
+        }, 
+        {
+            "chamber": "senate", 
+            "end": "2011-01-05", 
+            "start": "2009-01-06", 
+            "title": "Majority Whip"
+        }, 
+        {
+            "chamber": "senate", 
+            "end": "2013-01-03", 
+            "start": "2011-01-05", 
+            "title": "Majority Whip"
+        }, 
+        {
+            "chamber": "senate", 
+            "end": "2015-01-03", 
+            "start": "2013-01-03", 
+            "title": "Majority Whip"
+        }, 
+        {
+            "chamber": "senate", 
+            "end": "2017-01-03", 
+            "start": "2015-01-03", 
+            "title": "Minority Whip"
+        }, 
+        {
+            "chamber": "senate", 
+            "start": "2017-01-03", 
+            "title": "Minority Whip"
+        }
+    ], 
+    "name": {
+        "first": "Richard", 
+        "last": "Durbin", 
+        "middle": "J.", 
+        "official_full": "Richard J. Durbin"
+    }, 
+    "social": {
+        "facebook": "SenatorDurbin", 
+        "twitter": "SenatorDurbin", 
+        "twitter_id": 247334603, 
+        "youtube": "SenatorDurbin", 
+        "youtube_id": "UCkbixlNCxcKAffEhe3X5-lw"
+    }, 
+    "terms": [
+        {
+            "district": 20, 
+            "end": "1985-01-03", 
+            "party": "Democrat", 
+            "start": "1983-01-03", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 20, 
+            "end": "1987-01-03", 
+            "party": "Democrat", 
+            "start": "1985-01-03", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 20, 
+            "end": "1989-01-03", 
+            "party": "Democrat", 
+            "start": "1987-01-06", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 20, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 20, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 20, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "district": 20, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "IL", 
+            "type": "rep"
+        }, 
+        {
+            "class": 2, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "IL", 
+            "type": "sen"
+        }, 
+        {
+            "class": 2, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "IL", 
+            "type": "sen", 
+            "url": "http://durbin.senate.gov"
+        }, 
+        {
+            "address": "711 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "http://www.durbin.senate.gov/public/index.cfm/contact", 
+            "end": "2015-01-03", 
+            "fax": "202-228-0400", 
+            "office": "711 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2152", 
+            "rss_url": "http://durbin.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2009-01-06", 
+            "state": "IL", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "http://www.durbin.senate.gov"
+        }, 
+        {
+            "address": "711 Hart Senate Office Building Washington DC 20510", 
+            "class": 2, 
+            "contact_form": "https://www.durbin.senate.gov/contact/", 
+            "end": "2021-01-03", 
+            "fax": "202-228-0400", 
+            "office": "711 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-2152", 
+            "rss_url": "http://durbin.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2015-01-06", 
+            "state": "IL", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.durbin.senate.gov"
+        }
+    ]
+}

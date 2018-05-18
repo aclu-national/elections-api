@@ -1,0 +1,70 @@
+{
+    "bio": {
+        "birthday": "1971-06-04", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Mike Lee", 
+        "bioguide": "L000577", 
+        "cspan": 9267977, 
+        "fec": [
+            "S0UT00165"
+        ], 
+        "google_entity_id": "kg:/m/09v5q9x", 
+        "govtrack": 412495, 
+        "icpsr": 41110, 
+        "lis": "S346", 
+        "maplight": 1500, 
+        "opensecrets": "N00031696", 
+        "thomas": "02080", 
+        "votesmart": 66395, 
+        "wikidata": "Q627098", 
+        "wikipedia": "Mike Lee (American politician)"
+    }, 
+    "name": {
+        "first": "Mike", 
+        "last": "Lee", 
+        "official_full": "Mike Lee"
+    }, 
+    "social": {
+        "facebook": "senatormikelee", 
+        "instagram": "senmikelee", 
+        "instagram_id": 391361701, 
+        "twitter": "SenMikeLee", 
+        "twitter_id": 88784440, 
+        "youtube": "senatormikelee", 
+        "youtube_id": "UCplVxs_j_sLAt0fkplXcl4A"
+    }, 
+    "terms": [
+        {
+            "address": "361A Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "http://www.lee.senate.gov/public/index.cfm/contact", 
+            "end": "2017-01-03", 
+            "office": "361a Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5444", 
+            "rss_url": "http://www.lee.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2011-01-05", 
+            "state": "UT", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "http://www.lee.senate.gov"
+        }, 
+        {
+            "address": "361A Russell Senate Office Building Washington DC 20510", 
+            "class": 3, 
+            "contact_form": "https://www.lee.senate.gov/public/index.cfm/contact", 
+            "end": "2023-01-03", 
+            "office": "361a Russell Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-5444", 
+            "rss_url": "http://www.lee.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2017-01-03", 
+            "state": "UT", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.lee.senate.gov/public"
+        }
+    ]
+}

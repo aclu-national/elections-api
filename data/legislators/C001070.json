@@ -1,0 +1,72 @@
+{
+    "bio": {
+        "birthday": "1960-04-13", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Bob Casey, Jr.", 
+        "bioguide": "C001070", 
+        "cspan": 47036, 
+        "fec": [
+            "S6PA00217"
+        ], 
+        "google_entity_id": "kg:/m/047ymw", 
+        "govtrack": 412246, 
+        "icpsr": 40703, 
+        "lis": "S309", 
+        "maplight": 727, 
+        "opensecrets": "N00027503", 
+        "thomas": "01828", 
+        "votesmart": 2541, 
+        "wikidata": "Q887841", 
+        "wikipedia": "Bob Casey Jr."
+    }, 
+    "name": {
+        "first": "Robert", 
+        "last": "Casey", 
+        "middle": "P.", 
+        "nickname": "Bob", 
+        "official_full": "Robert P. Casey, Jr.", 
+        "suffix": "Jr."
+    }, 
+    "social": {
+        "facebook": "SenatorBobCasey", 
+        "instagram": "senbobcasey", 
+        "twitter": "SenBobCasey", 
+        "twitter_id": 171598736, 
+        "youtube": "SenatorBobCasey", 
+        "youtube_id": "UCtVssXhx-KuZa-hSvnsnJ0A"
+    }, 
+    "terms": [
+        {
+            "address": "393 RUSSELL SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.casey.senate.gov/contact/", 
+            "end": "2013-01-03", 
+            "fax": "202-228-0604", 
+            "office": "393 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-6324", 
+            "start": "2007-01-04", 
+            "state": "PA", 
+            "type": "sen", 
+            "url": "http://casey.senate.gov/"
+        }, 
+        {
+            "address": "393 Russell Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.casey.senate.gov/contact/", 
+            "end": "2019-01-03", 
+            "fax": "202-228-0604", 
+            "office": "393 Russell Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-6324", 
+            "rss_url": "http://www.casey.senate.gov/rss/feeds/?all", 
+            "start": "2013-01-03", 
+            "state": "PA", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.casey.senate.gov"
+        }
+    ]
+}

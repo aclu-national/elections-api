@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1954-09-16", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Ralph Abraham", 
+        "bioguide": "A000374", 
+        "cspan": 76236, 
+        "fec": [
+            "H4LA05221"
+        ], 
+        "google_entity_id": "kg:/m/012dwd7_", 
+        "govtrack": 412630, 
+        "icpsr": 21522, 
+        "maplight": 2086, 
+        "opensecrets": "N00036633", 
+        "thomas": "02244", 
+        "votesmart": 155414, 
+        "wikidata": "Q18683775", 
+        "wikipedia": "Ralph Abraham (politician)"
+    }, 
+    "name": {
+        "first": "Ralph", 
+        "last": "Abraham", 
+        "official_full": "Ralph Lee Abraham"
+    }, 
+    "social": {
+        "facebook": "CongressmanRalphAbraham", 
+        "twitter": "RepAbraham", 
+        "twitter_id": 2962891515
+    }, 
+    "terms": [
+        {
+            "address": "417 Cannon HOB; Washington DC 20515-1805", 
+            "district": 5, 
+            "end": "2017-01-03", 
+            "fax": "202-225-5639", 
+            "office": "417 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-8490", 
+            "start": "2015-01-06", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "https://abraham.house.gov"
+        }, 
+        {
+            "address": "417 Cannon House Office Building; Washington DC 20515-1805", 
+            "district": 5, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5639", 
+            "office": "417 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-8490", 
+            "start": "2017-01-03", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "https://abraham.house.gov"
+        }
+    ]
+}

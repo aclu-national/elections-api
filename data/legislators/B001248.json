@@ -1,0 +1,134 @@
+{
+    "bio": {
+        "birthday": "1950-12-23", 
+        "gender": "M", 
+        "religion": "Episcopalian"
+    }, 
+    "id": {
+        "bioguide": "B001248", 
+        "cspan": 1003620, 
+        "fec": [
+            "H2TX26093"
+        ], 
+        "google_entity_id": "kg:/m/03tq8_", 
+        "govtrack": 400052, 
+        "house_history": 10395, 
+        "icpsr": 20355, 
+        "maplight": 171, 
+        "opensecrets": "N00025219", 
+        "thomas": "01751", 
+        "votesmart": 50120, 
+        "wikidata": "Q539521", 
+        "wikipedia": "Michael C. Burgess"
+    }, 
+    "name": {
+        "first": "Michael", 
+        "last": "Burgess", 
+        "middle": "C.", 
+        "official_full": "Michael C. Burgess"
+    }, 
+    "social": {
+        "facebook": "michaelcburgess", 
+        "instagram": "repmichaelburgess", 
+        "twitter": "MichaelCBurgess", 
+        "twitter_id": 15751083, 
+        "youtube": "michaelcburgessmd", 
+        "youtube_id": "UCvvO8lo-Nkc31cEEElqQvQw"
+    }, 
+    "terms": [
+        {
+            "district": 26, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/burgess"
+        }, 
+        {
+            "district": 26, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://www.house.gov/burgess"
+        }, 
+        {
+            "district": 26, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://burgess.house.gov"
+        }, 
+        {
+            "district": 26, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://burgess.house.gov"
+        }, 
+        {
+            "address": "2241 Rayburn HOB; Washington DC 20515-4326", 
+            "contact_form": "https://forms.house.gov/wyr/welcome.shtml", 
+            "district": 26, 
+            "end": "2013-01-03", 
+            "fax": "202-225-2919", 
+            "office": "2241 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7772", 
+            "start": "2011-01-05", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://burgess.house.gov"
+        }, 
+        {
+            "address": "2336 Rayburn HOB; Washington DC 20515-4326", 
+            "contact_form": "http://burgess.house.gov/contact/356345.htm", 
+            "district": 26, 
+            "end": "2015-01-03", 
+            "fax": "202-225-2919", 
+            "office": "2336 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7772", 
+            "rss_url": "http://burgess.house.gov/news/rss.aspx", 
+            "start": "2013-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://burgess.house.gov"
+        }, 
+        {
+            "address": "2336 Rayburn HOB; Washington DC 20515-4326", 
+            "contact_form": "http://burgess.house.gov/contact/356345.htm", 
+            "district": 26, 
+            "end": "2017-01-03", 
+            "fax": "202-225-2919", 
+            "office": "2336 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7772", 
+            "rss_url": "http://burgess.house.gov/news/rss.aspx", 
+            "start": "2015-01-06", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "http://burgess.house.gov"
+        }, 
+        {
+            "address": "2336 Rayburn House Office Building; Washington DC 20515-4326", 
+            "district": 26, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2919", 
+            "office": "2336 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-7772", 
+            "rss_url": "http://burgess.house.gov/news/rss.aspx", 
+            "start": "2017-01-03", 
+            "state": "TX", 
+            "type": "rep", 
+            "url": "https://burgess.house.gov"
+        }
+    ]
+}

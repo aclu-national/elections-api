@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1969-10-01", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "P000613", 
+        "cspan": 104727, 
+        "fec": [
+            "H6CA20152"
+        ], 
+        "google_entity_id": "kg:/m/0pyy9y4", 
+        "govtrack": 412685, 
+        "icpsr": 21740, 
+        "maplight": 2197, 
+        "opensecrets": "N00038601", 
+        "votesmart": 169078, 
+        "wikidata": "Q27733776", 
+        "wikipedia": "Jimmy Panetta"
+    }, 
+    "name": {
+        "first": "Jimmy", 
+        "last": "Panetta", 
+        "official_full": "Jimmy Panetta"
+    }, 
+    "social": {
+        "facebook": "RepJimmyPanetta", 
+        "instagram": "repjimmypanetta", 
+        "twitter": "RepJimmyPanetta", 
+        "twitter_id": 796736612554117120, 
+        "youtube_id": "UCmw-aERG51C96edMDPN7fXQ"
+    }, 
+    "terms": [
+        {
+            "address": "228 Cannon House Office Building; Washington DC 20515-0520", 
+            "district": 20, 
+            "end": "2019-01-03", 
+            "office": "228 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2861", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://panetta.house.gov"
+        }
+    ]
+}

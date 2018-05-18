@@ -1,0 +1,93 @@
+{
+    "bio": {
+        "birthday": "1971-01-13", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Thomas Massie", 
+        "bioguide": "M001184", 
+        "cspan": 79951, 
+        "fec": [
+            "H2KY04121"
+        ], 
+        "google_entity_id": "kg:/m/0h_cb6v", 
+        "govtrack": 412503, 
+        "icpsr": 31102, 
+        "maplight": 1684, 
+        "opensecrets": "N00034041", 
+        "thomas": "02094", 
+        "votesmart": 132068, 
+        "wikidata": "Q2426031", 
+        "wikipedia": "Thomas Massie"
+    }, 
+    "name": {
+        "first": "Thomas", 
+        "last": "Massie", 
+        "official_full": "Thomas Massie"
+    }, 
+    "social": {
+        "facebook": "RepThomasMassie", 
+        "twitter": "RepThomasMassie", 
+        "twitter_id": 975200486, 
+        "youtube": "repthomasmassie", 
+        "youtube_id": "UCpmXOtvvXC3GE8o9VxYNK7g"
+    }, 
+    "terms": [
+        {
+            "address": "1119 Longworth HOB; Washington DC 20515-1704", 
+            "district": 4, 
+            "end": "2013-01-03", 
+            "office": "1119 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3465", 
+            "start": "2012-11-13", 
+            "state": "KY", 
+            "type": "rep", 
+            "url": "http://massie.house.gov"
+        }, 
+        {
+            "address": "314 Cannon HOB; Washington DC 20515-1704", 
+            "contact_form": "http://massieforms.house.gov/contact/", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "fax": "202-225-0003", 
+            "office": "314 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3465", 
+            "rss_url": "http://massie.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "KY", 
+            "type": "rep", 
+            "url": "http://massie.house.gov"
+        }, 
+        {
+            "address": "314 Cannon HOB; Washington DC 20515-1704", 
+            "contact_form": "http://massieforms.house.gov/contact/", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0003", 
+            "office": "314 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3465", 
+            "rss_url": "http://massie.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "KY", 
+            "type": "rep", 
+            "url": "http://massie.house.gov"
+        }, 
+        {
+            "address": "2453 Rayburn House Office Building; Washington DC 20515-1704", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0003", 
+            "office": "2453 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3465", 
+            "rss_url": "http://massie.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "KY", 
+            "type": "rep", 
+            "url": "https://massie.house.gov"
+        }
+    ]
+}

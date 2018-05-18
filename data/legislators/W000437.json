@@ -1,0 +1,132 @@
+{
+    "bio": {
+        "birthday": "1951-07-05", 
+        "gender": "M", 
+        "religion": "Southern Baptist"
+    }, 
+    "id": {
+        "ballotpedia": "Roger Wicker", 
+        "bioguide": "W000437", 
+        "cspan": 18203, 
+        "fec": [
+            "H4MS01078", 
+            "S8MS00196"
+        ], 
+        "google_entity_id": "kg:/m/025xxb", 
+        "govtrack": 400432, 
+        "house_history": 23734, 
+        "icpsr": 29534, 
+        "lis": "S318", 
+        "maplight": 517, 
+        "opensecrets": "N00003280", 
+        "thomas": "01226", 
+        "votesmart": 21926, 
+        "wikidata": "Q390491", 
+        "wikipedia": "Roger Wicker"
+    }, 
+    "name": {
+        "first": "Roger", 
+        "last": "Wicker", 
+        "middle": "F.", 
+        "official_full": "Roger F. Wicker"
+    }, 
+    "social": {
+        "facebook": "SenatorWicker", 
+        "instagram": "senatorwicker", 
+        "instagram_id": 367948073, 
+        "twitter": "SenatorWicker", 
+        "twitter_id": 264219447, 
+        "youtube": "SenatorWicker", 
+        "youtube_id": "UCIlKHiTjSkcQP_knBcXHWSg"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "MS", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://www.house.gov/wicker"
+        }, 
+        {
+            "district": 1, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://www.house.gov/wicker"
+        }, 
+        {
+            "district": 1, 
+            "end": "2007-12-31", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "MS", 
+            "type": "rep", 
+            "url": "http://www.house.gov/wicker"
+        }, 
+        {
+            "address": "555 DIRKSEN SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.wicker.senate.gov/public/index.cfm?FuseAction=Contact.EMailSenatorWicker", 
+            "end": "2013-01-03", 
+            "fax": "202-228-0378", 
+            "office": "555 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-6253", 
+            "start": "2007-12-31", 
+            "state": "MS", 
+            "type": "sen", 
+            "url": "http://wicker.senate.gov"
+        }, 
+        {
+            "address": "555 Dirksen Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.wicker.senate.gov/public/index.cfm/contact", 
+            "end": "2019-01-03", 
+            "fax": "202-228-0378", 
+            "office": "555 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-6253", 
+            "start": "2013-01-03", 
+            "state": "MS", 
+            "state_rank": "senior", 
+            "type": "sen", 
+            "url": "https://www.wicker.senate.gov"
+        }
+    ]
+}

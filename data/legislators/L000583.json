@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1963-12-22", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "L000583", 
+        "cspan": 76165, 
+        "fec": [
+            "H4GA11061"
+        ], 
+        "google_entity_id": "kg:/m/0wqdmcm", 
+        "govtrack": 412624, 
+        "icpsr": 21515, 
+        "maplight": 2080, 
+        "opensecrets": "N00035347", 
+        "thomas": "02238", 
+        "votesmart": 31618, 
+        "wikidata": "Q16731643", 
+        "wikipedia": "Barry Loudermilk"
+    }, 
+    "name": {
+        "first": "Barry", 
+        "last": "Loudermilk", 
+        "official_full": "Barry Loudermilk"
+    }, 
+    "social": {
+        "facebook": "reploudermilk", 
+        "instagram": "RepLoudermilk", 
+        "twitter": "RepLoudermilk", 
+        "twitter_id": 2914163523, 
+        "youtube_id": "UC2Kfw8fjca8k3w3KpzL5tNg"
+    }, 
+    "terms": [
+        {
+            "address": "238 Cannon HOB; Washington DC 20515-1011", 
+            "district": 11, 
+            "end": "2017-01-03", 
+            "fax": "202-225-2944", 
+            "office": "238 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2931", 
+            "start": "2015-01-06", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "http://loudermilk.house.gov"
+        }, 
+        {
+            "address": "329 Cannon House Office Building; Washington DC 20515-1011", 
+            "district": 11, 
+            "end": "2019-01-03", 
+            "fax": "202-225-2944", 
+            "office": "329 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2931", 
+            "start": "2017-01-03", 
+            "state": "GA", 
+            "type": "rep", 
+            "url": "https://loudermilk.house.gov"
+        }
+    ]
+}

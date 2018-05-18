@@ -1,0 +1,79 @@
+{
+    "bio": {
+        "birthday": "1943-03-03", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Paul Cook", 
+        "bioguide": "C001094", 
+        "cspan": 68278, 
+        "fec": [
+            "H2CA08164"
+        ], 
+        "google_entity_id": "kg:/m/0288t_6", 
+        "govtrack": 412513, 
+        "icpsr": 21305, 
+        "maplight": 1737, 
+        "opensecrets": "N00034224", 
+        "thomas": "02103", 
+        "votesmart": 58121, 
+        "wikidata": "Q3408766", 
+        "wikipedia": "Paul Cook (politician)"
+    }, 
+    "name": {
+        "first": "Paul", 
+        "last": "Cook", 
+        "official_full": "Paul Cook"
+    }, 
+    "social": {
+        "facebook": "RepPaulCook", 
+        "twitter": "RepPaulCook", 
+        "twitter_id": 1074412920, 
+        "youtube": "RepPaulCook", 
+        "youtube_id": "UCqK--hf5cuvg7BR_oisyRiA"
+    }, 
+    "terms": [
+        {
+            "address": "1222 Longworth HOB; Washington DC 20515-0508", 
+            "contact_form": "https://cook.house.gov/contact/email-me", 
+            "district": 8, 
+            "end": "2015-01-03", 
+            "office": "1222 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5861", 
+            "rss_url": "http://cook.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://cook.house.gov"
+        }, 
+        {
+            "address": "1222 Longworth HOB; Washington DC 20515-0508", 
+            "contact_form": "https://cook.house.gov/contact/email-me", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "office": "1222 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5861", 
+            "rss_url": "http://cook.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://cook.house.gov"
+        }, 
+        {
+            "address": "1222 Longworth House Office Building; Washington DC 20515-0508", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "fax": "202-225-6498", 
+            "office": "1222 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5861", 
+            "rss_url": "http://cook.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://cook.house.gov"
+        }
+    ]
+}

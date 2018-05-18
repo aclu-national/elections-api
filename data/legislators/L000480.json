@@ -1,0 +1,191 @@
+{
+    "bio": {
+        "birthday": "1937-07-05", 
+        "gender": "F", 
+        "religion": "Jewish"
+    }, 
+    "id": {
+        "ballotpedia": "Nita Lowey", 
+        "bioguide": "L000480", 
+        "cspan": 6110, 
+        "fec": [
+            "H8NY20056"
+        ], 
+        "google_entity_id": "kg:/m/03tv8l", 
+        "govtrack": 400246, 
+        "house_history": 17192, 
+        "icpsr": 15612, 
+        "maplight": 346, 
+        "opensecrets": "N00001024", 
+        "thomas": "00709", 
+        "votesmart": 26982, 
+        "wikidata": "Q460652", 
+        "wikipedia": "Nita Lowey"
+    }, 
+    "name": {
+        "first": "Nita", 
+        "last": "Lowey", 
+        "middle": "M.", 
+        "official_full": "Nita M. Lowey"
+    }, 
+    "social": {
+        "facebook": "RepLowey", 
+        "instagram": "nitalowey", 
+        "twitter": "NitaLowey", 
+        "twitter_id": 221792092, 
+        "youtube": "nitalowey", 
+        "youtube_id": "UCkmeBYqhbomcWNNWzQCqcbg"
+    }, 
+    "terms": [
+        {
+            "district": 20, 
+            "end": "1991-01-03", 
+            "party": "Democrat", 
+            "start": "1989-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 20, 
+            "end": "1993-01-03", 
+            "party": "Democrat", 
+            "start": "1991-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 18, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 18, 
+            "end": "1997-01-03", 
+            "party": "Democrat", 
+            "start": "1995-01-04", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 18, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1997-01-07", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 18, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 18, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "NY", 
+            "type": "rep"
+        }, 
+        {
+            "district": 18, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lowey"
+        }, 
+        {
+            "district": 18, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lowey"
+        }, 
+        {
+            "district": 18, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lowey"
+        }, 
+        {
+            "district": 18, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lowey"
+        }, 
+        {
+            "address": "2365 Rayburn HOB; Washington DC 20515-3218", 
+            "contact_form": "http://lowey.house.gov/?sectionid=56&amp;sectiontree=56", 
+            "district": 18, 
+            "end": "2013-01-03", 
+            "fax": "202-225-0546", 
+            "office": "2365 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6506", 
+            "start": "2011-01-05", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lowey"
+        }, 
+        {
+            "address": "2365 Rayburn HOB; Washington DC 20515-3217", 
+            "contact_form": "https://lowey.house.gov/contact-form/", 
+            "district": 17, 
+            "end": "2015-01-03", 
+            "fax": "202-225-0546", 
+            "office": "2365 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6506", 
+            "rss_url": "http://www.house.gov/common/rss/?rss=18", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://lowey.house.gov"
+        }, 
+        {
+            "address": "2365 Rayburn HOB; Washington DC 20515-3217", 
+            "contact_form": "https://lowey.house.gov/contact-form/", 
+            "district": 17, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0546", 
+            "office": "2365 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6506", 
+            "rss_url": "http://www.house.gov/common/rss/?rss=18", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://lowey.house.gov"
+        }, 
+        {
+            "address": "2365 Rayburn House Office Building; Washington DC 20515-3217", 
+            "district": 17, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0546", 
+            "office": "2365 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6506", 
+            "rss_url": "http://www.house.gov/common/rss/?rss=18", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://lowey.house.gov"
+        }
+    ]
+}

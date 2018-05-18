@@ -1,0 +1,88 @@
+{
+    "bio": {
+        "birthday": "1958-10-13", 
+        "gender": "F", 
+        "religion": "Roman Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Maria Cantwell", 
+        "bioguide": "C000127", 
+        "cspan": 26137, 
+        "fec": [
+            "S8WA00194", 
+            "H2WA01054"
+        ], 
+        "google_entity_id": "kg:/m/01x68t", 
+        "govtrack": 300018, 
+        "house_history": 10608, 
+        "icpsr": 39310, 
+        "lis": "S275", 
+        "maplight": 544, 
+        "opensecrets": "N00007836", 
+        "thomas": "00172", 
+        "votesmart": 27122, 
+        "wikidata": "Q22250", 
+        "wikipedia": "Maria Cantwell"
+    }, 
+    "name": {
+        "first": "Maria", 
+        "last": "Cantwell", 
+        "official_full": "Maria Cantwell"
+    }, 
+    "social": {
+        "facebook": "senatorcantwell", 
+        "twitter": "SenatorCantwell", 
+        "twitter_id": 117501995, 
+        "youtube": "SenatorCantwell", 
+        "youtube_id": "UCN52UDqKgvHRk39ncySrIMw"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "1995-01-03", 
+            "party": "Democrat", 
+            "start": "1993-01-05", 
+            "state": "WA", 
+            "type": "rep"
+        }, 
+        {
+            "class": 1, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "WA", 
+            "type": "sen", 
+            "url": "http://cantwell.senate.gov"
+        }, 
+        {
+            "address": "311 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.cantwell.senate.gov/contact/", 
+            "end": "2013-01-03", 
+            "fax": "202-228-0514", 
+            "office": "311 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3441", 
+            "start": "2007-01-04", 
+            "state": "WA", 
+            "type": "sen", 
+            "url": "http://cantwell.senate.gov"
+        }, 
+        {
+            "address": "511 Hart Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.cantwell.senate.gov/public/index.cfm/email-maria", 
+            "end": "2019-01-03", 
+            "fax": "202-228-0514", 
+            "office": "511 Hart Senate Office Building", 
+            "party": "Democrat", 
+            "phone": "202-224-3441", 
+            "rss_url": "http://www.cantwell.senate.gov/public/index.cfm/rss/feed", 
+            "start": "2013-01-03", 
+            "state": "WA", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.cantwell.senate.gov"
+        }
+    ]
+}

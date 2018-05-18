@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1979-06-19", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "A000371", 
+        "cspan": 79994, 
+        "fec": [
+            "H2CA31125"
+        ], 
+        "google_entity_id": "kg:/m/0jwv0xf", 
+        "govtrack": 412615, 
+        "icpsr": 21506, 
+        "maplight": 2071, 
+        "opensecrets": "N00033997", 
+        "thomas": "02229", 
+        "votesmart": 70114, 
+        "wikidata": "Q7171821", 
+        "wikipedia": "Pete Aguilar"
+    }, 
+    "name": {
+        "first": "Pete", 
+        "last": "Aguilar", 
+        "official_full": "Pete Aguilar"
+    }, 
+    "social": {
+        "facebook": "reppeteaguilar", 
+        "twitter": "reppeteaguilar", 
+        "twitter_id": 3018670151, 
+        "youtube_id": "UCxwbFLOlKDsXrwizV5jah7g"
+    }, 
+    "terms": [
+        {
+            "address": "1223 Longworth HOB; Washington DC 20515-0531", 
+            "district": 31, 
+            "end": "2017-01-03", 
+            "fax": "202-226-6962", 
+            "office": "1223 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3201", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://aguilar.house.gov"
+        }, 
+        {
+            "address": "1223 Longworth House Office Building; Washington DC 20515-0531", 
+            "district": 31, 
+            "end": "2019-01-03", 
+            "fax": "202-226-6962", 
+            "office": "1223 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3201", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://aguilar.house.gov"
+        }
+    ]
+}

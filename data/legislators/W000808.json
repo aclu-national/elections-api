@@ -1,0 +1,96 @@
+{
+    "bio": {
+        "birthday": "1942-11-05", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Frederica Wilson", 
+        "bioguide": "W000808", 
+        "cspan": 87016, 
+        "fec": [
+            "H0FL17068"
+        ], 
+        "google_entity_id": "kg:/m/03cg3tv", 
+        "govtrack": 412412, 
+        "house_history": 24196, 
+        "icpsr": 21118, 
+        "maplight": 1424, 
+        "opensecrets": "N00030650", 
+        "thomas": "02004", 
+        "votesmart": 17319, 
+        "wikidata": "Q461504", 
+        "wikipedia": "Frederica Wilson"
+    }, 
+    "name": {
+        "first": "Frederica", 
+        "last": "Wilson", 
+        "middle": "S.", 
+        "official_full": "Frederica S. Wilson"
+    }, 
+    "social": {
+        "facebook": "RepWilson", 
+        "twitter": "RepWilson", 
+        "twitter_id": 234014087, 
+        "youtube": "repfredericawilson", 
+        "youtube_id": "UCP5QBhng_lHv-vJgE_h7lpA"
+    }, 
+    "terms": [
+        {
+            "address": "208 Cannon HOB; Washington DC 20515-0917", 
+            "district": 17, 
+            "end": "2013-01-03", 
+            "fax": "202-226-0777", 
+            "office": "208 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4506", 
+            "start": "2011-01-05", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://wilson.house.gov/"
+        }, 
+        {
+            "address": "208 Cannon HOB; Washington DC 20515-0924", 
+            "contact_form": "https://wilsonforms.house.gov/contact-form", 
+            "district": 24, 
+            "end": "2015-01-03", 
+            "fax": "202-226-0777", 
+            "office": "208 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4506", 
+            "rss_url": "http://wilson.house.gov/common/rss//index.cfm?rss=49", 
+            "start": "2013-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://wilson.house.gov"
+        }, 
+        {
+            "address": "208 Cannon HOB; Washington DC 20515-0924", 
+            "contact_form": "https://wilsonforms.house.gov/contact-form", 
+            "district": 24, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0777", 
+            "office": "208 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4506", 
+            "rss_url": "http://wilson.house.gov/common/rss//index.cfm?rss=49", 
+            "start": "2015-01-06", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "http://wilson.house.gov"
+        }, 
+        {
+            "address": "2445 Rayburn House Office Building; Washington DC 20515-0924", 
+            "district": 24, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0777", 
+            "office": "2445 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4506", 
+            "rss_url": "http://wilson.house.gov/common/rss//index.cfm?rss=49", 
+            "start": "2017-01-03", 
+            "state": "FL", 
+            "type": "rep", 
+            "url": "https://wilson.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1965-09-21", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "J000298", 
+        "cspan": 9267128, 
+        "fec": [
+            "H6WA07458"
+        ], 
+        "google_entity_id": "kg:/m/0c3dxcq", 
+        "govtrack": 412730, 
+        "icpsr": 21726, 
+        "maplight": 2242, 
+        "opensecrets": "N00038858", 
+        "votesmart": 153141, 
+        "wikidata": "Q18978140", 
+        "wikipedia": "Pramila Jayapal"
+    }, 
+    "name": {
+        "first": "Pramila", 
+        "last": "Jayapal", 
+        "official_full": "Pramila Jayapal"
+    }, 
+    "social": {
+        "facebook": "RepJayapal", 
+        "instagram": "repjayapal", 
+        "twitter": "RepJayapal", 
+        "twitter_id": 815733290955112448, 
+        "youtube_id": "UCmyD0_-2Oowkfwc_Raghclw"
+    }, 
+    "terms": [
+        {
+            "address": "319 Cannon House Office Building; Washington DC 20515-4707", 
+            "district": 7, 
+            "end": "2019-01-03", 
+            "office": "319 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-3106", 
+            "start": "2017-01-03", 
+            "state": "WA", 
+            "type": "rep", 
+            "url": "https://jayapal.house.gov"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "bio": {
+        "birthday": "1980-10-04", 
+        "gender": "M"
+    }, 
+    "family": [
+        {
+            "name": "Joseph Patrick Kennedy II", 
+            "relation": "son"
+        }, 
+        {
+            "name": "Edward Moore Kennedy", 
+            "relation": "great nephew"
+        }, 
+        {
+            "name": "John Fitzgerald Kennedy", 
+            "relation": "great nephew"
+        }, 
+        {
+            "name": "John Francis Fitzgerald", 
+            "relation": "great great grandson"
+        }, 
+        {
+            "name": "Patrick Joseph Kennedy", 
+            "relation": "first cousin once removed"
+        }
+    ], 
+    "id": {
+        "ballotpedia": "Joseph Kennedy III", 
+        "bioguide": "K000379", 
+        "cspan": 79948, 
+        "fec": [
+            "H2MA04073"
+        ], 
+        "google_entity_id": "kg:/m/0j28kl9", 
+        "govtrack": 412543, 
+        "icpsr": 21335, 
+        "maplight": 1767, 
+        "opensecrets": "N00034044", 
+        "thomas": "02172", 
+        "votesmart": 141275, 
+        "wikidata": "Q1707784", 
+        "wikipedia": "Joe Kennedy III"
+    }, 
+    "name": {
+        "first": "Joseph", 
+        "last": "Kennedy", 
+        "middle": "P.", 
+        "official_full": "Joseph P. Kennedy III", 
+        "suffix": "III"
+    }, 
+    "social": {
+        "facebook": "301936109927957", 
+        "instagram": "repkennedy", 
+        "instagram_id": 1328567154, 
+        "twitter": "RepJoeKennedy", 
+        "twitter_id": 1055907624, 
+        "youtube_id": "UCgfHlaGqxD8p-2V_YlNIqrA"
+    }, 
+    "terms": [
+        {
+            "address": "1218 Longworth HOB; Washington DC 20515-2104", 
+            "contact_form": "https://kennedy.house.gov/contact/email-me", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "fax": "202-225-0182", 
+            "office": "1218 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5931", 
+            "rss_url": "http://kennedy.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://kennedy.house.gov"
+        }, 
+        {
+            "address": "306 Cannon HOB; Washington DC 20515-2104", 
+            "contact_form": "https://kennedy.house.gov/contact/email-me", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0182", 
+            "office": "306 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5931", 
+            "rss_url": "http://kennedy.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "http://kennedy.house.gov"
+        }, 
+        {
+            "address": "434 Cannon House Office Building; Washington DC 20515-2104", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0182", 
+            "office": "434 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5931", 
+            "rss_url": "http://kennedy.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "MA", 
+            "type": "rep", 
+            "url": "https://kennedy.house.gov"
+        }
+    ]
+}

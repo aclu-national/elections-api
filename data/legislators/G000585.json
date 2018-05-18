@@ -1,0 +1,46 @@
+{
+    "bio": {
+        "birthday": "1974-11-25", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Jimmy Gomez", 
+        "bioguide": "G000585", 
+        "cspan": 108883, 
+        "fec": [
+            "H8CA34266"
+        ], 
+        "google_entity_id": "kg:/m/0n_73h1", 
+        "govtrack": 412739, 
+        "house_history": 15032449022, 
+        "maplight": 2250, 
+        "opensecrets": "N00040597", 
+        "votesmart": 138524, 
+        "wikidata": "Q6200205", 
+        "wikipedia": "Jimmy Gomez"
+    }, 
+    "name": {
+        "first": "Jimmy", 
+        "last": "Gomez", 
+        "official_full": "Jimmy Gomez"
+    }, 
+    "social": {
+        "facebook": "RepJimmyGomez", 
+        "twitter": "RepJimmyGomez", 
+        "twitter_id": 2371339658
+    }, 
+    "terms": [
+        {
+            "address": "1226 Longworth House Office Building; Washington DC 20515-0534", 
+            "district": 34, 
+            "end": "2019-01-03", 
+            "office": "1226 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-6235", 
+            "start": "2017-07-11", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://gomez.house.gov"
+        }
+    ]
+}

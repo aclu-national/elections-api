@@ -1,0 +1,136 @@
+{
+    "bio": {
+        "birthday": "1965-10-06", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Steve Scalise", 
+        "bioguide": "S001176", 
+        "cspan": 1015311, 
+        "fec": [
+            "H0LA01087"
+        ], 
+        "google_entity_id": "kg:/m/0br34c", 
+        "govtrack": 412261, 
+        "house_history": 22608, 
+        "icpsr": 20759, 
+        "maplight": 742, 
+        "opensecrets": "N00009660", 
+        "thomas": "01892", 
+        "votesmart": 9026, 
+        "wikidata": "Q1857141", 
+        "wikipedia": "Steve Scalise"
+    }, 
+    "leadership_roles": [
+        {
+            "chamber": "house", 
+            "end": "2015-01-03", 
+            "start": "2014-08-01", 
+            "title": "Majority Whip"
+        }, 
+        {
+            "chamber": "house", 
+            "end": "2017-01-03", 
+            "start": "2015-01-06", 
+            "title": "Majority Whip"
+        }, 
+        {
+            "chamber": "house", 
+            "start": "2017-01-03", 
+            "title": "Majority Whip"
+        }
+    ], 
+    "name": {
+        "first": "Steve", 
+        "last": "Scalise", 
+        "middle": "Joseph", 
+        "official_full": "Steve Scalise"
+    }, 
+    "social": {
+        "facebook": "RepSteveScalise", 
+        "instagram": "stevescalise", 
+        "instagram_id": 1210937919, 
+        "twitter": "SteveScalise", 
+        "twitter_id": 1209417007, 
+        "youtube": "RepSteveScalise", 
+        "youtube_id": "UCmYveHBVXVBRxl7GiCL-gjw"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2008-05-07", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://scalise.house.gov/"
+        }, 
+        {
+            "district": 1, 
+            "end": "2011-01-03", 
+            "party": "Republican", 
+            "start": "2009-01-06", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://scalise.house.gov/"
+        }, 
+        {
+            "address": "429 Cannon HOB; Washington DC 20515-1801", 
+            "contact_form": "http://www.scalise.house.gov/contactform_zipcheck.shtml", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-226-0386", 
+            "office": "429 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3015", 
+            "start": "2011-01-05", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://scalise.house.gov/"
+        }, 
+        {
+            "address": "2338 Rayburn HOB; Washington DC 20515-1801", 
+            "contact_form": "https://scalise.house.gov/contact-me/email-me", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-226-0386", 
+            "office": "2338 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3015", 
+            "rss_url": "http://scalise.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://scalise.house.gov"
+        }, 
+        {
+            "address": "2338 Rayburn HOB; Washington DC 20515-1801", 
+            "contact_form": "https://scalise.house.gov/contact-me/email-me", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-226-0386", 
+            "office": "2338 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3015", 
+            "rss_url": "http://scalise.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "http://scalise.house.gov"
+        }, 
+        {
+            "address": "2338 Rayburn House Office Building; Washington DC 20515-1801", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-226-0386", 
+            "office": "2338 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3015", 
+            "rss_url": "http://scalise.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "LA", 
+            "type": "rep", 
+            "url": "https://scalise.house.gov"
+        }
+    ]
+}

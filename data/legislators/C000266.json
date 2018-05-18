@@ -1,0 +1,158 @@
+{
+    "bio": {
+        "birthday": "1953-01-22", 
+        "gender": "M", 
+        "religion": "Catholic"
+    }, 
+    "id": {
+        "ballotpedia": "Steve Chabot", 
+        "bioguide": "C000266", 
+        "cspan": 36705, 
+        "fec": [
+            "H8OH01043"
+        ], 
+        "google_entity_id": "kg:/m/0343vk", 
+        "govtrack": 400071, 
+        "house_history": 10791, 
+        "icpsr": 29550, 
+        "maplight": 188, 
+        "opensecrets": "N00003689", 
+        "thomas": "00186", 
+        "votesmart": 21790, 
+        "wikidata": "Q506694", 
+        "wikipedia": "Steve Chabot"
+    }, 
+    "name": {
+        "first": "Steve", 
+        "last": "Chabot", 
+        "middle": "J.", 
+        "official_full": "Steve Chabot"
+    }, 
+    "social": {
+        "facebook": "RepSteveChabot", 
+        "instagram": "repstevechabot", 
+        "instagram_id": 481906395, 
+        "twitter": "RepSteveChabot", 
+        "twitter_id": 237750442, 
+        "youtube": "congressmanchabot", 
+        "youtube_id": "UCJpzm2DZDE1B6ruQLQc7q4g"
+    }, 
+    "terms": [
+        {
+            "district": 1, 
+            "end": "1997-01-03", 
+            "party": "Republican", 
+            "start": "1995-01-04", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "1999-01-03", 
+            "party": "Republican", 
+            "start": "1997-01-07", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2001-01-03", 
+            "party": "Republican", 
+            "start": "1999-01-06", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2003-01-03", 
+            "party": "Republican", 
+            "start": "2001-01-03", 
+            "state": "OH", 
+            "type": "rep"
+        }, 
+        {
+            "district": 1, 
+            "end": "2005-01-03", 
+            "party": "Republican", 
+            "start": "2003-01-07", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/chabot"
+        }, 
+        {
+            "district": 1, 
+            "end": "2007-01-03", 
+            "party": "Republican", 
+            "start": "2005-01-04", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/chabot"
+        }, 
+        {
+            "district": 1, 
+            "end": "2009-01-03", 
+            "party": "Republican", 
+            "start": "2007-01-04", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://www.house.gov/chabot"
+        }, 
+        {
+            "address": "2351 Rayburn HOB; Washington DC 20515-3501", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "202-225-3012", 
+            "office": "2351 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2216", 
+            "start": "2011-01-05", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://chabot.house.gov/"
+        }, 
+        {
+            "address": "2371 Rayburn HOB; Washington DC 20515-3501", 
+            "contact_form": "https://chabot.house.gov/forms/writeyourrep/?zip5=45202&zip4=3003", 
+            "district": 1, 
+            "end": "2015-01-03", 
+            "fax": "202-225-3012", 
+            "office": "2371 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2216", 
+            "rss_url": "http://chabot.house.gov/common/rss/index.cfm?rss=49", 
+            "start": "2013-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://chabot.house.gov"
+        }, 
+        {
+            "address": "2371 Rayburn HOB; Washington DC 20515-3501", 
+            "contact_form": "https://chabot.house.gov/forms/writeyourrep/?zip5=45202&zip4=3003", 
+            "district": 1, 
+            "end": "2017-01-03", 
+            "fax": "202-225-3012", 
+            "office": "2371 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2216", 
+            "rss_url": "http://chabot.house.gov/common/rss/index.cfm?rss=49", 
+            "start": "2015-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://chabot.house.gov"
+        }, 
+        {
+            "address": "2371 Rayburn House Office Building; Washington DC 20515-3501", 
+            "district": 1, 
+            "end": "2019-01-03", 
+            "fax": "202-225-3012", 
+            "office": "2371 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2216", 
+            "rss_url": "http://chabot.house.gov/common/rss/index.cfm?rss=49", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://chabot.house.gov"
+        }
+    ]
+}

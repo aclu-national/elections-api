@@ -1,0 +1,158 @@
+{
+    "bio": {
+        "birthday": "1946-07-16", 
+        "gender": "F", 
+        "religion": "Baptist"
+    }, 
+    "id": {
+        "bioguide": "L000551", 
+        "cspan": 54579, 
+        "fec": [
+            "H8CA09060"
+        ], 
+        "google_entity_id": "kg:/m/024sjy", 
+        "govtrack": 400237, 
+        "house_history": 17282, 
+        "icpsr": 29778, 
+        "maplight": 337, 
+        "opensecrets": "N00008046", 
+        "thomas": "01501", 
+        "votesmart": 8315, 
+        "wikidata": "Q289317", 
+        "wikipedia": "Barbara Lee"
+    }, 
+    "name": {
+        "first": "Barbara", 
+        "last": "Lee", 
+        "official_full": "Barbara Lee"
+    }, 
+    "social": {
+        "facebook": "RepBarbaraLee", 
+        "instagram": "repbarbaralee", 
+        "instagram_id": 1415801245, 
+        "twitter": "RepBarbaraLee", 
+        "twitter_id": 248735463, 
+        "youtube": "RepLee", 
+        "youtube_id": "UCnRgK2MXAQOUau0JXqseeNA"
+    }, 
+    "terms": [
+        {
+            "district": 9, 
+            "end": "1999-01-03", 
+            "party": "Democrat", 
+            "start": "1998-04-07", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 9, 
+            "end": "2001-01-03", 
+            "party": "Democrat", 
+            "start": "1999-01-06", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 9, 
+            "end": "2003-01-03", 
+            "party": "Democrat", 
+            "start": "2001-01-03", 
+            "state": "CA", 
+            "type": "rep"
+        }, 
+        {
+            "district": 9, 
+            "end": "2005-01-03", 
+            "party": "Democrat", 
+            "start": "2003-01-07", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lee"
+        }, 
+        {
+            "district": 9, 
+            "end": "2007-01-03", 
+            "party": "Democrat", 
+            "start": "2005-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://www.house.gov/lee"
+        }, 
+        {
+            "district": 9, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2007-01-04", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lee.house.gov"
+        }, 
+        {
+            "district": 9, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lee.house.gov"
+        }, 
+        {
+            "address": "2267 Rayburn HOB; Washington DC 20515-0509", 
+            "contact_form": "http://lee.house.gov/?sectionid=44&amp;sectiontree=18,44", 
+            "district": 9, 
+            "end": "2013-01-03", 
+            "fax": "202-225-9817", 
+            "office": "2267 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2661", 
+            "start": "2011-01-05", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lee.house.gov"
+        }, 
+        {
+            "address": "2267 Rayburn HOB; Washington DC 20515-0513", 
+            "contact_form": "http://lee.house.gov/contact-the-office/email-me", 
+            "district": 13, 
+            "end": "2015-01-03", 
+            "fax": "202-225-9817", 
+            "office": "2267 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2661", 
+            "rss_url": "http://lee.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lee.house.gov"
+        }, 
+        {
+            "address": "2267 Rayburn HOB; Washington DC 20515-0513", 
+            "contact_form": "http://lee.house.gov/contact-the-office/email-me", 
+            "district": 13, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9817", 
+            "office": "2267 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2661", 
+            "rss_url": "http://lee.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "http://lee.house.gov"
+        }, 
+        {
+            "address": "2267 Rayburn House Office Building; Washington DC 20515-0513", 
+            "district": 13, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9817", 
+            "office": "2267 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2661", 
+            "rss_url": "http://lee.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://lee.house.gov"
+        }
+    ]
+}

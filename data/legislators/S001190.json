@@ -1,0 +1,66 @@
+{
+    "bio": {
+        "birthday": "1961-08-20", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Brad Schneider", 
+        "bioguide": "S001190", 
+        "cspan": 63948, 
+        "fec": [
+            "H2IL10068"
+        ], 
+        "google_entity_id": "kg:/m/0j63zyv", 
+        "govtrack": 412534, 
+        "icpsr": 21326, 
+        "maplight": 1758, 
+        "opensecrets": "N00033101", 
+        "thomas": "02124", 
+        "votesmart": 134948, 
+        "wikidata": "Q2923426", 
+        "wikipedia": "Brad Schneider"
+    }, 
+    "name": {
+        "first": "Bradley", 
+        "last": "Schneider", 
+        "middle": "S.", 
+        "official_full": "Bradley Scott Schneider"
+    }, 
+    "social": {
+        "facebook": "CongressmanBradSchneider", 
+        "instagram": "repschneider", 
+        "twitter": "repschneider", 
+        "twitter_id": 1071840474, 
+        "youtube": "RepBradSchneider"
+    }, 
+    "terms": [
+        {
+            "address": "317 Cannon HOB; Washington DC 20515-1310", 
+            "contact_form": "https://schneider.house.gov/contact/email-me", 
+            "district": 10, 
+            "end": "2015-01-03", 
+            "office": "317 Cannon House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4835", 
+            "rss_url": "http://schneider.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://schneider.house.gov"
+        }, 
+        {
+            "address": "1432 Longworth House Office Building; Washington DC 20515-1310", 
+            "district": 10, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0837", 
+            "office": "1432 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-4835", 
+            "rss_url": "http://schneider.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "https://schneider.house.gov"
+        }
+    ]
+}

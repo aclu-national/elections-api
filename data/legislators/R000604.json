@@ -1,0 +1,61 @@
+{
+    "bio": {
+        "birthday": "1963-05-25", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "R000604", 
+        "cspan": 77286, 
+        "fec": [
+            "H4OK05132"
+        ], 
+        "google_entity_id": "kg:/m/0ndnv6f", 
+        "govtrack": 412650, 
+        "icpsr": 21546, 
+        "maplight": 2106, 
+        "opensecrets": "N00036175", 
+        "thomas": "02265", 
+        "votesmart": 106528, 
+        "wikidata": "Q16195304", 
+        "wikipedia": "Steve Russell (politician)"
+    }, 
+    "name": {
+        "first": "Steve", 
+        "last": "Russell", 
+        "official_full": "Steve Russell"
+    }, 
+    "social": {
+        "facebook": "reprussell", 
+        "twitter": "RepRussell", 
+        "twitter_id": 2966758114, 
+        "youtube_id": "UC2z7ACZuDophcPphXdJfbZQ"
+    }, 
+    "terms": [
+        {
+            "address": "128 Cannon HOB; Washington DC 20515-3605", 
+            "district": 5, 
+            "end": "2017-01-03", 
+            "fax": "202-226-1463", 
+            "office": "128 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2132", 
+            "start": "2015-01-06", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "https://russell.house.gov"
+        }, 
+        {
+            "address": "128 Cannon House Office Building; Washington DC 20515-3605", 
+            "district": 5, 
+            "end": "2019-01-03", 
+            "fax": "202-226-1463", 
+            "office": "128 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2132", 
+            "start": "2017-01-03", 
+            "state": "OK", 
+            "type": "rep", 
+            "url": "https://russell.house.gov"
+        }
+    ]
+}

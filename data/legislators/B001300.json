@@ -1,0 +1,45 @@
+{
+    "bio": {
+        "birthday": "1976-09-15", 
+        "gender": "F"
+    }, 
+    "id": {
+        "bioguide": "B001300", 
+        "cspan": 104730, 
+        "fec": [
+            "H6CA44103"
+        ], 
+        "google_entity_id": "kg:/g/11bx55ybbz", 
+        "govtrack": 412687, 
+        "icpsr": 21703, 
+        "maplight": 2199, 
+        "opensecrets": "N00037019", 
+        "votesmart": 166270, 
+        "wikidata": "Q21662745", 
+        "wikipedia": "Nanette Barrag\u00e1n"
+    }, 
+    "name": {
+        "first": "Nanette", 
+        "last": "Barrag\u00e1n", 
+        "official_full": "Nanette Diaz Barrag\u00e1n"
+    }, 
+    "social": {
+        "facebook": "CongresswomanBarragan", 
+        "twitter": "RepBarragan", 
+        "twitter_id": 816833925456789505
+    }, 
+    "terms": [
+        {
+            "address": "1320 Longworth House Office Building; Washington DC 20515-0544", 
+            "district": 44, 
+            "end": "2019-01-03", 
+            "office": "1320 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-8220", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://barragan.house.gov"
+        }
+    ]
+}

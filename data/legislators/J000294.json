@@ -1,0 +1,78 @@
+{
+    "bio": {
+        "birthday": "1970-08-04", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Hakeem Jeffries", 
+        "bioguide": "J000294", 
+        "cspan": 79612, 
+        "fec": [
+            "H2NY10092"
+        ], 
+        "google_entity_id": "kg:/m/025_74m", 
+        "govtrack": 412561, 
+        "icpsr": 21343, 
+        "maplight": 1785, 
+        "opensecrets": "N00033640", 
+        "thomas": "02149", 
+        "votesmart": 55285, 
+        "wikidata": "Q5640425", 
+        "wikipedia": "Hakeem Jeffries"
+    }, 
+    "name": {
+        "first": "Hakeem", 
+        "last": "Jeffries", 
+        "middle": "S.", 
+        "official_full": "Hakeem S. Jeffries"
+    }, 
+    "social": {
+        "facebook": "RepHakeemJeffries", 
+        "twitter": "RepJeffries", 
+        "twitter_id": 467823431, 
+        "youtube_id": "UCYVmbsjoNbQ4j-PCQIYgpWQ"
+    }, 
+    "terms": [
+        {
+            "address": "1339 Longworth HOB; Washington DC 20515-3208", 
+            "contact_form": "https://jeffriesforms.house.gov/contact/", 
+            "district": 8, 
+            "end": "2015-01-03", 
+            "office": "1339 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5936", 
+            "rss_url": "http://jeffries.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://jeffries.house.gov"
+        }, 
+        {
+            "address": "1607 Longworth HOB; Washington DC 20515-3208", 
+            "contact_form": "https://jeffriesforms.house.gov/contact/", 
+            "district": 8, 
+            "end": "2017-01-03", 
+            "office": "1607 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5936", 
+            "rss_url": "http://jeffries.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "http://jeffries.house.gov"
+        }, 
+        {
+            "address": "1607 Longworth House Office Building; Washington DC 20515-3208", 
+            "district": 8, 
+            "end": "2019-01-03", 
+            "office": "1607 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-5936", 
+            "rss_url": "http://jeffries.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "NY", 
+            "type": "rep", 
+            "url": "https://jeffries.house.gov"
+        }
+    ]
+}

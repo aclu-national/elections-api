@@ -1,0 +1,117 @@
+{
+    "bio": {
+        "birthday": "1952-10-29", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Marcia L. Fudge", 
+        "bioguide": "F000455", 
+        "cspan": 1030928, 
+        "fec": [
+            "H8OH11141"
+        ], 
+        "google_entity_id": "kg:/m/04n11v9", 
+        "govtrack": 412327, 
+        "house_history": 13557, 
+        "icpsr": 20941, 
+        "maplight": 809, 
+        "opensecrets": "N00030490", 
+        "thomas": "01895", 
+        "votesmart": 110640, 
+        "wikidata": "Q461746", 
+        "wikipedia": "Marcia Fudge"
+    }, 
+    "name": {
+        "first": "Marcia", 
+        "last": "Fudge", 
+        "middle": "L.", 
+        "official_full": "Marcia L. Fudge"
+    }, 
+    "social": {
+        "facebook": "RepMarciaLFudge", 
+        "instagram": "repmarciafudge", 
+        "instagram_id": 1395168201, 
+        "twitter": "RepMarciaFudge", 
+        "twitter_id": 153486399, 
+        "youtube": "marcialfudge", 
+        "youtube_id": "UClmYIIhIcL-WwtBAy1Dhokg"
+    }, 
+    "terms": [
+        {
+            "district": 11, 
+            "end": "2009-01-03", 
+            "party": "Democrat", 
+            "start": "2008-11-19", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://fudge.house.gov/"
+        }, 
+        {
+            "district": 11, 
+            "end": "2011-01-03", 
+            "party": "Democrat", 
+            "start": "2009-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://fudge.house.gov/"
+        }, 
+        {
+            "address": "1019 Longworth HOB; Washington DC 20515-3511", 
+            "contact_form": "https://forms.house.gov/fudge/contact-form.shtml", 
+            "district": 11, 
+            "end": "2013-01-03", 
+            "fax": "202-225-1339", 
+            "office": "1019 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7032", 
+            "start": "2011-01-05", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://fudge.house.gov/"
+        }, 
+        {
+            "address": "2344 Rayburn HOB; Washington DC 20515-3511", 
+            "contact_form": "https://fudgeforms.house.gov/contact-form", 
+            "district": 11, 
+            "end": "2015-01-03", 
+            "fax": "202-225-1339", 
+            "office": "2344 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7032", 
+            "rss_url": "http://fudge.house.gov/common/rss//index.cfm?rss=25", 
+            "start": "2013-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://fudge.house.gov"
+        }, 
+        {
+            "address": "2344 Rayburn HOB; Washington DC 20515-3511", 
+            "contact_form": "https://fudgeforms.house.gov/contact-form", 
+            "district": 11, 
+            "end": "2017-01-03", 
+            "fax": "202-225-1339", 
+            "office": "2344 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7032", 
+            "rss_url": "http://fudge.house.gov/common/rss//index.cfm?rss=25", 
+            "start": "2015-01-06", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "http://fudge.house.gov"
+        }, 
+        {
+            "address": "2344 Rayburn House Office Building; Washington DC 20515-3511", 
+            "district": 11, 
+            "end": "2019-01-03", 
+            "fax": "202-225-1339", 
+            "office": "2344 Rayburn House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-7032", 
+            "rss_url": "http://fudge.house.gov/common/rss//index.cfm?rss=25", 
+            "start": "2017-01-03", 
+            "state": "OH", 
+            "type": "rep", 
+            "url": "https://fudge.house.gov"
+        }
+    ]
+}

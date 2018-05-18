@@ -1,0 +1,47 @@
+{
+    "bio": {
+        "birthday": "1958-01-24", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "C001110", 
+        "cspan": 46310, 
+        "fec": [
+            "H6CA46116"
+        ], 
+        "google_entity_id": "kg:/m/02q_np2", 
+        "govtrack": 412688, 
+        "icpsr": 21711, 
+        "maplight": 2200, 
+        "opensecrets": "N00037260", 
+        "votesmart": 9732, 
+        "wikidata": "Q6685454", 
+        "wikipedia": "Lou Correa"
+    }, 
+    "name": {
+        "first": "J.", 
+        "last": "Correa", 
+        "middle": "Luis", 
+        "official_full": "J. Luis Correa"
+    }, 
+    "social": {
+        "facebook": "RepLouCorrea", 
+        "twitter": "reploucorrea", 
+        "twitter_id": 815985039485837312, 
+        "youtube_id": "UCIKJJp4QJIDjnjodc23qKkw"
+    }, 
+    "terms": [
+        {
+            "address": "1039 Longworth House Office Building; Washington DC 20515-0546", 
+            "district": 46, 
+            "end": "2019-01-03", 
+            "office": "1039 Longworth House Office Building", 
+            "party": "Democrat", 
+            "phone": "202-225-2965", 
+            "start": "2017-01-03", 
+            "state": "CA", 
+            "type": "rep", 
+            "url": "https://correa.house.gov"
+        }
+    ]
+}

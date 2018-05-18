@@ -1,0 +1,42 @@
+{
+    "bio": {
+        "birthday": "1961-04-17", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Greg Gianforte", 
+        "bioguide": "G000584", 
+        "cspan": 104895, 
+        "fec": [
+            "H8MT01182"
+        ], 
+        "google_entity_id": "kg:/m/030pb5p", 
+        "govtrack": 412736, 
+        "house_history": 15032448990, 
+        "maplight": 2247, 
+        "opensecrets": "N00040733", 
+        "votesmart": 168594, 
+        "wikidata": "Q5605607", 
+        "wikipedia": "Greg Gianforte"
+    }, 
+    "name": {
+        "first": "Greg", 
+        "last": "Gianforte", 
+        "official_full": "Greg Gianforte"
+    }, 
+    "terms": [
+        {
+            "address": "1419 Longworth House Office Building; Washington DC 20515-2600", 
+            "district": 0, 
+            "end": "2019-01-03", 
+            "fax": "202-225-5687", 
+            "office": "1419 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3211", 
+            "start": "2017-06-21", 
+            "state": "MT", 
+            "type": "rep", 
+            "url": "https://gianforte.house.gov"
+        }
+    ]
+}

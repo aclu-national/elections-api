@@ -1,0 +1,96 @@
+{
+    "bio": {
+        "birthday": "1958-11-22", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Paul Gosar", 
+        "bioguide": "G000565", 
+        "cspan": 62470, 
+        "fec": [
+            "H0AZ01259"
+        ], 
+        "google_entity_id": "kg:/m/0czdqz0", 
+        "govtrack": 412397, 
+        "house_history": 14283, 
+        "icpsr": 21103, 
+        "maplight": 1411, 
+        "opensecrets": "N00030771", 
+        "thomas": "01992", 
+        "votesmart": 123491, 
+        "wikidata": "Q2059832", 
+        "wikipedia": "Paul Gosar"
+    }, 
+    "name": {
+        "first": "Paul", 
+        "last": "Gosar", 
+        "middle": "A.", 
+        "official_full": "Paul A. Gosar"
+    }, 
+    "social": {
+        "facebook": "repgosar", 
+        "twitter": "RepGosar", 
+        "twitter_id": 240760644, 
+        "youtube": "repgosar", 
+        "youtube_id": "UC5orqw_9acsKWSRbrqTDXBw"
+    }, 
+    "terms": [
+        {
+            "address": "504 Cannon HOB; Washington DC 20515-0301", 
+            "district": 1, 
+            "end": "2013-01-03", 
+            "fax": "200-226-9739", 
+            "office": "504 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2315", 
+            "start": "2011-01-05", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "http://gosar.house.gov/"
+        }, 
+        {
+            "address": "504 Cannon HOB; Washington DC 20515-0304", 
+            "contact_form": "https://gosar.house.gov/contact-me/email-me", 
+            "district": 4, 
+            "end": "2015-01-03", 
+            "fax": "202-226-9739", 
+            "office": "504 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2315", 
+            "rss_url": "http://gosar.house.gov/rss.xml", 
+            "start": "2013-01-03", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "http://gosar.house.gov"
+        }, 
+        {
+            "address": "504 Cannon HOB; Washington DC 20515-0304", 
+            "contact_form": "https://gosar.house.gov/contact-me/email-me", 
+            "district": 4, 
+            "end": "2017-01-03", 
+            "fax": "202-226-9739", 
+            "office": "504 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2315", 
+            "rss_url": "http://gosar.house.gov/rss.xml", 
+            "start": "2015-01-06", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "http://gosar.house.gov"
+        }, 
+        {
+            "address": "2057 Rayburn House Office Building; Washington DC 20515-0304", 
+            "district": 4, 
+            "end": "2019-01-03", 
+            "fax": "202-226-9739", 
+            "office": "2057 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2315", 
+            "rss_url": "http://gosar.house.gov/rss.xml", 
+            "start": "2017-01-03", 
+            "state": "AZ", 
+            "type": "rep", 
+            "url": "https://gosar.house.gov"
+        }
+    ]
+}

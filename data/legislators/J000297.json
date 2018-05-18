@@ -1,0 +1,62 @@
+{
+    "bio": {
+        "birthday": "1960-09-12", 
+        "gender": "M"
+    }, 
+    "id": {
+        "bioguide": "J000297", 
+        "cspan": 76592, 
+        "fec": [
+            "H4WV03070"
+        ], 
+        "google_entity_id": "kg:/m/0d4_hq", 
+        "govtrack": 412663, 
+        "icpsr": 21558, 
+        "maplight": 2119, 
+        "opensecrets": "N00035531", 
+        "thomas": "02278", 
+        "votesmart": 8297, 
+        "wikidata": "Q5415437", 
+        "wikipedia": "Evan Jenkins (politician)"
+    }, 
+    "name": {
+        "first": "Evan", 
+        "last": "Jenkins", 
+        "official_full": "Evan H. Jenkins"
+    }, 
+    "social": {
+        "facebook": "RepEvanJenkins", 
+        "instagram": "RepEvanJenkins", 
+        "twitter": "RepEvanJenkins", 
+        "twitter_id": 2953713339, 
+        "youtube_id": "UCSy2mmlbZCv0p07KOw8-m7Q"
+    }, 
+    "terms": [
+        {
+            "address": "502 Cannon HOB; Washington DC 20515-4803", 
+            "district": 3, 
+            "end": "2017-01-03", 
+            "fax": "202-225-9061", 
+            "office": "502 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3452", 
+            "start": "2015-01-06", 
+            "state": "WV", 
+            "type": "rep", 
+            "url": "https://evanjenkins.house.gov"
+        }, 
+        {
+            "address": "1609 Longworth House Office Building; Washington DC 20515-4803", 
+            "district": 3, 
+            "end": "2019-01-03", 
+            "fax": "202-225-9061", 
+            "office": "1609 Longworth House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-3452", 
+            "start": "2017-01-03", 
+            "state": "WV", 
+            "type": "rep", 
+            "url": "https://evanjenkins.house.gov"
+        }
+    ]
+}

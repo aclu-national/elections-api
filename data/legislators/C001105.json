@@ -1,0 +1,64 @@
+{
+    "bio": {
+        "birthday": "1959-06-30", 
+        "gender": "F"
+    }, 
+    "id": {
+        "ballotpedia": "Barbara Comstock", 
+        "bioguide": "C001105", 
+        "cspan": 57186, 
+        "fec": [
+            "H4VA10089"
+        ], 
+        "google_entity_id": "kg:/m/02890yr", 
+        "govtrack": 412658, 
+        "house_history": 15032409529, 
+        "icpsr": 21555, 
+        "maplight": 2114, 
+        "opensecrets": "N00036023", 
+        "thomas": "02273", 
+        "votesmart": 112252, 
+        "wikidata": "Q4858820", 
+        "wikipedia": "Barbara Comstock"
+    }, 
+    "name": {
+        "first": "Barbara", 
+        "last": "Comstock", 
+        "official_full": "Barbara Comstock"
+    }, 
+    "social": {
+        "facebook": "RepBarbaraComstock", 
+        "instagram": "repbarbaracomstock", 
+        "twitter": "RepComstock", 
+        "twitter_id": 2933760046, 
+        "youtube_id": "UC2IBUvBd51zgaE56fPcZeVA"
+    }, 
+    "terms": [
+        {
+            "address": "226 Cannon HOB; Washington DC 20515-4610", 
+            "district": 10, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0437", 
+            "office": "226 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5136", 
+            "start": "2015-01-06", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://comstock.house.gov"
+        }, 
+        {
+            "address": "229 Cannon House Office Building; Washington DC 20515-4610", 
+            "district": 10, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0437", 
+            "office": "229 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-5136", 
+            "start": "2017-01-03", 
+            "state": "VA", 
+            "type": "rep", 
+            "url": "https://comstock.house.gov"
+        }
+    ]
+}

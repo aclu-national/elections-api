@@ -1,0 +1,69 @@
+{
+    "bio": {
+        "birthday": "1952-07-21", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "John Barrasso", 
+        "bioguide": "B001261", 
+        "cspan": 1024777, 
+        "fec": [
+            "S6WY00068"
+        ], 
+        "google_entity_id": "kg:/m/02rsm32", 
+        "govtrack": 412251, 
+        "icpsr": 40707, 
+        "lis": "S317", 
+        "maplight": 732, 
+        "opensecrets": "N00006236", 
+        "thomas": "01881", 
+        "votesmart": 52662, 
+        "wikidata": "Q720521", 
+        "wikipedia": "John Barrasso"
+    }, 
+    "name": {
+        "first": "John", 
+        "last": "Barrasso", 
+        "middle": "A.", 
+        "official_full": "John Barrasso"
+    }, 
+    "social": {
+        "facebook": "johnbarrasso", 
+        "twitter": "SenJohnBarrasso", 
+        "twitter_id": 202206694, 
+        "youtube": "barrassowyo", 
+        "youtube_id": "UC80PfiCAB2Fe1MFayWlR6GQ"
+    }, 
+    "terms": [
+        {
+            "address": "307 DIRKSEN SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+            "class": 1, 
+            "contact_form": "http://www.barrasso.senate.gov/public/index.cfm?FuseAction=ContactUs.ContactForm", 
+            "end": "2013-01-03", 
+            "fax": "202-224-1724", 
+            "office": "307 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-6441", 
+            "start": "2007-06-25", 
+            "state": "WY", 
+            "type": "sen", 
+            "url": "http://barrasso.senate.gov"
+        }, 
+        {
+            "address": "307 Dirksen Senate Office Building Washington DC 20510", 
+            "class": 1, 
+            "contact_form": "https://www.barrasso.senate.gov/public/index.cfm/contact-form", 
+            "end": "2019-01-03", 
+            "fax": "202-224-1724", 
+            "office": "307 Dirksen Senate Office Building", 
+            "party": "Republican", 
+            "phone": "202-224-6441", 
+            "rss_url": "http://www.barrasso.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
+            "start": "2013-01-03", 
+            "state": "WY", 
+            "state_rank": "junior", 
+            "type": "sen", 
+            "url": "https://www.barrasso.senate.gov"
+        }
+    ]
+}

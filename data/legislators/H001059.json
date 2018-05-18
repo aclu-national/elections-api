@@ -1,0 +1,95 @@
+{
+    "bio": {
+        "birthday": "1966-03-01", 
+        "gender": "M"
+    }, 
+    "id": {
+        "ballotpedia": "Randy Hultgren", 
+        "bioguide": "H001059", 
+        "cspan": 62575, 
+        "fec": [
+            "H0IL14080"
+        ], 
+        "google_entity_id": "kg:/m/0h0lr9", 
+        "govtrack": 412422, 
+        "house_history": 15612, 
+        "icpsr": 21129, 
+        "maplight": 1434, 
+        "opensecrets": "N00031104", 
+        "thomas": "02015", 
+        "votesmart": 18199, 
+        "wikidata": "Q556404", 
+        "wikipedia": "Randy Hultgren"
+    }, 
+    "name": {
+        "first": "Randy", 
+        "last": "Hultgren", 
+        "official_full": "Randy Hultgren"
+    }, 
+    "social": {
+        "facebook": "RepHultgren", 
+        "twitter": "RepHultgren", 
+        "twitter_id": 237814920, 
+        "youtube": "rephultgren", 
+        "youtube_id": "UCJ6Gvza8hdNmUfoaJEN8dbg"
+    }, 
+    "terms": [
+        {
+            "address": "427 Cannon HOB; Washington DC 20515-1314", 
+            "district": 14, 
+            "end": "2013-01-03", 
+            "fax": "202-225-0697", 
+            "office": "427 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2976", 
+            "start": "2011-01-05", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://hultgren.house.gov/"
+        }, 
+        {
+            "address": "332 Cannon HOB; Washington DC 20515-1314", 
+            "contact_form": "https://hultgren.house.gov/contact/email-randy", 
+            "district": 14, 
+            "end": "2015-01-03", 
+            "fax": "202-225-0697", 
+            "office": "332 Cannon House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2976", 
+            "rss_url": "http://hultgren.house.gov/common/rss//index.cfm?rss=49", 
+            "start": "2013-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://hultgren.house.gov"
+        }, 
+        {
+            "address": "2455 Rayburn HOB; Washington DC 20515-1314", 
+            "contact_form": "https://hultgren.house.gov/contact/email-randy", 
+            "district": 14, 
+            "end": "2017-01-03", 
+            "fax": "202-225-0697", 
+            "office": "2455 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2976", 
+            "rss_url": "http://hultgren.house.gov/common/rss//index.cfm?rss=49", 
+            "start": "2015-01-06", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "http://hultgren.house.gov"
+        }, 
+        {
+            "address": "2455 Rayburn House Office Building; Washington DC 20515-1314", 
+            "district": 14, 
+            "end": "2019-01-03", 
+            "fax": "202-225-0697", 
+            "office": "2455 Rayburn House Office Building", 
+            "party": "Republican", 
+            "phone": "202-225-2976", 
+            "rss_url": "http://hultgren.house.gov/common/rss//index.cfm?rss=49", 
+            "start": "2017-01-03", 
+            "state": "IL", 
+            "type": "rep", 
+            "url": "https://hultgren.house.gov"
+        }
+    ]
+}

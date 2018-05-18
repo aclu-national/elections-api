@@ -47,8 +47,8 @@ sed -i -e 's/\(local\s*all\s*postgres\s*\)peer/\1trust/' "$POSTGRES_MAIN/pg_hba.
 service postgresql restart
 
 sudo -u postgres createuser --superuser ubuntu
-sudo -u postgres createdb us_congress
-sudo -u postgres psql -d us_congress -c "CREATE EXTENSION postgis;"
+sudo -u postgres createdb elections
+sudo -u postgres psql -d elections -c "CREATE EXTENSION postgis;"
 
 cd "$PROJECT_PATH"
 make

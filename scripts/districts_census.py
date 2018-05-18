@@ -5,6 +5,10 @@ import postgres_db
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
 
+script = os.path.realpath(sys.argv[0])
+scripts_dir = os.path.dirname(script)
+root_dir = os.path.dirname(scripts_dir)
+
 opt_parser = optparse.OptionParser()
 opt_parser.add_option('-s', '--start', dest='start', type='int', action='store', default=None, help='Start session (e.g. 113)')
 opt_parser.add_option('-e', '--end', dest='end', type='int', default=None, action='store', help='End session (e.g. 115)')
@@ -12,7 +16,7 @@ options, args = opt_parser.parse_args()
 
 session = options.start
 district_prop = "CD%sFP" % session
-path = "../sources/districts_%s/districts_%s.geojson" % (session, session)
+path = "%s/sources/districts_%s/districts_%s.geojson" % (root_dir, session, session)
 
 conn = postgres_db.connect()
 cur = conn.cursor()
@@ -48,7 +52,9 @@ for feature in data["features"]:
 
 	id = "district_%s_%s_%s" % (session, state, district)
 	name = "%s.geojson" % id
-	path = "districts_%s/%s/%s" % (session, state, name)
+	path = "%s/data/districts_%s/%s/%s" % (root_dir, session, state, name)
+
+	print("Saving %s" % path)
 
 	feature["properties"] = {
 		"state": state,
@@ -67,6 +73,7 @@ for feature in data["features"]:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	print("Saving %s" % name)
 	with open(path, 'w') as outfile:
 		encoder.encode_feature(feature, outfile)
+
+print("Done")

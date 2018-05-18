@@ -4,7 +4,11 @@ import json, os, sys, us, area
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
 
-path = "../sources/districts_116_pa/districts_116_pa.geojson"
+script = os.path.realpath(sys.argv[0])
+scripts_dir = os.path.dirname(script)
+root_dir = os.path.dirname(scripts_dir)
+
+path = "%s/sources/districts_116_pa/districts_116_pa.geojson" % root_dir
 
 sessions = {}
 sessions[116] = {
@@ -25,7 +29,9 @@ for feature in data["features"]:
 
 	district = int(props["DISTRICT"])
 
-	path = "districts_116_pa/district_116_pa_%s.geojson" % district
+	name = "district_116_pa_%s.geojson" % district
+	path = "%s/data/districts_116_pa/%s" % (root_dir, district, name)
+
 	print("Saving %s" % path)
 	feature["properties"] = {
 		"state": state,
@@ -46,3 +52,5 @@ for feature in data["features"]:
 
 	with open(path, 'w') as outfile:
 		encoder.encode_feature(feature, outfile)
+
+print("Done")

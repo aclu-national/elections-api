@@ -2,8 +2,8 @@
 
 # Before running this:
 #
-# mkdir /usr/local/aclu
-# chown ubuntu:ubuntu /usr/local/aclu
+# sudo mkdir /usr/local/aclu
+# sudo chown ubuntu:ubuntu /usr/local/aclu
 # cd /usr/local/aclu
 # git clone git@github.com:aclu-national/election-data.git
 # cd election-data

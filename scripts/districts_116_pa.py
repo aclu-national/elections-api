@@ -25,7 +25,7 @@ for feature in data["features"]:
 
 	district = int(props["DISTRICT"])
 
-	path = "districts_116_pa/districts_116_pa_%s.geojson" % district
+	path = "districts_116_pa/district_116_pa_%s.geojson" % district
 	print("Saving %s" % path)
 	feature["properties"] = {
 		"state": state,
@@ -33,7 +33,7 @@ for feature in data["features"]:
 		"start_date": sessions[116]["start_date"],
 		"end_session": 116,
 		"end_date": sessions[116]["end_date"],
-		"district": district
+		"district_num": district
 	}
 	feature["id"] = "districts_116_pa_%s" % district
 

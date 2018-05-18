@@ -56,7 +56,7 @@ for feature in data["features"]:
 		"start_date": sessions[options.start]["start_date"],
 		"end_session": options.end,
 		"end_date": sessions[options.end]["end_date"],
-		"district": district
+		"district_num": district
 	}
 	feature["id"] = id
 

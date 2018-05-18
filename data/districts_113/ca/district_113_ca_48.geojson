@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "area":661759983.884142,
-    "district":48,
+    "district_num":48,
     "end_date":"2019-01-03",
     "end_session":115,
     "start_date":"2013-01-03",

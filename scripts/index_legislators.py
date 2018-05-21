@@ -49,7 +49,7 @@ cur.execute('''
 		bioguide,
 		state,
 		district_num,
-		start_date
+		end_date
 	)
 ''')
 

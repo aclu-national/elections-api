@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import flask, flask_cors, json, os, psycopg2, re, sys
+import flask, flask_cors, json, os, psycopg2, re, sys, arrow
 
 app = flask.Flask(__name__)
 flask_cors.CORS(app)
@@ -34,6 +34,206 @@ def setup_sessions():
 				"end_date": str(row[2])
 			}
 
+def get_district_by_coords(lat, lng, session_num=115):
+
+	columns = 'id, name, start_session, end_session, state, district_num, area'
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT {columns}
+		FROM districts
+		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
+		  AND (district_num > 0 OR at_large_only = 'Y')
+		  AND start_session <= {session_num}
+		  AND end_session >= {session_num}
+	'''.format(columns=columns, lat=lat, lng=lng, session_num=session_num))
+
+	rs = cur.fetchall()
+	district = None
+
+	if rs:
+		for row in rs:
+
+			start_session = row[2]
+			end_session = row[3]
+			district_num = row[5]
+
+			at_large = (district_num == 0)
+			non_voting = (district_num == 98)
+
+			district = {
+				'id': row[0],
+				'name': row[1],
+				'start_session': start_session,
+				'end_session': end_session,
+				'start_date': flask.g.sessions[start_session]['start_date'],
+				'end_date': flask.g.sessions[end_session]['end_date'],
+				'state': row[4],
+				'district_num': district_num,
+				'area': row[6],
+				'at_large': at_large,
+				'non_voting': non_voting
+			}
+
+	cur.close()
+	return district
+
+def get_district_by_id(id):
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT id, name, start_session, end_session, state, district_num, area
+		FROM districts
+		WHERE id = {id}
+	'''.format(id=id))
+
+	rs = cur.fetchall()
+	district = None
+
+	if rs:
+		for row in rs:
+			start_session = row[2]
+			end_session = row[3]
+			district_num = row[5]
+
+			at_large = (district_num == 0)
+			non_voting = (district_num == 98)
+
+			district = {
+				'id': row[0],
+				'start_session': start_session,
+				'end_session': end_session,
+				'start_date': flask.g.sessions[start_session]['start_date'],
+				'end_date': flask.g.sessions[end_session]['end_date'],
+				'state': row[4],
+				'district_num': district_num,
+				'area': row[6],
+				'at_large': at_large,
+				'non_voting': non_voting
+			}
+
+	cur.close()
+	return district
+
+def get_legislators(state, district_num, session_num=115):
+
+	session = flask.g.sessions[session_num]
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT id, bioguide, start_date, end_date, type, state, district_num, party
+		FROM legislator_terms
+		WHERE end_date >= CURRENT_DATE
+		  AND state = '{state}'
+		  AND (
+			district_num IS NULL OR
+			district_num = {district_num}
+		  )
+		ORDER BY end_date DESC
+	'''.format(state=state, district_num=district_num))
+
+	legislators = {}
+	bioguides = []
+	term_ids = []
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			bioguide = str(row[1])
+			legislators[bioguide] = {
+				'term': {
+					'start_date': arrow.get(row[2]).format('YYYY-MM-DD'),
+					'end_date': arrow.get(row[3]).format('YYYY-MM-DD'),
+					'type': row[4],
+					'state': row[5],
+					'party': row[7]
+				}
+			}
+			if row[4] == 'rep':
+				legislators[bioguide]['term']['district_num'] = row[6]
+			bioguides.append(bioguide)
+			term_ids.append(str(row[0]))
+
+	if len(bioguides) == 0:
+		return {}
+
+	bioguides = "'" + "', '".join(bioguides) + "'"
+	term_ids = ", ".join(term_ids)
+
+	cur.execute('''
+		SELECT bioguide, first_name, last_name, full_name, birthday, gender
+		FROM legislators
+		WHERE bioguide IN ({bioguides})
+		ORDER BY last_name, first_name
+	'''.format(bioguides=bioguides))
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			bioguide = row[0]
+			legislators[bioguide]['name'] = {
+				'first_name': row[1],
+				'last_name': row[2],
+				'full_name': row[3]
+			}
+			legislators[bioguide]['bio'] = {
+				'birthday': arrow.get(row[4]).format('YYYY-MM-DD'),
+				'gender': row[5]
+			}
+
+	cur.execute('''
+		SELECT bioguide, detail_name, detail_value
+		FROM legislator_term_details
+		WHERE term_id IN ({term_ids})
+	'''.format(term_ids=term_ids))
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			bioguide = row[0]
+			key = row[1]
+			value = row[2]
+			if key == 'class' or key == 'state_rank':
+				legislators[bioguide]['term'][key] = value
+			else:
+				if not 'contact' in legislators[bioguide]:
+					legislators[bioguide]['contact'] = {}
+				legislators[bioguide]['contact'][key] = value
+
+	cur.execute('''
+		SELECT bioguide, concordance_name, concordance_value
+		FROM legislator_concordances
+		WHERE bioguide IN ({bioguides})
+	'''.format(bioguides=bioguides))
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			bioguide = row[0]
+			key = row[1]
+			value = row[2]
+			if not 'id' in legislators[bioguide]:
+				legislators[bioguide]['id'] = {}
+			legislators[bioguide]['id'][key] = value
+
+	cur.execute('''
+		SELECT bioguide, social_media_name, social_media_value
+		FROM legislator_social_media
+		WHERE bioguide IN ({bioguides})
+	'''.format(bioguides=bioguides))
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			bioguide = row[0]
+			key = row[1]
+			value = row[2]
+			if not 'social' in legislators[bioguide]:
+				legislators[bioguide]['social'] = {}
+			legislators[bioguide]['social'][key] = value
+
+	cur.close()
+	return legislators
+
 @app.route("/")
 def hello():
 	return "Hello, you probably want to use: /pip, /districts, or /sessions"
@@ -53,105 +253,49 @@ def pip():
 	if not re.match('^-?\d+(\.\d+)?', lng):
 		return "Please include a numeric 'lng'."
 
-	columns = 'id, name, start_session, end_session, state, district_num, area'
+	district = get_district_by_coords(lat, lng)
 
-	cur = flask.g.db.cursor()
-	cur.execute('''
-		SELECT {columns}
-		FROM districts
-		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
-		  AND (district_num > 0 OR at_large_only = 'Y')
-		ORDER BY end_session DESC
-	'''.format(columns=columns, lat=lat, lng=lng))
+	if not district:
+		rsp = {
+			'ok': 0,
+			'error': 'No congressional district found.'
+		}
+	else:
+		legislators = get_legislators(district["state"], district["district_num"])
+		rsp = {
+			'ok': 1,
+			'district': district,
+			'legislators': legislators
+		}
 
-	rs = cur.fetchall()
-	results = []
-	if rs:
-		for row in rs:
-
-			start_session = row[2]
-			end_session = row[3]
-			district_num = row[5]
-
-			at_large = (district_num == 0)
-			non_voting = (district_num == 98)
-
-			result = {
-				'id': row[0],
-				'name': row[1],
-				'start_session': start_session,
-				'end_session': end_session,
-				'start_date': flask.g.sessions[start_session]['start_date'],
-				'end_date': flask.g.sessions[end_session]['end_date'],
-				'state': row[4],
-				'district_num': district_num,
-				'area': row[6],
-				'at_large': at_large,
-				'non_voting': non_voting
-			}
-
-			results.append(result)
-
-	cur.close()
-
-	rsp = {
-		'ok': 1,
-		'results': results
-	}
 	return flask.jsonify(rsp)
 
-@app.route("/districts")
-def districts():
+@app.route("/district")
+def district():
 
-	ids = flask.request.args.get('ids', None)
+	id = flask.request.args.get('id', None)
 
-	if ids == None:
-		return "Please include 'ids' arg (hyphen- or comma-separated numeric IDs)."
-	if not re.match('^\d+(,\d+)*$', ids) and not re.match('^\d+(-\d+)*$', ids):
-		return "Invalid 'ids' arg: use hyphen- or comma-separated numeric IDs."
+	if id == None:
+		return "Please include 'id' arg."
 
-	if re.match('^\d+(-\d+)*$', ids):
-		ids = ids.replace('-', ',')
+	if not re.match('^\d+$', id):
+		return "Please specify one numeric 'id' arg."
 
-	cur = flask.g.db.cursor()
-	cur.execute('''
-		SELECT id, name, start_session, end_session, state, district_num, area
-		FROM districts
-		WHERE id IN ({ids})
-		ORDER BY end_session DESC
-	'''.format(ids=ids))
+	district = get_district_by_id(id)
 
-	rs = cur.fetchall()
-	results = []
-	if rs:
-		for row in rs:
+	if not district:
+		rsp = {
+			'ok': 0,
+			'error': 'No congressional district found.'
+		}
+	else:
+		legislators = get_legislators(district["state"], district["district_num"])
+		rsp = {
+			'ok': 1,
+			'district': district,
+			'legislators': legislators
+		}
 
-			start_session = row[2]
-			end_session = row[3]
-			district_num = row[5]
-
-			at_large = (district_num == 0)
-			non_voting = (district_num == 98)
-
-			results.append({
-				'id': row[0],
-				'start_session': start_session,
-				'end_session': end_session,
-				'start_date': flask.g.sessions[start_session]['start_date'],
-				'end_date': flask.g.sessions[end_session]['end_date'],
-				'state': row[4],
-				'district_num': district_num,
-				'area': row[6],
-				'at_large': at_large,
-				'non_voting': non_voting
-			})
-
-	cur.close()
-
-	rsp = {
-		'ok': 1,
-		'results': results
-	}
 	return flask.jsonify(rsp)
 
 @app.route("/sessions")

@@ -63,6 +63,15 @@ cur.execute('''
 	)
 ''')
 
+cur.execute("DROP TABLE IF EXISTS legislator_social_media CASCADE")
+cur.execute('''
+	CREATE TABLE legislator_social_media (
+		bioguide VARCHAR(10),
+		social_media_name VARCHAR(255),
+		social_media_value VARCHAR(255)
+	)
+''')
+
 conn.commit()
 
 legislator_insert_sql = '''
@@ -95,6 +104,14 @@ details_insert_sql = '''
 		detail_name,
 		detail_value
 	) VALUES (%s, %s, %s, %s)
+'''
+
+social_media_insert_sql = '''
+	INSERT INTO legislator_social_media (
+		bioguide,
+		social_media_name,
+		social_media_value
+	) VALUES (%s, %s, %s)
 '''
 
 dir = "%s/data/legislators" % root_dir
@@ -206,7 +223,12 @@ for filename in files:
 			values = [term_id, bioguide] + detail
 			cur.execute(details_insert_sql, values)
 
-		conn.commit()
+	if "social" in legislator:
+		for key in legislator["social"]:
+			values = [bioguide, key, legislator["social"][key]]
+			cur.execute(social_media_insert_sql, values)
+
+	conn.commit()
 
 conn.close()
 print("Done")

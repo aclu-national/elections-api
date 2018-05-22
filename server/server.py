@@ -231,12 +231,52 @@ def get_legislators(state, district_num, session_num=115):
 				legislators[bioguide]['social'] = {}
 			legislators[bioguide]['social'][key] = value
 
+	cur.execute('''
+		SELECT bioguide, category, subcategory, position, name, value
+		FROM legislator_scores
+		WHERE bioguide IN ({bioguides})
+	'''.format(bioguides=bioguides))
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			bioguide = row[0]
+			category = row[1].strip()
+			subcategory = row[2].strip()
+			position = row[3]
+			name = row[4]
+			value = row[5]
+
+			if not 'scores' in legislators[bioguide]:
+				legislators[bioguide]['scores'] = {}
+
+			if category == '':
+				if not 'summary' in legislators[bioguide]['scores']:
+					legislators[bioguide]['scores']['summary'] = []
+				legislators[bioguide]['scores']['summary'].append({
+					'name': position,
+					'value': value
+				})
+			else:
+
+				if not category in legislators[bioguide]['scores']:
+					legislators[bioguide]['scores'][category] = {}
+
+				if not subcategory in legislators[bioguide]['scores'][category]:
+					legislators[bioguide]['scores'][category][subcategory] = []
+
+				legislators[bioguide]['scores'][category][subcategory].append({
+					'name': name,
+					'position': position,
+					'value': value
+				})
+
 	cur.close()
 	return legislators
 
 @app.route("/")
 def hello():
-	return "Hello, you probably want to use: /pip, /districts, or /sessions"
+	return "Hello, you probably want to use: /pip, /district, or /session"
 
 @app.route("/pip")
 def pip():

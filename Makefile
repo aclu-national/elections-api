@@ -1,4 +1,4 @@
-all: sessions districts legislators
+all: sessions districts legislators scores
 
 sessions:
 	python scripts/index_sessions.py
@@ -8,3 +8,6 @@ districts:
 
 legislators:
 	python scripts/index_legislators.py
+
+scores:
+	python scripts/index_scores.py

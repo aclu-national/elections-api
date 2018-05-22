@@ -23,13 +23,14 @@ apt update
 apt upgrade -y
 
 apt install -y fail2ban ufw htop emacs24-nox postgresql postgresql-contrib \
-               build-essential gdal-bin python python-pip python-gevent
+               build-essential gdal-bin python python-pip python-gevent nginx
 
+ufw allow 5000
 ufw allow 80
 ufw allow 22
 yes | ufw enable
 
-add-apt-repository -y ppa:ubuntugis/ubuntugis-unstable
+add-apt-repository -y ppa:ubuntugis/ubuntugis-unstabled
 
 apt update
 apt install -y postgis
@@ -57,5 +58,9 @@ cp "$PROJECT_PATH/server/elections.service" /etc/systemd/system/
 cp "$PROJECT_PATH/server/elections.socket" /etc/systemd/system/
 systemctl enable elections.service
 service elections start
+
+rm /etc/nginx/sites-enabled/default
+ln -s "$PROJECT_PATH/server/nginx.conf" /etc/nginx/sites-enabled/elections.api.aclu.org
+sudo service nginx restart
 
 echo "done"

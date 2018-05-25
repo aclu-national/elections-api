@@ -8,3 +8,6 @@ districts_116_pa:
 
 legislators:
 	python ../scripts/build_legislators.py
+
+states:
+	python ../scripts/build_states.py

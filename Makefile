@@ -11,3 +11,6 @@ legislators:
 
 scores:
 	python scripts/index_scores.py
+
+states:
+	python scripts/index_states.py

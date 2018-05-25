@@ -34,6 +34,60 @@ def setup_sessions():
 				"end_date": str(row[2])
 			}
 
+def get_state_by_coords(lat, lng):
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT id, name, state, area_land, area_water, fips_id
+		FROM states
+		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
+	'''.format(lat=lat, lng=lng))
+
+	rs = cur.fetchall()
+	state = None
+
+	if rs:
+		for row in rs:
+
+			state = {
+				'id': row[0],
+				'name': row[1],
+				'state': row[2],
+				'area_land': row[3],
+				'area_water': row[4],
+				'fips_id': row[5]
+			}
+
+	cur.close()
+	return state
+
+def get_state_by_abbrev(abbrev):
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT id, name, state, area_land, area_water, fips_id
+		FROM states
+		WHERE state = '{state}'
+	'''.format(state=abbrev))
+
+	rs = cur.fetchall()
+	state = None
+
+	if rs:
+		for row in rs:
+
+			state = {
+				'id': row[0],
+				'name': row[1],
+				'state': row[2],
+				'area_land': row[3],
+				'area_water': row[4],
+				'fips_id': row[5]
+			}
+
+	cur.close()
+	return state
+
 def get_district_by_coords(lat, lng, session_num=115):
 
 	columns = 'id, name, start_session, end_session, state, district_num, area'
@@ -114,7 +168,23 @@ def get_district_by_id(id):
 	cur.close()
 	return district
 
-def get_legislators(state, district_num, session_num=115):
+def get_legislators_by_state(state, session_num=115):
+
+	session = flask.g.sessions[session_num]
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT id, bioguide, start_date, end_date, type, state, district_num, party
+		FROM legislator_terms
+		WHERE end_date >= CURRENT_DATE
+		  AND state = '{state}'
+		  AND type = 'sen'
+		ORDER BY end_date DESC
+	'''.format(state=state))
+
+	return get_legislators(cur)
+
+def get_legislators_by_district(state, district_num, session_num=115):
 
 	session = flask.g.sessions[session_num]
 
@@ -130,6 +200,10 @@ def get_legislators(state, district_num, session_num=115):
 		  )
 		ORDER BY end_date DESC
 	'''.format(state=state, district_num=district_num))
+
+	return get_legislators(cur)
+
+def get_legislators(cur):
 
 	legislators = {}
 	bioguides = []
@@ -303,7 +377,7 @@ def get_congress(lat, lng):
 			'error': 'No congressional district found.'
 		}
 	else:
-		legislators = get_legislators(district["state"], district["district_num"])
+		legislators = get_legislators_by_district(district["state"], district["district_num"])
 		rsp = {
 			'ok': 1,
 			'district': district,
@@ -318,7 +392,8 @@ def hello():
 		<pre>Hello, you probably want to use:
 
 	<a href="/pip">/pip</a>
-	<a href="/congress">/congress</a>
+	<a href="/pip_state">/pip_state</a>
+	<a href="/pip_congress">/pip_congress</a>
 	<a href="/congress_district">/congress_district</a></pre>
 	'''
 
@@ -338,12 +413,43 @@ def pip():
 	if (congress["ok"] == 1):
 		del congress["ok"]
 
+	state = get_state_by_abbrev(congress['district']['state'])
+
 	return flask.jsonify({
 		'ok': 1,
-		'congress': congress
+		'congress': congress,
+		'state': state
 	})
 
-@app.route("/congress")
+@app.route("/pip_state")
+def state():
+	req = get_lat_lng()
+
+	if type(req) == str:
+		return flask.jsonify({
+			'ok': 0,
+			'error': req
+		})
+
+	lat = req['lat']
+	lng = req['lng']
+
+	rsp = get_state_by_coords(lat, lng)
+	if rsp == None:
+		return flask.jsonify({
+			'ok': 0,
+			'error': 'No state found.'
+		})
+
+	legislators = get_legislators_by_state(rsp['state'])
+
+	return flask.jsonify({
+		'ok': 1,
+		'state': rsp,
+		'legislators': legislators
+	})
+
+@app.route("/pip_congress")
 def congress():
 	req = get_lat_lng()
 	if type(req) == str:
@@ -386,7 +492,7 @@ def district():
 			'error': 'No congressional district found.'
 		}
 	else:
-		legislators = get_legislators(district["state"], district["district_num"])
+		legislators = get_legislators_by_district(district["state"], district["district_num"])
 		rsp = {
 			'ok': 1,
 			'district': district,

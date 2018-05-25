@@ -2,7 +2,6 @@
   "id": "state_state_ok.geojson",
   "type": "Feature",
   "properties": {
-    "area":181432559224.639923,
     "area_land":177664450004,
     "area_water":3373087228,
     "fips_id":"40",

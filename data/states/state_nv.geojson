@@ -2,7 +2,6 @@
   "id": "state_state_nv.geojson",
   "type": "Feature",
   "properties": {
-    "area":286758456713.776978,
     "area_land":284329327067,
     "area_water":2047350803,
     "fips_id":"32",

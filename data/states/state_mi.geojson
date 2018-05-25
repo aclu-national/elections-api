@@ -2,7 +2,6 @@
   "id": "state_state_mi.geojson",
   "type": "Feature",
   "properties": {
-    "area":250498902331.247559,
     "area_land":146488062160,
     "area_water":103998746281,
     "fips_id":"26",

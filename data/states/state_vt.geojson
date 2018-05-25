@@ -2,7 +2,6 @@
   "id": "state_state_vt.geojson",
   "type": "Feature",
   "properties": {
-    "area":24910309950.132133,
     "area_land":23873457570,
     "area_water":1031134839,
     "fips_id":"50",

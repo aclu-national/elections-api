@@ -2,7 +2,6 @@
   "id": "state_state_ca.geojson",
   "type": "Feature",
   "properties": {
-    "area":424742730056.962158,
     "area_land":403483182192,
     "area_water":20484637928,
     "fips_id":"06",

@@ -2,7 +2,6 @@
   "id": "state_state_wv.geojson",
   "type": "Feature",
   "properties": {
-    "area":62849092085.104797,
     "area_land":62265662566,
     "area_water":489840834,
     "fips_id":"54",

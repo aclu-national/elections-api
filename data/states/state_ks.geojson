@@ -2,7 +2,6 @@
   "id": "state_state_ks.geojson",
   "type": "Feature",
   "properties": {
-    "area":213425106065.882172,
     "area_land":211753159949,
     "area_water":1346325556,
     "fips_id":"20",

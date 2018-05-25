@@ -2,7 +2,6 @@
   "id": "state_state_nh.geojson",
   "type": "Feature",
   "properties": {
-    "area":24223893100.85556,
     "area_land":23187445452,
     "area_water":1028643155,
     "fips_id":"33",

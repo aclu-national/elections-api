@@ -2,7 +2,6 @@
   "id": "state_state_nm.geojson",
   "type": "Feature",
   "properties": {
-    "area":315693405833.507446,
     "area_land":314191415563,
     "area_water":733669653,
     "fips_id":"35",

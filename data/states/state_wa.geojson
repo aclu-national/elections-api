@@ -2,7 +2,6 @@
   "id": "state_state_wa.geojson",
   "type": "Feature",
   "properties": {
-    "area":184570313104.771271,
     "area_land":172111800165,
     "area_water":12560067439,
     "fips_id":"53",

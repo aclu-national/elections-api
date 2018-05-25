@@ -2,7 +2,6 @@
   "id": "state_state_mn.geojson",
   "type": "Feature",
   "properties": {
-    "area":225108074309.949493,
     "area_land":206229176104,
     "area_water":18944967530,
     "fips_id":"27",

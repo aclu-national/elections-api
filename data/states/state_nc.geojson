@@ -2,7 +2,6 @@
   "id": "state_state_nc.geojson",
   "type": "Feature",
   "properties": {
-    "area":139695628419.267456,
     "area_land":125919712692,
     "area_water":13470113896,
     "fips_id":"37",

@@ -2,7 +2,6 @@
   "id": "state_state_md.geojson",
   "type": "Feature",
   "properties": {
-    "area":32176764309.48848,
     "area_land":25150696145,
     "area_water":6980371026,
     "fips_id":"24",

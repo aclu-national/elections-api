@@ -2,7 +2,6 @@
   "id": "state_state_ri.geojson",
   "type": "Feature",
   "properties": {
-    "area":4004731089.916387,
     "area_land":2677997539,
     "area_water":1323452846,
     "fips_id":"44",

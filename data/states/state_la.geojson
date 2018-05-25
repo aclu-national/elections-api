@@ -2,7 +2,6 @@
   "id": "state_state_la.geojson",
   "type": "Feature",
   "properties": {
-    "area":136083477164.090683,
     "area_land":111904803121,
     "area_water":23746413153,
     "fips_id":"22",

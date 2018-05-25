@@ -2,7 +2,6 @@
   "id": "state_state_ny.geojson",
   "type": "Feature",
   "properties": {
-    "area":141366860731.208008,
     "area_land":122048992746,
     "area_water":19247151848,
     "fips_id":"36",

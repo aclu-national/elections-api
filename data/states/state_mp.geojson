@@ -2,7 +2,6 @@
   "id": "state_state_mp.geojson",
   "type": "Feature",
   "properties": {
-    "area":5145201622.991325,
     "area_land":472284356,
     "area_water":4644260632,
     "fips_id":"69",

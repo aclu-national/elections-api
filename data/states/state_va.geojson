@@ -2,7 +2,6 @@
   "id": "state_state_va.geojson",
   "type": "Feature",
   "properties": {
-    "area":110980008082.697372,
     "area_land":102254240128,
     "area_water":8532012665,
     "fips_id":"51",

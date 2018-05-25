@@ -2,7 +2,6 @@
   "id": "state_state_oh.geojson",
   "type": "Feature",
   "properties": {
-    "area":116223407474.711334,
     "area_land":105833282399,
     "area_water":10264451012,
     "fips_id":"39",

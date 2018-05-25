@@ -2,7 +2,6 @@
   "id": "state_state_in.geojson",
   "type": "Feature",
   "properties": {
-    "area":94440440769.232422,
     "area_land":92787765193,
     "area_water":1539541677,
     "fips_id":"18",

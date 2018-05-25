@@ -2,7 +2,6 @@
   "id": "state_state_az.geojson",
   "type": "Feature",
   "properties": {
-    "area":295954501672.873169,
     "area_land":294198661567,
     "area_water":1027245114,
     "fips_id":"04",

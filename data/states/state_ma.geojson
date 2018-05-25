@@ -2,7 +2,6 @@
   "id": "state_state_ma.geojson",
   "type": "Feature",
   "properties": {
-    "area":27353546807.396133,
     "area_land":20204287539,
     "area_water":7130763257,
     "fips_id":"25",

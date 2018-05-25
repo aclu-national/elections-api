@@ -2,7 +2,6 @@
   "id": "state_state_pa.geojson",
   "type": "Feature",
   "properties": {
-    "area":119394914832.182556,
     "area_land":115881477379,
     "area_water":3397554419,
     "fips_id":"42",

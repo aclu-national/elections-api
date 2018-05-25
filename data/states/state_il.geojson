@@ -2,7 +2,6 @@
   "id": "state_state_il.geojson",
   "type": "Feature",
   "properties": {
-    "area":150168508927.031464,
     "area_land":143784114293,
     "area_water":6211277447,
     "fips_id":"17",

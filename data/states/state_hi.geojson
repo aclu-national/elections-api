@@ -2,7 +2,6 @@
   "id": "state_state_hi.geojson",
   "type": "Feature",
   "properties": {
-    "area":28553963469.146908,
     "area_land":16634117742,
     "area_water":11777681513,
     "fips_id":"15",

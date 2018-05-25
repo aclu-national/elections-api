@@ -2,7 +2,6 @@
   "id": "state_state_ia.geojson",
   "type": "Feature",
   "properties": {
-    "area":145847224900.767303,
     "area_land":144664158135,
     "area_water":1081293682,
     "fips_id":"19",

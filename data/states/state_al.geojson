@@ -2,7 +2,6 @@
   "id": "state_state_al.geojson",
   "type": "Feature",
   "properties": {
-    "area":136147294563.876923,
     "area_land":131174431216,
     "area_water":4592944701,
     "fips_id":"01",

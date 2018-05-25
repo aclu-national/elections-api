@@ -2,7 +2,6 @@
   "id": "state_state_mo.geojson",
   "type": "Feature",
   "properties": {
-    "area":180821205654.146179,
     "area_land":178052037005,
     "area_water":2488190402,
     "fips_id":"29",

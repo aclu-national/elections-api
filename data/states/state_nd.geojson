@@ -2,7 +2,6 @@
   "id": "state_state_nd.geojson",
   "type": "Feature",
   "properties": {
-    "area":183008639455.898376,
     "area_land":178710423375,
     "area_water":4400396641,
     "fips_id":"38",

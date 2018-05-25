@@ -2,7 +2,6 @@
   "id": "state_state_ut.geojson",
   "type": "Feature",
   "properties": {
-    "area":220179387147.291199,
     "area_land":212884846341,
     "area_water":7000199770,
     "fips_id":"49",

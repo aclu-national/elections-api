@@ -2,7 +2,6 @@
   "id": "state_state_ar.geojson",
   "type": "Feature",
   "properties": {
-    "area":138053093551.812073,
     "area_land":134768100673,
     "area_water":2963631791,
     "fips_id":"05",

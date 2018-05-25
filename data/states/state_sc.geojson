@@ -2,7 +2,6 @@
   "id": "state_state_sc.geojson",
   "type": "Feature",
   "properties": {
-    "area":83146109523.491013,
     "area_land":77862731483,
     "area_water":5071381300,
     "fips_id":"45",

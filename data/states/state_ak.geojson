@@ -2,7 +2,6 @@
   "id": "state_state_ak.geojson",
   "type": "Feature",
   "properties": {
-    "area":1749470936066.526367,
     "area_land":1478588231566,
     "area_water":277723861311,
     "fips_id":"02",

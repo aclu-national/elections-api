@@ -2,7 +2,6 @@
   "id": "state_state_ct.geojson",
   "type": "Feature",
   "properties": {
-    "area":14369790841.665176,
     "area_land":12542619303,
     "area_water":1815495323,
     "fips_id":"09",

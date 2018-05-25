@@ -2,7 +2,6 @@
   "id": "state_state_tn.geojson",
   "type": "Feature",
   "properties": {
-    "area":109384623875.880997,
     "area_land":106798015774,
     "area_water":2354836197,
     "fips_id":"47",

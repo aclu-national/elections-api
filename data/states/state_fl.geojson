@@ -2,7 +2,6 @@
   "id": "state_state_fl.geojson",
   "type": "Feature",
   "properties": {
-    "area":170936297505.711243,
     "area_land":138911437206,
     "area_water":31398800291,
     "fips_id":"12",

@@ -2,7 +2,6 @@
   "id": "state_state_ga.geojson",
   "type": "Feature",
   "properties": {
-    "area":154345472562.662048,
     "area_land":149177524294,
     "area_water":4733385577,
     "fips_id":"13",

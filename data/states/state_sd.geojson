@@ -2,7 +2,6 @@
   "id": "state_state_sd.geojson",
   "type": "Feature",
   "properties": {
-    "area":199758968440.485107,
     "area_land":196345228871,
     "area_water":3384471850,
     "fips_id":"46",

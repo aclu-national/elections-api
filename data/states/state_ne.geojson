@@ -2,7 +2,6 @@
   "id": "state_state_ne.geojson",
   "type": "Feature",
   "properties": {
-    "area":200493925503.381378,
     "area_land":198957965731,
     "area_water":1370523694,
     "fips_id":"31",

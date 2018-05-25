@@ -2,7 +2,6 @@
   "id": "state_state_mt.geojson",
   "type": "Feature",
   "properties": {
-    "area":380657334213.261902,
     "area_land":376960880222,
     "area_water":3871059371,
     "fips_id":"30",

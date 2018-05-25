@@ -2,7 +2,6 @@
   "id": "state_state_co.geojson",
   "type": "Feature",
   "properties": {
-    "area":269985112888.942688,
     "area_land":268425964573,
     "area_water":1178495763,
     "fips_id":"08",

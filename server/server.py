@@ -274,12 +274,7 @@ def get_legislators(state, district_num, session_num=115):
 	cur.close()
 	return legislators
 
-@app.route("/")
-def hello():
-	return "Hello, you probably want to use: /pip, /district, or /session"
-
-@app.route("/pip")
-def pip():
+def get_lat_lng():
 
 	lat = flask.request.args.get('lat', None)
 	lng = flask.request.args.get('lng', None)
@@ -292,6 +287,13 @@ def pip():
 
 	if not re.match('^-?\d+(\.\d+)?', lng):
 		return "Please include a numeric 'lng'."
+
+	return {
+		'lat': lat,
+		'lng': lng
+	}
+
+def get_congress(lat, lng):
 
 	district = get_district_by_coords(lat, lng)
 
@@ -308,18 +310,73 @@ def pip():
 			'legislators': legislators
 		}
 
-	return flask.jsonify(rsp)
+	return rsp
 
-@app.route("/district")
+@app.route("/")
+def hello():
+	return '''
+		<pre>Hello, you probably want to use:
+
+	<a href="/pip">/pip</a>
+	<a href="/congress">/congress</a>
+	<a href="/congress_district">/congress_district</a></pre>
+	'''
+
+@app.route("/pip")
+def pip():
+	req = get_lat_lng()
+	if type(req) == str:
+		return flask.jsonify({
+			'ok': 0,
+			'error': req
+		})
+
+	lat = req['lat']
+	lng = req['lng']
+
+	congress = get_congress(lat, lng)
+	if (congress["ok"] == 1):
+		del congress["ok"]
+
+	return flask.jsonify({
+		'ok': 1,
+		'congress': congress
+	})
+
+@app.route("/congress")
+def congress():
+	req = get_lat_lng()
+	if type(req) == str:
+		return flask.jsonify({
+			'ok': 0,
+			'error': req
+		})
+
+	lat = req['lat']
+	lng = req['lng']
+
+	rsp = get_congress(lat, lng)
+	return flask.jsonify({
+		'ok': 1,
+		'congress': rsp
+	})
+
+@app.route("/congress_district")
 def district():
 
 	id = flask.request.args.get('id', None)
 
 	if id == None:
-		return "Please include 'id' arg."
+		return flask.jsonify({
+			'ok': 0,
+			'error': "Please include 'id' arg."
+		})
 
 	if not re.match('^\d+$', id):
-		return "Please specify one numeric 'id' arg."
+		return flask.jsonify({
+			'ok': 0,
+			'error': "Please specify one numeric 'id' arg."
+		})
 
 	district = get_district_by_id(id)
 
@@ -336,14 +393,6 @@ def district():
 			'legislators': legislators
 		}
 
-	return flask.jsonify(rsp)
-
-@app.route("/sessions")
-def sessions():
-	rsp = {
-		'ok': 1,
-		'results': flask.g.sessions
-	}
 	return flask.jsonify(rsp)
 
 if __name__ == '__main__':

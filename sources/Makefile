@@ -16,3 +16,9 @@ legislators:
 	mkdir -p legislators
 	curl -o legislators/legislators-current.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-current.yaml
 	curl -o legislators/legislators-social-media.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-social-media.yaml
+
+states:
+	mkdir -p states
+	curl -o states/states.zip http://www2.census.gov/geo/tiger/2017/STATE/tl_2017_us_state.zip
+	unzip -d states states/states.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 states/states.geojson states/tl_2017_us_state.shp

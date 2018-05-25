@@ -35,7 +35,6 @@ for feature in data["features"]:
 	feature["id"] = "state_%s" % name
 
 	mapzen.whosonfirst.utils.ensure_bbox(feature)
-	feature["properties"]["area"] = area.area(feature["geometry"])
 
 	dirname = os.path.dirname(path)
 	if not os.path.exists(dirname):

@@ -168,6 +168,33 @@ def get_district_by_id(id):
 	cur.close()
 	return district
 
+def get_county_by_coords(lat, lng):
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT id, name, state, area_land, area_water, fips_id
+		FROM counties
+		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
+	'''.format(lat=lat, lng=lng))
+
+	rs = cur.fetchall()
+	state = None
+
+	if rs:
+		for row in rs:
+
+			county = {
+				'id': row[0],
+				'name': row[1],
+				'state': row[2],
+				'area_land': row[3],
+				'area_water': row[4],
+				'fips_id': row[5]
+			}
+
+	cur.close()
+	return county
+
 def get_legislators_by_state(state, session_num=115):
 
 	session = flask.g.sessions[session_num]
@@ -389,11 +416,12 @@ def get_congress(lat, lng):
 @app.route("/")
 def hello():
 	return '''
-		<pre>Hello, you probably want to use:
+<pre>Hello, you probably want to use:
 
 	<a href="/pip">/pip</a>
 	<a href="/pip_state">/pip_state</a>
 	<a href="/pip_congress">/pip_congress</a>
+	<a href="/pip_county">/pip_county</a>
 	<a href="/congress_district">/congress_district</a></pre>
 	'''
 
@@ -414,11 +442,13 @@ def pip():
 		del congress["ok"]
 
 	state = get_state_by_abbrev(congress['district']['state'])
+	county = get_county_by_coords(lat, lng)
 
 	return flask.jsonify({
 		'ok': 1,
 		'congress': congress,
-		'state': state
+		'state': state,
+		'county': county
 	})
 
 @app.route("/pip_state")
@@ -465,6 +495,31 @@ def congress():
 	return flask.jsonify({
 		'ok': 1,
 		'congress': rsp
+	})
+
+@app.route("/pip_county")
+def county():
+	req = get_lat_lng()
+
+	if type(req) == str:
+		return flask.jsonify({
+			'ok': 0,
+			'error': req
+		})
+
+	lat = req['lat']
+	lng = req['lng']
+
+	rsp = get_county_by_coords(lat, lng)
+	if rsp == None:
+		return flask.jsonify({
+			'ok': 0,
+			'error': 'No county found.'
+		})
+
+	return flask.jsonify({
+		'ok': 1,
+		'county': rsp
 	})
 
 @app.route("/congress_district")

@@ -1,4 +1,4 @@
-all: sessions districts legislators scores
+all: sessions districts legislators scores counties
 
 sessions:
 	python scripts/index_sessions.py
@@ -14,3 +14,6 @@ scores:
 
 states:
 	python scripts/index_states.py
+
+counties:
+	python scripts/index_counties.py

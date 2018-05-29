@@ -19,12 +19,12 @@ legislators:
 
 states:
 	mkdir -p states
-	curl -o states/states.zip http://www2.census.gov/geo/tiger/2017/STATE/tl_2017_us_state.zip
+	curl -o states/states.zip https://www2.census.gov/geo/tiger/TIGER2017/STATE/tl_2017_us_state.zip
 	unzip -d states states/states.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 states/states.geojson states/tl_2017_us_state.shp
 
 counties:
 	mkdir -p counties
-	curl -o counties/counties.zip http://www2.census.gov/geo/tiger/2017/COUNTY/tl_2017_us_county.zip
+	curl -o counties/counties.zip https://www2.census.gov/geo/tiger/TIGER2017/COUNTY/tl_2017_us_county.zip
 	unzip -d counties counties/counties.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 counties/counties.geojson counties/tl_2017_us_county.shp

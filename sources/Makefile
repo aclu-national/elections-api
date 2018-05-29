@@ -1,4 +1,4 @@
-all: districts_113 districts_116_pa legislators states counties
+all: districts_113 districts_116_pa legislators states counties state_leg
 
 districts_113:
 	mkdir -p districts_113
@@ -28,3 +28,7 @@ counties:
 	curl -o counties/counties.zip https://www2.census.gov/geo/tiger/TIGER2017/COUNTY/tl_2017_us_county.zip
 	unzip -d counties counties/counties.zip
 	ogr2ogr -f GeoJSON -t_srs crs:84 counties/counties.geojson counties/tl_2017_us_county.shp
+
+state_leg:
+	mkdir -p state_leg
+	scripts/source_state_leg.sh

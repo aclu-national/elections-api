@@ -88,7 +88,7 @@ cur.execute('''
 	SET boundary_geom = ST_SetSRID(ST_GeomFromGeoJSON(boundary), 4326)
 ''')
 cur.execute('''
-	CREATE INDEX counties_boundary_gix ON states USING GIST (boundary_geom)
+	CREATE INDEX counties_boundary_gix ON counties USING GIST (boundary_geom)
 ''')
 conn.commit()
 

@@ -1,4 +1,4 @@
-all: districts_113 districts_116_pa legislators states counties
+all: districts_113 districts_116_pa legislators states counties state_leg
 
 districts_113:
 	python ../scripts/build_districts_census.py --start 113 --end 115
@@ -14,3 +14,6 @@ states:
 
 counties:
 	python ../scripts/build_counties.py
+
+state_leg:
+	python ../scripts/build_state_leg.py

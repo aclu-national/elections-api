@@ -45,6 +45,8 @@ for path in files:
 		elif props["LSAD"] == "LL":
 			chamber = "lower"
 			district_num = props["SLDLST"]
+		else:
+			continue
 
 		name = "state_leg_%s_%s_%s" % (state, chamber, district_num)
 		path = "%s/%s/%s.geojson" % (data_dir, state, name)

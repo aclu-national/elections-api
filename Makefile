@@ -1,4 +1,4 @@
-all: sessions districts legislators scores counties state_leg
+all: sessions districts legislators scores states counties state_leg
 
 sessions:
 	python scripts/index_sessions.py

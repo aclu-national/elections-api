@@ -48,10 +48,10 @@ for feature in data["features"]:
 	state = us.states.lookup(state_geoid).abbr
 	state = str(state).lower()
 
-	id = "district_%s_%s_%s" % (session, state, district)
+	district_num = props[district_prop]
+	id = "district_%s_%s_%s" % (session, state, district_num)
 	name = "%s.geojson" % id
 	path = "%s/data/districts_%s/%s/%s" % (root_dir, session, state, name)
-	district_num = props[district_prop]
 
 	print("Saving %s" % path)
 

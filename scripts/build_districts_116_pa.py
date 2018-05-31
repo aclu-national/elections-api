@@ -27,10 +27,10 @@ for feature in data["features"]:
 	props = feature["properties"]
 	state = "pa"
 
-	district = int(props["DISTRICT"])
+	district_num = str(props["DISTRICT"])
 
-	name = "district_116_pa_%s.geojson" % district
-	path = "%s/data/districts_116_pa/%s" % (root_dir, district, name)
+	name = "district_116_pa_%s.geojson" % district_num
+	path = "%s/data/districts_116_pa/%s" % (root_dir, name)
 
 	print("Saving %s" % path)
 	feature["properties"] = {
@@ -39,9 +39,9 @@ for feature in data["features"]:
 		"start_date": sessions[116]["start_date"],
 		"end_session": 116,
 		"end_date": sessions[116]["end_date"],
-		"district_num": district
+		"district_num": district_num
 	}
-	feature["id"] = "districts_116_pa_%s" % district
+	feature["id"] = "districts_116_pa_%s" % district_num
 
 	mapzen.whosonfirst.utils.ensure_bbox(feature)
 	feature["properties"]["area"] = area.area(feature["geometry"])

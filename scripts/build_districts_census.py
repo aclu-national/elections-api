@@ -41,28 +41,28 @@ with open(path) as data_file:
 for feature in data["features"]:
 
 	props = feature["properties"]
-	state_fips = props["STATEFP"]
-	state = us.states.lookup(state_fips).abbr
-	state = str(state).lower()
-
 	if props[district_prop] == "ZZ":
 		continue
 
-	district = int(props[district_prop])
+	state_geoid = props["STATEFP"]
+	state = us.states.lookup(state_geoid).abbr
+	state = str(state).lower()
 
 	id = "district_%s_%s_%s" % (session, state, district)
 	name = "%s.geojson" % id
 	path = "%s/data/districts_%s/%s/%s" % (root_dir, session, state, name)
+	district_num = props[district_prop]
 
 	print("Saving %s" % path)
 
 	feature["properties"] = {
+		"geoid": props["GEOID"],
 		"state": state,
 		"start_session": options.start,
 		"start_date": sessions[options.start]["start_date"],
 		"end_session": options.end,
 		"end_date": sessions[options.end]["end_date"],
-		"district_num": district
+		"district_num": district_num
 	}
 	feature["id"] = id
 

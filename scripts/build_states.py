@@ -26,13 +26,13 @@ for feature in data["features"]:
 
 	print("Saving %s" % path)
 	feature["properties"] = {
+		"geoid": props["STATEFP"],
 		"state": state,
 		"name": props["NAME"],
 		"area_land": props["ALAND"],
-		"area_water": props["AWATER"],
-		"fips_id": props["STATEFP"]
+		"area_water": props["AWATER"]
 	}
-	feature["id"] = "state_%s" % name
+	feature["id"] = name
 
 	mapzen.whosonfirst.utils.ensure_bbox(feature)
 

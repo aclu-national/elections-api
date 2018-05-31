@@ -19,8 +19,8 @@ with open(path) as data_file:
 for feature in data["features"]:
 
 	props = feature["properties"]
-	state_fips = props["STATEFP"]
-	state = us.states.lookup(state_fips).abbr
+	state_geoid = props["STATEFP"]
+	state = us.states.lookup(state_geoid).abbr
 	state = str(state).lower()
 
 	slug = re.sub(r"[^a-zA-Z]+", '-', props["NAME"]).lower()
@@ -29,11 +29,11 @@ for feature in data["features"]:
 
 	print("Saving %s" % path)
 	feature["properties"] = {
+		"geoid": props["GEOID"],
 		"state": state,
 		"name": props["NAME"],
 		"area_land": props["ALAND"],
-		"area_water": props["AWATER"],
-		"fips_id": props["GEOID"]
+		"area_water": props["AWATER"]
 	}
 	feature["id"] = name
 

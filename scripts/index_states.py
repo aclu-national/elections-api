@@ -14,11 +14,11 @@ cur.execute("DROP TABLE IF EXISTS states CASCADE")
 cur.execute('''
 	CREATE TABLE states (
 		id SERIAL PRIMARY KEY,
+		geoid VARCHAR(255),
 		name VARCHAR(255),
 		state CHAR(2),
 		area_land BIGINT,
 		area_water BIGINT,
-		fips_id INTEGER,
 		boundary TEXT,
 		boundary_geom GEOMETRY
 	)''')
@@ -26,11 +26,11 @@ conn.commit()
 
 insert_sql = '''
 	INSERT INTO states (
+		geoid,
 		name,
 		state,
 		area_land,
 		area_water,
-		fips_id,
 		boundary
 	) VALUES (%s, %s, %s, %s, %s, %s)
 '''
@@ -59,20 +59,20 @@ for filename in files:
 	with open(path) as geojson:
 		feature = json.load(geojson)
 
+	geoid = feature["properties"]["geoid"]
 	name = feature["properties"]["name"]
 	state = feature["properties"]["state"]
 	area_land = int(feature["properties"]["area_land"])
 	area_water = int(feature["properties"]["area_water"])
-	fips_id = int(feature["properties"]["fips_id"])
 	geometry = feature["geometry"]
 	boundary = json.dumps(geometry)
 
 	state = [
+		geoid,
 		name,
 		state,
 		area_land,
 		area_water,
-		fips_id,
 		boundary
 	]
 	cur.execute(insert_sql, state)

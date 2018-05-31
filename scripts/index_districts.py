@@ -14,6 +14,7 @@ cur.execute("DROP TABLE IF EXISTS districts CASCADE")
 cur.execute('''
 	CREATE TABLE districts (
 		id SERIAL PRIMARY KEY,
+		geoid VARCHAR(255),
 		name VARCHAR(255),
 		state CHAR(2),
 		start_session INTEGER,
@@ -28,6 +29,7 @@ conn.commit()
 
 insert_sql = '''
 	INSERT INTO districts (
+		geoid,
 		name,
 		state,
 		start_session,
@@ -35,7 +37,7 @@ insert_sql = '''
 		district_num,
 		boundary,
 		area
-	) VALUES (%s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 directories = []
@@ -72,6 +74,7 @@ for dir in directories:
 		with open(path) as geojson:
 			feature = json.load(geojson)
 
+		geoid = feature["properties"]["geoid"]
 		name = feature["id"]
 		state = feature["properties"]["state"]
 		start_session = int(feature["properties"]["start_session"])
@@ -82,6 +85,7 @@ for dir in directories:
 		area = float(feature["properties"]["area"])
 
 		district = [
+			geoid,
 			name,
 			state,
 			start_session,

@@ -23,10 +23,10 @@ for subdir in os.listdir(source_dir):
 
 files.sort()
 
-for path in files:
+for filename in files:
 
-	print("Loading %s" % path)
-	with open(path) as data_file:
+	print("Loading %s" % filename)
+	with open(filename) as data_file:
 		data = json.load(data_file)
 
 	for feature in data["features"]:
@@ -39,13 +39,14 @@ for path in files:
 		chamber = "unknown"
 		district_num = "unknown"
 
-		if props["LSAD"] == "LU":
+		if filename.endswith("sldu.geojson"):
 			chamber = "upper"
 			district_num = props["SLDUST"]
-		elif props["LSAD"] == "LL":
+		elif filename.endswith("sldl.geojson"):
 			chamber = "lower"
 			district_num = props["SLDLST"]
 		else:
+			print("skipping %s" % path)
 			continue
 
 		name = "state_leg_%s_%s_%s" % (state, chamber, district_num)

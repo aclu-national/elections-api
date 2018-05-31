@@ -6,7 +6,7 @@
     "area_water":3142108,
     "chamber":"lower",
     "district_num":"100",
-    "fips_id":"09100",
+    "geoid":"09100",
     "name":"State House District 100",
     "state":"ct"
 },

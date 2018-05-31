@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"lower",
     "district_num":"003",
-    "fips_id":"09003",
+    "geoid":"09003",
     "name":"State House District 3",
     "state":"ct"
 },

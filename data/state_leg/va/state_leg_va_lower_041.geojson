@@ -6,7 +6,7 @@
     "area_water":500650,
     "chamber":"lower",
     "district_num":"041",
-    "fips_id":"51041",
+    "geoid":"51041",
     "name":"State House District 41",
     "state":"va"
 },

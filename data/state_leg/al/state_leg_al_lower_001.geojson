@@ -6,7 +6,7 @@
     "area_water":3500214,
     "chamber":"lower",
     "district_num":"001",
-    "fips_id":"01001",
+    "geoid":"01001",
     "name":"State House District 1",
     "state":"al"
 },

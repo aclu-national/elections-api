@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"lower",
     "district_num":"020",
-    "fips_id":"15020",
+    "geoid":"15020",
     "name":"State House District 20",
     "state":"hi"
 },

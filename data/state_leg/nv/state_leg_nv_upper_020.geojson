@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"upper",
     "district_num":"020",
-    "fips_id":"32020",
+    "geoid":"32020",
     "name":"State Senate District 20",
     "state":"nv"
 },

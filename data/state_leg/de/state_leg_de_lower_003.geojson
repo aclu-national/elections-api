@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"lower",
     "district_num":"003",
-    "fips_id":"10003",
+    "geoid":"10003",
     "name":"State House District 3",
     "state":"de"
 },

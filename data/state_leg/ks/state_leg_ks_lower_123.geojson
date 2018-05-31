@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"lower",
     "district_num":"123",
-    "fips_id":"20123",
+    "geoid":"20123",
     "name":"State House District 123",
     "state":"ks"
 },

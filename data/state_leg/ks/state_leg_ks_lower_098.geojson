@@ -6,7 +6,7 @@
     "area_water":1337679,
     "chamber":"lower",
     "district_num":"098",
-    "fips_id":"20098",
+    "geoid":"20098",
     "name":"State House District 98",
     "state":"ks"
 },

@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"upper",
     "district_num":"005",
-    "fips_id":"32005",
+    "geoid":"32005",
     "name":"State Senate District 5",
     "state":"nv"
 },

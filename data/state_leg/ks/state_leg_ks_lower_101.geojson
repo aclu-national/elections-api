@@ -6,7 +6,7 @@
     "area_water":40586386,
     "chamber":"lower",
     "district_num":"101",
-    "fips_id":"20101",
+    "geoid":"20101",
     "name":"State House District 101",
     "state":"ks"
 },

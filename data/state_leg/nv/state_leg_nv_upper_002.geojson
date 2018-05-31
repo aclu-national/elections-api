@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"upper",
     "district_num":"002",
-    "fips_id":"32002",
+    "geoid":"32002",
     "name":"State Senate District 2",
     "state":"nv"
 },

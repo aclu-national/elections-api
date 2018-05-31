@@ -6,7 +6,7 @@
     "area_water":0,
     "chamber":"lower",
     "district_num":"111",
-    "fips_id":"20111",
+    "geoid":"20111",
     "name":"State House District 111",
     "state":"ks"
 },

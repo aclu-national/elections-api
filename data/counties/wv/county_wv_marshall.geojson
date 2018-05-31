@@ -4,7 +4,7 @@
   "properties": {
     "area_land":791063503,
     "area_water":17411500,
-    "fips_id":"54051",
+    "geoid":"54051",
     "name":"Marshall",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1706344355,
     "area_water":1125276862,
-    "fips_id":"25023",
+    "geoid":"25023",
     "name":"Plymouth",
     "state":"ma"
 },

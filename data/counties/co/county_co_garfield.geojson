@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7634095739,
     "area_water":21408198,
-    "fips_id":"08045",
+    "geoid":"08045",
     "name":"Garfield",
     "state":"co"
 },

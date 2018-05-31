@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1617667694,
     "area_water":28107882,
-    "fips_id":"22041",
+    "geoid":"22041",
     "name":"Franklin",
     "state":"la"
 },

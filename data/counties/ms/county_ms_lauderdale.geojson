@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1822451131,
     "area_water":29787695,
-    "fips_id":"28075",
+    "geoid":"28075",
     "name":"Lauderdale",
     "state":"ms"
 },

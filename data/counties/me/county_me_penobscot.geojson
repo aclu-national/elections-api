@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8798662789,
     "area_water":414019982,
-    "fips_id":"23019",
+    "geoid":"23019",
     "name":"Penobscot",
     "state":"me"
 },

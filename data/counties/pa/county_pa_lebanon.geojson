@@ -4,7 +4,7 @@
   "properties": {
     "area_land":937138344,
     "area_water":1727921,
-    "fips_id":"42075",
+    "geoid":"42075",
     "name":"Lebanon",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1316572195,
     "area_water":45439419,
-    "fips_id":"47093",
+    "geoid":"47093",
     "name":"Knox",
     "state":"tn"
 },

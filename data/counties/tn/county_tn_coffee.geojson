@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1111017222,
     "area_water":14472637,
-    "fips_id":"47031",
+    "geoid":"47031",
     "name":"Coffee",
     "state":"tn"
 },

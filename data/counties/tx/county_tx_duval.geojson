@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4645085813,
     "area_water":5478267,
-    "fips_id":"48131",
+    "geoid":"48131",
     "name":"Duval",
     "state":"tx"
 },

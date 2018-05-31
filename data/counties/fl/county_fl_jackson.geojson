@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2378066857,
     "area_water":94243008,
-    "fips_id":"12063",
+    "geoid":"12063",
     "name":"Jackson",
     "state":"fl"
 },

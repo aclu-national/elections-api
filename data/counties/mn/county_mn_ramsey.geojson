@@ -4,7 +4,7 @@
   "properties": {
     "area_land":394086546,
     "area_water":46423262,
-    "fips_id":"27123",
+    "geoid":"27123",
     "name":"Ramsey",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6612400919,
     "area_water":156387635,
-    "fips_id":"06063",
+    "geoid":"06063",
     "name":"Plumas",
     "state":"ca"
 },

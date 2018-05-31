@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1756287150,
     "area_water":25019144,
-    "fips_id":"28157",
+    "geoid":"28157",
     "name":"Wilkinson",
     "state":"ms"
 },

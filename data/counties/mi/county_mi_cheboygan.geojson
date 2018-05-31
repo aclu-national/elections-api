@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1852552031,
     "area_water":440619039,
-    "fips_id":"26031",
+    "geoid":"26031",
     "name":"Cheboygan",
     "state":"mi"
 },

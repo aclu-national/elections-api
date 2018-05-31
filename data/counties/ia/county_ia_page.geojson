@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1385497544,
     "area_water":1359120,
-    "fips_id":"19145",
+    "geoid":"19145",
     "name":"Page",
     "state":"ia"
 },

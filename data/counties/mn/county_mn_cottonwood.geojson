@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1657445964,
     "area_water":22318968,
-    "fips_id":"27033",
+    "geoid":"27033",
     "name":"Cottonwood",
     "state":"mn"
 },

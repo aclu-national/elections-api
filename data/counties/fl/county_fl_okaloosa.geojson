@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2409367483,
     "area_water":393201898,
-    "fips_id":"12091",
+    "geoid":"12091",
     "name":"Okaloosa",
     "state":"fl"
 },

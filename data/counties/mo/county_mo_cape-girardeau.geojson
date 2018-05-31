@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1498398283,
     "area_water":20174864,
-    "fips_id":"29031",
+    "geoid":"29031",
     "name":"Cape Girardeau",
     "state":"mo"
 },

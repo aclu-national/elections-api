@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11070455501,
     "area_water":89161368,
-    "fips_id":"56001",
+    "geoid":"56001",
     "name":"Albany",
     "state":"wy"
 },

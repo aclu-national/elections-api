@@ -4,7 +4,7 @@
   "properties": {
     "area_land":24969533279,
     "area_water":44196979,
-    "fips_id":"32013",
+    "geoid":"32013",
     "name":"Humboldt",
     "state":"nv"
 },

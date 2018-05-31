@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1848771790,
     "area_water":4328965,
-    "fips_id":"17191",
+    "geoid":"17191",
     "name":"Wayne",
     "state":"il"
 },

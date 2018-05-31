@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1545009122,
     "area_water":17048126,
-    "fips_id":"01017",
+    "geoid":"01017",
     "name":"Chambers",
     "state":"al"
 },

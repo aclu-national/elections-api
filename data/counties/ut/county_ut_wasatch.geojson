@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3048467979,
     "area_water":79114523,
-    "fips_id":"49051",
+    "geoid":"49051",
     "name":"Wasatch",
     "state":"ut"
 },

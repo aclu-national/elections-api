@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1936830865,
     "area_water":46082217,
-    "fips_id":"27013",
+    "geoid":"27013",
     "name":"Blue Earth",
     "state":"mn"
 },

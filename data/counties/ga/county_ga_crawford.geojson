@@ -4,7 +4,7 @@
   "properties": {
     "area_land":841521994,
     "area_water":3988980,
-    "fips_id":"13079",
+    "geoid":"13079",
     "name":"Crawford",
     "state":"ga"
 },

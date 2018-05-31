@@ -4,7 +4,7 @@
   "properties": {
     "area_land":414050310,
     "area_water":5584870,
-    "fips_id":"21019",
+    "geoid":"21019",
     "name":"Boyd",
     "state":"ky"
 },

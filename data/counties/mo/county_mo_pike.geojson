@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1736428536,
     "area_water":36976453,
-    "fips_id":"29163",
+    "geoid":"29163",
     "name":"Pike",
     "state":"mo"
 },

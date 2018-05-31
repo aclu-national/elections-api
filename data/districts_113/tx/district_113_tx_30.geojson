@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":958549326.713609,
-    "district_num":30,
+    "district_num":"30",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"4830",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"tx"

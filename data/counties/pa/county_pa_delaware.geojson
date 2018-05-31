@@ -4,7 +4,7 @@
   "properties": {
     "area_land":476088135,
     "area_water":17572422,
-    "fips_id":"42045",
+    "geoid":"42045",
     "name":"Delaware",
     "state":"pa"
 },

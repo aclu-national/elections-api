@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5381129960,
     "area_water":182522236,
-    "fips_id":"38105",
+    "geoid":"38105",
     "name":"Williams",
     "state":"nd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9277050041,
     "area_water":18552011,
-    "fips_id":"32009",
+    "geoid":"32009",
     "name":"Esmeralda",
     "state":"nv"
 },

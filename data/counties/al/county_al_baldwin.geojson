@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4117605847,
     "area_water":1133109409,
-    "fips_id":"01003",
+    "geoid":"01003",
     "name":"Baldwin",
     "state":"al"
 },

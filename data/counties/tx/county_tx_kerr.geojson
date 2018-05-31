@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2857602924,
     "area_water":10246419,
-    "fips_id":"48265",
+    "geoid":"48265",
     "name":"Kerr",
     "state":"tx"
 },

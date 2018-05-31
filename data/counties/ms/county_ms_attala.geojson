@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1903529288,
     "area_water":4425860,
-    "fips_id":"28007",
+    "geoid":"28007",
     "name":"Attala",
     "state":"ms"
 },

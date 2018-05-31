@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2961121922,
     "area_water":24166737,
-    "fips_id":"20073",
+    "geoid":"20073",
     "name":"Greenwood",
     "state":"ks"
 },

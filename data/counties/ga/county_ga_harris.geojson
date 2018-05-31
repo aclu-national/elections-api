@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1201447999,
     "area_water":23502960,
-    "fips_id":"13145",
+    "geoid":"13145",
     "name":"Harris",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":766640653,
     "area_water":13190449,
-    "fips_id":"13149",
+    "geoid":"13149",
     "name":"Heard",
     "state":"ga"
 },

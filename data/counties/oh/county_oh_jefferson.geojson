@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1057248945,
     "area_water":7120755,
-    "fips_id":"39081",
+    "geoid":"39081",
     "name":"Jefferson",
     "state":"oh"
 },

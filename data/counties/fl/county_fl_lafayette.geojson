@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1407329163,
     "area_water":11745118,
-    "fips_id":"12067",
+    "geoid":"12067",
     "name":"Lafayette",
     "state":"fl"
 },

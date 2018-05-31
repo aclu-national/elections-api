@@ -4,7 +4,7 @@
   "properties": {
     "area_land":648883978,
     "area_water":1762701,
-    "fips_id":"51161",
+    "geoid":"51161",
     "name":"Roanoke",
     "state":"va"
 },

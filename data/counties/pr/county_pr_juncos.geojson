@@ -4,7 +4,7 @@
   "properties": {
     "area_land":68605410,
     "area_water":327694,
-    "fips_id":"72077",
+    "geoid":"72077",
     "name":"Juncos",
     "state":"pr"
 },

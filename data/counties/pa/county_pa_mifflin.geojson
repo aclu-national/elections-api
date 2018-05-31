@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1064602238,
     "area_water":9507398,
-    "fips_id":"42087",
+    "geoid":"42087",
     "name":"Mifflin",
     "state":"pa"
 },

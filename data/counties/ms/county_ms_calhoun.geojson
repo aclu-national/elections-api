@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1519218202,
     "area_water":3590395,
-    "fips_id":"28013",
+    "geoid":"28013",
     "name":"Calhoun",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4569240963,
     "area_water":89216874,
-    "fips_id":"16029",
+    "geoid":"16029",
     "name":"Caribou",
     "state":"id"
 },

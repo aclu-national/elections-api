@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4244087614,
     "area_water":5629244,
-    "fips_id":"41033",
+    "geoid":"41033",
     "name":"Josephine",
     "state":"or"
 },

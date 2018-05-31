@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4081450561,
     "area_water":497495823,
-    "fips_id":"06097",
+    "geoid":"06097",
     "name":"Sonoma",
     "state":"ca"
 },

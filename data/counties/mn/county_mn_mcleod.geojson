@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1272940264,
     "area_water":36370228,
-    "fips_id":"27085",
+    "geoid":"27085",
     "name":"McLeod",
     "state":"mn"
 },

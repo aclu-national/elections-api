@@ -4,7 +4,7 @@
   "properties": {
     "area_land":44890270,
     "area_water":149190,
-    "fips_id":"51660",
+    "geoid":"51660",
     "name":"Harrisonburg",
     "state":"va"
 },

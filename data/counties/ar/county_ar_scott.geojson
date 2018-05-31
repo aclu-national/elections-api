@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2311063525,
     "area_water":14887193,
-    "fips_id":"05127",
+    "geoid":"05127",
     "name":"Scott",
     "state":"ar"
 },

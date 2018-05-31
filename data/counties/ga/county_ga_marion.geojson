@@ -4,7 +4,7 @@
   "properties": {
     "area_land":947978209,
     "area_water":3791374,
-    "fips_id":"13197",
+    "geoid":"13197",
     "name":"Marion",
     "state":"ga"
 },

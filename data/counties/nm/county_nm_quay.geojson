@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7443334318,
     "area_water":18728804,
-    "fips_id":"35037",
+    "geoid":"35037",
     "name":"Quay",
     "state":"nm"
 },

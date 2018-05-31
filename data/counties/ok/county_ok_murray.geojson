@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1078624775,
     "area_water":22365113,
-    "fips_id":"40099",
+    "geoid":"40099",
     "name":"Murray",
     "state":"ok"
 },

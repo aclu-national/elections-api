@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1219467497,
     "area_water":35708902,
-    "fips_id":"40115",
+    "geoid":"40115",
     "name":"Ottawa",
     "state":"ok"
 },

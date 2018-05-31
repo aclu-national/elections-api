@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1546109507,
     "area_water":112285682,
-    "fips_id":"05089",
+    "geoid":"05089",
     "name":"Marion",
     "state":"ar"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1107496313,
     "area_water":8793984,
-    "fips_id":"31167",
+    "geoid":"31167",
     "name":"Stanton",
     "state":"ne"
 },

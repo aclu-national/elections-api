@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5764311447,
     "area_water":16969239,
-    "fips_id":"56015",
+    "geoid":"56015",
     "name":"Goshen",
     "state":"wy"
 },

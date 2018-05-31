@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1764949271,
     "area_water":15753610,
-    "fips_id":"46051",
+    "geoid":"46051",
     "name":"Grant",
     "state":"sd"
 },

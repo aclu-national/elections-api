@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1046298638,
     "area_water":14115819,
-    "fips_id":"18109",
+    "geoid":"18109",
     "name":"Morgan",
     "state":"in"
 },

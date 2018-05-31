@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1503893316,
     "area_water":14261786,
-    "fips_id":"45023",
+    "geoid":"45023",
     "name":"Chester",
     "state":"sc"
 },

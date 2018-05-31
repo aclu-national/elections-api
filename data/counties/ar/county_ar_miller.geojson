@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1620232433,
     "area_water":31271179,
-    "fips_id":"05091",
+    "geoid":"05091",
     "name":"Miller",
     "state":"ar"
 },

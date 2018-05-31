@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1647926085,
     "area_water":2599432,
-    "fips_id":"28129",
+    "geoid":"28129",
     "name":"Smith",
     "state":"ms"
 },

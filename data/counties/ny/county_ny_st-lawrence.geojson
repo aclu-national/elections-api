@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6939259769,
     "area_water":367915773,
-    "fips_id":"36089",
+    "geoid":"36089",
     "name":"St. Lawrence",
     "state":"ny"
 },

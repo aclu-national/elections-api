@@ -4,7 +4,7 @@
   "properties": {
     "area_land":118777657,
     "area_water":57795017,
-    "fips_id":"72145",
+    "geoid":"72145",
     "name":"Vega Baja",
     "state":"pr"
 },

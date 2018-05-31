@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1387786118,
     "area_water":8105331,
-    "fips_id":"51169",
+    "geoid":"51169",
     "name":"Scott",
     "state":"va"
 },

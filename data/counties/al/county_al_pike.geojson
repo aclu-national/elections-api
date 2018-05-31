@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1740647521,
     "area_water":2336975,
-    "fips_id":"01109",
+    "geoid":"01109",
     "name":"Pike",
     "state":"al"
 },

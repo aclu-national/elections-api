@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1467009545,
     "area_water":21106020,
-    "fips_id":"26037",
+    "geoid":"26037",
     "name":"Clinton",
     "state":"mi"
 },

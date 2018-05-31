@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1352439646,
     "area_water":823018,
-    "fips_id":"47129",
+    "geoid":"47129",
     "name":"Morgan",
     "state":"tn"
 },

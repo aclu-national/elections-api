@@ -4,7 +4,7 @@
   "properties": {
     "area_land":784468319,
     "area_water":13258106,
-    "fips_id":"21061",
+    "geoid":"21061",
     "name":"Edmonson",
     "state":"ky"
 },

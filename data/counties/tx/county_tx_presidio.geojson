@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9985057446,
     "area_water":1773188,
-    "fips_id":"48377",
+    "geoid":"48377",
     "name":"Presidio",
     "state":"tx"
 },

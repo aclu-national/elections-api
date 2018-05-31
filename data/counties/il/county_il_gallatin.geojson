@@ -4,7 +4,7 @@
   "properties": {
     "area_land":836749960,
     "area_water":13238356,
-    "fips_id":"17059",
+    "geoid":"17059",
     "name":"Gallatin",
     "state":"il"
 },

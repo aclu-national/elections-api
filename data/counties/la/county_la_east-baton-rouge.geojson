@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1179346038,
     "area_water":38556769,
-    "fips_id":"22033",
+    "geoid":"22033",
     "name":"East Baton Rouge",
     "state":"la"
 },

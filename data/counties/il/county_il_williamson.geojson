@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1088248004,
     "area_water":62617689,
-    "fips_id":"17199",
+    "geoid":"17199",
     "name":"Williamson",
     "state":"il"
 },

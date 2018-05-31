@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5883425292,
     "area_water":52657849,
-    "fips_id":"30099",
+    "geoid":"30099",
     "name":"Teton",
     "state":"mt"
 },

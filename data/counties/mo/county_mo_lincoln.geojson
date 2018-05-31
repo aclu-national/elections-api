@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1622786223,
     "area_water":36005143,
-    "fips_id":"29113",
+    "geoid":"29113",
     "name":"Lincoln",
     "state":"mo"
 },

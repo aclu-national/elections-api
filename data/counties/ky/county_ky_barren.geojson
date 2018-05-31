@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1262733192,
     "area_water":32260040,
-    "fips_id":"21009",
+    "geoid":"21009",
     "name":"Barren",
     "state":"ky"
 },

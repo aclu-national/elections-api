@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1376210232,
     "area_water":5959837,
-    "fips_id":"39063",
+    "geoid":"39063",
     "name":"Hancock",
     "state":"oh"
 },

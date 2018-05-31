@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4423290535,
     "area_water":203328338,
-    "fips_id":"06017",
+    "geoid":"06017",
     "name":"El Dorado",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1192765238,
     "area_water":54376835,
-    "fips_id":"34027",
+    "geoid":"34027",
     "name":"Morris",
     "state":"nj"
 },

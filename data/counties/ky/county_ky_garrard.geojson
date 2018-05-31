@@ -4,7 +4,7 @@
   "properties": {
     "area_land":595899383,
     "area_water":10017670,
-    "fips_id":"21079",
+    "geoid":"21079",
     "name":"Garrard",
     "state":"ky"
 },

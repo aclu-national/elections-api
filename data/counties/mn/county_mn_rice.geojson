@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1284224027,
     "area_water":52057387,
-    "fips_id":"27131",
+    "geoid":"27131",
     "name":"Rice",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2970364997,
     "area_water":94558771,
-    "fips_id":"55043",
+    "geoid":"55043",
     "name":"Grant",
     "state":"wi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1149926934,
     "area_water":2394188156,
-    "fips_id":"17097",
+    "geoid":"17097",
     "name":"Lake",
     "state":"il"
 },

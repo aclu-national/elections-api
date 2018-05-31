@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17214061674,
     "area_water":4843011,
-    "fips_id":"35053",
+    "geoid":"35053",
     "name":"Socorro",
     "state":"nm"
 },

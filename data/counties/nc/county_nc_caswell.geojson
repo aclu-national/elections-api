@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1101692694,
     "area_water":8643882,
-    "fips_id":"37033",
+    "geoid":"37033",
     "name":"Caswell",
     "state":"nc"
 },

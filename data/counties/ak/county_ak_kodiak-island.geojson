@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17134142683,
     "area_water":14166400752,
-    "fips_id":"02150",
+    "geoid":"02150",
     "name":"Kodiak Island",
     "state":"ak"
 },

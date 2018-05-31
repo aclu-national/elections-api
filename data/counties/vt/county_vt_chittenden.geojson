@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1389740233,
     "area_water":214237435,
-    "fips_id":"50007",
+    "geoid":"50007",
     "name":"Chittenden",
     "state":"vt"
 },

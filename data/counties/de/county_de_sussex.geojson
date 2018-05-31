@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2424522544,
     "area_water":674194633,
-    "fips_id":"10005",
+    "geoid":"10005",
     "name":"Sussex",
     "state":"de"
 },

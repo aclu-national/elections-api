@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3735952964,
     "area_water":64717114,
-    "fips_id":"36025",
+    "geoid":"36025",
     "name":"Delaware",
     "state":"ny"
 },

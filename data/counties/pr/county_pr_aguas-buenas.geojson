@@ -4,7 +4,7 @@
   "properties": {
     "area_land":77919490,
     "area_water":28383,
-    "fips_id":"72007",
+    "geoid":"72007",
     "name":"Aguas Buenas",
     "state":"pr"
 },

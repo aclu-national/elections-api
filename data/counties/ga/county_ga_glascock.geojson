@@ -4,7 +4,7 @@
   "properties": {
     "area_land":372284127,
     "area_water":1847843,
-    "fips_id":"13125",
+    "geoid":"13125",
     "name":"Glascock",
     "state":"ga"
 },

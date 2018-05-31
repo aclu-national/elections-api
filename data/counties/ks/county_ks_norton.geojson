@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2274122723,
     "area_water":8421464,
-    "fips_id":"20137",
+    "geoid":"20137",
     "name":"Norton",
     "state":"ks"
 },

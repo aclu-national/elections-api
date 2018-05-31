@@ -4,7 +4,7 @@
   "properties": {
     "area_land":85098741,
     "area_water":539090851,
-    "fips_id":"69100",
+    "geoid":"69100",
     "name":"Rota",
     "state":"mp"
 },

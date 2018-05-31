@@ -4,7 +4,7 @@
   "properties": {
     "area_land":828090979,
     "area_water":752714478,
-    "fips_id":"24039",
+    "geoid":"24039",
     "name":"Somerset",
     "state":"md"
 },

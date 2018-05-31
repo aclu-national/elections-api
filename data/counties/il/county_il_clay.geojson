@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1212958827,
     "area_water":3278251,
-    "fips_id":"17025",
+    "geoid":"17025",
     "name":"Clay",
     "state":"il"
 },

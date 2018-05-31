@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2328246701,
     "area_water":7283897,
-    "fips_id":"48151",
+    "geoid":"48151",
     "name":"Fisher",
     "state":"tx"
 },

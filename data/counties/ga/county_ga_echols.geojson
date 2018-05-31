@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1074571647,
     "area_water":15087403,
-    "fips_id":"13101",
+    "geoid":"13101",
     "name":"Echols",
     "state":"ga"
 },

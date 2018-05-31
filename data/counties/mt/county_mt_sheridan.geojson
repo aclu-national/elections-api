@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4340307007,
     "area_water":75071798,
-    "fips_id":"30091",
+    "geoid":"30091",
     "name":"Sheridan",
     "state":"mt"
 },

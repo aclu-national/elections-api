@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1871226040,
     "area_water":34193433,
-    "fips_id":"55109",
+    "geoid":"55109",
     "name":"St. Croix",
     "state":"wi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4727469721,
     "area_water":301107657,
-    "fips_id":"38061",
+    "geoid":"38061",
     "name":"Mountrail",
     "state":"nd"
 },

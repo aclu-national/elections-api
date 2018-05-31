@@ -4,7 +4,7 @@
   "properties": {
     "area_land":254699793,
     "area_water":16518583,
-    "fips_id":"21077",
+    "geoid":"21077",
     "name":"Gallatin",
     "state":"ky"
 },

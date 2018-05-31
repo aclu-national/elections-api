@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4110284976,
     "area_water":1963056852,
-    "fips_id":"23009",
+    "geoid":"23009",
     "name":"Hancock",
     "state":"me"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1575488090,
     "area_water":21138790,
-    "fips_id":"19061",
+    "geoid":"19061",
     "name":"Dubuque",
     "state":"ia"
 },

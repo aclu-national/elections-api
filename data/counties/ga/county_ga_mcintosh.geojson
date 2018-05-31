@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1099290158,
     "area_water":387088216,
-    "fips_id":"13191",
+    "geoid":"13191",
     "name":"McIntosh",
     "state":"ga"
 },

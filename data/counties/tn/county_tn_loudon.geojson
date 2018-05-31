@@ -4,7 +4,7 @@
   "properties": {
     "area_land":593760987,
     "area_water":46923925,
-    "fips_id":"47105",
+    "geoid":"47105",
     "name":"Loudon",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":511177578,
     "area_water":3859635,
-    "fips_id":"21173",
+    "geoid":"21173",
     "name":"Montgomery",
     "state":"ky"
 },

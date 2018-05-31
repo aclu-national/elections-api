@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1069192868,
     "area_water":18948340,
-    "fips_id":"39153",
+    "geoid":"39153",
     "name":"Summit",
     "state":"oh"
 },

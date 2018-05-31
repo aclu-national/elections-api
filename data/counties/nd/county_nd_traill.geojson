@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2232438250,
     "area_water":1462184,
-    "fips_id":"38097",
+    "geoid":"38097",
     "name":"Traill",
     "state":"nd"
 },

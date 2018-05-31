@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1842332253,
     "area_water":617233,
-    "fips_id":"27099",
+    "geoid":"27099",
     "name":"Mower",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3301307137,
     "area_water":39612943,
-    "fips_id":"36049",
+    "geoid":"36049",
     "name":"Lewis",
     "state":"ny"
 },

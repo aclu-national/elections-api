@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6820738870,
     "area_water":39856668,
-    "fips_id":"30111",
+    "geoid":"30111",
     "name":"Yellowstone",
     "state":"mt"
 },

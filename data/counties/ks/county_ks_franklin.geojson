@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1480855486,
     "area_water":13920174,
-    "fips_id":"20059",
+    "geoid":"20059",
     "name":"Franklin",
     "state":"ks"
 },

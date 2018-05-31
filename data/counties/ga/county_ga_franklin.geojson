@@ -4,7 +4,7 @@
   "properties": {
     "area_land":677294070,
     "area_water":12811302,
-    "fips_id":"13119",
+    "geoid":"13119",
     "name":"Franklin",
     "state":"ga"
 },

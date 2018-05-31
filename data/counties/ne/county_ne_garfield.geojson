@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474558345,
     "area_water":5321554,
-    "fips_id":"31071",
+    "geoid":"31071",
     "name":"Garfield",
     "state":"ne"
 },

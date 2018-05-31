@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1863226687,
     "area_water":2748359,
-    "fips_id":"20105",
+    "geoid":"20105",
     "name":"Lincoln",
     "state":"ks"
 },

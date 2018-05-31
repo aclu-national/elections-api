@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3606190671,
     "area_water":89046837,
-    "fips_id":"06077",
+    "geoid":"06077",
     "name":"San Joaquin",
     "state":"ca"
 },

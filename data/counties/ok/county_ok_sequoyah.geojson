@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1743779422,
     "area_water":105832791,
-    "fips_id":"40135",
+    "geoid":"40135",
     "name":"Sequoyah",
     "state":"ok"
 },

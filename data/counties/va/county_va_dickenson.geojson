@@ -4,7 +4,7 @@
   "properties": {
     "area_land":855845425,
     "area_water":8097296,
-    "fips_id":"51051",
+    "geoid":"51051",
     "name":"Dickenson",
     "state":"va"
 },

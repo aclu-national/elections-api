@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1225706339,
     "area_water":927963,
-    "fips_id":"19089",
+    "geoid":"19089",
     "name":"Howard",
     "state":"ia"
 },

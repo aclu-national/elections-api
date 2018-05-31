@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6919334579,
     "area_water":16956320,
-    "fips_id":"46063",
+    "geoid":"46063",
     "name":"Harding",
     "state":"sd"
 },

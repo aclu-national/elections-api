@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1507301123,
     "area_water":1428932,
-    "fips_id":"19069",
+    "geoid":"19069",
     "name":"Franklin",
     "state":"ia"
 },

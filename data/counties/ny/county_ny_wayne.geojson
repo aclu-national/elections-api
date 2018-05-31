@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1563903159,
     "area_water":2018194942,
-    "fips_id":"36117",
+    "geoid":"36117",
     "name":"Wayne",
     "state":"ny"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1752331448,
     "area_water":12418602,
-    "fips_id":"17091",
+    "geoid":"17091",
     "name":"Kankakee",
     "state":"il"
 },

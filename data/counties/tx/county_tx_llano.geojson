@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2419183499,
     "area_water":82373072,
-    "fips_id":"48299",
+    "geoid":"48299",
     "name":"Llano",
     "state":"tx"
 },

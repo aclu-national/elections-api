@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2980332860,
     "area_water":14608869,
-    "fips_id":"06011",
+    "geoid":"06011",
     "name":"Colusa",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1802951600,
     "area_water":50683945,
-    "fips_id":"12079",
+    "geoid":"12079",
     "name":"Madison",
     "state":"fl"
 },

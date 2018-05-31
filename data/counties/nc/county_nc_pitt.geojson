@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1689619168,
     "area_water":8248766,
-    "fips_id":"37147",
+    "geoid":"37147",
     "name":"Pitt",
     "state":"nc"
 },

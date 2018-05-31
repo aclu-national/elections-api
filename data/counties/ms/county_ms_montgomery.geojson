@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1054074717,
     "area_water":2352280,
-    "fips_id":"28097",
+    "geoid":"28097",
     "name":"Montgomery",
     "state":"ms"
 },

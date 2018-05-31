@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1852077339,
     "area_water":19323570,
-    "fips_id":"27105",
+    "geoid":"27105",
     "name":"Nobles",
     "state":"mn"
 },

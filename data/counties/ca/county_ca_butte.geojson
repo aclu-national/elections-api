@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4238438196,
     "area_water":105310997,
-    "fips_id":"06007",
+    "geoid":"06007",
     "name":"Butte",
     "state":"ca"
 },

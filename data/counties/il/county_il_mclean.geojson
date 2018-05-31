@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3064581023,
     "area_water":7842778,
-    "fips_id":"17113",
+    "geoid":"17113",
     "name":"McLean",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":606584079,
     "area_water":5857862,
-    "fips_id":"21213",
+    "geoid":"21213",
     "name":"Simpson",
     "state":"ky"
 },

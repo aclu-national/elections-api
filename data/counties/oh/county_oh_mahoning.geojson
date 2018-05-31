@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1065795297,
     "area_water":35434368,
-    "fips_id":"39099",
+    "geoid":"39099",
     "name":"Mahoning",
     "state":"oh"
 },

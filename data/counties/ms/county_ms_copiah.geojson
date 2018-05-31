@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2013048568,
     "area_water":5754986,
-    "fips_id":"28029",
+    "geoid":"28029",
     "name":"Copiah",
     "state":"ms"
 },

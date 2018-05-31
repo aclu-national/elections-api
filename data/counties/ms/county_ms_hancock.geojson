@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1227560683,
     "area_water":204096133,
-    "fips_id":"28045",
+    "geoid":"28045",
     "name":"Hancock",
     "state":"ms"
 },

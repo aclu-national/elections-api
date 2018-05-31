@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2165446362,
     "area_water":3368847813,
-    "fips_id":"26063",
+    "geoid":"26063",
     "name":"Huron",
     "state":"mi"
 },

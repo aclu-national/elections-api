@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474195902,
     "area_water":28714912,
-    "fips_id":"22049",
+    "geoid":"22049",
     "name":"Jackson",
     "state":"la"
 },

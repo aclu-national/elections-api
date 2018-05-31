@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1105416732,
     "area_water":10730756,
-    "fips_id":"21147",
+    "geoid":"21147",
     "name":"McCreary",
     "state":"ky"
 },

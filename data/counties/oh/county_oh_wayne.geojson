@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1437086621,
     "area_water":5055679,
-    "fips_id":"39169",
+    "geoid":"39169",
     "name":"Wayne",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4320445281,
     "area_water":355666719,
-    "fips_id":"53053",
+    "geoid":"53053",
     "name":"Pierce",
     "state":"wa"
 },

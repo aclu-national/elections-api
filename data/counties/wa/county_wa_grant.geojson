@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6939832890,
     "area_water":289982469,
-    "fips_id":"53025",
+    "geoid":"53025",
     "name":"Grant",
     "state":"wa"
 },

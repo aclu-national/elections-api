@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1631597803,
     "area_water":22434173,
-    "fips_id":"05015",
+    "geoid":"05015",
     "name":"Carroll",
     "state":"ar"
 },

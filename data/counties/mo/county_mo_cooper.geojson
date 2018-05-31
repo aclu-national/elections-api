@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1462738176,
     "area_water":11434005,
-    "fips_id":"29053",
+    "geoid":"29053",
     "name":"Cooper",
     "state":"mo"
 },

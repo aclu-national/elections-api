@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1096700779,
     "area_water":5353407,
-    "fips_id":"19003",
+    "geoid":"19003",
     "name":"Adams",
     "state":"ia"
 },

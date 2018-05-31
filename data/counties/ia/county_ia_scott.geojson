@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1186437866,
     "area_water":26222175,
-    "fips_id":"19163",
+    "geoid":"19163",
     "name":"Scott",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2320518307,
     "area_water":647342,
-    "fips_id":"20179",
+    "geoid":"20179",
     "name":"Sheridan",
     "state":"ks"
 },

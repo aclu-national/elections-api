@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1269664389,
     "area_water":6755317,
-    "fips_id":"51183",
+    "geoid":"51183",
     "name":"Sussex",
     "state":"va"
 },

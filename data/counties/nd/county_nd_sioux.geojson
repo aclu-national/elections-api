@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2833690974,
     "area_water":88449900,
-    "fips_id":"38085",
+    "geoid":"38085",
     "name":"Sioux",
     "state":"nd"
 },

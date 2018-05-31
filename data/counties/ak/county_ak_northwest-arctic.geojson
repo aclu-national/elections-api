@@ -4,7 +4,7 @@
   "properties": {
     "area_land":92326483031,
     "area_water":12878258897,
-    "fips_id":"02188",
+    "geoid":"02188",
     "name":"Northwest Arctic",
     "state":"ak"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1072272397,
     "area_water":82763611,
-    "fips_id":"13285",
+    "geoid":"13285",
     "name":"Troup",
     "state":"ga"
 },

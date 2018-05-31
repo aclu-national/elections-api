@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1299662664,
     "area_water":36635214,
-    "fips_id":"26051",
+    "geoid":"26051",
     "name":"Gladwin",
     "state":"mi"
 },

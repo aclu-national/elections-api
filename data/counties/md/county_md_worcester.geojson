@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1212832597,
     "area_water":586845178,
-    "fips_id":"24047",
+    "geoid":"24047",
     "name":"Worcester",
     "state":"md"
 },

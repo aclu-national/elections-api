@@ -4,7 +4,7 @@
   "properties": {
     "area_land":932572493,
     "area_water":15051916,
-    "fips_id":"54061",
+    "geoid":"54061",
     "name":"Monongalia",
     "state":"wv"
 },

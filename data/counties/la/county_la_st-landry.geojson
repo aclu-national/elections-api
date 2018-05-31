@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2392904508,
     "area_water":39047412,
-    "fips_id":"22097",
+    "geoid":"22097",
     "name":"St. Landry",
     "state":"la"
 },

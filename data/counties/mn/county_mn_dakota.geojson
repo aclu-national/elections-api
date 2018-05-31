@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1456715603,
     "area_water":63149548,
-    "fips_id":"27037",
+    "geoid":"27037",
     "name":"Dakota",
     "state":"mn"
 },

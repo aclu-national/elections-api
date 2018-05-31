@@ -4,7 +4,7 @@
   "properties": {
     "area_land":47090938928,
     "area_water":43207981,
-    "fips_id":"32023",
+    "geoid":"32023",
     "name":"Nye",
     "state":"nv"
 },

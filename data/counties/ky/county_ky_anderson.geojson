@@ -4,7 +4,7 @@
   "properties": {
     "area_land":522773659,
     "area_water":6311541,
-    "fips_id":"21005",
+    "geoid":"21005",
     "name":"Anderson",
     "state":"ky"
 },

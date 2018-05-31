@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1480106489,
     "area_water":16374155,
-    "fips_id":"20133",
+    "geoid":"20133",
     "name":"Neosho",
     "state":"ks"
 },

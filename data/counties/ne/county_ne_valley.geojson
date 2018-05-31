@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1471402787,
     "area_water":6076915,
-    "fips_id":"31175",
+    "geoid":"31175",
     "name":"Valley",
     "state":"ne"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1044067732,
     "area_water":18598434,
-    "fips_id":"36057",
+    "geoid":"36057",
     "name":"Montgomery",
     "state":"ny"
 },

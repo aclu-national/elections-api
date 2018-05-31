@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1123146087,
     "area_water":2291536,
-    "fips_id":"18131",
+    "geoid":"18131",
     "name":"Pulaski",
     "state":"in"
 },

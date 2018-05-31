@@ -4,7 +4,7 @@
   "properties": {
     "area_land":985870988,
     "area_water":44122247,
-    "fips_id":"21111",
+    "geoid":"21111",
     "name":"Jefferson",
     "state":"ky"
 },

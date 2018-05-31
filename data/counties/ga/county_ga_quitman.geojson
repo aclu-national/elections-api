@@ -4,7 +4,7 @@
   "properties": {
     "area_land":391703077,
     "area_water":24158294,
-    "fips_id":"13239",
+    "geoid":"13239",
     "name":"Quitman",
     "state":"ga"
 },

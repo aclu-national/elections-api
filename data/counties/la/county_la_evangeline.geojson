@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1715552082,
     "area_water":44665790,
-    "fips_id":"22039",
+    "geoid":"22039",
     "name":"Evangeline",
     "state":"la"
 },

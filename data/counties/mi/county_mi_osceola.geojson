@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1466836685,
     "area_water":17262767,
-    "fips_id":"26133",
+    "geoid":"26133",
     "name":"Osceola",
     "state":"mi"
 },

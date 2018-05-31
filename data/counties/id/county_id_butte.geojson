@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5792509562,
     "area_water":5260331,
-    "fips_id":"16023",
+    "geoid":"16023",
     "name":"Butte",
     "state":"id"
 },

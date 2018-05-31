@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1188473310,
     "area_water":12658077,
-    "fips_id":"50015",
+    "geoid":"50015",
     "name":"Lamoille",
     "state":"vt"
 },

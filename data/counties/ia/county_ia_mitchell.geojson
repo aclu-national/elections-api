@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1215049040,
     "area_water":1118415,
-    "fips_id":"19131",
+    "geoid":"19131",
     "name":"Mitchell",
     "state":"ia"
 },

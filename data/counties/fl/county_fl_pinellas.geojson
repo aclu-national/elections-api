@@ -4,7 +4,7 @@
   "properties": {
     "area_land":709243774,
     "area_water":865801424,
-    "fips_id":"12103",
+    "geoid":"12103",
     "name":"Pinellas",
     "state":"fl"
 },

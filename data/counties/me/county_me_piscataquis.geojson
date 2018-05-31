@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10259016062,
     "area_water":1080049539,
-    "fips_id":"23021",
+    "geoid":"23021",
     "name":"Piscataquis",
     "state":"me"
 },

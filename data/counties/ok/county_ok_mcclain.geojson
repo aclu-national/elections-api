@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478114523,
     "area_water":24734523,
-    "fips_id":"40087",
+    "geoid":"40087",
     "name":"McClain",
     "state":"ok"
 },

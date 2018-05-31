@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1149004930,
     "area_water":5659945,
-    "fips_id":"17033",
+    "geoid":"17033",
     "name":"Crawford",
     "state":"il"
 },

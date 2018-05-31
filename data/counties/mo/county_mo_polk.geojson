@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1646005964,
     "area_water":17838300,
-    "fips_id":"29167",
+    "geoid":"29167",
     "name":"Polk",
     "state":"mo"
 },

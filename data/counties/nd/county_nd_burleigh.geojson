@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4228239131,
     "area_water":92618423,
-    "fips_id":"38015",
+    "geoid":"38015",
     "name":"Burleigh",
     "state":"nd"
 },

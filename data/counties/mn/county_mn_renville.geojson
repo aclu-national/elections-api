@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2545744678,
     "area_water":10851893,
-    "fips_id":"27129",
+    "geoid":"27129",
     "name":"Renville",
     "state":"mn"
 },

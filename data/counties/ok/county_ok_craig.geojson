@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1971897017,
     "area_water":3697828,
-    "fips_id":"40035",
+    "geoid":"40035",
     "name":"Craig",
     "state":"ok"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8327941915,
     "area_water":41647897,
-    "fips_id":"41059",
+    "geoid":"41059",
     "name":"Umatilla",
     "state":"or"
 },

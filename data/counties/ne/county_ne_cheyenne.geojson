@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3098367767,
     "area_water":292549,
-    "fips_id":"31033",
+    "geoid":"31033",
     "name":"Cheyenne",
     "state":"ne"
 },

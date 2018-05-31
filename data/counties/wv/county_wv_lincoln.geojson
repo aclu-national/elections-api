@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1131925075,
     "area_water":4023478,
-    "fips_id":"54043",
+    "geoid":"54043",
     "name":"Lincoln",
     "state":"wv"
 },

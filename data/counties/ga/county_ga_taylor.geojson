@@ -4,7 +4,7 @@
   "properties": {
     "area_land":975612265,
     "area_water":7802363,
-    "fips_id":"13269",
+    "geoid":"13269",
     "name":"Taylor",
     "state":"ga"
 },

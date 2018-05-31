@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5422404947,
     "area_water":7126155,
-    "fips_id":"46102",
+    "geoid":"46102",
     "name":"Oglala Lakota",
     "state":"sd"
 },

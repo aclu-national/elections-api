@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1823463551,
     "area_water":125579913,
-    "fips_id":"29015",
+    "geoid":"29015",
     "name":"Benton",
     "state":"mo"
 },

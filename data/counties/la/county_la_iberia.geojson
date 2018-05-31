@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1486941064,
     "area_water":1182115493,
-    "fips_id":"22045",
+    "geoid":"22045",
     "name":"Iberia",
     "state":"la"
 },

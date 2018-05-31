@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1404983930,
     "area_water":8919620,
-    "fips_id":"18055",
+    "geoid":"18055",
     "name":"Greene",
     "state":"in"
 },

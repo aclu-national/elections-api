@@ -4,7 +4,7 @@
   "properties": {
     "area_land":830426508,
     "area_water":3228803,
-    "fips_id":"51113",
+    "geoid":"51113",
     "name":"Madison",
     "state":"va"
 },

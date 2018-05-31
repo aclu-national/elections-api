@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1354359268,
     "area_water":68954671,
-    "fips_id":"27157",
+    "geoid":"27157",
     "name":"Wabasha",
     "state":"mn"
 },

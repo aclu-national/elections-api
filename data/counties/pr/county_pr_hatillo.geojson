@@ -4,7 +4,7 @@
   "properties": {
     "area_land":108213684,
     "area_water":43975697,
-    "fips_id":"72065",
+    "geoid":"72065",
     "name":"Hatillo",
     "state":"pr"
 },

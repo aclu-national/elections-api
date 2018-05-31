@@ -4,7 +4,7 @@
   "properties": {
     "area_land":88144282,
     "area_water":111140897,
-    "fips_id":"72133",
+    "geoid":"72133",
     "name":"Santa Isabel",
     "state":"pr"
 },

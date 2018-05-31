@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1354083642,
     "area_water":27161700,
-    "fips_id":"36001",
+    "geoid":"36001",
     "name":"Albany",
     "state":"ny"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1401432378,
     "area_water":15767988,
-    "fips_id":"29069",
+    "geoid":"29069",
     "name":"Dunklin",
     "state":"mo"
 },

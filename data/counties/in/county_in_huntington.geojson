@@ -4,7 +4,7 @@
   "properties": {
     "area_land":991057049,
     "area_water":13133342,
-    "fips_id":"18069",
+    "geoid":"18069",
     "name":"Huntington",
     "state":"in"
 },

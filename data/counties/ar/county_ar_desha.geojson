@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1989461629,
     "area_water":133085432,
-    "fips_id":"05041",
+    "geoid":"05041",
     "name":"Desha",
     "state":"ar"
 },

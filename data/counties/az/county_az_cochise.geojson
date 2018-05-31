@@ -4,7 +4,7 @@
   "properties": {
     "area_land":15966166113,
     "area_water":137024922,
-    "fips_id":"04003",
+    "geoid":"04003",
     "name":"Cochise",
     "state":"az"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1482348668,
     "area_water":282998978,
-    "fips_id":"27095",
+    "geoid":"27095",
     "name":"Mille Lacs",
     "state":"mn"
 },

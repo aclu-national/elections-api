@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1524941287,
     "area_water":30470667,
-    "fips_id":"27143",
+    "geoid":"27143",
     "name":"Sibley",
     "state":"mn"
 },

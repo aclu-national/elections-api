@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12230067556,
     "area_water":51380263,
-    "fips_id":"35047",
+    "geoid":"35047",
     "name":"San Miguel",
     "state":"nm"
 },

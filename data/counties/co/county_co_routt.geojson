@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6117602774,
     "area_water":15831744,
-    "fips_id":"08107",
+    "geoid":"08107",
     "name":"Routt",
     "state":"co"
 },

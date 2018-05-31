@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1475894622,
     "area_water":5873828,
-    "fips_id":"19025",
+    "geoid":"19025",
     "name":"Calhoun",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1459513672,
     "area_water":19565477,
-    "fips_id":"31115",
+    "geoid":"31115",
     "name":"Loup",
     "state":"ne"
 },

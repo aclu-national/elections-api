@@ -4,7 +4,7 @@
   "properties": {
     "area_land":506035793,
     "area_water":56605066,
-    "fips_id":"13061",
+    "geoid":"13061",
     "name":"Clay",
     "state":"ga"
 },

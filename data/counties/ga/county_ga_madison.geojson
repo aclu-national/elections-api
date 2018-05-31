@@ -4,7 +4,7 @@
   "properties": {
     "area_land":731184825,
     "area_water":8484621,
-    "fips_id":"13195",
+    "geoid":"13195",
     "name":"Madison",
     "state":"ga"
 },

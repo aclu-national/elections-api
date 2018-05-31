@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1396430651,
     "area_water":12080001,
-    "fips_id":"47125",
+    "geoid":"47125",
     "name":"Montgomery",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1050092648,
     "area_water":4621138,
-    "fips_id":"39051",
+    "geoid":"39051",
     "name":"Fulton",
     "state":"oh"
 },

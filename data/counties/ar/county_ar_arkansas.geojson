@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2560988637,
     "area_water":116409463,
-    "fips_id":"05001",
+    "geoid":"05001",
     "name":"Arkansas",
     "state":"ar"
 },

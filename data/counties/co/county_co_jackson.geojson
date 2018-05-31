@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4179530271,
     "area_water":18750017,
-    "fips_id":"08057",
+    "geoid":"08057",
     "name":"Jackson",
     "state":"co"
 },

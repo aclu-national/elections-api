@@ -4,7 +4,7 @@
   "properties": {
     "area_land":983235165,
     "area_water":15627712,
-    "fips_id":"21211",
+    "geoid":"21211",
     "name":"Shelby",
     "state":"ky"
 },

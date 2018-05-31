@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2955528251,
     "area_water":13695174,
-    "fips_id":"40129",
+    "geoid":"40129",
     "name":"Roger Mills",
     "state":"ok"
 },

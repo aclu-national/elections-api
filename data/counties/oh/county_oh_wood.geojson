@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1598508447,
     "area_water":8545541,
-    "fips_id":"39173",
+    "geoid":"39173",
     "name":"Wood",
     "state":"oh"
 },

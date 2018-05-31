@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3179452304,
     "area_water":8828906,
-    "fips_id":"08023",
+    "geoid":"08023",
     "name":"Costilla",
     "state":"co"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1598356130,
     "area_water":2228678,
-    "fips_id":"47099",
+    "geoid":"47099",
     "name":"Lawrence",
     "state":"tn"
 },

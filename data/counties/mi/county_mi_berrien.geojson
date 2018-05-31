@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1470473558,
     "area_water":2625519926,
-    "fips_id":"26021",
+    "geoid":"26021",
     "name":"Berrien",
     "state":"mi"
 },

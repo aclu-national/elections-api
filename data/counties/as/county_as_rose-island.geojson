@@ -4,7 +4,7 @@
   "properties": {
     "area_land":82093,
     "area_water":147383995,
-    "fips_id":"60030",
+    "geoid":"60030",
     "name":"Rose Island",
     "state":"as"
 },

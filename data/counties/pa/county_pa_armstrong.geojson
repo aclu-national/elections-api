@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1691718473,
     "area_water":27625399,
-    "fips_id":"42005",
+    "geoid":"42005",
     "name":"Armstrong",
     "state":"pa"
 },

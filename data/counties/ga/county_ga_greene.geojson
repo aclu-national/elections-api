@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1003451710,
     "area_water":48630003,
-    "fips_id":"13133",
+    "geoid":"13133",
     "name":"Greene",
     "state":"ga"
 },

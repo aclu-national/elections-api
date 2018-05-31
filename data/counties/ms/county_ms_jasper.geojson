@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1751451429,
     "area_water":3181592,
-    "fips_id":"28061",
+    "geoid":"28061",
     "name":"Jasper",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1702454342,
     "area_water":6999605,
-    "fips_id":"18003",
+    "geoid":"18003",
     "name":"Allen",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":601027940,
     "area_water":1693768,
-    "fips_id":"13227",
+    "geoid":"13227",
     "name":"Pickens",
     "state":"ga"
 },

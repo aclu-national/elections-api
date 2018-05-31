@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2756538198,
     "area_water":77608623,
-    "fips_id":"22019",
+    "geoid":"22019",
     "name":"Calcasieu",
     "state":"la"
 },

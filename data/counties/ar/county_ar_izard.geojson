@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1503683620,
     "area_water":8913818,
-    "fips_id":"05065",
+    "geoid":"05065",
     "name":"Izard",
     "state":"ar"
 },

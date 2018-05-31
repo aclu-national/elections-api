@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1291397316,
     "area_water":829331,
-    "fips_id":"47049",
+    "geoid":"47049",
     "name":"Fentress",
     "state":"tn"
 },

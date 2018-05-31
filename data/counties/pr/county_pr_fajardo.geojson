@@ -4,7 +4,7 @@
   "properties": {
     "area_land":77448647,
     "area_water":195352764,
-    "fips_id":"72053",
+    "geoid":"72053",
     "name":"Fajardo",
     "state":"pr"
 },

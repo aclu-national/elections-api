@@ -4,7 +4,7 @@
   "properties": {
     "area_land":606875936,
     "area_water":2608208,
-    "fips_id":"21063",
+    "geoid":"21063",
     "name":"Elliott",
     "state":"ky"
 },

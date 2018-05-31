@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1162055133,
     "area_water":65130232,
-    "fips_id":"27079",
+    "geoid":"27079",
     "name":"Le Sueur",
     "state":"mn"
 },

@@ -1,10 +1,10 @@
 {
-  "id": "state_state_ny.geojson",
+  "id": "state_ny.geojson",
   "type": "Feature",
   "properties": {
     "area_land":122048992746,
     "area_water":19247151848,
-    "fips_id":"36",
+    "geoid":"36",
     "name":"New York",
     "state":"ny"
 },

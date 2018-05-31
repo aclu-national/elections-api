@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6210804109,
     "area_water":5225498,
-    "fips_id":"56045",
+    "geoid":"56045",
     "name":"Weston",
     "state":"wy"
 },

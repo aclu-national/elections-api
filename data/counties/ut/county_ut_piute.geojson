@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1964345915,
     "area_water":20285697,
-    "fips_id":"49031",
+    "geoid":"49031",
     "name":"Piute",
     "state":"ut"
 },

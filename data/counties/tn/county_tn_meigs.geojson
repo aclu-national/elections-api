@@ -4,7 +4,7 @@
   "properties": {
     "area_land":505397665,
     "area_water":55976974,
-    "fips_id":"47121",
+    "geoid":"47121",
     "name":"Meigs",
     "state":"tn"
 },

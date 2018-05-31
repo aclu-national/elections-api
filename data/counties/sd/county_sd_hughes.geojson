@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1920594002,
     "area_water":153254264,
-    "fips_id":"46065",
+    "geoid":"46065",
     "name":"Hughes",
     "state":"sd"
 },

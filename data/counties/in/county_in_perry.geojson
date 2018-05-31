@@ -4,7 +4,7 @@
   "properties": {
     "area_land":988669306,
     "area_water":11816977,
-    "fips_id":"18123",
+    "geoid":"18123",
     "name":"Perry",
     "state":"in"
 },

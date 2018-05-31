@@ -4,7 +4,7 @@
   "properties": {
     "area_land":660580685,
     "area_water":10752017,
-    "fips_id":"37105",
+    "geoid":"37105",
     "name":"Lee",
     "state":"nc"
 },

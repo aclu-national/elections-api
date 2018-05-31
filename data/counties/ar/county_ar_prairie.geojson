@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1678019592,
     "area_water":71807768,
-    "fips_id":"05117",
+    "geoid":"05117",
     "name":"Prairie",
     "state":"ar"
 },

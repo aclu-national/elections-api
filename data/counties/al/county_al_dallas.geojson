@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2534863481,
     "area_water":39131006,
-    "fips_id":"01047",
+    "geoid":"01047",
     "name":"Dallas",
     "state":"al"
 },

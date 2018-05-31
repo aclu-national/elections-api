@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1313733694,
     "area_water":79864241,
-    "fips_id":"46057",
+    "geoid":"46057",
     "name":"Hamlin",
     "state":"sd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":818323459,
     "area_water":4639329,
-    "fips_id":"42119",
+    "geoid":"42119",
     "name":"Union",
     "state":"pa"
 },

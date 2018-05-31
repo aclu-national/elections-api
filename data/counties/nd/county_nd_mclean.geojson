@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5466428300,
     "area_water":563112245,
-    "fips_id":"38055",
+    "geoid":"38055",
     "name":"McLean",
     "state":"nd"
 },

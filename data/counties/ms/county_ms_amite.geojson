@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1890950867,
     "area_water":3877823,
-    "fips_id":"28005",
+    "geoid":"28005",
     "name":"Amite",
     "state":"ms"
 },

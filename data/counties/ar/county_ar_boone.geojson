@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1528076369,
     "area_water":31092507,
-    "fips_id":"05009",
+    "geoid":"05009",
     "name":"Boone",
     "state":"ar"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1298162528,
     "area_water":10832504,
-    "fips_id":"13199",
+    "geoid":"13199",
     "name":"Meriwether",
     "state":"ga"
 },

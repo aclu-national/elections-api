@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2354581675,
     "area_water":12219587,
-    "fips_id":"48011",
+    "geoid":"48011",
     "name":"Armstrong",
     "state":"tx"
 },

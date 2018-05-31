@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2275500535,
     "area_water":8220933,
-    "fips_id":"27127",
+    "geoid":"27127",
     "name":"Redwood",
     "state":"mn"
 },

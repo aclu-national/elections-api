@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1450123401,
     "area_water":7276755,
-    "fips_id":"45049",
+    "geoid":"45049",
     "name":"Hampton",
     "state":"sc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1963699135,
     "area_water":416924547,
-    "fips_id":"55051",
+    "geoid":"55051",
     "name":"Iron",
     "state":"wi"
 },

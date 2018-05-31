@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1336511182,
     "area_water":20758112,
-    "fips_id":"18083",
+    "geoid":"18083",
     "name":"Knox",
     "state":"in"
 },

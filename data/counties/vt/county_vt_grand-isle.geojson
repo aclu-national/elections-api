@@ -4,7 +4,7 @@
   "properties": {
     "area_land":211881636,
     "area_water":292317315,
-    "fips_id":"50013",
+    "geoid":"50013",
     "name":"Grand Isle",
     "state":"vt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2444600820,
     "area_water":103429249,
-    "fips_id":"42071",
+    "geoid":"42071",
     "name":"Lancaster",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1973376983,
     "area_water":371063373,
-    "fips_id":"37133",
+    "geoid":"37133",
     "name":"Onslow",
     "state":"nc"
 },

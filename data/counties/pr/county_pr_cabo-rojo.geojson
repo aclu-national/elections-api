@@ -4,7 +4,7 @@
   "properties": {
     "area_land":182264459,
     "area_water":277228652,
-    "fips_id":"72023",
+    "geoid":"72023",
     "name":"Cabo Rojo",
     "state":"pr"
 },

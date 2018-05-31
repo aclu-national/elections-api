@@ -4,7 +4,7 @@
   "properties": {
     "area_land":957324105,
     "area_water":19452870,
-    "fips_id":"42095",
+    "geoid":"42095",
     "name":"Northampton",
     "state":"pa"
 },

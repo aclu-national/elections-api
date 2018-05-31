@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1075253055,
     "area_water":1805613,
-    "fips_id":"51091",
+    "geoid":"51091",
     "name":"Highland",
     "state":"va"
 },

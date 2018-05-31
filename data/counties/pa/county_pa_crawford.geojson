@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2621846809,
     "area_water":65303124,
-    "fips_id":"42039",
+    "geoid":"42039",
     "name":"Crawford",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1378212692,
     "area_water":23682282,
-    "fips_id":"39013",
+    "geoid":"39013",
     "name":"Belmont",
     "state":"oh"
 },

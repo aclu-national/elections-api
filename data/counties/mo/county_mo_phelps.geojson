@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1739898257,
     "area_water":6587831,
-    "fips_id":"29161",
+    "geoid":"29161",
     "name":"Phelps",
     "state":"mo"
 },

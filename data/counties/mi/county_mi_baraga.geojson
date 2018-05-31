@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2326929577,
     "area_water":441604239,
-    "fips_id":"26013",
+    "geoid":"26013",
     "name":"Baraga",
     "state":"mi"
 },

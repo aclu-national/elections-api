@@ -4,7 +4,7 @@
   "properties": {
     "area_land":14355492113,
     "area_water":78345297,
-    "fips_id":"30001",
+    "geoid":"30001",
     "name":"Beaverhead",
     "state":"mt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1960659281,
     "area_water":13928460,
-    "fips_id":"16067",
+    "geoid":"16067",
     "name":"Minidoka",
     "state":"id"
 },

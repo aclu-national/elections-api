@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2797720370,
     "area_water":21652733,
-    "fips_id":"01129",
+    "geoid":"01129",
     "name":"Washington",
     "state":"al"
 },

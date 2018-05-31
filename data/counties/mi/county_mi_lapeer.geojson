@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1668448345,
     "area_water":48310232,
-    "fips_id":"26087",
+    "geoid":"26087",
     "name":"Lapeer",
     "state":"mi"
 },

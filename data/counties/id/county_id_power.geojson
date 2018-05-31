@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3635879902,
     "area_water":99218111,
-    "fips_id":"16077",
+    "geoid":"16077",
     "name":"Power",
     "state":"id"
 },

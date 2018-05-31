@@ -4,7 +4,7 @@
   "properties": {
     "area_land":651357083,
     "area_water":969654879,
-    "fips_id":"39043",
+    "geoid":"39043",
     "name":"Erie",
     "state":"oh"
 },

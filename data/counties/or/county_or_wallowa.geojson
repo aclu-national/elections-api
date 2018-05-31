@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8147836572,
     "area_water":14191789,
-    "fips_id":"41063",
+    "geoid":"41063",
     "name":"Wallowa",
     "state":"or"
 },

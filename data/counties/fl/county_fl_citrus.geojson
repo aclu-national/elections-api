@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1507111917,
     "area_water":495578435,
-    "fips_id":"12017",
+    "geoid":"12017",
     "name":"Citrus",
     "state":"fl"
 },

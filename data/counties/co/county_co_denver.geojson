@@ -4,7 +4,7 @@
   "properties": {
     "area_land":397057845,
     "area_water":4236701,
-    "fips_id":"08031",
+    "geoid":"08031",
     "name":"Denver",
     "state":"co"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2046968026,
     "area_water":20644021,
-    "fips_id":"42051",
+    "geoid":"42051",
     "name":"Fayette",
     "state":"pa"
 },

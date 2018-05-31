@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1600758859,
     "area_water":2252736,
-    "fips_id":"17107",
+    "geoid":"17107",
     "name":"Logan",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1827283226,
     "area_water":37107132,
-    "fips_id":"20139",
+    "geoid":"20139",
     "name":"Osage",
     "state":"ks"
 },

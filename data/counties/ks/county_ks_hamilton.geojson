@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2580958344,
     "area_water":2893322,
-    "fips_id":"20075",
+    "geoid":"20075",
     "name":"Hamilton",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1447309647,
     "area_water":20304906,
-    "fips_id":"47009",
+    "geoid":"47009",
     "name":"Blount",
     "state":"tn"
 },

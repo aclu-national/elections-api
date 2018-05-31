@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1547386409,
     "area_water":13152108,
-    "fips_id":"16053",
+    "geoid":"16053",
     "name":"Jerome",
     "state":"id"
 },

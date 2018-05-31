@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2783425154,
     "area_water":288241,
-    "fips_id":"20193",
+    "geoid":"20193",
     "name":"Thomas",
     "state":"ks"
 },

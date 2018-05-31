@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1940958254,
     "area_water":69624105,
-    "fips_id":"40021",
+    "geoid":"40021",
     "name":"Cherokee",
     "state":"ok"
 },

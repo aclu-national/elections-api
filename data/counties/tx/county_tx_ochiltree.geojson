@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2376792102,
     "area_water":1331778,
-    "fips_id":"48357",
+    "geoid":"48357",
     "name":"Ochiltree",
     "state":"tx"
 },

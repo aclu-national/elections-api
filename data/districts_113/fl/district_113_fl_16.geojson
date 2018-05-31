@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":3103054497.144284,
-    "district_num":16,
+    "district_num":"16",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"1216",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"fl"

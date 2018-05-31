@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1890577548,
     "area_water":318053597,
-    "fips_id":"23027",
+    "geoid":"23027",
     "name":"Waldo",
     "state":"me"
 },

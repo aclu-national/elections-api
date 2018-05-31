@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1083947281,
     "area_water":32942668,
-    "fips_id":"28053",
+    "geoid":"28053",
     "name":"Humphreys",
     "state":"ms"
 },

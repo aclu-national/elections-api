@@ -4,7 +4,7 @@
   "properties": {
     "area_land":726147254,
     "area_water":8315719,
-    "fips_id":"13037",
+    "geoid":"13037",
     "name":"Calhoun",
     "state":"ga"
 },

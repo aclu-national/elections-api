@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1457893335,
     "area_water":31769730,
-    "fips_id":"46079",
+    "geoid":"46079",
     "name":"Lake",
     "state":"sd"
 },

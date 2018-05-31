@@ -4,7 +4,7 @@
   "properties": {
     "area_land":383225658,
     "area_water":2708194,
-    "fips_id":"18043",
+    "geoid":"18043",
     "name":"Floyd",
     "state":"in"
 },

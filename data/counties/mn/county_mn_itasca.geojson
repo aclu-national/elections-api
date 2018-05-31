@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6907775594,
     "area_water":675388758,
-    "fips_id":"27061",
+    "geoid":"27061",
     "name":"Itasca",
     "state":"mn"
 },

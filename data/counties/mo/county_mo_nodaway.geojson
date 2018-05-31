@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2271326597,
     "area_water":2361588,
-    "fips_id":"29147",
+    "geoid":"29147",
     "name":"Nodaway",
     "state":"mo"
 },

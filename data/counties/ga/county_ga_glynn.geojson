@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1086361034,
     "area_water":429423812,
-    "fips_id":"13127",
+    "geoid":"13127",
     "name":"Glynn",
     "state":"ga"
 },

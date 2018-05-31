@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1145557694,
     "area_water":487990588,
-    "fips_id":"26017",
+    "geoid":"26017",
     "name":"Bay",
     "state":"mi"
 },

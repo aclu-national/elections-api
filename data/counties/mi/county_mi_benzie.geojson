@@ -4,7 +4,7 @@
   "properties": {
     "area_land":828049220,
     "area_water":1398210900,
-    "fips_id":"26019",
+    "geoid":"26019",
     "name":"Benzie",
     "state":"mi"
 },

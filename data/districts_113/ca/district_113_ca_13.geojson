@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":378564692.191323,
-    "district_num":13,
+    "district_num":"13",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"0613",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"ca"

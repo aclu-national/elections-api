@@ -4,7 +4,7 @@
   "properties": {
     "area_land":600892978,
     "area_water":43242987,
-    "fips_id":"55091",
+    "geoid":"55091",
     "name":"Pepin",
     "state":"wi"
 },

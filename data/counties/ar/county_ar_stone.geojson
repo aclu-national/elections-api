@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1570579424,
     "area_water":7841928,
-    "fips_id":"05137",
+    "geoid":"05137",
     "name":"Stone",
     "state":"ar"
 },

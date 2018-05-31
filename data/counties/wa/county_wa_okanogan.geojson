@@ -4,7 +4,7 @@
   "properties": {
     "area_land":13639309300,
     "area_water":120452753,
-    "fips_id":"53047",
+    "geoid":"53047",
     "name":"Okanogan",
     "state":"wa"
 },

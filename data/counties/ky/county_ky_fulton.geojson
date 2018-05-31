@@ -4,7 +4,7 @@
   "properties": {
     "area_land":533358346,
     "area_water":64084949,
-    "fips_id":"21075",
+    "geoid":"21075",
     "name":"Fulton",
     "state":"ky"
 },

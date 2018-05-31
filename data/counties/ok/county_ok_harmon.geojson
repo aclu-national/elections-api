@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1391326397,
     "area_water":3800411,
-    "fips_id":"40057",
+    "geoid":"40057",
     "name":"Harmon",
     "state":"ok"
 },

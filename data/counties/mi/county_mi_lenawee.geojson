@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1941336570,
     "area_water":30687108,
-    "fips_id":"26091",
+    "geoid":"26091",
     "name":"Lenawee",
     "state":"mi"
 },

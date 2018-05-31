@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1170648844,
     "area_water":4424610,
-    "fips_id":"54085",
+    "geoid":"54085",
     "name":"Ritchie",
     "state":"wv"
 },

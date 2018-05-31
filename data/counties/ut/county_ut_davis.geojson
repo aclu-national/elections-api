@@ -4,7 +4,7 @@
   "properties": {
     "area_land":774500764,
     "area_water":870693260,
-    "fips_id":"49011",
+    "geoid":"49011",
     "name":"Davis",
     "state":"ut"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1123945963,
     "area_water":25218355,
-    "fips_id":"21125",
+    "geoid":"21125",
     "name":"Laurel",
     "state":"ky"
 },

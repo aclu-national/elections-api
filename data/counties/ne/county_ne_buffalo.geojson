@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2507344546,
     "area_water":18927907,
-    "fips_id":"31019",
+    "geoid":"31019",
     "name":"Buffalo",
     "state":"ne"
 },

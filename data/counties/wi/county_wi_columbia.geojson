@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1982754434,
     "area_water":78836820,
-    "fips_id":"55021",
+    "geoid":"55021",
     "name":"Columbia",
     "state":"wi"
 },

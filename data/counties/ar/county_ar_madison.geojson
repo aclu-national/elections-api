@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2160705134,
     "area_water":7320899,
-    "fips_id":"05087",
+    "geoid":"05087",
     "name":"Madison",
     "state":"ar"
 },

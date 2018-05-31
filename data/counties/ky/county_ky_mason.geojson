@@ -4,7 +4,7 @@
   "properties": {
     "area_land":621927922,
     "area_water":16277777,
-    "fips_id":"21161",
+    "geoid":"21161",
     "name":"Mason",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3886850342,
     "area_water":957039,
-    "fips_id":"48003",
+    "geoid":"48003",
     "name":"Andrews",
     "state":"tx"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1827987181,
     "area_water":25185424,
-    "fips_id":"36007",
+    "geoid":"36007",
     "name":"Broome",
     "state":"ny"
 },

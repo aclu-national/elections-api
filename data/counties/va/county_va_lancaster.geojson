@@ -4,7 +4,7 @@
   "properties": {
     "area_land":345240091,
     "area_water":254112966,
-    "fips_id":"51103",
+    "geoid":"51103",
     "name":"Lancaster",
     "state":"va"
 },

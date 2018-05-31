@@ -4,7 +4,7 @@
   "properties": {
     "area_land":14880984762,
     "area_water":2547651528,
-    "fips_id":"49003",
+    "geoid":"49003",
     "name":"Box Elder",
     "state":"ut"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2626878499,
     "area_water":83594186,
-    "fips_id":"55041",
+    "geoid":"55041",
     "name":"Forest",
     "state":"wi"
 },

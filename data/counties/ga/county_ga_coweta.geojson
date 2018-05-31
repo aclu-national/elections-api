@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1141973686,
     "area_water":12727950,
-    "fips_id":"13077",
+    "geoid":"13077",
     "name":"Coweta",
     "state":"ga"
 },

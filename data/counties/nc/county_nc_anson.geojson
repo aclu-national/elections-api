@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1376469217,
     "area_water":14612134,
-    "fips_id":"37007",
+    "geoid":"37007",
     "name":"Anson",
     "state":"nc"
 },

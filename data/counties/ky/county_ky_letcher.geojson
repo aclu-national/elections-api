@@ -4,7 +4,7 @@
   "properties": {
     "area_land":875192042,
     "area_water":2898572,
-    "fips_id":"21133",
+    "geoid":"21133",
     "name":"Letcher",
     "state":"ky"
 },

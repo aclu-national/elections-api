@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1053869826,
     "area_water":6814131,
-    "fips_id":"18005",
+    "geoid":"18005",
     "name":"Bartholomew",
     "state":"in"
 },

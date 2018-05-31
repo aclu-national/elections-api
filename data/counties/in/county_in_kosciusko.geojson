@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1376361579,
     "area_water":59509695,
-    "fips_id":"18085",
+    "geoid":"18085",
     "name":"Kosciusko",
     "state":"in"
 },

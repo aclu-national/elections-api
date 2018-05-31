@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2140348947,
     "area_water":27015775,
-    "fips_id":"29217",
+    "geoid":"29217",
     "name":"Vernon",
     "state":"mo"
 },

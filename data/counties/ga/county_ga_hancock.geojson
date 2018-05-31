@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1220058027,
     "area_water":17479750,
-    "fips_id":"13141",
+    "geoid":"13141",
     "name":"Hancock",
     "state":"ga"
 },

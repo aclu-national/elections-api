@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9798723679,
     "area_water":25612456,
-    "fips_id":"30017",
+    "geoid":"30017",
     "name":"Custer",
     "state":"mt"
 },

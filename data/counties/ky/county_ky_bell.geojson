@@ -4,7 +4,7 @@
   "properties": {
     "area_land":929806778,
     "area_water":5480741,
-    "fips_id":"21013",
+    "geoid":"21013",
     "name":"Bell",
     "state":"ky"
 },

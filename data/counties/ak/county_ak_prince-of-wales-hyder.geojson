@@ -4,7 +4,7 @@
   "properties": {
     "area_land":13630288113,
     "area_water":14625197420,
-    "fips_id":"02198",
+    "geoid":"02198",
     "name":"Prince of Wales-Hyder",
     "state":"ak"
 },

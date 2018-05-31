@@ -1,10 +1,10 @@
 {
-  "id": "state_state_de.geojson",
+  "id": "state_de.geojson",
   "type": "Feature",
   "properties": {
     "area_land":5047241079,
     "area_water":1398670234,
-    "fips_id":"10",
+    "geoid":"10",
     "name":"Delaware",
     "state":"de"
 },

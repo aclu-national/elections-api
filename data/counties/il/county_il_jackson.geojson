@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1512739207,
     "area_water":47416095,
-    "fips_id":"17077",
+    "geoid":"17077",
     "name":"Jackson",
     "state":"il"
 },

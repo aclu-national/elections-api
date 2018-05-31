@@ -4,7 +4,7 @@
   "properties": {
     "area_land":784793323,
     "area_water":9278537,
-    "fips_id":"13167",
+    "geoid":"13167",
     "name":"Johnson",
     "state":"ga"
 },

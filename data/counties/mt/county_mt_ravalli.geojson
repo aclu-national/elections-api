@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6192612337,
     "area_water":24251907,
-    "fips_id":"30081",
+    "geoid":"30081",
     "name":"Ravalli",
     "state":"mt"
 },

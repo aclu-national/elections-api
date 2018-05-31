@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1674232803,
     "area_water":29822303,
-    "fips_id":"17179",
+    "geoid":"17179",
     "name":"Tazewell",
     "state":"il"
 },

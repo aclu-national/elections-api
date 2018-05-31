@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12629288,
     "area_water":5619250,
-    "fips_id":"72033",
+    "geoid":"72033",
     "name":"Cata\u00f1o",
     "state":"pr"
 },

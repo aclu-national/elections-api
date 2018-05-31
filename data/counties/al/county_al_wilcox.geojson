@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2301075110,
     "area_water":49057525,
-    "fips_id":"01131",
+    "geoid":"01131",
     "name":"Wilcox",
     "state":"al"
 },

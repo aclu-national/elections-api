@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6396478456,
     "area_water":155287099,
-    "fips_id":"46031",
+    "geoid":"46031",
     "name":"Corson",
     "state":"sd"
 },

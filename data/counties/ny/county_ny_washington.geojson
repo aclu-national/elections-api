@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2152713677,
     "area_water":38126891,
-    "fips_id":"36115",
+    "geoid":"36115",
     "name":"Washington",
     "state":"ny"
 },

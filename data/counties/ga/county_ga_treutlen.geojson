@@ -4,7 +4,7 @@
   "properties": {
     "area_land":516529395,
     "area_water":7805621,
-    "fips_id":"13283",
+    "geoid":"13283",
     "name":"Treutlen",
     "state":"ga"
 },

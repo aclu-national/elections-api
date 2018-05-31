@@ -4,7 +4,7 @@
   "properties": {
     "area_land":622448679,
     "area_water":181112904,
-    "fips_id":"37029",
+    "geoid":"37029",
     "name":"Camden",
     "state":"nc"
 },

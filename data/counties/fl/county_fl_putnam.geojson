@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1885167090,
     "area_water":256548320,
-    "fips_id":"12107",
+    "geoid":"12107",
     "name":"Putnam",
     "state":"fl"
 },

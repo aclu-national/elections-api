@@ -4,7 +4,7 @@
   "properties": {
     "area_land":861936841,
     "area_water":9315386,
-    "fips_id":"21137",
+    "geoid":"21137",
     "name":"Lincoln",
     "state":"ky"
 },

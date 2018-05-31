@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2074125052,
     "area_water":56939082,
-    "fips_id":"55097",
+    "geoid":"55097",
     "name":"Portage",
     "state":"wi"
 },

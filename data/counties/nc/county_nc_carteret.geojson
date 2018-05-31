@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1314749435,
     "area_water":2131001182,
-    "fips_id":"37031",
+    "geoid":"37031",
     "name":"Carteret",
     "state":"nc"
 },

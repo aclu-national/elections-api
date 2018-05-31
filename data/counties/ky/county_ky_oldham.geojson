@@ -4,7 +4,7 @@
   "properties": {
     "area_land":484931825,
     "area_water":23831645,
-    "fips_id":"21185",
+    "geoid":"21185",
     "name":"Oldham",
     "state":"ky"
 },

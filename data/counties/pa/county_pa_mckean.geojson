@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2536105992,
     "area_water":13010718,
-    "fips_id":"42083",
+    "geoid":"42083",
     "name":"McKean",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":892135587,
     "area_water":25884322,
-    "fips_id":"21089",
+    "geoid":"21089",
     "name":"Greenup",
     "state":"ky"
 },

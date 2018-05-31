@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2019824136,
     "area_water":52913372,
-    "fips_id":"05097",
+    "geoid":"05097",
     "name":"Montgomery",
     "state":"ar"
 },

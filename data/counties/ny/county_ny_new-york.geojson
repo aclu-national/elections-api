@@ -4,7 +4,7 @@
   "properties": {
     "area_land":58681329,
     "area_water":28550878,
-    "fips_id":"36061",
+    "geoid":"36061",
     "name":"New York",
     "state":"ny"
 },

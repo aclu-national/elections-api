@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2936469292,
     "area_water":8257078,
-    "fips_id":"42117",
+    "geoid":"42117",
     "name":"Tioga",
     "state":"pa"
 },

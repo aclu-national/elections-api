@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1115031328,
     "area_water":179949077,
-    "fips_id":"36119",
+    "geoid":"36119",
     "name":"Westchester",
     "state":"ny"
 },

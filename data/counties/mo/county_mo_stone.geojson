@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1201843614,
     "area_water":121059169,
-    "fips_id":"29209",
+    "geoid":"29209",
     "name":"Stone",
     "state":"mo"
 },

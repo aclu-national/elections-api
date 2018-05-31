@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1512664667,
     "area_water":1315749,
-    "fips_id":"55045",
+    "geoid":"55045",
     "name":"Green",
     "state":"wi"
 },

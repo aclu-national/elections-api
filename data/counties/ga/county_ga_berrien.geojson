@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1170501546,
     "area_water":15409110,
-    "fips_id":"13019",
+    "geoid":"13019",
     "name":"Berrien",
     "state":"ga"
 },

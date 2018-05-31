@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1453311031,
     "area_water":4016457,
-    "fips_id":"01045",
+    "geoid":"01045",
     "name":"Dale",
     "state":"al"
 },

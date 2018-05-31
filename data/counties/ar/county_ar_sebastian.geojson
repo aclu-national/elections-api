@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1377601663,
     "area_water":39693809,
-    "fips_id":"05131",
+    "geoid":"05131",
     "name":"Sebastian",
     "state":"ar"
 },

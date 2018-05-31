@@ -4,7 +4,7 @@
   "properties": {
     "area_land":746121490,
     "area_water":708705,
-    "fips_id":"17175",
+    "geoid":"17175",
     "name":"Stark",
     "state":"il"
 },

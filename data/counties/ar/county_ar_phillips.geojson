@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1801429477,
     "area_water":82378714,
-    "fips_id":"05107",
+    "geoid":"05107",
     "name":"Phillips",
     "state":"ar"
 },

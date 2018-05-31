@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1443578140,
     "area_water":22073649,
-    "fips_id":"31025",
+    "geoid":"31025",
     "name":"Cass",
     "state":"ne"
 },

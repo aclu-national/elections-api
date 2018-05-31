@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1639040857,
     "area_water":19778906,
-    "fips_id":"40133",
+    "geoid":"40133",
     "name":"Seminole",
     "state":"ok"
 },

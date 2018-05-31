@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1307092462,
     "area_water":18528245,
-    "fips_id":"29045",
+    "geoid":"29045",
     "name":"Clark",
     "state":"mo"
 },

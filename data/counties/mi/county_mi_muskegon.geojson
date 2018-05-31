@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1298494539,
     "area_water":2482949902,
-    "fips_id":"26121",
+    "geoid":"26121",
     "name":"Muskegon",
     "state":"mi"
 },

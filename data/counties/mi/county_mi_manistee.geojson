@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1404616462,
     "area_water":1912440724,
-    "fips_id":"26101",
+    "geoid":"26101",
     "name":"Manistee",
     "state":"mi"
 },

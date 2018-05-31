@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2952065876,
     "area_water":43985815,
-    "fips_id":"48311",
+    "geoid":"48311",
     "name":"McMullen",
     "state":"tx"
 },

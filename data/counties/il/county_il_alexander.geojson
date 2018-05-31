@@ -4,7 +4,7 @@
   "properties": {
     "area_land":609996941,
     "area_water":44237191,
-    "fips_id":"17003",
+    "geoid":"17003",
     "name":"Alexander",
     "state":"il"
 },

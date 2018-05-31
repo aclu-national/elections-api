@@ -1,10 +1,10 @@
 {
-  "id": "state_state_az.geojson",
+  "id": "state_az.geojson",
   "type": "Feature",
   "properties": {
     "area_land":294198661567,
     "area_water":1027245114,
-    "fips_id":"04",
+    "geoid":"04",
     "name":"Arizona",
     "state":"az"
 },

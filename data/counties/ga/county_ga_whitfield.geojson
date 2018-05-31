@@ -4,7 +4,7 @@
   "properties": {
     "area_land":752293512,
     "area_water":1533754,
-    "fips_id":"13313",
+    "geoid":"13313",
     "name":"Whitfield",
     "state":"ga"
 },

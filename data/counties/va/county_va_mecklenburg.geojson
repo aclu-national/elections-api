@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1619956537,
     "area_water":139243978,
-    "fips_id":"51117",
+    "geoid":"51117",
     "name":"Mecklenburg",
     "state":"va"
 },

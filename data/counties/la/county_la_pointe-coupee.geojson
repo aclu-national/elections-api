@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1443519879,
     "area_water":86418272,
-    "fips_id":"22077",
+    "geoid":"22077",
     "name":"Pointe Coupee",
     "state":"la"
 },

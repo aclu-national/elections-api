@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1838170316,
     "area_water":72317570,
-    "fips_id":"32005",
+    "geoid":"32005",
     "name":"Douglas",
     "state":"nv"
 },

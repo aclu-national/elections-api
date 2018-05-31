@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1096505111,
     "area_water":24893716,
-    "fips_id":"27161",
+    "geoid":"27161",
     "name":"Waseca",
     "state":"mn"
 },

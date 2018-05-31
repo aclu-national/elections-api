@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2384058125,
     "area_water":62393362,
-    "fips_id":"09005",
+    "geoid":"09005",
     "name":"Litchfield",
     "state":"ct"
 },

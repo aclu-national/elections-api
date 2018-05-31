@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2007453829,
     "area_water":229068,
-    "fips_id":"48079",
+    "geoid":"48079",
     "name":"Cochran",
     "state":"tx"
 },

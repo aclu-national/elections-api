@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2287828022,
     "area_water":2840176,
-    "fips_id":"31135",
+    "geoid":"31135",
     "name":"Perkins",
     "state":"ne"
 },

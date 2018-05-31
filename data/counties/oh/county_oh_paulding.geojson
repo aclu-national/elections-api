@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1078561239,
     "area_water":6245392,
-    "fips_id":"39125",
+    "geoid":"39125",
     "name":"Paulding",
     "state":"oh"
 },

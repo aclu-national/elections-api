@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1283234678,
     "area_water":96916405,
-    "fips_id":"36035",
+    "geoid":"36035",
     "name":"Fulton",
     "state":"ny"
 },

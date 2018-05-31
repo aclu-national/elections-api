@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12512530204,
     "area_water":554703,
-    "fips_id":"35027",
+    "geoid":"35027",
     "name":"Lincoln",
     "state":"nm"
 },

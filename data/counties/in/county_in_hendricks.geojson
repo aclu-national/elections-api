@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1053849206,
     "area_water":4880843,
-    "fips_id":"18063",
+    "geoid":"18063",
     "name":"Hendricks",
     "state":"in"
 },

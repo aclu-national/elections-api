@@ -1,10 +1,10 @@
 {
-  "id": "state_state_pr.geojson",
+  "id": "state_pr.geojson",
   "type": "Feature",
   "properties": {
     "area_land":8868734851,
     "area_water":4922543816,
-    "fips_id":"72",
+    "geoid":"72",
     "name":"Puerto Rico",
     "state":"pr"
 },

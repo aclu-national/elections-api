@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1276698028,
     "area_water":6142605,
-    "fips_id":"36037",
+    "geoid":"36037",
     "name":"Genesee",
     "state":"ny"
 },

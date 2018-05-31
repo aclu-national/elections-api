@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1566544636,
     "area_water":1600679,
-    "fips_id":"01075",
+    "geoid":"01075",
     "name":"Lamar",
     "state":"al"
 },

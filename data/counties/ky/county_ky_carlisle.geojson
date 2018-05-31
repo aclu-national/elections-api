@@ -4,7 +4,7 @@
   "properties": {
     "area_land":490632724,
     "area_water":24722530,
-    "fips_id":"21039",
+    "geoid":"21039",
     "name":"Carlisle",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12770128151,
     "area_water":242405502,
-    "fips_id":"32001",
+    "geoid":"32001",
     "name":"Churchill",
     "state":"nv"
 },

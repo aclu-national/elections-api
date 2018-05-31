@@ -4,7 +4,7 @@
   "properties": {
     "area_land":416283948,
     "area_water":5707989,
-    "fips_id":"13013",
+    "geoid":"13013",
     "name":"Barrow",
     "state":"ga"
 },

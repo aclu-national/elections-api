@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474404199,
     "area_water":2597996,
-    "fips_id":"19001",
+    "geoid":"19001",
     "name":"Adair",
     "state":"ia"
 },

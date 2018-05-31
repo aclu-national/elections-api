@@ -4,7 +4,7 @@
   "properties": {
     "area_land":849173054,
     "area_water":3502975,
-    "fips_id":"54057",
+    "geoid":"54057",
     "name":"Mineral",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1039771765,
     "area_water":33231063,
-    "fips_id":"51177",
+    "geoid":"51177",
     "name":"Spotsylvania",
     "state":"va"
 },

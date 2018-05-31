@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4941709205,
     "area_water":3537550,
-    "fips_id":"35049",
+    "geoid":"35049",
     "name":"Santa Fe",
     "state":"nm"
 },

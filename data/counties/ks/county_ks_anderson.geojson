@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1501277564,
     "area_water":10586104,
-    "fips_id":"20003",
+    "geoid":"20003",
     "name":"Anderson",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1093331712,
     "area_water":14931771,
-    "fips_id":"24001",
+    "geoid":"24001",
     "name":"Allegany",
     "state":"md"
 },

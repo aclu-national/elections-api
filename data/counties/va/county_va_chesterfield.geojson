@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1096572169,
     "area_water":35123317,
-    "fips_id":"51041",
+    "geoid":"51041",
     "name":"Chesterfield",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1442901129,
     "area_water":3930429,
-    "fips_id":"47113",
+    "geoid":"47113",
     "name":"Madison",
     "state":"tn"
 },

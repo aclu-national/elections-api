@@ -4,7 +4,7 @@
   "properties": {
     "area_land":14163308,
     "area_water":522024,
-    "fips_id":"51580",
+    "geoid":"51580",
     "name":"Covington",
     "state":"va"
 },

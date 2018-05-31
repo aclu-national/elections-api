@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1068313096,
     "area_water":13912256,
-    "fips_id":"21099",
+    "geoid":"21099",
     "name":"Hart",
     "state":"ky"
 },

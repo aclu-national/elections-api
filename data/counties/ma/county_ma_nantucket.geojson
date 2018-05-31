@@ -4,7 +4,7 @@
   "properties": {
     "area_land":119431680,
     "area_water":667032050,
-    "fips_id":"25019",
+    "geoid":"25019",
     "name":"Nantucket",
     "state":"ma"
 },

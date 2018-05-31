@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1503973504,
     "area_water":13409564,
-    "fips_id":"17115",
+    "geoid":"17115",
     "name":"Macon",
     "state":"il"
 },

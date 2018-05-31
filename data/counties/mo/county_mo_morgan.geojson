@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1547854690,
     "area_water":42426936,
-    "fips_id":"29141",
+    "geoid":"29141",
     "name":"Morgan",
     "state":"mo"
 },

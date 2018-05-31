@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1406413317,
     "area_water":8425393,
-    "fips_id":"17061",
+    "geoid":"17061",
     "name":"Greene",
     "state":"il"
 },

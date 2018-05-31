@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1049119206,
     "area_water":461117,
-    "fips_id":"18023",
+    "geoid":"18023",
     "name":"Clinton",
     "state":"in"
 },

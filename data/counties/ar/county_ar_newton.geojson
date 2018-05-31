@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2126136365,
     "area_water":5930177,
-    "fips_id":"05101",
+    "geoid":"05101",
     "name":"Newton",
     "state":"ar"
 },

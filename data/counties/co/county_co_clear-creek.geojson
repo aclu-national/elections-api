@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1023560263,
     "area_water":3274894,
-    "fips_id":"08019",
+    "geoid":"08019",
     "name":"Clear Creek",
     "state":"co"
 },

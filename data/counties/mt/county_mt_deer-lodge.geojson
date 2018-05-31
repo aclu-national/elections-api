@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1907999319,
     "area_water":12199471,
-    "fips_id":"30023",
+    "geoid":"30023",
     "name":"Deer Lodge",
     "state":"mt"
 },

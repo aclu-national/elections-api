@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4395190350,
     "area_water":121369621,
-    "fips_id":"23007",
+    "geoid":"23007",
     "name":"Franklin",
     "state":"me"
 },

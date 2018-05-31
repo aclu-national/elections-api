@@ -4,7 +4,7 @@
   "properties": {
     "area_land":899632962,
     "area_water":18830382,
-    "fips_id":"13211",
+    "geoid":"13211",
     "name":"Morgan",
     "state":"ga"
 },

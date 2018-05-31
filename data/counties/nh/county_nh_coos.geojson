@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4647904964,
     "area_water":92563568,
-    "fips_id":"33007",
+    "geoid":"33007",
     "name":"Coos",
     "state":"nh"
 },

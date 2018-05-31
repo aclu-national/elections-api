@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1378656638,
     "area_water":2414254,
-    "fips_id":"47151",
+    "geoid":"47151",
     "name":"Scott",
     "state":"tn"
 },

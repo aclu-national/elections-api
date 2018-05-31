@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1529698836,
     "area_water":6355533,
-    "fips_id":"19077",
+    "geoid":"19077",
     "name":"Guthrie",
     "state":"ia"
 },

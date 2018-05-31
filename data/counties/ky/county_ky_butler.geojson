@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1103567143,
     "area_water":13943044,
-    "fips_id":"21031",
+    "geoid":"21031",
     "name":"Butler",
     "state":"ky"
 },

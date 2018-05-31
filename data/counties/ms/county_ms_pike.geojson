@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1059350502,
     "area_water":4341105,
-    "fips_id":"28113",
+    "geoid":"28113",
     "name":"Pike",
     "state":"ms"
 },

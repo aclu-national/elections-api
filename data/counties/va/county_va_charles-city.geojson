@@ -4,7 +4,7 @@
   "properties": {
     "area_land":473494108,
     "area_water":55492133,
-    "fips_id":"51036",
+    "geoid":"51036",
     "name":"Charles City",
     "state":"va"
 },

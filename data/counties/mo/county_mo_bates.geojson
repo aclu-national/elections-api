@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2167013743,
     "area_water":38050433,
-    "fips_id":"29013",
+    "geoid":"29013",
     "name":"Bates",
     "state":"mo"
 },

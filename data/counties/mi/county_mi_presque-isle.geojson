@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1706070003,
     "area_water":4957327100,
-    "fips_id":"26141",
+    "geoid":"26141",
     "name":"Presque Isle",
     "state":"mi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11609319530,
     "area_water":56115772,
-    "fips_id":"49047",
+    "geoid":"49047",
     "name":"Uintah",
     "state":"ut"
 },

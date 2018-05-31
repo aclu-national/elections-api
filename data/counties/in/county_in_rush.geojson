@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1057035404,
     "area_water":872270,
-    "fips_id":"18139",
+    "geoid":"18139",
     "name":"Rush",
     "state":"in"
 },

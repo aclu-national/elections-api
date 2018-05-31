@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2064978211,
     "area_water":168506888,
-    "fips_id":"27067",
+    "geoid":"27067",
     "name":"Kandiyohi",
     "state":"mn"
 },

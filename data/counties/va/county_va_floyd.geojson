@@ -4,7 +4,7 @@
   "properties": {
     "area_land":986572574,
     "area_water":2190750,
-    "fips_id":"51063",
+    "geoid":"51063",
     "name":"Floyd",
     "state":"va"
 },

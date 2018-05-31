@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3615205224,
     "area_water":69981947,
-    "fips_id":"40127",
+    "geoid":"40127",
     "name":"Pushmataha",
     "state":"ok"
 },

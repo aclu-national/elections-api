@@ -4,7 +4,7 @@
   "properties": {
     "area_land":120071822,
     "area_water":376224,
-    "fips_id":"72083",
+    "geoid":"72083",
     "name":"Las Mar\u00edas",
     "state":"pr"
 },

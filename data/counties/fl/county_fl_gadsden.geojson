@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1337193230,
     "area_water":31687293,
-    "fips_id":"12039",
+    "geoid":"12039",
     "name":"Gadsden",
     "state":"fl"
 },

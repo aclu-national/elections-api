@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1806961891,
     "area_water":20736340,
-    "fips_id":"37125",
+    "geoid":"37125",
     "name":"Moore",
     "state":"nc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1060786892,
     "area_water":25260282,
-    "fips_id":"18129",
+    "geoid":"18129",
     "name":"Posey",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2200698748,
     "area_water":10892582,
-    "fips_id":"51165",
+    "geoid":"51165",
     "name":"Rockingham",
     "state":"va"
 },

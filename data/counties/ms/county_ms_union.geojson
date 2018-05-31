@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1076399403,
     "area_water":3387488,
-    "fips_id":"28145",
+    "geoid":"28145",
     "name":"Union",
     "state":"ms"
 },

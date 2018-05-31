@@ -4,7 +4,7 @@
   "properties": {
     "area_land":58813627,
     "area_water":609780,
-    "fips_id":"51730",
+    "geoid":"51730",
     "name":"Petersburg",
     "state":"va"
 },

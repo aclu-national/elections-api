@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1549830329,
     "area_water":215909963,
-    "fips_id":"24005",
+    "geoid":"24005",
     "name":"Baltimore",
     "state":"md"
 },

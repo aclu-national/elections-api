@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2460877094,
     "area_water":50957689,
-    "fips_id":"40037",
+    "geoid":"40037",
     "name":"Creek",
     "state":"ok"
 },

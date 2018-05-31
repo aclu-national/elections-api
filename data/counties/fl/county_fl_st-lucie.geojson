@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1480655532,
     "area_water":300844721,
-    "fips_id":"12111",
+    "geoid":"12111",
     "name":"St. Lucie",
     "state":"fl"
 },

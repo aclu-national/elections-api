@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3752472156,
     "area_water":36225644,
-    "fips_id":"06043",
+    "geoid":"06043",
     "name":"Mariposa",
     "state":"ca"
 },

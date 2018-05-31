@@ -4,7 +4,7 @@
   "properties": {
     "area_land":483503272,
     "area_water":12896776,
-    "fips_id":"21215",
+    "geoid":"21215",
     "name":"Spencer",
     "state":"ky"
 },

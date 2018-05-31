@@ -4,7 +4,7 @@
   "properties": {
     "area_land":657803472,
     "area_water":300569614,
-    "fips_id":"23023",
+    "geoid":"23023",
     "name":"Sagadahoc",
     "state":"me"
 },

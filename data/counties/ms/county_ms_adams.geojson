@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1197464269,
     "area_water":65273640,
-    "fips_id":"28001",
+    "geoid":"28001",
     "name":"Adams",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1835347958,
     "area_water":93215243,
-    "fips_id":"46129",
+    "geoid":"46129",
     "name":"Walworth",
     "state":"sd"
 },

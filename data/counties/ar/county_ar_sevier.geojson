@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1463680831,
     "area_water":41831844,
-    "fips_id":"05133",
+    "geoid":"05133",
     "name":"Sevier",
     "state":"ar"
 },

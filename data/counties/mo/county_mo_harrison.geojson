@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1871276777,
     "area_water":10103762,
-    "fips_id":"29081",
+    "geoid":"29081",
     "name":"Harrison",
     "state":"mo"
 },

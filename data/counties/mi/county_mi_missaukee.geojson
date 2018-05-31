@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1462807689,
     "area_water":23574739,
-    "fips_id":"26113",
+    "geoid":"26113",
     "name":"Missaukee",
     "state":"mi"
 },

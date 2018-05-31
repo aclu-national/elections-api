@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2051389756,
     "area_water":7435417,
-    "fips_id":"20185",
+    "geoid":"20185",
     "name":"Stafford",
     "state":"ks"
 },

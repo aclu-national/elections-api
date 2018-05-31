@@ -4,7 +4,7 @@
   "properties": {
     "area_land":708857834,
     "area_water":14261429,
-    "fips_id":"13217",
+    "geoid":"13217",
     "name":"Newton",
     "state":"ga"
 },

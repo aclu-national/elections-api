@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1534875463,
     "area_water":80027136,
-    "fips_id":"01033",
+    "geoid":"01033",
     "name":"Colbert",
     "state":"al"
 },

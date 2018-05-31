@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1718717381,
     "area_water":28683328,
-    "fips_id":"50009",
+    "geoid":"50009",
     "name":"Essex",
     "state":"vt"
 },

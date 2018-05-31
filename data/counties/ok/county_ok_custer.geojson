@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2561032754,
     "area_water":34321688,
-    "fips_id":"40039",
+    "geoid":"40039",
     "name":"Custer",
     "state":"ok"
 },

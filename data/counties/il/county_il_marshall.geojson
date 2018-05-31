@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1001787870,
     "area_water":30368315,
-    "fips_id":"17123",
+    "geoid":"17123",
     "name":"Marshall",
     "state":"il"
 },

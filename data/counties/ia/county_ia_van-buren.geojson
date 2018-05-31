@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1255646356,
     "area_water":14839917,
-    "fips_id":"19177",
+    "geoid":"19177",
     "name":"Van Buren",
     "state":"ia"
 },

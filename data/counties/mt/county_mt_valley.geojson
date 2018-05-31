@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12758538566,
     "area_water":351470610,
-    "fips_id":"30105",
+    "geoid":"30105",
     "name":"Valley",
     "state":"mt"
 },

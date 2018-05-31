@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2312599086,
     "area_water":39076860,
-    "fips_id":"13299",
+    "geoid":"13299",
     "name":"Ware",
     "state":"ga"
 },

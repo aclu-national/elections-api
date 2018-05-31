@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1116478185,
     "area_water":4852361,
-    "fips_id":"31133",
+    "geoid":"31133",
     "name":"Pawnee",
     "state":"ne"
 },

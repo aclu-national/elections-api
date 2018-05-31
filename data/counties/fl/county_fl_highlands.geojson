@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2632952088,
     "area_water":231653040,
-    "fips_id":"12055",
+    "geoid":"12055",
     "name":"Highlands",
     "state":"fl"
 },

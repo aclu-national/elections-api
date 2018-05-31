@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8621911419,
     "area_water":31428360,
-    "fips_id":"08077",
+    "geoid":"08077",
     "name":"Mesa",
     "state":"co"
 },

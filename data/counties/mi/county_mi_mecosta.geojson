@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1437745751,
     "area_water":41762966,
-    "fips_id":"26107",
+    "geoid":"26107",
     "name":"Mecosta",
     "state":"mi"
 },

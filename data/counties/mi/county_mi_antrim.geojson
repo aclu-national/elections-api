@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1232000354,
     "area_water":326539096,
-    "fips_id":"26009",
+    "geoid":"26009",
     "name":"Antrim",
     "state":"mi"
 },

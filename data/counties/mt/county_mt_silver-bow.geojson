@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1859568288,
     "area_water":1518177,
-    "fips_id":"30093",
+    "geoid":"30093",
     "name":"Silver Bow",
     "state":"mt"
 },

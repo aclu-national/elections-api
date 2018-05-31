@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1601897950,
     "area_water":242913899,
-    "fips_id":"40091",
+    "geoid":"40091",
     "name":"McIntosh",
     "state":"ok"
 },

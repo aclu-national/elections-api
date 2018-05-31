@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1582304826,
     "area_water":642572,
-    "fips_id":"47055",
+    "geoid":"47055",
     "name":"Giles",
     "state":"tn"
 },

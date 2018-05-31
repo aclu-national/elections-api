@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1984403113,
     "area_water":2182350,
-    "fips_id":"28069",
+    "geoid":"28069",
     "name":"Kemper",
     "state":"ms"
 },

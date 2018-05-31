@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":44063522.283611,
-    "district_num":15,
+    "district_num":"15",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"3615",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"ny"

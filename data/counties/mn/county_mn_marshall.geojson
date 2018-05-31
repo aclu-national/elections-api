@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4597384434,
     "area_water":98019666,
-    "fips_id":"27089",
+    "geoid":"27089",
     "name":"Marshall",
     "state":"mn"
 },

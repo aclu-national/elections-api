@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5682181421,
     "area_water":43520913,
-    "fips_id":"08093",
+    "geoid":"08093",
     "name":"Park",
     "state":"co"
 },

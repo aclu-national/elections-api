@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2195420014,
     "area_water":62899810,
-    "fips_id":"26081",
+    "geoid":"26081",
     "name":"Kent",
     "state":"mi"
 },

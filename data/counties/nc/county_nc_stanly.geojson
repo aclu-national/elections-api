@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1023370455,
     "area_water":25242751,
-    "fips_id":"37167",
+    "geoid":"37167",
     "name":"Stanly",
     "state":"nc"
 },

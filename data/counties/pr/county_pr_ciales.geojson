@@ -4,7 +4,7 @@
   "properties": {
     "area_land":172310206,
     "area_water":459605,
-    "fips_id":"72039",
+    "geoid":"72039",
     "name":"Ciales",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1476889390,
     "area_water":4382648,
-    "fips_id":"46097",
+    "geoid":"46097",
     "name":"Miner",
     "state":"sd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1304960561,
     "area_water":56649279,
-    "fips_id":"47037",
+    "geoid":"47037",
     "name":"Davidson",
     "state":"tn"
 },

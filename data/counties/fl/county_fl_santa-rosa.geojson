@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2621316069,
     "area_water":418753385,
-    "fips_id":"12113",
+    "geoid":"12113",
     "name":"Santa Rosa",
     "state":"fl"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1791177222,
     "area_water":5069761,
-    "fips_id":"28023",
+    "geoid":"28023",
     "name":"Clarke",
     "state":"ms"
 },

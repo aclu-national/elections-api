@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1171656639,
     "area_water":2420286,
-    "fips_id":"18135",
+    "geoid":"18135",
     "name":"Randolph",
     "state":"in"
 },

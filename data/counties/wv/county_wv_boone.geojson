@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1298967373,
     "area_water":4305976,
-    "fips_id":"54005",
+    "geoid":"54005",
     "name":"Boone",
     "state":"wv"
 },

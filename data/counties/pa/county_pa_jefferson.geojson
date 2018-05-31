@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1689784203,
     "area_water":11321806,
-    "fips_id":"42065",
+    "geoid":"42065",
     "name":"Jefferson",
     "state":"pa"
 },

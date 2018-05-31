@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1189687496,
     "area_water":87209797,
-    "fips_id":"47161",
+    "geoid":"47161",
     "name":"Stewart",
     "state":"tn"
 },

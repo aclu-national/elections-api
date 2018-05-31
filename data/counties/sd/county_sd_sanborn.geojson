@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474586446,
     "area_water":2938339,
-    "fips_id":"46111",
+    "geoid":"46111",
     "name":"Sanborn",
     "state":"sd"
 },

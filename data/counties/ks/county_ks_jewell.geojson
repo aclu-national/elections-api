@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2356317389,
     "area_water":11863330,
-    "fips_id":"20089",
+    "geoid":"20089",
     "name":"Jewell",
     "state":"ks"
 },

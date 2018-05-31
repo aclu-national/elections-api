@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6016761648,
     "area_water":29147345,
-    "fips_id":"35011",
+    "geoid":"35011",
     "name":"De Baca",
     "state":"nm"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1374689328,
     "area_water":26342203,
-    "fips_id":"26155",
+    "geoid":"26155",
     "name":"Shiawassee",
     "state":"mi"
 },

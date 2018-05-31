@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1569244078,
     "area_water":16573120,
-    "fips_id":"01015",
+    "geoid":"01015",
     "name":"Calhoun",
     "state":"al"
 },

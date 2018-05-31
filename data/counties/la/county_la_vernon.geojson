@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3439275960,
     "area_water":35153783,
-    "fips_id":"22115",
+    "geoid":"22115",
     "name":"Vernon",
     "state":"la"
 },

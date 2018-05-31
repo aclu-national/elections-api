@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1289142874,
     "area_water":8496511,
-    "fips_id":"28115",
+    "geoid":"28115",
     "name":"Pontotoc",
     "state":"ms"
 },

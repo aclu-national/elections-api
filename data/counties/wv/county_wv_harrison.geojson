@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1077454921,
     "area_water":1320319,
-    "fips_id":"54033",
+    "geoid":"54033",
     "name":"Harrison",
     "state":"wv"
 },

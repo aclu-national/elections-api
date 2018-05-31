@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1072452772,
     "area_water":2133506,
-    "fips_id":"18053",
+    "geoid":"18053",
     "name":"Grant",
     "state":"in"
 },

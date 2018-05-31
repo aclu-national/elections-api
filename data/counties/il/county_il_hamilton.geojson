@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1125780248,
     "area_water":3172680,
-    "fips_id":"17065",
+    "geoid":"17065",
     "name":"Hamilton",
     "state":"il"
 },

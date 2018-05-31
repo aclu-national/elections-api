@@ -4,7 +4,7 @@
   "properties": {
     "area_land":41499900917,
     "area_water":22525622024,
-    "fips_id":"02122",
+    "geoid":"02122",
     "name":"Kenai Peninsula",
     "state":"ak"
 },

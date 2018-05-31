@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1479314410,
     "area_water":32679991,
-    "fips_id":"17081",
+    "geoid":"17081",
     "name":"Jefferson",
     "state":"il"
 },

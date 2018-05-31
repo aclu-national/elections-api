@@ -1,10 +1,10 @@
 {
-  "id": "state_state_pa.geojson",
+  "id": "state_pa.geojson",
   "type": "Feature",
   "properties": {
     "area_land":115881477379,
     "area_water":3397554419,
-    "fips_id":"42",
+    "geoid":"42",
     "name":"Pennsylvania",
     "state":"pa"
 },

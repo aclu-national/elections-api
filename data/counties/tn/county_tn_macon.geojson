@@ -4,7 +4,7 @@
   "properties": {
     "area_land":795498349,
     "area_water":246690,
-    "fips_id":"47111",
+    "geoid":"47111",
     "name":"Macon",
     "state":"tn"
 },

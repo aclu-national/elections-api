@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1125901161,
     "area_water":24165972,
-    "fips_id":"42007",
+    "geoid":"42007",
     "name":"Beaver",
     "state":"pa"
 },

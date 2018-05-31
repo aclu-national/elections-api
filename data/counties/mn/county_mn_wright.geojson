@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1712598664,
     "area_water":137298052,
-    "fips_id":"27171",
+    "geoid":"27171",
     "name":"Wright",
     "state":"mn"
 },

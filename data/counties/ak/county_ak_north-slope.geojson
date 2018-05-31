@@ -4,7 +4,7 @@
   "properties": {
     "area_land":230056014591,
     "area_water":15547168253,
-    "fips_id":"02185",
+    "geoid":"02185",
     "name":"North Slope",
     "state":"ak"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1403509100,
     "area_water":7360265,
-    "fips_id":"31081",
+    "geoid":"31081",
     "name":"Hamilton",
     "state":"ne"
 },

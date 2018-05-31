@@ -4,7 +4,7 @@
   "properties": {
     "area_land":680956787,
     "area_water":61588406,
-    "fips_id":"53069",
+    "geoid":"53069",
     "name":"Wahkiakum",
     "state":"wa"
 },

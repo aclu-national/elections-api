@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2041681113,
     "area_water":3604155,
-    "fips_id":"20033",
+    "geoid":"20033",
     "name":"Comanche",
     "state":"ks"
 },

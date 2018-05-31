@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2311575393,
     "area_water":4806274,
-    "fips_id":"20141",
+    "geoid":"20141",
     "name":"Osborne",
     "state":"ks"
 },

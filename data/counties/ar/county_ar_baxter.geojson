@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1435438032,
     "area_water":84171993,
-    "fips_id":"05005",
+    "geoid":"05005",
     "name":"Baxter",
     "state":"ar"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1103942496,
     "area_water":12227724,
-    "fips_id":"13123",
+    "geoid":"13123",
     "name":"Gilmer",
     "state":"ga"
 },

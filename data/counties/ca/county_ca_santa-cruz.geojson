@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1152967426,
     "area_water":419570389,
-    "fips_id":"06087",
+    "geoid":"06087",
     "name":"Santa Cruz",
     "state":"ca"
 },

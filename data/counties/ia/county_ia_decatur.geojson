@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1377567314,
     "area_water":4140764,
-    "fips_id":"19053",
+    "geoid":"19053",
     "name":"Decatur",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10164120486,
     "area_water":437867472,
-    "fips_id":"23025",
+    "geoid":"23025",
     "name":"Somerset",
     "state":"me"
 },

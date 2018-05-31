@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4571107601,
     "area_water":7732062,
-    "fips_id":"38017",
+    "geoid":"38017",
     "name":"Cass",
     "state":"nd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":973345745,
     "area_water":20581547,
-    "fips_id":"17017",
+    "geoid":"17017",
     "name":"Cass",
     "state":"il"
 },

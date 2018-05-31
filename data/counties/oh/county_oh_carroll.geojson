@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1022030958,
     "area_water":11192655,
-    "fips_id":"39019",
+    "geoid":"39019",
     "name":"Carroll",
     "state":"oh"
 },

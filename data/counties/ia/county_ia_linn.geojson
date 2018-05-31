@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1856758894,
     "area_water":19699801,
-    "fips_id":"19113",
+    "geoid":"19113",
     "name":"Linn",
     "state":"ia"
 },

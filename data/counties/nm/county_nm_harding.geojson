@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5504963090,
     "area_water":1162620,
-    "fips_id":"35021",
+    "geoid":"35021",
     "name":"Harding",
     "state":"nm"
 },

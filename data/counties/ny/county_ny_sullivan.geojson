@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2507463254,
     "area_water":74035009,
-    "fips_id":"36105",
+    "geoid":"36105",
     "name":"Sullivan",
     "state":"ny"
 },

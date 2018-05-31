@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10140960164,
     "area_water":745420669,
-    "fips_id":"06049",
+    "geoid":"06049",
     "name":"Modoc",
     "state":"ca"
 },

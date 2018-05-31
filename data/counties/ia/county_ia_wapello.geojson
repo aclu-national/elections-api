@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1118460312,
     "area_water":10829143,
-    "fips_id":"19179",
+    "geoid":"19179",
     "name":"Wapello",
     "state":"ia"
 },

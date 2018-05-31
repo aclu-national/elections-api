@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1641633748,
     "area_water":150930318,
-    "fips_id":"50011",
+    "geoid":"50011",
     "name":"Franklin",
     "state":"vt"
 },

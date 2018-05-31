@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7638228772,
     "area_water":33767784,
-    "fips_id":"06103",
+    "geoid":"06103",
     "name":"Tehama",
     "state":"ca"
 },

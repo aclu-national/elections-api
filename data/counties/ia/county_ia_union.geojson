@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1097235765,
     "area_water":5575853,
-    "fips_id":"19175",
+    "geoid":"19175",
     "name":"Union",
     "state":"ia"
 },

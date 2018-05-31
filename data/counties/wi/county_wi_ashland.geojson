@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2706535135,
     "area_water":3230651989,
-    "fips_id":"55003",
+    "geoid":"55003",
     "name":"Ashland",
     "state":"wi"
 },

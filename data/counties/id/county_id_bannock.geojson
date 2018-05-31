@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2881317883,
     "area_water":92094662,
-    "fips_id":"16005",
+    "geoid":"16005",
     "name":"Bannock",
     "state":"id"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1118358767,
     "area_water":4832944,
-    "fips_id":"46043",
+    "geoid":"46043",
     "name":"Douglas",
     "state":"sd"
 },

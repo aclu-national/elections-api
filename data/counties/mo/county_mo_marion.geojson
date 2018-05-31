@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1131627484,
     "area_water":19114157,
-    "fips_id":"29127",
+    "geoid":"29127",
     "name":"Marion",
     "state":"mo"
 },

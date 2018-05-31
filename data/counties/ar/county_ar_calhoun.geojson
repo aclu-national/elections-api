@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1627975434,
     "area_water":9926146,
-    "fips_id":"05013",
+    "geoid":"05013",
     "name":"Calhoun",
     "state":"ar"
 },

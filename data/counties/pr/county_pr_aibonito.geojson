@@ -4,7 +4,7 @@
   "properties": {
     "area_land":81094471,
     "area_water":71895,
-    "fips_id":"72009",
+    "geoid":"72009",
     "name":"Aibonito",
     "state":"pr"
 },

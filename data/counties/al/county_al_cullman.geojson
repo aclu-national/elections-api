@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1903070708,
     "area_water":52424813,
-    "fips_id":"01043",
+    "geoid":"01043",
     "name":"Cullman",
     "state":"al"
 },

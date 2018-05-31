@@ -4,7 +4,7 @@
   "properties": {
     "area_land":741761173,
     "area_water":29701774,
-    "fips_id":"37063",
+    "geoid":"37063",
     "name":"Durham",
     "state":"nc"
 },

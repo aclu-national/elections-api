@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":3670683401.80017,
-    "district_num":18,
+    "district_num":"18",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"3618",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"ny"

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":539709170,
     "area_water":800155316,
-    "fips_id":"53029",
+    "geoid":"53029",
     "name":"Island",
     "state":"wa"
 },

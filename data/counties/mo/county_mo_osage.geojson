@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1571017654,
     "area_water":17751408,
-    "fips_id":"29151",
+    "geoid":"29151",
     "name":"Osage",
     "state":"mo"
 },

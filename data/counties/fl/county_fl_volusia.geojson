@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2852082296,
     "area_water":857948738,
-    "fips_id":"12127",
+    "geoid":"12127",
     "name":"Volusia",
     "state":"fl"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2042451307,
     "area_water":15948099,
-    "fips_id":"42019",
+    "geoid":"42019",
     "name":"Butler",
     "state":"pa"
 },

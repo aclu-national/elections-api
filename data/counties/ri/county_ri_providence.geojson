@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1060791694,
     "area_water":67639362,
-    "fips_id":"44007",
+    "geoid":"44007",
     "name":"Providence",
     "state":"ri"
 },

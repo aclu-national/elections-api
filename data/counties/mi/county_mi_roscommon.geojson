@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1345827533,
     "area_water":156421850,
-    "fips_id":"26143",
+    "geoid":"26143",
     "name":"Roscommon",
     "state":"mi"
 },

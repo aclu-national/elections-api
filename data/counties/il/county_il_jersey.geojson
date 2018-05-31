@@ -4,7 +4,7 @@
   "properties": {
     "area_land":956433111,
     "area_water":20324168,
-    "fips_id":"17083",
+    "geoid":"17083",
     "name":"Jersey",
     "state":"il"
 },

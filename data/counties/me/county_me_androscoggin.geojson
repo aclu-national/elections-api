@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1211961731,
     "area_water":75575386,
-    "fips_id":"23001",
+    "geoid":"23001",
     "name":"Androscoggin",
     "state":"me"
 },

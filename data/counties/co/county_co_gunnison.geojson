@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8389338065,
     "area_water":53067068,
-    "fips_id":"08051",
+    "geoid":"08051",
     "name":"Gunnison",
     "state":"co"
 },

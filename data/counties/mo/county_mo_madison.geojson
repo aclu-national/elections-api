@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1280463342,
     "area_water":8312953,
-    "fips_id":"29123",
+    "geoid":"29123",
     "name":"Madison",
     "state":"mo"
 },

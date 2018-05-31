@@ -4,7 +4,7 @@
   "properties": {
     "area_land":942770579,
     "area_water":18094405,
-    "fips_id":"13279",
+    "geoid":"13279",
     "name":"Toombs",
     "state":"ga"
 },

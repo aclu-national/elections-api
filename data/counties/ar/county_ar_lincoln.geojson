@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1454438336,
     "area_water":27514921,
-    "fips_id":"05079",
+    "geoid":"05079",
     "name":"Lincoln",
     "state":"ar"
 },

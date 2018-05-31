@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4992675873,
     "area_water":6093304,
-    "fips_id":"35033",
+    "geoid":"35033",
     "name":"Mora",
     "state":"nm"
 },

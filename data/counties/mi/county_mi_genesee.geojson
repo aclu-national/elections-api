@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1649726963,
     "area_water":32695696,
-    "fips_id":"26049",
+    "geoid":"26049",
     "name":"Genesee",
     "state":"mi"
 },

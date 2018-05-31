@@ -4,7 +4,7 @@
   "properties": {
     "area_land":403788487,
     "area_water":1756849,
-    "fips_id":"51079",
+    "geoid":"51079",
     "name":"Greene",
     "state":"va"
 },

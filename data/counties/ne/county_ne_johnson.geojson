@@ -4,7 +4,7 @@
   "properties": {
     "area_land":973968228,
     "area_water":1766531,
-    "fips_id":"31097",
+    "geoid":"31097",
     "name":"Johnson",
     "state":"ne"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":14116799310,
     "area_water":14078537,
-    "fips_id":"35031",
+    "geoid":"35031",
     "name":"McKinley",
     "state":"nm"
 },

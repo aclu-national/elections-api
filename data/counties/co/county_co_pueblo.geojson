@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6180089507,
     "area_water":30094812,
-    "fips_id":"08101",
+    "geoid":"08101",
     "name":"Pueblo",
     "state":"co"
 },

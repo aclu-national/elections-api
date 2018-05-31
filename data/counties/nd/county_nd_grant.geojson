@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4297180181,
     "area_water":17563262,
-    "fips_id":"38037",
+    "geoid":"38037",
     "name":"Grant",
     "state":"nd"
 },

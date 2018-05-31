@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1922656984,
     "area_water":3183684,
-    "fips_id":"01093",
+    "geoid":"01093",
     "name":"Marion",
     "state":"al"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":675662341,
     "area_water":20498270,
-    "fips_id":"13277",
+    "geoid":"13277",
     "name":"Tift",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1040508996,
     "area_water":6732250,
-    "fips_id":"18177",
+    "geoid":"18177",
     "name":"Wayne",
     "state":"in"
 },

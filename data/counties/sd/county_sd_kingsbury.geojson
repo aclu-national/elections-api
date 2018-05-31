@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2155483525,
     "area_water":81655092,
-    "fips_id":"46077",
+    "geoid":"46077",
     "name":"Kingsbury",
     "state":"sd"
 },

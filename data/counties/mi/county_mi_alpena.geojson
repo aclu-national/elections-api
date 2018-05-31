@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1481123848,
     "area_water":2908714548,
-    "fips_id":"26007",
+    "geoid":"26007",
     "name":"Alpena",
     "state":"mi"
 },

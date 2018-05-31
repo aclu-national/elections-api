@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4653579490,
     "area_water":553462009,
-    "fips_id":"12105",
+    "geoid":"12105",
     "name":"Polk",
     "state":"fl"
 },

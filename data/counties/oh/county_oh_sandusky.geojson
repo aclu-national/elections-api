@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1057906601,
     "area_water":23958602,
-    "fips_id":"39143",
+    "geoid":"39143",
     "name":"Sandusky",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":133799723,
     "area_water":53351781,
-    "fips_id":"72103",
+    "geoid":"72103",
     "name":"Naguabo",
     "state":"pr"
 },

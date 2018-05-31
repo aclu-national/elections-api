@@ -4,7 +4,7 @@
   "properties": {
     "area_land":892235146,
     "area_water":5719645,
-    "fips_id":"13213",
+    "geoid":"13213",
     "name":"Murray",
     "state":"ga"
 },

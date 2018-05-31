@@ -4,7 +4,7 @@
   "properties": {
     "area_land":783276686,
     "area_water":11964173,
-    "fips_id":"47021",
+    "geoid":"47021",
     "name":"Cheatham",
     "state":"tn"
 },

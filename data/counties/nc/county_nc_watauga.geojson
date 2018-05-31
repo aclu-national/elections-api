@@ -4,7 +4,7 @@
   "properties": {
     "area_land":809160511,
     "area_water":2332417,
-    "fips_id":"37189",
+    "geoid":"37189",
     "name":"Watauga",
     "state":"nc"
 },

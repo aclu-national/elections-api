@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1065995413,
     "area_water":44494832,
-    "fips_id":"29133",
+    "geoid":"29133",
     "name":"Mississippi",
     "state":"mo"
 },

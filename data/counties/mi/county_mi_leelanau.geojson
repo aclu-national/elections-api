@@ -4,7 +4,7 @@
   "properties": {
     "area_land":899206779,
     "area_water":5659140425,
-    "fips_id":"26089",
+    "geoid":"26089",
     "name":"Leelanau",
     "state":"mi"
 },

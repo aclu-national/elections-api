@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1241120517,
     "area_water":237557908,
-    "fips_id":"26099",
+    "geoid":"26099",
     "name":"Macomb",
     "state":"mi"
 },

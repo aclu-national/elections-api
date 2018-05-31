@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1019377255,
     "area_water":6458661,
-    "fips_id":"31173",
+    "geoid":"31173",
     "name":"Thurston",
     "state":"ne"
 },

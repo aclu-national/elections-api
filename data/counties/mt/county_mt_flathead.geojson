@@ -4,7 +4,7 @@
   "properties": {
     "area_land":13175679131,
     "area_water":437280390,
-    "fips_id":"30029",
+    "geoid":"30029",
     "name":"Flathead",
     "state":"mt"
 },

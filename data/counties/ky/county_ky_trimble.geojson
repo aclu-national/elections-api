@@ -4,7 +4,7 @@
   "properties": {
     "area_land":392766460,
     "area_water":11833388,
-    "fips_id":"21223",
+    "geoid":"21223",
     "name":"Trimble",
     "state":"ky"
 },

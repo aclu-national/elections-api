@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2253930695,
     "area_water":54690951,
-    "fips_id":"40137",
+    "geoid":"40137",
     "name":"Stephens",
     "state":"ok"
 },

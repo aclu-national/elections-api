@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2234461780,
     "area_water":70014121,
-    "fips_id":"55005",
+    "geoid":"55005",
     "name":"Barron",
     "state":"wi"
 },

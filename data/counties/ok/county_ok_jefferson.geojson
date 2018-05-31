@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1965365168,
     "area_water":39497494,
-    "fips_id":"40067",
+    "geoid":"40067",
     "name":"Jefferson",
     "state":"ok"
 },

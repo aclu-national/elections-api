@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8957160027,
     "area_water":101500820,
-    "fips_id":"30049",
+    "geoid":"30049",
     "name":"Lewis and Clark",
     "state":"mt"
 },

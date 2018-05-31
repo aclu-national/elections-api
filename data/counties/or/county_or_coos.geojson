@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4133690002,
     "area_water":544752776,
-    "fips_id":"41011",
+    "geoid":"41011",
     "name":"Coos",
     "state":"or"
 },

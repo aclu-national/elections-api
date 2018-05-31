@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1109624422,
     "area_water":3638887,
-    "fips_id":"39021",
+    "geoid":"39021",
     "name":"Champaign",
     "state":"oh"
 },

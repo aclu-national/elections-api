@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1518055421,
     "area_water":5309826,
-    "fips_id":"28085",
+    "geoid":"28085",
     "name":"Lincoln",
     "state":"ms"
 },

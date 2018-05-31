@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1261465560,
     "area_water":32543978,
-    "fips_id":"47073",
+    "geoid":"47073",
     "name":"Hawkins",
     "state":"tn"
 },

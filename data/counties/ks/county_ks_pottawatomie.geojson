@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2177617398,
     "area_water":54039076,
-    "fips_id":"20149",
+    "geoid":"20149",
     "name":"Pottawatomie",
     "state":"ks"
 },

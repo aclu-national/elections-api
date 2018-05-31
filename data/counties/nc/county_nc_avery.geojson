@@ -4,7 +4,7 @@
   "properties": {
     "area_land":640601890,
     "area_water":445285,
-    "fips_id":"37011",
+    "geoid":"37011",
     "name":"Avery",
     "state":"nc"
 },

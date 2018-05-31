@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1228575201,
     "area_water":25393801,
-    "fips_id":"29157",
+    "geoid":"29157",
     "name":"Perry",
     "state":"mo"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2002257567,
     "area_water":2192458,
-    "fips_id":"31103",
+    "geoid":"31103",
     "name":"Keya Paha",
     "state":"ne"
 },

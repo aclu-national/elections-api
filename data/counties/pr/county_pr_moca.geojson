@@ -4,7 +4,7 @@
   "properties": {
     "area_land":130383573,
     "area_water":56474,
-    "fips_id":"72099",
+    "geoid":"72099",
     "name":"Moca",
     "state":"pr"
 },

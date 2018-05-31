@@ -4,7 +4,7 @@
   "properties": {
     "area_land":716858330,
     "area_water":5814561,
-    "fips_id":"13137",
+    "geoid":"13137",
     "name":"Habersham",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1564249679,
     "area_water":46077120,
-    "fips_id":"48477",
+    "geoid":"48477",
     "name":"Washington",
     "state":"tx"
 },

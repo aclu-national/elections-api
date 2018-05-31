@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1549582915,
     "area_water":38751745,
-    "fips_id":"18091",
+    "geoid":"18091",
     "name":"LaPorte",
     "state":"in"
 },

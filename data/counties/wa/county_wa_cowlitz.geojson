@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2953721040,
     "area_water":67320045,
-    "fips_id":"53015",
+    "geoid":"53015",
     "name":"Cowlitz",
     "state":"wa"
 },

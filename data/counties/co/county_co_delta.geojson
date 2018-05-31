@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2958099789,
     "area_water":16777978,
-    "fips_id":"08029",
+    "geoid":"08029",
     "name":"Delta",
     "state":"co"
 },

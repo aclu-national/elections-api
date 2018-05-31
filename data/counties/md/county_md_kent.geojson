@@ -4,7 +4,7 @@
   "properties": {
     "area_land":717515665,
     "area_water":353303064,
-    "fips_id":"24029",
+    "geoid":"24029",
     "name":"Kent",
     "state":"md"
 },

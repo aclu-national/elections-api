@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1270337025,
     "area_water":53126680,
-    "fips_id":"45001",
+    "geoid":"45001",
     "name":"Abbeville",
     "state":"sc"
 },

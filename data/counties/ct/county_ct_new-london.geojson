@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1722708285,
     "area_water":276666169,
-    "fips_id":"09011",
+    "geoid":"09011",
     "name":"New London",
     "state":"ct"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11373741670,
     "area_water":8469171,
-    "fips_id":"35025",
+    "geoid":"35025",
     "name":"Lea",
     "state":"nm"
 },

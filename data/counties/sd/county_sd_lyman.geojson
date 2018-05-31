@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4253139895,
     "area_water":167659051,
-    "fips_id":"46085",
+    "geoid":"46085",
     "name":"Lyman",
     "state":"sd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2723485996,
     "area_water":176317,
-    "fips_id":"48235",
+    "geoid":"48235",
     "name":"Irion",
     "state":"tx"
 },

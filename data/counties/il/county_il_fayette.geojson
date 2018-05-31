@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1855687602,
     "area_water":22942188,
-    "fips_id":"17051",
+    "geoid":"17051",
     "name":"Fayette",
     "state":"il"
 },

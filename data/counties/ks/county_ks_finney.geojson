@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3372066557,
     "area_water":1794398,
-    "fips_id":"20055",
+    "geoid":"20055",
     "name":"Finney",
     "state":"ks"
 },

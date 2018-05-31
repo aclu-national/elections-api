@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3761621396,
     "area_water":4887941604,
-    "fips_id":"27031",
+    "geoid":"27031",
     "name":"Cook",
     "state":"mn"
 },

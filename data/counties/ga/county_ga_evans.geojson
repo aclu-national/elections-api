@@ -4,7 +4,7 @@
   "properties": {
     "area_land":473612756,
     "area_water":10377268,
-    "fips_id":"13109",
+    "geoid":"13109",
     "name":"Evans",
     "state":"ga"
 },

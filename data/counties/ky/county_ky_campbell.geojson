@@ -4,7 +4,7 @@
   "properties": {
     "area_land":391966324,
     "area_water":20930398,
-    "fips_id":"21037",
+    "geoid":"21037",
     "name":"Campbell",
     "state":"ky"
 },

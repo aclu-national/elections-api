@@ -4,7 +4,7 @@
   "properties": {
     "area_land":724723335,
     "area_water":16699596,
-    "fips_id":"21205",
+    "geoid":"21205",
     "name":"Rowan",
     "state":"ky"
 },

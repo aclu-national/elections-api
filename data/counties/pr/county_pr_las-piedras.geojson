@@ -4,7 +4,7 @@
   "properties": {
     "area_land":87748363,
     "area_water":32509,
-    "fips_id":"72085",
+    "geoid":"72085",
     "name":"Las Piedras",
     "state":"pr"
 },

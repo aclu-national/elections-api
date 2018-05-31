@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11122757370,
     "area_water":41168172,
-    "fips_id":"53077",
+    "geoid":"53077",
     "name":"Yakima",
     "state":"wa"
 },

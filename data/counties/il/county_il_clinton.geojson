@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1227823898,
     "area_water":75642557,
-    "fips_id":"17027",
+    "geoid":"17027",
     "name":"Clinton",
     "state":"il"
 },

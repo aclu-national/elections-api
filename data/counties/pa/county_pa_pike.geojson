@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1411441329,
     "area_water":56692145,
-    "fips_id":"42103",
+    "geoid":"42103",
     "name":"Pike",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8234265086,
     "area_water":73407949,
-    "fips_id":"06105",
+    "geoid":"06105",
     "name":"Trinity",
     "state":"ca"
 },

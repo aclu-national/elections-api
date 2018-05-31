@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2224733585,
     "area_water":2680669,
-    "fips_id":"31117",
+    "geoid":"31117",
     "name":"McPherson",
     "state":"ne"
 },

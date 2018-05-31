@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1471527632,
     "area_water":68888617,
-    "fips_id":"40117",
+    "geoid":"40117",
     "name":"Pawnee",
     "state":"ok"
 },

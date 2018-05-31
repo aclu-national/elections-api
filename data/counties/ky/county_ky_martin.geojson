@@ -4,7 +4,7 @@
   "properties": {
     "area_land":594701951,
     "area_water":2564962,
-    "fips_id":"21159",
+    "geoid":"21159",
     "name":"Martin",
     "state":"ky"
 },

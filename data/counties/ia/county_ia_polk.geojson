@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1482734960,
     "area_water":49332276,
-    "fips_id":"19153",
+    "geoid":"19153",
     "name":"Polk",
     "state":"ia"
 },

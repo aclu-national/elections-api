@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2092673515,
     "area_water":29211230,
-    "fips_id":"45083",
+    "geoid":"45083",
     "name":"Spartanburg",
     "state":"sc"
 },

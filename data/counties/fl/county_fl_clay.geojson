@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1566439483,
     "area_water":100339826,
-    "fips_id":"12019",
+    "geoid":"12019",
     "name":"Clay",
     "state":"fl"
 },

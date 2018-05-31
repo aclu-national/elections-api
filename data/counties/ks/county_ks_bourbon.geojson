@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1645861891,
     "area_water":9377598,
-    "fips_id":"20011",
+    "geoid":"20011",
     "name":"Bourbon",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":178939602,
     "area_water":131011289,
-    "fips_id":"51700",
+    "geoid":"51700",
     "name":"Newport News",
     "state":"va"
 },

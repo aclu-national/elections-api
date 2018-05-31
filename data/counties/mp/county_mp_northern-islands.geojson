@@ -4,7 +4,7 @@
   "properties": {
     "area_land":160057011,
     "area_water":2939509407,
-    "fips_id":"69085",
+    "geoid":"69085",
     "name":"Northern Islands",
     "state":"mp"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4207608379,
     "area_water":43980663,
-    "fips_id":"30073",
+    "geoid":"30073",
     "name":"Pondera",
     "state":"mt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":576062000,
     "area_water":781203,
-    "fips_id":"17047",
+    "geoid":"17047",
     "name":"Edwards",
     "state":"il"
 },

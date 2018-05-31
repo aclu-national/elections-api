@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5190589691,
     "area_water":5964358,
-    "fips_id":"56017",
+    "geoid":"56017",
     "name":"Hot Springs",
     "state":"wy"
 },

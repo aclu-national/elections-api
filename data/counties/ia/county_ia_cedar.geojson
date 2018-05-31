@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1500730782,
     "area_water":6385832,
-    "fips_id":"19031",
+    "geoid":"19031",
     "name":"Cedar",
     "state":"ia"
 },

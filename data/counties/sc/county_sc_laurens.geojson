@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1848783527,
     "area_water":25949287,
-    "fips_id":"45059",
+    "geoid":"45059",
     "name":"Laurens",
     "state":"sc"
 },

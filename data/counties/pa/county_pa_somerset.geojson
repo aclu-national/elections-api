@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2782597159,
     "area_water":17002839,
-    "fips_id":"42111",
+    "geoid":"42111",
     "name":"Somerset",
     "state":"pa"
 },

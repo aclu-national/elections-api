@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1053857311,
     "area_water":8870733,
-    "fips_id":"16075",
+    "geoid":"16075",
     "name":"Payette",
     "state":"id"
 },

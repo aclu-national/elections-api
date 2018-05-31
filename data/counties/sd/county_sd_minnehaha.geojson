@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2089691696,
     "area_water":18198505,
-    "fips_id":"46099",
+    "geoid":"46099",
     "name":"Minnehaha",
     "state":"sd"
 },

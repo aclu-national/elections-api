@@ -4,7 +4,7 @@
   "properties": {
     "area_land":687992432,
     "area_water":156144,
-    "fips_id":"47015",
+    "geoid":"47015",
     "name":"Cannon",
     "state":"tn"
 },

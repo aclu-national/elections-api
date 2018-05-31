@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2784994726,
     "area_water":6588657,
-    "fips_id":"31013",
+    "geoid":"31013",
     "name":"Box Butte",
     "state":"ne"
 },

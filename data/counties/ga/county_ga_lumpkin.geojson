@@ -4,7 +4,7 @@
   "properties": {
     "area_land":732786481,
     "area_water":3280165,
-    "fips_id":"13187",
+    "geoid":"13187",
     "name":"Lumpkin",
     "state":"ga"
 },

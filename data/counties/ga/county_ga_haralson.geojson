@@ -4,7 +4,7 @@
   "properties": {
     "area_land":730804590,
     "area_water":2616530,
-    "fips_id":"13143",
+    "geoid":"13143",
     "name":"Haralson",
     "state":"ga"
 },

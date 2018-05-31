@@ -4,7 +4,7 @@
   "properties": {
     "area_land":861408885,
     "area_water":1190236349,
-    "fips_id":"55101",
+    "geoid":"55101",
     "name":"Racine",
     "state":"wi"
 },

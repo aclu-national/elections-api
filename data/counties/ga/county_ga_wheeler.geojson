@@ -4,7 +4,7 @@
   "properties": {
     "area_land":765314385,
     "area_water":12377029,
-    "fips_id":"13309",
+    "geoid":"13309",
     "name":"Wheeler",
     "state":"ga"
 },

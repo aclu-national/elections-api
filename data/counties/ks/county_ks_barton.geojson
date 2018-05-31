@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2318718654,
     "area_water":13913626,
-    "fips_id":"20009",
+    "geoid":"20009",
     "name":"Barton",
     "state":"ks"
 },

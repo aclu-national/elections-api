@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1630498740,
     "area_water":5443027,
-    "fips_id":"29181",
+    "geoid":"29181",
     "name":"Ripley",
     "state":"mo"
 },

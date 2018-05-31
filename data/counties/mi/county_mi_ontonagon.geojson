@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3395416191,
     "area_water":6292279421,
-    "fips_id":"26131",
+    "geoid":"26131",
     "name":"Ontonagon",
     "state":"mi"
 },

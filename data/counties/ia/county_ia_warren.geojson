@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1475875019,
     "area_water":9095218,
-    "fips_id":"19181",
+    "geoid":"19181",
     "name":"Warren",
     "state":"ia"
 },

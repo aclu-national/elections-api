@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1049113581,
     "area_water":4545513,
-    "fips_id":"45033",
+    "geoid":"45033",
     "name":"Dillon",
     "state":"sc"
 },

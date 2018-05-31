@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8905571558,
     "area_water":23650187,
-    "fips_id":"35023",
+    "geoid":"35023",
     "name":"Hidalgo",
     "state":"nm"
 },

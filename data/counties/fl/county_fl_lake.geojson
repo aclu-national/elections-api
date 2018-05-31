@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2436872973,
     "area_water":559601970,
-    "fips_id":"12069",
+    "geoid":"12069",
     "name":"Lake",
     "state":"fl"
 },

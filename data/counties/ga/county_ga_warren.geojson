@@ -4,7 +4,7 @@
   "properties": {
     "area_land":736316130,
     "area_water":6201954,
-    "fips_id":"13301",
+    "geoid":"13301",
     "name":"Warren",
     "state":"ga"
 },

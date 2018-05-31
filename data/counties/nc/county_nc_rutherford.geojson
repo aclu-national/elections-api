@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1464487608,
     "area_water":4681435,
-    "fips_id":"37161",
+    "geoid":"37161",
     "name":"Rutherford",
     "state":"nc"
 },

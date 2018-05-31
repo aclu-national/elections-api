@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12112233301,
     "area_water":446864348,
-    "fips_id":"30033",
+    "geoid":"30033",
     "name":"Garfield",
     "state":"mt"
 },

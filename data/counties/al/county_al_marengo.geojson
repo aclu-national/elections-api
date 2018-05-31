@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2530140238,
     "area_water":14966620,
-    "fips_id":"01091",
+    "geoid":"01091",
     "name":"Marengo",
     "state":"al"
 },

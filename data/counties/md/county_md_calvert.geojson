@@ -4,7 +4,7 @@
   "properties": {
     "area_land":552178309,
     "area_water":341560885,
-    "fips_id":"24009",
+    "geoid":"24009",
     "name":"Calvert",
     "state":"md"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":124029911,
     "area_water":75277891,
-    "fips_id":"72127",
+    "geoid":"72127",
     "name":"San Juan",
     "state":"pr"
 },

@@ -1,10 +1,10 @@
 {
-  "id": "state_state_nm.geojson",
+  "id": "state_nm.geojson",
   "type": "Feature",
   "properties": {
     "area_land":314191415563,
     "area_water":733669653,
-    "fips_id":"35",
+    "geoid":"35",
     "name":"New Mexico",
     "state":"nm"
 },

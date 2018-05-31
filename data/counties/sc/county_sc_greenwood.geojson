@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1177746759,
     "area_water":21226294,
-    "fips_id":"45047",
+    "geoid":"45047",
     "name":"Greenwood",
     "state":"sc"
 },

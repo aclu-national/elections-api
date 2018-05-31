@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1696777754,
     "area_water":6021519,
-    "fips_id":"22001",
+    "geoid":"22001",
     "name":"Acadia",
     "state":"la"
 },

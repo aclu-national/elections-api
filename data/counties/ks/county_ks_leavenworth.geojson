@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1200335284,
     "area_water":14221659,
-    "fips_id":"20103",
+    "geoid":"20103",
     "name":"Leavenworth",
     "state":"ks"
 },

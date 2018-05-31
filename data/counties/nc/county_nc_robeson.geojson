@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2453425443,
     "area_water":5097482,
-    "fips_id":"37155",
+    "geoid":"37155",
     "name":"Robeson",
     "state":"nc"
 },

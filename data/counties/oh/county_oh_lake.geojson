@@ -4,7 +4,7 @@
   "properties": {
     "area_land":593799763,
     "area_water":1942309063,
-    "fips_id":"39085",
+    "geoid":"39085",
     "name":"Lake",
     "state":"oh"
 },

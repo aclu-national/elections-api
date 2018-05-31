@@ -4,7 +4,7 @@
   "properties": {
     "area_land":575816105,
     "area_water":2988718,
-    "fips_id":"47067",
+    "geoid":"47067",
     "name":"Hancock",
     "state":"tn"
 },

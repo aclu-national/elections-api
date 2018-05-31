@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1305041272,
     "area_water":9004891,
-    "fips_id":"51053",
+    "geoid":"51053",
     "name":"Dinwiddie",
     "state":"va"
 },

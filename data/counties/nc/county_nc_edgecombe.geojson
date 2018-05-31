@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1309062991,
     "area_water":3717083,
-    "fips_id":"37065",
+    "geoid":"37065",
     "name":"Edgecombe",
     "state":"nc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1248277387,
     "area_water":4890604624,
-    "fips_id":"55029",
+    "geoid":"55029",
     "name":"Door",
     "state":"wi"
 },

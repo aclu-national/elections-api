@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1130718763,
     "area_water":7047471,
-    "fips_id":"29199",
+    "geoid":"29199",
     "name":"Scotland",
     "state":"mo"
 },

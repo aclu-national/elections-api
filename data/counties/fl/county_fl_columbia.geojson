@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2065628007,
     "area_water":9773963,
-    "fips_id":"12023",
+    "geoid":"12023",
     "name":"Columbia",
     "state":"fl"
 },

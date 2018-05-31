@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1838200422,
     "area_water":37692771,
-    "fips_id":"05141",
+    "geoid":"05141",
     "name":"Van Buren",
     "state":"ar"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2484806998,
     "area_water":237381766,
-    "fips_id":"53045",
+    "geoid":"53045",
     "name":"Mason",
     "state":"wa"
 },

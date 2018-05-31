@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2295402887,
     "area_water":34126777,
-    "fips_id":"20167",
+    "geoid":"20167",
     "name":"Russell",
     "state":"ks"
 },

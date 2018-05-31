@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1088598925,
     "area_water":3167846,
-    "fips_id":"39079",
+    "geoid":"39079",
     "name":"Jackson",
     "state":"oh"
 },

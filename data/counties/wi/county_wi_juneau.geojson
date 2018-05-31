@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1986622513,
     "area_water":98737513,
-    "fips_id":"55057",
+    "geoid":"55057",
     "name":"Juneau",
     "state":"wi"
 },

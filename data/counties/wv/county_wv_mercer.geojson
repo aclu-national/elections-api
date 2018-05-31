@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1085113561,
     "area_water":4434929,
-    "fips_id":"54055",
+    "geoid":"54055",
     "name":"Mercer",
     "state":"wv"
 },

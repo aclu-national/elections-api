@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1477179215,
     "area_water":971039,
-    "fips_id":"47103",
+    "geoid":"47103",
     "name":"Lincoln",
     "state":"tn"
 },

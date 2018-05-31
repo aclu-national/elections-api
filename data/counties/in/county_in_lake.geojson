@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1292050352,
     "area_water":330971523,
-    "fips_id":"18089",
+    "geoid":"18089",
     "name":"Lake",
     "state":"in"
 },

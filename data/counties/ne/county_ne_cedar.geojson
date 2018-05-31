@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1917219988,
     "area_water":14513825,
-    "fips_id":"31027",
+    "geoid":"31027",
     "name":"Cedar",
     "state":"ne"
 },

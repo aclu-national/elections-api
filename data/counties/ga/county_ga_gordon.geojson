@@ -4,7 +4,7 @@
   "properties": {
     "area_land":921597971,
     "area_water":5729801,
-    "fips_id":"13129",
+    "geoid":"13129",
     "name":"Gordon",
     "state":"ga"
 },

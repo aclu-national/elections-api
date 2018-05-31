@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1272156138,
     "area_water":9781460,
-    "fips_id":"37099",
+    "geoid":"37099",
     "name":"Jackson",
     "state":"nc"
 },

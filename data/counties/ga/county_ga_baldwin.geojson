@@ -4,7 +4,7 @@
   "properties": {
     "area_land":670027550,
     "area_water":24802965,
-    "fips_id":"13009",
+    "geoid":"13009",
     "name":"Baldwin",
     "state":"ga"
 },

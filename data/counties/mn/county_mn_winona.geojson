@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1621558336,
     "area_water":40131783,
-    "fips_id":"27169",
+    "geoid":"27169",
     "name":"Winona",
     "state":"mn"
 },

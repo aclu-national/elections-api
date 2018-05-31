@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1422134720,
     "area_water":15444070,
-    "fips_id":"45057",
+    "geoid":"45057",
     "name":"Lancaster",
     "state":"sc"
 },

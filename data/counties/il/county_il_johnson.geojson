@@ -4,7 +4,7 @@
   "properties": {
     "area_land":890741064,
     "area_water":12811451,
-    "fips_id":"17087",
+    "geoid":"17087",
     "name":"Johnson",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":498293891,
     "area_water":29602238,
-    "fips_id":"22121",
+    "geoid":"22121",
     "name":"West Baton Rouge",
     "state":"la"
 },

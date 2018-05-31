@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1462175613,
     "area_water":1385929,
-    "fips_id":"17177",
+    "geoid":"17177",
     "name":"Stephenson",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1515738965,
     "area_water":9686120,
-    "fips_id":"12003",
+    "geoid":"12003",
     "name":"Baker",
     "state":"fl"
 },

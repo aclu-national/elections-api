@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2583496854,
     "area_water":30113787,
-    "fips_id":"20173",
+    "geoid":"20173",
     "name":"Sedgwick",
     "state":"ks"
 },

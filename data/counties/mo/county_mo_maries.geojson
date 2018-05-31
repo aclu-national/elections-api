@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1364869337,
     "area_water":7636521,
-    "fips_id":"29125",
+    "geoid":"29125",
     "name":"Maries",
     "state":"mo"
 },

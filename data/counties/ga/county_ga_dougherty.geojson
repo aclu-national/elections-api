@@ -4,7 +4,7 @@
   "properties": {
     "area_land":851140307,
     "area_water":15396055,
-    "fips_id":"13095",
+    "geoid":"13095",
     "name":"Dougherty",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":966142717,
     "area_water":5556898,
-    "fips_id":"37089",
+    "geoid":"37089",
     "name":"Henderson",
     "state":"nc"
 },

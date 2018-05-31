@@ -4,7 +4,7 @@
   "properties": {
     "area_land":657402915,
     "area_water":77057164,
-    "fips_id":"17013",
+    "geoid":"17013",
     "name":"Calhoun",
     "state":"il"
 },

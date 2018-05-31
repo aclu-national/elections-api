@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2465269097,
     "area_water":1448446,
-    "fips_id":"31105",
+    "geoid":"31105",
     "name":"Kimball",
     "state":"ne"
 },

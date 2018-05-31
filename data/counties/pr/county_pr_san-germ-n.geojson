@@ -4,7 +4,7 @@
   "properties": {
     "area_land":141145018,
     "area_water":29360,
-    "fips_id":"72125",
+    "geoid":"72125",
     "name":"San Germ\u00e1n",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1749069420,
     "area_water":6631777,
-    "fips_id":"29077",
+    "geoid":"29077",
     "name":"Greene",
     "state":"mo"
 },

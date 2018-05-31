@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1237281310,
     "area_water":13464072,
-    "fips_id":"13103",
+    "geoid":"13103",
     "name":"Effingham",
     "state":"ga"
 },

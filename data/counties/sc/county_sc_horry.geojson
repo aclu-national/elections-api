@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2937082399,
     "area_water":313208767,
-    "fips_id":"45051",
+    "geoid":"45051",
     "name":"Horry",
     "state":"sc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1570625279,
     "area_water":334901690,
-    "fips_id":"12129",
+    "geoid":"12129",
     "name":"Wakulla",
     "state":"fl"
 },

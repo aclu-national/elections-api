@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10814958250,
     "area_water":11082875,
-    "fips_id":"32011",
+    "geoid":"32011",
     "name":"Eureka",
     "state":"nv"
 },

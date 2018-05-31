@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5534850492,
     "area_water":42012923,
-    "fips_id":"06039",
+    "geoid":"06039",
     "name":"Madera",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1867864472,
     "area_water":298677842,
-    "fips_id":"26147",
+    "geoid":"26147",
     "name":"St. Clair",
     "state":"mi"
 },

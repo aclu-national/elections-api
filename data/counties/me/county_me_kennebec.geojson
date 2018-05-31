@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2246806176,
     "area_water":216724439,
-    "fips_id":"23011",
+    "geoid":"23011",
     "name":"Kennebec",
     "state":"me"
 },

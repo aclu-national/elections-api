@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2050135759,
     "area_water":64289523,
-    "fips_id":"55123",
+    "geoid":"55123",
     "name":"Vernon",
     "state":"wi"
 },

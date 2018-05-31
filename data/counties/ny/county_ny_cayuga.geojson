@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1791190504,
     "area_water":445708175,
-    "fips_id":"36011",
+    "geoid":"36011",
     "name":"Cayuga",
     "state":"ny"
 },

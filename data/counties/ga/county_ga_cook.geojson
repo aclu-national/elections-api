@@ -4,7 +4,7 @@
   "properties": {
     "area_land":588450813,
     "area_water":15542061,
-    "fips_id":"13075",
+    "geoid":"13075",
     "name":"Cook",
     "state":"ga"
 },

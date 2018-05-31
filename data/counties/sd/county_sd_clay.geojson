@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1067154414,
     "area_water":13955950,
-    "fips_id":"46027",
+    "geoid":"46027",
     "name":"Clay",
     "state":"sd"
 },

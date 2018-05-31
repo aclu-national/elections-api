@@ -4,7 +4,7 @@
   "properties": {
     "area_land":962649223,
     "area_water":360044740,
-    "fips_id":"24035",
+    "geoid":"24035",
     "name":"Queen Anne's",
     "state":"md"
 },

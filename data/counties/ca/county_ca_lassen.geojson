@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11761615611,
     "area_water":463426050,
-    "fips_id":"06035",
+    "geoid":"06035",
     "name":"Lassen",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1056682426,
     "area_water":11653682,
-    "fips_id":"39127",
+    "geoid":"39127",
     "name":"Perry",
     "state":"oh"
 },

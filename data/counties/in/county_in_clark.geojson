@@ -4,7 +4,7 @@
   "properties": {
     "area_land":965646802,
     "area_water":9223876,
-    "fips_id":"18019",
+    "geoid":"18019",
     "name":"Clark",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":935603275,
     "area_water":7006691,
-    "fips_id":"37025",
+    "geoid":"37025",
     "name":"Cabarrus",
     "state":"nc"
 },

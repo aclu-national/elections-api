@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6637326498,
     "area_water":1800003936,
-    "fips_id":"23029",
+    "geoid":"23029",
     "name":"Washington",
     "state":"me"
 },

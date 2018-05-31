@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7149403319,
     "area_water":76395973,
-    "fips_id":"30089",
+    "geoid":"30089",
     "name":"Sanders",
     "state":"mt"
 },

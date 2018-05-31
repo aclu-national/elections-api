@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":1087273971.521839,
-    "district_num":12,
+    "district_num":"12",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"3412",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"nj"

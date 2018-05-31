@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2002208724,
     "area_water":12087996,
-    "fips_id":"20017",
+    "geoid":"20017",
     "name":"Chase",
     "state":"ks"
 },

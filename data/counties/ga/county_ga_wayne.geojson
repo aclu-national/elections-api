@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1662305031,
     "area_water":18071707,
-    "fips_id":"13305",
+    "geoid":"13305",
     "name":"Wayne",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2736299925,
     "area_water":198896760,
-    "fips_id":"45029",
+    "geoid":"45029",
     "name":"Colleton",
     "state":"sc"
 },

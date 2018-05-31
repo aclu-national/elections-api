@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2231423107,
     "area_water":61595965,
-    "fips_id":"48157",
+    "geoid":"48157",
     "name":"Fort Bend",
     "state":"tx"
 },

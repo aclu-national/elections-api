@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1838742723,
     "area_water":22103380,
-    "fips_id":"31087",
+    "geoid":"31087",
     "name":"Hitchcock",
     "state":"ne"
 },

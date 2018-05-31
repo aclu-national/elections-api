@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4853553119,
     "area_water":97384707,
-    "fips_id":"38049",
+    "geoid":"38049",
     "name":"McHenry",
     "state":"nd"
 },

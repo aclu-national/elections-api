@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2653593200,
     "area_water":43823568,
-    "fips_id":"38095",
+    "geoid":"38095",
     "name":"Towner",
     "state":"nd"
 },

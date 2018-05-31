@@ -4,7 +4,7 @@
   "properties": {
     "area_land":559100209,
     "area_water":8447343,
-    "fips_id":"13023",
+    "geoid":"13023",
     "name":"Bleckley",
     "state":"ga"
 },

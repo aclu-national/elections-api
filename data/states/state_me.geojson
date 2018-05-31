@@ -1,10 +1,10 @@
 {
-  "id": "state_state_me.geojson",
+  "id": "state_me.geojson",
   "type": "Feature",
   "properties": {
     "area_land":79885808421,
     "area_water":11748168571,
-    "fips_id":"23",
+    "geoid":"23",
     "name":"Maine",
     "state":"me"
 },

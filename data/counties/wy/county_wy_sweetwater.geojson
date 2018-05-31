@@ -4,7 +4,7 @@
   "properties": {
     "area_land":27005738206,
     "area_water":166246301,
-    "fips_id":"56037",
+    "geoid":"56037",
     "name":"Sweetwater",
     "state":"wy"
 },

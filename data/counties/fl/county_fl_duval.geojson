@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1975764931,
     "area_water":403035529,
-    "fips_id":"12031",
+    "geoid":"12031",
     "name":"Duval",
     "state":"fl"
 },

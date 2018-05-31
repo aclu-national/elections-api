@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1182135018,
     "area_water":746610,
-    "fips_id":"37117",
+    "geoid":"37117",
     "name":"Martin",
     "state":"nc"
 },

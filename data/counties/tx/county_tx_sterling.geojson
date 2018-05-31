@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2391722776,
     "area_water":167451,
-    "fips_id":"48431",
+    "geoid":"48431",
     "name":"Sterling",
     "state":"tx"
 },

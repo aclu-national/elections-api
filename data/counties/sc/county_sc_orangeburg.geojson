@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2864691029,
     "area_water":56516003,
-    "fips_id":"45075",
+    "geoid":"45075",
     "name":"Orangeburg",
     "state":"sc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1326342585,
     "area_water":4454719,
-    "fips_id":"13205",
+    "geoid":"13205",
     "name":"Mitchell",
     "state":"ga"
 },

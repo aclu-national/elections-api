@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1856984023,
     "area_water":2643458,
-    "fips_id":"31145",
+    "geoid":"31145",
     "name":"Red Willow",
     "state":"ne"
 },

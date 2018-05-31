@@ -4,7 +4,7 @@
   "properties": {
     "area_land":450428674,
     "area_water":1157428261,
-    "fips_id":"53055",
+    "geoid":"53055",
     "name":"San Juan",
     "state":"wa"
 },

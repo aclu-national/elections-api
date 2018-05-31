@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1586324705,
     "area_water":373710,
-    "fips_id":"47081",
+    "geoid":"47081",
     "name":"Hickman",
     "state":"tn"
 },

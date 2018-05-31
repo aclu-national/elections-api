@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1418509811,
     "area_water":83231177,
-    "fips_id":"12119",
+    "geoid":"12119",
     "name":"Sumter",
     "state":"fl"
 },

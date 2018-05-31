@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1055921780,
     "area_water":7808224,
-    "fips_id":"39149",
+    "geoid":"39149",
     "name":"Shelby",
     "state":"oh"
 },

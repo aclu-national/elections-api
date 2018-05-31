@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2260790978,
     "area_water":12793719,
-    "fips_id":"19193",
+    "geoid":"19193",
     "name":"Woodbury",
     "state":"ia"
 },

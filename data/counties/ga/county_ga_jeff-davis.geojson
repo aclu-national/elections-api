@@ -4,7 +4,7 @@
   "properties": {
     "area_land":856690612,
     "area_water":11986249,
-    "fips_id":"13161",
+    "geoid":"13161",
     "name":"Jeff Davis",
     "state":"ga"
 },

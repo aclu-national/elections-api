@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3146544262,
     "area_water":10978000,
-    "fips_id":"38087",
+    "geoid":"38087",
     "name":"Slope",
     "state":"nd"
 },

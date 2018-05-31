@@ -1,10 +1,10 @@
 {
-  "id": "state_state_ga.geojson",
+  "id": "state_ga.geojson",
   "type": "Feature",
   "properties": {
     "area_land":149177524294,
     "area_water":4733385577,
-    "fips_id":"13",
+    "geoid":"13",
     "name":"Georgia",
     "state":"ga"
 },

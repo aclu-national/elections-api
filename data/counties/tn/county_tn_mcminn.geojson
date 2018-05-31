@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1114009037,
     "area_water":5340571,
-    "fips_id":"47107",
+    "geoid":"47107",
     "name":"McMinn",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2330762291,
     "area_water":1197085,
-    "fips_id":"20051",
+    "geoid":"20051",
     "name":"Ellis",
     "state":"ks"
 },

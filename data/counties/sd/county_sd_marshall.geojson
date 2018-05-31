@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2170630077,
     "area_water":124680563,
-    "fips_id":"46091",
+    "geoid":"46091",
     "name":"Marshall",
     "state":"sd"
 },

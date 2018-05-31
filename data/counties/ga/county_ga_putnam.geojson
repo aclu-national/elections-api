@@ -4,7 +4,7 @@
   "properties": {
     "area_land":892652833,
     "area_water":41520809,
-    "fips_id":"13237",
+    "geoid":"13237",
     "name":"Putnam",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1448537069,
     "area_water":13551678,
-    "fips_id":"22083",
+    "geoid":"22083",
     "name":"Richland",
     "state":"la"
 },

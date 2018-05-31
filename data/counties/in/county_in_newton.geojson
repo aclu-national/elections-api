@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1040539918,
     "area_water":4349506,
-    "fips_id":"18111",
+    "geoid":"18111",
     "name":"Newton",
     "state":"in"
 },

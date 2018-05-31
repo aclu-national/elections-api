@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2930494902,
     "area_water":27610562,
-    "fips_id":"38021",
+    "geoid":"38021",
     "name":"Dickey",
     "state":"nd"
 },

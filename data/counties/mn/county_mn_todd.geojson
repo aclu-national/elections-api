@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2447451028,
     "area_water":89444026,
-    "fips_id":"27153",
+    "geoid":"27153",
     "name":"Todd",
     "state":"mn"
 },

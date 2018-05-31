@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2566235154,
     "area_water":722302593,
-    "fips_id":"23031",
+    "geoid":"23031",
     "name":"York",
     "state":"me"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1057871313,
     "area_water":1791496,
-    "fips_id":"28065",
+    "geoid":"28065",
     "name":"Jefferson Davis",
     "state":"ms"
 },

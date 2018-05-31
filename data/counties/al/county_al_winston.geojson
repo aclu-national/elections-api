@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1587608917,
     "area_water":48922729,
-    "fips_id":"01133",
+    "geoid":"01133",
     "name":"Winston",
     "state":"al"
 },

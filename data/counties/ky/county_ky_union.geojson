@@ -4,7 +4,7 @@
   "properties": {
     "area_land":887974689,
     "area_water":53167480,
-    "fips_id":"21225",
+    "geoid":"21225",
     "name":"Union",
     "state":"ky"
 },

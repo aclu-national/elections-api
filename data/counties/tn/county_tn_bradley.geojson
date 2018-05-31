@@ -4,7 +4,7 @@
   "properties": {
     "area_land":851489133,
     "area_water":6959140,
-    "fips_id":"47011",
+    "geoid":"47011",
     "name":"Bradley",
     "state":"tn"
 },

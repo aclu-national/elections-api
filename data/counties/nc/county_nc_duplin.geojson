@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2110160392,
     "area_water":14193280,
-    "fips_id":"37061",
+    "geoid":"37061",
     "name":"Duplin",
     "state":"nc"
 },

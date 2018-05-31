@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5827518214,
     "area_water":42730886,
-    "fips_id":"46019",
+    "geoid":"46019",
     "name":"Butte",
     "state":"sd"
 },

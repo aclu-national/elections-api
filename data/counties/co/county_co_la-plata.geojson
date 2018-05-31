@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4376522002,
     "area_water":25375721,
-    "fips_id":"08067",
+    "geoid":"08067",
     "name":"La Plata",
     "state":"co"
 },

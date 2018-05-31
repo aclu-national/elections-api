@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1826655021,
     "area_water":40083131,
-    "fips_id":"26117",
+    "geoid":"26117",
     "name":"Montcalm",
     "state":"mi"
 },

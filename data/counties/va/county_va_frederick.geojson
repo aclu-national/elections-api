@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1069672126,
     "area_water":6364651,
-    "fips_id":"51069",
+    "geoid":"51069",
     "name":"Frederick",
     "state":"va"
 },

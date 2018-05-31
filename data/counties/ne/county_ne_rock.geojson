@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2611466209,
     "area_water":8807750,
-    "fips_id":"31149",
+    "geoid":"31149",
     "name":"Rock",
     "state":"ne"
 },

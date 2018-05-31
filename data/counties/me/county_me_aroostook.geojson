@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17278038056,
     "area_water":405253238,
-    "fips_id":"23003",
+    "geoid":"23003",
     "name":"Aroostook",
     "state":"me"
 },

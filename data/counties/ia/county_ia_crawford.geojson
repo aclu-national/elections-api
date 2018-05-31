@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1849742884,
     "area_water":2194272,
-    "fips_id":"19047",
+    "geoid":"19047",
     "name":"Crawford",
     "state":"ia"
 },

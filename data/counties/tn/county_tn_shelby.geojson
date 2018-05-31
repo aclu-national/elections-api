@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1977720315,
     "area_water":55485268,
-    "fips_id":"47157",
+    "geoid":"47157",
     "name":"Shelby",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2721755826,
     "area_water":95727690,
-    "fips_id":"48027",
+    "geoid":"48027",
     "name":"Bell",
     "state":"tx"
 },

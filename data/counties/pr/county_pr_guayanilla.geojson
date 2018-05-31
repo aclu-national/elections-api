@@ -4,7 +4,7 @@
   "properties": {
     "area_land":109480387,
     "area_water":56911386,
-    "fips_id":"72059",
+    "geoid":"72059",
     "name":"Guayanilla",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9719815219,
     "area_water":155746682,
-    "fips_id":"32021",
+    "geoid":"32021",
     "name":"Mineral",
     "state":"nv"
 },

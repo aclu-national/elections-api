@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1125387966,
     "area_water":2248724,
-    "fips_id":"46061",
+    "geoid":"46061",
     "name":"Hanson",
     "state":"sd"
 },

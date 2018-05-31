@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5275597066,
     "area_water":4989941,
-    "fips_id":"41061",
+    "geoid":"41061",
     "name":"Union",
     "state":"or"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1349873574,
     "area_water":28676624,
-    "fips_id":"46135",
+    "geoid":"46135",
     "name":"Yankton",
     "state":"sd"
 },

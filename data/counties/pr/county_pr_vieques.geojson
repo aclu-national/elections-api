@@ -4,7 +4,7 @@
   "properties": {
     "area_land":131527813,
     "area_water":552206400,
-    "fips_id":"72147",
+    "geoid":"72147",
     "name":"Vieques",
     "state":"pr"
 },

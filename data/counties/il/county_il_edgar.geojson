@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1614542009,
     "area_water":1600421,
-    "fips_id":"17045",
+    "geoid":"17045",
     "name":"Edgar",
     "state":"il"
 },

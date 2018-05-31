@@ -4,7 +4,7 @@
   "properties": {
     "area_land":963936864,
     "area_water":5077778,
-    "fips_id":"17101",
+    "geoid":"17101",
     "name":"Lawrence",
     "state":"il"
 },

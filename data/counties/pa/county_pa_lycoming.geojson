@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3182098644,
     "area_water":39419361,
-    "fips_id":"42081",
+    "geoid":"42081",
     "name":"Lycoming",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1018815541,
     "area_water":5685855,
-    "fips_id":"45009",
+    "geoid":"45009",
     "name":"Bamberg",
     "state":"sc"
 },

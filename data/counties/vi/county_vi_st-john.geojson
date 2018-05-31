@@ -4,7 +4,7 @@
   "properties": {
     "area_land":50996518,
     "area_water":186671948,
-    "fips_id":"78020",
+    "geoid":"78020",
     "name":"St. John",
     "state":"vi"
 },

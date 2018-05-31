@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1625693280,
     "area_water":4330881,
-    "fips_id":"01057",
+    "geoid":"01057",
     "name":"Fayette",
     "state":"al"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1091232274,
     "area_water":5959003,
-    "fips_id":"39073",
+    "geoid":"39073",
     "name":"Hocking",
     "state":"oh"
 },

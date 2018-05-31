@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4117901449,
     "area_water":32049371,
-    "fips_id":"49039",
+    "geoid":"49039",
     "name":"Sanpete",
     "state":"ut"
 },

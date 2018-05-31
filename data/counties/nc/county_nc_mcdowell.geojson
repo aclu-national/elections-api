@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1139478112,
     "area_water":13977177,
-    "fips_id":"37111",
+    "geoid":"37111",
     "name":"McDowell",
     "state":"nc"
 },

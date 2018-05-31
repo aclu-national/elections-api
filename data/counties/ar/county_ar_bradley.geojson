@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1681514463,
     "area_water":9532926,
-    "fips_id":"05011",
+    "geoid":"05011",
     "name":"Bradley",
     "state":"ar"
 },

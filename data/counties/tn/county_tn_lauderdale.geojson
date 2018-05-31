@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1222389178,
     "area_water":92231159,
-    "fips_id":"47097",
+    "geoid":"47097",
     "name":"Lauderdale",
     "state":"tn"
 },

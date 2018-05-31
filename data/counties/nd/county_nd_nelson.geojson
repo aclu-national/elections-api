@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2542787677,
     "area_water":70033883,
-    "fips_id":"38063",
+    "geoid":"38063",
     "name":"Nelson",
     "state":"nd"
 },

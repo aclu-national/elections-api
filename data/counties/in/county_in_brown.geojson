@@ -4,7 +4,7 @@
   "properties": {
     "area_land":808043862,
     "area_water":12025993,
-    "fips_id":"18013",
+    "geoid":"18013",
     "name":"Brown",
     "state":"in"
 },

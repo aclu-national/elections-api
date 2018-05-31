@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1109126226,
     "area_water":6830041,
-    "fips_id":"13243",
+    "geoid":"13243",
     "name":"Randolph",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2701236315,
     "area_water":180102277,
-    "fips_id":"38057",
+    "geoid":"38057",
     "name":"Mercer",
     "state":"nd"
 },

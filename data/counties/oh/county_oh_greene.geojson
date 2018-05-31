@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1071555583,
     "area_water":6535068,
-    "fips_id":"39057",
+    "geoid":"39057",
     "name":"Greene",
     "state":"oh"
 },

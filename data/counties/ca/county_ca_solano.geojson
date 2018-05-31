@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2128347201,
     "area_water":218679972,
-    "fips_id":"06095",
+    "geoid":"06095",
     "name":"Solano",
     "state":"ca"
 },

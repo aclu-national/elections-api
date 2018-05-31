@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1398048570,
     "area_water":1646534,
-    "fips_id":"31137",
+    "geoid":"31137",
     "name":"Phelps",
     "state":"ne"
 },

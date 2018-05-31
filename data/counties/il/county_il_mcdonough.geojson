@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1526558090,
     "area_water":2012555,
-    "fips_id":"17109",
+    "geoid":"17109",
     "name":"McDonough",
     "state":"il"
 },

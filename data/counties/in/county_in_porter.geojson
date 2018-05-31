@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1082777926,
     "area_water":268688087,
-    "fips_id":"18127",
+    "geoid":"18127",
     "name":"Porter",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2376245593,
     "area_water":1141008039,
-    "fips_id":"45019",
+    "geoid":"45019",
     "name":"Charleston",
     "state":"sc"
 },

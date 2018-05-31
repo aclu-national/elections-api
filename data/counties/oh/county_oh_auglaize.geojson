@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1039603387,
     "area_water":1345186,
-    "fips_id":"39011",
+    "geoid":"39011",
     "name":"Auglaize",
     "state":"oh"
 },

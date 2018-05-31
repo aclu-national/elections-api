@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7715298889,
     "area_water":21091929,
-    "fips_id":"41013",
+    "geoid":"41013",
     "name":"Crook",
     "state":"or"
 },

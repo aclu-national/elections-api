@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1336136727,
     "area_water":224402177,
-    "fips_id":"13179",
+    "geoid":"13179",
     "name":"Liberty",
     "state":"ga"
 },

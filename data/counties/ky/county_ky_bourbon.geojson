@@ -4,7 +4,7 @@
   "properties": {
     "area_land":750370820,
     "area_water":4849018,
-    "fips_id":"21017",
+    "geoid":"21017",
     "name":"Bourbon",
     "state":"ky"
 },

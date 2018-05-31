@@ -4,7 +4,7 @@
   "properties": {
     "area_land":895302287,
     "area_water":12226982,
-    "fips_id":"54079",
+    "geoid":"54079",
     "name":"Putnam",
     "state":"wv"
 },

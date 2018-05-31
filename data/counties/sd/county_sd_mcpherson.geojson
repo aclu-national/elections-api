@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2943892857,
     "area_water":38569612,
-    "fips_id":"46089",
+    "geoid":"46089",
     "name":"McPherson",
     "state":"sd"
 },

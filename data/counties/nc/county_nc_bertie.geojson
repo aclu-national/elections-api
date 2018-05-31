@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1810858584,
     "area_water":109088135,
-    "fips_id":"37015",
+    "geoid":"37015",
     "name":"Bertie",
     "state":"nc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2911757797,
     "area_water":94596954,
-    "fips_id":"36111",
+    "geoid":"36111",
     "name":"Ulster",
     "state":"ny"
 },

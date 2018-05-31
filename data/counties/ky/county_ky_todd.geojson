@@ -4,7 +4,7 @@
   "properties": {
     "area_land":969941707,
     "area_water":6629026,
-    "fips_id":"21219",
+    "geoid":"21219",
     "name":"Todd",
     "state":"ky"
 },

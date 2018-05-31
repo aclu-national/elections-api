@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1679966574,
     "area_water":200159166,
-    "fips_id":"12089",
+    "geoid":"12089",
     "name":"Nassau",
     "state":"fl"
 },

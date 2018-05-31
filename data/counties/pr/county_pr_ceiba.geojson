@@ -4,7 +4,7 @@
   "properties": {
     "area_land":75201651,
     "area_water":336178483,
-    "fips_id":"72037",
+    "geoid":"72037",
     "name":"Ceiba",
     "state":"pr"
 },

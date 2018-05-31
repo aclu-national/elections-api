@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2326224060,
     "area_water":20348781,
-    "fips_id":"40073",
+    "geoid":"40073",
     "name":"Kingfisher",
     "state":"ok"
 },

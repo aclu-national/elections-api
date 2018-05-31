@@ -4,7 +4,7 @@
   "properties": {
     "area_land":790138587,
     "area_water":6033369,
-    "fips_id":"18029",
+    "geoid":"18029",
     "name":"Dearborn",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":39839069,
     "area_water":163454357,
-    "fips_id":"51735",
+    "geoid":"51735",
     "name":"Poquoson",
     "state":"va"
 },

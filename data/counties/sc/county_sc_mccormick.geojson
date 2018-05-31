@@ -4,7 +4,7 @@
   "properties": {
     "area_land":930141786,
     "area_water":89983085,
-    "fips_id":"45065",
+    "geoid":"45065",
     "name":"McCormick",
     "state":"sc"
 },

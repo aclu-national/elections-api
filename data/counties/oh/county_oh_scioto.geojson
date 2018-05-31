@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1580451539,
     "area_water":15363856,
-    "fips_id":"39145",
+    "geoid":"39145",
     "name":"Scioto",
     "state":"oh"
 },

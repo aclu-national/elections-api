@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2016645900,
     "area_water":10834897,
-    "fips_id":"42107",
+    "geoid":"42107",
     "name":"Schuylkill",
     "state":"pa"
 },

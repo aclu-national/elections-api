@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1215973894,
     "area_water":11924769,
-    "fips_id":"13317",
+    "geoid":"13317",
     "name":"Wilkes",
     "state":"ga"
 },

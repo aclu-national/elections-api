@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1757156969,
     "area_water":15316016,
-    "fips_id":"13303",
+    "geoid":"13303",
     "name":"Washington",
     "state":"ga"
 },

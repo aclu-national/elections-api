@@ -1,10 +1,10 @@
 {
-  "id": "state_state_la.geojson",
+  "id": "state_la.geojson",
   "type": "Feature",
   "properties": {
     "area_land":111904803121,
     "area_water":23746413153,
-    "fips_id":"22",
+    "geoid":"22",
     "name":"Louisiana",
     "state":"la"
 },

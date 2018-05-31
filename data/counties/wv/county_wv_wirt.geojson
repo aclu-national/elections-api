@@ -4,7 +4,7 @@
   "properties": {
     "area_land":602201080,
     "area_water":5839706,
-    "fips_id":"54105",
+    "geoid":"54105",
     "name":"Wirt",
     "state":"wv"
 },

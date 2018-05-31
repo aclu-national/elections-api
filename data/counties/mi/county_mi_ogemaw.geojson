@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1459425379,
     "area_water":29682543,
-    "fips_id":"26129",
+    "geoid":"26129",
     "name":"Ogemaw",
     "state":"mi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2048686077,
     "area_water":36754700,
-    "fips_id":"01127",
+    "geoid":"01127",
     "name":"Walker",
     "state":"al"
 },

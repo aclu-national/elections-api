@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1853819910,
     "area_water":64225067,
-    "fips_id":"17119",
+    "geoid":"17119",
     "name":"Madison",
     "state":"il"
 },

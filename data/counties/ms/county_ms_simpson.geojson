@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1525930832,
     "area_water":3378529,
-    "fips_id":"28127",
+    "geoid":"28127",
     "name":"Simpson",
     "state":"ms"
 },

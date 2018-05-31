@@ -4,7 +4,7 @@
   "properties": {
     "area_land":573038008,
     "area_water":1629508,
-    "fips_id":"37121",
+    "geoid":"37121",
     "name":"Mitchell",
     "state":"nc"
 },

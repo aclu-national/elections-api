@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5201888569,
     "area_water":190575791,
-    "fips_id":"38025",
+    "geoid":"38025",
     "name":"Dunn",
     "state":"nd"
 },

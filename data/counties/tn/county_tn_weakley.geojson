@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1503107889,
     "area_water":3707115,
-    "fips_id":"47183",
+    "geoid":"47183",
     "name":"Weakley",
     "state":"tn"
 },

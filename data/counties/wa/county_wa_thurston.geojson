@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1871173425,
     "area_water":133711607,
-    "fips_id":"53067",
+    "geoid":"53067",
     "name":"Thurston",
     "state":"wa"
 },

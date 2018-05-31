@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1534813236,
     "area_water":19159074,
-    "fips_id":"29131",
+    "geoid":"29131",
     "name":"Miller",
     "state":"mo"
 },

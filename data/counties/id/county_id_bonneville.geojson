@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4832874977,
     "area_water":88853019,
-    "fips_id":"16019",
+    "geoid":"16019",
     "name":"Bonneville",
     "state":"id"
 },

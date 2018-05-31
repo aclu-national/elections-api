@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1560275634,
     "area_water":15717389,
-    "fips_id":"06101",
+    "geoid":"06101",
     "name":"Sutter",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4718271444,
     "area_water":449535492,
-    "fips_id":"27001",
+    "geoid":"27001",
     "name":"Aitkin",
     "state":"mn"
 },

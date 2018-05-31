@@ -1,10 +1,10 @@
 {
-  "id": "state_state_nc.geojson",
+  "id": "state_nc.geojson",
   "type": "Feature",
   "properties": {
     "area_land":125919712692,
     "area_water":13470113896,
-    "fips_id":"37",
+    "geoid":"37",
     "name":"North Carolina",
     "state":"nc"
 },

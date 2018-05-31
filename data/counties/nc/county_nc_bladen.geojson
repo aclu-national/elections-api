@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2265870801,
     "area_water":33027800,
-    "fips_id":"37017",
+    "geoid":"37017",
     "name":"Bladen",
     "state":"nc"
 },

@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":603486296.963038,
-    "district_num":26,
+    "district_num":"26",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"3626",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"ny"

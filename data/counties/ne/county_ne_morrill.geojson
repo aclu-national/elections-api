@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3687723999,
     "area_water":15598670,
-    "fips_id":"31123",
+    "geoid":"31123",
     "name":"Morrill",
     "state":"ne"
 },

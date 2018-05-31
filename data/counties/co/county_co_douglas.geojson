@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2176069189,
     "area_water":6950848,
-    "fips_id":"08035",
+    "geoid":"08035",
     "name":"Douglas",
     "state":"co"
 },

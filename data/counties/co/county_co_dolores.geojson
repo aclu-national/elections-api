@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2763958520,
     "area_water":2716141,
-    "fips_id":"08033",
+    "geoid":"08033",
     "name":"Dolores",
     "state":"co"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1185609331,
     "area_water":24803926,
-    "fips_id":"24043",
+    "geoid":"24043",
     "name":"Washington",
     "state":"md"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1211828533,
     "area_water":12648364,
-    "fips_id":"51085",
+    "geoid":"51085",
     "name":"Hanover",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":63760578688,
     "area_water":1704714297,
-    "fips_id":"02170",
+    "geoid":"02170",
     "name":"Matanuska-Susitna",
     "state":"ak"
 },

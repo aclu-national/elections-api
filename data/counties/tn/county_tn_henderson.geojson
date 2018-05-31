@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1346816726,
     "area_water":15219341,
-    "fips_id":"47077",
+    "geoid":"47077",
     "name":"Henderson",
     "state":"tn"
 },

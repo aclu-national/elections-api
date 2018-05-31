@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1009985069,
     "area_water":8388604,
-    "fips_id":"31177",
+    "geoid":"31177",
     "name":"Washington",
     "state":"ne"
 },

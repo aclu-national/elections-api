@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478550074,
     "area_water":3196147,
-    "fips_id":"20013",
+    "geoid":"20013",
     "name":"Brown",
     "state":"ks"
 },

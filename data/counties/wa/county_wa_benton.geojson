@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4402976584,
     "area_water":154626802,
-    "fips_id":"53005",
+    "geoid":"53005",
     "name":"Benton",
     "state":"wa"
 },

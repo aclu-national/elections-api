@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1755290919,
     "area_water":147383373,
-    "fips_id":"05051",
+    "geoid":"05051",
     "name":"Garland",
     "state":"ar"
 },

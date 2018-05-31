@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1600938408,
     "area_water":47766218,
-    "fips_id":"39155",
+    "geoid":"39155",
     "name":"Trumbull",
     "state":"oh"
 },

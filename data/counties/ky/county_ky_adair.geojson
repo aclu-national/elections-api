@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1049678094,
     "area_water":18430783,
-    "fips_id":"21001",
+    "geoid":"21001",
     "name":"Adair",
     "state":"ky"
 },

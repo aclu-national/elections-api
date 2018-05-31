@@ -4,7 +4,7 @@
   "properties": {
     "area_land":709481149,
     "area_water":31126025,
-    "fips_id":"51101",
+    "geoid":"51101",
     "name":"King William",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":72498510,
     "area_water":196726220,
-    "fips_id":"60050",
+    "geoid":"60050",
     "name":"Western",
     "state":"as"
 },

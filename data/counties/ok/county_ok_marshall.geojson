@@ -4,7 +4,7 @@
   "properties": {
     "area_land":962336585,
     "area_water":143420175,
-    "fips_id":"40095",
+    "geoid":"40095",
     "name":"Marshall",
     "state":"ok"
 },

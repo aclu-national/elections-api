@@ -4,7 +4,7 @@
   "properties": {
     "area_land":164788358,
     "area_water":402899,
-    "fips_id":"72107",
+    "geoid":"72107",
     "name":"Orocovis",
     "state":"pr"
 },

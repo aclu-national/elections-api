@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1651867901,
     "area_water":1439673,
-    "fips_id":"12049",
+    "geoid":"12049",
     "name":"Hardee",
     "state":"fl"
 },

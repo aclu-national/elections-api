@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1475260906,
     "area_water":4255701,
-    "fips_id":"19073",
+    "geoid":"19073",
     "name":"Greene",
     "state":"ia"
 },

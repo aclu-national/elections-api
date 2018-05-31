@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2680852086,
     "area_water":18293044,
-    "fips_id":"05145",
+    "geoid":"05145",
     "name":"White",
     "state":"ar"
 },

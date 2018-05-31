@@ -4,7 +4,7 @@
   "properties": {
     "area_land":438813602,
     "area_water":467285512,
-    "fips_id":"22071",
+    "geoid":"22071",
     "name":"Orleans",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2607664601,
     "area_water":164384696,
-    "fips_id":"46119",
+    "geoid":"46119",
     "name":"Sully",
     "state":"sd"
 },

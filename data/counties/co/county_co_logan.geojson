@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4761948002,
     "area_water":16363553,
-    "fips_id":"08075",
+    "geoid":"08075",
     "name":"Logan",
     "state":"co"
 },

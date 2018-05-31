@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8039819178,
     "area_water":129002560,
-    "fips_id":"27071",
+    "geoid":"27071",
     "name":"Koochiching",
     "state":"mn"
 },

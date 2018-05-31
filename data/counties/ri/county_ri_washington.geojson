@@ -4,7 +4,7 @@
   "properties": {
     "area_land":852825659,
     "area_water":604771644,
-    "fips_id":"44009",
+    "geoid":"44009",
     "name":"Washington",
     "state":"ri"
 },

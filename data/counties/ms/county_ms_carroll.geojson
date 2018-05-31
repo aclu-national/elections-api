@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1627140833,
     "area_water":16426880,
-    "fips_id":"28015",
+    "geoid":"28015",
     "name":"Carroll",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":553844796,
     "area_water":110561084,
-    "fips_id":"21143",
+    "geoid":"21143",
     "name":"Lyon",
     "state":"ky"
 },

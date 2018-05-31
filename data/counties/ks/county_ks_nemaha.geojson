@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1858124407,
     "area_water":5208983,
-    "fips_id":"20131",
+    "geoid":"20131",
     "name":"Nemaha",
     "state":"ks"
 },

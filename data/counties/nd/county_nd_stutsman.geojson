@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5754301968,
     "area_water":197312587,
-    "fips_id":"38093",
+    "geoid":"38093",
     "name":"Stutsman",
     "state":"nd"
 },

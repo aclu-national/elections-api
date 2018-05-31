@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1132612023,
     "area_water":17365488,
-    "fips_id":"13271",
+    "geoid":"13271",
     "name":"Telfair",
     "state":"ga"
 },

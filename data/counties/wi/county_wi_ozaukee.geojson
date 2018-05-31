@@ -4,7 +4,7 @@
   "properties": {
     "area_land":603471584,
     "area_water":2287458200,
-    "fips_id":"55089",
+    "geoid":"55089",
     "name":"Ozaukee",
     "state":"wi"
 },

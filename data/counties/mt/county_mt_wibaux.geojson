@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2301488703,
     "area_water":1756846,
-    "fips_id":"30109",
+    "geoid":"30109",
     "name":"Wibaux",
     "state":"mt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1158541310,
     "area_water":12003359,
-    "fips_id":"13319",
+    "geoid":"13319",
     "name":"Wilkinson",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1763165632,
     "area_water":39248969,
-    "fips_id":"45091",
+    "geoid":"45091",
     "name":"York",
     "state":"sc"
 },

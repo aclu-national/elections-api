@@ -4,7 +4,7 @@
   "properties": {
     "area_land":894055741,
     "area_water":3407438,
-    "fips_id":"21109",
+    "geoid":"21109",
     "name":"Jackson",
     "state":"ky"
 },

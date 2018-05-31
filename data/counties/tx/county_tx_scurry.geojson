@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2345090489,
     "area_water":5436958,
-    "fips_id":"48415",
+    "geoid":"48415",
     "name":"Scurry",
     "state":"tx"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":510864294,
     "area_water":21164151,
-    "fips_id":"21053",
+    "geoid":"21053",
     "name":"Clinton",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":926189694,
     "area_water":7038300,
-    "fips_id":"18021",
+    "geoid":"18021",
     "name":"Clay",
     "state":"in"
 },

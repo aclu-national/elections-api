@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4988626570,
     "area_water":50054878,
-    "fips_id":"38059",
+    "geoid":"38059",
     "name":"Morton",
     "state":"nd"
 },

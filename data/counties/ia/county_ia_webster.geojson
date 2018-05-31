@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1853586077,
     "area_water":7278162,
-    "fips_id":"19187",
+    "geoid":"19187",
     "name":"Webster",
     "state":"ia"
 },

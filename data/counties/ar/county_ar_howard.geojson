@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1524380220,
     "area_water":17475726,
-    "fips_id":"05061",
+    "geoid":"05061",
     "name":"Howard",
     "state":"ar"
 },

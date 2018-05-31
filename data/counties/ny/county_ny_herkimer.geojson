@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3655805548,
     "area_water":120422420,
-    "fips_id":"36043",
+    "geoid":"36043",
     "name":"Herkimer",
     "state":"ny"
 },

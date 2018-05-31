@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6746899240,
     "area_water":74547800,
-    "fips_id":"30031",
+    "geoid":"30031",
     "name":"Gallatin",
     "state":"mt"
 },

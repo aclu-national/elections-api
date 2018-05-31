@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2164393695,
     "area_water":988818232,
-    "fips_id":"23005",
+    "geoid":"23005",
     "name":"Cumberland",
     "state":"me"
 },

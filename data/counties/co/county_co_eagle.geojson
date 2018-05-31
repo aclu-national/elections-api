@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4362804330,
     "area_water":18920534,
-    "fips_id":"08037",
+    "geoid":"08037",
     "name":"Eagle",
     "state":"co"
 },

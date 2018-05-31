@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2317419238,
     "area_water":10139803,
-    "fips_id":"20201",
+    "geoid":"20201",
     "name":"Washington",
     "state":"ks"
 },

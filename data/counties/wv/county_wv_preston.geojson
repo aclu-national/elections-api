@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1680406633,
     "area_water":6681831,
-    "fips_id":"54077",
+    "geoid":"54077",
     "name":"Preston",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1127885581,
     "area_water":10166470,
-    "fips_id":"19017",
+    "geoid":"19017",
     "name":"Bremer",
     "state":"ia"
 },

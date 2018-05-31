@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4977213745,
     "area_water":18063174,
-    "fips_id":"16083",
+    "geoid":"16083",
     "name":"Twin Falls",
     "state":"id"
 },

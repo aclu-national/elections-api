@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1324722118,
     "area_water":32235596,
-    "fips_id":"37159",
+    "geoid":"37159",
     "name":"Rowan",
     "state":"nc"
 },

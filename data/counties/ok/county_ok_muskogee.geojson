@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2099053124,
     "area_water":75966890,
-    "fips_id":"40101",
+    "geoid":"40101",
     "name":"Muskogee",
     "state":"ok"
 },

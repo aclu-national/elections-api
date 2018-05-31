@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2606117992,
     "area_water":578742645,
-    "fips_id":"06015",
+    "geoid":"06015",
     "name":"Del Norte",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1239988859,
     "area_water":26637585,
-    "fips_id":"12059",
+    "geoid":"12059",
     "name":"Holmes",
     "state":"fl"
 },

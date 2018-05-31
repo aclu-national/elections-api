@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2692810852,
     "area_water":667359,
-    "fips_id":"54083",
+    "geoid":"54083",
     "name":"Randolph",
     "state":"wv"
 },

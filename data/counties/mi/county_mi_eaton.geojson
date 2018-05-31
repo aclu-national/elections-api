@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1489714027,
     "area_water":11011332,
-    "fips_id":"26045",
+    "geoid":"26045",
     "name":"Eaton",
     "state":"mi"
 },

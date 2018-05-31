@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2854517985,
     "area_water":970153168,
-    "fips_id":"26053",
+    "geoid":"26053",
     "name":"Gogebic",
     "state":"mi"
 },

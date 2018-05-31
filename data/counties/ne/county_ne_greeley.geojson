@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1475804206,
     "area_water":2188873,
-    "fips_id":"31077",
+    "geoid":"31077",
     "name":"Greeley",
     "state":"ne"
 },

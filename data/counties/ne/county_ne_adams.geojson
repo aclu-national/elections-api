@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1458869099,
     "area_water":2481410,
-    "fips_id":"31001",
+    "geoid":"31001",
     "name":"Adams",
     "state":"ne"
 },

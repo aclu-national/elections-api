@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2766953348,
     "area_water":1037594367,
-    "fips_id":"22057",
+    "geoid":"22057",
     "name":"Lafourche",
     "state":"la"
 },

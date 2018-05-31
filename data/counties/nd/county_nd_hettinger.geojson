@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2932411624,
     "area_water":4036912,
-    "fips_id":"38041",
+    "geoid":"38041",
     "name":"Hettinger",
     "state":"nd"
 },

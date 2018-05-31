@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1982544974,
     "area_water":21693803,
-    "fips_id":"48145",
+    "geoid":"48145",
     "name":"Falls",
     "state":"tx"
 },

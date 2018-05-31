@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1218342693,
     "area_water":629922,
-    "fips_id":"39065",
+    "geoid":"39065",
     "name":"Hardin",
     "state":"oh"
 },

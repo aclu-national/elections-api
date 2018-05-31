@@ -4,7 +4,7 @@
   "properties": {
     "area_land":873292849,
     "area_water":19724754,
-    "fips_id":"47001",
+    "geoid":"47001",
     "name":"Anderson",
     "state":"tn"
 },

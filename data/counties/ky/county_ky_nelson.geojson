@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1081354955,
     "area_water":16997387,
-    "fips_id":"21179",
+    "geoid":"21179",
     "name":"Nelson",
     "state":"ky"
 },

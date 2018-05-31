@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1492520445,
     "area_water":216460044,
-    "fips_id":"49057",
+    "geoid":"49057",
     "name":"Weber",
     "state":"ut"
 },

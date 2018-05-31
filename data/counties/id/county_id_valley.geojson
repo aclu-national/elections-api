@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9492623106,
     "area_water":177058013,
-    "fips_id":"16085",
+    "geoid":"16085",
     "name":"Valley",
     "state":"id"
 },

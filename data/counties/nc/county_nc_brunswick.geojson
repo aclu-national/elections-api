@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2199384961,
     "area_water":518918118,
-    "fips_id":"37019",
+    "geoid":"37019",
     "name":"Brunswick",
     "state":"nc"
 },

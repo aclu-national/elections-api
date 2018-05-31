@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1119929328,
     "area_water":227815,
-    "fips_id":"27125",
+    "geoid":"27125",
     "name":"Red Lake",
     "state":"mn"
 },

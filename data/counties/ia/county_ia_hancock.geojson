@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478895055,
     "area_water":5265568,
-    "fips_id":"19081",
+    "geoid":"19081",
     "name":"Hancock",
     "state":"ia"
 },

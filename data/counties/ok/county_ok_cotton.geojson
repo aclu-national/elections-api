@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1638566730,
     "area_water":24095321,
-    "fips_id":"40033",
+    "geoid":"40033",
     "name":"Cotton",
     "state":"ok"
 },

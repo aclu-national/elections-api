@@ -4,7 +4,7 @@
   "properties": {
     "area_land":59870098,
     "area_water":79238790,
-    "fips_id":"72051",
+    "geoid":"72051",
     "name":"Dorado",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1479990669,
     "area_water":11547536,
-    "fips_id":"31159",
+    "geoid":"31159",
     "name":"Seward",
     "state":"ne"
 },

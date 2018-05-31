@@ -4,7 +4,7 @@
   "properties": {
     "area_land":729781719,
     "area_water":9487693,
-    "fips_id":"21209",
+    "geoid":"21209",
     "name":"Scott",
     "state":"ky"
 },

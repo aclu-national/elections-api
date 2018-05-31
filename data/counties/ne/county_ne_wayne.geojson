@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1147143905,
     "area_water":1087702,
-    "fips_id":"31179",
+    "geoid":"31179",
     "name":"Wayne",
     "state":"ne"
 },

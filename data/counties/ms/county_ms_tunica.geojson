@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1177602383,
     "area_water":67538891,
-    "fips_id":"28143",
+    "geoid":"28143",
     "name":"Tunica",
     "state":"ms"
 },

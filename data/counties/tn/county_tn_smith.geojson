@@ -4,7 +4,7 @@
   "properties": {
     "area_land":814020549,
     "area_water":28690300,
-    "fips_id":"47159",
+    "geoid":"47159",
     "name":"Smith",
     "state":"tn"
 },

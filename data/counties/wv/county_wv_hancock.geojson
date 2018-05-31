@@ -4,7 +4,7 @@
   "properties": {
     "area_land":213957146,
     "area_water":13879326,
-    "fips_id":"54029",
+    "geoid":"54029",
     "name":"Hancock",
     "state":"wv"
 },

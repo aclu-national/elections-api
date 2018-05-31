@@ -4,7 +4,7 @@
   "properties": {
     "area_land":88714041,
     "area_water":77812,
-    "fips_id":"72019",
+    "geoid":"72019",
     "name":"Barranquitas",
     "state":"pr"
 },

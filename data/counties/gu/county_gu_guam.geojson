@@ -4,7 +4,7 @@
   "properties": {
     "area_land":543558310,
     "area_water":934334983,
-    "fips_id":"66010",
+    "geoid":"66010",
     "name":"Guam",
     "state":"gu"
 },

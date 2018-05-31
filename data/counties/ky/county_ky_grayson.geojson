@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1291710298,
     "area_water":31853979,
-    "fips_id":"21085",
+    "geoid":"21085",
     "name":"Grayson",
     "state":"ky"
 },

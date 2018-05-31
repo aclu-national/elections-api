@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1165338399,
     "area_water":6617028,
-    "fips_id":"42113",
+    "geoid":"42113",
     "name":"Sullivan",
     "state":"pa"
 },

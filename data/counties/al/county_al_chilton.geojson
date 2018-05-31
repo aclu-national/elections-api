@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1794478905,
     "area_water":20590301,
-    "fips_id":"01021",
+    "geoid":"01021",
     "name":"Chilton",
     "state":"al"
 },

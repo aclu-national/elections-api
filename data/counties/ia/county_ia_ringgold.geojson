@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1386935176,
     "area_water":8720332,
-    "fips_id":"19159",
+    "geoid":"19159",
     "name":"Ringgold",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1207042799,
     "area_water":10872920,
-    "fips_id":"28035",
+    "geoid":"28035",
     "name":"Forrest",
     "state":"ms"
 },

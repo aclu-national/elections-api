@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1314052209,
     "area_water":4305247,
-    "fips_id":"29035",
+    "geoid":"29035",
     "name":"Carter",
     "state":"mo"
 },

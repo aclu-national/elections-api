@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1139208969,
     "area_water":2230956,
-    "fips_id":"31049",
+    "geoid":"31049",
     "name":"Deuel",
     "state":"ne"
 },

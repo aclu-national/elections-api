@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1889993244,
     "area_water":507796,
-    "fips_id":"20129",
+    "geoid":"20129",
     "name":"Morton",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1059698928,
     "area_water":3281853,
-    "fips_id":"39161",
+    "geoid":"39161",
     "name":"Van Wert",
     "state":"oh"
 },

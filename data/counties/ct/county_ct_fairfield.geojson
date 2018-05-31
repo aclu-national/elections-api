@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1618664433,
     "area_water":549280551,
-    "fips_id":"09001",
+    "geoid":"09001",
     "name":"Fairfield",
     "state":"ct"
 },

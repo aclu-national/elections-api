@@ -4,7 +4,7 @@
   "properties": {
     "area_land":737191047,
     "area_water":437282733,
-    "fips_id":"36059",
+    "geoid":"36059",
     "name":"Nassau",
     "state":"ny"
 },

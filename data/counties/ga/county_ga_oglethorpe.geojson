@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1137034765,
     "area_water":7838679,
-    "fips_id":"13221",
+    "geoid":"13221",
     "name":"Oglethorpe",
     "state":"ga"
 },

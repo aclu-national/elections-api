@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1855771079,
     "area_water":128817905,
-    "fips_id":"01123",
+    "geoid":"01123",
     "name":"Tallapoosa",
     "state":"al"
 },

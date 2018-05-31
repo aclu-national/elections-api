@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1026465038,
     "area_water":17326366,
-    "fips_id":"18097",
+    "geoid":"18097",
     "name":"Marion",
     "state":"in"
 },

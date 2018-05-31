@@ -4,7 +4,7 @@
   "properties": {
     "area_land":26668801,
     "area_water":1324529,
-    "fips_id":"51670",
+    "geoid":"51670",
     "name":"Hopewell",
     "state":"va"
 },

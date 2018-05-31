@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2107183535,
     "area_water":572535186,
-    "fips_id":"45043",
+    "geoid":"45043",
     "name":"Georgetown",
     "state":"sc"
 },

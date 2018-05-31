@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1524245417,
     "area_water":77800995,
-    "fips_id":"28149",
+    "geoid":"28149",
     "name":"Warren",
     "state":"ms"
 },

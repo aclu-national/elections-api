@@ -4,7 +4,7 @@
   "properties": {
     "area_land":150855462,
     "area_water":160479920,
-    "fips_id":"25025",
+    "geoid":"25025",
     "name":"Suffolk",
     "state":"ma"
 },

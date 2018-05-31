@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8537474409,
     "area_water":11390956,
-    "fips_id":"49021",
+    "geoid":"49021",
     "name":"Iron",
     "state":"ut"
 },

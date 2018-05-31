@@ -1,10 +1,10 @@
 {
-  "id": "state_state_co.geojson",
+  "id": "state_co.geojson",
   "type": "Feature",
   "properties": {
     "area_land":268425964573,
     "area_water":1178495763,
-    "fips_id":"08",
+    "geoid":"08",
     "name":"Colorado",
     "state":"co"
 },

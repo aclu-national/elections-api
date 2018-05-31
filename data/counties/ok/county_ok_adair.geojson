@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1485304967,
     "area_water":9254749,
-    "fips_id":"40001",
+    "geoid":"40001",
     "name":"Adair",
     "state":"ok"
 },

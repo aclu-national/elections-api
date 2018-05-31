@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1057772583,
     "area_water":2796210,
-    "fips_id":"22091",
+    "geoid":"22091",
     "name":"St. Helena",
     "state":"la"
 },

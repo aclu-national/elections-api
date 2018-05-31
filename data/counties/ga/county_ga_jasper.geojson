@@ -4,7 +4,7 @@
   "properties": {
     "area_land":953536358,
     "area_water":13732175,
-    "fips_id":"13159",
+    "geoid":"13159",
     "name":"Jasper",
     "state":"ga"
 },

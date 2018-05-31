@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8206547707,
     "area_water":4454510,
-    "fips_id":"08109",
+    "geoid":"08109",
     "name":"Saguache",
     "state":"co"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":115340543,
     "area_water":3091,
-    "fips_id":"72073",
+    "geoid":"72073",
     "name":"Jayuya",
     "state":"pr"
 },

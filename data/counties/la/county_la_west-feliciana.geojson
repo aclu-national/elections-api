@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1044342243,
     "area_water":58999603,
-    "fips_id":"22125",
+    "geoid":"22125",
     "name":"West Feliciana",
     "state":"la"
 },

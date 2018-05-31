@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1242867984,
     "area_water":14488283,
-    "fips_id":"45069",
+    "geoid":"45069",
     "name":"Marlboro",
     "state":"sc"
 },

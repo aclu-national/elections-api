@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1404756919,
     "area_water":86766886,
-    "fips_id":"47065",
+    "geoid":"47065",
     "name":"Hamilton",
     "state":"tn"
 },

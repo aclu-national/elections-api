@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1702151431,
     "area_water":1837595092,
-    "fips_id":"36055",
+    "geoid":"36055",
     "name":"Monroe",
     "state":"ny"
 },

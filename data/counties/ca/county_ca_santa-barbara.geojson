@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7084000622,
     "area_water":2729814515,
-    "fips_id":"06083",
+    "geoid":"06083",
     "name":"Santa Barbara",
     "state":"ca"
 },

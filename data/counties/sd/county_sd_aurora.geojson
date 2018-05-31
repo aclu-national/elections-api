@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1834813747,
     "area_water":11201379,
-    "fips_id":"46003",
+    "geoid":"46003",
     "name":"Aurora",
     "state":"sd"
 },

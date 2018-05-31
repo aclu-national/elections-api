@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10323705895,
     "area_water":79558079,
-    "fips_id":"08123",
+    "geoid":"08123",
     "name":"Weld",
     "state":"co"
 },

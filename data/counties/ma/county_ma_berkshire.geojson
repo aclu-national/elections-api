@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2400678868,
     "area_water":50642922,
-    "fips_id":"25003",
+    "geoid":"25003",
     "name":"Berkshire",
     "state":"ma"
 },

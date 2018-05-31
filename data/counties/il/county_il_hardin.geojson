@@ -4,7 +4,7 @@
   "properties": {
     "area_land":459696734,
     "area_water":10588858,
-    "fips_id":"17069",
+    "geoid":"17069",
     "name":"Hardin",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1844947511,
     "area_water":44649915,
-    "fips_id":"27091",
+    "geoid":"27091",
     "name":"Martin",
     "state":"mn"
 },

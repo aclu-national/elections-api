@@ -4,7 +4,7 @@
   "properties": {
     "area_land":336212809,
     "area_water":5918272,
-    "fips_id":"13247",
+    "geoid":"13247",
     "name":"Rockdale",
     "state":"ga"
 },

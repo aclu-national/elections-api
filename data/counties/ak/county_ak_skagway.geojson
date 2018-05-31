@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1124107036,
     "area_water":28607173,
-    "fips_id":"02230",
+    "geoid":"02230",
     "name":"Skagway",
     "state":"ak"
 },

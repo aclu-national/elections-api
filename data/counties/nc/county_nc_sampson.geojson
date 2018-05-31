@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2449357429,
     "area_water":4923826,
-    "fips_id":"37163",
+    "geoid":"37163",
     "name":"Sampson",
     "state":"nc"
 },

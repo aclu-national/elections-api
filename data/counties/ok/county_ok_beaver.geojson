@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4700042738,
     "area_water":7347161,
-    "fips_id":"40007",
+    "geoid":"40007",
     "name":"Beaver",
     "state":"ok"
 },

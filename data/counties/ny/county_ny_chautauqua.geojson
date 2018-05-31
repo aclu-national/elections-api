@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2745967850,
     "area_water":1139487496,
-    "fips_id":"36013",
+    "geoid":"36013",
     "name":"Chautauqua",
     "state":"ny"
 },

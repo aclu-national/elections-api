@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2075118128,
     "area_water":28912824,
-    "fips_id":"29121",
+    "geoid":"29121",
     "name":"Macon",
     "state":"mo"
 },

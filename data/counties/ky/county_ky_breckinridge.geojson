@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1469049378,
     "area_water":47701854,
-    "fips_id":"21027",
+    "geoid":"21027",
     "name":"Breckinridge",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":689901003,
     "area_water":2142395,
-    "fips_id":"51157",
+    "geoid":"51157",
     "name":"Rappahannock",
     "state":"va"
 },

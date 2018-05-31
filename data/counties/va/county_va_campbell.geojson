@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1303240046,
     "area_water":8955341,
-    "fips_id":"51031",
+    "geoid":"51031",
     "name":"Campbell",
     "state":"va"
 },

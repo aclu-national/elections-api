@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1670079465,
     "area_water":15039864,
-    "fips_id":"01009",
+    "geoid":"01009",
     "name":"Blount",
     "state":"al"
 },

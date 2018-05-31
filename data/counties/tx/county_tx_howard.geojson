@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2333039139,
     "area_water":8841781,
-    "fips_id":"48227",
+    "geoid":"48227",
     "name":"Howard",
     "state":"tx"
 },

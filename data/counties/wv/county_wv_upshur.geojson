@@ -4,7 +4,7 @@
   "properties": {
     "area_land":918506896,
     "area_water":302703,
-    "fips_id":"54097",
+    "geoid":"54097",
     "name":"Upshur",
     "state":"wv"
 },

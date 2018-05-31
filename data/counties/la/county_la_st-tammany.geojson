@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2190165998,
     "area_water":647368450,
-    "fips_id":"22103",
+    "geoid":"22103",
     "name":"St. Tammany",
     "state":"la"
 },

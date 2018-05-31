@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1777452228,
     "area_water":61132194,
-    "fips_id":"45039",
+    "geoid":"45039",
     "name":"Fairfield",
     "state":"sc"
 },

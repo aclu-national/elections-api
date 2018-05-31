@@ -4,7 +4,7 @@
   "properties": {
     "area_land":695519250,
     "area_water":539405840,
-    "fips_id":"24041",
+    "geoid":"24041",
     "name":"Talbot",
     "state":"md"
 },

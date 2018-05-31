@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1175209778,
     "area_water":4830034,
-    "fips_id":"54045",
+    "geoid":"54045",
     "name":"Logan",
     "state":"wv"
 },

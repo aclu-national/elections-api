@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12942465259,
     "area_water":49210403,
-    "fips_id":"30003",
+    "geoid":"30003",
     "name":"Big Horn",
     "state":"mt"
 },

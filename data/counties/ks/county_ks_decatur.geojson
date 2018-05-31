@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2314199314,
     "area_water":1631670,
-    "fips_id":"20039",
+    "geoid":"20039",
     "name":"Decatur",
     "state":"ks"
 },

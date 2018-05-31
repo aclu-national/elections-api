@@ -4,7 +4,7 @@
   "properties": {
     "area_land":120058280,
     "area_water":40430074,
-    "fips_id":"72027",
+    "geoid":"72027",
     "name":"Camuy",
     "state":"pr"
 },

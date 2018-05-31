@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2703626759,
     "area_water":33305608,
-    "fips_id":"48387",
+    "geoid":"48387",
     "name":"Red River",
     "state":"tx"
 },

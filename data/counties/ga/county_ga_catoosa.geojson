@@ -4,7 +4,7 @@
   "properties": {
     "area_land":419999268,
     "area_water":771158,
-    "fips_id":"13047",
+    "geoid":"13047",
     "name":"Catoosa",
     "state":"ga"
 },

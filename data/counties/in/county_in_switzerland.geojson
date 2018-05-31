@@ -4,7 +4,7 @@
   "properties": {
     "area_land":571509742,
     "area_water":7193732,
-    "fips_id":"18155",
+    "geoid":"18155",
     "name":"Switzerland",
     "state":"in"
 },

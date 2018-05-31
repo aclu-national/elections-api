@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6321833793,
     "area_water":74941797,
-    "fips_id":"31161",
+    "geoid":"31161",
     "name":"Sheridan",
     "state":"ne"
 },

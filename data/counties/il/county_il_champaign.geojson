@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2579733580,
     "area_water":6091992,
-    "fips_id":"17019",
+    "geoid":"17019",
     "name":"Champaign",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2447469694,
     "area_water":1786452809,
-    "fips_id":"17031",
+    "geoid":"17031",
     "name":"Cook",
     "state":"il"
 },

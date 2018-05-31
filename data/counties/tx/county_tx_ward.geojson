@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2164201087,
     "area_water":624206,
-    "fips_id":"48475",
+    "geoid":"48475",
     "name":"Ward",
     "state":"tx"
 },

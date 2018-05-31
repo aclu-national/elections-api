@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1115370272,
     "area_water":12999403,
-    "fips_id":"55131",
+    "geoid":"55131",
     "name":"Washington",
     "state":"wi"
 },

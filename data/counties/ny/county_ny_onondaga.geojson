@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2016012328,
     "area_water":70528316,
-    "fips_id":"36067",
+    "geoid":"36067",
     "name":"Onondaga",
     "state":"ny"
 },

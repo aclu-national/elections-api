@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11972778533,
     "area_water":47436491,
-    "fips_id":"04009",
+    "geoid":"04009",
     "name":"Graham",
     "state":"az"
 },

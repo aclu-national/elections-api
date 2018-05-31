@@ -4,7 +4,7 @@
   "properties": {
     "area_land":811512406,
     "area_water":570806,
-    "fips_id":"13055",
+    "geoid":"13055",
     "name":"Chattooga",
     "state":"ga"
 },

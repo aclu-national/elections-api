@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2117910304,
     "area_water":30527401,
-    "fips_id":"51083",
+    "geoid":"51083",
     "name":"Halifax",
     "state":"va"
 },

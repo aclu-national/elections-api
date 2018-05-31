@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1877069905,
     "area_water":94495553,
-    "fips_id":"28151",
+    "geoid":"28151",
     "name":"Washington",
     "state":"ms"
 },

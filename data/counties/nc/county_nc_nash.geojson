@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1399739716,
     "area_water":6177826,
-    "fips_id":"37127",
+    "geoid":"37127",
     "name":"Nash",
     "state":"nc"
 },

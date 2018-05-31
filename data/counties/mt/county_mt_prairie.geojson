@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4497780202,
     "area_water":15092932,
-    "fips_id":"30079",
+    "geoid":"30079",
     "name":"Prairie",
     "state":"mt"
 },

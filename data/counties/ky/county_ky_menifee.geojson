@@ -4,7 +4,7 @@
   "properties": {
     "area_land":527283187,
     "area_water":6084693,
-    "fips_id":"21165",
+    "geoid":"21165",
     "name":"Menifee",
     "state":"ky"
 },

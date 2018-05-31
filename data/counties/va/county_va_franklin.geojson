@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1788431417,
     "area_water":54655591,
-    "fips_id":"51067",
+    "geoid":"51067",
     "name":"Franklin",
     "state":"va"
 },

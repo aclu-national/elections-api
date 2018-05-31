@@ -4,7 +4,7 @@
   "properties": {
     "area_land":515887465,
     "area_water":10473563,
-    "fips_id":"17153",
+    "geoid":"17153",
     "name":"Pulaski",
     "state":"il"
 },

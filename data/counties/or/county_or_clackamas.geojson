@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4845049025,
     "area_water":31834351,
-    "fips_id":"41005",
+    "geoid":"41005",
     "name":"Clackamas",
     "state":"or"
 },

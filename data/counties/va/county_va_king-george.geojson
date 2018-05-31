@@ -4,7 +4,7 @@
   "properties": {
     "area_land":465080763,
     "area_water":21140635,
-    "fips_id":"51099",
+    "geoid":"51099",
     "name":"King George",
     "state":"va"
 },

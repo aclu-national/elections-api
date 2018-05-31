@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2040060549,
     "area_water":14842439,
-    "fips_id":"40125",
+    "geoid":"40125",
     "name":"Pottawatomie",
     "state":"ok"
 },

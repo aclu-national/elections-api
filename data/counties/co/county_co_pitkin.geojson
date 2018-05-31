@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2514104933,
     "area_water":6472574,
-    "fips_id":"08097",
+    "geoid":"08097",
     "name":"Pitkin",
     "state":"co"
 },

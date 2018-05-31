@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1040583090,
     "area_water":40784329,
-    "fips_id":"19115",
+    "geoid":"19115",
     "name":"Louisa",
     "state":"ia"
 },

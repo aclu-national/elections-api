@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1374395181,
     "area_water":159644687,
-    "fips_id":"48405",
+    "geoid":"48405",
     "name":"San Augustine",
     "state":"tx"
 },

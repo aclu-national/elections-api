@@ -4,7 +4,7 @@
   "properties": {
     "area_land":231034166,
     "area_water":8714144,
-    "fips_id":"54009",
+    "geoid":"54009",
     "name":"Brooke",
     "state":"wv"
 },

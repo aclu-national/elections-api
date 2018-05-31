@@ -4,7 +4,7 @@
   "properties": {
     "area_land":544880787,
     "area_water":121516946,
-    "fips_id":"13181",
+    "geoid":"13181",
     "name":"Lincoln",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1439588493,
     "area_water":438890089,
-    "fips_id":"12115",
+    "geoid":"12115",
     "name":"Sarasota",
     "state":"fl"
 },

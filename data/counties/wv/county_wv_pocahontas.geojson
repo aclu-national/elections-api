@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2435322222,
     "area_water":3978619,
-    "fips_id":"54075",
+    "geoid":"54075",
     "name":"Pocahontas",
     "state":"wv"
 },

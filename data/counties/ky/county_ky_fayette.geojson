@@ -4,7 +4,7 @@
   "properties": {
     "area_land":734615998,
     "area_water":4922111,
-    "fips_id":"21067",
+    "geoid":"21067",
     "name":"Fayette",
     "state":"ky"
 },

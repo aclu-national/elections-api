@@ -4,7 +4,7 @@
   "properties": {
     "area_land":296143587,
     "area_water":5960710,
-    "fips_id":"47169",
+    "geoid":"47169",
     "name":"Trousdale",
     "state":"tn"
 },

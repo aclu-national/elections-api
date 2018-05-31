@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1416682032,
     "area_water":25006488,
-    "fips_id":"13071",
+    "geoid":"13071",
     "name":"Colquitt",
     "state":"ga"
 },

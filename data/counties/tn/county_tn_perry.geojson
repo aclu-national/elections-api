@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1074185963,
     "area_water":21034745,
-    "fips_id":"47135",
+    "geoid":"47135",
     "name":"Perry",
     "state":"tn"
 },

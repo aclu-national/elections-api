@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1104350543,
     "area_water":8402198,
-    "fips_id":"29025",
+    "geoid":"29025",
     "name":"Caldwell",
     "state":"mo"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2097880370,
     "area_water":87571838,
-    "fips_id":"36091",
+    "geoid":"36091",
     "name":"Saratoga",
     "state":"ny"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1222192511,
     "area_water":7038401,
-    "fips_id":"37027",
+    "geoid":"37027",
     "name":"Caldwell",
     "state":"nc"
 },

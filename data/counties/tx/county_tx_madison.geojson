@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1207103467,
     "area_water":16493254,
-    "fips_id":"48313",
+    "geoid":"48313",
     "name":"Madison",
     "state":"tx"
 },

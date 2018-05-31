@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2069239325,
     "area_water":55032009,
-    "fips_id":"34005",
+    "geoid":"34005",
     "name":"Burlington",
     "state":"nj"
 },

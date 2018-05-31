@@ -4,7 +4,7 @@
   "properties": {
     "area_land":644243924,
     "area_water":50305452,
-    "fips_id":"21145",
+    "geoid":"21145",
     "name":"McCracken",
     "state":"ky"
 },

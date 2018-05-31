@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1451493239,
     "area_water":83353121,
-    "fips_id":"29183",
+    "geoid":"29183",
     "name":"St. Charles",
     "state":"mo"
 },

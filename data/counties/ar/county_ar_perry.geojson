@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1428543051,
     "area_water":23226441,
-    "fips_id":"05105",
+    "geoid":"05105",
     "name":"Perry",
     "state":"ar"
 },

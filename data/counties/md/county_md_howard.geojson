@@ -4,7 +4,7 @@
   "properties": {
     "area_land":649942723,
     "area_water":6345542,
-    "fips_id":"24027",
+    "geoid":"24027",
     "name":"Howard",
     "state":"md"
 },

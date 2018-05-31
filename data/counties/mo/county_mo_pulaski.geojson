@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1416985288,
     "area_water":11341981,
-    "fips_id":"29169",
+    "geoid":"29169",
     "name":"Pulaski",
     "state":"mo"
 },

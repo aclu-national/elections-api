@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1250824558,
     "area_water":11016543,
-    "fips_id":"42091",
+    "geoid":"42091",
     "name":"Montgomery",
     "state":"pa"
 },

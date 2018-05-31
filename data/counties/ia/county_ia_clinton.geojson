@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1799830900,
     "area_water":39514681,
-    "fips_id":"19045",
+    "geoid":"19045",
     "name":"Clinton",
     "state":"ia"
 },

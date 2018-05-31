@@ -4,7 +4,7 @@
   "properties": {
     "area_land":417568563,
     "area_water":10238515,
-    "fips_id":"18161",
+    "geoid":"18161",
     "name":"Union",
     "state":"in"
 },

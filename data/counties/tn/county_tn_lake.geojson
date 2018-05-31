@@ -4,7 +4,7 @@
   "properties": {
     "area_land":429381243,
     "area_water":72799687,
-    "fips_id":"47095",
+    "geoid":"47095",
     "name":"Lake",
     "state":"tn"
 },

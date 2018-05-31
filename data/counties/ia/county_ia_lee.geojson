@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1340422373,
     "area_water":55292890,
-    "fips_id":"19111",
+    "geoid":"19111",
     "name":"Lee",
     "state":"ia"
 },

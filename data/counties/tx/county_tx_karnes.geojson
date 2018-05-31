@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1936008340,
     "area_water":15671660,
-    "fips_id":"48255",
+    "geoid":"48255",
     "name":"Karnes",
     "state":"tx"
 },

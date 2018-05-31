@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2975481852,
     "area_water":11990484,
-    "fips_id":"38007",
+    "geoid":"38007",
     "name":"Billings",
     "state":"nd"
 },

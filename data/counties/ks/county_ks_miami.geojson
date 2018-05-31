@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1490955581,
     "area_water":37798751,
-    "fips_id":"20121",
+    "geoid":"20121",
     "name":"Miami",
     "state":"ks"
 },

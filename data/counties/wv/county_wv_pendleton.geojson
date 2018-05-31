@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1802751454,
     "area_water":5437237,
-    "fips_id":"54071",
+    "geoid":"54071",
     "name":"Pendleton",
     "state":"wv"
 },

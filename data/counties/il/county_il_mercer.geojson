@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1453500381,
     "area_water":19409929,
-    "fips_id":"17131",
+    "geoid":"17131",
     "name":"Mercer",
     "state":"il"
 },

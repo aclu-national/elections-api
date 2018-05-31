@@ -4,7 +4,7 @@
   "properties": {
     "area_land":436556188,
     "area_water":50710341,
-    "fips_id":"44003",
+    "geoid":"44003",
     "name":"Kent",
     "state":"ri"
 },

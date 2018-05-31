@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2704538434,
     "area_water":4401361,
-    "fips_id":"17105",
+    "geoid":"17105",
     "name":"Livingston",
     "state":"il"
 },

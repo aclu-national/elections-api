@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2201882935,
     "area_water":35592324,
-    "fips_id":"55033",
+    "geoid":"55033",
     "name":"Dunn",
     "state":"wi"
 },

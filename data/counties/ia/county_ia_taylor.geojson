@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1377618873,
     "area_water":7133364,
-    "fips_id":"19173",
+    "geoid":"19173",
     "name":"Taylor",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":159155302,
     "area_water":485277,
-    "fips_id":"72081",
+    "geoid":"72081",
     "name":"Lares",
     "state":"pr"
 },

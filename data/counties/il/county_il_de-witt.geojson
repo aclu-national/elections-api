@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1029643576,
     "area_water":19519851,
-    "fips_id":"17039",
+    "geoid":"17039",
     "name":"De Witt",
     "state":"il"
 },

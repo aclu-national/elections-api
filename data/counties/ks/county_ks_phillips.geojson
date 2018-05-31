@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2294395642,
     "area_water":22493382,
-    "fips_id":"20147",
+    "geoid":"20147",
     "name":"Phillips",
     "state":"ks"
 },

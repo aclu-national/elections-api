@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1465369216,
     "area_water":17862718,
-    "fips_id":"19013",
+    "geoid":"19013",
     "name":"Black Hawk",
     "state":"ia"
 },

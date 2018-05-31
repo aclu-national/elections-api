@@ -4,7 +4,7 @@
   "properties": {
     "area_land":814389209,
     "area_water":2641080,
-    "fips_id":"17129",
+    "geoid":"17129",
     "name":"Menard",
     "state":"il"
 },

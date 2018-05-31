@@ -4,7 +4,7 @@
   "properties": {
     "area_land":790416910,
     "area_water":14830126,
-    "fips_id":"21057",
+    "geoid":"21057",
     "name":"Cumberland",
     "state":"ky"
 },

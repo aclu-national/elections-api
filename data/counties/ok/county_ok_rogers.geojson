@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1749945924,
     "area_water":92823523,
-    "fips_id":"40131",
+    "geoid":"40131",
     "name":"Rogers",
     "state":"ok"
 },

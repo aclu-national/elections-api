@@ -1,10 +1,10 @@
 {
-  "id": "state_state_nd.geojson",
+  "id": "state_nd.geojson",
   "type": "Feature",
   "properties": {
     "area_land":178710423375,
     "area_water":4400396641,
-    "fips_id":"38",
+    "geoid":"38",
     "name":"North Dakota",
     "state":"nd"
 },

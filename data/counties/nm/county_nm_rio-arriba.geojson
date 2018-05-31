@@ -4,7 +4,7 @@
   "properties": {
     "area_land":15179716552,
     "area_water":91476917,
-    "fips_id":"35039",
+    "geoid":"35039",
     "name":"Rio Arriba",
     "state":"nm"
 },

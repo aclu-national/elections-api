@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1322996693,
     "area_water":14144661,
-    "fips_id":"54007",
+    "geoid":"54007",
     "name":"Braxton",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":265310311,
     "area_water":546985247,
-    "fips_id":"44005",
+    "geoid":"44005",
     "name":"Newport",
     "state":"ri"
 },

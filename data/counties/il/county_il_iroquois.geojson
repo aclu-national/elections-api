@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2893780721,
     "area_water":4225839,
-    "fips_id":"17075",
+    "geoid":"17075",
     "name":"Iroquois",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1085096687,
     "area_water":11719847,
-    "fips_id":"29049",
+    "geoid":"29049",
     "name":"Clinton",
     "state":"mo"
 },

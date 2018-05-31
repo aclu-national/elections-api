@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2525318829,
     "area_water":24686414,
-    "fips_id":"55119",
+    "geoid":"55119",
     "name":"Taylor",
     "state":"wi"
 },

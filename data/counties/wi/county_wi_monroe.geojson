@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2333327981,
     "area_water":18589237,
-    "fips_id":"55081",
+    "geoid":"55081",
     "name":"Monroe",
     "state":"wi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1153800122,
     "area_water":6712353,
-    "fips_id":"28131",
+    "geoid":"28131",
     "name":"Stone",
     "state":"ms"
 },

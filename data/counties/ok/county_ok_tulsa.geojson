@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1477021879,
     "area_water":43361035,
-    "fips_id":"40143",
+    "geoid":"40143",
     "name":"Tulsa",
     "state":"ok"
 },

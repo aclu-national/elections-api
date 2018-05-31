@@ -4,7 +4,7 @@
   "properties": {
     "area_land":948592039,
     "area_water":27228519,
-    "fips_id":"54107",
+    "geoid":"54107",
     "name":"Wood",
     "state":"wv"
 },

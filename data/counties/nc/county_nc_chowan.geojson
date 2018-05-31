@@ -4,7 +4,7 @@
   "properties": {
     "area_land":447179927,
     "area_water":157966162,
-    "fips_id":"37041",
+    "geoid":"37041",
     "name":"Chowan",
     "state":"nc"
 },

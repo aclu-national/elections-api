@@ -4,7 +4,7 @@
   "properties": {
     "area_land":481744927,
     "area_water":32079811,
-    "fips_id":"34031",
+    "geoid":"34031",
     "name":"Passaic",
     "state":"nj"
 },

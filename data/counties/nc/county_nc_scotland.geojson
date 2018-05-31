@@ -4,7 +4,7 @@
   "properties": {
     "area_land":826556054,
     "area_water":3841985,
-    "fips_id":"37165",
+    "geoid":"37165",
     "name":"Scotland",
     "state":"nc"
 },

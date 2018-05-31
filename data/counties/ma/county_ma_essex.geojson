@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1275355437,
     "area_water":870391710,
-    "fips_id":"25009",
+    "geoid":"25009",
     "name":"Essex",
     "state":"ma"
 },

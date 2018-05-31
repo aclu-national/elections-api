@@ -4,7 +4,7 @@
   "properties": {
     "area_land":158351639,
     "area_water":18675956,
-    "fips_id":"11001",
+    "geoid":"11001",
     "name":"District of Columbia",
     "state":"dc"
 },

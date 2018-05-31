@@ -4,7 +4,7 @@
   "properties": {
     "area_land":848222200,
     "area_water":22887251,
-    "fips_id":"17043",
+    "geoid":"17043",
     "name":"DuPage",
     "state":"il"
 },

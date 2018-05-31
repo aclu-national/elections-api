@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3388633499,
     "area_water":36608250,
-    "fips_id":"36009",
+    "geoid":"36009",
     "name":"Cattaraugus",
     "state":"ny"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1195936288,
     "area_water":6693457,
-    "fips_id":"39113",
+    "geoid":"39113",
     "name":"Montgomery",
     "state":"oh"
 },

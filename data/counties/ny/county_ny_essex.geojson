@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4646734755,
     "area_water":316368965,
-    "fips_id":"36031",
+    "geoid":"36031",
     "name":"Essex",
     "state":"ny"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4840577752,
     "area_water":7118682,
-    "fips_id":"30065",
+    "geoid":"30065",
     "name":"Musselshell",
     "state":"mt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1810952650,
     "area_water":65556538,
-    "fips_id":"25011",
+    "geoid":"25011",
     "name":"Franklin",
     "state":"ma"
 },

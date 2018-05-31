@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2418212543,
     "area_water":15672146,
-    "fips_id":"48351",
+    "geoid":"48351",
     "name":"Newton",
     "state":"tx"
 },

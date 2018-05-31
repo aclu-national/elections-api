@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3243341073,
     "area_water":121033890,
-    "fips_id":"22069",
+    "geoid":"22069",
     "name":"Natchitoches",
     "state":"la"
 },

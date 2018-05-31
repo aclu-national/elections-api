@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1038860590,
     "area_water":3777709,
-    "fips_id":"47141",
+    "geoid":"47141",
     "name":"Putnam",
     "state":"tn"
 },

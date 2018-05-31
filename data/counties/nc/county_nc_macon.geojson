@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1335355308,
     "area_water":10593473,
-    "fips_id":"37113",
+    "geoid":"37113",
     "name":"Macon",
     "state":"nc"
 },

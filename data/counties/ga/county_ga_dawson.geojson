@@ -4,7 +4,7 @@
   "properties": {
     "area_land":546042216,
     "area_water":9272655,
-    "fips_id":"13085",
+    "geoid":"13085",
     "name":"Dawson",
     "state":"ga"
 },

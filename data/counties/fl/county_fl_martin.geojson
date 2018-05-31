@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1408247995,
     "area_water":542262212,
-    "fips_id":"12085",
+    "geoid":"12085",
     "name":"Martin",
     "state":"fl"
 },

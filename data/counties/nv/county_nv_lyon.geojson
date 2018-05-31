@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5183173279,
     "area_water":59602530,
-    "fips_id":"32019",
+    "geoid":"32019",
     "name":"Lyon",
     "state":"nv"
 },

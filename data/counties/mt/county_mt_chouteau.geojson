@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10288824961,
     "area_water":62565296,
-    "fips_id":"30015",
+    "geoid":"30015",
     "name":"Chouteau",
     "state":"mt"
 },

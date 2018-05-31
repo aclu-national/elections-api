@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1085094885,
     "area_water":5528932,
-    "fips_id":"54093",
+    "geoid":"54093",
     "name":"Tucker",
     "state":"wv"
 },

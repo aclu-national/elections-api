@@ -4,7 +4,7 @@
   "properties": {
     "area_land":653878979,
     "area_water":6972749,
-    "fips_id":"21049",
+    "geoid":"21049",
     "name":"Clark",
     "state":"ky"
 },

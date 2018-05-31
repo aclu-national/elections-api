@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1703659884,
     "area_water":42054455,
-    "fips_id":"17163",
+    "geoid":"17163",
     "name":"St. Clair",
     "state":"il"
 },

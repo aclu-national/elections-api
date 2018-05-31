@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1627728322,
     "area_water":70264672,
-    "fips_id":"53011",
+    "geoid":"53011",
     "name":"Clark",
     "state":"wa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1093252402,
     "area_water":70698246,
-    "fips_id":"28043",
+    "geoid":"28043",
     "name":"Grenada",
     "state":"ms"
 },

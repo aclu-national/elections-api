@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2460711982,
     "area_water":17448075,
-    "fips_id":"22127",
+    "geoid":"22127",
     "name":"Winn",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1598126407,
     "area_water":44423491,
-    "fips_id":"25013",
+    "geoid":"25013",
     "name":"Hampden",
     "state":"ma"
 },

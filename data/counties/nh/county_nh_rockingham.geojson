@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1800358797,
     "area_water":259322531,
-    "fips_id":"33015",
+    "geoid":"33015",
     "name":"Rockingham",
     "state":"nh"
 },

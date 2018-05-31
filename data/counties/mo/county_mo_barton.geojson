@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1533062380,
     "area_water":12440434,
-    "fips_id":"29011",
+    "geoid":"29011",
     "name":"Barton",
     "state":"mo"
 },

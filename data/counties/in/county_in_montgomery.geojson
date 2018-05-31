@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1306954200,
     "area_water":2144021,
-    "fips_id":"18107",
+    "geoid":"18107",
     "name":"Montgomery",
     "state":"in"
 },

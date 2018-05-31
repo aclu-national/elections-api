@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1042034970,
     "area_water":21847164,
-    "fips_id":"39067",
+    "geoid":"39067",
     "name":"Harrison",
     "state":"oh"
 },

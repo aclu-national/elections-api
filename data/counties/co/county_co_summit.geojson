@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1575590697,
     "area_water":28283469,
-    "fips_id":"08117",
+    "geoid":"08117",
     "name":"Summit",
     "state":"co"
 },

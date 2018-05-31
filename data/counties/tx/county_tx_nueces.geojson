@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2171223720,
     "area_water":847262030,
-    "fips_id":"48355",
+    "geoid":"48355",
     "name":"Nueces",
     "state":"tx"
 },

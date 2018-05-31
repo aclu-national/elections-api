@@ -4,7 +4,7 @@
   "properties": {
     "area_land":750178423,
     "area_water":3999881,
-    "fips_id":"21169",
+    "geoid":"21169",
     "name":"Metcalfe",
     "state":"ky"
 },

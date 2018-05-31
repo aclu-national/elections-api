@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1249724511,
     "area_water":4603965,
-    "fips_id":"39137",
+    "geoid":"39137",
     "name":"Putnam",
     "state":"oh"
 },

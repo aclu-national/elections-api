@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2313442856,
     "area_water":41883375,
-    "fips_id":"55115",
+    "geoid":"55115",
     "name":"Shawano",
     "state":"wi"
 },

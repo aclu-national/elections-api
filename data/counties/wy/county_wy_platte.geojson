@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5398019715,
     "area_water":69035953,
-    "fips_id":"56031",
+    "geoid":"56031",
     "name":"Platte",
     "state":"wy"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1089619193,
     "area_water":56273972,
-    "fips_id":"22035",
+    "geoid":"22035",
     "name":"East Carroll",
     "state":"la"
 },

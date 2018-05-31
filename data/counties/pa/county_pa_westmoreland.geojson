@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2661370996,
     "area_water":22050453,
-    "fips_id":"42129",
+    "geoid":"42129",
     "name":"Westmoreland",
     "state":"pa"
 },

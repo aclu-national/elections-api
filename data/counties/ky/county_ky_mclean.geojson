@@ -4,7 +4,7 @@
   "properties": {
     "area_land":653906323,
     "area_water":9734358,
-    "fips_id":"21149",
+    "geoid":"21149",
     "name":"McLean",
     "state":"ky"
 },

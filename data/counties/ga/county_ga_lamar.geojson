@@ -4,7 +4,7 @@
   "properties": {
     "area_land":475262778,
     "area_water":6046030,
-    "fips_id":"13171",
+    "geoid":"13171",
     "name":"Lamar",
     "state":"ga"
 },

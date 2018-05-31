@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1127942470,
     "area_water":3675453,
-    "fips_id":"46035",
+    "geoid":"46035",
     "name":"Davison",
     "state":"sd"
 },

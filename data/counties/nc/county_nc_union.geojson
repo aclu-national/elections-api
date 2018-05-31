@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1636332950,
     "area_water":20337550,
-    "fips_id":"37179",
+    "geoid":"37179",
     "name":"Union",
     "state":"nc"
 },

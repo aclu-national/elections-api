@@ -4,7 +4,7 @@
   "properties": {
     "area_land":677386387,
     "area_water":5418290,
-    "fips_id":"21123",
+    "geoid":"21123",
     "name":"Larue",
     "state":"ky"
 },

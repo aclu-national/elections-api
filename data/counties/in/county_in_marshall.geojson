@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1148996723,
     "area_water":15831838,
-    "fips_id":"18099",
+    "geoid":"18099",
     "name":"Marshall",
     "state":"in"
 },

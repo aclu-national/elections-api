@@ -4,7 +4,7 @@
   "properties": {
     "area_land":175371914,
     "area_water":1625260,
-    "fips_id":"72153",
+    "geoid":"72153",
     "name":"Yauco",
     "state":"pr"
 },

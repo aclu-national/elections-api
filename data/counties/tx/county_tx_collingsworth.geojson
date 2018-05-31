@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2378749932,
     "area_water":2279193,
-    "fips_id":"48087",
+    "geoid":"48087",
     "name":"Collingsworth",
     "state":"tx"
 },

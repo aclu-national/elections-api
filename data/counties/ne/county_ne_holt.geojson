@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6248083634,
     "area_water":13201503,
-    "fips_id":"31089",
+    "geoid":"31089",
     "name":"Holt",
     "state":"ne"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5508502469,
     "area_water":7099036,
-    "fips_id":"08041",
+    "geoid":"08041",
     "name":"El Paso",
     "state":"co"
 },

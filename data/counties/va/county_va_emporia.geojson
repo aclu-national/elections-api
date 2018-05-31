@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17881071,
     "area_water":165621,
-    "fips_id":"51595",
+    "geoid":"51595",
     "name":"Emporia",
     "state":"va"
 },

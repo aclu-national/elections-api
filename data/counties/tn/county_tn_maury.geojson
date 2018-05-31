@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1588021148,
     "area_water":6319196,
-    "fips_id":"47119",
+    "geoid":"47119",
     "name":"Maury",
     "state":"tn"
 },

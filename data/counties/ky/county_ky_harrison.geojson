@@ -4,7 +4,7 @@
   "properties": {
     "area_land":793480924,
     "area_water":9057368,
-    "fips_id":"21097",
+    "geoid":"21097",
     "name":"Harrison",
     "state":"ky"
 },

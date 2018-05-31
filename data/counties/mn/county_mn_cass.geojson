@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5235576788,
     "area_water":1016652167,
-    "fips_id":"27021",
+    "geoid":"27021",
     "name":"Cass",
     "state":"mn"
 },

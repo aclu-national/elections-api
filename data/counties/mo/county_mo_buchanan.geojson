@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1056742981,
     "area_water":17211398,
-    "fips_id":"29021",
+    "geoid":"29021",
     "name":"Buchanan",
     "state":"mo"
 },

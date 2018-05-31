@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1324905935,
     "area_water":1967592839,
-    "fips_id":"55117",
+    "geoid":"55117",
     "name":"Sheboygan",
     "state":"wi"
 },

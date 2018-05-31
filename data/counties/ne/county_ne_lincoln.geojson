@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6640952057,
     "area_water":28570547,
-    "fips_id":"31111",
+    "geoid":"31111",
     "name":"Lincoln",
     "state":"ne"
 },

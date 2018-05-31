@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1395529148,
     "area_water":49908184,
-    "fips_id":"40027",
+    "geoid":"40027",
     "name":"Cleveland",
     "state":"ok"
 },

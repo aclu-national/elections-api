@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1440322252,
     "area_water":11920176,
-    "fips_id":"26065",
+    "geoid":"26065",
     "name":"Ingham",
     "state":"mi"
 },

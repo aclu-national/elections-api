@@ -4,7 +4,7 @@
   "properties": {
     "area_land":282821648,
     "area_water":229869,
-    "fips_id":"35028",
+    "geoid":"35028",
     "name":"Los Alamos",
     "state":"nm"
 },

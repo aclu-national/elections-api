@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2316533465,
     "area_water":7978174,
-    "fips_id":"31029",
+    "geoid":"31029",
     "name":"Chase",
     "state":"ne"
 },

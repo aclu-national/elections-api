@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11238811043,
     "area_water":27700320,
-    "fips_id":"30027",
+    "geoid":"30027",
     "name":"Fergus",
     "state":"mt"
 },

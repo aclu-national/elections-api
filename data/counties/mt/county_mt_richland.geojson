@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5398268971,
     "area_water":49652120,
-    "fips_id":"30083",
+    "geoid":"30083",
     "name":"Richland",
     "state":"mt"
 },

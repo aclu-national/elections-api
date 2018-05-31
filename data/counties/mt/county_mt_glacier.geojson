@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7756795340,
     "area_water":106093201,
-    "fips_id":"30035",
+    "geoid":"30035",
     "name":"Glacier",
     "state":"mt"
 },

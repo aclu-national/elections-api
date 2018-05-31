@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1295762491,
     "area_water":13023677,
-    "fips_id":"20001",
+    "geoid":"20001",
     "name":"Allen",
     "state":"ks"
 },

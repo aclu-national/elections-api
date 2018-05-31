@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4473328965,
     "area_water":14546368,
-    "fips_id":"30039",
+    "geoid":"30039",
     "name":"Granite",
     "state":"mt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":14281265651,
     "area_water":13171316,
-    "fips_id":"04027",
+    "geoid":"04027",
     "name":"Yuma",
     "state":"az"
 },

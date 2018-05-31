@@ -4,7 +4,7 @@
   "properties": {
     "area_land":121485107,
     "area_water":479107241,
-    "fips_id":"06075",
+    "geoid":"06075",
     "name":"San Francisco",
     "state":"ca"
 },

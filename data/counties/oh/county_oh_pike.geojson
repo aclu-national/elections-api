@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1140324458,
     "area_water":9567612,
-    "fips_id":"39131",
+    "geoid":"39131",
     "name":"Pike",
     "state":"oh"
 },

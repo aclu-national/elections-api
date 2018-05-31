@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1623624044,
     "area_water":70470775,
-    "fips_id":"20031",
+    "geoid":"20031",
     "name":"Coffey",
     "state":"ks"
 },

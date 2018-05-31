@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1796376281,
     "area_water":71442197,
-    "fips_id":"50019",
+    "geoid":"50019",
     "name":"Orleans",
     "state":"vt"
 },

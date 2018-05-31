@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2033764493,
     "area_water":37997545,
-    "fips_id":"01101",
+    "geoid":"01101",
     "name":"Montgomery",
     "state":"al"
 },

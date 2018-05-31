@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3016670856,
     "area_water":21097698,
-    "fips_id":"49005",
+    "geoid":"49005",
     "name":"Cache",
     "state":"ut"
 },

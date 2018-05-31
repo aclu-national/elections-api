@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1799558905,
     "area_water":12676802,
-    "fips_id":"28067",
+    "geoid":"28067",
     "name":"Jones",
     "state":"ms"
 },

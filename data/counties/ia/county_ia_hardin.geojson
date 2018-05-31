@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474507918,
     "area_water":1773877,
-    "fips_id":"19083",
+    "geoid":"19083",
     "name":"Hardin",
     "state":"ia"
 },

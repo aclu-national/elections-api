@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1611409749,
     "area_water":5099752,
-    "fips_id":"47059",
+    "geoid":"47059",
     "name":"Greene",
     "state":"tn"
 },

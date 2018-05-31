@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1530110554,
     "area_water":1486125,
-    "fips_id":"19165",
+    "geoid":"19165",
     "name":"Shelby",
     "state":"ia"
 },

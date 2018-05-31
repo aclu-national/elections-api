@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1739529649,
     "area_water":98310686,
-    "fips_id":"55011",
+    "geoid":"55011",
     "name":"Buffalo",
     "state":"wi"
 },

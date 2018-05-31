@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1572709946,
     "area_water":7405132,
-    "fips_id":"28159",
+    "geoid":"28159",
     "name":"Winston",
     "state":"ms"
 },

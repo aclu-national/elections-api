@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478527855,
     "area_water":6564804,
-    "fips_id":"19123",
+    "geoid":"19123",
     "name":"Mahaska",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":374669607,
     "area_water":32587484,
-    "fips_id":"32510",
+    "geoid":"32510",
     "name":"Carson City",
     "state":"nv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2162148714,
     "area_water":58100780,
-    "fips_id":"37183",
+    "geoid":"37183",
     "name":"Wake",
     "state":"nc"
 },

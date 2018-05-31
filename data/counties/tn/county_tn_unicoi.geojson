@@ -4,7 +4,7 @@
   "properties": {
     "area_land":481902939,
     "area_water":825725,
-    "fips_id":"47171",
+    "geoid":"47171",
     "name":"Unicoi",
     "state":"tn"
 },

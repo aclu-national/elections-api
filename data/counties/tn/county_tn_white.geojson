@@ -4,7 +4,7 @@
   "properties": {
     "area_land":975592111,
     "area_water":7113368,
-    "fips_id":"47185",
+    "geoid":"47185",
     "name":"White",
     "state":"tn"
 },

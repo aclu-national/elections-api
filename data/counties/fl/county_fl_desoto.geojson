@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1649978043,
     "area_water":6247257,
-    "fips_id":"12027",
+    "geoid":"12027",
     "name":"DeSoto",
     "state":"fl"
 },

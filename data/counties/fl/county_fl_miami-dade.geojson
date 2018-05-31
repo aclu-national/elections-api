@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4917514967,
     "area_water":1379206478,
-    "fips_id":"12086",
+    "geoid":"12086",
     "name":"Miami-Dade",
     "state":"fl"
 },

@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":8894987668.348698,
-    "district_num":11,
+    "district_num":"11",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"4211",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"pa"

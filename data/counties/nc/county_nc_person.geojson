@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1016141549,
     "area_water":31218720,
-    "fips_id":"37145",
+    "geoid":"37145",
     "name":"Person",
     "state":"nc"
 },

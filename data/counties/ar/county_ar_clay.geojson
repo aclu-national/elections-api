@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1656214466,
     "area_water":5097734,
-    "fips_id":"05021",
+    "geoid":"05021",
     "name":"Clay",
     "state":"ar"
 },

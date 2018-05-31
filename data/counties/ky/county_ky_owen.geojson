@@ -4,7 +4,7 @@
   "properties": {
     "area_land":909364763,
     "area_water":8129649,
-    "fips_id":"21187",
+    "geoid":"21187",
     "name":"Owen",
     "state":"ky"
 },

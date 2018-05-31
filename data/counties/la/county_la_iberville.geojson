@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1602243609,
     "area_water":88655983,
-    "fips_id":"22047",
+    "geoid":"22047",
     "name":"Iberville",
     "state":"la"
 },

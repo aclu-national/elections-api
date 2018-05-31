@@ -4,7 +4,7 @@
   "properties": {
     "area_land":704208614,
     "area_water":1248708387,
-    "fips_id":"55059",
+    "geoid":"55059",
     "name":"Kenosha",
     "state":"wi"
 },

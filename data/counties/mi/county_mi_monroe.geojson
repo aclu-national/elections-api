@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1423275272,
     "area_water":337746237,
-    "fips_id":"26115",
+    "geoid":"26115",
     "name":"Monroe",
     "state":"mi"
 },

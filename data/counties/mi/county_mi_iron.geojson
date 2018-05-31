@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3019973510,
     "area_water":116746381,
-    "fips_id":"26071",
+    "geoid":"26071",
     "name":"Iron",
     "state":"mi"
 },

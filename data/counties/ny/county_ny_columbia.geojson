@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1643778340,
     "area_water":35063763,
-    "fips_id":"36021",
+    "geoid":"36021",
     "name":"Columbia",
     "state":"ny"
 },

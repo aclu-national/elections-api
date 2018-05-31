@@ -4,7 +4,7 @@
   "properties": {
     "area_land":920142764,
     "area_water":8424800,
-    "fips_id":"51007",
+    "geoid":"51007",
     "name":"Amelia",
     "state":"va"
 },

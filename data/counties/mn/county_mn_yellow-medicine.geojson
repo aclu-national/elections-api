@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1966062971,
     "area_water":10687958,
-    "fips_id":"27173",
+    "geoid":"27173",
     "name":"Yellow Medicine",
     "state":"mn"
 },

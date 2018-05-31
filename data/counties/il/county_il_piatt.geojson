@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1137445090,
     "area_water":756346,
-    "fips_id":"17147",
+    "geoid":"17147",
     "name":"Piatt",
     "state":"il"
 },

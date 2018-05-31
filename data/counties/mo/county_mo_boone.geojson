@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1775563346,
     "area_water":14239688,
-    "fips_id":"29019",
+    "geoid":"29019",
     "name":"Boone",
     "state":"mo"
 },

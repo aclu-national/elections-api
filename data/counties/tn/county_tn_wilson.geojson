@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1479053189,
     "area_water":32002365,
-    "fips_id":"47189",
+    "geoid":"47189",
     "name":"Wilson",
     "state":"tn"
 },

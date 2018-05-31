@@ -4,7 +4,7 @@
   "properties": {
     "area_land":30115058,
     "area_water":407158805,
-    "fips_id":"72049",
+    "geoid":"72049",
     "name":"Culebra",
     "state":"pr"
 },

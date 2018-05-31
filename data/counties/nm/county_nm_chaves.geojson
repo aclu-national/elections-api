@@ -4,7 +4,7 @@
   "properties": {
     "area_land":15713841748,
     "area_water":20545303,
-    "fips_id":"35005",
+    "geoid":"35005",
     "name":"Chaves",
     "state":"nm"
 },

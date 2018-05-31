@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":826213714.785167,
-    "district_num":41,
+    "district_num":"41",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"0641",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"ca"

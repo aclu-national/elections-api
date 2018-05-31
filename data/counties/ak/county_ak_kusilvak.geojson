@@ -4,7 +4,7 @@
   "properties": {
     "area_land":44218384953,
     "area_water":6697190751,
-    "fips_id":"02158",
+    "geoid":"02158",
     "name":"Kusilvak",
     "state":"ak"
 },

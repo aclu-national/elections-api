@@ -4,7 +4,7 @@
   "properties": {
     "area_land":134509871,
     "area_water":68569,
-    "fips_id":"72035",
+    "geoid":"72035",
     "name":"Cayey",
     "state":"pr"
 },

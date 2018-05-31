@@ -4,7 +4,7 @@
   "properties": {
     "area_land":958635596,
     "area_water":17839179,
-    "fips_id":"13241",
+    "geoid":"13241",
     "name":"Rabun",
     "state":"ga"
 },

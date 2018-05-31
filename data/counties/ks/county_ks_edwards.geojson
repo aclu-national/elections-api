@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1610699247,
     "area_water":206413,
-    "fips_id":"20047",
+    "geoid":"20047",
     "name":"Edwards",
     "state":"ks"
 },

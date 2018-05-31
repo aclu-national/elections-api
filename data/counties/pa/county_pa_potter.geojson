@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2800612691,
     "area_water":559779,
-    "fips_id":"42105",
+    "geoid":"42105",
     "name":"Potter",
     "state":"pa"
 },

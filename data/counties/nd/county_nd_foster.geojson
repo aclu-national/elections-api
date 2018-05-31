@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1645810432,
     "area_water":29450853,
-    "fips_id":"38031",
+    "geoid":"38031",
     "name":"Foster",
     "state":"nd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1491355768,
     "area_water":487899,
-    "fips_id":"31061",
+    "geoid":"31061",
     "name":"Franklin",
     "state":"ne"
 },

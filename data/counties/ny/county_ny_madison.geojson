@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1696091558,
     "area_water":16670528,
-    "fips_id":"36053",
+    "geoid":"36053",
     "name":"Madison",
     "state":"ny"
 },

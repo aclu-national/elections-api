@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1454926615,
     "area_water":16986823,
-    "fips_id":"01067",
+    "geoid":"01067",
     "name":"Henry",
     "state":"al"
 },

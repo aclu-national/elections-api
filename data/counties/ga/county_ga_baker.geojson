@@ -4,7 +4,7 @@
   "properties": {
     "area_land":885665382,
     "area_water":18598655,
-    "fips_id":"13007",
+    "geoid":"13007",
     "name":"Baker",
     "state":"ga"
 },

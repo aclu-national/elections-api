@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1032907248,
     "area_water":33455656,
-    "fips_id":"29085",
+    "geoid":"29085",
     "name":"Hickory",
     "state":"mo"
 },

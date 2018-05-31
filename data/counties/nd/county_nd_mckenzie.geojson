@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7149551309,
     "area_water":260198853,
-    "fips_id":"38053",
+    "geoid":"38053",
     "name":"McKenzie",
     "state":"nd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2499039655,
     "area_water":76217822,
-    "fips_id":"06067",
+    "geoid":"06067",
     "name":"Sacramento",
     "state":"ca"
 },

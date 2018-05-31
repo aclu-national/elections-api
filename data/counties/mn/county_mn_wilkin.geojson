@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1945079886,
     "area_water":482554,
-    "fips_id":"27167",
+    "geoid":"27167",
     "name":"Wilkin",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3098774789,
     "area_water":106341440,
-    "fips_id":"55025",
+    "geoid":"55025",
     "name":"Dane",
     "state":"wi"
 },

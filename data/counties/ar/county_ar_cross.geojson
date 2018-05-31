@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1596421812,
     "area_water":15344834,
-    "fips_id":"05037",
+    "geoid":"05037",
     "name":"Cross",
     "state":"ar"
 },

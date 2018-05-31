@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1002071716,
     "area_water":7108412,
-    "fips_id":"54041",
+    "geoid":"54041",
     "name":"Lewis",
     "state":"wv"
 },

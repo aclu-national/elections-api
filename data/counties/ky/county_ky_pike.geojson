@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2037621821,
     "area_water":4756763,
-    "fips_id":"21195",
+    "geoid":"21195",
     "name":"Pike",
     "state":"ky"
 },

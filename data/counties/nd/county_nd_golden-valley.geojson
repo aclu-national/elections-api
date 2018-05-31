@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2593894350,
     "area_water":4147470,
-    "fips_id":"38033",
+    "geoid":"38033",
     "name":"Golden Valley",
     "state":"nd"
 },

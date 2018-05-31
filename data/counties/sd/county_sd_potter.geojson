@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2230356770,
     "area_water":97171992,
-    "fips_id":"46107",
+    "geoid":"46107",
     "name":"Potter",
     "state":"sd"
 },

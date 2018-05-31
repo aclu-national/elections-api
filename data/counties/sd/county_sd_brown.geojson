@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4436728163,
     "area_water":46414610,
-    "fips_id":"46013",
+    "geoid":"46013",
     "name":"Brown",
     "state":"sd"
 },

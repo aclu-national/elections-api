@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1127383741,
     "area_water":7118002,
-    "fips_id":"29079",
+    "geoid":"29079",
     "name":"Grundy",
     "state":"mo"
 },

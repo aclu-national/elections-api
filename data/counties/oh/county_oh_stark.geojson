@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1490043482,
     "area_water":13657023,
-    "fips_id":"39151",
+    "geoid":"39151",
     "name":"Stark",
     "state":"oh"
 },

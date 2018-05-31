@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5804023642,
     "area_water":4923261,
-    "fips_id":"08085",
+    "geoid":"08085",
     "name":"Montrose",
     "state":"co"
 },

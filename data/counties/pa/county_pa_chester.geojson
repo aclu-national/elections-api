@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1943847580,
     "area_water":22560875,
-    "fips_id":"42029",
+    "geoid":"42029",
     "name":"Chester",
     "state":"pa"
 },

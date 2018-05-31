@@ -4,7 +4,7 @@
   "properties": {
     "area_land":115929990,
     "area_water":68988203,
-    "fips_id":"72069",
+    "geoid":"72069",
     "name":"Humacao",
     "state":"pr"
 },

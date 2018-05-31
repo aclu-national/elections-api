@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1064884352,
     "area_water":4149819,
-    "fips_id":"18145",
+    "geoid":"18145",
     "name":"Shelby",
     "state":"in"
 },

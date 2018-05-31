@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4793658887,
     "area_water":442148,
-    "fips_id":"08039",
+    "geoid":"08039",
     "name":"Elbert",
     "state":"co"
 },

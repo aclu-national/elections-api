@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1672545660,
     "area_water":30723331,
-    "fips_id":"37081",
+    "geoid":"37081",
     "name":"Guilford",
     "state":"nc"
 },

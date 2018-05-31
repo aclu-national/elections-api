@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1534562002,
     "area_water":13491054,
-    "fips_id":"47155",
+    "geoid":"47155",
     "name":"Sevier",
     "state":"tn"
 },

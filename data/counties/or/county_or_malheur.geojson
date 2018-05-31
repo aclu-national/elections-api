@@ -4,7 +4,7 @@
   "properties": {
     "area_land":25608869178,
     "area_water":109173277,
-    "fips_id":"41045",
+    "geoid":"41045",
     "name":"Malheur",
     "state":"or"
 },

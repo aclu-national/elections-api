@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11726927790,
     "area_water":1893807,
-    "fips_id":"41023",
+    "geoid":"41023",
     "name":"Grant",
     "state":"or"
 },

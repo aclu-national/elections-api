@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1429784922,
     "area_water":43495762,
-    "fips_id":"27055",
+    "geoid":"27055",
     "name":"Houston",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":870088233,
     "area_water":22103176,
-    "fips_id":"17139",
+    "geoid":"17139",
     "name":"Moultrie",
     "state":"il"
 },

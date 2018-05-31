@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1344215195,
     "area_water":18009291,
-    "fips_id":"29073",
+    "geoid":"29073",
     "name":"Gasconade",
     "state":"mo"
 },

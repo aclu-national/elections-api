@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1484540310,
     "area_water":6724254,
-    "fips_id":"45035",
+    "geoid":"45035",
     "name":"Dorchester",
     "state":"sc"
 },

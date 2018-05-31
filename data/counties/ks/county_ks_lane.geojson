@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1858093492,
     "area_water":551220,
-    "fips_id":"20101",
+    "geoid":"20101",
     "name":"Lane",
     "state":"ks"
 },

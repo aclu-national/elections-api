@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1297966523,
     "area_water":13998877,
-    "fips_id":"39129",
+    "geoid":"39129",
     "name":"Pickaway",
     "state":"oh"
 },

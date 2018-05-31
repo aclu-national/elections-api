@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2269883907,
     "area_water":41627731,
-    "fips_id":"33011",
+    "geoid":"33011",
     "name":"Hillsborough",
     "state":"nh"
 },

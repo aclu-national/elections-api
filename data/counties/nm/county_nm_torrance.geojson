@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8664074710,
     "area_water":2303485,
-    "fips_id":"35057",
+    "geoid":"35057",
     "name":"Torrance",
     "state":"nm"
 },

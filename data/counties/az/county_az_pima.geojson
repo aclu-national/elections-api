@@ -4,7 +4,7 @@
   "properties": {
     "area_land":23794788865,
     "area_water":5259325,
-    "fips_id":"04019",
+    "geoid":"04019",
     "name":"Pima",
     "state":"az"
 },

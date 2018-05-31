@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2511453379,
     "area_water":3147180,
-    "fips_id":"46075",
+    "geoid":"46075",
     "name":"Jones",
     "state":"sd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1495047142,
     "area_water":3666530,
-    "fips_id":"19151",
+    "geoid":"19151",
     "name":"Pocahontas",
     "state":"ia"
 },

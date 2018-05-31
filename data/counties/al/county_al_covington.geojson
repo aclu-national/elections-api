@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2668871125,
     "area_water":34489285,
-    "fips_id":"01039",
+    "geoid":"01039",
     "name":"Covington",
     "state":"al"
 },

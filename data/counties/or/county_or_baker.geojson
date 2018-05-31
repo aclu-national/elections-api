@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7945996928,
     "area_water":51832632,
-    "fips_id":"41001",
+    "geoid":"41001",
     "name":"Baker",
     "state":"or"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1647443944,
     "area_water":11275706,
-    "fips_id":"53003",
+    "geoid":"53003",
     "name":"Asotin",
     "state":"wa"
 },

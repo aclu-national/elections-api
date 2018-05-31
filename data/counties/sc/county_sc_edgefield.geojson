@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1296025466,
     "area_water":16321055,
-    "fips_id":"45037",
+    "geoid":"45037",
     "name":"Edgefield",
     "state":"sc"
 },

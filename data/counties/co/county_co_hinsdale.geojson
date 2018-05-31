@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2893614470,
     "area_water":15324686,
-    "fips_id":"08053",
+    "geoid":"08053",
     "name":"Hinsdale",
     "state":"co"
 },

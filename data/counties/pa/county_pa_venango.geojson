@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1746388722,
     "area_water":22148538,
-    "fips_id":"42121",
+    "geoid":"42121",
     "name":"Venango",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1685850816,
     "area_water":39987274,
-    "fips_id":"01037",
+    "geoid":"01037",
     "name":"Coosa",
     "state":"al"
 },

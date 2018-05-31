@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1598188427,
     "area_water":1636386,
-    "fips_id":"46125",
+    "geoid":"46125",
     "name":"Turner",
     "state":"sd"
 },

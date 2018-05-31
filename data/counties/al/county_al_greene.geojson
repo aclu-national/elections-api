@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1675782063,
     "area_water":33416143,
-    "fips_id":"01063",
+    "geoid":"01063",
     "name":"Greene",
     "state":"al"
 },

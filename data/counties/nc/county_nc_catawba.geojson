@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1039550614,
     "area_water":37945362,
-    "fips_id":"37035",
+    "geoid":"37035",
     "name":"Catawba",
     "state":"nc"
 },

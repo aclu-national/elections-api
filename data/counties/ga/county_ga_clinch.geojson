@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2072566890,
     "area_water":61565560,
-    "fips_id":"13065",
+    "geoid":"13065",
     "name":"Clinch",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1590377745,
     "area_water":23572945,
-    "fips_id":"19103",
+    "geoid":"19103",
     "name":"Johnson",
     "state":"ia"
 },

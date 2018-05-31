@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1852759732,
     "area_water":7644719,
-    "fips_id":"31005",
+    "geoid":"31005",
     "name":"Arthur",
     "state":"ne"
 },

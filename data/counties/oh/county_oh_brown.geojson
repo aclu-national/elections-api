@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1269138602,
     "area_water":8895019,
-    "fips_id":"39015",
+    "geoid":"39015",
     "name":"Brown",
     "state":"oh"
 },

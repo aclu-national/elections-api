@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4578603605,
     "area_water":47032919,
-    "fips_id":"08061",
+    "geoid":"08061",
     "name":"Kiowa",
     "state":"co"
 },

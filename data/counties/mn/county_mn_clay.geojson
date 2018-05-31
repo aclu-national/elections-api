@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2707039036,
     "area_water":19306174,
-    "fips_id":"27027",
+    "geoid":"27027",
     "name":"Clay",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2557960600,
     "area_water":2833854,
-    "fips_id":"38001",
+    "geoid":"38001",
     "name":"Adams",
     "state":"nd"
 },

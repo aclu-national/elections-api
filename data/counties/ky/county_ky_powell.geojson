@@ -4,7 +4,7 @@
   "properties": {
     "area_land":463556264,
     "area_water":2956914,
-    "fips_id":"21197",
+    "geoid":"21197",
     "name":"Powell",
     "state":"ky"
 },

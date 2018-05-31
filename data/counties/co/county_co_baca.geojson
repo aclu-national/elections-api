@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6617400584,
     "area_water":6142193,
-    "fips_id":"08009",
+    "geoid":"08009",
     "name":"Baca",
     "state":"co"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1454425176,
     "area_water":75403442,
-    "fips_id":"40145",
+    "geoid":"40145",
     "name":"Wagoner",
     "state":"ok"
 },

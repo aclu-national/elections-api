@@ -4,7 +4,7 @@
   "properties": {
     "area_land":727837364,
     "area_water":18122707,
-    "fips_id":"54011",
+    "geoid":"54011",
     "name":"Cabell",
     "state":"wv"
 },

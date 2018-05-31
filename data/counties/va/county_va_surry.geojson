@@ -4,7 +4,7 @@
   "properties": {
     "area_land":722475755,
     "area_water":81216907,
-    "fips_id":"51181",
+    "geoid":"51181",
     "name":"Surry",
     "state":"va"
 },

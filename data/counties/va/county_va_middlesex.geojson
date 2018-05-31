@@ -4,7 +4,7 @@
   "properties": {
     "area_land":337507714,
     "area_water":208357022,
-    "fips_id":"51119",
+    "geoid":"51119",
     "name":"Middlesex",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1548252545,
     "area_water":2500346,
-    "fips_id":"05025",
+    "geoid":"05025",
     "name":"Cleveland",
     "state":"ar"
 },

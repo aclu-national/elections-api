@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3421041792,
     "area_water":78682797,
-    "fips_id":"01125",
+    "geoid":"01125",
     "name":"Tuscaloosa",
     "state":"al"
 },

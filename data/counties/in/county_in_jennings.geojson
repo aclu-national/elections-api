@@ -4,7 +4,7 @@
   "properties": {
     "area_land":975364386,
     "area_water":4546211,
-    "fips_id":"18079",
+    "geoid":"18079",
     "name":"Jennings",
     "state":"in"
 },

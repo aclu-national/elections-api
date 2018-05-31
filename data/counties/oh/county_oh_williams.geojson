@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1090296608,
     "area_water":5507083,
-    "fips_id":"39171",
+    "geoid":"39171",
     "name":"Williams",
     "state":"oh"
 },

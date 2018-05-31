@@ -4,7 +4,7 @@
   "properties": {
     "area_land":735650672,
     "area_water":4625861,
-    "fips_id":"13005",
+    "geoid":"13005",
     "name":"Bacon",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2429714643,
     "area_water":43719396,
-    "fips_id":"37047",
+    "geoid":"37047",
     "name":"Columbus",
     "state":"nc"
 },

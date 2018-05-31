@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1476736217,
     "area_water":14232350,
-    "fips_id":"31095",
+    "geoid":"31095",
     "name":"Jefferson",
     "state":"ne"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4114226894,
     "area_water":192048864,
-    "fips_id":"12083",
+    "geoid":"12083",
     "name":"Marion",
     "state":"fl"
 },

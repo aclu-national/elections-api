@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1188217624,
     "area_water":15896171,
-    "fips_id":"42069",
+    "geoid":"42069",
     "name":"Lackawanna",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6521806786,
     "area_water":15207400,
-    "fips_id":"08121",
+    "geoid":"08121",
     "name":"Washington",
     "state":"co"
 },

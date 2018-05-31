@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1180317770,
     "area_water":4495382,
-    "fips_id":"39111",
+    "geoid":"39111",
     "name":"Monroe",
     "state":"oh"
 },

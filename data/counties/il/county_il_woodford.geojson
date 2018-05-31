@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1366998850,
     "area_water":38437077,
-    "fips_id":"17203",
+    "geoid":"17203",
     "name":"Woodford",
     "state":"il"
 },

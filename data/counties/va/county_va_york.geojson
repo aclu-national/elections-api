@@ -4,7 +4,7 @@
   "properties": {
     "area_land":271042751,
     "area_water":285421540,
-    "fips_id":"51199",
+    "geoid":"51199",
     "name":"York",
     "state":"va"
 },

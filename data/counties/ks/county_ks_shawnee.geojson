@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1408930616,
     "area_water":30396059,
-    "fips_id":"20177",
+    "geoid":"20177",
     "name":"Shawnee",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4805607292,
     "area_water":17665081,
-    "fips_id":"30097",
+    "geoid":"30097",
     "name":"Sweet Grass",
     "state":"mt"
 },

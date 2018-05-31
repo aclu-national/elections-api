@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1269123621,
     "area_water":42069988,
-    "fips_id":"29057",
+    "geoid":"29057",
     "name":"Dade",
     "state":"mo"
 },

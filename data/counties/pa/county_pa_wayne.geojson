@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1879249061,
     "area_water":64832669,
-    "fips_id":"42127",
+    "geoid":"42127",
     "name":"Wayne",
     "state":"pa"
 },

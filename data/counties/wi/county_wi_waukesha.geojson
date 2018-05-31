@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1423675192,
     "area_water":79851458,
-    "fips_id":"55133",
+    "geoid":"55133",
     "name":"Waukesha",
     "state":"wi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":891830211,
     "area_water":19490893,
-    "fips_id":"21003",
+    "geoid":"21003",
     "name":"Allen",
     "state":"ky"
 },

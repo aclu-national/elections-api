@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2010410702,
     "area_water":18130867,
-    "fips_id":"31075",
+    "geoid":"31075",
     "name":"Grant",
     "state":"ne"
 },

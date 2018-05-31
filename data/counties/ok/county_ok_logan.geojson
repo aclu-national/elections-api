@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1926521247,
     "area_water":12926653,
-    "fips_id":"40083",
+    "geoid":"40083",
     "name":"Logan",
     "state":"ok"
 },

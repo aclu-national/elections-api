@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2275424546,
     "area_water":192588409,
-    "fips_id":"48121",
+    "geoid":"48121",
     "name":"Denton",
     "state":"tx"
 },

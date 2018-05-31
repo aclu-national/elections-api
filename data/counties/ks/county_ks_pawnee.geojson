@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1953531655,
     "area_water":992041,
-    "fips_id":"20145",
+    "geoid":"20145",
     "name":"Pawnee",
     "state":"ks"
 },

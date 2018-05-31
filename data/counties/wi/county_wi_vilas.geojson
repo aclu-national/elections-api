@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2221447085,
     "area_water":414426793,
-    "fips_id":"55125",
+    "geoid":"55125",
     "name":"Vilas",
     "state":"wi"
 },

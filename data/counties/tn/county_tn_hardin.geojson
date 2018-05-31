@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1495264133,
     "area_water":49126297,
-    "fips_id":"47071",
+    "geoid":"47071",
     "name":"Hardin",
     "state":"tn"
 },

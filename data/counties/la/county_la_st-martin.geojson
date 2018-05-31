@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1910534476,
     "area_water":204161447,
-    "fips_id":"22099",
+    "geoid":"22099",
     "name":"St. Martin",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":845605969,
     "area_water":8635314,
-    "fips_id":"47179",
+    "geoid":"47179",
     "name":"Washington",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":477396249,
     "area_water":5305211,
-    "fips_id":"13219",
+    "geoid":"13219",
     "name":"Oconee",
     "state":"ga"
 },

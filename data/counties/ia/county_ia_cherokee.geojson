@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1494180443,
     "area_water":423160,
-    "fips_id":"19035",
+    "geoid":"19035",
     "name":"Cherokee",
     "state":"ia"
 },

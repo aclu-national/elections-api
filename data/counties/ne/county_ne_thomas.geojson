@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1846403658,
     "area_water":2028358,
-    "fips_id":"31171",
+    "geoid":"31171",
     "name":"Thomas",
     "state":"ne"
 },

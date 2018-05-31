@@ -4,7 +4,7 @@
   "properties": {
     "area_land":649861236,
     "area_water":4812706,
-    "fips_id":"17171",
+    "geoid":"17171",
     "name":"Scott",
     "state":"il"
 },

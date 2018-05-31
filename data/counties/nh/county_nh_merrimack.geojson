@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2415829018,
     "area_water":57547411,
-    "fips_id":"33013",
+    "geoid":"33013",
     "name":"Merrimack",
     "state":"nh"
 },

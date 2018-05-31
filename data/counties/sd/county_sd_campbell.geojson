@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1900214168,
     "area_water":96243697,
-    "fips_id":"46021",
+    "geoid":"46021",
     "name":"Campbell",
     "state":"sd"
 },

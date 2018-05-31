@@ -4,7 +4,7 @@
   "properties": {
     "area_land":985539078,
     "area_water":60716111,
-    "fips_id":"19059",
+    "geoid":"19059",
     "name":"Dickinson",
     "state":"ia"
 },

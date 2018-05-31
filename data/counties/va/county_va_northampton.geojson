@@ -4,7 +4,7 @@
   "properties": {
     "area_land":548282864,
     "area_water":1511417329,
-    "fips_id":"51131",
+    "geoid":"51131",
     "name":"Northampton",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":994310106,
     "area_water":458556,
-    "fips_id":"18075",
+    "geoid":"18075",
     "name":"Jay",
     "state":"in"
 },

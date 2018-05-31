@@ -4,7 +4,7 @@
   "properties": {
     "area_land":897456200,
     "area_water":195282200,
-    "fips_id":"37187",
+    "geoid":"37187",
     "name":"Washington",
     "state":"nc"
 },

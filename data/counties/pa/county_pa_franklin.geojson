@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2000052118,
     "area_water":1544300,
-    "fips_id":"42055",
+    "geoid":"42055",
     "name":"Franklin",
     "state":"pa"
 },

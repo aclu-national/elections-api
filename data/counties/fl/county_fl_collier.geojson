@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5176983078,
     "area_water":792880431,
-    "fips_id":"12021",
+    "geoid":"12021",
     "name":"Collier",
     "state":"fl"
 },

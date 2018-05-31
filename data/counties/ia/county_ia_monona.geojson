@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1797637874,
     "area_water":12592242,
-    "fips_id":"19133",
+    "geoid":"19133",
     "name":"Monona",
     "state":"ia"
 },

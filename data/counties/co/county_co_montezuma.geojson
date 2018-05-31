@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5255937110,
     "area_water":27261088,
-    "fips_id":"08083",
+    "geoid":"08083",
     "name":"Montezuma",
     "state":"co"
 },

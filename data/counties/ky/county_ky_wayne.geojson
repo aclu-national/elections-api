@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1186687833,
     "area_water":67286710,
-    "fips_id":"21231",
+    "geoid":"21231",
     "name":"Wayne",
     "state":"ky"
 },

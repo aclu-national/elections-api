@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4032473668,
     "area_water":5481079,
-    "fips_id":"46033",
+    "geoid":"46033",
     "name":"Custer",
     "state":"sd"
 },

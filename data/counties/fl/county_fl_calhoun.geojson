@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1469389207,
     "area_water":18074798,
-    "fips_id":"12013",
+    "geoid":"12013",
     "name":"Calhoun",
     "state":"fl"
 },

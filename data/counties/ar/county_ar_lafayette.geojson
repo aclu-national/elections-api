@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1368278178,
     "area_water":43469442,
-    "fips_id":"05073",
+    "geoid":"05073",
     "name":"Lafayette",
     "state":"ar"
 },

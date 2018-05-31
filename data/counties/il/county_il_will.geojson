@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2166099738,
     "area_water":33374154,
-    "fips_id":"17197",
+    "geoid":"17197",
     "name":"Will",
     "state":"il"
 },

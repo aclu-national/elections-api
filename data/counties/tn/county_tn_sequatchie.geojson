@@ -4,7 +4,7 @@
   "properties": {
     "area_land":688550864,
     "area_water":498314,
-    "fips_id":"47153",
+    "geoid":"47153",
     "name":"Sequatchie",
     "state":"tn"
 },

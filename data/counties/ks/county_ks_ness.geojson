@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2783557951,
     "area_water":667491,
-    "fips_id":"20135",
+    "geoid":"20135",
     "name":"Ness",
     "state":"ks"
 },

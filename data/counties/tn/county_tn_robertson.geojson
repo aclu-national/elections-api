@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1233605511,
     "area_water":451691,
-    "fips_id":"47147",
+    "geoid":"47147",
     "name":"Robertson",
     "state":"tn"
 },

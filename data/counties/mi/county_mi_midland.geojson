@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1337100078,
     "area_water":30591264,
-    "fips_id":"26111",
+    "geoid":"26111",
     "name":"Midland",
     "state":"mi"
 },

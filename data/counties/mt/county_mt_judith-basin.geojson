@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4842466690,
     "area_water":2066739,
-    "fips_id":"30045",
+    "geoid":"30045",
     "name":"Judith Basin",
     "state":"mt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1026229553,
     "area_water":5664041,
-    "fips_id":"42023",
+    "geoid":"42023",
     "name":"Cameron",
     "state":"pa"
 },

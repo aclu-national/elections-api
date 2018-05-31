@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2401562307,
     "area_water":2913502,
-    "fips_id":"29091",
+    "geoid":"29091",
     "name":"Howell",
     "state":"mo"
 },

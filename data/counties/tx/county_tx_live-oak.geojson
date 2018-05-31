@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2692796908,
     "area_water":101483817,
-    "fips_id":"48297",
+    "geoid":"48297",
     "name":"Live Oak",
     "state":"tx"
 },

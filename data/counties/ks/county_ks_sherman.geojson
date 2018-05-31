@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2735193304,
     "area_water":548248,
-    "fips_id":"20181",
+    "geoid":"20181",
     "name":"Sherman",
     "state":"ks"
 },

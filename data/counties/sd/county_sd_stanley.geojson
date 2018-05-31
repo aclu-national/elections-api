@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3741060714,
     "area_water":188383669,
-    "fips_id":"46117",
+    "geoid":"46117",
     "name":"Stanley",
     "state":"sd"
 },

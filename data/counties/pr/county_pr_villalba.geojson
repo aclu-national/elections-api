@@ -4,7 +4,7 @@
   "properties": {
     "area_land":92298569,
     "area_water":3622637,
-    "fips_id":"72149",
+    "geoid":"72149",
     "name":"Villalba",
     "state":"pr"
 },

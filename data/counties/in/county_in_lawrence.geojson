@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1163367128,
     "area_water":7122898,
-    "fips_id":"18093",
+    "geoid":"18093",
     "name":"Lawrence",
     "state":"in"
 },

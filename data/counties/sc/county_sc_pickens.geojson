@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1285538264,
     "area_water":40609723,
-    "fips_id":"45077",
+    "geoid":"45077",
     "name":"Pickens",
     "state":"sc"
 },

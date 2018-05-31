@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1469139466,
     "area_water":13866649,
-    "fips_id":"19041",
+    "geoid":"19041",
     "name":"Clay",
     "state":"ia"
 },

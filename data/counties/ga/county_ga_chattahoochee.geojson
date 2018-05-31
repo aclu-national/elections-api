@@ -4,7 +4,7 @@
   "properties": {
     "area_land":644222675,
     "area_water":6292704,
-    "fips_id":"13053",
+    "geoid":"13053",
     "name":"Chattahoochee",
     "state":"ga"
 },

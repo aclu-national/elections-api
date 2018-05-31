@@ -4,7 +4,7 @@
   "properties": {
     "area_land":825201574,
     "area_water":20443113,
-    "fips_id":"13151",
+    "geoid":"13151",
     "name":"Henry",
     "state":"ga"
 },

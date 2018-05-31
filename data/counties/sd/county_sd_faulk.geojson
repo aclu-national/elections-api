@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2542575647,
     "area_water":62678931,
-    "fips_id":"46049",
+    "geoid":"46049",
     "name":"Faulk",
     "state":"sd"
 },

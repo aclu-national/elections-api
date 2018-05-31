@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2382296649,
     "area_water":1548341,
-    "fips_id":"48195",
+    "geoid":"48195",
     "name":"Hansford",
     "state":"tx"
 },

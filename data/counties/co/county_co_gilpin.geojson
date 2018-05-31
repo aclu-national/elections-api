@@ -4,7 +4,7 @@
   "properties": {
     "area_land":388228996,
     "area_water":942056,
-    "fips_id":"08047",
+    "geoid":"08047",
     "name":"Gilpin",
     "state":"co"
 },

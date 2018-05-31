@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1427143576,
     "area_water":4584953,
-    "fips_id":"39147",
+    "geoid":"39147",
     "name":"Seneca",
     "state":"oh"
 },

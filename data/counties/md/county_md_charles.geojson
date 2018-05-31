@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1185656912,
     "area_water":479539652,
-    "fips_id":"24017",
+    "geoid":"24017",
     "name":"Charles",
     "state":"md"
 },

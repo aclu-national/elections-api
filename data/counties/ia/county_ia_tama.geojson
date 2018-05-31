@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1867411148,
     "area_water":2769421,
-    "fips_id":"19171",
+    "geoid":"19171",
     "name":"Tama",
     "state":"ia"
 },

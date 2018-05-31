@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1272965337,
     "area_water":8615925,
-    "fips_id":"39077",
+    "geoid":"39077",
     "name":"Huron",
     "state":"oh"
 },

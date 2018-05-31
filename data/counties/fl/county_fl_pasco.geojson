@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1936400029,
     "area_water":312907704,
-    "fips_id":"12101",
+    "geoid":"12101",
     "name":"Pasco",
     "state":"fl"
 },

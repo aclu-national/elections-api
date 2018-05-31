@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2069615830,
     "area_water":1966184465,
-    "fips_id":"42049",
+    "geoid":"42049",
     "name":"Erie",
     "state":"pa"
 },

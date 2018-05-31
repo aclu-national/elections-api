@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1766949637,
     "area_water":10503983,
-    "fips_id":"29159",
+    "geoid":"29159",
     "name":"Pettis",
     "state":"mo"
 },

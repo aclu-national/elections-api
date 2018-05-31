@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8542288902,
     "area_water":1565958,
-    "fips_id":"30075",
+    "geoid":"30075",
     "name":"Powder River",
     "state":"mt"
 },

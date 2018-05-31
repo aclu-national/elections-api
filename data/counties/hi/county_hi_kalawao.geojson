@@ -4,7 +4,7 @@
   "properties": {
     "area_land":31057603,
     "area_water":105764468,
-    "fips_id":"15005",
+    "geoid":"15005",
     "name":"Kalawao",
     "state":"hi"
 },

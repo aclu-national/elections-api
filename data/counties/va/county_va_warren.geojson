@@ -4,7 +4,7 @@
   "properties": {
     "area_land":555629182,
     "area_water":8590279,
-    "fips_id":"51187",
+    "geoid":"51187",
     "name":"Warren",
     "state":"va"
 },

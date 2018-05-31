@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1826212966,
     "area_water":410630395,
-    "fips_id":"12029",
+    "geoid":"12029",
     "name":"Dixie",
     "state":"fl"
 },

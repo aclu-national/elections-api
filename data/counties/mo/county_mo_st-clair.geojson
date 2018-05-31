@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1748192189,
     "area_water":70138955,
-    "fips_id":"29185",
+    "geoid":"29185",
     "name":"St. Clair",
     "state":"mo"
 },

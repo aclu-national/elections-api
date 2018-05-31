@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1734134611,
     "area_water":123231111,
-    "fips_id":"27121",
+    "geoid":"27121",
     "name":"Pope",
     "state":"mn"
 },

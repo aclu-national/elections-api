@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1689815931,
     "area_water":33569457,
-    "fips_id":"36083",
+    "geoid":"36083",
     "name":"Rensselaer",
     "state":"ny"
 },

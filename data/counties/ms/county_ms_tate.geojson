@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1048332509,
     "area_water":16090912,
-    "fips_id":"28137",
+    "geoid":"28137",
     "name":"Tate",
     "state":"ms"
 },

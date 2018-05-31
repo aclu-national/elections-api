@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11020250155,
     "area_water":26204242,
-    "fips_id":"56009",
+    "geoid":"56009",
     "name":"Converse",
     "state":"wy"
 },

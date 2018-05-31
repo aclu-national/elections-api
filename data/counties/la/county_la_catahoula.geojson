@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1833782911,
     "area_water":81308667,
-    "fips_id":"22025",
+    "geoid":"22025",
     "name":"Catahoula",
     "state":"la"
 },

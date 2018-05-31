@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2154872483,
     "area_water":338892301,
-    "fips_id":"37013",
+    "geoid":"37013",
     "name":"Beaufort",
     "state":"nc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1042470095,
     "area_water":11266164,
-    "fips_id":"39003",
+    "geoid":"39003",
     "name":"Allen",
     "state":"oh"
 },

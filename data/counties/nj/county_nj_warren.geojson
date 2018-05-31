@@ -4,7 +4,7 @@
   "properties": {
     "area_land":923327586,
     "area_water":15931292,
-    "fips_id":"34041",
+    "geoid":"34041",
     "name":"Warren",
     "state":"nj"
 },

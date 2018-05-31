@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2077332600,
     "area_water":30111858,
-    "fips_id":"40049",
+    "geoid":"40049",
     "name":"Garvin",
     "state":"ok"
 },

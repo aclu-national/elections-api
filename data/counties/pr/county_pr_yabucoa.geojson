@@ -4,7 +4,7 @@
   "properties": {
     "area_land":143005178,
     "area_water":72592521,
-    "fips_id":"72151",
+    "geoid":"72151",
     "name":"Yabucoa",
     "state":"pr"
 },

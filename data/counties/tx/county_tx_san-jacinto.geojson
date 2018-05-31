@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474332262,
     "area_water":151949236,
-    "fips_id":"48407",
+    "geoid":"48407",
     "name":"San Jacinto",
     "state":"tx"
 },

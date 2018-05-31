@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2279809504,
     "area_water":246409,
-    "fips_id":"48025",
+    "geoid":"48025",
     "name":"Bee",
     "state":"tx"
 },

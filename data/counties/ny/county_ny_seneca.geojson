@@ -4,7 +4,7 @@
   "properties": {
     "area_land":838403626,
     "area_water":172828921,
-    "fips_id":"36099",
+    "geoid":"36099",
     "name":"Seneca",
     "state":"ny"
 },

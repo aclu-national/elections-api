@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4711869329,
     "area_water":76507816,
-    "fips_id":"53017",
+    "geoid":"53017",
     "name":"Douglas",
     "state":"wa"
 },

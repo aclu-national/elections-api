@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1460530916,
     "area_water":9243155,
-    "fips_id":"39031",
+    "geoid":"39031",
     "name":"Coshocton",
     "state":"oh"
 },

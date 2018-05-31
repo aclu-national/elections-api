@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1430330693,
     "area_water":37331621,
-    "fips_id":"05029",
+    "geoid":"05029",
     "name":"Conway",
     "state":"ar"
 },

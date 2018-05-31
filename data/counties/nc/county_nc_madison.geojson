@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1164497728,
     "area_water":4840762,
-    "fips_id":"37115",
+    "geoid":"37115",
     "name":"Madison",
     "state":"nc"
 },

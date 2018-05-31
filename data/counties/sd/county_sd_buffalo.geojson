@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1220891600,
     "area_water":42362357,
-    "fips_id":"46017",
+    "geoid":"46017",
     "name":"Buffalo",
     "state":"sd"
 },

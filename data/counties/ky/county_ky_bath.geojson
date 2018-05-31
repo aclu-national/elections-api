@@ -4,7 +4,7 @@
   "properties": {
     "area_land":722081570,
     "area_water":13486212,
-    "fips_id":"21011",
+    "geoid":"21011",
     "name":"Bath",
     "state":"ky"
 },

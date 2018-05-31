@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1968605215,
     "area_water":42120242,
-    "fips_id":"51019",
+    "geoid":"51019",
     "name":"Bedford",
     "state":"va"
 },

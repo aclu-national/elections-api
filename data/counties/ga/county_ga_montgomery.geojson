@@ -4,7 +4,7 @@
   "properties": {
     "area_land":620371304,
     "area_water":13383238,
-    "fips_id":"13209",
+    "geoid":"13209",
     "name":"Montgomery",
     "state":"ga"
 },

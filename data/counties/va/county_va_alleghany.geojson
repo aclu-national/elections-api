@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1156287826,
     "area_water":8491488,
-    "fips_id":"51005",
+    "geoid":"51005",
     "name":"Alleghany",
     "state":"va"
 },

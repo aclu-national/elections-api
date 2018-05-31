@@ -4,7 +4,7 @@
   "properties": {
     "area_land":58747685,
     "area_water":30224116,
-    "fips_id":"72115",
+    "geoid":"72115",
     "name":"Quebradillas",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":18982307701,
     "area_water":274103901,
-    "fips_id":"02090",
+    "geoid":"02090",
     "name":"Fairbanks North Star",
     "state":"ak"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1452999208,
     "area_water":2983840,
-    "fips_id":"19121",
+    "geoid":"19121",
     "name":"Madison",
     "state":"ia"
 },

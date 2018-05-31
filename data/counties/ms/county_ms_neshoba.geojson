@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1476641123,
     "area_water":3830971,
-    "fips_id":"28099",
+    "geoid":"28099",
     "name":"Neshoba",
     "state":"ms"
 },

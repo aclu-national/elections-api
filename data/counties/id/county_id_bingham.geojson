@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5422887230,
     "area_water":68487087,
-    "fips_id":"16011",
+    "geoid":"16011",
     "name":"Bingham",
     "state":"id"
 },

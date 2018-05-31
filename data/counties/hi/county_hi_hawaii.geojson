@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10433637860,
     "area_water":2739470030,
-    "fips_id":"15001",
+    "geoid":"15001",
     "name":"Hawaii",
     "state":"hi"
 },

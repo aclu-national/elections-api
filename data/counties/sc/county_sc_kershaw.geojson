@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1881777515,
     "area_water":35709172,
-    "fips_id":"45055",
+    "geoid":"45055",
     "name":"Kershaw",
     "state":"sc"
 },

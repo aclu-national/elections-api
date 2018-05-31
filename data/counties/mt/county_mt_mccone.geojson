@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6843265262,
     "area_water":103091384,
-    "fips_id":"30055",
+    "geoid":"30055",
     "name":"McCone",
     "state":"mt"
 },

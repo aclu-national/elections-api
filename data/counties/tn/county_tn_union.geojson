@@ -4,7 +4,7 @@
   "properties": {
     "area_land":579055053,
     "area_water":61028041,
-    "fips_id":"47173",
+    "geoid":"47173",
     "name":"Union",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2624715691,
     "area_water":3999975,
-    "fips_id":"08015",
+    "geoid":"08015",
     "name":"Chaffee",
     "state":"co"
 },

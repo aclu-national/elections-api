@@ -4,7 +4,7 @@
   "properties": {
     "area_land":788354549,
     "area_water":63715775,
-    "fips_id":"47041",
+    "geoid":"47041",
     "name":"DeKalb",
     "state":"tn"
 },

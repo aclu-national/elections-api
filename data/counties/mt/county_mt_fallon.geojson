@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4197205007,
     "area_water":5915331,
-    "fips_id":"30025",
+    "geoid":"30025",
     "name":"Fallon",
     "state":"mt"
 },

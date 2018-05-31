@@ -4,7 +4,7 @@
   "properties": {
     "area_land":504031039,
     "area_water":1915743,
-    "fips_id":"13265",
+    "geoid":"13265",
     "name":"Taliaferro",
     "state":"ga"
 },

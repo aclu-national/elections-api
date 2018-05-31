@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5984258952,
     "area_water":75428245,
-    "fips_id":"53043",
+    "geoid":"53043",
     "name":"Lincoln",
     "state":"wa"
 },

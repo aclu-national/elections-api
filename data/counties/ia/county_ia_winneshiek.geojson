@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1786713778,
     "area_water":698598,
-    "fips_id":"19191",
+    "geoid":"19191",
     "name":"Winneshiek",
     "state":"ia"
 },

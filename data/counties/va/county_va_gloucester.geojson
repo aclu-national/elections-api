@@ -4,7 +4,7 @@
   "properties": {
     "area_land":564117815,
     "area_water":181754413,
-    "fips_id":"51073",
+    "geoid":"51073",
     "name":"Gloucester",
     "state":"va"
 },

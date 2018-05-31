@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1250167780,
     "area_water":25799665,
-    "fips_id":"13261",
+    "geoid":"13261",
     "name":"Sumter",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1112416679,
     "area_water":525134462,
-    "fips_id":"13051",
+    "geoid":"13051",
     "name":"Chatham",
     "state":"ga"
 },

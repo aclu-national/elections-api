@@ -4,7 +4,7 @@
   "properties": {
     "area_land":110751018,
     "area_water":2434869,
-    "fips_id":"51590",
+    "geoid":"51590",
     "name":"Danville",
     "state":"va"
 },

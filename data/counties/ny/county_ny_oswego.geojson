@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2464746080,
     "area_water":933480216,
-    "fips_id":"36075",
+    "geoid":"36075",
     "name":"Oswego",
     "state":"ny"
 },

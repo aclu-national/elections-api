@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1772197821,
     "area_water":31797486,
-    "fips_id":"17195",
+    "geoid":"17195",
     "name":"Whiteside",
     "state":"il"
 },

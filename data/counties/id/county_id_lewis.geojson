@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1240137223,
     "area_water":2345525,
-    "fips_id":"16061",
+    "geoid":"16061",
     "name":"Lewis",
     "state":"id"
 },

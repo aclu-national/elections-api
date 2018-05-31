@@ -4,7 +4,7 @@
   "properties": {
     "area_land":155287823,
     "area_water":106643202,
-    "fips_id":"72079",
+    "geoid":"72079",
     "name":"Lajas",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":743630411,
     "area_water":10746124,
-    "fips_id":"51065",
+    "geoid":"51065",
     "name":"Fluvanna",
     "state":"va"
 },

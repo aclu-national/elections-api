@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1490202783,
     "area_water":2989990,
-    "fips_id":"31059",
+    "geoid":"31059",
     "name":"Fillmore",
     "state":"ne"
 },

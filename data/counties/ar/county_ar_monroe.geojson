@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1572480973,
     "area_water":36694917,
-    "fips_id":"05095",
+    "geoid":"05095",
     "name":"Monroe",
     "state":"ar"
 },

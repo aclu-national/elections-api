@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10259427302,
     "area_water":15346268,
-    "fips_id":"35017",
+    "geoid":"35017",
     "name":"Grant",
     "state":"nm"
 },

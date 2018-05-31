@@ -4,7 +4,7 @@
   "properties": {
     "area_land":14219341058,
     "area_water":76104322,
-    "fips_id":"32015",
+    "geoid":"32015",
     "name":"Lander",
     "state":"nv"
 },

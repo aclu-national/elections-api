@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1866002205,
     "area_water":14235728,
-    "fips_id":"51003",
+    "geoid":"51003",
     "name":"Albemarle",
     "state":"va"
 },

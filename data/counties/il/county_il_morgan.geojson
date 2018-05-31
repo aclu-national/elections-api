@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1473194924,
     "area_water":9064992,
-    "fips_id":"17137",
+    "geoid":"17137",
     "name":"Morgan",
     "state":"il"
 },

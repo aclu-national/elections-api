@@ -4,7 +4,7 @@
   "properties": {
     "area_land":902719721,
     "area_water":7185948,
-    "fips_id":"21069",
+    "geoid":"21069",
     "name":"Fleming",
     "state":"ky"
 },

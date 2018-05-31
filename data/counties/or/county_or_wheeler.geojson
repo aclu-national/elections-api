@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4444476933,
     "area_water":1241033,
-    "fips_id":"41069",
+    "geoid":"41069",
     "name":"Wheeler",
     "state":"or"
 },

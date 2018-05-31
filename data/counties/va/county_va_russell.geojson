@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1226378115,
     "area_water":7588460,
-    "fips_id":"51167",
+    "geoid":"51167",
     "name":"Russell",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":337015703,
     "area_water":11459910,
-    "fips_id":"54073",
+    "geoid":"54073",
     "name":"Pleasants",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11820055094,
     "area_water":14109855,
-    "fips_id":"16059",
+    "geoid":"16059",
     "name":"Lemhi",
     "state":"id"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":986503062,
     "area_water":102126745,
-    "fips_id":"48315",
+    "geoid":"48315",
     "name":"Marion",
     "state":"tx"
 },

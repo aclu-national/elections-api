@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1074778137,
     "area_water":8353594,
-    "fips_id":"28117",
+    "geoid":"28117",
     "name":"Prentiss",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1343192581,
     "area_water":11059913,
-    "fips_id":"36107",
+    "geoid":"36107",
     "name":"Tioga",
     "state":"ny"
 },

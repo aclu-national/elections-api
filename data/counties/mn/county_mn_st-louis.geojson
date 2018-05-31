@@ -4,7 +4,7 @@
   "properties": {
     "area_land":16181092598,
     "area_water":1584976832,
-    "fips_id":"27137",
+    "geoid":"27137",
     "name":"St. Louis",
     "state":"mn"
 },

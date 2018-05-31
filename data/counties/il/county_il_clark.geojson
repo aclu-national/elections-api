@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1298676804,
     "area_water":8796711,
-    "fips_id":"17023",
+    "geoid":"17023",
     "name":"Clark",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4219632482,
     "area_water":176707575,
-    "fips_id":"36033",
+    "geoid":"36033",
     "name":"Franklin",
     "state":"ny"
 },

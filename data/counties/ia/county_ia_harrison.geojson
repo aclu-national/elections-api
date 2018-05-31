@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1804808356,
     "area_water":12417698,
-    "fips_id":"19085",
+    "geoid":"19085",
     "name":"Harrison",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1463693558,
     "area_water":52500785,
-    "fips_id":"26093",
+    "geoid":"26093",
     "name":"Livingston",
     "state":"mi"
 },

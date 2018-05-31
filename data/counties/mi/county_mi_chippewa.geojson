@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4036522461,
     "area_water":2952482167,
-    "fips_id":"26033",
+    "geoid":"26033",
     "name":"Chippewa",
     "state":"mi"
 },

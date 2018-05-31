@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2331432992,
     "area_water":12743798,
-    "fips_id":"20117",
+    "geoid":"20117",
     "name":"Marshall",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9778230094,
     "area_water":186479466,
-    "fips_id":"06089",
+    "geoid":"06089",
     "name":"Shasta",
     "state":"ca"
 },

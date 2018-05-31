@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8123500143,
     "area_water":56402796,
-    "fips_id":"56003",
+    "geoid":"56003",
     "name":"Big Horn",
     "state":"wy"
 },

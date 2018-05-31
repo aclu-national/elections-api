@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2194957493,
     "area_water":20562422,
-    "fips_id":"20111",
+    "geoid":"20111",
     "name":"Lyon",
     "state":"ks"
 },

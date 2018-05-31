@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1858332405,
     "area_water":16928991,
-    "fips_id":"21047",
+    "geoid":"21047",
     "name":"Christian",
     "state":"ky"
 },

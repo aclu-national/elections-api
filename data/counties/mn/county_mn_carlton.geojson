@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2230821123,
     "area_water":36133708,
-    "fips_id":"27017",
+    "geoid":"27017",
     "name":"Carlton",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9512361722,
     "area_water":31552277,
-    "fips_id":"49019",
+    "geoid":"49019",
     "name":"Grand",
     "state":"ut"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2127825031,
     "area_water":151944424,
-    "fips_id":"55013",
+    "geoid":"55013",
     "name":"Burnett",
     "state":"wi"
 },

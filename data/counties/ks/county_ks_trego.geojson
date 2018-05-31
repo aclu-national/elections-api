@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2303731642,
     "area_water":26281951,
-    "fips_id":"20195",
+    "geoid":"20195",
     "name":"Trego",
     "state":"ks"
 },

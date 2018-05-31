@@ -4,7 +4,7 @@
   "properties": {
     "area_land":463974775,
     "area_water":13095267,
-    "fips_id":"13257",
+    "geoid":"13257",
     "name":"Stephens",
     "state":"ga"
 },

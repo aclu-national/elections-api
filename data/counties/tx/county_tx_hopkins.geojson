@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1987018121,
     "area_water":66250826,
-    "fips_id":"48223",
+    "geoid":"48223",
     "name":"Hopkins",
     "state":"tx"
 },

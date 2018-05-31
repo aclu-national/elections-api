@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":1445915722.342194,
-    "district_num":12,
+    "district_num":"12",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"3712",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"nc"

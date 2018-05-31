@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1107115477,
     "area_water":61715041,
-    "fips_id":"17161",
+    "geoid":"17161",
     "name":"Rock Island",
     "state":"il"
 },

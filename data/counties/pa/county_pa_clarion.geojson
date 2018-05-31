@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1556152465,
     "area_water":23335885,
-    "fips_id":"42031",
+    "geoid":"42031",
     "name":"Clarion",
     "state":"pa"
 },

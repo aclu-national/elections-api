@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2915648172,
     "area_water":17322934,
-    "fips_id":"20035",
+    "geoid":"20035",
     "name":"Cowley",
     "state":"ks"
 },

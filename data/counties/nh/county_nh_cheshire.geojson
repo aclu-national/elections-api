@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1830338973,
     "area_water":57617298,
-    "fips_id":"33005",
+    "geoid":"33005",
     "name":"Cheshire",
     "state":"nh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5949976954,
     "area_water":92436005,
-    "fips_id":"53037",
+    "geoid":"53037",
     "name":"Kittitas",
     "state":"wa"
 },

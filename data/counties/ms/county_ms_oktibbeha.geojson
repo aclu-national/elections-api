@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1186750731,
     "area_water":9649656,
-    "fips_id":"28105",
+    "geoid":"28105",
     "name":"Oktibbeha",
     "state":"ms"
 },

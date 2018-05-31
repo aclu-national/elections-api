@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1070732761,
     "area_water":42201523,
-    "fips_id":"47163",
+    "geoid":"47163",
     "name":"Sullivan",
     "state":"tn"
 },

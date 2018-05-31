@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1779421703,
     "area_water":21184426,
-    "fips_id":"50023",
+    "geoid":"50023",
     "name":"Washington",
     "state":"vt"
 },

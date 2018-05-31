@@ -4,7 +4,7 @@
   "properties": {
     "area_land":33420181,
     "area_water":322409,
-    "fips_id":"51520",
+    "geoid":"51520",
     "name":"Bristol",
     "state":"va"
 },

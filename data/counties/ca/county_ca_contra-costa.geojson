@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1857310903,
     "area_water":225193562,
-    "fips_id":"06013",
+    "geoid":"06013",
     "name":"Contra Costa",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3168019245,
     "area_water":15346371,
-    "fips_id":"48427",
+    "geoid":"48427",
     "name":"Starr",
     "state":"tx"
 },

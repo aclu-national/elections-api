@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1126526382,
     "area_water":12370135,
-    "fips_id":"27165",
+    "geoid":"27165",
     "name":"Watonwan",
     "state":"mn"
 },

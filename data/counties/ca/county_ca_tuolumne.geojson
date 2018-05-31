@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5752079368,
     "area_water":138722711,
-    "fips_id":"06109",
+    "geoid":"06109",
     "name":"Tuolumne",
     "state":"ca"
 },

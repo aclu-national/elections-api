@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9293288997,
     "area_water":39841801,
-    "fips_id":"30057",
+    "geoid":"30057",
     "name":"Madison",
     "state":"mt"
 },

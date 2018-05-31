@@ -4,7 +4,7 @@
   "properties": {
     "area_land":88635832004,
     "area_water":15763249807,
-    "fips_id":"02261",
+    "geoid":"02261",
     "name":"Valdez-Cordova",
     "state":"ak"
 },

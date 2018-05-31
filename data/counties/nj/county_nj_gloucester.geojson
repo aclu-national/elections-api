@@ -4,7 +4,7 @@
   "properties": {
     "area_land":833862843,
     "area_water":38373885,
-    "fips_id":"34015",
+    "geoid":"34015",
     "name":"Gloucester",
     "state":"nj"
 },

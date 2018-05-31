@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1420294943,
     "area_water":23008120,
-    "fips_id":"45011",
+    "geoid":"45011",
     "name":"Barnwell",
     "state":"sc"
 },

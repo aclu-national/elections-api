@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3831067724,
     "area_water":15844443,
-    "fips_id":"49007",
+    "geoid":"49007",
     "name":"Carbon",
     "state":"ut"
 },

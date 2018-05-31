@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1486698710,
     "area_water":5934626,
-    "fips_id":"31151",
+    "geoid":"31151",
     "name":"Saline",
     "state":"ne"
 },

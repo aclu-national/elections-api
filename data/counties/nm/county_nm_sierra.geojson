@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10828937018,
     "area_water":147987561,
-    "fips_id":"35051",
+    "geoid":"35051",
     "name":"Sierra",
     "state":"nm"
 },

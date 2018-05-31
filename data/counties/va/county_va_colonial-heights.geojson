@@ -4,7 +4,7 @@
   "properties": {
     "area_land":19475234,
     "area_water":766909,
-    "fips_id":"51570",
+    "geoid":"51570",
     "name":"Colonial Heights",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1170076495,
     "area_water":73110306,
-    "fips_id":"55063",
+    "geoid":"55063",
     "name":"La Crosse",
     "state":"wi"
 },

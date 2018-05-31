@@ -4,7 +4,7 @@
   "properties": {
     "area_land":871556645,
     "area_water":583050685,
-    "fips_id":"37137",
+    "geoid":"37137",
     "name":"Pamlico",
     "state":"nc"
 },

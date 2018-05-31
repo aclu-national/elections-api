@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2631897577,
     "area_water":3973764,
-    "fips_id":"48279",
+    "geoid":"48279",
     "name":"Lamb",
     "state":"tx"
 },

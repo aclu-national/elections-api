@@ -4,7 +4,7 @@
   "properties": {
     "area_land":47477685010,
     "area_water":5951019310,
-    "fips_id":"02070",
+    "geoid":"02070",
     "name":"Dillingham",
     "state":"ak"
 },

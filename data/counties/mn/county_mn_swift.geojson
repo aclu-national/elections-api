@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1921870987,
     "area_water":26208987,
-    "fips_id":"27151",
+    "geoid":"27151",
     "name":"Swift",
     "state":"mn"
 },

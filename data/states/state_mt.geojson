@@ -1,10 +1,10 @@
 {
-  "id": "state_state_mt.geojson",
+  "id": "state_mt.geojson",
   "type": "Feature",
   "properties": {
     "area_land":376960880222,
     "area_water":3871059371,
-    "fips_id":"30",
+    "geoid":"30",
     "name":"Montana",
     "state":"mt"
 },

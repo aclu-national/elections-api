@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1825163785,
     "area_water":38338284,
-    "fips_id":"27101",
+    "geoid":"27101",
     "name":"Murray",
     "state":"mn"
 },

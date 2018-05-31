@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2339103815,
     "area_water":18465208,
-    "fips_id":"48207",
+    "geoid":"48207",
     "name":"Haskell",
     "state":"tx"
 },

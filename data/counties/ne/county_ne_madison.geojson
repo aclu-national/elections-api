@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1483412284,
     "area_water":6998082,
-    "fips_id":"31119",
+    "geoid":"31119",
     "name":"Madison",
     "state":"ne"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2267979574,
     "area_water":81401509,
-    "fips_id":"55027",
+    "geoid":"55027",
     "name":"Dodge",
     "state":"wi"
 },

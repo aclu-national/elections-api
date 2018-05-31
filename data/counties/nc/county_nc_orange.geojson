@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1029600383,
     "area_water":8876665,
-    "fips_id":"37135",
+    "geoid":"37135",
     "name":"Orange",
     "state":"nc"
 },

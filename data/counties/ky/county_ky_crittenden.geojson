@@ -4,7 +4,7 @@
   "properties": {
     "area_land":932275951,
     "area_water":28974004,
-    "fips_id":"21055",
+    "geoid":"21055",
     "name":"Crittenden",
     "state":"ky"
 },

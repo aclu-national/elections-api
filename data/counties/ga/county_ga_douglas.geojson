@@ -4,7 +4,7 @@
   "properties": {
     "area_land":518261551,
     "area_water":2517004,
-    "fips_id":"13097",
+    "geoid":"13097",
     "name":"Douglas",
     "state":"ga"
 },

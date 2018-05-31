@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1463234116,
     "area_water":27096654,
-    "fips_id":"26165",
+    "geoid":"26165",
     "name":"Wexford",
     "state":"mi"
 },

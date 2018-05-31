@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1350910899,
     "area_water":31322650,
-    "fips_id":"27065",
+    "geoid":"27065",
     "name":"Kanabec",
     "state":"mn"
 },

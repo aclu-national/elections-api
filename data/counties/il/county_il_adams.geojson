@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2214972287,
     "area_water":41784365,
-    "fips_id":"17001",
+    "geoid":"17001",
     "name":"Adams",
     "state":"il"
 },

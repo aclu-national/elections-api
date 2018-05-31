@@ -4,7 +4,7 @@
   "properties": {
     "area_land":21333585,
     "area_water":103777,
-    "fips_id":"51640",
+    "geoid":"51640",
     "name":"Galax",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1459627896,
     "area_water":2765705477,
-    "fips_id":"26139",
+    "geoid":"26139",
     "name":"Ottawa",
     "state":"mi"
 },

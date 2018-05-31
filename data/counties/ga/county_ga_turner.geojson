@@ -4,7 +4,7 @@
   "properties": {
     "area_land":739164624,
     "area_water":11881239,
-    "fips_id":"13287",
+    "geoid":"13287",
     "name":"Turner",
     "state":"ga"
 },

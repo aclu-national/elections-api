@@ -4,7 +4,7 @@
   "properties": {
     "area_land":85478932,
     "area_water":1411395,
-    "fips_id":"08014",
+    "geoid":"08014",
     "name":"Broomfield",
     "state":"co"
 },

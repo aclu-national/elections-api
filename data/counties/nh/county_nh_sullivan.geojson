@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1392157812,
     "area_water":37865613,
-    "fips_id":"33019",
+    "geoid":"33019",
     "name":"Sullivan",
     "state":"nh"
 },

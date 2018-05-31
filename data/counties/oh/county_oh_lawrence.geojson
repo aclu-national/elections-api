@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1174224653,
     "area_water":10110033,
-    "fips_id":"39087",
+    "geoid":"39087",
     "name":"Lawrence",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":927644463,
     "area_water":11783868,
-    "fips_id":"42073",
+    "geoid":"42073",
     "name":"Lawrence",
     "state":"pa"
 },

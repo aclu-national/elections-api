@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1954249751,
     "area_water":6862434,
-    "fips_id":"37193",
+    "geoid":"37193",
     "name":"Wilkes",
     "state":"nc"
 },

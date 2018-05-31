@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1083088569,
     "area_water":4331852,
-    "fips_id":"28019",
+    "geoid":"28019",
     "name":"Choctaw",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1175427728,
     "area_water":3302140,
-    "fips_id":"29129",
+    "geoid":"29129",
     "name":"Mercer",
     "state":"mo"
 },

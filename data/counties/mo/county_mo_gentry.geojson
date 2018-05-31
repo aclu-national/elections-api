@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1272776756,
     "area_water":762384,
-    "fips_id":"29075",
+    "geoid":"29075",
     "name":"Gentry",
     "state":"mo"
 },

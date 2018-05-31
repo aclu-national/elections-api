@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2075276152,
     "area_water":3913474,
-    "fips_id":"20077",
+    "geoid":"20077",
     "name":"Harper",
     "state":"ks"
 },

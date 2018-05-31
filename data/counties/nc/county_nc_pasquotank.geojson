@@ -4,7 +4,7 @@
   "properties": {
     "area_land":587616451,
     "area_water":161745166,
-    "fips_id":"37139",
+    "geoid":"37139",
     "name":"Pasquotank",
     "state":"nc"
 },

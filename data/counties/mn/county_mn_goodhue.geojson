@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1960231247,
     "area_water":61007223,
-    "fips_id":"27049",
+    "geoid":"27049",
     "name":"Goodhue",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":644463522,
     "area_water":11600781,
-    "fips_id":"21167",
+    "geoid":"21167",
     "name":"Mercer",
     "state":"ky"
 },

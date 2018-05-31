@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6223151001,
     "area_water":86954130,
-    "fips_id":"53041",
+    "geoid":"53041",
     "name":"Lewis",
     "state":"wa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":708142420,
     "area_water":2893455,
-    "fips_id":"47175",
+    "geoid":"47175",
     "name":"Van Buren",
     "state":"tn"
 },

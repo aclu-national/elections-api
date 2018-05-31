@@ -4,7 +4,7 @@
   "properties": {
     "area_land":25508044,
     "area_water":147721,
-    "fips_id":"51683",
+    "geoid":"51683",
     "name":"Manassas",
     "state":"va"
 },

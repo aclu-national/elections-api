@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1082840997,
     "area_water":32125709,
-    "fips_id":"17063",
+    "geoid":"17063",
     "name":"Grundy",
     "state":"il"
 },

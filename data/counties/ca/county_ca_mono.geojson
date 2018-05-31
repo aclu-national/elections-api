@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7896838493,
     "area_water":214695673,
-    "fips_id":"06051",
+    "geoid":"06051",
     "name":"Mono",
     "state":"ca"
 },

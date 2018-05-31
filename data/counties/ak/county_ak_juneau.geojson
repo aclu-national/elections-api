@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6829216436,
     "area_water":1423792753,
-    "fips_id":"02110",
+    "geoid":"02110",
     "name":"Juneau",
     "state":"ak"
 },

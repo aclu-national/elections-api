@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2072127374,
     "area_water":667509,
-    "fips_id":"46081",
+    "geoid":"46081",
     "name":"Lawrence",
     "state":"sd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1062807475,
     "area_water":17549693,
-    "fips_id":"09013",
+    "geoid":"09013",
     "name":"Tolland",
     "state":"ct"
 },

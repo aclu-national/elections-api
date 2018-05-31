@@ -4,7 +4,7 @@
   "properties": {
     "area_land":615606300,
     "area_water":1964035,
-    "fips_id":"37149",
+    "geoid":"37149",
     "name":"Polk",
     "state":"nc"
 },

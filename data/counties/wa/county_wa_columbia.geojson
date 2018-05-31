@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2249624732,
     "area_water":12561762,
-    "fips_id":"53013",
+    "geoid":"53013",
     "name":"Columbia",
     "state":"wa"
 },

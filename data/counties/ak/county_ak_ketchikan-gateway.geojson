@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12579507052,
     "area_water":5220218255,
-    "fips_id":"02130",
+    "geoid":"02130",
     "name":"Ketchikan Gateway",
     "state":"ak"
 },

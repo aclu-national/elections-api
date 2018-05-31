@@ -4,7 +4,7 @@
   "properties": {
     "area_land":640099676,
     "area_water":211829497,
-    "fips_id":"37143",
+    "geoid":"37143",
     "name":"Perquimans",
     "state":"nc"
 },

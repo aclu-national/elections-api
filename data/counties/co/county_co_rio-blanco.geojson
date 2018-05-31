@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8342275028,
     "area_water":4868111,
-    "fips_id":"08103",
+    "geoid":"08103",
     "name":"Rio Blanco",
     "state":"co"
 },

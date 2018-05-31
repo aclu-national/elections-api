@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1040130767,
     "area_water":177190123,
-    "fips_id":"33001",
+    "geoid":"33001",
     "name":"Belknap",
     "state":"nh"
 },

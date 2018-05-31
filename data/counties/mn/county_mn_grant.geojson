@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1418786606,
     "area_water":71704359,
-    "fips_id":"27051",
+    "geoid":"27051",
     "name":"Grant",
     "state":"mn"
 },

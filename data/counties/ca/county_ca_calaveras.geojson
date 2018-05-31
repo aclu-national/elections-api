@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2641829199,
     "area_water":43797662,
-    "fips_id":"06009",
+    "geoid":"06009",
     "name":"Calaveras",
     "state":"ca"
 },

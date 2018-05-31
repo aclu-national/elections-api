@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1582659431,
     "area_water":18584892,
-    "fips_id":"27015",
+    "geoid":"27015",
     "name":"Brown",
     "state":"mn"
 },

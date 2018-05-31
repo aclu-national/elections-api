@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1076385464,
     "area_water":11584860,
-    "fips_id":"21127",
+    "geoid":"21127",
     "name":"Lawrence",
     "state":"ky"
 },

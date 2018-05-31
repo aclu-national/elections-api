@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1269334177,
     "area_water":47180840,
-    "fips_id":"26027",
+    "geoid":"26027",
     "name":"Cass",
     "state":"mi"
 },

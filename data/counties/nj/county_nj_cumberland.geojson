@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1251898435,
     "area_water":503712955,
-    "fips_id":"34011",
+    "geoid":"34011",
     "name":"Cumberland",
     "state":"nj"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2223531669,
     "area_water":21728402,
-    "fips_id":"38081",
+    "geoid":"38081",
     "name":"Sargent",
     "state":"nd"
 },

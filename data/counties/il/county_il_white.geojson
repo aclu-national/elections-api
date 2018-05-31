@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1281447206,
     "area_water":18366965,
-    "fips_id":"17193",
+    "geoid":"17193",
     "name":"White",
     "state":"il"
 },

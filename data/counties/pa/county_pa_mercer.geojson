@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1741978098,
     "area_water":25963051,
-    "fips_id":"42085",
+    "geoid":"42085",
     "name":"Mercer",
     "state":"pa"
 },

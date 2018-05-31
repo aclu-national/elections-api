@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1822539611,
     "area_water":15512963,
-    "fips_id":"17135",
+    "geoid":"17135",
     "name":"Montgomery",
     "state":"il"
 },

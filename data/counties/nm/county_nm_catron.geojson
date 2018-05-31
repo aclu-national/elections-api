@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17933560026,
     "area_water":14194439,
-    "fips_id":"35003",
+    "geoid":"35003",
     "name":"Catron",
     "state":"nm"
 },

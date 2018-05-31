@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1594610575,
     "area_water":8640423,
-    "fips_id":"31131",
+    "geoid":"31131",
     "name":"Otoe",
     "state":"ne"
 },

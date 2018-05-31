@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1805172274,
     "area_water":130329995,
-    "fips_id":"22029",
+    "geoid":"22029",
     "name":"Concordia",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":26368508430,
     "area_water":119088140,
-    "fips_id":"06027",
+    "geoid":"06027",
     "name":"Inyo",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":559659548,
     "area_water":8596853,
-    "fips_id":"13231",
+    "geoid":"13231",
     "name":"Pike",
     "state":"ga"
 },

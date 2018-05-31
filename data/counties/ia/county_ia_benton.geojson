@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1855117319,
     "area_water":5760770,
-    "fips_id":"19011",
+    "geoid":"19011",
     "name":"Benton",
     "state":"ia"
 },

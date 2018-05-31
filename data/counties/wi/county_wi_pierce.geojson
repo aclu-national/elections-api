@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1486126051,
     "area_water":46825858,
-    "fips_id":"55093",
+    "geoid":"55093",
     "name":"Pierce",
     "state":"wi"
 },

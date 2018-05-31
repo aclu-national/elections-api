@@ -4,7 +4,7 @@
   "properties": {
     "area_land":64290353013,
     "area_water":752301282,
-    "fips_id":"02240",
+    "geoid":"02240",
     "name":"Southeast Fairbanks",
     "state":"ak"
 },

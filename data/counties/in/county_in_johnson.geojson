@@ -4,7 +4,7 @@
   "properties": {
     "area_land":829909465,
     "area_water":3525572,
-    "fips_id":"18081",
+    "geoid":"18081",
     "name":"Johnson",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1844613572,
     "area_water":8424876,
-    "fips_id":"38091",
+    "geoid":"38091",
     "name":"Steele",
     "state":"nd"
 },

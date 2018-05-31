@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1522007138,
     "area_water":334399,
-    "fips_id":"19119",
+    "geoid":"19119",
     "name":"Lyon",
     "state":"ia"
 },

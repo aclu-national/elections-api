@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4294875666,
     "area_water":73344946,
-    "fips_id":"53059",
+    "geoid":"53059",
     "name":"Skamania",
     "state":"wa"
 },

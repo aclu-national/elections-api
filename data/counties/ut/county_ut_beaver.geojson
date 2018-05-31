@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6689681822,
     "area_water":5298466,
-    "fips_id":"49001",
+    "geoid":"49001",
     "name":"Beaver",
     "state":"ut"
 },

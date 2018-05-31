@@ -4,7 +4,7 @@
   "properties": {
     "area_land":751030090,
     "area_water":33194065,
-    "fips_id":"22005",
+    "geoid":"22005",
     "name":"Ascension",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":94613892,
     "area_water":101131781,
-    "fips_id":"72005",
+    "geoid":"72005",
     "name":"Aguadilla",
     "state":"pr"
 },

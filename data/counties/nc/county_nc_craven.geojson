@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1830335129,
     "area_water":172457083,
-    "fips_id":"37049",
+    "geoid":"37049",
     "name":"Craven",
     "state":"nc"
 },

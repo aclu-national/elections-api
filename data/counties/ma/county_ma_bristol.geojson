@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1432461196,
     "area_water":357549440,
-    "fips_id":"25005",
+    "geoid":"25005",
     "name":"Bristol",
     "state":"ma"
 },

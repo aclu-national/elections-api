@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1729448612,
     "area_water":6829952,
-    "fips_id":"47069",
+    "geoid":"47069",
     "name":"Hardeman",
     "state":"tn"
 },

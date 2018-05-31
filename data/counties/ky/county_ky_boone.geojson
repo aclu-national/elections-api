@@ -4,7 +4,7 @@
   "properties": {
     "area_land":637796403,
     "area_water":26558591,
-    "fips_id":"21015",
+    "geoid":"21015",
     "name":"Boone",
     "state":"ky"
 },

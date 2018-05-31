@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3033697431,
     "area_water":1845664144,
-    "fips_id":"26153",
+    "geoid":"26153",
     "name":"Schoolcraft",
     "state":"mi"
 },

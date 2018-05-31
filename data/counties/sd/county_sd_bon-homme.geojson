@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1459866820,
     "area_water":46518944,
-    "fips_id":"46009",
+    "geoid":"46009",
     "name":"Bon Homme",
     "state":"sd"
 },

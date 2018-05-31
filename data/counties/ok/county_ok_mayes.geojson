@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1697432145,
     "area_water":72855332,
-    "fips_id":"40097",
+    "geoid":"40097",
     "name":"Mayes",
     "state":"ok"
 },

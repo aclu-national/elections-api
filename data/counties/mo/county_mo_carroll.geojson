@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1799061775,
     "area_water":17533485,
-    "fips_id":"29033",
+    "geoid":"29033",
     "name":"Carroll",
     "state":"mo"
 },

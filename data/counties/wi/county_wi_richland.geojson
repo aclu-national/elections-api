@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1518120269,
     "area_water":8153437,
-    "fips_id":"55103",
+    "geoid":"55103",
     "name":"Richland",
     "state":"wi"
 },

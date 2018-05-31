@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3023220812,
     "area_water":41815517,
-    "fips_id":"08001",
+    "geoid":"08001",
     "name":"Adams",
     "state":"co"
 },

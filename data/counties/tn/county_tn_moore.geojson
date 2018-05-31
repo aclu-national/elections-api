@@ -4,7 +4,7 @@
   "properties": {
     "area_land":334684865,
     "area_water":3093435,
-    "fips_id":"47127",
+    "geoid":"47127",
     "name":"Moore",
     "state":"tn"
 },

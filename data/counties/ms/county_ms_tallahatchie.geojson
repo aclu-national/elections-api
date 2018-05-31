@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1671109461,
     "area_water":17929624,
-    "fips_id":"28135",
+    "geoid":"28135",
     "name":"Tallahatchie",
     "state":"ms"
 },

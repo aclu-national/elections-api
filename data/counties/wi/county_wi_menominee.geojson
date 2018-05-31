@@ -4,7 +4,7 @@
   "properties": {
     "area_land":926201674,
     "area_water":19038372,
-    "fips_id":"55078",
+    "geoid":"55078",
     "name":"Menominee",
     "state":"wi"
 },

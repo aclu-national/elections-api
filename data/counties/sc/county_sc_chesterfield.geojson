@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2069379207,
     "area_water":17250030,
-    "fips_id":"45025",
+    "geoid":"45025",
     "name":"Chesterfield",
     "state":"sc"
 },

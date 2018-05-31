@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1493777024,
     "area_water":1965341,
-    "fips_id":"19079",
+    "geoid":"19079",
     "name":"Hamilton",
     "state":"ia"
 },

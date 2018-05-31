@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2093947210,
     "area_water":15372862,
-    "fips_id":"29179",
+    "geoid":"29179",
     "name":"Reynolds",
     "state":"mo"
 },

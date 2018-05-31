@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2369911333,
     "area_water":10703533792,
-    "fips_id":"26003",
+    "geoid":"26003",
     "name":"Alger",
     "state":"mi"
 },

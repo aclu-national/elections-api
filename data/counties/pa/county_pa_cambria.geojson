@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1782804173,
     "area_water":13696237,
-    "fips_id":"42021",
+    "geoid":"42021",
     "name":"Cambria",
     "state":"pa"
 },

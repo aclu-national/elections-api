@@ -1,10 +1,10 @@
 {
-  "id": "state_state_in.geojson",
+  "id": "state_in.geojson",
   "type": "Feature",
   "properties": {
     "area_land":92787765193,
     "area_water":1539541677,
-    "fips_id":"18",
+    "geoid":"18",
     "name":"Indiana",
     "state":"in"
 },

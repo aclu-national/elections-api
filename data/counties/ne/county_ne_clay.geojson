@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1482222903,
     "area_water":3234878,
-    "fips_id":"31035",
+    "geoid":"31035",
     "name":"Clay",
     "state":"ne"
 },

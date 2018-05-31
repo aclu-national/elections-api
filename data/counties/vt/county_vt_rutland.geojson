@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2408212536,
     "area_water":38758591,
-    "fips_id":"50021",
+    "geoid":"50021",
     "name":"Rutland",
     "state":"vt"
 },

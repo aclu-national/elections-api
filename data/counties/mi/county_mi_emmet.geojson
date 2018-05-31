@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1210879338,
     "area_water":1073480654,
-    "fips_id":"26047",
+    "geoid":"26047",
     "name":"Emmet",
     "state":"mi"
 },

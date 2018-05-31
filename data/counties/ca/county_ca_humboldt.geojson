@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9241251740,
     "area_water":1254039383,
-    "fips_id":"06023",
+    "geoid":"06023",
     "name":"Humboldt",
     "state":"ca"
 },

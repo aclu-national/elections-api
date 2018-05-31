@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1429025286,
     "area_water":13047565,
-    "fips_id":"21083",
+    "geoid":"21083",
     "name":"Graves",
     "state":"ky"
 },

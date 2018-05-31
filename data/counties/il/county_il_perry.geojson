@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1144186125,
     "area_water":13416186,
-    "fips_id":"17145",
+    "geoid":"17145",
     "name":"Perry",
     "state":"il"
 },

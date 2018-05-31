@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1596928760,
     "area_water":4332057,
-    "fips_id":"27113",
+    "geoid":"27113",
     "name":"Pennington",
     "state":"mn"
 },

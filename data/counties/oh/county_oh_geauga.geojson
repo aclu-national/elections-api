@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1036429792,
     "area_water":21045380,
-    "fips_id":"39055",
+    "geoid":"39055",
     "name":"Geauga",
     "state":"oh"
 },

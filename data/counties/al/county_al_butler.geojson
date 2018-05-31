@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2011985458,
     "area_water":2718248,
-    "fips_id":"01013",
+    "geoid":"01013",
     "name":"Butler",
     "state":"al"
 },

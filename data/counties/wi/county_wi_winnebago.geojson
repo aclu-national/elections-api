@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1125258751,
     "area_water":373232751,
-    "fips_id":"55139",
+    "geoid":"55139",
     "name":"Winnebago",
     "state":"wi"
 },

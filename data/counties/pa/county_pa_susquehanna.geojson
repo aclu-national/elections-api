@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2132850304,
     "area_water":22385627,
-    "fips_id":"42115",
+    "geoid":"42115",
     "name":"Susquehanna",
     "state":"pa"
 },

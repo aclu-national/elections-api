@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1250846053,
     "area_water":7142208,
-    "fips_id":"51141",
+    "geoid":"51141",
     "name":"Patrick",
     "state":"va"
 },

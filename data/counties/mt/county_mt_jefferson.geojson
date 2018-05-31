@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4291254207,
     "area_water":6605135,
-    "fips_id":"30043",
+    "geoid":"30043",
     "name":"Jefferson",
     "state":"mt"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1132603918,
     "area_water":15425953,
-    "fips_id":"21151",
+    "geoid":"21151",
     "name":"Madison",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2366348295,
     "area_water":140932,
-    "fips_id":"20199",
+    "geoid":"20199",
     "name":"Wallace",
     "state":"ks"
 },

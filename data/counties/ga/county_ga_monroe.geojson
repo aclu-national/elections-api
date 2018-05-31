@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1025872423,
     "area_water":5643844,
-    "fips_id":"13207",
+    "geoid":"13207",
     "name":"Monroe",
     "state":"ga"
 },

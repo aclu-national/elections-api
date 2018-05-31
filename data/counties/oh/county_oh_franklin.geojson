@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1378853105,
     "area_water":29125601,
-    "fips_id":"39049",
+    "geoid":"39049",
     "name":"Franklin",
     "state":"oh"
 },

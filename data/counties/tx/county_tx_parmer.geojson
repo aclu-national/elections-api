@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2281312151,
     "area_water":11355762,
-    "fips_id":"48369",
+    "geoid":"48369",
     "name":"Parmer",
     "state":"tx"
 },

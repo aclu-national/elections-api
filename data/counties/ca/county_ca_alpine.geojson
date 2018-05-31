@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1912292631,
     "area_water":12557304,
-    "fips_id":"06003",
+    "geoid":"06003",
     "name":"Alpine",
     "state":"ca"
 },

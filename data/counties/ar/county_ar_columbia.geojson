@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1983889573,
     "area_water":1990757,
-    "fips_id":"05027",
+    "geoid":"05027",
     "name":"Columbia",
     "state":"ar"
 },

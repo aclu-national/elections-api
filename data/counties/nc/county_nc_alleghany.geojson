@@ -4,7 +4,7 @@
   "properties": {
     "area_land":607101004,
     "area_water":3715040,
-    "fips_id":"37005",
+    "geoid":"37005",
     "name":"Alleghany",
     "state":"nc"
 },

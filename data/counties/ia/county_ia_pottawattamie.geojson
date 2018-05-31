@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2461903582,
     "area_water":22261204,
-    "fips_id":"19155",
+    "geoid":"19155",
     "name":"Pottawattamie",
     "state":"ia"
 },

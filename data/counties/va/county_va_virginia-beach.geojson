@@ -4,7 +4,7 @@
   "properties": {
     "area_land":633823900,
     "area_water":654692027,
-    "fips_id":"51810",
+    "geoid":"51810",
     "name":"Virginia Beach",
     "state":"va"
 },

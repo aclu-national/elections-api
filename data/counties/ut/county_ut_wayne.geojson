@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6374158879,
     "area_water":15154124,
-    "fips_id":"49055",
+    "geoid":"49055",
     "name":"Wayne",
     "state":"ut"
 },

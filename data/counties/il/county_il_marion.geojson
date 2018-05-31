@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1482448747,
     "area_water":9481542,
-    "fips_id":"17121",
+    "geoid":"17121",
     "name":"Marion",
     "state":"il"
 },

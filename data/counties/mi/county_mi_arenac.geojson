@@ -4,7 +4,7 @@
   "properties": {
     "area_land":940623611,
     "area_water":822317353,
-    "fips_id":"26011",
+    "geoid":"26011",
     "name":"Arenac",
     "state":"mi"
 },

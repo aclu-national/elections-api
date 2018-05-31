@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1576952826,
     "area_water":5388561,
-    "fips_id":"01041",
+    "geoid":"01041",
     "name":"Crenshaw",
     "state":"al"
 },

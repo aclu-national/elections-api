@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1678750672,
     "area_water":112119167,
-    "fips_id":"22063",
+    "geoid":"22063",
     "name":"Livingston",
     "state":"la"
 },

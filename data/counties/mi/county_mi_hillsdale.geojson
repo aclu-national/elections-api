@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1549207599,
     "area_water":22938677,
-    "fips_id":"26059",
+    "geoid":"26059",
     "name":"Hillsdale",
     "state":"mi"
 },

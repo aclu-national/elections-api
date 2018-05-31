@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2326519566,
     "area_water":6031186,
-    "fips_id":"20113",
+    "geoid":"20113",
     "name":"McPherson",
     "state":"ks"
 },

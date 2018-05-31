@@ -4,7 +4,7 @@
   "properties": {
     "area_land":51593824,
     "area_water":147694,
-    "fips_id":"51790",
+    "geoid":"51790",
     "name":"Staunton",
     "state":"va"
 },

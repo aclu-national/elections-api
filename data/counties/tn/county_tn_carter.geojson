@@ -4,7 +4,7 @@
   "properties": {
     "area_land":883865752,
     "area_water":16654827,
-    "fips_id":"47019",
+    "geoid":"47019",
     "name":"Carter",
     "state":"tn"
 },

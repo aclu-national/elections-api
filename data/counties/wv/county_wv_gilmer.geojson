@@ -4,7 +4,7 @@
   "properties": {
     "area_land":876717634,
     "area_water":4082111,
-    "fips_id":"54021",
+    "geoid":"54021",
     "name":"Gilmer",
     "state":"wv"
 },

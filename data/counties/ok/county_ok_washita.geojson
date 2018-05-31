@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2598189859,
     "area_water":14579002,
-    "fips_id":"40149",
+    "geoid":"40149",
     "name":"Washita",
     "state":"ok"
 },

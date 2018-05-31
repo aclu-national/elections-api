@@ -4,7 +4,7 @@
   "properties": {
     "area_land":976215870,
     "area_water":18111565,
-    "fips_id":"08065",
+    "geoid":"08065",
     "name":"Lake",
     "state":"co"
 },

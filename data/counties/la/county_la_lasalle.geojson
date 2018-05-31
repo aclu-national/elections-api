@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1617924843,
     "area_water":97664776,
-    "fips_id":"22059",
+    "geoid":"22059",
     "name":"LaSalle",
     "state":"la"
 },

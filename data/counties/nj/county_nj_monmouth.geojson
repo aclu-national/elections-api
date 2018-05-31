@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1213128209,
     "area_water":510444544,
-    "fips_id":"34025",
+    "geoid":"34025",
     "name":"Monmouth",
     "state":"nj"
 },

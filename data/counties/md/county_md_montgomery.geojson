@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1276943098,
     "area_water":35936935,
-    "fips_id":"24031",
+    "geoid":"24031",
     "name":"Montgomery",
     "state":"md"
 },

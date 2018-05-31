@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1763849850,
     "area_water":9823728,
-    "fips_id":"47035",
+    "geoid":"47035",
     "name":"Cumberland",
     "state":"tn"
 },

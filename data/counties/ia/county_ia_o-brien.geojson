@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1484154165,
     "area_water":447448,
-    "fips_id":"19141",
+    "geoid":"19141",
     "name":"O'Brien",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1618104260,
     "area_water":4717267,
-    "fips_id":"29145",
+    "geoid":"29145",
     "name":"Newton",
     "state":"mo"
 },

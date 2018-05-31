@@ -4,7 +4,7 @@
   "properties": {
     "area_land":879750403,
     "area_water":7603771,
-    "fips_id":"21193",
+    "geoid":"21193",
     "name":"Perry",
     "state":"ky"
 },

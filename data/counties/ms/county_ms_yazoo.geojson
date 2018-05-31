@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2387955940,
     "area_water":31503956,
-    "fips_id":"28163",
+    "geoid":"28163",
     "name":"Yazoo",
     "state":"ms"
 },

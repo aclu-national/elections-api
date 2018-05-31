@@ -4,7 +4,7 @@
   "properties": {
     "area_land":682967799,
     "area_water":7399100,
-    "fips_id":"37059",
+    "geoid":"37059",
     "name":"Davie",
     "state":"nc"
 },

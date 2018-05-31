@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4481040001,
     "area_water":484058876,
-    "fips_id":"53057",
+    "geoid":"53057",
     "name":"Skagit",
     "state":"wa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6473002,
     "area_water":67785,
-    "fips_id":"51678",
+    "geoid":"51678",
     "name":"Lexington",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1921906751,
     "area_water":164903351,
-    "fips_id":"49035",
+    "geoid":"49035",
     "name":"Salt Lake",
     "state":"ut"
 },

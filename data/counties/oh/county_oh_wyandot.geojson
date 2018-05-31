@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1053773838,
     "area_water":1783531,
-    "fips_id":"39175",
+    "geoid":"39175",
     "name":"Wyandot",
     "state":"oh"
 },

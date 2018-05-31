@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6167121090,
     "area_water":35716361,
-    "fips_id":"41065",
+    "geoid":"41065",
     "name":"Wasco",
     "state":"or"
 },

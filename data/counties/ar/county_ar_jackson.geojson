@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1641853230,
     "area_water":19623381,
-    "fips_id":"05067",
+    "geoid":"05067",
     "name":"Jackson",
     "state":"ar"
 },

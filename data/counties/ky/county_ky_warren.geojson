@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1402737947,
     "area_water":15447169,
-    "fips_id":"21227",
+    "geoid":"21227",
     "name":"Warren",
     "state":"ky"
 },

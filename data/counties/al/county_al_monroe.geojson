@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2656517454,
     "area_water":22609680,
-    "fips_id":"01099",
+    "geoid":"01099",
     "name":"Monroe",
     "state":"al"
 },

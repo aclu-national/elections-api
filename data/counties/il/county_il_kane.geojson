@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1347216944,
     "area_water":10775892,
-    "fips_id":"17089",
+    "geoid":"17089",
     "name":"Kane",
     "state":"il"
 },

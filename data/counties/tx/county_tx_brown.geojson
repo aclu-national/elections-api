@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2446084213,
     "area_water":32411546,
-    "fips_id":"48049",
+    "geoid":"48049",
     "name":"Brown",
     "state":"tx"
 },

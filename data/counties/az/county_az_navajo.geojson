@@ -4,7 +4,7 @@
   "properties": {
     "area_land":25770094249,
     "area_water":24078111,
-    "fips_id":"04017",
+    "geoid":"04017",
     "name":"Navajo",
     "state":"az"
 },

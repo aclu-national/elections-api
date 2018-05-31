@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1564253513,
     "area_water":5283523,
-    "fips_id":"01027",
+    "geoid":"01027",
     "name":"Clay",
     "state":"al"
 },

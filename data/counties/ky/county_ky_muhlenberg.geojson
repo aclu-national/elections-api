@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1209734539,
     "area_water":31905594,
-    "fips_id":"21177",
+    "geoid":"21177",
     "name":"Muhlenberg",
     "state":"ky"
 },

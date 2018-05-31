@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2034441181,
     "area_water":32925693,
-    "fips_id":"50025",
+    "geoid":"50025",
     "name":"Windham",
     "state":"vt"
 },

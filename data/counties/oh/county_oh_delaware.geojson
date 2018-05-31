@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1147867060,
     "area_water":36610530,
-    "fips_id":"39041",
+    "geoid":"39041",
     "name":"Delaware",
     "state":"oh"
 },

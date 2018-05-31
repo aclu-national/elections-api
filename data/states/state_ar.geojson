@@ -1,10 +1,10 @@
 {
-  "id": "state_state_ar.geojson",
+  "id": "state_ar.geojson",
   "type": "Feature",
   "properties": {
     "area_land":134768100673,
     "area_water":2963631791,
-    "fips_id":"05",
+    "geoid":"05",
     "name":"Arkansas",
     "state":"ar"
 },

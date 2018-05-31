@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1491700969,
     "area_water":5253864,
-    "fips_id":"42059",
+    "geoid":"42059",
     "name":"Greene",
     "state":"pa"
 },

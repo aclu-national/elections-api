@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2266400894,
     "area_water":242801104,
-    "fips_id":"12001",
+    "geoid":"12001",
     "name":"Alachua",
     "state":"fl"
 },

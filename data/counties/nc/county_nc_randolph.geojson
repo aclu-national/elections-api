@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2026174233,
     "area_water":19822770,
-    "fips_id":"37151",
+    "geoid":"37151",
     "name":"Randolph",
     "state":"nc"
 },

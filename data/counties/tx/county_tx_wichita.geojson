@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1625943418,
     "area_water":13820243,
-    "fips_id":"48485",
+    "geoid":"48485",
     "name":"Wichita",
     "state":"tx"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1422175726,
     "area_water":3473066854,
-    "fips_id":"26069",
+    "geoid":"26069",
     "name":"Iosco",
     "state":"mi"
 },

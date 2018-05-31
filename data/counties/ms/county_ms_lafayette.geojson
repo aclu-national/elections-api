@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1636137315,
     "area_water":123056595,
-    "fips_id":"28071",
+    "geoid":"28071",
     "name":"Lafayette",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1100901784,
     "area_water":8093124,
-    "fips_id":"37009",
+    "geoid":"37009",
     "name":"Ashe",
     "state":"nc"
 },

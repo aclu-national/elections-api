@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1865381414,
     "area_water":2809967,
-    "fips_id":"20169",
+    "geoid":"20169",
     "name":"Saline",
     "state":"ks"
 },

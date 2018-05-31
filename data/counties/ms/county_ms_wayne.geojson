@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2099745578,
     "area_water":7255476,
-    "fips_id":"28153",
+    "geoid":"28153",
     "name":"Wayne",
     "state":"ms"
 },

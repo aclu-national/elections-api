@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1067475985,
     "area_water":6974423,
-    "fips_id":"18017",
+    "geoid":"18017",
     "name":"Cass",
     "state":"in"
 },

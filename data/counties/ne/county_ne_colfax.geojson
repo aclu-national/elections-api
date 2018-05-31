@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1066152076,
     "area_water":12619739,
-    "fips_id":"31037",
+    "geoid":"31037",
     "name":"Colfax",
     "state":"ne"
 },

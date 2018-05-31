@@ -4,7 +4,7 @@
   "properties": {
     "area_land":27067954,
     "area_water":178255,
-    "fips_id":"51630",
+    "geoid":"51630",
     "name":"Fredericksburg",
     "state":"va"
 },

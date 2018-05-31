@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2749531887,
     "area_water":124672175,
-    "fips_id":"31101",
+    "geoid":"31101",
     "name":"Keith",
     "state":"ne"
 },

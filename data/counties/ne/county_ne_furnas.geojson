@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1862542307,
     "area_water":3915843,
-    "fips_id":"31065",
+    "geoid":"31065",
     "name":"Furnas",
     "state":"ne"
 },

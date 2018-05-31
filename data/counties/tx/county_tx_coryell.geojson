@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2725199226,
     "area_water":11781488,
-    "fips_id":"48099",
+    "geoid":"48099",
     "name":"Coryell",
     "state":"tx"
 },

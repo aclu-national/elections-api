@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3777375503,
     "area_water":1262209528,
-    "fips_id":"48261",
+    "geoid":"48261",
     "name":"Kenedy",
     "state":"tx"
 },

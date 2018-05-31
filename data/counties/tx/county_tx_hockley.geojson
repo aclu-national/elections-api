@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2352723906,
     "area_water":446119,
-    "fips_id":"48219",
+    "geoid":"48219",
     "name":"Hockley",
     "state":"tx"
 },

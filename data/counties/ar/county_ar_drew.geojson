@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2145434146,
     "area_water":18914033,
-    "fips_id":"05043",
+    "geoid":"05043",
     "name":"Drew",
     "state":"ar"
 },

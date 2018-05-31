@@ -4,7 +4,7 @@
   "properties": {
     "area_land":143255845,
     "area_water":94636933,
-    "fips_id":"72071",
+    "geoid":"72071",
     "name":"Isabela",
     "state":"pr"
 },

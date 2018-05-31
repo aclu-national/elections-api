@@ -4,7 +4,7 @@
   "properties": {
     "area_land":982079080,
     "area_water":9015222,
-    "fips_id":"51047",
+    "geoid":"51047",
     "name":"Culpeper",
     "state":"va"
 },

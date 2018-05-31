@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2361956102,
     "area_water":984295,
-    "fips_id":"08105",
+    "geoid":"08105",
     "name":"Rio Grande",
     "state":"co"
 },

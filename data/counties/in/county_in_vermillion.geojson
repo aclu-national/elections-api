@@ -4,7 +4,7 @@
   "properties": {
     "area_land":665311748,
     "area_water":7904759,
-    "fips_id":"18165",
+    "geoid":"18165",
     "name":"Vermillion",
     "state":"in"
 },

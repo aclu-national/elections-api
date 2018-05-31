@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1377680388,
     "area_water":7255101,
-    "fips_id":"39029",
+    "geoid":"39029",
     "name":"Columbiana",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1165367719,
     "area_water":8349354,
-    "fips_id":"28081",
+    "geoid":"28081",
     "name":"Lee",
     "state":"ms"
 },

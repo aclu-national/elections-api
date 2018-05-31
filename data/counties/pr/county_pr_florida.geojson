@@ -4,7 +4,7 @@
   "properties": {
     "area_land":39391498,
     "area_water":34012,
-    "fips_id":"72054",
+    "geoid":"72054",
     "name":"Florida",
     "state":"pr"
 },

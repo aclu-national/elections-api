@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1828420670,
     "area_water":42642348,
-    "fips_id":"26161",
+    "geoid":"26161",
     "name":"Washtenaw",
     "state":"mi"
 },

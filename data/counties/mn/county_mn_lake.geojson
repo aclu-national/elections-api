@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5463008925,
     "area_water":2282651295,
-    "fips_id":"27075",
+    "geoid":"27075",
     "name":"Lake",
     "state":"mn"
 },

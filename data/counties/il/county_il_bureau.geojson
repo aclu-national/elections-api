@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2250785990,
     "area_water":11578416,
-    "fips_id":"17011",
+    "geoid":"17011",
     "name":"Bureau",
     "state":"il"
 },

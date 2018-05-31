@@ -4,7 +4,7 @@
   "properties": {
     "area_land":337326240,
     "area_water":5407948,
-    "fips_id":"42093",
+    "geoid":"42093",
     "name":"Montour",
     "state":"pa"
 },

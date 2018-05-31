@@ -4,7 +4,7 @@
   "properties": {
     "area_land":13042299249,
     "area_water":252000831,
-    "fips_id":"41019",
+    "geoid":"41019",
     "name":"Douglas",
     "state":"or"
 },

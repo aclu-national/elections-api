@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1110070358,
     "area_water":23748217,
-    "fips_id":"29219",
+    "geoid":"29219",
     "name":"Warren",
     "state":"mo"
 },

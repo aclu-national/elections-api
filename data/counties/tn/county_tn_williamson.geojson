@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1508923182,
     "area_water":3012752,
-    "fips_id":"47187",
+    "geoid":"47187",
     "name":"Williamson",
     "state":"tn"
 },

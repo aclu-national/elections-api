@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2527122948,
     "area_water":191364283,
-    "fips_id":"16007",
+    "geoid":"16007",
     "name":"Bear Lake",
     "state":"id"
 },

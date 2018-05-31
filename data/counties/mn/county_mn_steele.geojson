@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1112775698,
     "area_water":6976791,
-    "fips_id":"27147",
+    "geoid":"27147",
     "name":"Steele",
     "state":"mn"
 },

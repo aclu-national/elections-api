@@ -4,7 +4,7 @@
   "properties": {
     "area_land":719296011,
     "area_water":308712052,
-    "fips_id":"22089",
+    "geoid":"22089",
     "name":"St. Charles",
     "state":"la"
 },

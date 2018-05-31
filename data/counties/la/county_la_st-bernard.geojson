@@ -4,7 +4,7 @@
   "properties": {
     "area_land":977746424,
     "area_water":4604207636,
-    "fips_id":"22087",
+    "geoid":"22087",
     "name":"St. Bernard",
     "state":"la"
 },

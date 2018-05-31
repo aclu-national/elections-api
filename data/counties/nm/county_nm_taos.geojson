@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5704119046,
     "area_water":3383126,
-    "fips_id":"35055",
+    "geoid":"35055",
     "name":"Taos",
     "state":"nm"
 },

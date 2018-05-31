@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1077461474,
     "area_water":9687645,
-    "fips_id":"39069",
+    "geoid":"39069",
     "name":"Henry",
     "state":"oh"
 },

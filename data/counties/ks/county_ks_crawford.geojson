@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1527463453,
     "area_water":13609414,
-    "fips_id":"20037",
+    "geoid":"20037",
     "name":"Crawford",
     "state":"ks"
 },

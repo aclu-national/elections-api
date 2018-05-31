@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1161757245,
     "area_water":757313941,
-    "fips_id":"06081",
+    "geoid":"06081",
     "name":"San Mateo",
     "state":"ca"
 },

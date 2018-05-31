@@ -4,7 +4,7 @@
   "properties": {
     "area_land":202052316,
     "area_water":38061,
-    "fips_id":"72043",
+    "geoid":"72043",
     "name":"Coamo",
     "state":"pr"
 },

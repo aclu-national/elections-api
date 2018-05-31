@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1347976832,
     "area_water":797029137,
-    "fips_id":"06041",
+    "geoid":"06041",
     "name":"Marin",
     "state":"ca"
 },

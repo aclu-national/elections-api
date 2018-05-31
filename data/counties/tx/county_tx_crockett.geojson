@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7270935065,
     "area_water":53329,
-    "fips_id":"48105",
+    "geoid":"48105",
     "name":"Crockett",
     "state":"tx"
 },

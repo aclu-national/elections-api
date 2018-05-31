@@ -4,7 +4,7 @@
   "properties": {
     "area_land":467093981,
     "area_water":6460546,
-    "fips_id":"21021",
+    "geoid":"21021",
     "name":"Boyle",
     "state":"ky"
 },

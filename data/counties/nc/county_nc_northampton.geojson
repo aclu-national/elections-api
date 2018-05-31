@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1389889811,
     "area_water":36034131,
-    "fips_id":"37131",
+    "geoid":"37131",
     "name":"Northampton",
     "state":"nc"
 },

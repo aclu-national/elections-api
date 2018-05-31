@@ -4,7 +4,7 @@
   "properties": {
     "area_land":711873311,
     "area_water":102176879,
-    "fips_id":"47089",
+    "geoid":"47089",
     "name":"Jefferson",
     "state":"tn"
 },

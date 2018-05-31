@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1258350306,
     "area_water":28301129,
-    "fips_id":"31121",
+    "geoid":"31121",
     "name":"Merrick",
     "state":"ne"
 },

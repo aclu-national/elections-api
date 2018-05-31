@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12323146398,
     "area_water":97119865,
-    "fips_id":"04007",
+    "geoid":"04007",
     "name":"Gila",
     "state":"az"
 },

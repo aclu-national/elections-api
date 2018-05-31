@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1487182081,
     "area_water":6898508,
-    "fips_id":"46087",
+    "geoid":"46087",
     "name":"McCook",
     "state":"sd"
 },

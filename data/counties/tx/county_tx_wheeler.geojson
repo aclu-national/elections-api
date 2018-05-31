@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2368603585,
     "area_water":2481258,
-    "fips_id":"48483",
+    "geoid":"48483",
     "name":"Wheeler",
     "state":"tx"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1780837027,
     "area_water":76608850,
-    "fips_id":"46029",
+    "geoid":"46029",
     "name":"Codington",
     "state":"sd"
 },

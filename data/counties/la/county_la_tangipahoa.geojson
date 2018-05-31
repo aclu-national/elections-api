@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2049488093,
     "area_water":136678798,
-    "fips_id":"22105",
+    "geoid":"22105",
     "name":"Tangipahoa",
     "state":"la"
 },

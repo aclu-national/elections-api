@@ -4,7 +4,7 @@
   "properties": {
     "area_land":81102199,
     "area_water":717927568,
-    "fips_id":"78030",
+    "geoid":"78030",
     "name":"St. Thomas",
     "state":"vi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":859730022,
     "area_water":9613810,
-    "fips_id":"21233",
+    "geoid":"21233",
     "name":"Webster",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1861078210,
     "area_water":61987,
-    "fips_id":"20203",
+    "geoid":"20203",
     "name":"Wichita",
     "state":"ks"
 },

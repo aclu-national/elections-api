@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5107436184,
     "area_water":654101087,
-    "fips_id":"27111",
+    "geoid":"27111",
     "name":"Otter Tail",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2721934030,
     "area_water":15930084,
-    "fips_id":"48399",
+    "geoid":"48399",
     "name":"Runnels",
     "state":"tx"
 },

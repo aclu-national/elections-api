@@ -4,7 +4,7 @@
   "properties": {
     "area_land":829446935,
     "area_water":5141326,
-    "fips_id":"17093",
+    "geoid":"17093",
     "name":"Kendall",
     "state":"il"
 },

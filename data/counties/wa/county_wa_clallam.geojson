@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4503153141,
     "area_water":2413877536,
-    "fips_id":"53009",
+    "geoid":"53009",
     "name":"Clallam",
     "state":"wa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1053028461,
     "area_water":7967436,
-    "fips_id":"39109",
+    "geoid":"39109",
     "name":"Miami",
     "state":"oh"
 },

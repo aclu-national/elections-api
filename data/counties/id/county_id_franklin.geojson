@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1717209197,
     "area_water":12155421,
-    "fips_id":"16041",
+    "geoid":"16041",
     "name":"Franklin",
     "state":"id"
 },

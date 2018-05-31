@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2473407963,
     "area_water":7651201,
-    "fips_id":"40093",
+    "geoid":"40093",
     "name":"Major",
     "state":"ok"
 },

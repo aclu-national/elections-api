@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1252422375,
     "area_water":404682,
-    "fips_id":"54087",
+    "geoid":"54087",
     "name":"Roane",
     "state":"wv"
 },

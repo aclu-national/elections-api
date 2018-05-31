@@ -4,7 +4,7 @@
   "properties": {
     "area_land":48421896,
     "area_water":31649450,
-    "fips_id":"72017",
+    "geoid":"72017",
     "name":"Barceloneta",
     "state":"pr"
 },

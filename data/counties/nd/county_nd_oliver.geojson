@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1871296135,
     "area_water":22476236,
-    "fips_id":"38065",
+    "geoid":"38065",
     "name":"Oliver",
     "state":"nd"
 },

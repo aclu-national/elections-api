@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2218035729,
     "area_water":24256617,
-    "fips_id":"42011",
+    "geoid":"42011",
     "name":"Berks",
     "state":"pa"
 },

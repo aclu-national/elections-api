@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1433477403,
     "area_water":7148637,
-    "fips_id":"54101",
+    "geoid":"54101",
     "name":"Webster",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1124996886,
     "area_water":3376514,
-    "fips_id":"19091",
+    "geoid":"19091",
     "name":"Humboldt",
     "state":"ia"
 },

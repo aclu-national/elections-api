@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1871465873,
     "area_water":1847609,
-    "fips_id":"08003",
+    "geoid":"08003",
     "name":"Alamosa",
     "state":"co"
 },

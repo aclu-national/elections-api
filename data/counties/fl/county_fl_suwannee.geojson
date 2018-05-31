@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1783341106,
     "area_water":9594316,
-    "fips_id":"12121",
+    "geoid":"12121",
     "name":"Suwannee",
     "state":"fl"
 },

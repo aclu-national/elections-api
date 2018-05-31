@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1115633278,
     "area_water":36174540,
-    "fips_id":"54053",
+    "geoid":"54053",
     "name":"Mason",
     "state":"wv"
 },

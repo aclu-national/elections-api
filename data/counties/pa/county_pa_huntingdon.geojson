@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2265337403,
     "area_water":37851955,
-    "fips_id":"42061",
+    "geoid":"42061",
     "name":"Huntingdon",
     "state":"pa"
 },

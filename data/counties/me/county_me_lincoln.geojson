@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1180630792,
     "area_water":631357625,
-    "fips_id":"23015",
+    "geoid":"23015",
     "name":"Lincoln",
     "state":"me"
 },

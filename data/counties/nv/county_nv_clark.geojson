@@ -4,7 +4,7 @@
   "properties": {
     "area_land":20439281450,
     "area_water":438376844,
-    "fips_id":"32003",
+    "geoid":"32003",
     "name":"Clark",
     "state":"nv"
 },

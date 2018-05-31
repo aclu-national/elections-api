@@ -1,10 +1,10 @@
 {
-  "id": "state_state_tx.geojson",
+  "id": "state_tx.geojson",
   "type": "Feature",
   "properties": {
     "area_land":676641930188,
     "area_water":19017521093,
-    "fips_id":"48",
+    "geoid":"48",
     "name":"Texas",
     "state":"tx"
 },

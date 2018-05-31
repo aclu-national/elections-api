@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1226719784,
     "area_water":2980756,
-    "fips_id":"47003",
+    "geoid":"47003",
     "name":"Bedford",
     "state":"tn"
 },

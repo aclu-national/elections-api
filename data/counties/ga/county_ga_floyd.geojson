@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1320436485,
     "area_water":22382107,
-    "fips_id":"13115",
+    "geoid":"13115",
     "name":"Floyd",
     "state":"ga"
 },

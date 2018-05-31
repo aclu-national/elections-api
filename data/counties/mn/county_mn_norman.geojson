@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2260512389,
     "area_water":10208057,
-    "fips_id":"27107",
+    "geoid":"27107",
     "name":"Norman",
     "state":"mn"
 },

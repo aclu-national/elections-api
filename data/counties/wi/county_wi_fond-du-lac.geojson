@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1863635236,
     "area_water":119885776,
-    "fips_id":"55039",
+    "geoid":"55039",
     "name":"Fond du Lac",
     "state":"wi"
 },

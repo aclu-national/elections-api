@@ -4,7 +4,7 @@
   "properties": {
     "area_land":120695652,
     "area_water":74074554,
-    "fips_id":"72109",
+    "geoid":"72109",
     "name":"Patillas",
     "state":"pr"
 },

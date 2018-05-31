@@ -4,7 +4,7 @@
   "properties": {
     "area_land":875785691,
     "area_water":97504774,
-    "fips_id":"36123",
+    "geoid":"36123",
     "name":"Yates",
     "state":"ny"
 },

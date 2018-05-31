@@ -4,7 +4,7 @@
   "properties": {
     "area_land":38869489,
     "area_water":53459916,
-    "fips_id":"72015",
+    "geoid":"72015",
     "name":"Arroyo",
     "state":"pr"
 },

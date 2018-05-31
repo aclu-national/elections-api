@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1091406463,
     "area_water":4198457,
-    "fips_id":"39103",
+    "geoid":"39103",
     "name":"Medina",
     "state":"oh"
 },

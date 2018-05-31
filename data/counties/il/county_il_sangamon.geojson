@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2248891495,
     "area_water":22577723,
-    "fips_id":"17167",
+    "geoid":"17167",
     "name":"Sangamon",
     "state":"il"
 },

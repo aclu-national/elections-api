@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1857980543,
     "area_water":7969708,
-    "fips_id":"20157",
+    "geoid":"20157",
     "name":"Republic",
     "state":"ks"
 },

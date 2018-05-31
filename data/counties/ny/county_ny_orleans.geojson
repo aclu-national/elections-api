@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1013366849,
     "area_water":1103741896,
-    "fips_id":"36073",
+    "geoid":"36073",
     "name":"Orleans",
     "state":"ny"
 },

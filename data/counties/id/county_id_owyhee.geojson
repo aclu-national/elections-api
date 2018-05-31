@@ -4,7 +4,7 @@
   "properties": {
     "area_land":19860561623,
     "area_water":74125616,
-    "fips_id":"16073",
+    "geoid":"16073",
     "name":"Owyhee",
     "state":"id"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1854201380,
     "area_water":23721835,
-    "fips_id":"01085",
+    "geoid":"01085",
     "name":"Lowndes",
     "state":"al"
 },

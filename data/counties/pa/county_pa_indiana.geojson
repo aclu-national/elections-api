@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2142009116,
     "area_water":18802621,
-    "fips_id":"42063",
+    "geoid":"42063",
     "name":"Indiana",
     "state":"pa"
 },

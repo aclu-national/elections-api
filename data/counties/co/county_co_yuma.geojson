@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6123763472,
     "area_water":11134666,
-    "fips_id":"08125",
+    "geoid":"08125",
     "name":"Yuma",
     "state":"co"
 },

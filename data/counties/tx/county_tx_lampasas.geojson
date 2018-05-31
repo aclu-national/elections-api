@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1846250633,
     "area_water":2833490,
-    "fips_id":"48281",
+    "geoid":"48281",
     "name":"Lampasas",
     "state":"tx"
 },

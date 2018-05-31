@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5105067510,
     "area_water":69169913,
-    "fips_id":"27119",
+    "geoid":"27119",
     "name":"Polk",
     "state":"mn"
 },

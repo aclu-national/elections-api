@@ -4,7 +4,7 @@
   "properties": {
     "area_land":532533292,
     "area_water":8636823,
-    "fips_id":"21023",
+    "geoid":"21023",
     "name":"Bracken",
     "state":"ky"
 },

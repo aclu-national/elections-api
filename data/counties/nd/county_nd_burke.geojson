@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2858266385,
     "area_water":65700367,
-    "fips_id":"38013",
+    "geoid":"38013",
     "name":"Burke",
     "state":"nd"
 },

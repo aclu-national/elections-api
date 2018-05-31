@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1220837016,
     "area_water":6031827,
-    "fips_id":"37103",
+    "geoid":"37103",
     "name":"Jones",
     "state":"nc"
 },

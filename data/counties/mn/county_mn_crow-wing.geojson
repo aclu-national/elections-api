@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2585785629,
     "area_water":409661410,
-    "fips_id":"27035",
+    "geoid":"27035",
     "name":"Crow Wing",
     "state":"mn"
 },

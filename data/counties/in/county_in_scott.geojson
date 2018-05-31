@@ -4,7 +4,7 @@
   "properties": {
     "area_land":493126036,
     "area_water":6088999,
-    "fips_id":"18143",
+    "geoid":"18143",
     "name":"Scott",
     "state":"in"
 },

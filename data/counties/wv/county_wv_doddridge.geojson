@@ -4,7 +4,7 @@
   "properties": {
     "area_land":828070519,
     "area_water":1958441,
-    "fips_id":"54017",
+    "geoid":"54017",
     "name":"Doddridge",
     "state":"wv"
 },

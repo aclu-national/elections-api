@@ -4,7 +4,7 @@
   "properties": {
     "area_land":575419099,
     "area_water":1505157,
-    "fips_id":"21237",
+    "geoid":"21237",
     "name":"Wolfe",
     "state":"ky"
 },

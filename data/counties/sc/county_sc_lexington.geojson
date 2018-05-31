@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1810553251,
     "area_water":151957530,
-    "fips_id":"45063",
+    "geoid":"45063",
     "name":"Lexington",
     "state":"sc"
 },

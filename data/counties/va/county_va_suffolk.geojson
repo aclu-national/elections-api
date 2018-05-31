@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1033802700,
     "area_water":77061968,
-    "fips_id":"51800",
+    "geoid":"51800",
     "name":"Suffolk",
     "state":"va"
 },

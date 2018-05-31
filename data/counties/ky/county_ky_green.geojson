@@ -4,7 +4,7 @@
   "properties": {
     "area_land":740839712,
     "area_water":7123457,
-    "fips_id":"21087",
+    "geoid":"21087",
     "name":"Green",
     "state":"ky"
 },

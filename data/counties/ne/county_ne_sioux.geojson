@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5352538105,
     "area_water":1872668,
-    "fips_id":"31165",
+    "geoid":"31165",
     "name":"Sioux",
     "state":"ne"
 },

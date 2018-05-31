@@ -4,7 +4,7 @@
   "properties": {
     "area_land":865622497,
     "area_water":3234361,
-    "fips_id":"51011",
+    "geoid":"51011",
     "name":"Appomattox",
     "state":"va"
 },

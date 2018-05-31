@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1561106434,
     "area_water":2341447,
-    "fips_id":"47053",
+    "geoid":"47053",
     "name":"Gibson",
     "state":"tn"
 },

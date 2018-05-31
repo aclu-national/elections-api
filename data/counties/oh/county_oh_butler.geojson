@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1209498280,
     "area_water":7863952,
-    "fips_id":"39017",
+    "geoid":"39017",
     "name":"Butler",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2367400716,
     "area_water":109704318,
-    "fips_id":"55095",
+    "geoid":"55095",
     "name":"Polk",
     "state":"wi"
 },

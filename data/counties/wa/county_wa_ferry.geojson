@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5706360692,
     "area_water":140294376,
-    "fips_id":"53019",
+    "geoid":"53019",
     "name":"Ferry",
     "state":"wa"
 },

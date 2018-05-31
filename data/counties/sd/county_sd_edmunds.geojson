@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2916221362,
     "area_water":65024748,
-    "fips_id":"46045",
+    "geoid":"46045",
     "name":"Edmunds",
     "state":"sd"
 },

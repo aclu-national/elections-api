@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2271359845,
     "area_water":73624039,
-    "fips_id":"22111",
+    "geoid":"22111",
     "name":"Union",
     "state":"la"
 },

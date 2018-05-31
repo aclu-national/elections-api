@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1490498589,
     "area_water":56254913,
-    "fips_id":"17157",
+    "geoid":"17157",
     "name":"Randolph",
     "state":"il"
 },

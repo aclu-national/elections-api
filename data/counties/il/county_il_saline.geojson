@@ -4,7 +4,7 @@
   "properties": {
     "area_land":983755534,
     "area_water":17999636,
-    "fips_id":"17165",
+    "geoid":"17165",
     "name":"Saline",
     "state":"il"
 },

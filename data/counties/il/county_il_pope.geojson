@@ -4,7 +4,7 @@
   "properties": {
     "area_land":955109669,
     "area_water":14328523,
-    "fips_id":"17151",
+    "geoid":"17151",
     "name":"Pope",
     "state":"il"
 },

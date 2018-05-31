@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3893093470,
     "area_water":5182189,
-    "fips_id":"48111",
+    "geoid":"48111",
     "name":"Dallam",
     "state":"tx"
 },

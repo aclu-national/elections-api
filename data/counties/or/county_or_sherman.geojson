@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2133151552,
     "area_water":19617470,
-    "fips_id":"41055",
+    "geoid":"41055",
     "name":"Sherman",
     "state":"or"
 },

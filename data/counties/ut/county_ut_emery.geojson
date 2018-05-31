@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11557242845,
     "area_water":24843848,
-    "fips_id":"49015",
+    "geoid":"49015",
     "name":"Emery",
     "state":"ut"
 },

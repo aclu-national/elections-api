@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4506227705,
     "area_water":24080933,
-    "fips_id":"46047",
+    "geoid":"46047",
     "name":"Fall River",
     "state":"sd"
 },

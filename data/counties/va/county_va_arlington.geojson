@@ -4,7 +4,7 @@
   "properties": {
     "area_land":67362395,
     "area_water":244142,
-    "fips_id":"51013",
+    "geoid":"51013",
     "name":"Arlington",
     "state":"va"
 },

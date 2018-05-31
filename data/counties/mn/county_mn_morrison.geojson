@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2913973124,
     "area_water":73283119,
-    "fips_id":"27097",
+    "geoid":"27097",
     "name":"Morrison",
     "state":"mn"
 },

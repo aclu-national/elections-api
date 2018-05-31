@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1121229505,
     "area_water":46967228,
-    "fips_id":"27141",
+    "geoid":"27141",
     "name":"Sherburne",
     "state":"mn"
 },

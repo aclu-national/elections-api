@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2012070462,
     "area_water":18975652,
-    "fips_id":"16009",
+    "geoid":"16009",
     "name":"Benewah",
     "state":"id"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1070855939,
     "area_water":22502264,
-    "fips_id":"17181",
+    "geoid":"17181",
     "name":"Union",
     "state":"il"
 },

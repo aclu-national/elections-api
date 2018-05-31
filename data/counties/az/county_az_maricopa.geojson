@@ -4,7 +4,7 @@
   "properties": {
     "area_land":23825875275,
     "area_water":64310266,
-    "fips_id":"04013",
+    "geoid":"04013",
     "name":"Maricopa",
     "state":"az"
 },

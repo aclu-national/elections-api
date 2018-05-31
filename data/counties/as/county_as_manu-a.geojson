@@ -4,7 +4,7 @@
   "properties": {
     "area_land":57620994,
     "area_water":464238048,
-    "fips_id":"60020",
+    "geoid":"60020",
     "name":"Manu'a",
     "state":"as"
 },

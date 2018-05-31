@@ -4,7 +4,7 @@
   "properties": {
     "area_land":656969509,
     "area_water":75674970,
-    "fips_id":"21207",
+    "geoid":"21207",
     "name":"Russell",
     "state":"ky"
 },

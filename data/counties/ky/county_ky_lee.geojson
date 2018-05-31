@@ -4,7 +4,7 @@
   "properties": {
     "area_land":540937712,
     "area_water":6215038,
-    "fips_id":"21129",
+    "geoid":"21129",
     "name":"Lee",
     "state":"ky"
 },

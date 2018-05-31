@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2015661187,
     "area_water":32940075,
-    "fips_id":"29009",
+    "geoid":"29009",
     "name":"Barry",
     "state":"mo"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":326179591,
     "area_water":117205831,
-    "fips_id":"72013",
+    "geoid":"72013",
     "name":"Arecibo",
     "state":"pr"
 },

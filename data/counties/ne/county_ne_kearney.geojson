@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1337063632,
     "area_water":274634,
-    "fips_id":"31099",
+    "geoid":"31099",
     "name":"Kearney",
     "state":"ne"
 },

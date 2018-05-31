@@ -4,7 +4,7 @@
   "properties": {
     "area_land":93294534,
     "area_water":1123798,
-    "fips_id":"72041",
+    "geoid":"72041",
     "name":"Cidra",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1487115275,
     "area_water":61893483,
-    "fips_id":"37097",
+    "geoid":"37097",
     "name":"Iredell",
     "state":"nc"
 },

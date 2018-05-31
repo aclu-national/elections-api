@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1575108557,
     "area_water":94852453,
-    "fips_id":"27093",
+    "geoid":"27093",
     "name":"Meeker",
     "state":"mn"
 },

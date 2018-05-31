@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1240027659,
     "area_water":3183217,
-    "fips_id":"17049",
+    "geoid":"17049",
     "name":"Effingham",
     "state":"il"
 },

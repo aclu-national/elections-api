@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1949640578,
     "area_water":4519381,
-    "fips_id":"29065",
+    "geoid":"29065",
     "name":"Dent",
     "state":"mo"
 },

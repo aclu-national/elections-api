@@ -4,7 +4,7 @@
   "properties": {
     "area_land":417438540,
     "area_water":37890290,
-    "fips_id":"47063",
+    "geoid":"47063",
     "name":"Hamblen",
     "state":"tn"
 },

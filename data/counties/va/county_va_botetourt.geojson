@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1401891585,
     "area_water":12133615,
-    "fips_id":"51023",
+    "geoid":"51023",
     "name":"Botetourt",
     "state":"va"
 },

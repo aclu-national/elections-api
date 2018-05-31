@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2338953786,
     "area_water":93938154,
-    "fips_id":"38079",
+    "geoid":"38079",
     "name":"Rolette",
     "state":"nd"
 },

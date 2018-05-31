@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2246154434,
     "area_water":166682934,
-    "fips_id":"36113",
+    "geoid":"36113",
     "name":"Warren",
     "state":"ny"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1484707285,
     "area_water":3481943,
-    "fips_id":"31139",
+    "geoid":"31139",
     "name":"Pierce",
     "state":"ne"
 },

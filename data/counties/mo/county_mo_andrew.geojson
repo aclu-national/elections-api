@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1120659795,
     "area_water":9686701,
-    "fips_id":"29003",
+    "geoid":"29003",
     "name":"Andrew",
     "state":"mo"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2116643860,
     "area_water":75721265,
-    "fips_id":"46015",
+    "geoid":"46015",
     "name":"Brule",
     "state":"sd"
 },

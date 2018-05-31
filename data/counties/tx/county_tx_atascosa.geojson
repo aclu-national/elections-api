@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3158596670,
     "area_water":4995711,
-    "fips_id":"48013",
+    "geoid":"48013",
     "name":"Atascosa",
     "state":"tx"
 },

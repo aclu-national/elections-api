@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1721328762,
     "area_water":20656658,
-    "fips_id":"39119",
+    "geoid":"39119",
     "name":"Muskingum",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":899563041,
     "area_water":13338830,
-    "fips_id":"13165",
+    "geoid":"13165",
     "name":"Jenkins",
     "state":"ga"
 },

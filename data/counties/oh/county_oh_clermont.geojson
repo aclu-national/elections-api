@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1170958177,
     "area_water":19831170,
-    "fips_id":"39025",
+    "geoid":"39025",
     "name":"Clermont",
     "state":"oh"
 },

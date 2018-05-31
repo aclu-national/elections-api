@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2594462131,
     "area_water":36339122,
-    "fips_id":"36077",
+    "geoid":"36077",
     "name":"Otsego",
     "state":"ny"
 },

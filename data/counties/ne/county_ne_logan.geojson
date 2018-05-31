@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478003937,
     "area_water":1203586,
-    "fips_id":"31113",
+    "geoid":"31113",
     "name":"Logan",
     "state":"ne"
 },

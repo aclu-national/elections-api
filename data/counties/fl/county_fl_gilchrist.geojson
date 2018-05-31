@@ -4,7 +4,7 @@
   "properties": {
     "area_land":905705520,
     "area_water":14362154,
-    "fips_id":"12041",
+    "geoid":"12041",
     "name":"Gilchrist",
     "state":"fl"
 },

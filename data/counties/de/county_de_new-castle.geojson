@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1104150372,
     "area_water":175375756,
-    "fips_id":"10003",
+    "geoid":"10003",
     "name":"New Castle",
     "state":"de"
 },

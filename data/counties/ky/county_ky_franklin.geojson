@@ -4,7 +4,7 @@
   "properties": {
     "area_land":538073033,
     "area_water":11025563,
-    "fips_id":"21073",
+    "geoid":"21073",
     "name":"Franklin",
     "state":"ky"
 },

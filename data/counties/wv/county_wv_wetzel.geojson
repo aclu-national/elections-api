@@ -4,7 +4,7 @@
   "properties": {
     "area_land":927380674,
     "area_water":8458366,
-    "fips_id":"54103",
+    "geoid":"54103",
     "name":"Wetzel",
     "state":"wv"
 },

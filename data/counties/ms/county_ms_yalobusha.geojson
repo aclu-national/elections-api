@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1209858146,
     "area_water":72197127,
-    "fips_id":"28161",
+    "geoid":"28161",
     "name":"Yalobusha",
     "state":"ms"
 },

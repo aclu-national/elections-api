@@ -4,7 +4,7 @@
   "properties": {
     "area_land":997207732,
     "area_water":33717847,
-    "fips_id":"17133",
+    "geoid":"17133",
     "name":"Monroe",
     "state":"il"
 },

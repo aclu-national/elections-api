@@ -4,7 +4,7 @@
   "properties": {
     "area_land":653705784,
     "area_water":42187365,
-    "fips_id":"37181",
+    "geoid":"37181",
     "name":"Vance",
     "state":"nc"
 },

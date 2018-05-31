@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2205275212,
     "area_water":22010737,
-    "fips_id":"31067",
+    "geoid":"31067",
     "name":"Gage",
     "state":"ne"
 },

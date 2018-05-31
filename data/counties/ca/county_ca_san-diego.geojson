@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10898787530,
     "area_water":822557348,
-    "fips_id":"06073",
+    "geoid":"06073",
     "name":"San Diego",
     "state":"ca"
 },

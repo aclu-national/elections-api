@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2359148815,
     "area_water":6398045,
-    "fips_id":"48269",
+    "geoid":"48269",
     "name":"King",
     "state":"tx"
 },

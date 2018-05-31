@@ -4,7 +4,7 @@
   "properties": {
     "area_land":885617251,
     "area_water":4862445,
-    "fips_id":"54015",
+    "geoid":"54015",
     "name":"Clay",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1113958478,
     "area_water":7519824,
-    "fips_id":"39105",
+    "geoid":"39105",
     "name":"Meigs",
     "state":"oh"
 },

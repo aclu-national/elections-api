@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1687025362,
     "area_water":18718206,
-    "fips_id":"22053",
+    "geoid":"22053",
     "name":"Jefferson Davis",
     "state":"la"
 },

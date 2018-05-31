@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2628256658,
     "area_water":22688556,
-    "fips_id":"06113",
+    "geoid":"06113",
     "name":"Yolo",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2080718000,
     "area_water":286299930,
-    "fips_id":"26157",
+    "geoid":"26157",
     "name":"Tuscola",
     "state":"mi"
 },

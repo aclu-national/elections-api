@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2252651371,
     "area_water":19495790,
-    "fips_id":"28049",
+    "geoid":"28049",
     "name":"Hinds",
     "state":"ms"
 },

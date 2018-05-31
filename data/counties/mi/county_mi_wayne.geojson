@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1585060122,
     "area_water":157341390,
-    "fips_id":"26163",
+    "geoid":"26163",
     "name":"Wayne",
     "state":"mi"
 },

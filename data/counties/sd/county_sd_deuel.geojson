@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1612756368,
     "area_water":36065238,
-    "fips_id":"46039",
+    "geoid":"46039",
     "name":"Deuel",
     "state":"sd"
 },

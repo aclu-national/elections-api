@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4329471930,
     "area_water":16913419,
-    "fips_id":"27135",
+    "geoid":"27135",
     "name":"Roseau",
     "state":"mn"
 },

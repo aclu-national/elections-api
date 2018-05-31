@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1302197699,
     "area_water":295585012,
-    "fips_id":"12061",
+    "geoid":"12061",
     "name":"Indian River",
     "state":"fl"
 },

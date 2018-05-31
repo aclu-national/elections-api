@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2588642249,
     "area_water":22679881,
-    "fips_id":"40043",
+    "geoid":"40043",
     "name":"Dewey",
     "state":"ok"
 },

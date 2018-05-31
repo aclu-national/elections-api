@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2051804710,
     "area_water":32967600,
-    "fips_id":"46011",
+    "geoid":"46011",
     "name":"Brookings",
     "state":"sd"
 },

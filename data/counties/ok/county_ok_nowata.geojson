@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1465358455,
     "area_water":38869450,
-    "fips_id":"40105",
+    "geoid":"40105",
     "name":"Nowata",
     "state":"ok"
 },

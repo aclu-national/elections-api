@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8379502703,
     "area_water":38797815,
-    "fips_id":"49013",
+    "geoid":"49013",
     "name":"Duchesne",
     "state":"ut"
 },

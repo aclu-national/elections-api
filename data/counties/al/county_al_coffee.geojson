@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1758565927,
     "area_water":3907189,
-    "fips_id":"01031",
+    "geoid":"01031",
     "name":"Coffee",
     "state":"al"
 },

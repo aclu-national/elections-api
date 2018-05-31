@@ -4,7 +4,7 @@
   "properties": {
     "area_land":668161261,
     "area_water":7236760,
-    "fips_id":"21081",
+    "geoid":"21081",
     "name":"Grant",
     "state":"ky"
 },

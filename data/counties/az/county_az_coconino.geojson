@@ -4,7 +4,7 @@
   "properties": {
     "area_land":48222181220,
     "area_water":110085803,
-    "fips_id":"04005",
+    "geoid":"04005",
     "name":"Coconino",
     "state":"az"
 },

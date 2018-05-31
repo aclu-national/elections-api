@@ -4,7 +4,7 @@
   "properties": {
     "area_land":834083256,
     "area_water":18082753,
-    "fips_id":"13291",
+    "geoid":"13291",
     "name":"Union",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1365526500,
     "area_water":46525649,
-    "fips_id":"25015",
+    "geoid":"25015",
     "name":"Hampshire",
     "state":"ma"
 },

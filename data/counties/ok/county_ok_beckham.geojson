@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2335665266,
     "area_water":5527154,
-    "fips_id":"40009",
+    "geoid":"40009",
     "name":"Beckham",
     "state":"ok"
 },

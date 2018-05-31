@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2445701362,
     "area_water":24448710,
-    "fips_id":"20115",
+    "geoid":"20115",
     "name":"Marion",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1565653728,
     "area_water":667092277,
-    "fips_id":"09009",
+    "geoid":"09009",
     "name":"New Haven",
     "state":"ct"
 },

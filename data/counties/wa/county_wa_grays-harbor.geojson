@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4924343838,
     "area_water":834767680,
-    "fips_id":"53027",
+    "geoid":"53027",
     "name":"Grays Harbor",
     "state":"wa"
 },

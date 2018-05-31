@@ -4,7 +4,7 @@
   "properties": {
     "area_land":294045388,
     "area_water":3982230,
-    "fips_id":"72141",
+    "geoid":"72141",
     "name":"Utuado",
     "state":"pr"
 },

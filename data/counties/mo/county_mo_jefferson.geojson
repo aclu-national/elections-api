@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1700691208,
     "area_water":19797687,
-    "fips_id":"29099",
+    "geoid":"29099",
     "name":"Jefferson",
     "state":"mo"
 },

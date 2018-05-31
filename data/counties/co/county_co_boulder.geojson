@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1881281634,
     "area_water":36521204,
-    "fips_id":"08013",
+    "geoid":"08013",
     "name":"Boulder",
     "state":"co"
 },

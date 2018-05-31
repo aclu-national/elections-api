@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1652211293,
     "area_water":18848535,
-    "fips_id":"55035",
+    "geoid":"55035",
     "name":"Eau Claire",
     "state":"wi"
 },

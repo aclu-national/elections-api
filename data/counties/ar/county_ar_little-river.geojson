@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1378586566,
     "area_water":84150136,
-    "fips_id":"05081",
+    "geoid":"05081",
     "name":"Little River",
     "state":"ar"
 },

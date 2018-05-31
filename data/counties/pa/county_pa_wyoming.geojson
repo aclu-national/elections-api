@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1029016039,
     "area_water":20034376,
-    "fips_id":"42131",
+    "geoid":"42131",
     "name":"Wyoming",
     "state":"pa"
 },

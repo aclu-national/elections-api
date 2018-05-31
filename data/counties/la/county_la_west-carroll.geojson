@@ -4,7 +4,7 @@
   "properties": {
     "area_land":931478638,
     "area_water":2386193,
-    "fips_id":"22123",
+    "geoid":"22123",
     "name":"West Carroll",
     "state":"la"
 },

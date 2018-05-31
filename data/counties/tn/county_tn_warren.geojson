@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1120619142,
     "area_water":3524884,
-    "fips_id":"47177",
+    "geoid":"47177",
     "name":"Warren",
     "state":"tn"
 },

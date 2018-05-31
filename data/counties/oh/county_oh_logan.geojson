@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1187337620,
     "area_water":21597586,
-    "fips_id":"39091",
+    "geoid":"39091",
     "name":"Logan",
     "state":"oh"
 },

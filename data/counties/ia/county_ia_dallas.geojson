@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1523691141,
     "area_water":8561943,
-    "fips_id":"19049",
+    "geoid":"19049",
     "name":"Dallas",
     "state":"ia"
 },

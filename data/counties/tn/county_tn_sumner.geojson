@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1371067660,
     "area_water":35857190,
-    "fips_id":"47165",
+    "geoid":"47165",
     "name":"Sumner",
     "state":"tn"
 },

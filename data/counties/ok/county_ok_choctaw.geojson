@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1995215215,
     "area_water":75666999,
-    "fips_id":"40023",
+    "geoid":"40023",
     "name":"Choctaw",
     "state":"ok"
 },

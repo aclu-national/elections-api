@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1781724973,
     "area_water":301808,
-    "fips_id":"08095",
+    "geoid":"08095",
     "name":"Phillips",
     "state":"co"
 },

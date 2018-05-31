@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1396619099,
     "area_water":62745252,
-    "fips_id":"17125",
+    "geoid":"17125",
     "name":"Mason",
     "state":"il"
 },

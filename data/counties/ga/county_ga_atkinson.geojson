@@ -4,7 +4,7 @@
   "properties": {
     "area_land":878787518,
     "area_water":13550957,
-    "fips_id":"13003",
+    "geoid":"13003",
     "name":"Atkinson",
     "state":"ga"
 },

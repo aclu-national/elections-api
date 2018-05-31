@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1594366100,
     "area_water":14991073,
-    "fips_id":"29115",
+    "geoid":"29115",
     "name":"Linn",
     "state":"mo"
 },

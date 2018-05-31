@@ -4,7 +4,7 @@
   "properties": {
     "area_land":427554638,
     "area_water":1303566,
-    "fips_id":"18009",
+    "geoid":"18009",
     "name":"Blackford",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1273046508,
     "area_water":25919921,
-    "fips_id":"37123",
+    "geoid":"37123",
     "name":"Montgomery",
     "state":"nc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2447822304,
     "area_water":20797758,
-    "fips_id":"01053",
+    "geoid":"01053",
     "name":"Escambia",
     "state":"al"
 },

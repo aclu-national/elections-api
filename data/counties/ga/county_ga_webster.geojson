@@ -4,7 +4,7 @@
   "properties": {
     "area_land":541613279,
     "area_water":2965865,
-    "fips_id":"13307",
+    "geoid":"13307",
     "name":"Webster",
     "state":"ga"
 },

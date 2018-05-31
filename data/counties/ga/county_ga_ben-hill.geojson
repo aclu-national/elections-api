@@ -4,7 +4,7 @@
   "properties": {
     "area_land":647813382,
     "area_water":9803106,
-    "fips_id":"13017",
+    "geoid":"13017",
     "name":"Ben Hill",
     "state":"ga"
 },

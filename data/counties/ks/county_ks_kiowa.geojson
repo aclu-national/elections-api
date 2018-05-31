@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1871627778,
     "area_water":596764,
-    "fips_id":"20097",
+    "geoid":"20097",
     "name":"Kiowa",
     "state":"ks"
 },

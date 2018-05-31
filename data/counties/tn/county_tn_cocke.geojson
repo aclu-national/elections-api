@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1125399301,
     "area_water":22117950,
-    "fips_id":"47029",
+    "geoid":"47029",
     "name":"Cocke",
     "state":"tn"
 },

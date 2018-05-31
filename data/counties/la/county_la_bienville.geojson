@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2101207370,
     "area_water":27945994,
-    "fips_id":"22013",
+    "geoid":"22013",
     "name":"Bienville",
     "state":"la"
 },

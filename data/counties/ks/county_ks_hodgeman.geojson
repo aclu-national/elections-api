@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2227369151,
     "area_water":826344,
-    "fips_id":"20083",
+    "geoid":"20083",
     "name":"Hodgeman",
     "state":"ks"
 },

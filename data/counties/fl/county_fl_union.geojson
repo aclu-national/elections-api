@@ -4,7 +4,7 @@
   "properties": {
     "area_land":630806849,
     "area_water":16049467,
-    "fips_id":"12125",
+    "geoid":"12125",
     "name":"Union",
     "state":"fl"
 },

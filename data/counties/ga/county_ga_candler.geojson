@@ -4,7 +4,7 @@
   "properties": {
     "area_land":629508737,
     "area_water":15030369,
-    "fips_id":"13043",
+    "geoid":"13043",
     "name":"Candler",
     "state":"ga"
 },

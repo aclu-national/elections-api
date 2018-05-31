@@ -4,7 +4,7 @@
   "properties": {
     "area_land":119764738,
     "area_water":41834804,
-    "fips_id":"34017",
+    "geoid":"34017",
     "name":"Hudson",
     "state":"nj"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2874529780,
     "area_water":8187277,
-    "fips_id":"42027",
+    "geoid":"42027",
     "name":"Centre",
     "state":"pa"
 },

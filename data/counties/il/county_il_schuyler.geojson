@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1132531697,
     "area_water":10511619,
-    "fips_id":"17169",
+    "geoid":"17169",
     "name":"Schuyler",
     "state":"il"
 },

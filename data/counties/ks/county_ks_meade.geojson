@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2533222390,
     "area_water":3258258,
-    "fips_id":"20119",
+    "geoid":"20119",
     "name":"Meade",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2326763522,
     "area_water":7534491,
-    "fips_id":"17183",
+    "geoid":"17183",
     "name":"Vermilion",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1605492340,
     "area_water":1674244223,
-    "fips_id":"15007",
+    "geoid":"15007",
     "name":"Kauai",
     "state":"hi"
 },

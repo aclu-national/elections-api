@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12437264300,
     "area_water":11038017,
-    "fips_id":"56005",
+    "geoid":"56005",
     "name":"Campbell",
     "state":"wy"
 },

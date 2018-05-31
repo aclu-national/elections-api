@@ -4,7 +4,7 @@
   "properties": {
     "area_land":765682137,
     "area_water":897184724,
-    "fips_id":"22051",
+    "geoid":"22051",
     "name":"Jefferson",
     "state":"la"
 },

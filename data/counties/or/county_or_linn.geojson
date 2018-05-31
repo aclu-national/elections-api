@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5923493230,
     "area_water":50497756,
-    "fips_id":"41043",
+    "geoid":"41043",
     "name":"Linn",
     "state":"or"
 },

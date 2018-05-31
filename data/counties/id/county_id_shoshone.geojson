@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6830709342,
     "area_water":14151673,
-    "fips_id":"16079",
+    "geoid":"16079",
     "name":"Shoshone",
     "state":"id"
 },

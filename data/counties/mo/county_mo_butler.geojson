@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1799185018,
     "area_water":11195137,
-    "fips_id":"29023",
+    "geoid":"29023",
     "name":"Butler",
     "state":"mo"
 },

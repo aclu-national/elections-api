@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1079156592,
     "area_water":1448702,
-    "fips_id":"17041",
+    "geoid":"17041",
     "name":"Douglas",
     "state":"il"
 },

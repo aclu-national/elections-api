@@ -4,7 +4,7 @@
   "properties": {
     "area_land":94050249,
     "area_water":25323,
-    "fips_id":"72121",
+    "geoid":"72121",
     "name":"Sabana Grande",
     "state":"pr"
 },

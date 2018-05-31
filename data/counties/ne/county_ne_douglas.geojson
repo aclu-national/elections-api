@@ -4,7 +4,7 @@
   "properties": {
     "area_land":850764861,
     "area_water":28139501,
-    "fips_id":"31055",
+    "geoid":"31055",
     "name":"Douglas",
     "state":"ne"
 },

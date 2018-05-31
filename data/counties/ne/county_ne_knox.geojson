@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2870799577,
     "area_water":81066532,
-    "fips_id":"31107",
+    "geoid":"31107",
     "name":"Knox",
     "state":"ne"
 },

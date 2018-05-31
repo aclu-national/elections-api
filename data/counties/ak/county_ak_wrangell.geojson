@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6619614514,
     "area_water":2384746838,
-    "fips_id":"02275",
+    "geoid":"02275",
     "name":"Wrangell",
     "state":"ak"
 },

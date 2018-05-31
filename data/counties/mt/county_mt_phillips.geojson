@@ -4,7 +4,7 @@
   "properties": {
     "area_land":13313706952,
     "area_water":185563449,
-    "fips_id":"30071",
+    "geoid":"30071",
     "name":"Phillips",
     "state":"mt"
 },

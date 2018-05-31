@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1858997545,
     "area_water":544720,
-    "fips_id":"20165",
+    "geoid":"20165",
     "name":"Rush",
     "state":"ks"
 },

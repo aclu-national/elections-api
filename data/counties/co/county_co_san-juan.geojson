@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1003660601,
     "area_water":2035929,
-    "fips_id":"08111",
+    "geoid":"08111",
     "name":"San Juan",
     "state":"co"
 },

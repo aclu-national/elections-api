@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1187163564,
     "area_water":47158145,
-    "fips_id":"21059",
+    "geoid":"21059",
     "name":"Daviess",
     "state":"ky"
 },

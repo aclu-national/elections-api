@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1331696509,
     "area_water":4805060,
-    "fips_id":"45087",
+    "geoid":"45087",
     "name":"Union",
     "state":"sc"
 },

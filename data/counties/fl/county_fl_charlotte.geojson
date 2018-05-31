@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1764104254,
     "area_water":458735963,
-    "fips_id":"12015",
+    "geoid":"12015",
     "name":"Charlotte",
     "state":"fl"
 },

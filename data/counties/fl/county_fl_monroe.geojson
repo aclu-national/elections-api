@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2545998106,
     "area_water":7133386423,
-    "fips_id":"12087",
+    "geoid":"12087",
     "name":"Monroe",
     "state":"fl"
 },

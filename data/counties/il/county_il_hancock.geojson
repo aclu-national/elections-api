@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2055740566,
     "area_water":53535827,
-    "fips_id":"17067",
+    "geoid":"17067",
     "name":"Hancock",
     "state":"il"
 },

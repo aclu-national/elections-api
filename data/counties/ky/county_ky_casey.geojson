@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1150571810,
     "area_water":3892620,
-    "fips_id":"21045",
+    "geoid":"21045",
     "name":"Casey",
     "state":"ky"
 },

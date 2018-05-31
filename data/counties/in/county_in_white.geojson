@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1308269840,
     "area_water":9203227,
-    "fips_id":"18181",
+    "geoid":"18181",
     "name":"White",
     "state":"in"
 },

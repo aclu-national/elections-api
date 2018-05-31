@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17106839735,
     "area_water":600835682,
-    "fips_id":"49027",
+    "geoid":"49027",
     "name":"Millard",
     "state":"ut"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2228778417,
     "area_water":14541547,
-    "fips_id":"46069",
+    "geoid":"46069",
     "name":"Hyde",
     "state":"sd"
 },

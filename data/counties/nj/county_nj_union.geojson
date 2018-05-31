@@ -4,7 +4,7 @@
   "properties": {
     "area_land":266170662,
     "area_water":7046286,
-    "fips_id":"34039",
+    "geoid":"34039",
     "name":"Union",
     "state":"nj"
 },

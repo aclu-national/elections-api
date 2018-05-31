@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1398883253,
     "area_water":14053673397,
-    "fips_id":"26083",
+    "geoid":"26083",
     "name":"Keweenaw",
     "state":"mi"
 },

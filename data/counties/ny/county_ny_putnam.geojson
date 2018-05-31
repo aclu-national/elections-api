@@ -4,7 +4,7 @@
   "properties": {
     "area_land":596504204,
     "area_water":41282800,
-    "fips_id":"36079",
+    "geoid":"36079",
     "name":"Putnam",
     "state":"ny"
 },

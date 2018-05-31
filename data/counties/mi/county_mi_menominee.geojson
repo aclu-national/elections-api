@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2704072756,
     "area_water":761779246,
-    "fips_id":"26109",
+    "geoid":"26109",
     "name":"Menominee",
     "state":"mi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1635216352,
     "area_water":8545243,
-    "fips_id":"17037",
+    "geoid":"17037",
     "name":"DeKalb",
     "state":"il"
 },

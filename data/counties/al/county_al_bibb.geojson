@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1612165763,
     "area_water":9603798,
-    "fips_id":"01007",
+    "geoid":"01007",
     "name":"Bibb",
     "state":"al"
 },

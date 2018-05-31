@@ -1,10 +1,10 @@
 {
-  "id": "state_state_vt.geojson",
+  "id": "state_vt.geojson",
   "type": "Feature",
   "properties": {
     "area_land":23873457570,
     "area_water":1031134839,
-    "fips_id":"50",
+    "geoid":"50",
     "name":"Vermont",
     "state":"vt"
 },

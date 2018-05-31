@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2646602337,
     "area_water":2793796394,
-    "fips_id":"26097",
+    "geoid":"26097",
     "name":"Mackinac",
     "state":"mi"
 },

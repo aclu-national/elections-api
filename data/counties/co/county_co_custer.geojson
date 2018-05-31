@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1913031958,
     "area_water":3364151,
-    "fips_id":"08027",
+    "geoid":"08027",
     "name":"Custer",
     "state":"co"
 },

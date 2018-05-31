@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2275369596,
     "area_water":150398853,
-    "fips_id":"22017",
+    "geoid":"22017",
     "name":"Caddo",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1655865965,
     "area_water":2777350,
-    "fips_id":"20175",
+    "geoid":"20175",
     "name":"Seward",
     "state":"ks"
 },

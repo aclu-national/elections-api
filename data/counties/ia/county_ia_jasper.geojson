@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1891773617,
     "area_water":6565650,
-    "fips_id":"19099",
+    "geoid":"19099",
     "name":"Jasper",
     "state":"ia"
 },

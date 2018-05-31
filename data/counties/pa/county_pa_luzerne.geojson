@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2305976986,
     "area_water":41237262,
-    "fips_id":"42079",
+    "geoid":"42079",
     "name":"Luzerne",
     "state":"pa"
 },

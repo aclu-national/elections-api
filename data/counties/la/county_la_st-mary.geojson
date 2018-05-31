@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1438845622,
     "area_water":1460445312,
-    "fips_id":"22101",
+    "geoid":"22101",
     "name":"St. Mary",
     "state":"la"
 },

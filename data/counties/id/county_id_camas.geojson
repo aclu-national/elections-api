@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2782253889,
     "area_water":11548052,
-    "fips_id":"16025",
+    "geoid":"16025",
     "name":"Camas",
     "state":"id"
 },

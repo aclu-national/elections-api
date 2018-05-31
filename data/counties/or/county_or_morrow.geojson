@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5259049905,
     "area_water":44372295,
-    "fips_id":"41049",
+    "geoid":"41049",
     "name":"Morrow",
     "state":"or"
 },

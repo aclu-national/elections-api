@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1388921383,
     "area_water":18038938,
-    "fips_id":"27159",
+    "geoid":"27159",
     "name":"Wadena",
     "state":"mn"
 },

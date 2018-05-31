@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2306483733,
     "area_water":11962259,
-    "fips_id":"20163",
+    "geoid":"20163",
     "name":"Rooks",
     "state":"ks"
 },

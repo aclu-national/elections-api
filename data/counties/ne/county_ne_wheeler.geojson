@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1489717867,
     "area_water":1059454,
-    "fips_id":"31183",
+    "geoid":"31183",
     "name":"Wheeler",
     "state":"ne"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":18091325125,
     "area_water":20800198540,
-    "fips_id":"02013",
+    "geoid":"02013",
     "name":"Aleutians East",
     "state":"ak"
 },

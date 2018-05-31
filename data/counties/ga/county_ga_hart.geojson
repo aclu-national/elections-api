@@ -4,7 +4,7 @@
   "properties": {
     "area_land":601908709,
     "area_water":63583341,
-    "fips_id":"13147",
+    "geoid":"13147",
     "name":"Hart",
     "state":"ga"
 },

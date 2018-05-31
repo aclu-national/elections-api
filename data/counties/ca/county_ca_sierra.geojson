@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2468694586,
     "area_water":23299110,
-    "fips_id":"06091",
+    "geoid":"06091",
     "name":"Sierra",
     "state":"ca"
 },

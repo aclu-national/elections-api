@@ -4,7 +4,7 @@
   "properties": {
     "area_land":368881354,
     "area_water":95089229,
-    "fips_id":"51095",
+    "geoid":"51095",
     "name":"James City",
     "state":"va"
 },

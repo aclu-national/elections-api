@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1614331601,
     "area_water":17701432,
-    "fips_id":"21093",
+    "geoid":"21093",
     "name":"Hardin",
     "state":"ky"
 },

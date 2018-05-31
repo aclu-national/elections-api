@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1658614732,
     "area_water":10922070,
-    "fips_id":"54027",
+    "geoid":"54027",
     "name":"Hampshire",
     "state":"wv"
 },

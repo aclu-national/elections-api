@@ -4,7 +4,7 @@
   "properties": {
     "area_land":108237606,
     "area_water":632893009,
-    "fips_id":"69120",
+    "geoid":"69120",
     "name":"Tinian",
     "state":"mp"
 },

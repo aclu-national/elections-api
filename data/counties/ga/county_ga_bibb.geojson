@@ -4,7 +4,7 @@
   "properties": {
     "area_land":645699773,
     "area_water":14503560,
-    "fips_id":"13021",
+    "geoid":"13021",
     "name":"Bibb",
     "state":"ga"
 },

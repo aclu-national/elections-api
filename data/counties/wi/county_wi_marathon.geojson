@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4001465174,
     "area_water":81219897,
-    "fips_id":"55073",
+    "geoid":"55073",
     "name":"Marathon",
     "state":"wi"
 },

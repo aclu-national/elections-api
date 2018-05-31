@@ -4,7 +4,7 @@
   "properties": {
     "area_land":896857451,
     "area_water":185336236,
-    "fips_id":"24015",
+    "geoid":"24015",
     "name":"Cecil",
     "state":"md"
 },

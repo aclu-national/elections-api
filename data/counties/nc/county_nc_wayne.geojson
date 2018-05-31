@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1434638257,
     "area_water":9855192,
-    "fips_id":"37191",
+    "geoid":"37191",
     "name":"Wayne",
     "state":"nc"
 },

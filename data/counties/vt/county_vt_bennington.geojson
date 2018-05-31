@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1748244447,
     "area_water":6928011,
-    "fips_id":"50003",
+    "geoid":"50003",
     "name":"Bennington",
     "state":"vt"
 },

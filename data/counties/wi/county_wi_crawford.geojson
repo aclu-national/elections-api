@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478001876,
     "area_water":73945449,
-    "fips_id":"55023",
+    "geoid":"55023",
     "name":"Crawford",
     "state":"wi"
 },

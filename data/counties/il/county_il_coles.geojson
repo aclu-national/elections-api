@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1316459192,
     "area_water":4631825,
-    "fips_id":"17029",
+    "geoid":"17029",
     "name":"Coles",
     "state":"il"
 },

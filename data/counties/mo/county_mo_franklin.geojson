@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2389734942,
     "area_water":20729139,
-    "fips_id":"29071",
+    "geoid":"29071",
     "name":"Franklin",
     "state":"mo"
 },

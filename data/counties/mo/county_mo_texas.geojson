@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3049104547,
     "area_water":5071080,
-    "fips_id":"29215",
+    "geoid":"29215",
     "name":"Texas",
     "state":"mo"
 },

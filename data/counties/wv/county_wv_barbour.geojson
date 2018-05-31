@@ -4,7 +4,7 @@
   "properties": {
     "area_land":883338745,
     "area_water":4639232,
-    "fips_id":"54001",
+    "geoid":"54001",
     "name":"Barbour",
     "state":"wv"
 },

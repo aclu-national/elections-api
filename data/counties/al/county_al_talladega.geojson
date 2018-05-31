@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1908251622,
     "area_water":60931665,
-    "fips_id":"01121",
+    "geoid":"01121",
     "name":"Talladega",
     "state":"al"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2587409023,
     "area_water":79744538,
-    "fips_id":"27029",
+    "geoid":"27029",
     "name":"Clearwater",
     "state":"mn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1076019752,
     "area_water":22829398,
-    "fips_id":"40147",
+    "geoid":"40147",
     "name":"Washington",
     "state":"ok"
 },

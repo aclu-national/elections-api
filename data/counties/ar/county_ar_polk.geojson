@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2221382755,
     "area_water":12372286,
-    "fips_id":"05113",
+    "geoid":"05113",
     "name":"Polk",
     "state":"ar"
 },

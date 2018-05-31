@@ -4,7 +4,7 @@
   "properties": {
     "area_land":20252985182,
     "area_water":293755887,
-    "fips_id":"49037",
+    "geoid":"49037",
     "name":"San Juan",
     "state":"ut"
 },

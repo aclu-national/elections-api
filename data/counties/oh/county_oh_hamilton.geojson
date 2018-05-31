@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1051353810,
     "area_water":17350705,
-    "fips_id":"39061",
+    "geoid":"39061",
     "name":"Hamilton",
     "state":"oh"
 },

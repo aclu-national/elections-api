@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2161546696,
     "area_water":33099111,
-    "fips_id":"29027",
+    "geoid":"29027",
     "name":"Callaway",
     "state":"mo"
 },

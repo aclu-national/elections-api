@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7508815856,
     "area_water":44701996,
-    "fips_id":"30041",
+    "geoid":"30041",
     "name":"Hill",
     "state":"mt"
 },

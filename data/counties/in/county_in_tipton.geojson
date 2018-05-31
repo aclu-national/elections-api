@@ -4,7 +4,7 @@
   "properties": {
     "area_land":674797600,
     "area_water":68028,
-    "fips_id":"18159",
+    "geoid":"18159",
     "name":"Tipton",
     "state":"in"
 },

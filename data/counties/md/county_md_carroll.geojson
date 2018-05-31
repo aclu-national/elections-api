@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1159279222,
     "area_water":13186154,
-    "fips_id":"24013",
+    "geoid":"24013",
     "name":"Carroll",
     "state":"md"
 },

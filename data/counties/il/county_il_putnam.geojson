@@ -4,7 +4,7 @@
   "properties": {
     "area_land":414813860,
     "area_water":31243032,
-    "fips_id":"17155",
+    "geoid":"17155",
     "name":"Putnam",
     "state":"il"
 },

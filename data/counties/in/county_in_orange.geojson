@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1031786463,
     "area_water":25425748,
-    "fips_id":"18117",
+    "geoid":"18117",
     "name":"Orange",
     "state":"in"
 },

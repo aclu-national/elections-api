@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1863885725,
     "area_water":10952676,
-    "fips_id":"01105",
+    "geoid":"01105",
     "name":"Perry",
     "state":"al"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1479659350,
     "area_water":22641874,
-    "fips_id":"26067",
+    "geoid":"26067",
     "name":"Ionia",
     "state":"mi"
 },

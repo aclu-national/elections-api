@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1226262480,
     "area_water":16736159,
-    "fips_id":"20091",
+    "geoid":"20091",
     "name":"Johnson",
     "state":"ks"
 },

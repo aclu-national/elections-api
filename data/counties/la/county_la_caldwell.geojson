@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1371203831,
     "area_water":29277303,
-    "fips_id":"22021",
+    "geoid":"22021",
     "name":"Caldwell",
     "state":"la"
 },

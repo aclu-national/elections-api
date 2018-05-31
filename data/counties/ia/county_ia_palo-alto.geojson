@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1460391661,
     "area_water":14437623,
-    "fips_id":"19147",
+    "geoid":"19147",
     "name":"Palo Alto",
     "state":"ia"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1216727530,
     "area_water":36396585,
-    "fips_id":"29173",
+    "geoid":"29173",
     "name":"Ralls",
     "state":"mo"
 },

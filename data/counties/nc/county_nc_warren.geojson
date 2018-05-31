@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1111325893,
     "area_water":39407120,
-    "fips_id":"37185",
+    "geoid":"37185",
     "name":"Warren",
     "state":"nc"
 },

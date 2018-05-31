@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5300264,
     "area_water":32,
-    "fips_id":"51610",
+    "geoid":"51610",
     "name":"Falls Church",
     "state":"va"
 },

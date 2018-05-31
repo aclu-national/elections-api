@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1807187009,
     "area_water":23747315,
-    "fips_id":"28133",
+    "geoid":"28133",
     "name":"Sunflower",
     "state":"ms"
 },

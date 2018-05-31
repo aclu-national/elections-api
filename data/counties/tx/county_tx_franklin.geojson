@@ -4,7 +4,7 @@
   "properties": {
     "area_land":736570306,
     "area_water":26874743,
-    "fips_id":"48159",
+    "geoid":"48159",
     "name":"Franklin",
     "state":"tx"
 },

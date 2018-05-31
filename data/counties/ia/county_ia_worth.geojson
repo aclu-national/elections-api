@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1036314926,
     "area_water":4709127,
-    "fips_id":"19195",
+    "geoid":"19195",
     "name":"Worth",
     "state":"ia"
 },

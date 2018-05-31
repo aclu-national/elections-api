@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2243130473,
     "area_water":43387485,
-    "fips_id":"05019",
+    "geoid":"05019",
     "name":"Clark",
     "state":"ar"
 },

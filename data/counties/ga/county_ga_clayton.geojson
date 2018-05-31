@@ -4,7 +4,7 @@
   "properties": {
     "area_land":366881210,
     "area_water":7038080,
-    "fips_id":"13063",
+    "geoid":"13063",
     "name":"Clayton",
     "state":"ga"
 },

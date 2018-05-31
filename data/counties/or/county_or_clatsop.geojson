@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2145196270,
     "area_water":661305228,
-    "fips_id":"41007",
+    "geoid":"41007",
     "name":"Clatsop",
     "state":"or"
 },

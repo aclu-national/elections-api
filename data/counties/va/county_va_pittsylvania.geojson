@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2509683753,
     "area_water":23925747,
-    "fips_id":"51143",
+    "geoid":"51143",
     "name":"Pittsylvania",
     "state":"va"
 },

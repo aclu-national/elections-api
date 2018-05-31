@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1492881338,
     "area_water":899019054,
-    "fips_id":"45013",
+    "geoid":"45013",
     "name":"Beaufort",
     "state":"sc"
 },

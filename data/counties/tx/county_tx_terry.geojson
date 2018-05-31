@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2302083289,
     "area_water":5443861,
-    "fips_id":"48445",
+    "geoid":"48445",
     "name":"Terry",
     "state":"tx"
 },

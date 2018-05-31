@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1331240598,
     "area_water":47493019,
-    "fips_id":"40085",
+    "geoid":"40085",
     "name":"Love",
     "state":"ok"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2137372873,
     "area_water":2610825889,
-    "fips_id":"26005",
+    "geoid":"26005",
     "name":"Allegan",
     "state":"mi"
 },

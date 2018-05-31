@@ -4,7 +4,7 @@
   "properties": {
     "area_land":845768028,
     "area_water":8927725,
-    "fips_id":"13297",
+    "geoid":"13297",
     "name":"Walton",
     "state":"ga"
 },

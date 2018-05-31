@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4217568363,
     "area_water":934534728,
-    "fips_id":"41015",
+    "geoid":"41015",
     "name":"Curry",
     "state":"or"
 },

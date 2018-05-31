@@ -4,7 +4,7 @@
   "properties": {
     "area_land":529856261,
     "area_water":12600384,
-    "fips_id":"36093",
+    "geoid":"36093",
     "name":"Schenectady",
     "state":"ny"
 },

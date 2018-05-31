@@ -4,7 +4,7 @@
   "properties": {
     "area_land":605228197,
     "area_water":7654554,
-    "fips_id":"18163",
+    "geoid":"18163",
     "name":"Vanderburgh",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2850272919,
     "area_water":11403868,
-    "fips_id":"40051",
+    "geoid":"40051",
     "name":"Grady",
     "state":"ok"
 },

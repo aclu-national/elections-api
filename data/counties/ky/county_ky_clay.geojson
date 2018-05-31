@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1215461477,
     "area_water":4763611,
-    "fips_id":"21051",
+    "geoid":"21051",
     "name":"Clay",
     "state":"ky"
 },

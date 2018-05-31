@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7513010884,
     "area_water":2385501229,
-    "fips_id":"02195",
+    "geoid":"02195",
     "name":"Petersburg",
     "state":"ak"
 },

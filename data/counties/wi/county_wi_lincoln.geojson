@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2276114436,
     "area_water":72463206,
-    "fips_id":"55069",
+    "geoid":"55069",
     "name":"Lincoln",
     "state":"wi"
 },

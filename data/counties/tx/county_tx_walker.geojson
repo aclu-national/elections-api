@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2031033548,
     "area_water":44838548,
-    "fips_id":"48471",
+    "geoid":"48471",
     "name":"Walker",
     "state":"tx"
 },

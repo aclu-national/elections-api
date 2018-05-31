@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1115424613,
     "area_water":13213419,
-    "fips_id":"28077",
+    "geoid":"28077",
     "name":"Lawrence",
     "state":"ms"
 },

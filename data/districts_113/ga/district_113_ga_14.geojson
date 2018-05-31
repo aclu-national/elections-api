@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":9458840804.596319,
-    "district_num":14,
+    "district_num":"14",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"1314",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"ga"

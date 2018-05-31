@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1853025715,
     "area_water":108725240,
-    "fips_id":"45007",
+    "geoid":"45007",
     "name":"Anderson",
     "state":"sc"
 },

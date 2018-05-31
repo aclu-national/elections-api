@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1345200317,
     "area_water":3679400,
-    "fips_id":"46101",
+    "geoid":"46101",
     "name":"Moody",
     "state":"sd"
 },

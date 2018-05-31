@@ -4,7 +4,7 @@
   "properties": {
     "area_land":18664542308,
     "area_water":250588224,
-    "fips_id":"06065",
+    "geoid":"06065",
     "name":"Riverside",
     "state":"ca"
 },

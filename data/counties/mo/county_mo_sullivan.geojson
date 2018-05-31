@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1678264466,
     "area_water":9123184,
-    "fips_id":"29211",
+    "geoid":"29211",
     "name":"Sullivan",
     "state":"mo"
 },

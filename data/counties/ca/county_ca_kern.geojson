@@ -4,7 +4,7 @@
   "properties": {
     "area_land":21062393794,
     "area_water":78770534,
-    "fips_id":"06029",
+    "geoid":"06029",
     "name":"Kern",
     "state":"ca"
 },

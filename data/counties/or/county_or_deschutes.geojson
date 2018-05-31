@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7815563218,
     "area_water":94755758,
-    "fips_id":"41017",
+    "geoid":"41017",
     "name":"Deschutes",
     "state":"or"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":751323672,
     "area_water":45373097,
-    "fips_id":"13073",
+    "geoid":"13073",
     "name":"Columbia",
     "state":"ga"
 },

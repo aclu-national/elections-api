@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1874459064,
     "area_water":16933522,
-    "fips_id":"37083",
+    "geoid":"37083",
     "name":"Halifax",
     "state":"nc"
 },

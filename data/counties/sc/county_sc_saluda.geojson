@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1172692435,
     "area_water":23417452,
-    "fips_id":"45081",
+    "geoid":"45081",
     "name":"Saluda",
     "state":"sc"
 },

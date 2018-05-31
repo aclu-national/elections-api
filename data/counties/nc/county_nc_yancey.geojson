@@ -4,7 +4,7 @@
   "properties": {
     "area_land":809602887,
     "area_water":1531168,
-    "fips_id":"37199",
+    "geoid":"37199",
     "name":"Yancey",
     "state":"nc"
 },

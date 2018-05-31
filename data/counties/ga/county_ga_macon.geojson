@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1037653519,
     "area_water":13860062,
-    "fips_id":"13193",
+    "geoid":"13193",
     "name":"Macon",
     "state":"ga"
 },

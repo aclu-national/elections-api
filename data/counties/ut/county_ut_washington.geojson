@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6285757433,
     "area_water":9061293,
-    "fips_id":"49053",
+    "geoid":"49053",
     "name":"Washington",
     "state":"ut"
 },

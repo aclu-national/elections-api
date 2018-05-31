@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1273631713,
     "area_water":7304032,
-    "fips_id":"37069",
+    "geoid":"37069",
     "name":"Franklin",
     "state":"nc"
 },

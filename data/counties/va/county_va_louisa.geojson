@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1284973900,
     "area_water":37790617,
-    "fips_id":"51109",
+    "geoid":"51109",
     "name":"Louisa",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":951728786,
     "area_water":39171752,
-    "fips_id":"33017",
+    "geoid":"33017",
     "name":"Strafford",
     "state":"nh"
 },

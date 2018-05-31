@@ -4,7 +4,7 @@
   "properties": {
     "area_land":726715762,
     "area_water":56600343,
-    "fips_id":"47057",
+    "geoid":"47057",
     "name":"Grainger",
     "state":"tn"
 },

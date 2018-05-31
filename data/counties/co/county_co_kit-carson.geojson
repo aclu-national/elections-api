@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5596501950,
     "area_water":2251930,
-    "fips_id":"08063",
+    "geoid":"08063",
     "name":"Kit Carson",
     "state":"co"
 },

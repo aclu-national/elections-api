@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1800737060,
     "area_water":19736109,
-    "fips_id":"20127",
+    "geoid":"20127",
     "name":"Morris",
     "state":"ks"
 },

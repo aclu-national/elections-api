@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9903868964,
     "area_water":18464199,
-    "fips_id":"35059",
+    "geoid":"35059",
     "name":"Union",
     "state":"nm"
 },

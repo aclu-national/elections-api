@@ -1,10 +1,10 @@
 {
-  "id": "state_state_ut.geojson",
+  "id": "state_ut.geojson",
   "type": "Feature",
   "properties": {
     "area_land":212884846341,
     "area_water":7000199770,
-    "fips_id":"49",
+    "geoid":"49",
     "name":"Utah",
     "state":"ut"
 },

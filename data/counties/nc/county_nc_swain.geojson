@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1366812262,
     "area_water":32414382,
-    "fips_id":"37173",
+    "geoid":"37173",
     "name":"Swain",
     "state":"nc"
 },

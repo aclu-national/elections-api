@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1000508765,
     "area_water":3753811,
-    "fips_id":"21121",
+    "geoid":"21121",
     "name":"Knox",
     "state":"ky"
 },

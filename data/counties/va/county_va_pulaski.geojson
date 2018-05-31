@@ -4,7 +4,7 @@
   "properties": {
     "area_land":828377752,
     "area_water":24877168,
-    "fips_id":"51155",
+    "geoid":"51155",
     "name":"Pulaski",
     "state":"va"
 },

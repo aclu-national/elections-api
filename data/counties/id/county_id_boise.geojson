@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4919826480,
     "area_water":19104287,
-    "fips_id":"16015",
+    "geoid":"16015",
     "name":"Boise",
     "state":"id"
 },

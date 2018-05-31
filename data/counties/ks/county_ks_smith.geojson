@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2319241783,
     "area_water":3884267,
-    "fips_id":"20183",
+    "geoid":"20183",
     "name":"Smith",
     "state":"ks"
 },

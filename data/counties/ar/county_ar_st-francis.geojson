@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1644132565,
     "area_water":20028723,
-    "fips_id":"05123",
+    "geoid":"05123",
     "name":"St. Francis",
     "state":"ar"
 },

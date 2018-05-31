@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2432605,
     "area_water":149170814,
-    "fips_id":"60040",
+    "geoid":"60040",
     "name":"Swains Island",
     "state":"as"
 },

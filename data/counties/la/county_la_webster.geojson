@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1536282650,
     "area_water":56145063,
-    "fips_id":"22119",
+    "geoid":"22119",
     "name":"Webster",
     "state":"la"
 },

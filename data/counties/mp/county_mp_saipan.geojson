@@ -4,7 +4,7 @@
   "properties": {
     "area_land":118890998,
     "area_water":532767365,
-    "fips_id":"69110",
+    "geoid":"69110",
     "name":"Saipan",
     "state":"mp"
 },

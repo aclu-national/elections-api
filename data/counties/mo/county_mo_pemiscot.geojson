@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1275622233,
     "area_water":54164612,
-    "fips_id":"29155",
+    "geoid":"29155",
     "name":"Pemiscot",
     "state":"mo"
 },

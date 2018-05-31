@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2155855604,
     "area_water":86365500,
-    "fips_id":"22009",
+    "geoid":"22009",
     "name":"Avoyelles",
     "state":"la"
 },

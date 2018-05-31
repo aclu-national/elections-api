@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2779039722,
     "area_water":274632,
-    "fips_id":"20109",
+    "geoid":"20109",
     "name":"Logan",
     "state":"ks"
 },

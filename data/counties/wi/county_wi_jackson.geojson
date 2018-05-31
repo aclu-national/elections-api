@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2558240018,
     "area_water":32985363,
-    "fips_id":"55053",
+    "geoid":"55053",
     "name":"Jackson",
     "state":"wi"
 },

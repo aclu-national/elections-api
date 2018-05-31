@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4782260517,
     "area_water":59902382,
-    "fips_id":"08049",
+    "geoid":"08049",
     "name":"Grand",
     "state":"co"
 },

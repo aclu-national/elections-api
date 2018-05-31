@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474578440,
     "area_water":16199404,
-    "fips_id":"31093",
+    "geoid":"31093",
     "name":"Howard",
     "state":"ne"
 },

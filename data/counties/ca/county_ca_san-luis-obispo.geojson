@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8548552397,
     "area_water":815578711,
-    "fips_id":"06079",
+    "geoid":"06079",
     "name":"San Luis Obispo",
     "state":"ca"
 },

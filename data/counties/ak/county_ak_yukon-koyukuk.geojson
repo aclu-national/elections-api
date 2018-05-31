@@ -4,7 +4,7 @@
   "properties": {
     "area_land":377030936019,
     "area_water":5953180597,
-    "fips_id":"02290",
+    "geoid":"02290",
     "name":"Yukon-Koyukuk",
     "state":"ak"
 },

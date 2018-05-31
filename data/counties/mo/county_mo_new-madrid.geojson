@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1747828876,
     "area_water":56291575,
-    "fips_id":"29143",
+    "geoid":"29143",
     "name":"New Madrid",
     "state":"mo"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":853073337,
     "area_water":6949352,
-    "fips_id":"21171",
+    "geoid":"21171",
     "name":"Monroe",
     "state":"ky"
 },

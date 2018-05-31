@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6194911314,
     "area_water":7474581,
-    "fips_id":"30059",
+    "geoid":"30059",
     "name":"Meagher",
     "state":"mt"
 },

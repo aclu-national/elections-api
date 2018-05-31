@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3827691502,
     "area_water":1460289843,
-    "fips_id":"55007",
+    "geoid":"55007",
     "name":"Bayfield",
     "state":"wi"
 },

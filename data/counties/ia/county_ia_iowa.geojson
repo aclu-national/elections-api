@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1518916008,
     "area_water":2686847,
-    "fips_id":"19095",
+    "geoid":"19095",
     "name":"Iowa",
     "state":"ia"
 },

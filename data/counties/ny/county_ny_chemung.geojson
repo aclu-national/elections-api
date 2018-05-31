@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1055038643,
     "area_water":8874334,
-    "fips_id":"36015",
+    "geoid":"36015",
     "name":"Chemung",
     "state":"ny"
 },

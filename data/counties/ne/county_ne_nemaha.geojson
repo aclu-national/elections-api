@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1055100608,
     "area_water":5769943,
-    "fips_id":"31127",
+    "geoid":"31127",
     "name":"Nemaha",
     "state":"ne"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":61894488750,
     "area_water":25991759519,
-    "fips_id":"02164",
+    "geoid":"02164",
     "name":"Lake and Peninsula",
     "state":"ak"
 },

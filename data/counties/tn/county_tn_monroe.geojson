@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1646364006,
     "area_water":43812886,
-    "fips_id":"47123",
+    "geoid":"47123",
     "name":"Monroe",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1472084943,
     "area_water":8383160,
-    "fips_id":"26057",
+    "geoid":"26057",
     "name":"Gratiot",
     "state":"mi"
 },

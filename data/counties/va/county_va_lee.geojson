@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1127622408,
     "area_water":4896872,
-    "fips_id":"51105",
+    "geoid":"51105",
     "name":"Lee",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1053131400,
     "area_water":5279183,
-    "fips_id":"28009",
+    "geoid":"28009",
     "name":"Benton",
     "state":"ms"
 },

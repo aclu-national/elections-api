@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2842481188,
     "area_water":136616766,
-    "fips_id":"46023",
+    "geoid":"46023",
     "name":"Charles Mix",
     "state":"sd"
 },

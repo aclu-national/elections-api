@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1339843851,
     "area_water":5943334,
-    "fips_id":"29171",
+    "geoid":"29171",
     "name":"Putnam",
     "state":"mo"
 },

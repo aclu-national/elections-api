@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1710553993,
     "area_water":18042333,
-    "fips_id":"24021",
+    "geoid":"24021",
     "name":"Frederick",
     "state":"md"
 },

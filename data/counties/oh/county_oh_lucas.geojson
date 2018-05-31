@@ -4,7 +4,7 @@
   "properties": {
     "area_land":883129493,
     "area_water":660199684,
-    "fips_id":"39095",
+    "geoid":"39095",
     "name":"Lucas",
     "state":"oh"
 },

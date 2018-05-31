@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1060602204,
     "area_water":6788531,
-    "fips_id":"21043",
+    "geoid":"21043",
     "name":"Carter",
     "state":"ky"
 },

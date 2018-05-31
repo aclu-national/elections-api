@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2147833558,
     "area_water":10122996,
-    "fips_id":"29101",
+    "geoid":"29101",
     "name":"Johnson",
     "state":"mo"
 },

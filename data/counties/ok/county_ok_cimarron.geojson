@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4752113920,
     "area_water":15923999,
-    "fips_id":"40025",
+    "geoid":"40025",
     "name":"Cimarron",
     "state":"ok"
 },

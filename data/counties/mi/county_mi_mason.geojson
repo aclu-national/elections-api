@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1281901694,
     "area_water":1935678152,
-    "fips_id":"26105",
+    "geoid":"26105",
     "name":"Mason",
     "state":"mi"
 },

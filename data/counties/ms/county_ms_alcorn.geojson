@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1036100568,
     "area_water":3417891,
-    "fips_id":"28003",
+    "geoid":"28003",
     "name":"Alcorn",
     "state":"ms"
 },

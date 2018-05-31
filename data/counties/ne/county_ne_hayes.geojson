@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1846821514,
     "area_water":570786,
-    "fips_id":"31085",
+    "geoid":"31085",
     "name":"Hayes",
     "state":"ne"
 },

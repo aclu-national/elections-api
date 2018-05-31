@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2832617277,
     "area_water":31168379,
-    "fips_id":"16051",
+    "geoid":"16051",
     "name":"Jefferson",
     "state":"id"
 },

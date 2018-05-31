@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1501214582,
     "area_water":9895206,
-    "fips_id":"51029",
+    "geoid":"51029",
     "name":"Buckingham",
     "state":"va"
 },

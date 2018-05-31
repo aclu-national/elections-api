@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3041740596,
     "area_water":2621792,
-    "fips_id":"30037",
+    "geoid":"30037",
     "name":"Golden Valley",
     "state":"mt"
 },

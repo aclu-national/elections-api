@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1168992134,
     "area_water":3519017,
-    "fips_id":"51173",
+    "geoid":"51173",
     "name":"Smyth",
     "state":"va"
 },

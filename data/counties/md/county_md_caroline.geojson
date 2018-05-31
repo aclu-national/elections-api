@@ -4,7 +4,7 @@
   "properties": {
     "area_land":827350251,
     "area_water":16777064,
-    "fips_id":"24011",
+    "geoid":"24011",
     "name":"Caroline",
     "state":"md"
 },

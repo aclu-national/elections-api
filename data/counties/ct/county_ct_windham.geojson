@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1328250338,
     "area_water":21706060,
-    "fips_id":"09015",
+    "geoid":"09015",
     "name":"Windham",
     "state":"ct"
 },

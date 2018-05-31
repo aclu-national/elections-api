@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2349588917,
     "area_water":67136455,
-    "fips_id":"48277",
+    "geoid":"48277",
     "name":"Lamar",
     "state":"tx"
 },

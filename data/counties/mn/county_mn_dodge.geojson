@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1137724830,
     "area_water":800245,
-    "fips_id":"27039",
+    "geoid":"27039",
     "name":"Dodge",
     "state":"mn"
 },

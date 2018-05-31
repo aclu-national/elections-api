@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1573550101,
     "area_water":21491164,
-    "fips_id":"01081",
+    "geoid":"01081",
     "name":"Lee",
     "state":"al"
 },

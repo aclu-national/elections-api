@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1966257800,
     "area_water":38558983,
-    "fips_id":"29223",
+    "geoid":"29223",
     "name":"Wayne",
     "state":"mo"
 },

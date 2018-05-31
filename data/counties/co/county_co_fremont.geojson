@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3970664546,
     "area_water":2235374,
-    "fips_id":"08043",
+    "geoid":"08043",
     "name":"Fremont",
     "state":"co"
 },

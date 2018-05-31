@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6988237777,
     "area_water":34396942,
-    "fips_id":"30013",
+    "geoid":"30013",
     "name":"Cascade",
     "state":"mt"
 },

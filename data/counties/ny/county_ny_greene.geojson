@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1676140490,
     "area_water":28201061,
-    "fips_id":"36039",
+    "geoid":"36039",
     "name":"Greene",
     "state":"ny"
 },

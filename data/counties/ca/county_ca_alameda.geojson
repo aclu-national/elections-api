@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1909616630,
     "area_water":216916717,
-    "fips_id":"06001",
+    "geoid":"06001",
     "name":"Alameda",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1202639650,
     "area_water":354756663,
-    "fips_id":"26055",
+    "geoid":"26055",
     "name":"Grand Traverse",
     "state":"mi"
 },

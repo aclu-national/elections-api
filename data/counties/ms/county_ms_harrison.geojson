@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1486713863,
     "area_water":1063618187,
-    "fips_id":"28047",
+    "geoid":"28047",
     "name":"Harrison",
     "state":"ms"
 },

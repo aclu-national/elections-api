@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2664700942,
     "area_water":149106532,
-    "fips_id":"49033",
+    "geoid":"49033",
     "name":"Rich",
     "state":"ut"
 },

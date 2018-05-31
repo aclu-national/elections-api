@@ -4,7 +4,7 @@
   "properties": {
     "area_land":904711548,
     "area_water":79805895,
-    "fips_id":"55047",
+    "geoid":"55047",
     "name":"Green Lake",
     "state":"wi"
 },

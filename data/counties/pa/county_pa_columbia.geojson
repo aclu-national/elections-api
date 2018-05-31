@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1251240776,
     "area_water":18266225,
-    "fips_id":"42037",
+    "geoid":"42037",
     "name":"Columbia",
     "state":"pa"
 },

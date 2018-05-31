@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1074911084,
     "area_water":9960533,
-    "fips_id":"29135",
+    "geoid":"29135",
     "name":"Moniteau",
     "state":"mo"
 },

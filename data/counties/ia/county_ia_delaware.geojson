@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1496278852,
     "area_water":3185282,
-    "fips_id":"19055",
+    "geoid":"19055",
     "name":"Delaware",
     "state":"ia"
 },

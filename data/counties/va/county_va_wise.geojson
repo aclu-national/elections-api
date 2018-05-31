@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1044884216,
     "area_water":5284456,
-    "fips_id":"51195",
+    "geoid":"51195",
     "name":"Wise",
     "state":"va"
 },

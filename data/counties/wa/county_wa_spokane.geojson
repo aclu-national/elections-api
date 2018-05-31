@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4568458718,
     "area_water":43434957,
-    "fips_id":"53063",
+    "geoid":"53063",
     "name":"Spokane",
     "state":"wa"
 },

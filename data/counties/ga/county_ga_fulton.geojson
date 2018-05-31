@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1364081871,
     "area_water":19876730,
-    "fips_id":"13121",
+    "geoid":"13121",
     "name":"Fulton",
     "state":"ga"
 },

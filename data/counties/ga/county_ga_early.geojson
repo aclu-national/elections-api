@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1327612139,
     "area_water":9717177,
-    "fips_id":"13099",
+    "geoid":"13099",
     "name":"Early",
     "state":"ga"
 },

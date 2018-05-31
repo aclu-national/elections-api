@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6676158689,
     "area_water":22780366,
-    "fips_id":"08073",
+    "geoid":"08073",
     "name":"Lincoln",
     "state":"co"
 },

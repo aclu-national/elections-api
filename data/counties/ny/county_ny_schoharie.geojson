@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1610503572,
     "area_water":11676949,
-    "fips_id":"36095",
+    "geoid":"36095",
     "name":"Schoharie",
     "state":"ny"
 },

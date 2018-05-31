@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2034107820,
     "area_water":62542790,
-    "fips_id":"01117",
+    "geoid":"01117",
     "name":"Shelby",
     "state":"al"
 },

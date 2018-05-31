@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1027620480,
     "area_water":12069099,
-    "fips_id":"18147",
+    "geoid":"18147",
     "name":"Spencer",
     "state":"in"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":505465376,
     "area_water":4302413,
-    "fips_id":"21181",
+    "geoid":"21181",
     "name":"Nicholas",
     "state":"ky"
 },

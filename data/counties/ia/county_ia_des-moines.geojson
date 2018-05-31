@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1077784093,
     "area_water":35342793,
-    "fips_id":"19057",
+    "geoid":"19057",
     "name":"Des Moines",
     "state":"ia"
 },

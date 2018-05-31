@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1696775859,
     "area_water":114287450,
-    "fips_id":"45053",
+    "geoid":"45053",
     "name":"Jasper",
     "state":"sc"
 },

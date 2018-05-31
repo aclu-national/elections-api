@@ -4,7 +4,7 @@
   "properties": {
     "area_land":602859293,
     "area_water":35406803,
-    "fips_id":"34003",
+    "geoid":"34003",
     "name":"Bergen",
     "state":"nj"
 },

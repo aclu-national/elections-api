@@ -1,10 +1,10 @@
 {
-  "id": "state_state_or.geojson",
+  "id": "state_or.geojson",
   "type": "Feature",
   "properties": {
     "area_land":248604328809,
     "area_water":6195045325,
-    "fips_id":"41",
+    "geoid":"41",
     "name":"Oregon",
     "state":"or"
 },

@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":5145201622.991329,
-    "district_num":98,
+    "district_num":"98",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"6998",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"mp"

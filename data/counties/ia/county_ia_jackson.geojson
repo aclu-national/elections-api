@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1647332487,
     "area_water":35141496,
-    "fips_id":"19097",
+    "geoid":"19097",
     "name":"Jackson",
     "state":"ia"
 },

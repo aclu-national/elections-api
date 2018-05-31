@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4288047856,
     "area_water":48927318,
-    "fips_id":"30069",
+    "geoid":"30069",
     "name":"Petroleum",
     "state":"mt"
 },

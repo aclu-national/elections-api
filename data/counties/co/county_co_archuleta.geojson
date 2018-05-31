@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3496731609,
     "area_water":13720776,
-    "fips_id":"08007",
+    "geoid":"08007",
     "name":"Archuleta",
     "state":"co"
 },

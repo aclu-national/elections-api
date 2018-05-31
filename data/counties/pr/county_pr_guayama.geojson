@@ -4,7 +4,7 @@
   "properties": {
     "area_land":168328028,
     "area_water":108327763,
-    "fips_id":"72057",
+    "geoid":"72057",
     "name":"Guayama",
     "state":"pr"
 },

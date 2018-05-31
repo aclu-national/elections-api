@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1915079274,
     "area_water":15397684,
-    "fips_id":"31157",
+    "geoid":"31157",
     "name":"Scotts Bluff",
     "state":"ne"
 },

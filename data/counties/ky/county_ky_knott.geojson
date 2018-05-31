@@ -4,7 +4,7 @@
   "properties": {
     "area_land":910427757,
     "area_water":3453309,
-    "fips_id":"21119",
+    "geoid":"21119",
     "name":"Knott",
     "state":"ky"
 },

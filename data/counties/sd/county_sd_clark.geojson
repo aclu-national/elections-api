@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2480181919,
     "area_water":25627353,
-    "fips_id":"46025",
+    "geoid":"46025",
     "name":"Clark",
     "state":"sd"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":79923633,
     "area_water":38025989,
-    "fips_id":"72003",
+    "geoid":"72003",
     "name":"Aguada",
     "state":"pr"
 },

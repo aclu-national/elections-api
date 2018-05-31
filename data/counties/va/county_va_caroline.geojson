@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1366471980,
     "area_water":24948487,
-    "fips_id":"51033",
+    "geoid":"51033",
     "name":"Caroline",
     "state":"va"
 },

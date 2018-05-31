@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1549071817,
     "area_water":4245786,
-    "fips_id":"39037",
+    "geoid":"39037",
     "name":"Darke",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2691555882,
     "area_water":41400824,
-    "fips_id":"05139",
+    "geoid":"05139",
     "name":"Union",
     "state":"ar"
 },

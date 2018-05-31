@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1655214176,
     "area_water":50995532,
-    "fips_id":"19005",
+    "geoid":"19005",
     "name":"Allamakee",
     "state":"ia"
 },

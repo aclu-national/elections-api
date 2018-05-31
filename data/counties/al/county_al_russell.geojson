@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1660557977,
     "area_water":15661281,
-    "fips_id":"01113",
+    "geoid":"01113",
     "name":"Russell",
     "state":"al"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1309077220,
     "area_water":28560499,
-    "fips_id":"28087",
+    "geoid":"28087",
     "name":"Lowndes",
     "state":"ms"
 },

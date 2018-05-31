@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1277105513,
     "area_water":12191505,
-    "fips_id":"13027",
+    "geoid":"13027",
     "name":"Brooks",
     "state":"ga"
 },

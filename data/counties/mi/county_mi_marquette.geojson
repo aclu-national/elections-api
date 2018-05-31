@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4685386476,
     "area_water":4185372277,
-    "fips_id":"26103",
+    "geoid":"26103",
     "name":"Marquette",
     "state":"mi"
 },

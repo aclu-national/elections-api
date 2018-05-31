@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3139921985,
     "area_water":117340432,
-    "fips_id":"36065",
+    "geoid":"36065",
     "name":"Oneida",
     "state":"ny"
 },

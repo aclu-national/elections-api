@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1681276216,
     "area_water":22324651,
-    "fips_id":"24023",
+    "geoid":"24023",
     "name":"Garrett",
     "state":"md"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":678415822,
     "area_water":685024028,
-    "fips_id":"37053",
+    "geoid":"37053",
     "name":"Currituck",
     "state":"nc"
 },

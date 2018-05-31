@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1115257644,
     "area_water":9852833,
-    "fips_id":"19117",
+    "geoid":"19117",
     "name":"Lucas",
     "state":"ia"
 },

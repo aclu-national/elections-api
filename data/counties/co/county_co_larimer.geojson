@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6723022936,
     "area_water":99012625,
-    "fips_id":"08069",
+    "geoid":"08069",
     "name":"Larimer",
     "state":"co"
 },

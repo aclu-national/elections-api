@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1854037822,
     "area_water":19262994,
-    "fips_id":"20053",
+    "geoid":"20053",
     "name":"Ellsworth",
     "state":"ks"
 },

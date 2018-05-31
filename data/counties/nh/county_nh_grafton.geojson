@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4425224129,
     "area_water":106489725,
-    "fips_id":"33009",
+    "geoid":"33009",
     "name":"Grafton",
     "state":"nh"
 },

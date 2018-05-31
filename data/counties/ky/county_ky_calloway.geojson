@@ -4,7 +4,7 @@
   "properties": {
     "area_land":997206000,
     "area_water":66492945,
-    "fips_id":"21035",
+    "geoid":"21035",
     "name":"Calloway",
     "state":"ky"
 },

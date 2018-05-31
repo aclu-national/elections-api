@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1249560774,
     "area_water":698231,
-    "fips_id":"27133",
+    "geoid":"27133",
     "name":"Rock",
     "state":"mn"
 },

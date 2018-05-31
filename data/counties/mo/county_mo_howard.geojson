@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1201192546,
     "area_water":19893064,
-    "fips_id":"29089",
+    "geoid":"29089",
     "name":"Howard",
     "state":"mo"
 },

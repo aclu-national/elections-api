@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2289914225,
     "area_water":37352304,
-    "fips_id":"42123",
+    "geoid":"42123",
     "name":"Warren",
     "state":"pa"
 },

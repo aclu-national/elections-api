@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1471881731,
     "area_water":17668265,
-    "fips_id":"19033",
+    "geoid":"19033",
     "name":"Cerro Gordo",
     "state":"ia"
 },

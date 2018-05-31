@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2219590653,
     "area_water":10147672,
-    "fips_id":"42125",
+    "geoid":"42125",
     "name":"Washington",
     "state":"pa"
 },

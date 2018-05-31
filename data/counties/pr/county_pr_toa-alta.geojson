@@ -4,7 +4,7 @@
   "properties": {
     "area_land":69972584,
     "area_water":1405464,
-    "fips_id":"72135",
+    "geoid":"72135",
     "name":"Toa Alta",
     "state":"pr"
 },

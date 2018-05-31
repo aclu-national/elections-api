@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1835826857,
     "area_water":19759408,
-    "fips_id":"38039",
+    "geoid":"38039",
     "name":"Griggs",
     "state":"nd"
 },

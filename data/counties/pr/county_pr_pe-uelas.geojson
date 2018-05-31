@@ -4,7 +4,7 @@
   "properties": {
     "area_land":115558555,
     "area_water":60210081,
-    "fips_id":"72111",
+    "geoid":"72111",
     "name":"Pe\u00f1uelas",
     "state":"pr"
 },

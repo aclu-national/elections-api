@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3693365374,
     "area_water":1021697,
-    "fips_id":"30019",
+    "geoid":"30019",
     "name":"Daniels",
     "state":"mt"
 },

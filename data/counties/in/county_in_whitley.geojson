@@ -4,7 +4,7 @@
   "properties": {
     "area_land":869120483,
     "area_water":6073937,
-    "fips_id":"18183",
+    "geoid":"18183",
     "name":"Whitley",
     "state":"in"
 },

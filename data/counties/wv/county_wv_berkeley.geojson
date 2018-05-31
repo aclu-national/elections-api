@@ -4,7 +4,7 @@
   "properties": {
     "area_land":831766640,
     "area_water":1061824,
-    "fips_id":"54003",
+    "geoid":"54003",
     "name":"Berkeley",
     "state":"wv"
 },

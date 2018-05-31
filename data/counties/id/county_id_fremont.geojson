@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4827632203,
     "area_water":83441579,
-    "fips_id":"16043",
+    "geoid":"16043",
     "name":"Fremont",
     "state":"id"
 },

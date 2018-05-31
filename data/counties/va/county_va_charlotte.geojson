@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1230994495,
     "area_water":5824992,
-    "fips_id":"51037",
+    "geoid":"51037",
     "name":"Charlotte",
     "state":"va"
 },

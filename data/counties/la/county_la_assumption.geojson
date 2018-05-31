@@ -4,7 +4,7 @@
   "properties": {
     "area_land":877133400,
     "area_water":66996288,
-    "fips_id":"22007",
+    "geoid":"22007",
     "name":"Assumption",
     "state":"la"
 },

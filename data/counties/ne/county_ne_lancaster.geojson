@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2169252486,
     "area_water":22867561,
-    "fips_id":"31109",
+    "geoid":"31109",
     "name":"Lancaster",
     "state":"ne"
 },

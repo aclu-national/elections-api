@@ -4,7 +4,7 @@
   "properties": {
     "area_land":445871152,
     "area_water":6166287,
-    "fips_id":"21113",
+    "geoid":"21113",
     "name":"Jessamine",
     "state":"ky"
 },

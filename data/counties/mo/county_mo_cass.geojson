@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1804142327,
     "area_water":15044253,
-    "fips_id":"29037",
+    "geoid":"29037",
     "name":"Cass",
     "state":"mo"
 },

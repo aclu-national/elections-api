@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1013592887,
     "area_water":5606074,
-    "fips_id":"42067",
+    "geoid":"42067",
     "name":"Juniata",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1062372377,
     "area_water":2715077,
-    "fips_id":"45061",
+    "geoid":"45061",
     "name":"Lee",
     "state":"sc"
 },

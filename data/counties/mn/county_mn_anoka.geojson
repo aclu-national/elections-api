@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1095486322,
     "area_water":59843479,
-    "fips_id":"27003",
+    "geoid":"27003",
     "name":"Anoka",
     "state":"mn"
 },

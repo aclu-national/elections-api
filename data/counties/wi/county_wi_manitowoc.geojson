@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1526268667,
     "area_water":2343369333,
-    "fips_id":"55071",
+    "geoid":"55071",
     "name":"Manitowoc",
     "state":"wi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":21039796372,
     "area_water":11501575,
-    "fips_id":"04025",
+    "geoid":"04025",
     "name":"Yavapai",
     "state":"az"
 },

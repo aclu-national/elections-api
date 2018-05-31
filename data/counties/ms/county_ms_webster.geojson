@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1090223315,
     "area_water":5935288,
-    "fips_id":"28155",
+    "geoid":"28155",
     "name":"Webster",
     "state":"ms"
 },

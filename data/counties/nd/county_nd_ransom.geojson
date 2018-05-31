@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2233494166,
     "area_water":3581125,
-    "fips_id":"38073",
+    "geoid":"38073",
     "name":"Ransom",
     "state":"nd"
 },

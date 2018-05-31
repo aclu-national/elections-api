@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2269878444,
     "area_water":47049426,
-    "fips_id":"22031",
+    "geoid":"22031",
     "name":"De Soto",
     "state":"la"
 },

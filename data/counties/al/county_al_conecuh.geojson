@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2201948618,
     "area_water":6643480,
-    "fips_id":"01035",
+    "geoid":"01035",
     "name":"Conecuh",
     "state":"al"
 },

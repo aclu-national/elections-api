@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1044993095,
     "area_water":18068475,
-    "fips_id":"18167",
+    "geoid":"18167",
     "name":"Vigo",
     "state":"in"
 },

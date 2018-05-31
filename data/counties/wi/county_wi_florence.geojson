@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1264232435,
     "area_water":24111636,
-    "fips_id":"55037",
+    "geoid":"55037",
     "name":"Florence",
     "state":"wi"
 },

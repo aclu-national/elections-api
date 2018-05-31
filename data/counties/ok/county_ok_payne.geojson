@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1773393745,
     "area_water":31771425,
-    "fips_id":"40119",
+    "geoid":"40119",
     "name":"Payne",
     "state":"ok"
 },

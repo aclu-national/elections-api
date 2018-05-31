@@ -4,7 +4,7 @@
   "properties": {
     "area_land":71816290,
     "area_water":25307600,
-    "fips_id":"72143",
+    "geoid":"72143",
     "name":"Vega Alta",
     "state":"pr"
 },

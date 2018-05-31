@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1078539439,
     "area_water":13873466,
-    "fips_id":"39115",
+    "geoid":"39115",
     "name":"Morgan",
     "state":"oh"
 },

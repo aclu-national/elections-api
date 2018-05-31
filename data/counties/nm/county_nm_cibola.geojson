@@ -4,7 +4,7 @@
   "properties": {
     "area_land":11758240020,
     "area_water":5819738,
-    "fips_id":"35006",
+    "geoid":"35006",
     "name":"Cibola",
     "state":"nm"
 },

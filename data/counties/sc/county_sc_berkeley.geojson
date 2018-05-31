@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2845745102,
     "area_water":338007534,
-    "fips_id":"45015",
+    "geoid":"45015",
     "name":"Berkeley",
     "state":"sc"
 },

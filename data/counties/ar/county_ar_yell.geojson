@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2409046726,
     "area_water":48482972,
-    "fips_id":"05149",
+    "geoid":"05149",
     "name":"Yell",
     "state":"ar"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1133976430,
     "area_water":18875138,
-    "fips_id":"21235",
+    "geoid":"21235",
     "name":"Whitley",
     "state":"ky"
 },

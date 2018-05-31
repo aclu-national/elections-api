@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2129428214,
     "area_water":30012909,
-    "fips_id":"40019",
+    "geoid":"40019",
     "name":"Carter",
     "state":"ok"
 },

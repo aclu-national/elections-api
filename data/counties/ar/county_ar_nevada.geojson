@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1600192985,
     "area_water":7254365,
-    "fips_id":"05099",
+    "geoid":"05099",
     "name":"Nevada",
     "state":"ar"
 },

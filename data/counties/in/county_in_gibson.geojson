@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1262606254,
     "area_water":30223915,
-    "fips_id":"18051",
+    "geoid":"18051",
     "name":"Gibson",
     "state":"in"
 },

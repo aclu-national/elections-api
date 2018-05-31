@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1561204507,
     "area_water":99471076,
-    "fips_id":"22107",
+    "geoid":"22107",
     "name":"Tensas",
     "state":"la"
 },

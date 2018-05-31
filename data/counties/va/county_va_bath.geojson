@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1370626013,
     "area_water":14039993,
-    "fips_id":"51017",
+    "geoid":"51017",
     "name":"Bath",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12361852569,
     "area_water":6929970,
-    "fips_id":"08071",
+    "geoid":"08071",
     "name":"Las Animas",
     "state":"co"
 },

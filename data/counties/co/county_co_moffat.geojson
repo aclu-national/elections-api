@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12284943876,
     "area_water":19803412,
-    "fips_id":"08081",
+    "geoid":"08081",
     "name":"Moffat",
     "state":"co"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1628663096,
     "area_water":740751569,
-    "fips_id":"34029",
+    "geoid":"34029",
     "name":"Ocean",
     "state":"nj"
 },

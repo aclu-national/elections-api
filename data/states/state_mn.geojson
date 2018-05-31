@@ -1,10 +1,10 @@
 {
-  "id": "state_state_mn.geojson",
+  "id": "state_mn.geojson",
   "type": "Feature",
   "properties": {
     "area_land":206229176104,
     "area_water":18944967530,
-    "fips_id":"27",
+    "geoid":"27",
     "name":"Minnesota",
     "state":"mn"
 },

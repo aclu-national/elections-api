@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6364399894,
     "area_water":79605439,
-    "fips_id":"16035",
+    "geoid":"16035",
     "name":"Clearwater",
     "state":"id"
 },

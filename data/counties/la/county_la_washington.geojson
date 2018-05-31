@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1734071719,
     "area_water":16460917,
-    "fips_id":"22117",
+    "geoid":"22117",
     "name":"Washington",
     "state":"la"
 },

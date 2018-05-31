@@ -4,7 +4,7 @@
   "properties": {
     "area_land":869614721,
     "area_water":30829977,
-    "fips_id":"51153",
+    "geoid":"51153",
     "name":"Prince William",
     "state":"va"
 },

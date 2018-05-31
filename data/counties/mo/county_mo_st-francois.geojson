@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1170437420,
     "area_water":7160607,
-    "fips_id":"29187",
+    "geoid":"29187",
     "name":"St. Francois",
     "state":"mo"
 },

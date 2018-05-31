@@ -4,7 +4,7 @@
   "properties": {
     "area_land":697237227,
     "area_water":28088013,
-    "fips_id":"51179",
+    "geoid":"51179",
     "name":"Stafford",
     "state":"va"
 },

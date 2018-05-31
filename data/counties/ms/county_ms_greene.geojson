@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1846034017,
     "area_water":15380474,
-    "fips_id":"28041",
+    "geoid":"28041",
     "name":"Greene",
     "state":"ms"
 },

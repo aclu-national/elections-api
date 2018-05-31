@@ -4,7 +4,7 @@
   "properties": {
     "area_land":518749021,
     "area_water":17312576,
-    "fips_id":"47083",
+    "geoid":"47083",
     "name":"Houston",
     "state":"tn"
 },

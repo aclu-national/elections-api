@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1602484321,
     "area_water":30706228,
-    "fips_id":"17143",
+    "geoid":"17143",
     "name":"Peoria",
     "state":"il"
 },

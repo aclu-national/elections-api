@@ -4,7 +4,7 @@
   "properties": {
     "area_land":593295476,
     "area_water":1401570,
-    "fips_id":"54065",
+    "geoid":"54065",
     "name":"Morgan",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":179672197,
     "area_water":71097153,
-    "fips_id":"36047",
+    "geoid":"36047",
     "name":"Kings",
     "state":"ny"
 },

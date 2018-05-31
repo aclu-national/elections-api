@@ -4,7 +4,7 @@
   "properties": {
     "area_land":21078875989,
     "area_water":568514572,
-    "fips_id":"41037",
+    "geoid":"41037",
     "name":"Lake",
     "state":"or"
 },

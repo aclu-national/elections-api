@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2131552073,
     "area_water":6862245,
-    "fips_id":"17073",
+    "geoid":"17073",
     "name":"Henry",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1433839320,
     "area_water":137173629,
-    "fips_id":"27053",
+    "geoid":"27053",
     "name":"Hennepin",
     "state":"mn"
 },

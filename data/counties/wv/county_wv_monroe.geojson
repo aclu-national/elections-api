@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1224426774,
     "area_water":2297605,
-    "fips_id":"54063",
+    "geoid":"54063",
     "name":"Monroe",
     "state":"wv"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1502550906,
     "area_water":4194911,
-    "fips_id":"19023",
+    "geoid":"19023",
     "name":"Butler",
     "state":"ia"
 },

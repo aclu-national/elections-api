@@ -4,7 +4,7 @@
   "properties": {
     "area_land":798866697,
     "area_water":1847051,
-    "fips_id":"21153",
+    "geoid":"21153",
     "name":"Magoffin",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":766177348,
     "area_water":23377500,
-    "fips_id":"37109",
+    "geoid":"37109",
     "name":"Lincoln",
     "state":"nc"
 },

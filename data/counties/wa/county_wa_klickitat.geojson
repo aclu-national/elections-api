@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4847516021,
     "area_water":84930620,
-    "fips_id":"53039",
+    "geoid":"53039",
     "name":"Klickitat",
     "state":"wa"
 },

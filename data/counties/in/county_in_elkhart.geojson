@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1199614707,
     "area_water":12423391,
-    "fips_id":"18039",
+    "geoid":"18039",
     "name":"Elkhart",
     "state":"in"
 },

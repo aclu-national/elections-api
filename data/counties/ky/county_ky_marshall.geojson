@@ -4,7 +4,7 @@
   "properties": {
     "area_land":780276604,
     "area_water":100761088,
-    "fips_id":"21157",
+    "geoid":"21157",
     "name":"Marshall",
     "state":"ky"
 },

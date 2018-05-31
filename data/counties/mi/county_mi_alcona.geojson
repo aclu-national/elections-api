@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1747349262,
     "area_water":2890404971,
-    "fips_id":"26001",
+    "geoid":"26001",
     "name":"Alcona",
     "state":"mi"
 },

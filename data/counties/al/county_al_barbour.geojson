@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2292144656,
     "area_water":50538698,
-    "fips_id":"01005",
+    "geoid":"01005",
     "name":"Barbour",
     "state":"al"
 },

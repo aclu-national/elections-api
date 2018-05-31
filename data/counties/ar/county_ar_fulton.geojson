@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1601111649,
     "area_water":5526927,
-    "fips_id":"05049",
+    "geoid":"05049",
     "name":"Fulton",
     "state":"ar"
 },

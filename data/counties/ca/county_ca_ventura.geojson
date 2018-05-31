@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4773302741,
     "area_water":946030569,
-    "fips_id":"06111",
+    "geoid":"06111",
     "name":"Ventura",
     "state":"ca"
 },

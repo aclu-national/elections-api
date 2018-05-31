@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2460152119,
     "area_water":25739448,
-    "fips_id":"48149",
+    "geoid":"48149",
     "name":"Fayette",
     "state":"tx"
 },

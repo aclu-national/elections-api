@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1565408735,
     "area_water":45201371,
-    "fips_id":"42017",
+    "geoid":"42017",
     "name":"Bucks",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2021056000,
     "area_water":4628015820,
-    "fips_id":"22075",
+    "geoid":"22075",
     "name":"Plaquemines",
     "state":"la"
 },

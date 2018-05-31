@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1017805267,
     "area_water":94061469,
-    "fips_id":"13139",
+    "geoid":"13139",
     "name":"Hall",
     "state":"ga"
 },

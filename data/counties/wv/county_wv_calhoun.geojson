@@ -4,7 +4,7 @@
   "properties": {
     "area_land":723252434,
     "area_water":3704539,
-    "fips_id":"54013",
+    "geoid":"54013",
     "name":"Calhoun",
     "state":"wv"
 },

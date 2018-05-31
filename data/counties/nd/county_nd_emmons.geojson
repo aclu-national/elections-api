@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3912007898,
     "area_water":115480697,
-    "fips_id":"38029",
+    "geoid":"38029",
     "name":"Emmons",
     "state":"nd"
 },

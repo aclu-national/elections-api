@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1015119749,
     "area_water":13841085,
-    "fips_id":"13093",
+    "geoid":"13093",
     "name":"Dooly",
     "state":"ga"
 },

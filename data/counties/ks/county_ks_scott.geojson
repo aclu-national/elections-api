@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1858536844,
     "area_water":306079,
-    "fips_id":"20171",
+    "geoid":"20171",
     "name":"Scott",
     "state":"ks"
 },

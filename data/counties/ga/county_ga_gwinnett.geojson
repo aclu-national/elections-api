@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1114851817,
     "area_water":16349375,
-    "fips_id":"13135",
+    "geoid":"13135",
     "name":"Gwinnett",
     "state":"ga"
 },

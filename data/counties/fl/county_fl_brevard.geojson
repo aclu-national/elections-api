@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2629333877,
     "area_water":1403340249,
-    "fips_id":"12009",
+    "geoid":"12009",
     "name":"Brevard",
     "state":"fl"
 },

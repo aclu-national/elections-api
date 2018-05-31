@@ -1,10 +1,10 @@
 {
-  "id": "state_state_mo.geojson",
+  "id": "state_mo.geojson",
   "type": "Feature",
   "properties": {
     "area_land":178052037005,
     "area_water":2488190402,
-    "fips_id":"29",
+    "geoid":"29",
     "name":"Missouri",
     "state":"mo"
 },

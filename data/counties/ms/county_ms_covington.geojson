@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1071727825,
     "area_water":2937796,
-    "fips_id":"28031",
+    "geoid":"28031",
     "name":"Covington",
     "state":"ms"
 },

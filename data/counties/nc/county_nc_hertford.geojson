@@ -4,7 +4,7 @@
   "properties": {
     "area_land":914685904,
     "area_water":18740844,
-    "fips_id":"37091",
+    "geoid":"37091",
     "name":"Hertford",
     "state":"nc"
 },

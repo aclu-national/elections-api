@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1185912330,
     "area_water":9070753,
-    "fips_id":"18141",
+    "geoid":"18141",
     "name":"St. Joseph",
     "state":"in"
 },

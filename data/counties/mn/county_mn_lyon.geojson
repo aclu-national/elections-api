@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1850315135,
     "area_water":18794796,
-    "fips_id":"27083",
+    "geoid":"27083",
     "name":"Lyon",
     "state":"mn"
 },

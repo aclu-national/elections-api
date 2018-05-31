@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1748712527,
     "area_water":7740249,
-    "fips_id":"41003",
+    "geoid":"41003",
     "name":"Benton",
     "state":"or"
 },

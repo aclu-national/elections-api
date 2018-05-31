@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1379925849,
     "area_water":19832711,
-    "fips_id":"28057",
+    "geoid":"28057",
     "name":"Itawamba",
     "state":"ms"
 },

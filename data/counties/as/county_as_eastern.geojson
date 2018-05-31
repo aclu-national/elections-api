@@ -4,7 +4,7 @@
   "properties": {
     "area_land":65124868,
     "area_water":349724676,
-    "fips_id":"60010",
+    "geoid":"60010",
     "name":"Eastern",
     "state":"as"
 },

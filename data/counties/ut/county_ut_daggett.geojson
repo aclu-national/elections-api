@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1805185918,
     "area_water":61230035,
-    "fips_id":"49009",
+    "geoid":"49009",
     "name":"Daggett",
     "state":"ut"
 },

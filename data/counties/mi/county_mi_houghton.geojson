@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2613557367,
     "area_water":1275355802,
-    "fips_id":"26061",
+    "geoid":"26061",
     "name":"Houghton",
     "state":"mi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":71444631,
     "area_water":468304,
-    "fips_id":"72061",
+    "geoid":"72061",
     "name":"Guaynabo",
     "state":"pr"
 },

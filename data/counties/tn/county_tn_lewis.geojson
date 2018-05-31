@@ -4,7 +4,7 @@
   "properties": {
     "area_land":730608078,
     "area_water":1031592,
-    "fips_id":"47101",
+    "geoid":"47101",
     "name":"Lewis",
     "state":"tn"
 },

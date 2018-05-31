@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8651792773,
     "area_water":19503321,
-    "fips_id":"30011",
+    "geoid":"30011",
     "name":"Carter",
     "state":"mt"
 },

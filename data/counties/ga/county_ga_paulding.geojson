@@ -4,7 +4,7 @@
   "properties": {
     "area_land":808831878,
     "area_water":5309332,
-    "fips_id":"13223",
+    "geoid":"13223",
     "name":"Paulding",
     "state":"ga"
 },

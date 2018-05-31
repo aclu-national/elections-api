@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1296530601,
     "area_water":52921099,
-    "fips_id":"26149",
+    "geoid":"26149",
     "name":"St. Joseph",
     "state":"mi"
 },

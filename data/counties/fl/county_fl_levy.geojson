@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2896206276,
     "area_water":762912636,
-    "fips_id":"12075",
+    "geoid":"12075",
     "name":"Levy",
     "state":"fl"
 },

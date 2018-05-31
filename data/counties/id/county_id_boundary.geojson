@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3285990181,
     "area_water":24160674,
-    "fips_id":"16021",
+    "geoid":"16021",
     "name":"Boundary",
     "state":"id"
 },

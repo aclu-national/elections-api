@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1453370732,
     "area_water":14647308,
-    "fips_id":"45031",
+    "geoid":"45031",
     "name":"Darlington",
     "state":"sc"
 },

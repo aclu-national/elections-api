@@ -4,7 +4,7 @@
   "properties": {
     "area_land":791044349,
     "area_water":49413697,
-    "fips_id":"21163",
+    "geoid":"21163",
     "name":"Meade",
     "state":"ky"
 },

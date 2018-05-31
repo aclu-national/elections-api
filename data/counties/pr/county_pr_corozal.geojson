@@ -4,7 +4,7 @@
   "properties": {
     "area_land":110248539,
     "area_water":16284,
-    "fips_id":"72047",
+    "geoid":"72047",
     "name":"Corozal",
     "state":"pr"
 },

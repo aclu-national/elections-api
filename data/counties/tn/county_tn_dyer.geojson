@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1326943234,
     "area_water":36772010,
-    "fips_id":"47045",
+    "geoid":"47045",
     "name":"Dyer",
     "state":"tn"
 },

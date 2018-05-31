@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1672140731,
     "area_water":108432130,
-    "fips_id":"55001",
+    "geoid":"55001",
     "name":"Adams",
     "state":"wi"
 },

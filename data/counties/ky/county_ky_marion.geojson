@@ -4,7 +4,7 @@
   "properties": {
     "area_land":888390643,
     "area_water":9967834,
-    "fips_id":"21155",
+    "geoid":"21155",
     "name":"Marion",
     "state":"ky"
 },

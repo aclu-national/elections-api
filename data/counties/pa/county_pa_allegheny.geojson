@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1890889701,
     "area_water":37411492,
-    "fips_id":"42003",
+    "geoid":"42003",
     "name":"Allegheny",
     "state":"pa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1116736559,
     "area_water":6851102,
-    "fips_id":"20005",
+    "geoid":"20005",
     "name":"Atchison",
     "state":"ks"
 },

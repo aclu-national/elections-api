@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1979380402,
     "area_water":25428019,
-    "fips_id":"08059",
+    "geoid":"08059",
     "name":"Jefferson",
     "state":"co"
 },

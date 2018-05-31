@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1489017971,
     "area_water":337241,
-    "fips_id":"31181",
+    "geoid":"31181",
     "name":"Webster",
     "state":"ne"
 },

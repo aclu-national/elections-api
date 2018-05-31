@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2256645184,
     "area_water":162833567,
-    "fips_id":"37141",
+    "geoid":"37141",
     "name":"Pender",
     "state":"nc"
 },

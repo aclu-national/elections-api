@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1094356029,
     "area_water":3745075,
-    "fips_id":"39075",
+    "geoid":"39075",
     "name":"Holmes",
     "state":"oh"
 },

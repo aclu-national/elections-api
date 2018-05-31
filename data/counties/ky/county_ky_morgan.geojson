@@ -4,7 +4,7 @@
   "properties": {
     "area_land":987114420,
     "area_water":6889722,
-    "fips_id":"21175",
+    "geoid":"21175",
     "name":"Morgan",
     "state":"ky"
 },

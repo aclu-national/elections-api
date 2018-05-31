@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4689280303,
     "area_water":42449686,
-    "fips_id":"46055",
+    "geoid":"46055",
     "name":"Haakon",
     "state":"sd"
 },

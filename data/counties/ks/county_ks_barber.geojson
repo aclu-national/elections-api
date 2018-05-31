@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2937248475,
     "area_water":5403867,
-    "fips_id":"20007",
+    "geoid":"20007",
     "name":"Barber",
     "state":"ks"
 },

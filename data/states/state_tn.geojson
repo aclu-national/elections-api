@@ -1,10 +1,10 @@
 {
-  "id": "state_state_tn.geojson",
+  "id": "state_tn.geojson",
   "type": "Feature",
   "properties": {
     "area_land":106798015774,
     "area_water":2354836197,
-    "fips_id":"47",
+    "geoid":"47",
     "name":"Tennessee",
     "state":"tn"
 },

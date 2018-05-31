@@ -4,7 +4,7 @@
   "properties": {
     "area_land":66851395,
     "area_water":53659423,
-    "fips_id":"72089",
+    "geoid":"72089",
     "name":"Luquillo",
     "state":"pr"
 },

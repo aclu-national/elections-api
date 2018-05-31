@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1765780148,
     "area_water":3533325,
-    "fips_id":"29229",
+    "geoid":"29229",
     "name":"Wright",
     "state":"mo"
 },

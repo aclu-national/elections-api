@@ -4,7 +4,7 @@
   "properties": {
     "area_land":741450757,
     "area_water":12552369,
-    "fips_id":"21103",
+    "geoid":"21103",
     "name":"Henry",
     "state":"ky"
 },

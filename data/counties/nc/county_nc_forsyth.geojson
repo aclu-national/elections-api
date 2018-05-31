@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1056115821,
     "area_water":11818425,
-    "fips_id":"37067",
+    "geoid":"37067",
     "name":"Forsyth",
     "state":"nc"
 },

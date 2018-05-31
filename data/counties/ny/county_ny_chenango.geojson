@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2314378336,
     "area_water":13062477,
-    "fips_id":"36017",
+    "geoid":"36017",
     "name":"Chenango",
     "state":"ny"
 },

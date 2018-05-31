@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1198369598,
     "area_water":19839056,
-    "fips_id":"29087",
+    "geoid":"29087",
     "name":"Holt",
     "state":"mo"
 },

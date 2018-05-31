@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1654694139,
     "area_water":15243783,
-    "fips_id":"20019",
+    "geoid":"20019",
     "name":"Chautauqua",
     "state":"ks"
 },

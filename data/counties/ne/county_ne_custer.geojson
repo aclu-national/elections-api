@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6670757281,
     "area_water":932956,
-    "fips_id":"31041",
+    "geoid":"31041",
     "name":"Custer",
     "state":"ne"
 },

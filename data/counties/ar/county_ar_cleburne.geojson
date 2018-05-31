@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1434168142,
     "area_water":98893718,
-    "fips_id":"05023",
+    "geoid":"05023",
     "name":"Cleburne",
     "state":"ar"
 },

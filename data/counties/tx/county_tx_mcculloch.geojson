@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2759894991,
     "area_water":20284774,
-    "fips_id":"48307",
+    "geoid":"48307",
     "name":"McCulloch",
     "state":"tx"
 },

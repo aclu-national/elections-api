@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2327173855,
     "area_water":599356,
-    "fips_id":"20065",
+    "geoid":"20065",
     "name":"Graham",
     "state":"ks"
 },

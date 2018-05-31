@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1014954735,
     "area_water":7655289,
-    "fips_id":"18065",
+    "geoid":"18065",
     "name":"Henry",
     "state":"in"
 },

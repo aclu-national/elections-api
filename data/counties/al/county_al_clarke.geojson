@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3207494103,
     "area_water":36657891,
-    "fips_id":"01025",
+    "geoid":"01025",
     "name":"Clarke",
     "state":"al"
 },

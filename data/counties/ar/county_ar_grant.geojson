@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1636384394,
     "area_water":2896901,
-    "fips_id":"05053",
+    "geoid":"05053",
     "name":"Grant",
     "state":"ar"
 },

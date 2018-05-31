@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3432663415,
     "area_water":23762579,
-    "fips_id":"48325",
+    "geoid":"48325",
     "name":"Medina",
     "state":"tx"
 },

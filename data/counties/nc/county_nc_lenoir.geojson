@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1033630023,
     "area_water":5900300,
-    "fips_id":"37107",
+    "geoid":"37107",
     "name":"Lenoir",
     "state":"nc"
 },

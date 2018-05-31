@@ -4,7 +4,7 @@
   "properties": {
     "area_land":655468668,
     "area_water":6557602,
-    "fips_id":"21065",
+    "geoid":"21065",
     "name":"Estill",
     "state":"ky"
 },

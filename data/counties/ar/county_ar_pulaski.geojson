@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1965575733,
     "area_water":126242806,
-    "fips_id":"05119",
+    "geoid":"05119",
     "name":"Pulaski",
     "state":"ar"
 },

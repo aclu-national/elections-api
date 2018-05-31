@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2049282622,
     "area_water":11562555,
-    "fips_id":"37101",
+    "geoid":"37101",
     "name":"Johnston",
     "state":"nc"
 },

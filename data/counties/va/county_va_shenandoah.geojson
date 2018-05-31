@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1315692012,
     "area_water":9944281,
-    "fips_id":"51171",
+    "geoid":"51171",
     "name":"Shenandoah",
     "state":"va"
 },

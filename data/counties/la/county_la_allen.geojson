@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1973083800,
     "area_water":10634064,
-    "fips_id":"22003",
+    "geoid":"22003",
     "name":"Allen",
     "state":"la"
 },

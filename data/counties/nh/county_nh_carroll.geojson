@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2413888299,
     "area_water":159247403,
-    "fips_id":"33003",
+    "geoid":"33003",
     "name":"Carroll",
     "state":"nh"
 },

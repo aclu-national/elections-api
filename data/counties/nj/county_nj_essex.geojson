@@ -4,7 +4,7 @@
   "properties": {
     "area_land":326559360,
     "area_water":8636456,
-    "fips_id":"34013",
+    "geoid":"34013",
     "name":"Essex",
     "state":"nj"
 },

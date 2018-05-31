@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1143307587,
     "area_water":103330127,
-    "fips_id":"21221",
+    "geoid":"21221",
     "name":"Trigg",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1699090933,
     "area_water":136351829,
-    "fips_id":"29029",
+    "geoid":"29029",
     "name":"Camden",
     "state":"mo"
 },

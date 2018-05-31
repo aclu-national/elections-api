@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3008348865,
     "area_water":3203294203,
-    "fips_id":"15009",
+    "geoid":"15009",
     "name":"Maui",
     "state":"hi"
 },

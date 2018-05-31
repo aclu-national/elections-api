@@ -4,7 +4,7 @@
   "properties": {
     "area_land":987179165,
     "area_water":29350862,
-    "fips_id":"45017",
+    "geoid":"45017",
     "name":"Calhoun",
     "state":"sc"
 },

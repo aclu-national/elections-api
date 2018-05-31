@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1404823489,
     "area_water":1674135,
-    "fips_id":"17187",
+    "geoid":"17187",
     "name":"Warren",
     "state":"il"
 },

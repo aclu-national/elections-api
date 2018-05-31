@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2112606166,
     "area_water":119183856,
-    "fips_id":"26123",
+    "geoid":"26123",
     "name":"Newaygo",
     "state":"mi"
 },

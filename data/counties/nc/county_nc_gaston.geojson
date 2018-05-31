@@ -4,7 +4,7 @@
   "properties": {
     "area_land":921400770,
     "area_water":20560593,
-    "fips_id":"37071",
+    "geoid":"37071",
     "name":"Gaston",
     "state":"nc"
 },

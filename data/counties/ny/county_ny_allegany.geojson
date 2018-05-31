@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2665875177,
     "area_water":13153776,
-    "fips_id":"36003",
+    "geoid":"36003",
     "name":"Allegany",
     "state":"ny"
 },

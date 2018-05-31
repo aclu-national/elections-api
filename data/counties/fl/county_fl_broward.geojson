@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3120024303,
     "area_water":306053086,
-    "fips_id":"12011",
+    "geoid":"12011",
     "name":"Broward",
     "state":"fl"
 },

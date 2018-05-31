@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1236390684,
     "area_water":7545524,
-    "fips_id":"54023",
+    "geoid":"54023",
     "name":"Grant",
     "state":"wv"
 },

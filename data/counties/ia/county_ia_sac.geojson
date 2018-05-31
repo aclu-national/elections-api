@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1489300182,
     "area_water":8569441,
-    "fips_id":"19161",
+    "geoid":"19161",
     "name":"Sac",
     "state":"ia"
 },

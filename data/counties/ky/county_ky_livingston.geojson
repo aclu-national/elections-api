@@ -4,7 +4,7 @@
   "properties": {
     "area_land":810999158,
     "area_water":75642166,
-    "fips_id":"21139",
+    "geoid":"21139",
     "name":"Livingston",
     "state":"ky"
 },

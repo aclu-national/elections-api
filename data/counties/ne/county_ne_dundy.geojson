@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2381956152,
     "area_water":3046330,
-    "fips_id":"31057",
+    "geoid":"31057",
     "name":"Dundy",
     "state":"ne"
 },

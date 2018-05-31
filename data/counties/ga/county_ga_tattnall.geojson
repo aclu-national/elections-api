@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1241979177,
     "area_water":22837730,
-    "fips_id":"13267",
+    "geoid":"13267",
     "name":"Tattnall",
     "state":"ga"
 },

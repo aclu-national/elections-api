@@ -4,7 +4,7 @@
   "properties": {
     "area_land":987977576,
     "area_water":15349904,
-    "fips_id":"42025",
+    "geoid":"42025",
     "name":"Carbon",
     "state":"pa"
 },

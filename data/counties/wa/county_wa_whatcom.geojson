@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5459395487,
     "area_water":1028184768,
-    "fips_id":"53073",
+    "geoid":"53073",
     "name":"Whatcom",
     "state":"wa"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1133252798,
     "area_water":1305486,
-    "fips_id":"42057",
+    "geoid":"42057",
     "name":"Fulton",
     "state":"pa"
 },

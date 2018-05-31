@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2298408148,
     "area_water":19507501,
-    "fips_id":"48233",
+    "geoid":"48233",
     "name":"Hutchinson",
     "state":"tx"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2383359749,
     "area_water":10064086,
-    "fips_id":"48065",
+    "geoid":"48065",
     "name":"Carson",
     "state":"tx"
 },

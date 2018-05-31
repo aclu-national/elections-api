@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9609139504,
     "area_water":10854361,
-    "fips_id":"35043",
+    "geoid":"35043",
     "name":"Sandoval",
     "state":"nm"
 },

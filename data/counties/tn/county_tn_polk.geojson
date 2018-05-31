@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1125617646,
     "area_water":19911983,
-    "fips_id":"47139",
+    "geoid":"47139",
     "name":"Polk",
     "state":"tn"
 },

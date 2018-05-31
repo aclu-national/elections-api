@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2524300311,
     "area_water":6603384,
-    "fips_id":"20025",
+    "geoid":"20025",
     "name":"Clark",
     "state":"ks"
 },

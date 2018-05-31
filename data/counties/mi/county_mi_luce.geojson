@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2328596732,
     "area_water":2624713509,
-    "fips_id":"26095",
+    "geoid":"26095",
     "name":"Luce",
     "state":"mi"
 },

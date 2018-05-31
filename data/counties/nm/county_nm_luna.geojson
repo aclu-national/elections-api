@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7679944778,
     "area_water":433660,
-    "fips_id":"35029",
+    "geoid":"35029",
     "name":"Luna",
     "state":"nm"
 },

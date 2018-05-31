@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2341882815,
     "area_water":16941833,
-    "fips_id":"42133",
+    "geoid":"42133",
     "name":"York",
     "state":"pa"
 },

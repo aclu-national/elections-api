@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1784986611,
     "area_water":9938846,
-    "fips_id":"39141",
+    "geoid":"39141",
     "name":"Ross",
     "state":"oh"
 },

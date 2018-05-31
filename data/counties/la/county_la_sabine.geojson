@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2244636627,
     "area_water":375317817,
-    "fips_id":"22085",
+    "geoid":"22085",
     "name":"Sabine",
     "state":"la"
 },

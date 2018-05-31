@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9733110215,
     "area_water":26299618,
-    "fips_id":"35007",
+    "geoid":"35007",
     "name":"Colfax",
     "state":"nm"
 },

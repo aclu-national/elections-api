@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7964192255,
     "area_water":68555510,
-    "fips_id":"16039",
+    "geoid":"16039",
     "name":"Elmore",
     "state":"id"
 },

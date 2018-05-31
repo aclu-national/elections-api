@@ -4,7 +4,7 @@
   "properties": {
     "area_land":952010950,
     "area_water":14334531,
-    "fips_id":"37195",
+    "geoid":"37195",
     "name":"Wilson",
     "state":"nc"
 },

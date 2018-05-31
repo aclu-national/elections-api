@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1202677932,
     "area_water":18836099,
-    "fips_id":"54035",
+    "geoid":"54035",
     "name":"Jackson",
     "state":"wv"
 },

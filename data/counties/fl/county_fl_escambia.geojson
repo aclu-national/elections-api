@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1701448275,
     "area_water":564025766,
-    "fips_id":"12033",
+    "geoid":"12033",
     "name":"Escambia",
     "state":"fl"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":663797704,
     "area_water":11403003,
-    "fips_id":"54095",
+    "geoid":"54095",
     "name":"Tyler",
     "state":"wv"
 },

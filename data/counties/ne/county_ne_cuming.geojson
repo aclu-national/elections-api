@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1477641638,
     "area_water":10701538,
-    "fips_id":"31039",
+    "geoid":"31039",
     "name":"Cuming",
     "state":"ne"
 },

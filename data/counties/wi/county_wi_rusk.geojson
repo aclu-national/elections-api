@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2366092049,
     "area_water":44813688,
-    "fips_id":"55107",
+    "geoid":"55107",
     "name":"Rusk",
     "state":"wi"
 },

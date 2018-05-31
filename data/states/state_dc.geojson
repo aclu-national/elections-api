@@ -1,10 +1,10 @@
 {
-  "id": "state_state_dc.geojson",
+  "id": "state_dc.geojson",
   "type": "Feature",
   "properties": {
     "area_land":158351639,
     "area_water":18675956,
-    "fips_id":"11",
+    "geoid":"11",
     "name":"District of Columbia",
     "state":"dc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":13403572555,
     "area_water":85610784,
-    "fips_id":"49017",
+    "geoid":"49017",
     "name":"Garfield",
     "state":"ut"
 },

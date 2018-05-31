@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1025328490,
     "area_water":17196403,
-    "fips_id":"19063",
+    "geoid":"19063",
     "name":"Emmet",
     "state":"ia"
 },

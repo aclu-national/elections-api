@@ -4,7 +4,7 @@
   "properties": {
     "area_land":431313630,
     "area_water":13975835,
-    "fips_id":"13281",
+    "geoid":"13281",
     "name":"Towns",
     "state":"ga"
 },

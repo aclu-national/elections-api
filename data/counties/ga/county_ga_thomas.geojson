@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1410520995,
     "area_water":19717343,
-    "fips_id":"13275",
+    "geoid":"13275",
     "name":"Thomas",
     "state":"ga"
 },

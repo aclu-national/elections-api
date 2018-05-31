@@ -4,7 +4,7 @@
   "properties": {
     "area_land":105228855314,
     "area_water":12768607553,
-    "fips_id":"02050",
+    "geoid":"02050",
     "name":"Bethel",
     "state":"ak"
 },

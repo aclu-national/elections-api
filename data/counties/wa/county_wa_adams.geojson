@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4985663373,
     "area_water":12499935,
-    "fips_id":"53001",
+    "geoid":"53001",
     "name":"Adams",
     "state":"wa"
 },

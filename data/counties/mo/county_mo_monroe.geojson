@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1677414413,
     "area_water":58300656,
-    "fips_id":"29137",
+    "geoid":"29137",
     "name":"Monroe",
     "state":"mo"
 },

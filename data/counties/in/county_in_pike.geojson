@@ -4,7 +4,7 @@
   "properties": {
     "area_land":865676037,
     "area_water":17753971,
-    "fips_id":"18125",
+    "geoid":"18125",
     "name":"Pike",
     "state":"in"
 },

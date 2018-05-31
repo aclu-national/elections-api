@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1163743170,
     "area_water":2229242744,
-    "fips_id":"51001",
+    "geoid":"51001",
     "name":"Accomack",
     "state":"va"
 },

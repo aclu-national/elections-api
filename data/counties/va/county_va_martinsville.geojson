@@ -4,7 +4,7 @@
   "properties": {
     "area_land":28376605,
     "area_water":133615,
-    "fips_id":"51690",
+    "geoid":"51690",
     "name":"Martinsville",
     "state":"va"
 },

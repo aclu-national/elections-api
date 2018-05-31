@@ -4,7 +4,7 @@
   "properties": {
     "area_land":94851792,
     "area_water":12487,
-    "fips_id":"72093",
+    "geoid":"72093",
     "name":"Maricao",
     "state":"pr"
 },

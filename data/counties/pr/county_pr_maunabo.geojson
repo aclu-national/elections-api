@@ -4,7 +4,7 @@
   "properties": {
     "area_land":54816722,
     "area_water":44549509,
-    "fips_id":"72095",
+    "geoid":"72095",
     "name":"Maunabo",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":511282856,
     "area_water":2285944,
-    "fips_id":"21189",
+    "geoid":"21189",
     "name":"Owsley",
     "state":"ky"
 },

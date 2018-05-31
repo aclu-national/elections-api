@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1800451886,
     "area_water":12487951,
-    "fips_id":"28103",
+    "geoid":"28103",
     "name":"Noxubee",
     "state":"ms"
 },

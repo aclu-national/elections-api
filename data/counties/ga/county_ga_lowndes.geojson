@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1285022595,
     "area_water":37361466,
-    "fips_id":"13185",
+    "geoid":"13185",
     "name":"Lowndes",
     "state":"ga"
 },

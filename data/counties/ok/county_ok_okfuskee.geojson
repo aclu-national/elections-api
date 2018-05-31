@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1602086606,
     "area_water":26680140,
-    "fips_id":"40107",
+    "geoid":"40107",
     "name":"Okfuskee",
     "state":"ok"
 },

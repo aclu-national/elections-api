@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1313488286,
     "area_water":13263005,
-    "fips_id":"13001",
+    "geoid":"13001",
     "name":"Appling",
     "state":"ga"
 },

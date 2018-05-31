@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1180628927,
     "area_water":48674249,
-    "fips_id":"20045",
+    "geoid":"20045",
     "name":"Douglas",
     "state":"ks"
 },

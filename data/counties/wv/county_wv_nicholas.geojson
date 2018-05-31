@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1675296015,
     "area_water":19608977,
-    "fips_id":"54067",
+    "geoid":"54067",
     "name":"Nicholas",
     "state":"wv"
 },

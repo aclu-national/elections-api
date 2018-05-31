@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1162938788,
     "area_water":17584342,
-    "fips_id":"37169",
+    "geoid":"37169",
     "name":"Stokes",
     "state":"nc"
 },

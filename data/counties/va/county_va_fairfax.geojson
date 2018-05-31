@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1012584627,
     "area_water":40233137,
-    "fips_id":"51059",
+    "geoid":"51059",
     "name":"Fairfax",
     "state":"va"
 },

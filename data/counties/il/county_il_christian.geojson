@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1837278858,
     "area_water":16221514,
-    "fips_id":"17021",
+    "geoid":"17021",
     "name":"Christian",
     "state":"il"
 },

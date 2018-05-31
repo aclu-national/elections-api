@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17979586953,
     "area_water":891043654,
-    "fips_id":"49045",
+    "geoid":"49045",
     "name":"Tooele",
     "state":"ut"
 },

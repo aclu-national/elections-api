@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1417462632,
     "area_water":7359184,
-    "fips_id":"29005",
+    "geoid":"29005",
     "name":"Atchison",
     "state":"mo"
 },

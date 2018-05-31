@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5286926133,
     "area_water":19215617,
-    "fips_id":"40139",
+    "geoid":"40139",
     "name":"Texas",
     "state":"ok"
 },

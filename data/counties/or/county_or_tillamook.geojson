@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2855122944,
     "area_water":595798838,
-    "fips_id":"41057",
+    "geoid":"41057",
     "name":"Tillamook",
     "state":"or"
 },

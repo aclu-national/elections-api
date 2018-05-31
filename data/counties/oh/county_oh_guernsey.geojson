@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1352631185,
     "area_water":15666075,
-    "fips_id":"39059",
+    "geoid":"39059",
     "name":"Guernsey",
     "state":"oh"
 },

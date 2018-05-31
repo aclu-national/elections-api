@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1305376708,
     "area_water":7307012,
-    "fips_id":"29103",
+    "geoid":"29103",
     "name":"Knox",
     "state":"mo"
 },

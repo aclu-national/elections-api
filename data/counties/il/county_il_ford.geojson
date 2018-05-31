@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1257719718,
     "area_water":1640286,
-    "fips_id":"17053",
+    "geoid":"17053",
     "name":"Ford",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1762766490,
     "area_water":24802077,
-    "fips_id":"13107",
+    "geoid":"13107",
     "name":"Emanuel",
     "state":"ga"
 },

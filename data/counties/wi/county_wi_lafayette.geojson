@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1640985307,
     "area_water":2539100,
-    "fips_id":"55065",
+    "geoid":"55065",
     "name":"Lafayette",
     "state":"wi"
 },

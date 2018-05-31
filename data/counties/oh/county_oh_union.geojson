@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1118204745,
     "area_water":13288624,
-    "fips_id":"39159",
+    "geoid":"39159",
     "name":"Union",
     "state":"oh"
 },

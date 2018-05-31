@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1689288878,
     "area_water":9852495,
-    "fips_id":"05121",
+    "geoid":"05121",
     "name":"Randolph",
     "state":"ar"
 },

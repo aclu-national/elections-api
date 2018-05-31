@@ -4,7 +4,7 @@
   "properties": {
     "area_land":29001298929,
     "area_water":54174161,
-    "fips_id":"04001",
+    "geoid":"04001",
     "name":"Apache",
     "state":"az"
 },

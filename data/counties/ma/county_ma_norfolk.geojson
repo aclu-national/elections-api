@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1025865057,
     "area_water":124987270,
-    "fips_id":"25021",
+    "geoid":"25021",
     "name":"Norfolk",
     "state":"ma"
 },

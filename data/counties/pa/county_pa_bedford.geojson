@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2621836594,
     "area_water":11935889,
-    "fips_id":"42009",
+    "geoid":"42009",
     "name":"Bedford",
     "state":"pa"
 },

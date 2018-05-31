@@ -4,7 +4,7 @@
   "properties": {
     "area_land":100676181,
     "area_water":139537,
-    "fips_id":"72101",
+    "geoid":"72101",
     "name":"Morovis",
     "state":"pr"
 },

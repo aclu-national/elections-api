@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1704178258,
     "area_water":80260317,
-    "fips_id":"41009",
+    "geoid":"41009",
     "name":"Columbia",
     "state":"or"
 },

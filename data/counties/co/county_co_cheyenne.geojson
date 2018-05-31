@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4605714032,
     "area_water":8166134,
-    "fips_id":"08017",
+    "geoid":"08017",
     "name":"Cheyenne",
     "state":"co"
 },

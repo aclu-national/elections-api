@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1486153357,
     "area_water":3025340,
-    "fips_id":"31169",
+    "geoid":"31169",
     "name":"Thayer",
     "state":"ne"
 },

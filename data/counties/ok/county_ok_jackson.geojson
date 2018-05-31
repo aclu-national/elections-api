@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2078855934,
     "area_water":4114419,
-    "fips_id":"40065",
+    "geoid":"40065",
     "name":"Jackson",
     "state":"ok"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5012175320,
     "area_water":112509475,
-    "fips_id":"06047",
+    "geoid":"06047",
     "name":"Merced",
     "state":"ca"
 },

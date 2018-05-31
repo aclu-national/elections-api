@@ -4,7 +4,7 @@
   "properties": {
     "area_land":933901529,
     "area_water":18506801,
-    "fips_id":"54089",
+    "geoid":"54089",
     "name":"Summers",
     "state":"wv"
 },

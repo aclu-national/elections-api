@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1062066012,
     "area_water":15393112,
-    "fips_id":"28025",
+    "geoid":"28025",
     "name":"Clay",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1382436644,
     "area_water":10286511,
-    "fips_id":"37171",
+    "geoid":"37171",
     "name":"Surry",
     "state":"nc"
 },

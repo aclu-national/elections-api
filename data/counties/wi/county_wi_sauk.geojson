@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2153665639,
     "area_water":45713371,
-    "fips_id":"55111",
+    "geoid":"55111",
     "name":"Sauk",
     "state":"wi"
 },

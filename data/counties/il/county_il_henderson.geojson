@@ -4,7 +4,7 @@
   "properties": {
     "area_land":981273713,
     "area_water":42340542,
-    "fips_id":"17071",
+    "geoid":"17071",
     "name":"Henderson",
     "state":"il"
 },

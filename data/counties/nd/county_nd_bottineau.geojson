@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4321196493,
     "area_water":74864998,
-    "fips_id":"38009",
+    "geoid":"38009",
     "name":"Bottineau",
     "state":"nd"
 },

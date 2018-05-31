@@ -4,7 +4,7 @@
   "properties": {
     "area_land":802893902,
     "area_water":8425697,
-    "fips_id":"51139",
+    "geoid":"51139",
     "name":"Page",
     "state":"va"
 },

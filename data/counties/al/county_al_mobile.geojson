@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3184127436,
     "area_water":1073844850,
-    "fips_id":"01097",
+    "geoid":"01097",
     "name":"Mobile",
     "state":"al"
 },

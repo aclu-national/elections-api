@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1244585902,
     "area_water":5585892,
-    "fips_id":"18133",
+    "geoid":"18133",
     "name":"Putnam",
     "state":"in"
 },

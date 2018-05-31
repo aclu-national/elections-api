@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2404946720,
     "area_water":22227413,
-    "fips_id":"48253",
+    "geoid":"48253",
     "name":"Jones",
     "state":"tx"
 },

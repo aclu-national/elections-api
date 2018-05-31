@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1372929582,
     "area_water":221812520,
-    "fips_id":"55009",
+    "geoid":"55009",
     "name":"Brown",
     "state":"wi"
 },

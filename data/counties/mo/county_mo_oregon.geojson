@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2045563369,
     "area_water":4528610,
-    "fips_id":"29149",
+    "geoid":"29149",
     "name":"Oregon",
     "state":"mo"
 },

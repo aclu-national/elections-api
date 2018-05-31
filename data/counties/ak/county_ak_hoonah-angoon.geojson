@@ -4,7 +4,7 @@
   "properties": {
     "area_land":16981434901,
     "area_water":7808657621,
-    "fips_id":"02105",
+    "geoid":"02105",
     "name":"Hoonah-Angoon",
     "state":"ak"
 },

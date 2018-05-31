@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2641501922,
     "area_water":2738021,
-    "fips_id":"20023",
+    "geoid":"20023",
     "name":"Cheyenne",
     "state":"ks"
 },

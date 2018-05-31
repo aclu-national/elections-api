@@ -4,7 +4,7 @@
   "properties": {
     "area_land":921722888,
     "area_water":15318763,
-    "fips_id":"13177",
+    "geoid":"13177",
     "name":"Lee",
     "state":"ga"
 },

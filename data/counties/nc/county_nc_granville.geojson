@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1377849157,
     "area_water":14503651,
-    "fips_id":"37077",
+    "geoid":"37077",
     "name":"Granville",
     "state":"nc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1964598160,
     "area_water":24693146,
-    "fips_id":"17173",
+    "geoid":"17173",
     "name":"Shelby",
     "state":"il"
 },

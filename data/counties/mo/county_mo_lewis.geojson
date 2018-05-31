@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1308052634,
     "area_water":14901556,
-    "fips_id":"29111",
+    "geoid":"29111",
     "name":"Lewis",
     "state":"mo"
 },

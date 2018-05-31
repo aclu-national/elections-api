@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1671303693,
     "area_water":20263208,
-    "fips_id":"20099",
+    "geoid":"20099",
     "name":"Labette",
     "state":"ks"
 },

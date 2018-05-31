@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10816855244,
     "area_water":56325882,
-    "fips_id":"35015",
+    "geoid":"35015",
     "name":"Eddy",
     "state":"nm"
 },

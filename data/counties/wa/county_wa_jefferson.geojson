@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4671790710,
     "area_water":994835543,
-    "fips_id":"53031",
+    "geoid":"53031",
     "name":"Jefferson",
     "state":"wa"
 },

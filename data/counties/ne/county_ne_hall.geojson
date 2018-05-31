@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1414817966,
     "area_water":15229160,
-    "fips_id":"31079",
+    "geoid":"31079",
     "name":"Hall",
     "state":"ne"
 },

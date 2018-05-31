@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1489645186,
     "area_water":1718484,
-    "fips_id":"31129",
+    "geoid":"31129",
     "name":"Nuckolls",
     "state":"ne"
 },

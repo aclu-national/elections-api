@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1190154332,
     "area_water":27368202,
-    "fips_id":"13015",
+    "geoid":"13015",
     "name":"Bartow",
     "state":"ga"
 },

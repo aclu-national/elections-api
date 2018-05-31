@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1482793604,
     "area_water":8595507,
-    "fips_id":"31185",
+    "geoid":"31185",
     "name":"York",
     "state":"ne"
 },

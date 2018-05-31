@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1299609263,
     "area_water":6380767,
-    "fips_id":"28017",
+    "geoid":"28017",
     "name":"Chickasaw",
     "state":"ms"
 },

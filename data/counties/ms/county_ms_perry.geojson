@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1676259638,
     "area_water":7754345,
-    "fips_id":"28111",
+    "geoid":"28111",
     "name":"Perry",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":689791858,
     "area_water":27162461,
-    "fips_id":"21217",
+    "geoid":"21217",
     "name":"Taylor",
     "state":"ky"
 },

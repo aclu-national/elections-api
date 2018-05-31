@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1356030322,
     "area_water":56685361,
-    "fips_id":"37119",
+    "geoid":"37119",
     "name":"Mecklenburg",
     "state":"nc"
 },

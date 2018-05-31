@@ -4,7 +4,7 @@
   "properties": {
     "area_land":969736578,
     "area_water":66797773,
-    "fips_id":"24045",
+    "geoid":"24045",
     "name":"Wicomico",
     "state":"md"
 },

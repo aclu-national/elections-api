@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1514884892,
     "area_water":15309107,
-    "fips_id":"31023",
+    "geoid":"31023",
     "name":"Butler",
     "state":"ne"
 },

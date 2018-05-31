@@ -4,7 +4,7 @@
   "properties": {
     "area_land":12971010170,
     "area_water":44234236,
-    "fips_id":"30087",
+    "geoid":"30087",
     "name":"Rosebud",
     "state":"mt"
 },

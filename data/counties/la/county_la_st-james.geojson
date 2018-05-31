@@ -4,7 +4,7 @@
   "properties": {
     "area_land":625582188,
     "area_water":42168610,
-    "fips_id":"22093",
+    "geoid":"22093",
     "name":"St. James",
     "state":"la"
 },

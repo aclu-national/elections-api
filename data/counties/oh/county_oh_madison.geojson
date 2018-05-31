@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1206646148,
     "area_water":1919019,
-    "fips_id":"39097",
+    "geoid":"39097",
     "name":"Madison",
     "state":"oh"
 },

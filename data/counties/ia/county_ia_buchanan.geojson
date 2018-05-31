@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478934776,
     "area_water":5427666,
-    "fips_id":"19019",
+    "geoid":"19019",
     "name":"Buchanan",
     "state":"ia"
 },

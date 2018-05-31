@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1419419128,
     "area_water":3530746,
-    "fips_id":"08115",
+    "geoid":"08115",
     "name":"Sedgwick",
     "state":"co"
 },

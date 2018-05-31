@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2090842776,
     "area_water":28985734,
-    "fips_id":"13175",
+    "geoid":"13175",
     "name":"Laurens",
     "state":"ga"
 },

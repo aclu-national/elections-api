@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2071252452,
     "area_water":34329,
-    "fips_id":"48501",
+    "geoid":"48501",
     "name":"Yoakum",
     "state":"tx"
 },

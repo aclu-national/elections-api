@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1547925975,
     "area_water":6308712,
-    "fips_id":"47017",
+    "geoid":"47017",
     "name":"Carroll",
     "state":"tn"
 },

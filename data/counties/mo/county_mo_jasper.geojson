@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1653653979,
     "area_water":7233655,
-    "fips_id":"29097",
+    "geoid":"29097",
     "name":"Jasper",
     "state":"mo"
 },

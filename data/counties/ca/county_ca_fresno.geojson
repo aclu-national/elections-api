@@ -4,7 +4,7 @@
   "properties": {
     "area_land":15431410219,
     "area_water":137339029,
-    "fips_id":"06019",
+    "geoid":"06019",
     "name":"Fresno",
     "state":"ca"
 },

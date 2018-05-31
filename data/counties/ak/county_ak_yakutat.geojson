@@ -4,7 +4,7 @@
   "properties": {
     "area_land":19746741191,
     "area_water":35390272145,
-    "fips_id":"02282",
+    "geoid":"02282",
     "name":"Yakutat",
     "state":"ak"
 },

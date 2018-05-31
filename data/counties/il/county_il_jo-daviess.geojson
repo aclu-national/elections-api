@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1556339187,
     "area_water":45776828,
-    "fips_id":"17085",
+    "geoid":"17085",
     "name":"Jo Daviess",
     "state":"il"
 },

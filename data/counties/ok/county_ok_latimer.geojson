@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1870180320,
     "area_water":18213565,
-    "fips_id":"40077",
+    "geoid":"40077",
     "name":"Latimer",
     "state":"ok"
 },

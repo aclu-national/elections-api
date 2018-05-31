@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1981580823,
     "area_water":18138022,
-    "fips_id":"28095",
+    "geoid":"28095",
     "name":"Monroe",
     "state":"ms"
 },

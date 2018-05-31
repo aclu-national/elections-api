@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2623913292,
     "area_water":16405784,
-    "fips_id":"31047",
+    "geoid":"31047",
     "name":"Dawson",
     "state":"ne"
 },

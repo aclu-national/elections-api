@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2282893859,
     "area_water":22521211,
-    "fips_id":"01107",
+    "geoid":"01107",
     "name":"Pickens",
     "state":"al"
 },

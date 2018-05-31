@@ -4,7 +4,7 @@
   "properties": {
     "area_land":60201690,
     "area_water":48075984,
-    "fips_id":"72137",
+    "geoid":"72137",
     "name":"Toa Baja",
     "state":"pr"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":38679307,
     "area_water":1070269,
-    "fips_id":"51510",
+    "geoid":"51510",
     "name":"Alexandria",
     "state":"va"
 },

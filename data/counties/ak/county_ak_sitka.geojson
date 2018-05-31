@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7433222810,
     "area_water":5037940435,
-    "fips_id":"02220",
+    "geoid":"02220",
     "name":"Sitka",
     "state":"ak"
 },

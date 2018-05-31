@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1229335996,
     "area_water":43792937,
-    "fips_id":"36109",
+    "geoid":"36109",
     "name":"Tompkins",
     "state":"ny"
 },

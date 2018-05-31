@@ -4,7 +4,7 @@
   "properties": {
     "area_land":972442316,
     "area_water":1801922,
-    "fips_id":"47117",
+    "geoid":"47117",
     "name":"Marshall",
     "state":"tn"
 },

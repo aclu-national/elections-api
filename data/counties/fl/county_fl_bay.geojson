@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1964404472,
     "area_water":711449254,
-    "fips_id":"12005",
+    "geoid":"12005",
     "name":"Bay",
     "state":"fl"
 },

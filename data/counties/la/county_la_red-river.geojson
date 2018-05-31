@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1007739206,
     "area_water":34327512,
-    "fips_id":"22081",
+    "geoid":"22081",
     "name":"Red River",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2016295994,
     "area_water":36695627,
-    "fips_id":"19043",
+    "geoid":"19043",
     "name":"Clayton",
     "state":"ia"
 },

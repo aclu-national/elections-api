@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1593376791,
     "area_water":18038347,
-    "fips_id":"05059",
+    "geoid":"05059",
     "name":"Hot Spring",
     "state":"ar"
 },

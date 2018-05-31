@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2250356164,
     "area_water":1113338,
-    "fips_id":"20069",
+    "geoid":"20069",
     "name":"Gray",
     "state":"ks"
 },

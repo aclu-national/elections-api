@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1039437339,
     "area_water":15502922,
-    "fips_id":"39165",
+    "geoid":"39165",
     "name":"Warren",
     "state":"oh"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1478123917,
     "area_water":10485470,
-    "fips_id":"13321",
+    "geoid":"13321",
     "name":"Worth",
     "state":"ga"
 },

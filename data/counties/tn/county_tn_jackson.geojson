@@ -4,7 +4,7 @@
   "properties": {
     "area_land":799368960,
     "area_water":28196490,
-    "fips_id":"47087",
+    "geoid":"47087",
     "name":"Jackson",
     "state":"tn"
 },

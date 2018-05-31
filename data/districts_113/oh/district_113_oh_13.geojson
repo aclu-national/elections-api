@@ -3,9 +3,10 @@
   "type": "Feature",
   "properties": {
     "area":2388384721.723565,
-    "district_num":13,
+    "district_num":"13",
     "end_date":"2019-01-03",
     "end_session":115,
+    "geoid":"3913",
     "start_date":"2013-01-03",
     "start_session":113,
     "state":"oh"

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4793134981,
     "area_water":133993739,
-    "fips_id":"40089",
+    "geoid":"40089",
     "name":"McCurtain",
     "state":"ok"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1520439790,
     "area_water":43128953,
-    "fips_id":"16027",
+    "geoid":"16027",
     "name":"Canyon",
     "state":"id"
 },

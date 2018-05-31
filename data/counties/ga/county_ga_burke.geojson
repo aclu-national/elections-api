@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2141993539,
     "area_water":20601185,
-    "fips_id":"13033",
+    "geoid":"13033",
     "name":"Burke",
     "state":"ga"
 },

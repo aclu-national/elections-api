@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1233156423,
     "area_water":17075472,
-    "fips_id":"31051",
+    "geoid":"31051",
     "name":"Dixon",
     "state":"ne"
 },

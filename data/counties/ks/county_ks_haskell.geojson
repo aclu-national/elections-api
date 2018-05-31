@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1495773052,
     "area_water":910409,
-    "fips_id":"20081",
+    "geoid":"20081",
     "name":"Haskell",
     "state":"ks"
 },

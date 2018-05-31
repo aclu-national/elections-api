@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1981394520,
     "area_water":33643131,
-    "fips_id":"27073",
+    "geoid":"27073",
     "name":"Lac qui Parle",
     "state":"mn"
 },

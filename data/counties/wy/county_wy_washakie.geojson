@@ -4,7 +4,7 @@
   "properties": {
     "area_land":5798120186,
     "area_water":10455585,
-    "fips_id":"56043",
+    "geoid":"56043",
     "name":"Washakie",
     "state":"wy"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":449199631,
     "area_water":66861670,
-    "fips_id":"36087",
+    "geoid":"36087",
     "name":"Rockland",
     "state":"ny"
 },

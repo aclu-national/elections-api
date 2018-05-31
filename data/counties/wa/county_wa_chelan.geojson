@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7565788660,
     "area_water":189679746,
-    "fips_id":"53007",
+    "geoid":"53007",
     "name":"Chelan",
     "state":"wa"
 },

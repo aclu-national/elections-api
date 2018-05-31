@@ -4,7 +4,7 @@
   "properties": {
     "area_land":894010291,
     "area_water":7898528,
-    "fips_id":"42077",
+    "geoid":"42077",
     "name":"Lehigh",
     "state":"pa"
 },

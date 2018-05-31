@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1829198151,
     "area_water":31268858,
-    "fips_id":"26025",
+    "geoid":"26025",
     "name":"Calhoun",
     "state":"mi"
 },

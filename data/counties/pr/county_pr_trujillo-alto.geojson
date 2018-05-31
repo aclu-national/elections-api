@@ -4,7 +4,7 @@
   "properties": {
     "area_land":53786135,
     "area_water":1592601,
-    "fips_id":"72139",
+    "geoid":"72139",
     "name":"Trujillo Alto",
     "state":"pr"
 },

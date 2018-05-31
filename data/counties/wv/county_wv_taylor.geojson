@@ -4,7 +4,7 @@
   "properties": {
     "area_land":447475054,
     "area_water":7532835,
-    "fips_id":"54091",
+    "geoid":"54091",
     "name":"Taylor",
     "state":"wv"
 },

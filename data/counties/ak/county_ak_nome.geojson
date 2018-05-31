@@ -4,7 +4,7 @@
   "properties": {
     "area_land":59496552709,
     "area_water":13774839669,
-    "fips_id":"02180",
+    "geoid":"02180",
     "name":"Nome",
     "state":"ak"
 },

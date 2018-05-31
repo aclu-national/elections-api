@@ -1,10 +1,10 @@
 {
-  "id": "state_state_wy.geojson",
+  "id": "state_wy.geojson",
   "type": "Feature",
   "properties": {
     "area_land":251465641446,
     "area_water":1860628076,
-    "fips_id":"56",
+    "geoid":"56",
     "name":"Wyoming",
     "state":"wy"
 },

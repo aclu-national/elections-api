@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1493182633,
     "area_water":126266425,
-    "fips_id":"40061",
+    "geoid":"40061",
     "name":"Haskell",
     "state":"ok"
 },

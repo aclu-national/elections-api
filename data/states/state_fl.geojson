@@ -1,10 +1,10 @@
 {
-  "id": "state_state_fl.geojson",
+  "id": "state_fl.geojson",
   "type": "Feature",
   "properties": {
     "area_land":138911437206,
     "area_water":31398800291,
-    "fips_id":"12",
+    "geoid":"12",
     "name":"Florida",
     "state":"fl"
 },

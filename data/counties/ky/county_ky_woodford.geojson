@@ -4,7 +4,7 @@
   "properties": {
     "area_land":489012357,
     "area_water":8307144,
-    "fips_id":"21239",
+    "geoid":"21239",
     "name":"Woodford",
     "state":"ky"
 },

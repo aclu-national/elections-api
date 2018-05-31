@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1779389357,
     "area_water":12016544,
-    "fips_id":"50017",
+    "geoid":"50017",
     "name":"Orange",
     "state":"vt"
 },

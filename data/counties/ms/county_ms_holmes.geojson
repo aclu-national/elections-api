@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1959776825,
     "area_water":20568825,
-    "fips_id":"28051",
+    "geoid":"28051",
     "name":"Holmes",
     "state":"ms"
 },

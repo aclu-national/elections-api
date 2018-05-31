@@ -4,7 +4,7 @@
   "properties": {
     "area_land":799725227,
     "area_water":35458838,
-    "fips_id":"18151",
+    "geoid":"18151",
     "name":"Steuben",
     "state":"in"
 },

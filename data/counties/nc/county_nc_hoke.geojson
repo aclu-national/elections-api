@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1010380313,
     "area_water":3981006,
-    "fips_id":"37093",
+    "geoid":"37093",
     "name":"Hoke",
     "state":"nc"
 },

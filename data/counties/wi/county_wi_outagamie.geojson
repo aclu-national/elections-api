@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1651321050,
     "area_water":18205949,
-    "fips_id":"55087",
+    "geoid":"55087",
     "name":"Outagamie",
     "state":"wi"
 },

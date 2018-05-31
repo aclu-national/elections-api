@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1243615773,
     "area_water":46494677,
-    "fips_id":"47013",
+    "geoid":"47013",
     "name":"Campbell",
     "state":"tn"
 },

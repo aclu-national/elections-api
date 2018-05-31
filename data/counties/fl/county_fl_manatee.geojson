@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1924699210,
     "area_water":387514585,
-    "fips_id":"12081",
+    "geoid":"12081",
     "name":"Manatee",
     "state":"fl"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1425177705,
     "area_water":4662498,
-    "fips_id":"29093",
+    "geoid":"29093",
     "name":"Iron",
     "state":"mo"
 },

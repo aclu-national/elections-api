@@ -4,7 +4,7 @@
   "properties": {
     "area_land":16015869999,
     "area_water":22063764,
-    "fips_id":"48043",
+    "geoid":"48043",
     "name":"Brewster",
     "state":"tx"
 },

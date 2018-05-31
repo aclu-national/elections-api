@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2071893246,
     "area_water":9745365,
-    "fips_id":"45041",
+    "geoid":"45041",
     "name":"Florence",
     "state":"sc"
 },

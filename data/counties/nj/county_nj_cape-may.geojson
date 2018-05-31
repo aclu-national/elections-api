@@ -4,7 +4,7 @@
   "properties": {
     "area_land":652640195,
     "area_water":953946819,
-    "fips_id":"34009",
+    "geoid":"34009",
     "name":"Cape May",
     "state":"nj"
 },

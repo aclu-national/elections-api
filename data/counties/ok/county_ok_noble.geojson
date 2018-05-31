@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1895593648,
     "area_water":27552185,
-    "fips_id":"40103",
+    "geoid":"40103",
     "name":"Noble",
     "state":"ok"
 },

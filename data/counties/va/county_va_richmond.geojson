@@ -4,7 +4,7 @@
   "properties": {
     "area_land":495991737,
     "area_water":64392325,
-    "fips_id":"51159",
+    "geoid":"51159",
     "name":"Richmond",
     "state":"va"
 },

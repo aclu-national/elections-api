@@ -4,7 +4,7 @@
   "properties": {
     "area_land":29384893,
     "area_water":481,
-    "fips_id":"72067",
+    "geoid":"72067",
     "name":"Hormigueros",
     "state":"pr"
 },

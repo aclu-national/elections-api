@@ -4,7 +4,7 @@
   "properties": {
     "area_land":274098959,
     "area_water":8274296,
-    "fips_id":"54069",
+    "geoid":"54069",
     "name":"Ohio",
     "state":"wv"
 },

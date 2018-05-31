@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1668636733,
     "area_water":16061122,
-    "fips_id":"20049",
+    "geoid":"20049",
     "name":"Elk",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2398071535,
     "area_water":190599026,
-    "fips_id":"27057",
+    "geoid":"27057",
     "name":"Hubbard",
     "state":"mn"
 },

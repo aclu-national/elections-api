@@ -4,7 +4,7 @@
   "properties": {
     "area_land":32729613863,
     "area_water":66068878,
-    "fips_id":"02068",
+    "geoid":"02068",
     "name":"Denali",
     "state":"ak"
 },

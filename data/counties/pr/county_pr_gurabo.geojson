@@ -4,7 +4,7 @@
   "properties": {
     "area_land":72228545,
     "area_water":1101116,
-    "fips_id":"72063",
+    "geoid":"72063",
     "name":"Gurabo",
     "state":"pr"
 },

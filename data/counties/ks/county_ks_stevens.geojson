@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1883604193,
     "area_water":464936,
-    "fips_id":"20189",
+    "geoid":"20189",
     "name":"Stevens",
     "state":"ks"
 },

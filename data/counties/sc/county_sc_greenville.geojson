@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2033687076,
     "area_water":25132346,
-    "fips_id":"45045",
+    "geoid":"45045",
     "name":"Greenville",
     "state":"sc"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1945540984,
     "area_water":40353306,
-    "fips_id":"29041",
+    "geoid":"29041",
     "name":"Chariton",
     "state":"mo"
 },

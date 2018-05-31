@@ -4,7 +4,7 @@
   "properties": {
     "area_land":126842531,
     "area_water":1428787,
-    "fips_id":"51680",
+    "geoid":"51680",
     "name":"Lynchburg",
     "state":"va"
 },

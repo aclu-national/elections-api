@@ -4,7 +4,7 @@
   "properties": {
     "area_land":267309256,
     "area_water":1004275270,
-    "fips_id":"25007",
+    "geoid":"25007",
     "name":"Dukes",
     "state":"ma"
 },

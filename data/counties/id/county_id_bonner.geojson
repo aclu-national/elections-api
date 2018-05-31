@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4488460265,
     "area_water":479480478,
-    "fips_id":"16017",
+    "geoid":"16017",
     "name":"Bonner",
     "state":"id"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1637993911,
     "area_water":49745785,
-    "fips_id":"29213",
+    "geoid":"29213",
     "name":"Taney",
     "state":"mo"
 },

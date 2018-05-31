@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1333913235,
     "area_water":28997739,
-    "fips_id":"26137",
+    "geoid":"26137",
     "name":"Otsego",
     "state":"mi"
 },

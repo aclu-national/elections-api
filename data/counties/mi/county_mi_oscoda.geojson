@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1465088065,
     "area_water":15136485,
-    "fips_id":"26135",
+    "geoid":"26135",
     "name":"Oscoda",
     "state":"mi"
 },

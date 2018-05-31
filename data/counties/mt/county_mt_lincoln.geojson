@@ -4,7 +4,7 @@
   "properties": {
     "area_land":9356348235,
     "area_water":161596376,
-    "fips_id":"30053",
+    "geoid":"30053",
     "name":"Lincoln",
     "state":"mt"
 },

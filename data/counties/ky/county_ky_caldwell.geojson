@@ -4,7 +4,7 @@
   "properties": {
     "area_land":893006262,
     "area_water":8700648,
-    "fips_id":"21033",
+    "geoid":"21033",
     "name":"Caldwell",
     "state":"ky"
 },

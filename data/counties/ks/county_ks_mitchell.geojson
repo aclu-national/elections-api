@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1817632928,
     "area_water":44979980,
-    "fips_id":"20123",
+    "geoid":"20123",
     "name":"Mitchell",
     "state":"ks"
 },

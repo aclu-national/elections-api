@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3188288249,
     "area_water":14426022,
-    "fips_id":"48225",
+    "geoid":"48225",
     "name":"Houston",
     "state":"tx"
 },

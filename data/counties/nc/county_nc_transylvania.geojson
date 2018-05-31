@@ -4,7 +4,7 @@
   "properties": {
     "area_land":980105287,
     "area_water":5145714,
-    "fips_id":"37175",
+    "geoid":"37175",
     "name":"Transylvania",
     "state":"nc"
 },

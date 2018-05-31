@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1273201346,
     "area_water":14186271,
-    "fips_id":"31021",
+    "geoid":"31021",
     "name":"Burt",
     "state":"ne"
 },

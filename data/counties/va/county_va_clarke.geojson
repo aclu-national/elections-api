@@ -4,7 +4,7 @@
   "properties": {
     "area_land":455661684,
     "area_water":5693068,
-    "fips_id":"51043",
+    "geoid":"51043",
     "name":"Clarke",
     "state":"va"
 },

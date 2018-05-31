@@ -4,7 +4,7 @@
   "properties": {
     "area_land":819848737,
     "area_water":4016362,
-    "fips_id":"21203",
+    "geoid":"21203",
     "name":"Rockcastle",
     "state":"ky"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1355525949,
     "area_water":2026870042,
-    "fips_id":"26127",
+    "geoid":"26127",
     "name":"Oceana",
     "state":"mi"
 },

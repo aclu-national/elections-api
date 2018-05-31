@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2419464748,
     "area_water":7469568,
-    "fips_id":"45089",
+    "geoid":"45089",
     "name":"Williamsburg",
     "state":"sc"
 },

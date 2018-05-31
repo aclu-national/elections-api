@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2299868230,
     "area_water":23178794,
-    "fips_id":"42035",
+    "geoid":"42035",
     "name":"Clinton",
     "state":"pa"
 },

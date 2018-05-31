@@ -4,7 +4,7 @@
   "properties": {
     "area_land":609245346,
     "area_water":55231610,
-    "fips_id":"13253",
+    "geoid":"13253",
     "name":"Seminole",
     "state":"ga"
 },

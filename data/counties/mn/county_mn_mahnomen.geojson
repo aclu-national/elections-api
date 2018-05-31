@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1444886580,
     "area_water":64851262,
-    "fips_id":"27087",
+    "geoid":"27087",
     "name":"Mahnomen",
     "state":"mn"
 },

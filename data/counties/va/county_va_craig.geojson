@@ -4,7 +4,7 @@
   "properties": {
     "area_land":849759834,
     "area_water":2803739,
-    "fips_id":"51045",
+    "geoid":"51045",
     "name":"Craig",
     "state":"va"
 },

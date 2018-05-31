@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1187267191,
     "area_water":38609225,
-    "fips_id":"47167",
+    "geoid":"47167",
     "name":"Tipton",
     "state":"tn"
 },

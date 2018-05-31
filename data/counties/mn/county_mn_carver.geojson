@@ -4,7 +4,7 @@
   "properties": {
     "area_land":917348283,
     "area_water":56768380,
-    "fips_id":"27019",
+    "geoid":"27019",
     "name":"Carver",
     "state":"mn"
 },

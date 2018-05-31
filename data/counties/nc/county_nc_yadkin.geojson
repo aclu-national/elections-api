@@ -4,7 +4,7 @@
   "properties": {
     "area_land":867492667,
     "area_water":7236018,
-    "fips_id":"37197",
+    "geoid":"37197",
     "name":"Yadkin",
     "state":"nc"
 },

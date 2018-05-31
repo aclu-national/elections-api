@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1098738405,
     "area_water":6065437,
-    "fips_id":"39135",
+    "geoid":"39135",
     "name":"Preble",
     "state":"oh"
 },

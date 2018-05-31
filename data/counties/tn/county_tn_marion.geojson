@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1290244637,
     "area_water":36484742,
-    "fips_id":"47115",
+    "geoid":"47115",
     "name":"Marion",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1627640379,
     "area_water":27215050,
-    "fips_id":"29107",
+    "geoid":"29107",
     "name":"Lafayette",
     "state":"mo"
 },

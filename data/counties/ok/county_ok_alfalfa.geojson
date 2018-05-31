@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2244107192,
     "area_water":38546675,
-    "fips_id":"40003",
+    "geoid":"40003",
     "name":"Alfalfa",
     "state":"ok"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1024769248,
     "area_water":5734092,
-    "fips_id":"18045",
+    "geoid":"18045",
     "name":"Fountain",
     "state":"in"
 },

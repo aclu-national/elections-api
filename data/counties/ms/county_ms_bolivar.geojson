@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2270541554,
     "area_water":75515374,
-    "fips_id":"28011",
+    "geoid":"28011",
     "name":"Bolivar",
     "state":"ms"
 },

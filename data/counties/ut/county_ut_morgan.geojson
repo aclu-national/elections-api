@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1577739361,
     "area_water":4437369,
-    "fips_id":"49029",
+    "geoid":"49029",
     "name":"Morgan",
     "state":"ut"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":16673676,
     "area_water":219579,
-    "fips_id":"51530",
+    "geoid":"51530",
     "name":"Buena Vista",
     "state":"va"
 },

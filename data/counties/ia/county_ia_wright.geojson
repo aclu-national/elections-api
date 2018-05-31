@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1503286935,
     "area_water":4703964,
-    "fips_id":"19197",
+    "geoid":"19197",
     "name":"Wright",
     "state":"ia"
 },

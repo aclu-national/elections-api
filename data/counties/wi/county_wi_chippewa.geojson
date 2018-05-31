@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2611629940,
     "area_water":85231859,
-    "fips_id":"55017",
+    "geoid":"55017",
     "name":"Chippewa",
     "state":"wi"
 },

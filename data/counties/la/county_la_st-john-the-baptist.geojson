@@ -4,7 +4,7 @@
   "properties": {
     "area_land":555050557,
     "area_water":506474565,
-    "fips_id":"22095",
+    "geoid":"22095",
     "name":"St. John the Baptist",
     "state":"la"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1257367545,
     "area_water":221045256,
-    "fips_id":"12035",
+    "geoid":"12035",
     "name":"Flagler",
     "state":"fl"
 },

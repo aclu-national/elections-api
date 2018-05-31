@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1461741364,
     "area_water":28501274,
-    "fips_id":"26035",
+    "geoid":"26035",
     "name":"Clare",
     "state":"mi"
 },

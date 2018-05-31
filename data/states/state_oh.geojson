@@ -1,10 +1,10 @@
 {
-  "id": "state_state_oh.geojson",
+  "id": "state_oh.geojson",
   "type": "Feature",
   "properties": {
     "area_land":105833282399,
     "area_water":10264451012,
-    "fips_id":"39",
+    "geoid":"39",
     "name":"Ohio",
     "state":"oh"
 },

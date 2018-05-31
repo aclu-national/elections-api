@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2964714577,
     "area_water":23932649,
-    "fips_id":"42033",
+    "geoid":"42033",
     "name":"Clearfield",
     "state":"pa"
 },

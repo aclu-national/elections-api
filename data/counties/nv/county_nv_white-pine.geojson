@@ -4,7 +4,7 @@
   "properties": {
     "area_land":22985104192,
     "area_water":54678877,
-    "fips_id":"32033",
+    "geoid":"32033",
     "name":"White Pine",
     "state":"nv"
 },

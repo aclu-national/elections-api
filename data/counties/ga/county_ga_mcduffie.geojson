@@ -4,7 +4,7 @@
   "properties": {
     "area_land":666813913,
     "area_water":23119020,
-    "fips_id":"13189",
+    "geoid":"13189",
     "name":"McDuffie",
     "state":"ga"
 },

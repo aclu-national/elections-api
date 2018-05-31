@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3860298044,
     "area_water":423538790,
-    "fips_id":"30047",
+    "geoid":"30047",
     "name":"Lake",
     "state":"mt"
 },

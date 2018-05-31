@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1268824251,
     "area_water":3689043,
-    "fips_id":"47043",
+    "geoid":"47043",
     "name":"Dickson",
     "state":"tn"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1956716997,
     "area_water":29587339,
-    "fips_id":"29195",
+    "geoid":"29195",
     "name":"Saline",
     "state":"mo"
 },

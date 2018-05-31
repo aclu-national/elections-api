@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3265315042,
     "area_water":86629398,
-    "fips_id":"38023",
+    "geoid":"38023",
     "name":"Divide",
     "state":"nd"
 },

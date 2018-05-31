@@ -4,7 +4,7 @@
   "properties": {
     "area_land":781816196,
     "area_water":8009303,
-    "fips_id":"34035",
+    "geoid":"34035",
     "name":"Somerset",
     "state":"nj"
 },

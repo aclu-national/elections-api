@@ -4,7 +4,7 @@
   "properties": {
     "area_land":17126453574,
     "area_water":36946480,
-    "fips_id":"35035",
+    "geoid":"35035",
     "name":"Otero",
     "state":"nm"
 },

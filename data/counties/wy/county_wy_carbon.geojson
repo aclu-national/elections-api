@@ -4,7 +4,7 @@
   "properties": {
     "area_land":20455215011,
     "area_water":171386237,
-    "fips_id":"56007",
+    "geoid":"56007",
     "name":"Carbon",
     "state":"wy"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1108047582,
     "area_water":24800279,
-    "fips_id":"34019",
+    "geoid":"34019",
     "name":"Hunterdon",
     "state":"nj"
 },

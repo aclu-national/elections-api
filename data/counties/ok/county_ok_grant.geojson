@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2592244840,
     "area_water":7021951,
-    "fips_id":"40053",
+    "geoid":"40053",
     "name":"Grant",
     "state":"ok"
 },

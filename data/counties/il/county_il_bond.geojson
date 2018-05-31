@@ -4,7 +4,7 @@
   "properties": {
     "area_land":984918649,
     "area_water":6426353,
-    "fips_id":"17005",
+    "geoid":"17005",
     "name":"Bond",
     "state":"il"
 },

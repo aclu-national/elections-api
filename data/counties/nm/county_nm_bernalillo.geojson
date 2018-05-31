@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3007310205,
     "area_water":16190430,
-    "fips_id":"35001",
+    "geoid":"35001",
     "name":"Bernalillo",
     "state":"nm"
 },

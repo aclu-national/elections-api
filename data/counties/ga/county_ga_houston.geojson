@@ -4,7 +4,7 @@
   "properties": {
     "area_land":972671487,
     "area_water":11319233,
-    "fips_id":"13153",
+    "geoid":"13153",
     "name":"Houston",
     "state":"ga"
 },

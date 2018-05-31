@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1021248371,
     "area_water":108583504,
-    "fips_id":"47005",
+    "geoid":"47005",
     "name":"Benton",
     "state":"tn"
 },

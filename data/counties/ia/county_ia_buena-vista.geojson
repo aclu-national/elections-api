@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1488989049,
     "area_water":13791660,
-    "fips_id":"19021",
+    "geoid":"19021",
     "name":"Buena Vista",
     "state":"ia"
 },

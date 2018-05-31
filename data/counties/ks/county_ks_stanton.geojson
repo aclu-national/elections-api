@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1762104518,
     "area_water":178555,
-    "fips_id":"20187",
+    "geoid":"20187",
     "name":"Stanton",
     "state":"ks"
 },

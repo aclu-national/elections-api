@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1411163261,
     "area_water":27434034,
-    "fips_id":"47131",
+    "geoid":"47131",
     "name":"Obion",
     "state":"tn"
 },

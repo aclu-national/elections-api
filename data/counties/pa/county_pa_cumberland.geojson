@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1412834149,
     "area_water":12521844,
-    "fips_id":"42041",
+    "geoid":"42041",
     "name":"Cumberland",
     "state":"pa"
 },

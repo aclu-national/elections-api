@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2539209521,
     "area_water":554669104,
-    "fips_id":"41041",
+    "geoid":"41041",
     "name":"Lincoln",
     "state":"or"
 },

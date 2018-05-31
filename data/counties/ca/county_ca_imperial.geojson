@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10817291631,
     "area_water":790230304,
-    "fips_id":"06025",
+    "geoid":"06025",
     "name":"Imperial",
     "state":"ca"
 },

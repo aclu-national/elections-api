@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1488724884,
     "area_water":892323,
-    "fips_id":"20067",
+    "geoid":"20067",
     "name":"Grant",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1955125391,
     "area_water":32473222,
-    "fips_id":"22027",
+    "geoid":"22027",
     "name":"Claiborne",
     "state":"la"
 },

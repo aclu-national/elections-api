@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2003702672,
     "area_water":22676200,
-    "fips_id":"13049",
+    "geoid":"13049",
     "name":"Charlton",
     "state":"ga"
 },

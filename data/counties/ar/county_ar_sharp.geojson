@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1565460785,
     "area_water":5201389,
-    "fips_id":"05135",
+    "geoid":"05135",
     "name":"Sharp",
     "state":"ar"
 },

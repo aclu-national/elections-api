@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1700042284,
     "area_water":8942802,
-    "fips_id":"37021",
+    "geoid":"37021",
     "name":"Buncombe",
     "state":"nc"
 },

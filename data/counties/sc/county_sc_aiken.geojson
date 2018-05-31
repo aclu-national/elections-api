@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2774109851,
     "area_water":24619610,
-    "fips_id":"45003",
+    "geoid":"45003",
     "name":"Aiken",
     "state":"sc"
 },

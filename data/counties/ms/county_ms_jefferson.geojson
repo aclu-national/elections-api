@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1346620561,
     "area_water":18988092,
-    "fips_id":"28063",
+    "geoid":"28063",
     "name":"Jefferson",
     "state":"ms"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":13897471114,
     "area_water":22332471,
-    "fips_id":"04021",
+    "geoid":"04021",
     "name":"Pinal",
     "state":"az"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1402719352,
     "area_water":1599543,
-    "fips_id":"08091",
+    "geoid":"08091",
     "name":"Ouray",
     "state":"co"
 },

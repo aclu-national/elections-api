@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1709103300,
     "area_water":59195663,
-    "fips_id":"05071",
+    "geoid":"05071",
     "name":"Johnson",
     "state":"ar"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1197738404,
     "area_water":28425902,
-    "fips_id":"39107",
+    "geoid":"39107",
     "name":"Mercer",
     "state":"oh"
 },

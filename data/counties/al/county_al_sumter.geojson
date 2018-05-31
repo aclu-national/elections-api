@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2340898915,
     "area_water":24634883,
-    "fips_id":"01119",
+    "geoid":"01119",
     "name":"Sumter",
     "state":"al"
 },

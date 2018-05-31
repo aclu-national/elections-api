@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1090598900,
     "area_water":34469349,
-    "fips_id":"13057",
+    "geoid":"13057",
     "name":"Cherokee",
     "state":"ga"
 },

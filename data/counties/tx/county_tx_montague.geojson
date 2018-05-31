@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2411034614,
     "area_water":19087361,
-    "fips_id":"48337",
+    "geoid":"48337",
     "name":"Montague",
     "state":"tx"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4959868816,
     "area_water":78026225,
-    "fips_id":"30101",
+    "geoid":"30101",
     "name":"Toole",
     "state":"mt"
 },

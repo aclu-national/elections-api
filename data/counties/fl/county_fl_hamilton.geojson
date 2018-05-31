@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1330689579,
     "area_water":13659798,
-    "fips_id":"12047",
+    "geoid":"12047",
     "name":"Hamilton",
     "state":"fl"
 },

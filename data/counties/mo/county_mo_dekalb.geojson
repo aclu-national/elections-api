@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1091311254,
     "area_water":11561078,
-    "fips_id":"29063",
+    "geoid":"29063",
     "name":"DeKalb",
     "state":"mo"
 },

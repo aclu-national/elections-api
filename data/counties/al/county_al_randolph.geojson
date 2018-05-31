@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1503615934,
     "area_water":9285420,
-    "fips_id":"01111",
+    "geoid":"01111",
     "name":"Randolph",
     "state":"al"
 },

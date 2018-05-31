@@ -4,7 +4,7 @@
   "properties": {
     "area_land":690851081,
     "area_water":1217389,
-    "fips_id":"37079",
+    "geoid":"37079",
     "name":"Greene",
     "state":"nc"
 },

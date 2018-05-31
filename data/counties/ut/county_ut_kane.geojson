@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10333912540,
     "area_water":306169207,
-    "fips_id":"49025",
+    "geoid":"49025",
     "name":"Kane",
     "state":"ut"
 },

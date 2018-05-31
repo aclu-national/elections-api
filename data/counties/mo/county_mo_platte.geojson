@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1088302651,
     "area_water":17119867,
-    "fips_id":"29165",
+    "geoid":"29165",
     "name":"Platte",
     "state":"mo"
 },

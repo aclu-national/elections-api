@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4419537010,
     "area_water":615526050,
-    "fips_id":"02020",
+    "geoid":"02020",
     "name":"Anchorage",
     "state":"ak"
 },

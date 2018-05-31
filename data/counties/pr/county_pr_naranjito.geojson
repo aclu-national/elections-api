@@ -4,7 +4,7 @@
   "properties": {
     "area_land":70969180,
     "area_water":898339,
-    "fips_id":"72105",
+    "geoid":"72105",
     "name":"Naranjito",
     "state":"pr"
 },

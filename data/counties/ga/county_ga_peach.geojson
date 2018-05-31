@@ -4,7 +4,7 @@
   "properties": {
     "area_land":389188297,
     "area_water":2678495,
-    "fips_id":"13225",
+    "geoid":"13225",
     "name":"Peach",
     "state":"ga"
 },

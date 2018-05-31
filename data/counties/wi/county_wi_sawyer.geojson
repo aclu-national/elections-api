@@ -4,7 +4,7 @@
   "properties": {
     "area_land":3256422227,
     "area_water":240678258,
-    "fips_id":"55113",
+    "geoid":"55113",
     "name":"Sawyer",
     "state":"wi"
 },

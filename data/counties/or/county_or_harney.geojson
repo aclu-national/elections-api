@@ -4,7 +4,7 @@
   "properties": {
     "area_land":26248071434,
     "area_water":241568256,
-    "fips_id":"41025",
+    "geoid":"41025",
     "name":"Harney",
     "state":"or"
 },

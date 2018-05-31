@@ -4,7 +4,7 @@
   "properties": {
     "area_land":933548197,
     "area_water":1753031,
-    "fips_id":"47061",
+    "geoid":"47061",
     "name":"Grundy",
     "state":"tn"
 },

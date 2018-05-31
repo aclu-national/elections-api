@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1666728645,
     "area_water":20601461,
-    "fips_id":"20125",
+    "geoid":"20125",
     "name":"Montgomery",
     "state":"ks"
 },

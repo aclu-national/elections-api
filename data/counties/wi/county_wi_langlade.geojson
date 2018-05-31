@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2254971901,
     "area_water":44403904,
-    "fips_id":"55067",
+    "geoid":"55067",
     "name":"Langlade",
     "state":"wi"
 },

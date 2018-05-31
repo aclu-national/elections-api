@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1487870866,
     "area_water":11604964,
-    "fips_id":"01061",
+    "geoid":"01061",
     "name":"Geneva",
     "state":"al"
 },

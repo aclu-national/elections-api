@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1012110887,
     "area_water":534568389,
-    "fips_id":"37177",
+    "geoid":"37177",
     "name":"Tyrrell",
     "state":"nc"
 },

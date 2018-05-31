@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1037005778,
     "area_water":8862741,
-    "fips_id":"13183",
+    "geoid":"13183",
     "name":"Long",
     "state":"ga"
 },

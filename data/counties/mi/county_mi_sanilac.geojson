@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2493045473,
     "area_water":1624882510,
-    "fips_id":"26151",
+    "geoid":"26151",
     "name":"Sanilac",
     "state":"mi"
 },

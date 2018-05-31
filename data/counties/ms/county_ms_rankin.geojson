@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2008322209,
     "area_water":79429951,
-    "fips_id":"28121",
+    "geoid":"28121",
     "name":"Rankin",
     "state":"ms"
 },

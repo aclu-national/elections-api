@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1397961182,
     "area_water":2503283,
-    "fips_id":"20079",
+    "geoid":"20079",
     "name":"Harvey",
     "state":"ks"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":172725728,
     "area_water":1051790,
-    "fips_id":"72001",
+    "geoid":"72001",
     "name":"Adjuntas",
     "state":"pr"
 },

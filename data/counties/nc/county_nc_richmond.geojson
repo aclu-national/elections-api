@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1226882608,
     "area_water":15537990,
-    "fips_id":"37153",
+    "geoid":"37153",
     "name":"Richmond",
     "state":"nc"
 },

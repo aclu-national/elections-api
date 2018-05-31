@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1818360011,
     "area_water":1724498213,
-    "fips_id":"39007",
+    "geoid":"39007",
     "name":"Ashtabula",
     "state":"oh"
 },

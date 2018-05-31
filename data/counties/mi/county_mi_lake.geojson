@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1470022082,
     "area_water":17522231,
-    "fips_id":"26085",
+    "geoid":"26085",
     "name":"Lake",
     "state":"mi"
 },

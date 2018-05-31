@@ -4,7 +4,7 @@
   "properties": {
     "area_land":10510588451,
     "area_water":1794793532,
-    "fips_id":"06037",
+    "geoid":"06037",
     "name":"Los Angeles",
     "state":"ca"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1778166034,
     "area_water":1718583,
-    "fips_id":"31011",
+    "geoid":"31011",
     "name":"Boone",
     "state":"ne"
 },

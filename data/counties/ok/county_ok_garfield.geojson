@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2741479095,
     "area_water":4075930,
-    "fips_id":"40047",
+    "geoid":"40047",
     "name":"Garfield",
     "state":"ok"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2164099093,
     "area_water":19582444,
-    "fips_id":"12077",
+    "geoid":"12077",
     "name":"Liberty",
     "state":"fl"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1604162229,
     "area_water":12132094,
-    "fips_id":"47149",
+    "geoid":"47149",
     "name":"Rutherford",
     "state":"tn"
 },

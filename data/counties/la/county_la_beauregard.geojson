@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2997502172,
     "area_water":21999001,
-    "fips_id":"22011",
+    "geoid":"22011",
     "name":"Beauregard",
     "state":"la"
 },

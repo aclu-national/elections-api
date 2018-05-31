@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1125581216,
     "area_water":18090601,
-    "fips_id":"47025",
+    "geoid":"47025",
     "name":"Claiborne",
     "state":"tn"
 },

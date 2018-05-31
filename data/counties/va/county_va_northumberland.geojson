@@ -4,7 +4,7 @@
   "properties": {
     "area_land":495728041,
     "area_water":243986806,
-    "fips_id":"51133",
+    "geoid":"51133",
     "name":"Northumberland",
     "state":"va"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2702180626,
     "area_water":489194665,
-    "fips_id":"12123",
+    "geoid":"12123",
     "name":"Taylor",
     "state":"fl"
 },

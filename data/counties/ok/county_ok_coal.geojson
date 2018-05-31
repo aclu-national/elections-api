@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1338200617,
     "area_water":12079759,
-    "fips_id":"40029",
+    "geoid":"40029",
     "name":"Coal",
     "state":"ok"
 },

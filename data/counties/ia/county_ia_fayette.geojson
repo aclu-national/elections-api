@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1892840950,
     "area_water":1320705,
-    "fips_id":"19065",
+    "geoid":"19065",
     "name":"Fayette",
     "state":"ia"
 },

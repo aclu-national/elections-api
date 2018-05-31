@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1579167161,
     "area_water":31952420,
-    "fips_id":"20161",
+    "geoid":"20161",
     "name":"Riley",
     "state":"ks"
 },

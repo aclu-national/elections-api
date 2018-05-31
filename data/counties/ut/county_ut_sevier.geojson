@@ -4,7 +4,7 @@
   "properties": {
     "area_land":4948000005,
     "area_water":20260738,
-    "fips_id":"49041",
+    "geoid":"49041",
     "name":"Sevier",
     "state":"ut"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":137547974,
     "area_water":256425,
-    "fips_id":"72129",
+    "geoid":"72129",
     "name":"San Lorenzo",
     "state":"pr"
 },

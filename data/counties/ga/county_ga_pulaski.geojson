@@ -4,7 +4,7 @@
   "properties": {
     "area_land":645503546,
     "area_water":5131020,
-    "fips_id":"13235",
+    "geoid":"13235",
     "name":"Pulaski",
     "state":"ga"
 },

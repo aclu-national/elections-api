@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1828989824,
     "area_water":9195190,
-    "fips_id":"28093",
+    "geoid":"28093",
     "name":"Marshall",
     "state":"ms"
 },

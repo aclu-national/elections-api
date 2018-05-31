@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1636256623,
     "area_water":22006106,
-    "fips_id":"36051",
+    "geoid":"36051",
     "name":"Livingston",
     "state":"ny"
 },

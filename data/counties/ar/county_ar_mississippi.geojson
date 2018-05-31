@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2332480068,
     "area_water":49826375,
-    "fips_id":"05093",
+    "geoid":"05093",
     "name":"Mississippi",
     "state":"ar"
 },

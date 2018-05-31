@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1576930289,
     "area_water":27936032,
-    "fips_id":"05047",
+    "geoid":"05047",
     "name":"Franklin",
     "state":"ar"
 },

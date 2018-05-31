@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1580943094,
     "area_water":55283099,
-    "fips_id":"22073",
+    "geoid":"22073",
     "name":"Ouachita",
     "state":"la"
 },

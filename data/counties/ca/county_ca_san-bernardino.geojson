@@ -4,7 +4,7 @@
   "properties": {
     "area_land":51948123813,
     "area_water":123845007,
-    "fips_id":"06071",
+    "geoid":"06071",
     "name":"San Bernardino",
     "state":"ca"
 },

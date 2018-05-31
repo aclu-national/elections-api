@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2234715192,
     "area_water":2176851,
-    "fips_id":"19149",
+    "geoid":"19149",
     "name":"Plymouth",
     "state":"ia"
 },

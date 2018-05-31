@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1449687582,
     "area_water":28061738,
-    "fips_id":"26079",
+    "geoid":"26079",
     "name":"Kalkaska",
     "state":"mi"
 },

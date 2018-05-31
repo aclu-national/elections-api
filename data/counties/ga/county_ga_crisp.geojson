@@ -4,7 +4,7 @@
   "properties": {
     "area_land":705921217,
     "area_water":21739092,
-    "fips_id":"13081",
+    "geoid":"13081",
     "name":"Crisp",
     "state":"ga"
 },

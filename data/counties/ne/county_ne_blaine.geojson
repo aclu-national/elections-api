@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1840674086,
     "area_water":9443894,
-    "fips_id":"31009",
+    "geoid":"31009",
     "name":"Blaine",
     "state":"ne"
 },

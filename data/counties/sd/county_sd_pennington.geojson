@@ -4,7 +4,7 @@
   "properties": {
     "area_land":7191808178,
     "area_water":19906989,
-    "fips_id":"46103",
+    "geoid":"46103",
     "name":"Pennington",
     "state":"sd"
 },

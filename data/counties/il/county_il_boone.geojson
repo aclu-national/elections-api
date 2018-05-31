@@ -4,7 +4,7 @@
   "properties": {
     "area_land":727092582,
     "area_water":3348032,
-    "fips_id":"17007",
+    "geoid":"17007",
     "name":"Boone",
     "state":"il"
 },

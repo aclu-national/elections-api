@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2532492080,
     "area_water":17149961,
-    "fips_id":"30103",
+    "geoid":"30103",
     "name":"Treasure",
     "state":"mt"
 },

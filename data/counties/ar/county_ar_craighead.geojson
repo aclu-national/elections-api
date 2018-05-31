@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1831867347,
     "area_water":14069141,
-    "fips_id":"05031",
+    "geoid":"05031",
     "name":"Craighead",
     "state":"ar"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1670807253,
     "area_water":27885165,
-    "fips_id":"13251",
+    "geoid":"13251",
     "name":"Screven",
     "state":"ga"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1469362052,
     "area_water":5468507,
-    "fips_id":"29001",
+    "geoid":"29001",
     "name":"Adair",
     "state":"mo"
 },

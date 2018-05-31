@@ -4,7 +4,7 @@
   "properties": {
     "area_land":560544127,
     "area_water":11859741,
-    "fips_id":"13215",
+    "geoid":"13215",
     "name":"Muscogee",
     "state":"ga"
 },

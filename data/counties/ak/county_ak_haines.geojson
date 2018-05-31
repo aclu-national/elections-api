@@ -4,7 +4,7 @@
   "properties": {
     "area_land":6233111973,
     "area_water":1054089659,
-    "fips_id":"02100",
+    "geoid":"02100",
     "name":"Haines",
     "state":"ak"
 },

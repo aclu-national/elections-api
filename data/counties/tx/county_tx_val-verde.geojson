@@ -4,7 +4,7 @@
   "properties": {
     "area_land":8144863674,
     "area_water":227711349,
-    "fips_id":"48465",
+    "geoid":"48465",
     "name":"Val Verde",
     "state":"tx"
 },

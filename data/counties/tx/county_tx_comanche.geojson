@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2428770456,
     "area_water":25718009,
-    "fips_id":"48093",
+    "geoid":"48093",
     "name":"Comanche",
     "state":"tx"
 },

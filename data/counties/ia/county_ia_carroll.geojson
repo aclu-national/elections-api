@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1474835092,
     "area_water":2145349,
-    "fips_id":"19027",
+    "geoid":"19027",
     "name":"Carroll",
     "state":"ia"
 },

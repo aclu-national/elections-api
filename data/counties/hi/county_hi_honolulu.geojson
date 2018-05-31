@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1555581074,
     "area_water":4054908589,
-    "fips_id":"15003",
+    "geoid":"15003",
     "name":"Honolulu",
     "state":"hi"
 },

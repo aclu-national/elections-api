@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1021814153,
     "area_water":43504254,
-    "fips_id":"18105",
+    "geoid":"18105",
     "name":"Monroe",
     "state":"in"
 },

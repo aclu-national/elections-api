@@ -4,7 +4,7 @@
   "properties": {
     "area_land":859474410,
     "area_water":105430413,
-    "fips_id":"34033",
+    "geoid":"34033",
     "name":"Salem",
     "state":"nj"
 },

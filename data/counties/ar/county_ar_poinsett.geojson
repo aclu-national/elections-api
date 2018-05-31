@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1964147526,
     "area_water":13521720,
-    "fips_id":"05111",
+    "geoid":"05111",
     "name":"Poinsett",
     "state":"ar"
 },

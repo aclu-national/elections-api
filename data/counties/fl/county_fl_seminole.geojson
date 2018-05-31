@@ -4,7 +4,7 @@
   "properties": {
     "area_land":801709341,
     "area_water":92719341,
-    "fips_id":"12117",
+    "geoid":"12117",
     "name":"Seminole",
     "state":"fl"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":876737781,
     "area_water":32210024,
-    "fips_id":"51550",
+    "geoid":"51550",
     "name":"Chesapeake",
     "state":"va"
 },

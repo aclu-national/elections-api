@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1052469899,
     "area_water":1694037,
-    "fips_id":"39047",
+    "geoid":"39047",
     "name":"Fayette",
     "state":"oh"
 },

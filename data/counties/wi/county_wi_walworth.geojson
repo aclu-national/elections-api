@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1438141978,
     "area_water":55217124,
-    "fips_id":"55127",
+    "geoid":"55127",
     "name":"Walworth",
     "state":"wi"
 },

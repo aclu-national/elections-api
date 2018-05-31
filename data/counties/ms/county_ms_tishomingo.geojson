@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1098939231,
     "area_water":52359814,
-    "fips_id":"28141",
+    "geoid":"28141",
     "name":"Tishomingo",
     "state":"ms"
 },

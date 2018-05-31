@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1293580739,
     "area_water":6123514,
-    "fips_id":"54109",
+    "geoid":"54109",
     "name":"Wyoming",
     "state":"wv"
 },

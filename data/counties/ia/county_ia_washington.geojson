@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1473243904,
     "area_water":5353677,
-    "fips_id":"19183",
+    "geoid":"19183",
     "name":"Washington",
     "state":"ia"
 },

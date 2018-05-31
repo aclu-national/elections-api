@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1457058107,
     "area_water":3454759,
-    "fips_id":"17189",
+    "geoid":"17189",
     "name":"Washington",
     "state":"il"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2060678182,
     "area_water":76956282,
-    "fips_id":"36027",
+    "geoid":"36027",
     "name":"Dutchess",
     "state":"ny"
 },

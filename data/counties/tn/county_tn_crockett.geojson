@@ -4,7 +4,7 @@
   "properties": {
     "area_land":687766537,
     "area_water":494100,
-    "fips_id":"47033",
+    "geoid":"47033",
     "name":"Crockett",
     "state":"tn"
 },

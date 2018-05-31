@@ -4,7 +4,7 @@
   "properties": {
     "area_land":179660999,
     "area_water":115910809,
-    "fips_id":"72123",
+    "geoid":"72123",
     "name":"Salinas",
     "state":"pr"
 },

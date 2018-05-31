@@ -4,7 +4,7 @@
   "properties": {
     "area_land":995558956,
     "area_water":99517524,
-    "fips_id":"27163",
+    "geoid":"27163",
     "name":"Washington",
     "state":"mn"
 },

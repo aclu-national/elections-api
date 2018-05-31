@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2336237920,
     "area_water":613559,
-    "fips_id":"48327",
+    "geoid":"48327",
     "name":"Menard",
     "state":"tx"
 },

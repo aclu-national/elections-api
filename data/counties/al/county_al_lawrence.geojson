@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1788859207,
     "area_water":68687366,
-    "fips_id":"01079",
+    "geoid":"01079",
     "name":"Lawrence",
     "state":"al"
 },

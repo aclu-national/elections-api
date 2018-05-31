@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1117599859,
     "area_water":1406461,
-    "fips_id":"19093",
+    "geoid":"19093",
     "name":"Ida",
     "state":"ia"
 },

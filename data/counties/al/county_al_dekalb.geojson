@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2012676476,
     "area_water":4121538,
-    "fips_id":"01049",
+    "geoid":"01049",
     "name":"DeKalb",
     "state":"al"
 },

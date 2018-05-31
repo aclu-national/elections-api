@@ -4,7 +4,7 @@
   "properties": {
     "area_land":2064513622,
     "area_water":145566159,
-    "fips_id":"55129",
+    "geoid":"55129",
     "name":"Washburn",
     "state":"wi"
 },

@@ -4,7 +4,7 @@
   "properties": {
     "area_land":1297230230,
     "area_water":3764605,
-    "fips_id":"29205",
+    "geoid":"29205",
     "name":"Shelby",
     "state":"mo"
 },

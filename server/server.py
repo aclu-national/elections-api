@@ -209,7 +209,7 @@ def get_county_by_coords(lat, lng):
 	cur.close()
 	return county
 
-def get_state_leg_by_coords(lat, lng):
+def get_state_legs_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -219,12 +219,12 @@ def get_state_leg_by_coords(lat, lng):
 	'''.format(lat=lat, lng=lng))
 
 	rs = cur.fetchall()
-	state = None
+	state_legs = []
 
 	if rs:
 		for row in rs:
 
-			state_leg = {
+			state_legs.append({
 				'id': row[0],
 				'geoid': row[1],
 				'name': row[2],
@@ -233,10 +233,10 @@ def get_state_leg_by_coords(lat, lng):
 				'district_num': row[5],
 				'area_land': row[6],
 				'area_water': row[7]
-			}
+			})
 
 	cur.close()
-	return state_leg
+	return state_legs
 
 def get_legislators_by_state(state, session_num=115):
 
@@ -465,7 +465,7 @@ def hello():
 	<a href="/pip_state">/pip_state</a>
 	<a href="/pip_congress">/pip_congress</a>
 	<a href="/pip_county">/pip_county</a>
-	<a href="/pip_state_leg">/pip_county</a>
+	<a href="/pip_state_leg">/pip_state_leg</a>
 	<a href="/congress_district">/congress_district</a></pre>
 	'''
 
@@ -487,14 +487,14 @@ def pip():
 
 	state = get_state_by_abbrev(congress['district']['state'])
 	county = get_county_by_coords(lat, lng)
-	state_leg = get_state_leg_by_coords(lat, lng)
+	state_legs = get_state_legs_by_coords(lat, lng)
 
 	return flask.jsonify({
 		'ok': 1,
 		'congress': congress,
 		'state': state,
 		'county': county,
-		'state_leg': state_leg
+		'state_leg': state_legs
 	})
 
 @app.route("/pip_state")
@@ -581,8 +581,8 @@ def state_leg():
 	lat = req['lat']
 	lng = req['lng']
 
-	rsp = get_state_leg_by_coords(lat, lng)
-	if rsp == None:
+	rsp = get_state_legs_by_coords(lat, lng)
+	if len(rsp) == 0:
 		return flask.jsonify({
 			'ok': 0,
 			'error': 'No state legislation found.'
@@ -590,7 +590,7 @@ def state_leg():
 
 	return flask.jsonify({
 		'ok': 1,
-		'county': rsp
+		'state_leg': rsp
 	})
 
 @app.route("/congress_district")

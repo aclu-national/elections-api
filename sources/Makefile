@@ -1,4 +1,4 @@
-all: districts_113 districts_116_pa legislators states counties state_leg
+all: districts_113 districts_116_pa legislators states counties state_leg ocd_ids
 
 districts_113:
 	mkdir -p districts_113
@@ -31,4 +31,9 @@ counties:
 
 state_leg:
 	mkdir -p state_leg
-	scripts/source_state_leg.sh
+	../scripts/source_state_leg.sh
+
+ocd_ids:
+	mkdir -p ocd_ids
+	curl -o ocd_ids/ocd_ids.zip -L https://github.com/opencivicdata/ocd-division-ids/archive/master.zip
+	unzip -d ocd_ids ocd_ids/ocd_ids.zip

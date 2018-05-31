@@ -28,12 +28,14 @@ for feature in data["features"]:
 	state = "pa"
 
 	district_num = str(props["DISTRICT"])
+	geoid = "42%s" % district_num
 
 	name = "district_116_pa_%s.geojson" % district_num
 	path = "%s/data/districts_116_pa/%s" % (root_dir, name)
 
 	print("Saving %s" % path)
 	feature["properties"] = {
+		"geoid": geoid,
 		"state": state,
 		"start_session": 116,
 		"start_date": sessions[116]["start_date"],

@@ -253,8 +253,8 @@ def get_legislators_by_state(state, session_num=115):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, bioguide, start_date, end_date, type, state, district_num, party
-		FROM legislator_terms
+		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
+		FROM congress_legislator_terms
 		WHERE end_date >= CURRENT_DATE
 		  AND state = '{state}'
 		  AND type = 'sen'
@@ -269,8 +269,8 @@ def get_legislators_by_district(state, district_num, session_num=115):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, bioguide, start_date, end_date, type, state, district_num, party
-		FROM legislator_terms
+		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
+		FROM congress_legislator_terms
 		WHERE end_date >= CURRENT_DATE
 		  AND state = '{state}'
 		  AND (
@@ -285,14 +285,14 @@ def get_legislators_by_district(state, district_num, session_num=115):
 def get_legislators(cur):
 
 	legislators = {}
-	bioguides = []
+	aclu_ids = []
 	term_ids = []
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			bioguide = str(row[1])
-			legislators[bioguide] = {
+			aclu_id = row[1]
+			legislators[aclu_id] = {
 				'term': {
 					'start_date': arrow.get(row[2]).format('YYYY-MM-DD'),
 					'end_date': arrow.get(row[3]).format('YYYY-MM-DD'),
@@ -302,130 +302,135 @@ def get_legislators(cur):
 				}
 			}
 			if row[4] == 'rep':
-				legislators[bioguide]['term']['district_num'] = row[6]
-			bioguides.append(bioguide)
+				legislators[aclu_id]['term']['district_num'] = row[6]
+			aclu_ids.append(aclu_id)
 			term_ids.append(str(row[0]))
 
-	if len(bioguides) == 0:
+	if len(aclu_ids) == 0:
 		return {}
 
-	bioguides = "'" + "', '".join(bioguides) + "'"
+	aclu_ids = "'" + "', '".join(aclu_ids) + "'"
 	term_ids = ", ".join(term_ids)
 
 	cur.execute('''
-		SELECT bioguide, first_name, last_name, full_name, birthday, gender
-		FROM legislators
-		WHERE bioguide IN ({bioguides})
+		SELECT aclu_id, first_name, last_name, full_name, birthday, gender
+		FROM congress_legislators
+		WHERE aclu_id IN ({aclu_ids})
 		ORDER BY last_name, first_name
-	'''.format(bioguides=bioguides))
+	'''.format(aclu_ids=aclu_ids))
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			bioguide = row[0]
-			legislators[bioguide]['name'] = {
+			aclu_id = row[0]
+			legislators[aclu_id]['name'] = {
 				'first_name': row[1],
 				'last_name': row[2],
 				'full_name': row[3]
 			}
-			legislators[bioguide]['bio'] = {
+			legislators[aclu_id]['bio'] = {
 				'birthday': arrow.get(row[4]).format('YYYY-MM-DD'),
 				'gender': row[5]
 			}
 
 	cur.execute('''
-		SELECT bioguide, detail_name, detail_value
-		FROM legislator_term_details
+		SELECT aclu_id, detail_name, detail_value
+		FROM congress_legislator_term_details
 		WHERE term_id IN ({term_ids})
 	'''.format(term_ids=term_ids))
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			bioguide = row[0]
+			aclu_id = row[0]
 			key = row[1]
 			value = row[2]
 			if key == 'class' or key == 'state_rank':
-				legislators[bioguide]['term'][key] = value
+				legislators[aclu_id]['term'][key] = value
 			else:
-				if not 'contact' in legislators[bioguide]:
-					legislators[bioguide]['contact'] = {}
-				legislators[bioguide]['contact'][key] = value
+				if not 'contact' in legislators[aclu_id]:
+					legislators[aclu_id]['contact'] = {}
+				legislators[aclu_id]['contact'][key] = value
 
 	cur.execute('''
-		SELECT bioguide, concordance_name, concordance_value
-		FROM legislator_concordances
-		WHERE bioguide IN ({bioguides})
-	'''.format(bioguides=bioguides))
+		SELECT aclu_id, concordance_name, concordance_value
+		FROM congress_legislator_concordances
+		WHERE aclu_id IN ({aclu_ids})
+	'''.format(aclu_ids=aclu_ids))
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			bioguide = row[0]
+			aclu_id = row[0]
 			key = row[1]
 			value = row[2]
-			if not 'id' in legislators[bioguide]:
-				legislators[bioguide]['id'] = {}
-			legislators[bioguide]['id'][key] = value
+			if not 'id' in legislators[aclu_id]:
+				legislators[aclu_id]['id'] = {}
+			legislators[aclu_id]['id'][key] = value
 
 	cur.execute('''
-		SELECT bioguide, social_media_name, social_media_value
-		FROM legislator_social_media
-		WHERE bioguide IN ({bioguides})
-	'''.format(bioguides=bioguides))
+		SELECT aclu_id, social_media_name, social_media_value
+		FROM congress_legislator_social_media
+		WHERE aclu_id IN ({aclu_ids})
+	'''.format(aclu_ids=aclu_ids))
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			bioguide = row[0]
+			aclu_id = row[0]
 			key = row[1]
 			value = row[2]
-			if not 'social' in legislators[bioguide]:
-				legislators[bioguide]['social'] = {}
-			legislators[bioguide]['social'][key] = value
+			if not 'social' in legislators[aclu_id]:
+				legislators[aclu_id]['social'] = {}
+			legislators[aclu_id]['social'][key] = value
 
 	cur.execute('''
-		SELECT bioguide, category, subcategory, position, name, value
-		FROM legislator_scores
-		WHERE bioguide IN ({bioguides})
-	'''.format(bioguides=bioguides))
+		SELECT aclu_id, category, subcategory, position, name, value
+		FROM congress_legislator_scores
+		WHERE aclu_id IN ({aclu_ids})
+	'''.format(aclu_ids=aclu_ids))
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			bioguide = row[0]
+			aclu_id = row[0]
 			category = row[1].strip()
 			subcategory = row[2].strip()
 			position = row[3]
 			name = row[4]
 			value = row[5]
 
-			if not 'scores' in legislators[bioguide]:
-				legislators[bioguide]['scores'] = {}
+			if not 'scores' in legislators[aclu_id]:
+				legislators[aclu_id]['scores'] = {}
 
 			if category == '':
-				if not 'summary' in legislators[bioguide]['scores']:
-					legislators[bioguide]['scores']['summary'] = []
-				legislators[bioguide]['scores']['summary'].append({
+				if not 'summary' in legislators[aclu_id]['scores']:
+					legislators[aclu_id]['scores']['summary'] = []
+				legislators[aclu_id]['scores']['summary'].append({
 					'name': position,
 					'value': value
 				})
 			else:
 
-				if not category in legislators[bioguide]['scores']:
-					legislators[bioguide]['scores'][category] = {}
+				if not category in legislators[aclu_id]['scores']:
+					legislators[aclu_id]['scores'][category] = {}
 
-				if not subcategory in legislators[bioguide]['scores'][category]:
-					legislators[bioguide]['scores'][category][subcategory] = []
+				if not subcategory in legislators[aclu_id]['scores'][category]:
+					legislators[aclu_id]['scores'][category][subcategory] = []
 
-				legislators[bioguide]['scores'][category][subcategory].append({
+				legislators[aclu_id]['scores'][category][subcategory].append({
 					'name': name,
 					'position': position,
 					'value': value
 				})
 
 	cur.close()
-	return legislators
+
+	legislator_list = []
+	for aclu_id in legislators:
+		legislator_list.append(legislators[aclu_id])
+
+	return legislator_list
 
 def get_lat_lng():
 

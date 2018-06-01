@@ -1,16 +1,22 @@
-all: sessions districts legislators scores states counties state_leg
+all: congress_sessions \
+     congress_districts \
+     congress_legislators \
+     congress_scores \
+     states \
+     counties \
+     state_leg
 
-sessions:
-	python scripts/index_sessions.py
+congress_sessions:
+	python scripts/index_congress_sessions.py
 
-districts:
-	python scripts/index_districts.py
+congress_districts:
+	python scripts/index_congress_districts.py
 
-legislators:
-	python scripts/index_legislators.py
+congress_legislators:
+	python scripts/index_congress_legislators.py
 
-scores:
-	python scripts/index_scores.py
+congress_scores:
+	python scripts/index_congress_scores.py
 
 states:
 	python scripts/index_states.py

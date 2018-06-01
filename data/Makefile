@@ -1,19 +1,24 @@
-all: districts_113 districts_116_pa legislators states counties state_leg
+all: congress_districts_113 \
+     congress_districts_116_pa \
+     congress_legislators \
+     states \
+     counties \
+     state_leg
 
-districts_113:
-	python ../scripts/build_districts_census.py --start 113 --end 115
+congress_districts_113:
+	python ../scripts/data_congress_districts_tiger.py --start 113 --end 115
 
-districts_116_pa:
-	python ../scripts/build_districts_116_pa.py
+congress_districts_116_pa:
+	python ../scripts/data_congress_districts_116_pa.py
 
-legislators:
-	python ../scripts/build_legislators.py
+congress_legislators:
+	python ../scripts/data_congress_legislators.py
 
 states:
-	python ../scripts/build_states.py
+	python ../scripts/data_states.py
 
 counties:
-	python ../scripts/build_counties.py
+	python ../scripts/data_counties.py
 
 state_leg:
-	python ../scripts/build_state_leg.py
+	python ../scripts/data_state_leg.py

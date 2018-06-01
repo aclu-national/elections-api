@@ -1,9 +1,9 @@
 .DS_Store
 /scripts/*.pyc
-/sources/congress_113
-/sources/congress_116_pa
+/sources/congress_districts_113
+/sources/congress_districts_116_pa
 /sources/congress_legislators
+/sources/congress_sessions
 /sources/states
 /sources/counties
 /sources/state_leg
-/sources/ocd_ids

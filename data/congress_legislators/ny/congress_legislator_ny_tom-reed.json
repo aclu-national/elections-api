@@ -1,104 +1,105 @@
 {
-    "bio": {
-        "birthday": "1971-11-18", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1971-11-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:877", 
+    "bioguide": "R000585", 
+    "cspan": 623468, 
+    "fec": [
+      "H0NY29054"
+    ], 
+    "google_entity_id": "kg:/m/07kf86m", 
+    "govtrack": 412393, 
+    "house_history": 20811, 
+    "icpsr": 21101, 
+    "maplight": 1374, 
+    "opensecrets": "N00030949", 
+    "thomas": "01982", 
+    "votesmart": 127046, 
+    "wikidata": "Q2440035", 
+    "wikipedia": "Tom Reed (politician)"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "Reed", 
+    "middle": "W.", 
+    "official_full": "Tom Reed", 
+    "suffix": "II"
+  }, 
+  "social": {
+    "facebook": "RepTomReed", 
+    "twitter": "RepTomReed", 
+    "twitter_id": 252819323, 
+    "youtube": "CongressmanTomReed", 
+    "youtube_id": "UC-HFEKIHC7ydVUkxkZOLqTg"
+  }, 
+  "terms": [
+    {
+      "district": 29, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2010-11-18", 
+      "state": "NY", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "R000585", 
-        "cspan": 623468, 
-        "fec": [
-            "H0NY29054"
-        ], 
-        "google_entity_id": "kg:/m/07kf86m", 
-        "govtrack": 412393, 
-        "house_history": 20811, 
-        "icpsr": 21101, 
-        "maplight": 1374, 
-        "opensecrets": "N00030949", 
-        "thomas": "01982", 
-        "votesmart": 127046, 
-        "wikidata": "Q2440035", 
-        "wikipedia": "Tom Reed (politician)"
+    {
+      "address": "1037 Longworth HOB; Washington DC 20515-3229", 
+      "district": 29, 
+      "end": "2013-01-03", 
+      "fax": "202-226-6599", 
+      "office": "1037 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3161", 
+      "start": "2011-01-05", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://reed.house.gov/"
     }, 
-    "name": {
-        "first": "Tom", 
-        "last": "Reed", 
-        "middle": "W.", 
-        "official_full": "Tom Reed", 
-        "suffix": "II"
+    {
+      "address": "1504 Longworth HOB; Washington DC 20515-3223", 
+      "contact_form": "https://reed.house.gov/contact-me/email-me", 
+      "district": 23, 
+      "end": "2015-01-03", 
+      "fax": "202-226-6599", 
+      "office": "1504 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3161", 
+      "rss_url": "http://reed.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://reed.house.gov"
     }, 
-    "social": {
-        "facebook": "RepTomReed", 
-        "twitter": "RepTomReed", 
-        "twitter_id": 252819323, 
-        "youtube": "CongressmanTomReed", 
-        "youtube_id": "UC-HFEKIHC7ydVUkxkZOLqTg"
+    {
+      "address": "2437 Rayburn HOB; Washington DC 20515-3223", 
+      "contact_form": "https://reed.house.gov/contact-me/email-me", 
+      "district": 23, 
+      "end": "2017-01-03", 
+      "fax": "202-226-6599", 
+      "office": "2437 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3161", 
+      "rss_url": "http://reed.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://reed.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 29, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2010-11-18", 
-            "state": "NY", 
-            "type": "rep"
-        }, 
-        {
-            "address": "1037 Longworth HOB; Washington DC 20515-3229", 
-            "district": 29, 
-            "end": "2013-01-03", 
-            "fax": "202-226-6599", 
-            "office": "1037 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3161", 
-            "start": "2011-01-05", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://reed.house.gov/"
-        }, 
-        {
-            "address": "1504 Longworth HOB; Washington DC 20515-3223", 
-            "contact_form": "https://reed.house.gov/contact-me/email-me", 
-            "district": 23, 
-            "end": "2015-01-03", 
-            "fax": "202-226-6599", 
-            "office": "1504 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3161", 
-            "rss_url": "http://reed.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://reed.house.gov"
-        }, 
-        {
-            "address": "2437 Rayburn HOB; Washington DC 20515-3223", 
-            "contact_form": "https://reed.house.gov/contact-me/email-me", 
-            "district": 23, 
-            "end": "2017-01-03", 
-            "fax": "202-226-6599", 
-            "office": "2437 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3161", 
-            "rss_url": "http://reed.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://reed.house.gov"
-        }, 
-        {
-            "address": "2437 Rayburn House Office Building; Washington DC 20515-3223", 
-            "district": 23, 
-            "end": "2019-01-03", 
-            "fax": "202-226-6599", 
-            "office": "2437 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3161", 
-            "rss_url": "http://reed.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "https://reed.house.gov"
-        }
-    ]
+    {
+      "address": "2437 Rayburn House Office Building; Washington DC 20515-3223", 
+      "district": 23, 
+      "end": "2019-01-03", 
+      "fax": "202-226-6599", 
+      "office": "2437 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3161", 
+      "rss_url": "http://reed.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://reed.house.gov"
+    }
+  ]
 }

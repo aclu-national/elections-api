@@ -1,116 +1,117 @@
 {
-    "bio": {
-        "birthday": "1951-05-20", 
-        "gender": "M", 
-        "religion": "Latter Day Saints"
+  "bio": {
+    "birthday": "1951-05-20", 
+    "gender": "M", 
+    "religion": "Latter Day Saints"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:676", 
+    "ballotpedia": "Mike Crapo", 
+    "bioguide": "C000880", 
+    "cspan": 26440, 
+    "fec": [
+      "S8ID00027", 
+      "H2ID02034"
+    ], 
+    "google_entity_id": "kg:/m/021pgp", 
+    "govtrack": 300030, 
+    "house_history": 11556, 
+    "icpsr": 29345, 
+    "lis": "S266", 
+    "maplight": 556, 
+    "opensecrets": "N00006267", 
+    "thomas": "00250", 
+    "votesmart": 26830, 
+    "wikidata": "Q734319", 
+    "wikipedia": "Mike Crapo"
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "Crapo", 
+    "middle": "D.", 
+    "official_full": "Mike Crapo"
+  }, 
+  "social": {
+    "facebook": "mikecrapo", 
+    "instagram": "mikecrapo", 
+    "instagram_id": 329357214, 
+    "twitter": "MikeCrapo", 
+    "twitter_id": 600463589, 
+    "youtube": "senatorcrapo", 
+    "youtube_id": "UCMHzKHg1BE7dEcFjnayw1lA"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "ID", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Mike Crapo", 
-        "bioguide": "C000880", 
-        "cspan": 26440, 
-        "fec": [
-            "S8ID00027", 
-            "H2ID02034"
-        ], 
-        "google_entity_id": "kg:/m/021pgp", 
-        "govtrack": 300030, 
-        "house_history": 11556, 
-        "icpsr": 29345, 
-        "lis": "S266", 
-        "maplight": 556, 
-        "opensecrets": "N00006267", 
-        "thomas": "00250", 
-        "votesmart": 26830, 
-        "wikidata": "Q734319", 
-        "wikipedia": "Mike Crapo"
+    {
+      "district": 2, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "ID", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Michael", 
-        "last": "Crapo", 
-        "middle": "D.", 
-        "official_full": "Mike Crapo"
+    {
+      "district": 2, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "ID", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "mikecrapo", 
-        "instagram": "mikecrapo", 
-        "instagram_id": 329357214, 
-        "twitter": "MikeCrapo", 
-        "twitter_id": 600463589, 
-        "youtube": "senatorcrapo", 
-        "youtube_id": "UCMHzKHg1BE7dEcFjnayw1lA"
+    {
+      "class": 3, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "ID", 
+      "type": "sen", 
+      "url": "http://crapo.senate.gov/"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1993-01-05", 
-            "state": "ID", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "ID", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "ID", 
-            "type": "rep"
-        }, 
-        {
-            "class": 3, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "ID", 
-            "type": "sen", 
-            "url": "http://crapo.senate.gov/"
-        }, 
-        {
-            "class": 3, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "ID", 
-            "type": "sen", 
-            "url": "http://crapo.senate.gov"
-        }, 
-        {
-            "address": "239 Dirksen Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.crapo.senate.gov/contact/email.cfm", 
-            "end": "2017-01-03", 
-            "fax": "202-228-1375", 
-            "office": "239 Dirksen Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6142", 
-            "start": "2011-01-05", 
-            "state": "ID", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.crapo.senate.gov"
-        }, 
-        {
-            "address": "239 Dirksen Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.crapo.senate.gov/contact", 
-            "end": "2023-01-03", 
-            "fax": "202-228-1375", 
-            "office": "239 Dirksen Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6142", 
-            "start": "2017-01-03", 
-            "state": "ID", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.crapo.senate.gov"
-        }
-    ]
+    {
+      "class": 3, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "ID", 
+      "type": "sen", 
+      "url": "http://crapo.senate.gov"
+    }, 
+    {
+      "address": "239 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.crapo.senate.gov/contact/email.cfm", 
+      "end": "2017-01-03", 
+      "fax": "202-228-1375", 
+      "office": "239 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6142", 
+      "start": "2011-01-05", 
+      "state": "ID", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.crapo.senate.gov"
+    }, 
+    {
+      "address": "239 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.crapo.senate.gov/contact", 
+      "end": "2023-01-03", 
+      "fax": "202-228-1375", 
+      "office": "239 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6142", 
+      "start": "2017-01-03", 
+      "state": "ID", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.crapo.senate.gov"
+    }
+  ]
 }

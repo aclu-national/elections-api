@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1969-01-31", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1969-01-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:757", 
+    "ballotpedia": "Bill Huizenga", 
+    "bioguide": "H001058", 
+    "cspan": 1033765, 
+    "fec": [
+      "H0MI02094"
+    ], 
+    "google_entity_id": "kg:/m/05b0j1w", 
+    "govtrack": 412437, 
+    "house_history": 15610, 
+    "icpsr": 21142, 
+    "maplight": 1448, 
+    "opensecrets": "N00030673", 
+    "thomas": "02028", 
+    "votesmart": 38351, 
+    "wikidata": "Q862199", 
+    "wikipedia": "Bill Huizenga"
+  }, 
+  "name": {
+    "first": "Bill", 
+    "last": "Huizenga", 
+    "official_full": "Bill Huizenga"
+  }, 
+  "social": {
+    "facebook": "RepHuizenga", 
+    "instagram": "RepHuizenga", 
+    "twitter": "RepHuizenga", 
+    "twitter_id": 233949261, 
+    "youtube": "RepHuizenga", 
+    "youtube_id": "UCQPlLLiMnysMmeJ5qUSSjQg"
+  }, 
+  "terms": [
+    {
+      "address": "1217 Longworth HOB; Washington DC 20515-2202", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "fax": "202-226-0779", 
+      "office": "1217 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4401", 
+      "start": "2011-01-05", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://huizenga.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Bill Huizenga", 
-        "bioguide": "H001058", 
-        "cspan": 1033765, 
-        "fec": [
-            "H0MI02094"
-        ], 
-        "google_entity_id": "kg:/m/05b0j1w", 
-        "govtrack": 412437, 
-        "house_history": 15610, 
-        "icpsr": 21142, 
-        "maplight": 1448, 
-        "opensecrets": "N00030673", 
-        "thomas": "02028", 
-        "votesmart": 38351, 
-        "wikidata": "Q862199", 
-        "wikipedia": "Bill Huizenga"
+    {
+      "address": "1217 Longworth HOB; Washington DC 20515-2202", 
+      "contact_form": "http://huizenga.house.gov/contact/", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0779", 
+      "office": "1217 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4401", 
+      "rss_url": "http://huizenga.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://huizenga.house.gov"
     }, 
-    "name": {
-        "first": "Bill", 
-        "last": "Huizenga", 
-        "official_full": "Bill Huizenga"
+    {
+      "address": "1217 Longworth HOB; Washington DC 20515-2202", 
+      "contact_form": "http://huizenga.house.gov/contact/", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0779", 
+      "office": "1217 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4401", 
+      "rss_url": "http://huizenga.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://huizenga.house.gov"
     }, 
-    "social": {
-        "facebook": "RepHuizenga", 
-        "instagram": "RepHuizenga", 
-        "twitter": "RepHuizenga", 
-        "twitter_id": 233949261, 
-        "youtube": "RepHuizenga", 
-        "youtube_id": "UCQPlLLiMnysMmeJ5qUSSjQg"
-    }, 
-    "terms": [
-        {
-            "address": "1217 Longworth HOB; Washington DC 20515-2202", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "fax": "202-226-0779", 
-            "office": "1217 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4401", 
-            "start": "2011-01-05", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://huizenga.house.gov/"
-        }, 
-        {
-            "address": "1217 Longworth HOB; Washington DC 20515-2202", 
-            "contact_form": "http://huizenga.house.gov/contact/", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0779", 
-            "office": "1217 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4401", 
-            "rss_url": "http://huizenga.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://huizenga.house.gov"
-        }, 
-        {
-            "address": "1217 Longworth HOB; Washington DC 20515-2202", 
-            "contact_form": "http://huizenga.house.gov/contact/", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0779", 
-            "office": "1217 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4401", 
-            "rss_url": "http://huizenga.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://huizenga.house.gov"
-        }, 
-        {
-            "address": "2232 Rayburn House Office Building; Washington DC 20515-2202", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0779", 
-            "office": "2232 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4401", 
-            "rss_url": "http://huizenga.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "https://huizenga.house.gov"
-        }
-    ]
+    {
+      "address": "2232 Rayburn House Office Building; Washington DC 20515-2202", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0779", 
+      "office": "2232 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4401", 
+      "rss_url": "http://huizenga.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://huizenga.house.gov"
+    }
+  ]
 }

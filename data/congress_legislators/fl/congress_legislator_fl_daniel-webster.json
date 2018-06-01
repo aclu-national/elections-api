@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1949-04-27", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1949-04-27", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:627", 
+    "ballotpedia": "Daniel Webster", 
+    "bioguide": "W000806", 
+    "cspan": 30504, 
+    "fec": [
+      "H0FL08208", 
+      "S4FL00256"
+    ], 
+    "google_entity_id": "kg:/m/03cg47l", 
+    "govtrack": 412410, 
+    "house_history": 24192, 
+    "icpsr": 21116, 
+    "maplight": 1422, 
+    "opensecrets": "N00026335", 
+    "thomas": "02002", 
+    "votesmart": 24302, 
+    "wikidata": "Q1163099", 
+    "wikipedia": "Daniel Webster (Florida politician)"
+  }, 
+  "name": {
+    "first": "Daniel", 
+    "last": "Webster", 
+    "official_full": "Daniel Webster"
+  }, 
+  "social": {
+    "facebook": "RepWebster", 
+    "twitter": "RepWebster", 
+    "twitter_id": 281540744, 
+    "youtube": "repdanwebster", 
+    "youtube_id": "UCCoX4VdU7U11eGEA0lbRtLw"
+  }, 
+  "terms": [
+    {
+      "address": "1039 Longworth HOB; Washington DC 20515-0908", 
+      "district": 8, 
+      "end": "2013-01-03", 
+      "fax": "202-225-0999", 
+      "office": "1039 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2176", 
+      "start": "2011-01-05", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://webster.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Daniel Webster", 
-        "bioguide": "W000806", 
-        "cspan": 30504, 
-        "fec": [
-            "H0FL08208", 
-            "S4FL00256"
-        ], 
-        "google_entity_id": "kg:/m/03cg47l", 
-        "govtrack": 412410, 
-        "house_history": 24192, 
-        "icpsr": 21116, 
-        "maplight": 1422, 
-        "opensecrets": "N00026335", 
-        "thomas": "02002", 
-        "votesmart": 24302, 
-        "wikidata": "Q1163099", 
-        "wikipedia": "Daniel Webster (Florida politician)"
+    {
+      "address": "1039 Longworth HOB; Washington DC 20515-0910", 
+      "contact_form": "https://webster.house.gov/contact/contactform.htm", 
+      "district": 10, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0999", 
+      "office": "1039 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2176", 
+      "rss_url": "http://webster.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://webster.house.gov"
     }, 
-    "name": {
-        "first": "Daniel", 
-        "last": "Webster", 
-        "official_full": "Daniel Webster"
+    {
+      "address": "1039 Longworth HOB; Washington DC 20515-0910", 
+      "contact_form": "https://webster.house.gov/contact/contactform.htm", 
+      "district": 10, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0999", 
+      "office": "1039 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2176", 
+      "rss_url": "http://webster.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://webster.house.gov"
     }, 
-    "social": {
-        "facebook": "RepWebster", 
-        "twitter": "RepWebster", 
-        "twitter_id": 281540744, 
-        "youtube": "repdanwebster", 
-        "youtube_id": "UCCoX4VdU7U11eGEA0lbRtLw"
-    }, 
-    "terms": [
-        {
-            "address": "1039 Longworth HOB; Washington DC 20515-0908", 
-            "district": 8, 
-            "end": "2013-01-03", 
-            "fax": "202-225-0999", 
-            "office": "1039 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2176", 
-            "start": "2011-01-05", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://webster.house.gov/"
-        }, 
-        {
-            "address": "1039 Longworth HOB; Washington DC 20515-0910", 
-            "contact_form": "https://webster.house.gov/contact/contactform.htm", 
-            "district": 10, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0999", 
-            "office": "1039 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2176", 
-            "rss_url": "http://webster.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://webster.house.gov"
-        }, 
-        {
-            "address": "1039 Longworth HOB; Washington DC 20515-0910", 
-            "contact_form": "https://webster.house.gov/contact/contactform.htm", 
-            "district": 10, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0999", 
-            "office": "1039 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2176", 
-            "rss_url": "http://webster.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://webster.house.gov"
-        }, 
-        {
-            "address": "1210 Longworth House Office Building; Washington DC 20515-0911", 
-            "district": 11, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0999", 
-            "office": "1210 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1002", 
-            "rss_url": "http://webster.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://webster.house.gov"
-        }
-    ]
+    {
+      "address": "1210 Longworth House Office Building; Washington DC 20515-0911", 
+      "district": 11, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0999", 
+      "office": "1210 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1002", 
+      "rss_url": "http://webster.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://webster.house.gov"
+    }
+  ]
 }

@@ -1,163 +1,164 @@
 {
-    "bio": {
-        "birthday": "1958-07-15", 
-        "gender": "M", 
-        "religion": "Presbyterian"
+  "bio": {
+    "birthday": "1958-07-15", 
+    "gender": "M", 
+    "religion": "Presbyterian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:977", 
+    "ballotpedia": "Mac Thornberry", 
+    "bioguide": "T000238", 
+    "cspan": 36814, 
+    "fec": [
+      "H4TX13014"
+    ], 
+    "google_entity_id": "kg:/m/03dnvd", 
+    "govtrack": 400404, 
+    "house_history": 22922, 
+    "icpsr": 29572, 
+    "maplight": 491, 
+    "opensecrets": "N00006052", 
+    "thomas": "01155", 
+    "votesmart": 21706, 
+    "wikidata": "Q539444", 
+    "wikipedia": "Mac Thornberry"
+  }, 
+  "name": {
+    "first": "Mac", 
+    "last": "Thornberry", 
+    "middle": "M.", 
+    "official_full": "Mac Thornberry"
+  }, 
+  "social": {
+    "facebook": "repmacthornberry", 
+    "twitter": "MacTXPress", 
+    "twitter_id": 377534571, 
+    "youtube": "RepMacThornberry", 
+    "youtube_id": "UCIfCqubtIZnQDwDS8YNmL2A"
+  }, 
+  "terms": [
+    {
+      "district": 13, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Mac Thornberry", 
-        "bioguide": "T000238", 
-        "cspan": 36814, 
-        "fec": [
-            "H4TX13014"
-        ], 
-        "google_entity_id": "kg:/m/03dnvd", 
-        "govtrack": 400404, 
-        "house_history": 22922, 
-        "icpsr": 29572, 
-        "maplight": 491, 
-        "opensecrets": "N00006052", 
-        "thomas": "01155", 
-        "votesmart": 21706, 
-        "wikidata": "Q539444", 
-        "wikipedia": "Mac Thornberry"
+    {
+      "district": 13, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Mac", 
-        "last": "Thornberry", 
-        "middle": "M.", 
-        "official_full": "Mac Thornberry"
+    {
+      "district": 13, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "repmacthornberry", 
-        "twitter": "MacTXPress", 
-        "twitter_id": 377534571, 
-        "youtube": "RepMacThornberry", 
-        "youtube_id": "UCIfCqubtIZnQDwDS8YNmL2A"
+    {
+      "district": 13, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 13, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 13, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 13, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 13, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 13, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/thornberry"
-        }, 
-        {
-            "district": 13, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/thornberry"
-        }, 
-        {
-            "district": 13, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/thornberry"
-        }, 
-        {
-            "district": 13, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/thornberry"
-        }, 
-        {
-            "address": "2209 Rayburn HOB; Washington DC 20515-4313", 
-            "contact_form": "http://www.house.gov/writerep", 
-            "district": 13, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3486", 
-            "office": "2209 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3706", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/thornberry"
-        }, 
-        {
-            "address": "2329 Rayburn HOB; Washington DC 20515-4313", 
-            "contact_form": "https://thornberry.house.gov/forms/writeyourrep/", 
-            "district": 13, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3486", 
-            "office": "2329 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3706", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://thornberry.house.gov"
-        }, 
-        {
-            "address": "2208 Rayburn HOB; Washington DC 20515-4313", 
-            "contact_form": "https://thornberry.house.gov/forms/writeyourrep/", 
-            "district": 13, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3486", 
-            "office": "2208 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3706", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://thornberry.house.gov"
-        }, 
-        {
-            "address": "2208 Rayburn House Office Building; Washington DC 20515-4313", 
-            "district": 13, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3486", 
-            "office": "2208 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3706", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://thornberry.house.gov"
-        }
-    ]
+    {
+      "district": 13, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/thornberry"
+    }, 
+    {
+      "district": 13, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/thornberry"
+    }, 
+    {
+      "district": 13, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/thornberry"
+    }, 
+    {
+      "district": 13, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/thornberry"
+    }, 
+    {
+      "address": "2209 Rayburn HOB; Washington DC 20515-4313", 
+      "contact_form": "http://www.house.gov/writerep", 
+      "district": 13, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3486", 
+      "office": "2209 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3706", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/thornberry"
+    }, 
+    {
+      "address": "2329 Rayburn HOB; Washington DC 20515-4313", 
+      "contact_form": "https://thornberry.house.gov/forms/writeyourrep/", 
+      "district": 13, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3486", 
+      "office": "2329 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3706", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://thornberry.house.gov"
+    }, 
+    {
+      "address": "2208 Rayburn HOB; Washington DC 20515-4313", 
+      "contact_form": "https://thornberry.house.gov/forms/writeyourrep/", 
+      "district": 13, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3486", 
+      "office": "2208 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3706", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://thornberry.house.gov"
+    }, 
+    {
+      "address": "2208 Rayburn House Office Building; Washington DC 20515-4313", 
+      "district": 13, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3486", 
+      "office": "2208 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3706", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://thornberry.house.gov"
+    }
+  ]
 }

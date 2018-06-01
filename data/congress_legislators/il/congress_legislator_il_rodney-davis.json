@@ -1,81 +1,82 @@
 {
-    "bio": {
-        "birthday": "1970-01-05", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1970-01-05", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:697", 
+    "ballotpedia": "Rodney Davis (Illinois)", 
+    "bioguide": "D000619", 
+    "cspan": 68337, 
+    "fec": [
+      "H2IL13120"
+    ], 
+    "google_entity_id": "kg:/m/0jwttjt", 
+    "govtrack": 412536, 
+    "icpsr": 21328, 
+    "maplight": 1760, 
+    "opensecrets": "N00034784", 
+    "thomas": "02126", 
+    "votesmart": 9622, 
+    "wikidata": "Q134035", 
+    "wikipedia": "Rodney Davis (politician)"
+  }, 
+  "name": {
+    "first": "Rodney", 
+    "last": "Davis", 
+    "official_full": "Rodney Davis"
+  }, 
+  "social": {
+    "facebook": "RepRodneyDavis", 
+    "instagram": "reprodneydavis", 
+    "twitter": "RodneyDavis", 
+    "twitter_id": 993153006, 
+    "youtube": "RepRodneyDavis", 
+    "youtube_id": "UCiGPTfpwRxqQp0Bam5S8zwA"
+  }, 
+  "terms": [
+    {
+      "address": "1740 Longworth HOB; Washington DC 20515-1313", 
+      "contact_form": "https://rodneydavisforms.house.gov/contact/", 
+      "district": 13, 
+      "end": "2015-01-03", 
+      "office": "1740 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2371", 
+      "rss_url": "http://rodneydavis.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://rodneydavis.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Rodney Davis (Illinois)", 
-        "bioguide": "D000619", 
-        "cspan": 68337, 
-        "fec": [
-            "H2IL13120"
-        ], 
-        "google_entity_id": "kg:/m/0jwttjt", 
-        "govtrack": 412536, 
-        "icpsr": 21328, 
-        "maplight": 1760, 
-        "opensecrets": "N00034784", 
-        "thomas": "02126", 
-        "votesmart": 9622, 
-        "wikidata": "Q134035", 
-        "wikipedia": "Rodney Davis (politician)"
+    {
+      "address": "1740 Longworth HOB; Washington DC 20515-1313", 
+      "contact_form": "https://rodneydavisforms.house.gov/contact/", 
+      "district": 13, 
+      "end": "2017-01-03", 
+      "fax": "217-791-6168", 
+      "office": "1740 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2371", 
+      "rss_url": "http://rodneydavis.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://rodneydavis.house.gov"
     }, 
-    "name": {
-        "first": "Rodney", 
-        "last": "Davis", 
-        "official_full": "Rodney Davis"
-    }, 
-    "social": {
-        "facebook": "RepRodneyDavis", 
-        "instagram": "reprodneydavis", 
-        "twitter": "RodneyDavis", 
-        "twitter_id": 993153006, 
-        "youtube": "RepRodneyDavis", 
-        "youtube_id": "UCiGPTfpwRxqQp0Bam5S8zwA"
-    }, 
-    "terms": [
-        {
-            "address": "1740 Longworth HOB; Washington DC 20515-1313", 
-            "contact_form": "https://rodneydavisforms.house.gov/contact/", 
-            "district": 13, 
-            "end": "2015-01-03", 
-            "office": "1740 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2371", 
-            "rss_url": "http://rodneydavis.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://rodneydavis.house.gov"
-        }, 
-        {
-            "address": "1740 Longworth HOB; Washington DC 20515-1313", 
-            "contact_form": "https://rodneydavisforms.house.gov/contact/", 
-            "district": 13, 
-            "end": "2017-01-03", 
-            "fax": "217-791-6168", 
-            "office": "1740 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2371", 
-            "rss_url": "http://rodneydavis.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://rodneydavis.house.gov"
-        }, 
-        {
-            "address": "1740 Longworth House Office Building; Washington DC 20515-1313", 
-            "district": 13, 
-            "end": "2019-01-03", 
-            "fax": "217-791-6168", 
-            "office": "1740 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2371", 
-            "rss_url": "http://rodneydavis.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://rodneydavis.house.gov"
-        }
-    ]
+    {
+      "address": "1740 Longworth House Office Building; Washington DC 20515-1313", 
+      "district": 13, 
+      "end": "2019-01-03", 
+      "fax": "217-791-6168", 
+      "office": "1740 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2371", 
+      "rss_url": "http://rodneydavis.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://rodneydavis.house.gov"
+    }
+  ]
 }

@@ -1,59 +1,60 @@
 {
-    "bio": {
-        "birthday": "1979-11-20", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1979-11-20", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:543", 
+    "bioguide": "G000574", 
+    "cspan": 77233, 
+    "fec": [
+      "H4AZ07043"
+    ], 
+    "google_entity_id": "kg:/m/0wy0mz5", 
+    "govtrack": 412612, 
+    "icpsr": 21502, 
+    "maplight": 2068, 
+    "opensecrets": "N00036097", 
+    "thomas": "02226", 
+    "votesmart": 123732, 
+    "wikidata": "Q16218474", 
+    "wikipedia": "Ruben Gallego"
+  }, 
+  "name": {
+    "first": "Ruben", 
+    "last": "Gallego", 
+    "official_full": "Ruben Gallego"
+  }, 
+  "social": {
+    "facebook": "RepRubenGallego", 
+    "instagram": "reprubengallego", 
+    "twitter": "RepRubenGallego", 
+    "twitter_id": 2966570782
+  }, 
+  "terms": [
+    {
+      "address": "1218 Longworth HOB; Washington DC 20515-0307", 
+      "district": 7, 
+      "end": "2017-01-03", 
+      "office": "1218 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4065", 
+      "start": "2015-01-06", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://rubengallego.house.gov"
     }, 
-    "id": {
-        "bioguide": "G000574", 
-        "cspan": 77233, 
-        "fec": [
-            "H4AZ07043"
-        ], 
-        "google_entity_id": "kg:/m/0wy0mz5", 
-        "govtrack": 412612, 
-        "icpsr": 21502, 
-        "maplight": 2068, 
-        "opensecrets": "N00036097", 
-        "thomas": "02226", 
-        "votesmart": 123732, 
-        "wikidata": "Q16218474", 
-        "wikipedia": "Ruben Gallego"
-    }, 
-    "name": {
-        "first": "Ruben", 
-        "last": "Gallego", 
-        "official_full": "Ruben Gallego"
-    }, 
-    "social": {
-        "facebook": "RepRubenGallego", 
-        "instagram": "reprubengallego", 
-        "twitter": "RepRubenGallego", 
-        "twitter_id": 2966570782
-    }, 
-    "terms": [
-        {
-            "address": "1218 Longworth HOB; Washington DC 20515-0307", 
-            "district": 7, 
-            "end": "2017-01-03", 
-            "office": "1218 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4065", 
-            "start": "2015-01-06", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "https://rubengallego.house.gov"
-        }, 
-        {
-            "address": "1218 Longworth House Office Building; Washington DC 20515-0307", 
-            "district": 7, 
-            "end": "2019-01-03", 
-            "office": "1218 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4065", 
-            "start": "2017-01-03", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "https://rubengallego.house.gov"
-        }
-    ]
+    {
+      "address": "1218 Longworth House Office Building; Washington DC 20515-0307", 
+      "district": 7, 
+      "end": "2019-01-03", 
+      "office": "1218 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4065", 
+      "start": "2017-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://rubengallego.house.gov"
+    }
+  ]
 }

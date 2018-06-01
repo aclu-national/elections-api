@@ -1,122 +1,123 @@
 {
-    "bio": {
-        "birthday": "1948-06-11", 
-        "gender": "M", 
-        "religion": "Baptist"
+  "bio": {
+    "birthday": "1948-06-11", 
+    "gender": "M", 
+    "religion": "Baptist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:970", 
+    "ballotpedia": "Mike Conaway", 
+    "bioguide": "C001062", 
+    "cspan": 1004595, 
+    "fec": [
+      "H4TX19136", 
+      "H3TX19021"
+    ], 
+    "google_entity_id": "kg:/m/04cmt7", 
+    "govtrack": 400655, 
+    "house_history": 11788, 
+    "icpsr": 20531, 
+    "maplight": 660, 
+    "opensecrets": "N00026041", 
+    "thomas": "01805", 
+    "votesmart": 49935, 
+    "wikidata": "Q538944", 
+    "wikipedia": "Mike Conaway"
+  }, 
+  "name": {
+    "first": "K.", 
+    "last": "Conaway", 
+    "middle": "Michael", 
+    "official_full": "K. Michael Conaway"
+  }, 
+  "social": {
+    "facebook": "mike.conaway", 
+    "twitter": "ConawayTX11", 
+    "twitter_id": 295685416, 
+    "youtube": "mikeconaway11", 
+    "youtube_id": "UCR3dhwhVfxmmqv6ct2Xa1-g"
+  }, 
+  "terms": [
+    {
+      "district": 11, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Mike Conaway", 
-        "bioguide": "C001062", 
-        "cspan": 1004595, 
-        "fec": [
-            "H4TX19136", 
-            "H3TX19021"
-        ], 
-        "google_entity_id": "kg:/m/04cmt7", 
-        "govtrack": 400655, 
-        "house_history": 11788, 
-        "icpsr": 20531, 
-        "maplight": 660, 
-        "opensecrets": "N00026041", 
-        "thomas": "01805", 
-        "votesmart": 49935, 
-        "wikidata": "Q538944", 
-        "wikipedia": "Mike Conaway"
+    {
+      "district": 11, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/conaway"
     }, 
-    "name": {
-        "first": "K.", 
-        "last": "Conaway", 
-        "middle": "Michael", 
-        "official_full": "K. Michael Conaway"
+    {
+      "district": 11, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/conaway"
     }, 
-    "social": {
-        "facebook": "mike.conaway", 
-        "twitter": "ConawayTX11", 
-        "twitter_id": 295685416, 
-        "youtube": "mikeconaway11", 
-        "youtube_id": "UCR3dhwhVfxmmqv6ct2Xa1-g"
+    {
+      "address": "2430 Rayburn HOB; Washington DC 20515-4311", 
+      "contact_form": "http://conaway.house.gov/Contact/default.aspx#email", 
+      "district": 11, 
+      "end": "2013-01-03", 
+      "fax": "202-225-1783", 
+      "office": "2430 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3605", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/conaway"
     }, 
-    "terms": [
-        {
-            "district": 11, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/conaway"
-        }, 
-        {
-            "district": 11, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/conaway"
-        }, 
-        {
-            "address": "2430 Rayburn HOB; Washington DC 20515-4311", 
-            "contact_form": "http://conaway.house.gov/Contact/default.aspx#email", 
-            "district": 11, 
-            "end": "2013-01-03", 
-            "fax": "202-225-1783", 
-            "office": "2430 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3605", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/conaway"
-        }, 
-        {
-            "address": "2430 Rayburn HOB; Washington DC 20515-4311", 
-            "contact_form": "https://conaway.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 11, 
-            "end": "2015-01-03", 
-            "fax": "202-225-1783", 
-            "office": "2430 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3605", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://conaway.house.gov"
-        }, 
-        {
-            "address": "2430 Rayburn HOB; Washington DC 20515-4311", 
-            "contact_form": "https://conaway.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 11, 
-            "end": "2017-01-03", 
-            "fax": "202-225-1783", 
-            "office": "2430 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3605", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://conaway.house.gov"
-        }, 
-        {
-            "address": "2430 Rayburn House Office Building; Washington DC 20515-4311", 
-            "district": 11, 
-            "end": "2019-01-03", 
-            "fax": "202-225-1783", 
-            "office": "2430 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3605", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://conaway.house.gov"
-        }
-    ]
+    {
+      "address": "2430 Rayburn HOB; Washington DC 20515-4311", 
+      "contact_form": "https://conaway.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 11, 
+      "end": "2015-01-03", 
+      "fax": "202-225-1783", 
+      "office": "2430 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3605", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://conaway.house.gov"
+    }, 
+    {
+      "address": "2430 Rayburn HOB; Washington DC 20515-4311", 
+      "contact_form": "https://conaway.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 11, 
+      "end": "2017-01-03", 
+      "fax": "202-225-1783", 
+      "office": "2430 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3605", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://conaway.house.gov"
+    }, 
+    {
+      "address": "2430 Rayburn House Office Building; Washington DC 20515-4311", 
+      "district": 11, 
+      "end": "2019-01-03", 
+      "fax": "202-225-1783", 
+      "office": "2430 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3605", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://conaway.house.gov"
+    }
+  ]
 }

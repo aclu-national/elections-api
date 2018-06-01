@@ -1,63 +1,64 @@
 {
-    "bio": {
-        "birthday": "1966-03-22", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1966-03-22", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:540", 
+    "bioguide": "M001197", 
+    "cspan": 29126, 
+    "fec": [
+      "H2AZ08102"
+    ], 
+    "google_entity_id": "kg:/m/027fybv", 
+    "govtrack": 412611, 
+    "house_history": 15032414876, 
+    "icpsr": 21501, 
+    "maplight": 2067, 
+    "opensecrets": "N00033982", 
+    "thomas": "02225", 
+    "votesmart": 137299, 
+    "wikidata": "Q6774492", 
+    "wikipedia": "Martha McSally"
+  }, 
+  "name": {
+    "first": "Martha", 
+    "last": "McSally", 
+    "official_full": "Martha McSally"
+  }, 
+  "social": {
+    "facebook": "RepMcSally", 
+    "instagram": "repmcsally", 
+    "twitter": "RepMcSally", 
+    "twitter_id": 2964949642, 
+    "youtube_id": "UCfHMG2Db0TJ_RatSBHuH8NA"
+  }, 
+  "terms": [
+    {
+      "address": "1029 Longworth HOB; Washington DC 20515-0302", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0378", 
+      "office": "1029 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2542", 
+      "start": "2015-01-06", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://mcsally.house.gov"
     }, 
-    "id": {
-        "bioguide": "M001197", 
-        "cspan": 29126, 
-        "fec": [
-            "H2AZ08102"
-        ], 
-        "google_entity_id": "kg:/m/027fybv", 
-        "govtrack": 412611, 
-        "house_history": 15032414876, 
-        "icpsr": 21501, 
-        "maplight": 2067, 
-        "opensecrets": "N00033982", 
-        "thomas": "02225", 
-        "votesmart": 137299, 
-        "wikidata": "Q6774492", 
-        "wikipedia": "Martha McSally"
-    }, 
-    "name": {
-        "first": "Martha", 
-        "last": "McSally", 
-        "official_full": "Martha McSally"
-    }, 
-    "social": {
-        "facebook": "RepMcSally", 
-        "instagram": "repmcsally", 
-        "twitter": "RepMcSally", 
-        "twitter_id": 2964949642, 
-        "youtube_id": "UCfHMG2Db0TJ_RatSBHuH8NA"
-    }, 
-    "terms": [
-        {
-            "address": "1029 Longworth HOB; Washington DC 20515-0302", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0378", 
-            "office": "1029 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2542", 
-            "start": "2015-01-06", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "https://mcsally.house.gov"
-        }, 
-        {
-            "address": "510 Cannon House Office Building; Washington DC 20515-0302", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0378", 
-            "office": "510 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2542", 
-            "start": "2017-01-03", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "https://mcsally.house.gov"
-        }
-    ]
+    {
+      "address": "510 Cannon House Office Building; Washington DC 20515-0302", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0378", 
+      "office": "510 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2542", 
+      "start": "2017-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://mcsally.house.gov"
+    }
+  ]
 }

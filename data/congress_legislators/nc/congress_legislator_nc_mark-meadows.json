@@ -1,81 +1,82 @@
 {
-    "bio": {
-        "birthday": "1959-07-28", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1959-07-28", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:804", 
+    "ballotpedia": "Mark Meadows, North Carolina", 
+    "bioguide": "M001187", 
+    "cspan": 79621, 
+    "fec": [
+      "H2NC11080"
+    ], 
+    "google_entity_id": "kg:/m/0lqdy32", 
+    "govtrack": 412552, 
+    "icpsr": 21348, 
+    "maplight": 1776, 
+    "opensecrets": "N00033631", 
+    "thomas": "02142", 
+    "votesmart": 136459, 
+    "wikidata": "Q3956796", 
+    "wikipedia": "Mark Meadows (North Carolina politician)"
+  }, 
+  "name": {
+    "first": "Mark", 
+    "last": "Meadows", 
+    "official_full": "Mark Meadows"
+  }, 
+  "social": {
+    "facebook": "Repmarkmeadows", 
+    "instagram": "repmarkmeadows", 
+    "twitter": "RepMarkMeadows", 
+    "twitter_id": 963480595, 
+    "youtube": "RepMarkMeadows", 
+    "youtube_id": "UCu1unBO6gQdCz3qok5LPFGQ"
+  }, 
+  "terms": [
+    {
+      "address": "1516 Longworth HOB; Washington DC 20515-3311", 
+      "contact_form": "https://meadows.house.gov/email-me", 
+      "district": 11, 
+      "end": "2015-01-03", 
+      "office": "1516 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6401", 
+      "rss_url": "http://meadows.house.gov/rss/press-releases.xml", 
+      "start": "2013-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://meadows.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Mark Meadows, North Carolina", 
-        "bioguide": "M001187", 
-        "cspan": 79621, 
-        "fec": [
-            "H2NC11080"
-        ], 
-        "google_entity_id": "kg:/m/0lqdy32", 
-        "govtrack": 412552, 
-        "icpsr": 21348, 
-        "maplight": 1776, 
-        "opensecrets": "N00033631", 
-        "thomas": "02142", 
-        "votesmart": 136459, 
-        "wikidata": "Q3956796", 
-        "wikipedia": "Mark Meadows (North Carolina politician)"
+    {
+      "address": "1024 Longworth HOB; Washington DC 20515-3311", 
+      "contact_form": "https://meadows.house.gov/email-me", 
+      "district": 11, 
+      "end": "2017-01-03", 
+      "fax": "202-226-6422", 
+      "office": "1024 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6401", 
+      "rss_url": "http://meadows.house.gov/rss/press-releases.xml", 
+      "start": "2015-01-06", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://meadows.house.gov"
     }, 
-    "name": {
-        "first": "Mark", 
-        "last": "Meadows", 
-        "official_full": "Mark Meadows"
-    }, 
-    "social": {
-        "facebook": "Repmarkmeadows", 
-        "instagram": "repmarkmeadows", 
-        "twitter": "RepMarkMeadows", 
-        "twitter_id": 963480595, 
-        "youtube": "RepMarkMeadows", 
-        "youtube_id": "UCu1unBO6gQdCz3qok5LPFGQ"
-    }, 
-    "terms": [
-        {
-            "address": "1516 Longworth HOB; Washington DC 20515-3311", 
-            "contact_form": "https://meadows.house.gov/email-me", 
-            "district": 11, 
-            "end": "2015-01-03", 
-            "office": "1516 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6401", 
-            "rss_url": "http://meadows.house.gov/rss/press-releases.xml", 
-            "start": "2013-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://meadows.house.gov"
-        }, 
-        {
-            "address": "1024 Longworth HOB; Washington DC 20515-3311", 
-            "contact_form": "https://meadows.house.gov/email-me", 
-            "district": 11, 
-            "end": "2017-01-03", 
-            "fax": "202-226-6422", 
-            "office": "1024 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6401", 
-            "rss_url": "http://meadows.house.gov/rss/press-releases.xml", 
-            "start": "2015-01-06", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "https://meadows.house.gov"
-        }, 
-        {
-            "address": "1024 Longworth House Office Building; Washington DC 20515-3311", 
-            "district": 11, 
-            "end": "2019-01-03", 
-            "fax": "202-226-6422", 
-            "office": "1024 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6401", 
-            "rss_url": "http://meadows.house.gov/rss/press-releases.xml", 
-            "start": "2017-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "https://meadows.house.gov"
-        }
-    ]
+    {
+      "address": "1024 Longworth House Office Building; Washington DC 20515-3311", 
+      "district": 11, 
+      "end": "2019-01-03", 
+      "fax": "202-226-6422", 
+      "office": "1024 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6401", 
+      "rss_url": "http://meadows.house.gov/rss/press-releases.xml", 
+      "start": "2017-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://meadows.house.gov"
+    }
+  ]
 }

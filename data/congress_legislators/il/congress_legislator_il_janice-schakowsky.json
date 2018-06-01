@@ -1,151 +1,152 @@
 {
-    "bio": {
-        "birthday": "1944-05-26", 
-        "gender": "F", 
-        "religion": "Jewish"
+  "bio": {
+    "birthday": "1944-05-26", 
+    "gender": "F", 
+    "religion": "Jewish"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:687", 
+    "ballotpedia": "Jan Schakowsky", 
+    "bioguide": "S001145", 
+    "cspan": 57874, 
+    "fec": [
+      "H8IL09067"
+    ], 
+    "google_entity_id": "kg:/m/0256nw", 
+    "govtrack": 400360, 
+    "house_history": 22550, 
+    "icpsr": 29911, 
+    "maplight": 452, 
+    "opensecrets": "N00004724", 
+    "thomas": "01588", 
+    "votesmart": 6387, 
+    "wikidata": "Q440885", 
+    "wikipedia": "Jan Schakowsky"
+  }, 
+  "name": {
+    "first": "Janice", 
+    "last": "Schakowsky", 
+    "middle": "D.", 
+    "nickname": "Jan", 
+    "official_full": "Janice D. Schakowsky"
+  }, 
+  "social": {
+    "facebook": "janschakowsky", 
+    "twitter": "JanSchakowsky", 
+    "twitter_id": 24195214, 
+    "youtube": "repschakowsky", 
+    "youtube_id": "UCuCHHPSENUEaaeH8n_CYDXQ"
+  }, 
+  "terms": [
+    {
+      "district": 9, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "IL", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Jan Schakowsky", 
-        "bioguide": "S001145", 
-        "cspan": 57874, 
-        "fec": [
-            "H8IL09067"
-        ], 
-        "google_entity_id": "kg:/m/0256nw", 
-        "govtrack": 400360, 
-        "house_history": 22550, 
-        "icpsr": 29911, 
-        "maplight": 452, 
-        "opensecrets": "N00004724", 
-        "thomas": "01588", 
-        "votesmart": 6387, 
-        "wikidata": "Q440885", 
-        "wikipedia": "Jan Schakowsky"
+    {
+      "district": 9, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "IL", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Janice", 
-        "last": "Schakowsky", 
-        "middle": "D.", 
-        "nickname": "Jan", 
-        "official_full": "Janice D. Schakowsky"
+    {
+      "district": 9, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schakowsky"
     }, 
-    "social": {
-        "facebook": "janschakowsky", 
-        "twitter": "JanSchakowsky", 
-        "twitter_id": 24195214, 
-        "youtube": "repschakowsky", 
-        "youtube_id": "UCuCHHPSENUEaaeH8n_CYDXQ"
+    {
+      "district": 9, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schakowsky"
     }, 
-    "terms": [
-        {
-            "district": 9, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "IL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "IL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schakowsky"
-        }, 
-        {
-            "district": 9, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schakowsky"
-        }, 
-        {
-            "district": 9, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schakowsky"
-        }, 
-        {
-            "district": 9, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schakowsky"
-        }, 
-        {
-            "address": "2367 Rayburn HOB; Washington DC 20515-1309", 
-            "contact_form": "http://www.house.gov/schakowsky/contact.shtml", 
-            "district": 9, 
-            "end": "2013-01-03", 
-            "fax": "202-226-6890", 
-            "office": "2367 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2111", 
-            "start": "2011-01-05", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schakowsky"
-        }, 
-        {
-            "address": "2367 Rayburn HOB; Washington DC 20515-1309", 
-            "contact_form": "https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-226-6890", 
-            "office": "2367 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2111", 
-            "rss_url": "http://schakowsky.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://schakowsky.house.gov"
-        }, 
-        {
-            "address": "2367 Rayburn HOB; Washington DC 20515-1309", 
-            "contact_form": "https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-226-6890", 
-            "office": "2367 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2111", 
-            "rss_url": "http://schakowsky.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://schakowsky.house.gov"
-        }, 
-        {
-            "address": "2367 Rayburn House Office Building; Washington DC 20515-1309", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-226-6890", 
-            "office": "2367 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2111", 
-            "rss_url": "http://schakowsky.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://schakowsky.house.gov"
-        }
-    ]
+    {
+      "district": 9, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schakowsky"
+    }, 
+    {
+      "district": 9, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schakowsky"
+    }, 
+    {
+      "address": "2367 Rayburn HOB; Washington DC 20515-1309", 
+      "contact_form": "http://www.house.gov/schakowsky/contact.shtml", 
+      "district": 9, 
+      "end": "2013-01-03", 
+      "fax": "202-226-6890", 
+      "office": "2367 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2111", 
+      "start": "2011-01-05", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schakowsky"
+    }, 
+    {
+      "address": "2367 Rayburn HOB; Washington DC 20515-1309", 
+      "contact_form": "https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-226-6890", 
+      "office": "2367 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2111", 
+      "rss_url": "http://schakowsky.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://schakowsky.house.gov"
+    }, 
+    {
+      "address": "2367 Rayburn HOB; Washington DC 20515-1309", 
+      "contact_form": "https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-226-6890", 
+      "office": "2367 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2111", 
+      "rss_url": "http://schakowsky.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://schakowsky.house.gov"
+    }, 
+    {
+      "address": "2367 Rayburn House Office Building; Washington DC 20515-1309", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-226-6890", 
+      "office": "2367 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2111", 
+      "rss_url": "http://schakowsky.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://schakowsky.house.gov"
+    }
+  ]
 }

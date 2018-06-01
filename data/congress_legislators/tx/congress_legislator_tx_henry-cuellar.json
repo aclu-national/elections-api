@@ -1,122 +1,123 @@
 {
-    "bio": {
-        "birthday": "1955-09-19", 
-        "gender": "M", 
-        "religion": "Catholic"
+  "bio": {
+    "birthday": "1955-09-19", 
+    "gender": "M", 
+    "religion": "Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:961", 
+    "bioguide": "C001063", 
+    "cspan": 1013062, 
+    "fec": [
+      "H2TX23082"
+    ], 
+    "google_entity_id": "kg:/m/04clj6", 
+    "govtrack": 400657, 
+    "house_history": 11790, 
+    "icpsr": 20533, 
+    "maplight": 662, 
+    "opensecrets": "N00024978", 
+    "thomas": "01807", 
+    "votesmart": 5486, 
+    "wikidata": "Q539562", 
+    "wikipedia": "Henry Cuellar"
+  }, 
+  "name": {
+    "first": "Henry", 
+    "last": "Cuellar", 
+    "official_full": "Henry Cuellar"
+  }, 
+  "social": {
+    "facebook": "152569121550", 
+    "twitter": "RepCuellar", 
+    "twitter_id": 210926192, 
+    "youtube": "henrycuellar", 
+    "youtube_id": "UCVgEOdJx3tyILO9EjZ-heEQ"
+  }, 
+  "terms": [
+    {
+      "district": 28, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "C001063", 
-        "cspan": 1013062, 
-        "fec": [
-            "H2TX23082"
-        ], 
-        "google_entity_id": "kg:/m/04clj6", 
-        "govtrack": 400657, 
-        "house_history": 11790, 
-        "icpsr": 20533, 
-        "maplight": 662, 
-        "opensecrets": "N00024978", 
-        "thomas": "01807", 
-        "votesmart": 5486, 
-        "wikidata": "Q539562", 
-        "wikipedia": "Henry Cuellar"
+    {
+      "district": 28, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cuellar"
     }, 
-    "name": {
-        "first": "Henry", 
-        "last": "Cuellar", 
-        "official_full": "Henry Cuellar"
+    {
+      "district": 28, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cuellar"
     }, 
-    "social": {
-        "facebook": "152569121550", 
-        "twitter": "RepCuellar", 
-        "twitter_id": 210926192, 
-        "youtube": "henrycuellar", 
-        "youtube_id": "UCVgEOdJx3tyILO9EjZ-heEQ"
+    {
+      "address": "2463 Rayburn HOB; Washington DC 20515-4328", 
+      "contact_form": "http://cuellar.house.gov/Contact/SendMeAnEmail.htm", 
+      "district": 28, 
+      "end": "2013-01-03", 
+      "fax": "202-225-1641", 
+      "office": "2463 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1640", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cuellar"
     }, 
-    "terms": [
-        {
-            "district": 28, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 28, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cuellar"
-        }, 
-        {
-            "district": 28, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cuellar"
-        }, 
-        {
-            "address": "2463 Rayburn HOB; Washington DC 20515-4328", 
-            "contact_form": "http://cuellar.house.gov/Contact/SendMeAnEmail.htm", 
-            "district": 28, 
-            "end": "2013-01-03", 
-            "fax": "202-225-1641", 
-            "office": "2463 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1640", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cuellar"
-        }, 
-        {
-            "address": "2431 Rayburn HOB; Washington DC 20515-4328", 
-            "contact_form": "https://cuellar.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 28, 
-            "end": "2015-01-03", 
-            "fax": "202-225-1641", 
-            "office": "2431 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1640", 
-            "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://cuellar.house.gov"
-        }, 
-        {
-            "address": "2209 Rayburn HOB; Washington DC 20515-4328", 
-            "contact_form": "https://cuellar.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 28, 
-            "end": "2017-01-03", 
-            "fax": "202-225-1641", 
-            "office": "2209 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1640", 
-            "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://cuellar.house.gov"
-        }, 
-        {
-            "address": "2209 Rayburn House Office Building; Washington DC 20515-4328", 
-            "district": 28, 
-            "end": "2019-01-03", 
-            "fax": "202-225-1641", 
-            "office": "2209 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1640", 
-            "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://cuellar.house.gov"
-        }
-    ]
+    {
+      "address": "2431 Rayburn HOB; Washington DC 20515-4328", 
+      "contact_form": "https://cuellar.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 28, 
+      "end": "2015-01-03", 
+      "fax": "202-225-1641", 
+      "office": "2431 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1640", 
+      "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://cuellar.house.gov"
+    }, 
+    {
+      "address": "2209 Rayburn HOB; Washington DC 20515-4328", 
+      "contact_form": "https://cuellar.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 28, 
+      "end": "2017-01-03", 
+      "fax": "202-225-1641", 
+      "office": "2209 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1640", 
+      "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://cuellar.house.gov"
+    }, 
+    {
+      "address": "2209 Rayburn House Office Building; Washington DC 20515-4328", 
+      "district": 28, 
+      "end": "2019-01-03", 
+      "fax": "202-225-1641", 
+      "office": "2209 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1640", 
+      "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://cuellar.house.gov"
+    }
+  ]
 }

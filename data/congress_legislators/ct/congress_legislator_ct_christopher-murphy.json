@@ -1,89 +1,90 @@
 {
-    "bio": {
-        "birthday": "1973-08-03", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1973-08-03", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:609", 
+    "ballotpedia": "Christopher S. Murphy", 
+    "bioguide": "M001169", 
+    "cspan": 1021270, 
+    "fec": [
+      "H6CT05124", 
+      "S2CT00132"
+    ], 
+    "google_entity_id": "kg:/m/0cy_dh", 
+    "govtrack": 412194, 
+    "house_history": 18809, 
+    "icpsr": 20707, 
+    "lis": "S364", 
+    "maplight": 681, 
+    "opensecrets": "N00027566", 
+    "thomas": "01837", 
+    "votesmart": 17189, 
+    "wikidata": "Q1077594", 
+    "wikipedia": "Chris Murphy (Connecticut politician)"
+  }, 
+  "name": {
+    "first": "Christopher", 
+    "last": "Murphy", 
+    "middle": "S.", 
+    "official_full": "Christopher Murphy"
+  }, 
+  "social": {
+    "facebook": "chrismurphyct", 
+    "twitter": "senmurphyoffice", 
+    "twitter_id": 2853793517, 
+    "youtube": "senchrismurphy", 
+    "youtube_id": "UCbcEa40PIFpLpdDe06n3F3Q"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "http://chrismurphy.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Christopher S. Murphy", 
-        "bioguide": "M001169", 
-        "cspan": 1021270, 
-        "fec": [
-            "H6CT05124", 
-            "S2CT00132"
-        ], 
-        "google_entity_id": "kg:/m/0cy_dh", 
-        "govtrack": 412194, 
-        "house_history": 18809, 
-        "icpsr": 20707, 
-        "lis": "S364", 
-        "maplight": 681, 
-        "opensecrets": "N00027566", 
-        "thomas": "01837", 
-        "votesmart": 17189, 
-        "wikidata": "Q1077594", 
-        "wikipedia": "Chris Murphy (Connecticut politician)"
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "http://chrismurphy.house.gov"
     }, 
-    "name": {
-        "first": "Christopher", 
-        "last": "Murphy", 
-        "middle": "S.", 
-        "official_full": "Christopher Murphy"
+    {
+      "address": "412 Cannon HOB; Washington DC 20515-0705", 
+      "contact_form": "http://www.house.gov/formchrismurphy/ic_zip_auth.htm", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5933", 
+      "office": "412 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4476", 
+      "start": "2011-01-05", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "http://chrismurphy.house.gov"
     }, 
-    "social": {
-        "facebook": "chrismurphyct", 
-        "twitter": "senmurphyoffice", 
-        "twitter_id": 2853793517, 
-        "youtube": "senchrismurphy", 
-        "youtube_id": "UCbcEa40PIFpLpdDe06n3F3Q"
-    }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "CT", 
-            "type": "rep", 
-            "url": "http://chrismurphy.house.gov"
-        }, 
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CT", 
-            "type": "rep", 
-            "url": "http://chrismurphy.house.gov"
-        }, 
-        {
-            "address": "412 Cannon HOB; Washington DC 20515-0705", 
-            "contact_form": "http://www.house.gov/formchrismurphy/ic_zip_auth.htm", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5933", 
-            "office": "412 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4476", 
-            "start": "2011-01-05", 
-            "state": "CT", 
-            "type": "rep", 
-            "url": "http://chrismurphy.house.gov"
-        }, 
-        {
-            "address": "136 Hart Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.murphy.senate.gov/contact", 
-            "end": "2019-01-03", 
-            "fax": "202-225-5933", 
-            "office": "136 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-4041", 
-            "rss_url": "http://www.theday.com/article/20121216/nws12/312169935/1069/rss", 
-            "start": "2013-01-03", 
-            "state": "CT", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.murphy.senate.gov"
-        }
-    ]
+    {
+      "address": "136 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.murphy.senate.gov/contact", 
+      "end": "2019-01-03", 
+      "fax": "202-225-5933", 
+      "office": "136 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4041", 
+      "rss_url": "http://www.theday.com/article/20121216/nws12/312169935/1069/rss", 
+      "start": "2013-01-03", 
+      "state": "CT", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.murphy.senate.gov"
+    }
+  ]
 }

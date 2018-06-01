@@ -1,80 +1,81 @@
 {
-    "bio": {
-        "birthday": "1977-07-26", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1977-07-26", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:899", 
+    "ballotpedia": "Markwayne Mullin", 
+    "bioguide": "M001190", 
+    "cspan": 1034045, 
+    "fec": [
+      "H2OK02083"
+    ], 
+    "google_entity_id": "kg:/m/0lq78pn", 
+    "govtrack": 412568, 
+    "icpsr": 21355, 
+    "maplight": 1792, 
+    "opensecrets": "N00033410", 
+    "thomas": "02156", 
+    "votesmart": 135898, 
+    "wikidata": "Q3448772", 
+    "wikipedia": "Markwayne Mullin"
+  }, 
+  "name": {
+    "first": "Markwayne", 
+    "last": "Mullin", 
+    "official_full": "Markwayne Mullin"
+  }, 
+  "social": {
+    "facebook": "RepMullin", 
+    "twitter": "RepMullin", 
+    "twitter_id": 1060370282, 
+    "youtube_id": "UCLQlm-cbGbJj9baZC6oFsag"
+  }, 
+  "terms": [
+    {
+      "address": "1113 Longworth HOB; Washington DC 20515-3602", 
+      "contact_form": "https://mullin.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3038", 
+      "office": "1113 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2701", 
+      "rss_url": "http://mullin.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://mullin.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Markwayne Mullin", 
-        "bioguide": "M001190", 
-        "cspan": 1034045, 
-        "fec": [
-            "H2OK02083"
-        ], 
-        "google_entity_id": "kg:/m/0lq78pn", 
-        "govtrack": 412568, 
-        "icpsr": 21355, 
-        "maplight": 1792, 
-        "opensecrets": "N00033410", 
-        "thomas": "02156", 
-        "votesmart": 135898, 
-        "wikidata": "Q3448772", 
-        "wikipedia": "Markwayne Mullin"
+    {
+      "address": "1113 Longworth HOB; Washington DC 20515-3602", 
+      "contact_form": "https://mullin.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3038", 
+      "office": "1113 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2701", 
+      "rss_url": "http://mullin.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://mullin.house.gov"
     }, 
-    "name": {
-        "first": "Markwayne", 
-        "last": "Mullin", 
-        "official_full": "Markwayne Mullin"
-    }, 
-    "social": {
-        "facebook": "RepMullin", 
-        "twitter": "RepMullin", 
-        "twitter_id": 1060370282, 
-        "youtube_id": "UCLQlm-cbGbJj9baZC6oFsag"
-    }, 
-    "terms": [
-        {
-            "address": "1113 Longworth HOB; Washington DC 20515-3602", 
-            "contact_form": "https://mullin.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3038", 
-            "office": "1113 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2701", 
-            "rss_url": "http://mullin.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://mullin.house.gov"
-        }, 
-        {
-            "address": "1113 Longworth HOB; Washington DC 20515-3602", 
-            "contact_form": "https://mullin.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3038", 
-            "office": "1113 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2701", 
-            "rss_url": "http://mullin.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://mullin.house.gov"
-        }, 
-        {
-            "address": "1113 Longworth House Office Building; Washington DC 20515-3602", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3038", 
-            "office": "1113 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2701", 
-            "rss_url": "http://mullin.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "https://mullin.house.gov"
-        }
-    ]
+    {
+      "address": "1113 Longworth House Office Building; Washington DC 20515-3602", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3038", 
+      "office": "1113 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2701", 
+      "rss_url": "http://mullin.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://mullin.house.gov"
+    }
+  ]
 }

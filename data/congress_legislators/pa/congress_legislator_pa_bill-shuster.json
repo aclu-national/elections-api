@@ -1,145 +1,146 @@
 {
-    "bio": {
-        "birthday": "1961-01-10", 
-        "gender": "M"
-    }, 
-    "family": [
-        {
-            "name": "E. G. ?Bud? Shuster", 
-            "relation": "son"
-        }
+  "bio": {
+    "birthday": "1961-01-10", 
+    "gender": "M"
+  }, 
+  "family": [
+    {
+      "name": "E. G. ?Bud? Shuster", 
+      "relation": "son"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:909", 
+    "bioguide": "S001154", 
+    "cspan": 89108, 
+    "fec": [
+      "H2PA09035"
     ], 
-    "id": {
-        "bioguide": "S001154", 
-        "cspan": 89108, 
-        "fec": [
-            "H2PA09035"
-        ], 
-        "google_entity_id": "kg:/m/03tm89", 
-        "govtrack": 409888, 
-        "house_history": 22568, 
-        "icpsr": 20134, 
-        "maplight": 669, 
-        "opensecrets": "N00013770", 
-        "thomas": "01681", 
-        "votesmart": 55693, 
-        "wikidata": "Q862455", 
-        "wikipedia": "Bill Shuster"
+    "google_entity_id": "kg:/m/03tm89", 
+    "govtrack": 409888, 
+    "house_history": 22568, 
+    "icpsr": 20134, 
+    "maplight": 669, 
+    "opensecrets": "N00013770", 
+    "thomas": "01681", 
+    "votesmart": 55693, 
+    "wikidata": "Q862455", 
+    "wikipedia": "Bill Shuster"
+  }, 
+  "name": {
+    "first": "Bill", 
+    "last": "Shuster", 
+    "official_full": "Bill Shuster"
+  }, 
+  "social": {
+    "facebook": "Rep.Shuster", 
+    "twitter": "RepBillShuster", 
+    "twitter_id": 22527499, 
+    "youtube": "repshuster", 
+    "youtube_id": "UCEfLAXoX-pV3ETccADGOdXg"
+  }, 
+  "terms": [
+    {
+      "district": 9, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-05-17", 
+      "state": "PA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Bill", 
-        "last": "Shuster", 
-        "official_full": "Bill Shuster"
+    {
+      "district": 9, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/shuster"
     }, 
-    "social": {
-        "facebook": "Rep.Shuster", 
-        "twitter": "RepBillShuster", 
-        "twitter_id": 22527499, 
-        "youtube": "repshuster", 
-        "youtube_id": "UCEfLAXoX-pV3ETccADGOdXg"
+    {
+      "district": 9, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/shuster"
     }, 
-    "terms": [
-        {
-            "district": 9, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-05-17", 
-            "state": "PA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/shuster"
-        }, 
-        {
-            "district": 9, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/shuster"
-        }, 
-        {
-            "district": 9, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/shuster"
-        }, 
-        {
-            "district": 9, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/shuster"
-        }, 
-        {
-            "address": "204 Cannon HOB; Washington DC 20515-3809", 
-            "contact_form": "http://www.house.gov/shuster/zipauth.htm", 
-            "district": 9, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2486", 
-            "office": "204 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2431", 
-            "start": "2011-01-05", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/shuster"
-        }, 
-        {
-            "address": "2209 Rayburn HOB; Washington DC 20515-3809", 
-            "contact_form": "http://shuster.house.gov/contact-form/", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2486", 
-            "office": "2209 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2431", 
-            "rss_url": "http://shuster.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2013-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://shuster.house.gov"
-        }, 
-        {
-            "address": "2268 Rayburn HOB; Washington DC 20515-3809", 
-            "contact_form": "http://shuster.house.gov/contact-form/", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2486", 
-            "office": "2268 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2431", 
-            "rss_url": "http://shuster.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2015-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://shuster.house.gov"
-        }, 
-        {
-            "address": "2079 Rayburn House Office Building; Washington DC 20515-3809", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2486", 
-            "office": "2079 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2431", 
-            "rss_url": "http://shuster.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://shuster.house.gov"
-        }
-    ]
+    {
+      "district": 9, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/shuster"
+    }, 
+    {
+      "district": 9, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/shuster"
+    }, 
+    {
+      "address": "204 Cannon HOB; Washington DC 20515-3809", 
+      "contact_form": "http://www.house.gov/shuster/zipauth.htm", 
+      "district": 9, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2486", 
+      "office": "204 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2431", 
+      "start": "2011-01-05", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/shuster"
+    }, 
+    {
+      "address": "2209 Rayburn HOB; Washington DC 20515-3809", 
+      "contact_form": "http://shuster.house.gov/contact-form/", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2486", 
+      "office": "2209 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2431", 
+      "rss_url": "http://shuster.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2013-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://shuster.house.gov"
+    }, 
+    {
+      "address": "2268 Rayburn HOB; Washington DC 20515-3809", 
+      "contact_form": "http://shuster.house.gov/contact-form/", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2486", 
+      "office": "2268 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2431", 
+      "rss_url": "http://shuster.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2015-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://shuster.house.gov"
+    }, 
+    {
+      "address": "2079 Rayburn House Office Building; Washington DC 20515-3809", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2486", 
+      "office": "2079 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2431", 
+      "rss_url": "http://shuster.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://shuster.house.gov"
+    }
+  ]
 }

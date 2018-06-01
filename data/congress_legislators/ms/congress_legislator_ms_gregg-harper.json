@@ -1,104 +1,105 @@
 {
-    "bio": {
-        "birthday": "1956-06-01", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1956-06-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:793", 
+    "bioguide": "H001045", 
+    "cspan": 1031347, 
+    "fec": [
+      "H8MS03067"
+    ], 
+    "google_entity_id": "kg:/m/0406s7r", 
+    "govtrack": 412280, 
+    "house_history": 15586, 
+    "icpsr": 20925, 
+    "maplight": 762, 
+    "opensecrets": "N00029632", 
+    "thomas": "01933", 
+    "votesmart": 101985, 
+    "wikidata": "Q1545023", 
+    "wikipedia": "Gregg Harper"
+  }, 
+  "name": {
+    "first": "Gregg", 
+    "last": "Harper", 
+    "official_full": "Gregg Harper"
+  }, 
+  "social": {
+    "facebook": "GreggHarper", 
+    "twitter": "GreggHarper", 
+    "twitter_id": 23712174, 
+    "youtube": "congressmanharper", 
+    "youtube_id": "UC9UIowW9bhstVTiMX8znppQ"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "http://harper.house.gov"
     }, 
-    "id": {
-        "bioguide": "H001045", 
-        "cspan": 1031347, 
-        "fec": [
-            "H8MS03067"
-        ], 
-        "google_entity_id": "kg:/m/0406s7r", 
-        "govtrack": 412280, 
-        "house_history": 15586, 
-        "icpsr": 20925, 
-        "maplight": 762, 
-        "opensecrets": "N00029632", 
-        "thomas": "01933", 
-        "votesmart": 101985, 
-        "wikidata": "Q1545023", 
-        "wikipedia": "Gregg Harper"
+    {
+      "address": "307 Cannon HOB; Washington DC 20515-2403", 
+      "contact_form": "http://harper.house.gov/contact/", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5797", 
+      "office": "307 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5031", 
+      "start": "2011-01-05", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "http://harper.house.gov"
     }, 
-    "name": {
-        "first": "Gregg", 
-        "last": "Harper", 
-        "official_full": "Gregg Harper"
+    {
+      "address": "307 Cannon HOB; Washington DC 20515-2403", 
+      "contact_form": "https://harperforms.house.gov/forms/writeyourrep/", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5797", 
+      "office": "307 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5031", 
+      "rss_url": "http://harper.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "http://harper.house.gov"
     }, 
-    "social": {
-        "facebook": "GreggHarper", 
-        "twitter": "GreggHarper", 
-        "twitter_id": 23712174, 
-        "youtube": "congressmanharper", 
-        "youtube_id": "UC9UIowW9bhstVTiMX8znppQ"
+    {
+      "address": "307 Cannon HOB; Washington DC 20515-2403", 
+      "contact_form": "https://harperforms.house.gov/forms/writeyourrep/", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5797", 
+      "office": "307 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5031", 
+      "rss_url": "http://harper.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "http://harper.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 3, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "MS", 
-            "type": "rep", 
-            "url": "http://harper.house.gov"
-        }, 
-        {
-            "address": "307 Cannon HOB; Washington DC 20515-2403", 
-            "contact_form": "http://harper.house.gov/contact/", 
-            "district": 3, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5797", 
-            "office": "307 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5031", 
-            "start": "2011-01-05", 
-            "state": "MS", 
-            "type": "rep", 
-            "url": "http://harper.house.gov"
-        }, 
-        {
-            "address": "307 Cannon HOB; Washington DC 20515-2403", 
-            "contact_form": "https://harperforms.house.gov/forms/writeyourrep/", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5797", 
-            "office": "307 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5031", 
-            "rss_url": "http://harper.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "MS", 
-            "type": "rep", 
-            "url": "http://harper.house.gov"
-        }, 
-        {
-            "address": "307 Cannon HOB; Washington DC 20515-2403", 
-            "contact_form": "https://harperforms.house.gov/forms/writeyourrep/", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5797", 
-            "office": "307 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5031", 
-            "rss_url": "http://harper.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "MS", 
-            "type": "rep", 
-            "url": "http://harper.house.gov"
-        }, 
-        {
-            "address": "2227 Rayburn House Office Building; Washington DC 20515-2403", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5797", 
-            "office": "2227 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5031", 
-            "rss_url": "http://harper.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "MS", 
-            "type": "rep", 
-            "url": "https://harper.house.gov"
-        }
-    ]
+    {
+      "address": "2227 Rayburn House Office Building; Washington DC 20515-2403", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5797", 
+      "office": "2227 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5031", 
+      "rss_url": "http://harper.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "https://harper.house.gov"
+    }
+  ]
 }

@@ -1,99 +1,100 @@
 {
-    "bio": {
-        "birthday": "1966-01-22", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1966-01-22", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:529", 
+    "ballotpedia": "Rick Crawford", 
+    "bioguide": "C001087", 
+    "cspan": 623259, 
+    "fec": [
+      "H0AR01083"
+    ], 
+    "google_entity_id": "kg:/m/0czb3pp", 
+    "govtrack": 412400, 
+    "house_history": 11831, 
+    "icpsr": 21106, 
+    "maplight": 1414, 
+    "opensecrets": "N00030770", 
+    "thomas": "01989", 
+    "votesmart": 119208, 
+    "wikidata": "Q2151554", 
+    "wikipedia": "Rick Crawford (politician)"
+  }, 
+  "name": {
+    "first": "Eric", 
+    "last": "Crawford", 
+    "middle": "A.", 
+    "nickname": "Rick", 
+    "official_full": "Eric A. \"Rick\" Crawford"
+  }, 
+  "social": {
+    "facebook": "RepRickCrawford", 
+    "instagram": "reprickcrawford", 
+    "instagram_id": 389864684, 
+    "twitter": "RepRickCrawford", 
+    "twitter_id": 233693291, 
+    "youtube": "RepRickCrawford", 
+    "youtube_id": "UCLKAkVl4BHRK73lmDiIgPYg"
+  }, 
+  "terms": [
+    {
+      "address": "1408 Longworth HOB; Washington DC 20515-0401", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5602", 
+      "office": "1408 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4076", 
+      "start": "2011-01-05", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "http://crawford.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Rick Crawford", 
-        "bioguide": "C001087", 
-        "cspan": 623259, 
-        "fec": [
-            "H0AR01083"
-        ], 
-        "google_entity_id": "kg:/m/0czb3pp", 
-        "govtrack": 412400, 
-        "house_history": 11831, 
-        "icpsr": 21106, 
-        "maplight": 1414, 
-        "opensecrets": "N00030770", 
-        "thomas": "01989", 
-        "votesmart": 119208, 
-        "wikidata": "Q2151554", 
-        "wikipedia": "Rick Crawford (politician)"
+    {
+      "address": "1711 Longworth HOB; Washington DC 20515-0401", 
+      "contact_form": "http://crawford.house.gov/contact/", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5602", 
+      "office": "1711 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4076", 
+      "rss_url": "http://crawford.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "http://crawford.house.gov"
     }, 
-    "name": {
-        "first": "Eric", 
-        "last": "Crawford", 
-        "middle": "A.", 
-        "nickname": "Rick", 
-        "official_full": "Eric A. \"Rick\" Crawford"
+    {
+      "address": "1711 Longworth HOB; Washington DC 20515-0401", 
+      "contact_form": "http://crawford.house.gov/contact/", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5602", 
+      "office": "1711 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4076", 
+      "rss_url": "http://crawford.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "http://crawford.house.gov"
     }, 
-    "social": {
-        "facebook": "RepRickCrawford", 
-        "instagram": "reprickcrawford", 
-        "instagram_id": 389864684, 
-        "twitter": "RepRickCrawford", 
-        "twitter_id": 233693291, 
-        "youtube": "RepRickCrawford", 
-        "youtube_id": "UCLKAkVl4BHRK73lmDiIgPYg"
-    }, 
-    "terms": [
-        {
-            "address": "1408 Longworth HOB; Washington DC 20515-0401", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5602", 
-            "office": "1408 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4076", 
-            "start": "2011-01-05", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "http://crawford.house.gov/"
-        }, 
-        {
-            "address": "1711 Longworth HOB; Washington DC 20515-0401", 
-            "contact_form": "http://crawford.house.gov/contact/", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5602", 
-            "office": "1711 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4076", 
-            "rss_url": "http://crawford.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "http://crawford.house.gov"
-        }, 
-        {
-            "address": "1711 Longworth HOB; Washington DC 20515-0401", 
-            "contact_form": "http://crawford.house.gov/contact/", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5602", 
-            "office": "1711 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4076", 
-            "rss_url": "http://crawford.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "http://crawford.house.gov"
-        }, 
-        {
-            "address": "2422 Rayburn House Office Building; Washington DC 20515-0401", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5602", 
-            "office": "2422 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4076", 
-            "rss_url": "http://crawford.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "https://crawford.house.gov"
-        }
-    ]
+    {
+      "address": "2422 Rayburn House Office Building; Washington DC 20515-0401", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5602", 
+      "office": "2422 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4076", 
+      "rss_url": "http://crawford.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "https://crawford.house.gov"
+    }
+  ]
 }

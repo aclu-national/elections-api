@@ -1,61 +1,62 @@
 {
-    "bio": {
-        "birthday": "1955-07-03", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1955-07-03", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1026", 
+    "bioguide": "G000576", 
+    "cspan": 77282, 
+    "fec": [
+      "H4WI06048"
+    ], 
+    "google_entity_id": "kg:/m/02pnsk2", 
+    "govtrack": 412661, 
+    "icpsr": 21559, 
+    "maplight": 2117, 
+    "opensecrets": "N00036409", 
+    "thomas": "02276", 
+    "votesmart": 3493, 
+    "wikidata": "Q5568836", 
+    "wikipedia": "Glenn Grothman"
+  }, 
+  "name": {
+    "first": "Glenn", 
+    "last": "Grothman", 
+    "official_full": "Glenn Grothman"
+  }, 
+  "social": {
+    "facebook": "RepGrothman", 
+    "twitter": "RepGrothman", 
+    "twitter_id": 2976606250, 
+    "youtube_id": "UCui4k83Cot4aeVW_8T33fgg"
+  }, 
+  "terms": [
+    {
+      "address": "501 Cannon HOB; Washington DC 20515-4906", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2356", 
+      "office": "501 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2476", 
+      "start": "2015-01-06", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://grothman.house.gov"
     }, 
-    "id": {
-        "bioguide": "G000576", 
-        "cspan": 77282, 
-        "fec": [
-            "H4WI06048"
-        ], 
-        "google_entity_id": "kg:/m/02pnsk2", 
-        "govtrack": 412661, 
-        "icpsr": 21559, 
-        "maplight": 2117, 
-        "opensecrets": "N00036409", 
-        "thomas": "02276", 
-        "votesmart": 3493, 
-        "wikidata": "Q5568836", 
-        "wikipedia": "Glenn Grothman"
-    }, 
-    "name": {
-        "first": "Glenn", 
-        "last": "Grothman", 
-        "official_full": "Glenn Grothman"
-    }, 
-    "social": {
-        "facebook": "RepGrothman", 
-        "twitter": "RepGrothman", 
-        "twitter_id": 2976606250, 
-        "youtube_id": "UCui4k83Cot4aeVW_8T33fgg"
-    }, 
-    "terms": [
-        {
-            "address": "501 Cannon HOB; Washington DC 20515-4906", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2356", 
-            "office": "501 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2476", 
-            "start": "2015-01-06", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://grothman.house.gov"
-        }, 
-        {
-            "address": "1217 Longworth House Office Building; Washington DC 20515-4906", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2356", 
-            "office": "1217 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2476", 
-            "start": "2017-01-03", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "https://grothman.house.gov"
-        }
-    ]
+    {
+      "address": "1217 Longworth House Office Building; Washington DC 20515-4906", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2356", 
+      "office": "1217 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2476", 
+      "start": "2017-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://grothman.house.gov"
+    }
+  ]
 }

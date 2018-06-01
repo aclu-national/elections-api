@@ -1,61 +1,62 @@
 {
-    "bio": {
-        "birthday": "1957-09-06", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1957-09-06", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:652", 
+    "bioguide": "C001103", 
+    "cspan": 76158, 
+    "fec": [
+      "H4GA01039"
+    ], 
+    "google_entity_id": "kg:/m/0w32xj9", 
+    "govtrack": 412622, 
+    "icpsr": 21513, 
+    "maplight": 2078, 
+    "opensecrets": "N00035346", 
+    "thomas": "02236", 
+    "votesmart": 32085, 
+    "wikidata": "Q16240994", 
+    "wikipedia": "Buddy Carter"
+  }, 
+  "name": {
+    "first": "Buddy", 
+    "last": "Carter", 
+    "official_full": "Earl L. \"Buddy\" Carter"
+  }, 
+  "social": {
+    "facebook": "congressmanbuddycarter", 
+    "twitter": "RepBuddyCarter", 
+    "twitter_id": 2973870195, 
+    "youtube_id": "UCHQm49T6ikD_ioMAt50AwKQ"
+  }, 
+  "terms": [
+    {
+      "address": "432 Cannon HOB; Washington DC 20515-1001", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-226-2269", 
+      "office": "432 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5831", 
+      "start": "2015-01-06", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://buddycarter.house.gov"
     }, 
-    "id": {
-        "bioguide": "C001103", 
-        "cspan": 76158, 
-        "fec": [
-            "H4GA01039"
-        ], 
-        "google_entity_id": "kg:/m/0w32xj9", 
-        "govtrack": 412622, 
-        "icpsr": 21513, 
-        "maplight": 2078, 
-        "opensecrets": "N00035346", 
-        "thomas": "02236", 
-        "votesmart": 32085, 
-        "wikidata": "Q16240994", 
-        "wikipedia": "Buddy Carter"
-    }, 
-    "name": {
-        "first": "Buddy", 
-        "last": "Carter", 
-        "official_full": "Earl L. \"Buddy\" Carter"
-    }, 
-    "social": {
-        "facebook": "congressmanbuddycarter", 
-        "twitter": "RepBuddyCarter", 
-        "twitter_id": 2973870195, 
-        "youtube_id": "UCHQm49T6ikD_ioMAt50AwKQ"
-    }, 
-    "terms": [
-        {
-            "address": "432 Cannon HOB; Washington DC 20515-1001", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-226-2269", 
-            "office": "432 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5831", 
-            "start": "2015-01-06", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://buddycarter.house.gov"
-        }, 
-        {
-            "address": "432 Cannon House Office Building; Washington DC 20515-1001", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-226-2269", 
-            "office": "432 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5831", 
-            "start": "2017-01-03", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "https://buddycarter.house.gov"
-        }
-    ]
+    {
+      "address": "432 Cannon House Office Building; Washington DC 20515-1001", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-226-2269", 
+      "office": "432 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5831", 
+      "start": "2017-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://buddycarter.house.gov"
+    }
+  ]
 }

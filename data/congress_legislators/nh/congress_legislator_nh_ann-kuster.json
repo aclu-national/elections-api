@@ -1,83 +1,84 @@
 {
-    "bio": {
-        "birthday": "1956-09-05", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1956-09-05", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:822", 
+    "ballotpedia": "Annie Kuster", 
+    "bioguide": "K000382", 
+    "cspan": 62650, 
+    "fec": [
+      "H0NH02181"
+    ], 
+    "google_entity_id": "kg:/m/064p47_", 
+    "govtrack": 412557, 
+    "house_history": 15032387341, 
+    "icpsr": 21340, 
+    "maplight": 1781, 
+    "opensecrets": "N00030875", 
+    "thomas": "02145", 
+    "votesmart": 122256, 
+    "wikidata": "Q3917208", 
+    "wikipedia": "Ann McLane Kuster"
+  }, 
+  "name": {
+    "first": "Ann", 
+    "last": "Kuster", 
+    "middle": "M.", 
+    "official_full": "Ann M. Kuster"
+  }, 
+  "social": {
+    "facebook": "CongresswomanAnnieKuster", 
+    "twitter": "RepAnnieKuster", 
+    "twitter_id": 1058717720, 
+    "youtube": "RepKuster", 
+    "youtube_id": "UCYAD_Eti2b5gXSicbgPsBYA"
+  }, 
+  "terms": [
+    {
+      "address": "137 Cannon HOB; Washington DC 20515-2902", 
+      "contact_form": "https://kuster.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2946", 
+      "office": "137 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5206", 
+      "rss_url": "http://kuster.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "http://kuster.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Annie Kuster", 
-        "bioguide": "K000382", 
-        "cspan": 62650, 
-        "fec": [
-            "H0NH02181"
-        ], 
-        "google_entity_id": "kg:/m/064p47_", 
-        "govtrack": 412557, 
-        "house_history": 15032387341, 
-        "icpsr": 21340, 
-        "maplight": 1781, 
-        "opensecrets": "N00030875", 
-        "thomas": "02145", 
-        "votesmart": 122256, 
-        "wikidata": "Q3917208", 
-        "wikipedia": "Ann McLane Kuster"
+    {
+      "address": "137 Cannon HOB; Washington DC 20515-2902", 
+      "contact_form": "https://kuster.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2946", 
+      "office": "137 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5206", 
+      "rss_url": "http://kuster.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "http://kuster.house.gov"
     }, 
-    "name": {
-        "first": "Ann", 
-        "last": "Kuster", 
-        "middle": "M.", 
-        "official_full": "Ann M. Kuster"
-    }, 
-    "social": {
-        "facebook": "CongresswomanAnnieKuster", 
-        "twitter": "RepAnnieKuster", 
-        "twitter_id": 1058717720, 
-        "youtube": "RepKuster", 
-        "youtube_id": "UCYAD_Eti2b5gXSicbgPsBYA"
-    }, 
-    "terms": [
-        {
-            "address": "137 Cannon HOB; Washington DC 20515-2902", 
-            "contact_form": "https://kuster.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2946", 
-            "office": "137 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5206", 
-            "rss_url": "http://kuster.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NH", 
-            "type": "rep", 
-            "url": "http://kuster.house.gov"
-        }, 
-        {
-            "address": "137 Cannon HOB; Washington DC 20515-2902", 
-            "contact_form": "https://kuster.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2946", 
-            "office": "137 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5206", 
-            "rss_url": "http://kuster.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NH", 
-            "type": "rep", 
-            "url": "http://kuster.house.gov"
-        }, 
-        {
-            "address": "137 Cannon House Office Building; Washington DC 20515-2902", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2946", 
-            "office": "137 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5206", 
-            "rss_url": "http://kuster.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NH", 
-            "type": "rep", 
-            "url": "https://kuster.house.gov"
-        }
-    ]
+    {
+      "address": "137 Cannon House Office Building; Washington DC 20515-2902", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2946", 
+      "office": "137 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5206", 
+      "rss_url": "http://kuster.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "https://kuster.house.gov"
+    }
+  ]
 }

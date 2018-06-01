@@ -1,123 +1,124 @@
 {
-    "bio": {
-        "birthday": "1951-02-23", 
-        "gender": "M", 
-        "religion": "Nazarene"
+  "bio": {
+    "birthday": "1951-02-23", 
+    "gender": "M", 
+    "religion": "Nazarene"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:972", 
+    "bioguide": "M001158", 
+    "cspan": 1013059, 
+    "fec": [
+      "H4TX24094"
+    ], 
+    "google_entity_id": "kg:/m/04cvjb", 
+    "govtrack": 400656, 
+    "house_history": 18788, 
+    "icpsr": 20532, 
+    "maplight": 661, 
+    "opensecrets": "N00026710", 
+    "thomas": "01806", 
+    "votesmart": 5549, 
+    "wikidata": "Q368184", 
+    "wikipedia": "Kenny Marchant"
+  }, 
+  "name": {
+    "first": "Kenny", 
+    "last": "Marchant", 
+    "middle": "Ewell", 
+    "official_full": "Kenny Marchant"
+  }, 
+  "social": {
+    "facebook": "RepKennyMarchant", 
+    "twitter": "RepKenMarchant", 
+    "twitter_id": 23976316, 
+    "youtube": "RepKennyMarchant", 
+    "youtube_id": "UCQpnTMp5TdTRWEes8cjIfyQ"
+  }, 
+  "terms": [
+    {
+      "district": 24, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "M001158", 
-        "cspan": 1013059, 
-        "fec": [
-            "H4TX24094"
-        ], 
-        "google_entity_id": "kg:/m/04cvjb", 
-        "govtrack": 400656, 
-        "house_history": 18788, 
-        "icpsr": 20532, 
-        "maplight": 661, 
-        "opensecrets": "N00026710", 
-        "thomas": "01806", 
-        "votesmart": 5549, 
-        "wikidata": "Q368184", 
-        "wikipedia": "Kenny Marchant"
+    {
+      "district": 24, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/marchant"
     }, 
-    "name": {
-        "first": "Kenny", 
-        "last": "Marchant", 
-        "middle": "Ewell", 
-        "official_full": "Kenny Marchant"
+    {
+      "district": 24, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/marchant"
     }, 
-    "social": {
-        "facebook": "RepKennyMarchant", 
-        "twitter": "RepKenMarchant", 
-        "twitter_id": 23976316, 
-        "youtube": "RepKennyMarchant", 
-        "youtube_id": "UCQpnTMp5TdTRWEes8cjIfyQ"
+    {
+      "address": "1110 Longworth HOB; Washington DC 20515-4324", 
+      "contact_form": "http://marchant.house.gov/emailkenny.shtml", 
+      "district": 24, 
+      "end": "2013-01-03", 
+      "fax": "202-225-0074", 
+      "office": "1110 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6605", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/marchant"
     }, 
-    "terms": [
-        {
-            "district": 24, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 24, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/marchant"
-        }, 
-        {
-            "district": 24, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/marchant"
-        }, 
-        {
-            "address": "1110 Longworth HOB; Washington DC 20515-4324", 
-            "contact_form": "http://marchant.house.gov/emailkenny.shtml", 
-            "district": 24, 
-            "end": "2013-01-03", 
-            "fax": "202-225-0074", 
-            "office": "1110 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6605", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/marchant"
-        }, 
-        {
-            "address": "1110 Longworth HOB; Washington DC 20515-4324", 
-            "contact_form": "https://marchant.house.gov/contact/contactform.htm", 
-            "district": 24, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0074", 
-            "office": "1110 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6605", 
-            "rss_url": "http://marchant.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://marchant.house.gov"
-        }, 
-        {
-            "address": "2313 Rayburn HOB; Washington DC 20515-4324", 
-            "contact_form": "https://marchant.house.gov/contact/contactform.htm", 
-            "district": 24, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0074", 
-            "office": "2313 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6605", 
-            "rss_url": "http://marchant.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://marchant.house.gov"
-        }, 
-        {
-            "address": "2369 Rayburn House Office Building; Washington DC 20515-4324", 
-            "district": 24, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0074", 
-            "office": "2369 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6605", 
-            "rss_url": "http://marchant.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://marchant.house.gov"
-        }
-    ]
+    {
+      "address": "1110 Longworth HOB; Washington DC 20515-4324", 
+      "contact_form": "https://marchant.house.gov/contact/contactform.htm", 
+      "district": 24, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0074", 
+      "office": "1110 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6605", 
+      "rss_url": "http://marchant.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://marchant.house.gov"
+    }, 
+    {
+      "address": "2313 Rayburn HOB; Washington DC 20515-4324", 
+      "contact_form": "https://marchant.house.gov/contact/contactform.htm", 
+      "district": 24, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0074", 
+      "office": "2313 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6605", 
+      "rss_url": "http://marchant.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://marchant.house.gov"
+    }, 
+    {
+      "address": "2369 Rayburn House Office Building; Washington DC 20515-4324", 
+      "district": 24, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0074", 
+      "office": "2369 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6605", 
+      "rss_url": "http://marchant.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://marchant.house.gov"
+    }
+  ]
 }

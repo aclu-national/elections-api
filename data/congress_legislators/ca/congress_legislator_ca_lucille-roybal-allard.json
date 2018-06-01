@@ -1,179 +1,180 @@
 {
-    "bio": {
-        "birthday": "1941-06-12", 
-        "gender": "F", 
-        "religion": "Roman Catholic"
-    }, 
-    "family": [
-        {
-            "name": "Edward R. Roybal", 
-            "relation": "daughter"
-        }
+  "bio": {
+    "birthday": "1941-06-12", 
+    "gender": "F", 
+    "religion": "Roman Catholic"
+  }, 
+  "family": [
+    {
+      "name": "Edward R. Roybal", 
+      "relation": "daughter"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:579", 
+    "bioguide": "R000486", 
+    "cspan": 26136, 
+    "fec": [
+      "H2CA33048"
     ], 
-    "id": {
-        "bioguide": "R000486", 
-        "cspan": 26136, 
-        "fec": [
-            "H2CA33048"
-        ], 
-        "google_entity_id": "kg:/m/024txf", 
-        "govtrack": 400347, 
-        "house_history": 20686, 
-        "icpsr": 29317, 
-        "maplight": 440, 
-        "opensecrets": "N00006671", 
-        "thomas": "00997", 
-        "votesmart": 26766, 
-        "wikidata": "Q469115", 
-        "wikipedia": "Lucille Roybal-Allard"
+    "google_entity_id": "kg:/m/024txf", 
+    "govtrack": 400347, 
+    "house_history": 20686, 
+    "icpsr": 29317, 
+    "maplight": 440, 
+    "opensecrets": "N00006671", 
+    "thomas": "00997", 
+    "votesmart": 26766, 
+    "wikidata": "Q469115", 
+    "wikipedia": "Lucille Roybal-Allard"
+  }, 
+  "name": {
+    "first": "Lucille", 
+    "last": "Roybal-Allard", 
+    "official_full": "Lucille Roybal-Allard"
+  }, 
+  "social": {
+    "facebook": "RepRoybalAllard", 
+    "instagram": "RepRoybalAllard", 
+    "twitter": "RepRoybalAllard", 
+    "twitter_id": 479872233, 
+    "youtube": "RepRoybalAllard", 
+    "youtube_id": "UC_T_RXWeJ-smmpjdNLOaMcg"
+  }, 
+  "terms": [
+    {
+      "district": 33, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Lucille", 
-        "last": "Roybal-Allard", 
-        "official_full": "Lucille Roybal-Allard"
+    {
+      "district": 33, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepRoybalAllard", 
-        "instagram": "RepRoybalAllard", 
-        "twitter": "RepRoybalAllard", 
-        "twitter_id": 479872233, 
-        "youtube": "RepRoybalAllard", 
-        "youtube_id": "UC_T_RXWeJ-smmpjdNLOaMcg"
+    {
+      "district": 33, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 33, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 33, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 33, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 33, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 33, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 34, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/roybal-allard"
-        }, 
-        {
-            "district": 34, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/roybal-allard"
-        }, 
-        {
-            "district": 34, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/roybal-allard"
-        }, 
-        {
-            "district": 34, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/roybal-allard"
-        }, 
-        {
-            "address": "2330 Rayburn HOB; Washington DC 20515-0534", 
-            "contact_form": "http://www.house.gov/writerep", 
-            "district": 34, 
-            "end": "2013-01-03", 
-            "fax": "202-226-0350", 
-            "office": "2330 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1766", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/roybal-allard"
-        }, 
-        {
-            "address": "2330 Rayburn HOB; Washington DC 20515-0540", 
-            "contact_form": "http://roybal-allard.house.gov/contact/", 
-            "district": 40, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0350", 
-            "office": "2330 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1766", 
-            "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://roybal-allard.house.gov"
-        }, 
-        {
-            "address": "2330 Rayburn HOB; Washington DC 20515-0540", 
-            "contact_form": "http://roybal-allard.house.gov/contact/", 
-            "district": 40, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0350", 
-            "office": "2330 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1766", 
-            "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://roybal-allard.house.gov"
-        }, 
-        {
-            "address": "2083 Rayburn House Office Building; Washington DC 20515-0540", 
-            "district": 40, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0350", 
-            "office": "2083 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1766", 
-            "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://roybal-allard.house.gov"
-        }
-    ]
+    {
+      "district": 33, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "CA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 33, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "CA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 34, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/roybal-allard"
+    }, 
+    {
+      "district": 34, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/roybal-allard"
+    }, 
+    {
+      "district": 34, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/roybal-allard"
+    }, 
+    {
+      "district": 34, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/roybal-allard"
+    }, 
+    {
+      "address": "2330 Rayburn HOB; Washington DC 20515-0534", 
+      "contact_form": "http://www.house.gov/writerep", 
+      "district": 34, 
+      "end": "2013-01-03", 
+      "fax": "202-226-0350", 
+      "office": "2330 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1766", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/roybal-allard"
+    }, 
+    {
+      "address": "2330 Rayburn HOB; Washington DC 20515-0540", 
+      "contact_form": "http://roybal-allard.house.gov/contact/", 
+      "district": 40, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0350", 
+      "office": "2330 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1766", 
+      "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://roybal-allard.house.gov"
+    }, 
+    {
+      "address": "2330 Rayburn HOB; Washington DC 20515-0540", 
+      "contact_form": "http://roybal-allard.house.gov/contact/", 
+      "district": 40, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0350", 
+      "office": "2330 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1766", 
+      "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://roybal-allard.house.gov"
+    }, 
+    {
+      "address": "2083 Rayburn House Office Building; Washington DC 20515-0540", 
+      "district": 40, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0350", 
+      "office": "2083 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1766", 
+      "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://roybal-allard.house.gov"
+    }
+  ]
 }

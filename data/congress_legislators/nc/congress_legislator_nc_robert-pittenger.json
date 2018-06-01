@@ -1,81 +1,82 @@
 {
-    "bio": {
-        "birthday": "1948-08-15", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1948-08-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:809", 
+    "ballotpedia": "Robert Pittenger", 
+    "bioguide": "P000606", 
+    "cspan": 9265861, 
+    "fec": [
+      "H2NC09134"
+    ], 
+    "google_entity_id": "kg:/m/02b5bx", 
+    "govtrack": 412551, 
+    "icpsr": 21347, 
+    "maplight": 1775, 
+    "opensecrets": "N00034416", 
+    "thomas": "02141", 
+    "votesmart": 41272, 
+    "wikidata": "Q3956848", 
+    "wikipedia": "Robert Pittenger"
+  }, 
+  "name": {
+    "first": "Robert", 
+    "last": "Pittenger", 
+    "official_full": "Robert Pittenger"
+  }, 
+  "social": {
+    "facebook": "congressmanpittenger", 
+    "twitter": "RepPittenger", 
+    "twitter_id": 950328072, 
+    "youtube": "CongressmanPittenger", 
+    "youtube_id": "UCPr1MiyBx6K6wH3zgMWFtMQ"
+  }, 
+  "terms": [
+    {
+      "address": "224 Cannon HOB; Washington DC 20515-3309", 
+      "contact_form": "https://pittenger.house.gov/contact/email-me", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3389", 
+      "office": "224 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1976", 
+      "rss_url": "http://pittenger.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://pittenger.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Robert Pittenger", 
-        "bioguide": "P000606", 
-        "cspan": 9265861, 
-        "fec": [
-            "H2NC09134"
-        ], 
-        "google_entity_id": "kg:/m/02b5bx", 
-        "govtrack": 412551, 
-        "icpsr": 21347, 
-        "maplight": 1775, 
-        "opensecrets": "N00034416", 
-        "thomas": "02141", 
-        "votesmart": 41272, 
-        "wikidata": "Q3956848", 
-        "wikipedia": "Robert Pittenger"
+    {
+      "address": "224 Cannon HOB; Washington DC 20515-3309", 
+      "contact_form": "https://pittenger.house.gov/contact/email-me", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3389", 
+      "office": "224 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1976", 
+      "rss_url": "http://pittenger.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://pittenger.house.gov"
     }, 
-    "name": {
-        "first": "Robert", 
-        "last": "Pittenger", 
-        "official_full": "Robert Pittenger"
-    }, 
-    "social": {
-        "facebook": "congressmanpittenger", 
-        "twitter": "RepPittenger", 
-        "twitter_id": 950328072, 
-        "youtube": "CongressmanPittenger", 
-        "youtube_id": "UCPr1MiyBx6K6wH3zgMWFtMQ"
-    }, 
-    "terms": [
-        {
-            "address": "224 Cannon HOB; Washington DC 20515-3309", 
-            "contact_form": "https://pittenger.house.gov/contact/email-me", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3389", 
-            "office": "224 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1976", 
-            "rss_url": "http://pittenger.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://pittenger.house.gov"
-        }, 
-        {
-            "address": "224 Cannon HOB; Washington DC 20515-3309", 
-            "contact_form": "https://pittenger.house.gov/contact/email-me", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3389", 
-            "office": "224 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1976", 
-            "rss_url": "http://pittenger.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://pittenger.house.gov"
-        }, 
-        {
-            "address": "224 Cannon House Office Building; Washington DC 20515-3309", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3389", 
-            "office": "224 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1976", 
-            "rss_url": "http://pittenger.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "https://pittenger.house.gov"
-        }
-    ]
+    {
+      "address": "224 Cannon House Office Building; Washington DC 20515-3309", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3389", 
+      "office": "224 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1976", 
+      "rss_url": "http://pittenger.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://pittenger.house.gov"
+    }
+  ]
 }

@@ -1,107 +1,108 @@
 {
-    "bio": {
-        "birthday": "1958-10-17", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1958-10-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:691", 
+    "ballotpedia": "Michael Quigley", 
+    "bioguide": "Q000023", 
+    "cspan": 9263344, 
+    "fec": [
+      "H0IL05096"
+    ], 
+    "google_entity_id": "kg:/m/0fccwh", 
+    "govtrack": 412331, 
+    "house_history": 20072, 
+    "icpsr": 20954, 
+    "maplight": 1186, 
+    "opensecrets": "N00030581", 
+    "thomas": "01967", 
+    "votesmart": 83310, 
+    "wikidata": "Q465767", 
+    "wikipedia": "Mike Quigley (politician)"
+  }, 
+  "name": {
+    "first": "Mike", 
+    "last": "Quigley", 
+    "official_full": "Mike Quigley"
+  }, 
+  "social": {
+    "facebook": "repmikequigley", 
+    "instagram": "repmikequigley", 
+    "instagram_id": 1403659583, 
+    "twitter": "RepMikeQuigley", 
+    "twitter_id": 56864092, 
+    "youtube": "RepMikeQuigley", 
+    "youtube_id": "UCDP13XegdoZ4bxYHxM34yAA"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-04-07", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://quigley.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Michael Quigley", 
-        "bioguide": "Q000023", 
-        "cspan": 9263344, 
-        "fec": [
-            "H0IL05096"
-        ], 
-        "google_entity_id": "kg:/m/0fccwh", 
-        "govtrack": 412331, 
-        "house_history": 20072, 
-        "icpsr": 20954, 
-        "maplight": 1186, 
-        "opensecrets": "N00030581", 
-        "thomas": "01967", 
-        "votesmart": 83310, 
-        "wikidata": "Q465767", 
-        "wikipedia": "Mike Quigley (politician)"
+    {
+      "address": "1124 Longworth HOB; Washington DC 20515-1305", 
+      "contact_form": "https://forms.house.gov/quigley/contact-form.shtml", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5603", 
+      "office": "1124 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4061", 
+      "start": "2011-01-05", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://quigley.house.gov/"
     }, 
-    "name": {
-        "first": "Mike", 
-        "last": "Quigley", 
-        "official_full": "Mike Quigley"
+    {
+      "address": "1124 Longworth HOB; Washington DC 20515-1305", 
+      "contact_form": "https://quigleyforms.house.gov/forms/writeyourrep/", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5603", 
+      "office": "1124 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4061", 
+      "rss_url": "http://quigley.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://quigley.house.gov"
     }, 
-    "social": {
-        "facebook": "repmikequigley", 
-        "instagram": "repmikequigley", 
-        "instagram_id": 1403659583, 
-        "twitter": "RepMikeQuigley", 
-        "twitter_id": 56864092, 
-        "youtube": "RepMikeQuigley", 
-        "youtube_id": "UCDP13XegdoZ4bxYHxM34yAA"
+    {
+      "address": "2458 Rayburn HOB; Washington DC 20515-1305", 
+      "contact_form": "https://quigleyforms.house.gov/forms/writeyourrep/", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5603", 
+      "office": "2458 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4061", 
+      "rss_url": "http://quigley.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://quigley.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-04-07", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://quigley.house.gov/"
-        }, 
-        {
-            "address": "1124 Longworth HOB; Washington DC 20515-1305", 
-            "contact_form": "https://forms.house.gov/quigley/contact-form.shtml", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5603", 
-            "office": "1124 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4061", 
-            "start": "2011-01-05", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://quigley.house.gov/"
-        }, 
-        {
-            "address": "1124 Longworth HOB; Washington DC 20515-1305", 
-            "contact_form": "https://quigleyforms.house.gov/forms/writeyourrep/", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5603", 
-            "office": "1124 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4061", 
-            "rss_url": "http://quigley.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://quigley.house.gov"
-        }, 
-        {
-            "address": "2458 Rayburn HOB; Washington DC 20515-1305", 
-            "contact_form": "https://quigleyforms.house.gov/forms/writeyourrep/", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5603", 
-            "office": "2458 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4061", 
-            "rss_url": "http://quigley.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://quigley.house.gov"
-        }, 
-        {
-            "address": "2458 Rayburn House Office Building; Washington DC 20515-1305", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5603", 
-            "office": "2458 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4061", 
-            "rss_url": "http://quigley.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://quigley.house.gov"
-        }
-    ]
+    {
+      "address": "2458 Rayburn House Office Building; Washington DC 20515-1305", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5603", 
+      "office": "2458 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4061", 
+      "rss_url": "http://quigley.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://quigley.house.gov"
+    }
+  ]
 }

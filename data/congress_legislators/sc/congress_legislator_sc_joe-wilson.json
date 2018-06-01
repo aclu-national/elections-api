@@ -1,144 +1,145 @@
 {
-    "bio": {
-        "birthday": "1947-07-31", 
-        "gender": "M", 
-        "religion": "Presbyterian"
+  "bio": {
+    "birthday": "1947-07-31", 
+    "gender": "M", 
+    "religion": "Presbyterian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:933", 
+    "ballotpedia": "Joe Wilson", 
+    "bioguide": "W000795", 
+    "cspan": 1002567, 
+    "fec": [
+      "H2SC02059"
+    ], 
+    "google_entity_id": "kg:/m/03tll0", 
+    "govtrack": 400433, 
+    "house_history": 24173, 
+    "icpsr": 20138, 
+    "maplight": 519, 
+    "opensecrets": "N00024809", 
+    "thomas": "01688", 
+    "votesmart": 3985, 
+    "wikidata": "Q928855", 
+    "wikipedia": "Joe Wilson (American politician)"
+  }, 
+  "name": {
+    "first": "Joe", 
+    "last": "Wilson", 
+    "middle": "G.", 
+    "official_full": "Joe Wilson"
+  }, 
+  "social": {
+    "facebook": "JoeWilson", 
+    "instagram": "repjoewilson", 
+    "instagram_id": 519685522, 
+    "twitter": "RepJoeWilson", 
+    "twitter_id": 254082173, 
+    "youtube": "RepJoeWilson", 
+    "youtube_id": "UC3aR1B8m7Z1uycO65yDnpCg"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-12-18", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Joe Wilson", 
-        "bioguide": "W000795", 
-        "cspan": 1002567, 
-        "fec": [
-            "H2SC02059"
-        ], 
-        "google_entity_id": "kg:/m/03tll0", 
-        "govtrack": 400433, 
-        "house_history": 24173, 
-        "icpsr": 20138, 
-        "maplight": 519, 
-        "opensecrets": "N00024809", 
-        "thomas": "01688", 
-        "votesmart": 3985, 
-        "wikidata": "Q928855", 
-        "wikipedia": "Joe Wilson (American politician)"
+    {
+      "district": 2, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://joewilson.house.gov/"
     }, 
-    "name": {
-        "first": "Joe", 
-        "last": "Wilson", 
-        "middle": "G.", 
-        "official_full": "Joe Wilson"
+    {
+      "district": 2, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://joewilson.house.gov/"
     }, 
-    "social": {
-        "facebook": "JoeWilson", 
-        "instagram": "repjoewilson", 
-        "instagram_id": 519685522, 
-        "twitter": "RepJoeWilson", 
-        "twitter_id": 254082173, 
-        "youtube": "RepJoeWilson", 
-        "youtube_id": "UC3aR1B8m7Z1uycO65yDnpCg"
+    {
+      "district": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://joewilson.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-12-18", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://joewilson.house.gov/"
-        }, 
-        {
-            "district": 2, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://joewilson.house.gov/"
-        }, 
-        {
-            "district": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://joewilson.house.gov"
-        }, 
-        {
-            "district": 2, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://joewilson.house.gov"
-        }, 
-        {
-            "address": "2229 Rayburn HOB; Washington DC 20515-4002", 
-            "contact_form": "http://www.house.gov/formwilson/IMA/issue.htm", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2455", 
-            "office": "2229 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2452", 
-            "start": "2011-01-05", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://joewilson.house.gov"
-        }, 
-        {
-            "address": "2229 Rayburn HOB; Washington DC 20515-4002", 
-            "contact_form": "https://joewilson.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2455", 
-            "office": "2229 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2452", 
-            "rss_url": "http://joewilson.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://joewilson.house.gov"
-        }, 
-        {
-            "address": "2229 Rayburn HOB; Washington DC 20515-4002", 
-            "contact_form": "https://joewilson.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2455", 
-            "office": "2229 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2452", 
-            "rss_url": "http://joewilson.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://joewilson.house.gov"
-        }, 
-        {
-            "address": "1436 Longworth House Office Building; Washington DC 20515-4002", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2455", 
-            "office": "1436 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2452", 
-            "rss_url": "http://joewilson.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "https://joewilson.house.gov"
-        }
-    ]
+    {
+      "district": 2, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://joewilson.house.gov"
+    }, 
+    {
+      "address": "2229 Rayburn HOB; Washington DC 20515-4002", 
+      "contact_form": "http://www.house.gov/formwilson/IMA/issue.htm", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2455", 
+      "office": "2229 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2452", 
+      "start": "2011-01-05", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://joewilson.house.gov"
+    }, 
+    {
+      "address": "2229 Rayburn HOB; Washington DC 20515-4002", 
+      "contact_form": "https://joewilson.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2455", 
+      "office": "2229 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2452", 
+      "rss_url": "http://joewilson.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://joewilson.house.gov"
+    }, 
+    {
+      "address": "2229 Rayburn HOB; Washington DC 20515-4002", 
+      "contact_form": "https://joewilson.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2455", 
+      "office": "2229 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2452", 
+      "rss_url": "http://joewilson.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://joewilson.house.gov"
+    }, 
+    {
+      "address": "1436 Longworth House Office Building; Washington DC 20515-4002", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2455", 
+      "office": "1436 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2452", 
+      "rss_url": "http://joewilson.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://joewilson.house.gov"
+    }
+  ]
 }

@@ -1,73 +1,74 @@
 {
-    "bio": {
-        "birthday": "1954-12-15", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1954-12-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1003", 
+    "ballotpedia": "Mark Warner", 
+    "bioguide": "W000805", 
+    "cspan": 7630, 
+    "fec": [
+      "S6VA00093", 
+      "P80003023"
+    ], 
+    "google_entity_id": "kg:/m/024mm1", 
+    "govtrack": 412321, 
+    "icpsr": 40909, 
+    "lis": "S327", 
+    "maplight": 803, 
+    "opensecrets": "N00002097", 
+    "thomas": "01897", 
+    "votesmart": 535, 
+    "wikidata": "Q453893", 
+    "wikipedia": "Mark Warner"
+  }, 
+  "name": {
+    "first": "Mark", 
+    "last": "Warner", 
+    "official_full": "Mark R. Warner"
+  }, 
+  "social": {
+    "facebook": "MarkRWarner", 
+    "instagram": "senatorwarner", 
+    "instagram_id": 515327940, 
+    "twitter": "MarkWarner", 
+    "twitter_id": 7429102, 
+    "youtube": "SenatorMarkWarner", 
+    "youtube_id": "UCwyivNlEGf4sGd1oDLfY5jw"
+  }, 
+  "terms": [
+    {
+      "address": "475 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.warner.senate.gov/public//index.cfm?p=ContactPage#form_f9db6196-2dc7-4cda-8add-f8435a71318a", 
+      "end": "2015-01-03", 
+      "fax": "202-224-6295", 
+      "office": "475 Russell Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2023", 
+      "rss_url": "http://www.warner.senate.gov/public/?a=rss.feed", 
+      "start": "2009-01-06", 
+      "state": "VA", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.warner.senate.gov"
     }, 
-    "id": {
-        "ballotpedia": "Mark Warner", 
-        "bioguide": "W000805", 
-        "cspan": 7630, 
-        "fec": [
-            "S6VA00093", 
-            "P80003023"
-        ], 
-        "google_entity_id": "kg:/m/024mm1", 
-        "govtrack": 412321, 
-        "icpsr": 40909, 
-        "lis": "S327", 
-        "maplight": 803, 
-        "opensecrets": "N00002097", 
-        "thomas": "01897", 
-        "votesmart": 535, 
-        "wikidata": "Q453893", 
-        "wikipedia": "Mark Warner"
-    }, 
-    "name": {
-        "first": "Mark", 
-        "last": "Warner", 
-        "official_full": "Mark R. Warner"
-    }, 
-    "social": {
-        "facebook": "MarkRWarner", 
-        "instagram": "senatorwarner", 
-        "instagram_id": 515327940, 
-        "twitter": "MarkWarner", 
-        "twitter_id": 7429102, 
-        "youtube": "SenatorMarkWarner", 
-        "youtube_id": "UCwyivNlEGf4sGd1oDLfY5jw"
-    }, 
-    "terms": [
-        {
-            "address": "475 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.warner.senate.gov/public//index.cfm?p=ContactPage#form_f9db6196-2dc7-4cda-8add-f8435a71318a", 
-            "end": "2015-01-03", 
-            "fax": "202-224-6295", 
-            "office": "475 Russell Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-2023", 
-            "rss_url": "http://www.warner.senate.gov/public/?a=rss.feed", 
-            "start": "2009-01-06", 
-            "state": "VA", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.warner.senate.gov"
-        }, 
-        {
-            "address": "703 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.warner.senate.gov/public/index.cfm?p=Contact", 
-            "end": "2021-01-03", 
-            "fax": "202-224-6295", 
-            "office": "703 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-2023", 
-            "rss_url": "http://www.warner.senate.gov/public/?a=rss.feed", 
-            "start": "2015-01-06", 
-            "state": "VA", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.warner.senate.gov"
-        }
-    ]
+    {
+      "address": "703 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.warner.senate.gov/public/index.cfm?p=Contact", 
+      "end": "2021-01-03", 
+      "fax": "202-224-6295", 
+      "office": "703 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2023", 
+      "rss_url": "http://www.warner.senate.gov/public/?a=rss.feed", 
+      "start": "2015-01-06", 
+      "state": "VA", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.warner.senate.gov"
+    }
+  ]
 }

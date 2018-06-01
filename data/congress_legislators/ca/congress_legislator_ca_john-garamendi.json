@@ -1,104 +1,105 @@
 {
-    "bio": {
-        "birthday": "1945-01-24", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1945-01-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:570", 
+    "bioguide": "G000559", 
+    "cspan": 18413, 
+    "fec": [
+      "H0CA10149"
+    ], 
+    "google_entity_id": "kg:/m/05fvls", 
+    "govtrack": 412382, 
+    "house_history": 14276, 
+    "icpsr": 20958, 
+    "maplight": 1209, 
+    "opensecrets": "N00030856", 
+    "thomas": "01973", 
+    "votesmart": 29664, 
+    "wikidata": "Q1340268", 
+    "wikipedia": "John Garamendi"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Garamendi", 
+    "official_full": "John Garamendi"
+  }, 
+  "social": {
+    "facebook": "repgaramendi", 
+    "twitter": "RepGaramendi", 
+    "twitter_id": 88806753, 
+    "youtube": "garamendiCA10", 
+    "youtube_id": "UCRym1qsO72C39gX6pBu4icg"
+  }, 
+  "terms": [
+    {
+      "district": 10, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-11-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://garamendi.house.gov/"
     }, 
-    "id": {
-        "bioguide": "G000559", 
-        "cspan": 18413, 
-        "fec": [
-            "H0CA10149"
-        ], 
-        "google_entity_id": "kg:/m/05fvls", 
-        "govtrack": 412382, 
-        "house_history": 14276, 
-        "icpsr": 20958, 
-        "maplight": 1209, 
-        "opensecrets": "N00030856", 
-        "thomas": "01973", 
-        "votesmart": 29664, 
-        "wikidata": "Q1340268", 
-        "wikipedia": "John Garamendi"
+    {
+      "address": "228 Cannon HOB; Washington DC 20515-0510", 
+      "contact_form": "http://garamendi.house.gov/contact/email-me.shtml", 
+      "district": 10, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5914", 
+      "office": "228 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1880", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://garamendi.house.gov/"
     }, 
-    "name": {
-        "first": "John", 
-        "last": "Garamendi", 
-        "official_full": "John Garamendi"
+    {
+      "address": "2438 Rayburn HOB; Washington DC 20515-0503", 
+      "contact_form": "https://garamendi.house.gov/contact-me/email-me", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5914", 
+      "office": "2438 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1880", 
+      "rss_url": "http://garamendi.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://garamendi.house.gov"
     }, 
-    "social": {
-        "facebook": "repgaramendi", 
-        "twitter": "RepGaramendi", 
-        "twitter_id": 88806753, 
-        "youtube": "garamendiCA10", 
-        "youtube_id": "UCRym1qsO72C39gX6pBu4icg"
+    {
+      "address": "2438 Rayburn HOB; Washington DC 20515-0503", 
+      "contact_form": "https://garamendi.house.gov/contact-me/email-me", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5914", 
+      "office": "2438 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1880", 
+      "rss_url": "http://garamendi.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://garamendi.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 10, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-11-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://garamendi.house.gov/"
-        }, 
-        {
-            "address": "228 Cannon HOB; Washington DC 20515-0510", 
-            "contact_form": "http://garamendi.house.gov/contact/email-me.shtml", 
-            "district": 10, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5914", 
-            "office": "228 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1880", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://garamendi.house.gov/"
-        }, 
-        {
-            "address": "2438 Rayburn HOB; Washington DC 20515-0503", 
-            "contact_form": "https://garamendi.house.gov/contact-me/email-me", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5914", 
-            "office": "2438 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1880", 
-            "rss_url": "http://garamendi.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://garamendi.house.gov"
-        }, 
-        {
-            "address": "2438 Rayburn HOB; Washington DC 20515-0503", 
-            "contact_form": "https://garamendi.house.gov/contact-me/email-me", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5914", 
-            "office": "2438 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1880", 
-            "rss_url": "http://garamendi.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://garamendi.house.gov"
-        }, 
-        {
-            "address": "2438 Rayburn House Office Building; Washington DC 20515-0503", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5914", 
-            "office": "2438 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1880", 
-            "rss_url": "http://garamendi.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://garamendi.house.gov"
-        }
-    ]
+    {
+      "address": "2438 Rayburn House Office Building; Washington DC 20515-0503", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5914", 
+      "office": "2438 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1880", 
+      "rss_url": "http://garamendi.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://garamendi.house.gov"
+    }
+  ]
 }

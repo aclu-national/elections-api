@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1972-01-31", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1972-01-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:727", 
+    "bioguide": "G000577", 
+    "cspan": 9274609, 
+    "fec": [
+      "H4LA06153"
+    ], 
+    "google_entity_id": "kg:/m/012bxlbr", 
+    "govtrack": 412631, 
+    "icpsr": 21523, 
+    "maplight": 2087, 
+    "opensecrets": "N00036135", 
+    "thomas": "02245", 
+    "votesmart": 155424, 
+    "wikidata": "Q18686454", 
+    "wikipedia": "Garret Graves"
+  }, 
+  "name": {
+    "first": "Garret", 
+    "last": "Graves", 
+    "official_full": "Garret Graves"
+  }, 
+  "social": {
+    "facebook": "CongressmanGarretGraves", 
+    "instagram": "instagravesla", 
+    "twitter": "RepGarretGraves", 
+    "twitter_id": 2951574214, 
+    "youtube_id": "UCQLg9GGwTDluEFJtXf8seTA"
+  }, 
+  "terms": [
+    {
+      "address": "204 Cannon HOB; Washington DC 20515-1806", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "202-225-7313", 
+      "office": "204 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3901", 
+      "start": "2015-01-06", 
+      "state": "LA", 
+      "type": "rep", 
+      "url": "https://garretgraves.house.gov"
     }, 
-    "id": {
-        "bioguide": "G000577", 
-        "cspan": 9274609, 
-        "fec": [
-            "H4LA06153"
-        ], 
-        "google_entity_id": "kg:/m/012bxlbr", 
-        "govtrack": 412631, 
-        "icpsr": 21523, 
-        "maplight": 2087, 
-        "opensecrets": "N00036135", 
-        "thomas": "02245", 
-        "votesmart": 155424, 
-        "wikidata": "Q18686454", 
-        "wikipedia": "Garret Graves"
-    }, 
-    "name": {
-        "first": "Garret", 
-        "last": "Graves", 
-        "official_full": "Garret Graves"
-    }, 
-    "social": {
-        "facebook": "CongressmanGarretGraves", 
-        "instagram": "instagravesla", 
-        "twitter": "RepGarretGraves", 
-        "twitter_id": 2951574214, 
-        "youtube_id": "UCQLg9GGwTDluEFJtXf8seTA"
-    }, 
-    "terms": [
-        {
-            "address": "204 Cannon HOB; Washington DC 20515-1806", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "202-225-7313", 
-            "office": "204 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3901", 
-            "start": "2015-01-06", 
-            "state": "LA", 
-            "type": "rep", 
-            "url": "https://garretgraves.house.gov"
-        }, 
-        {
-            "address": "430 Cannon House Office Building; Washington DC 20515-1806", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "202-225-7313", 
-            "office": "430 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3901", 
-            "start": "2017-01-03", 
-            "state": "LA", 
-            "type": "rep", 
-            "url": "https://garretgraves.house.gov"
-        }
-    ]
+    {
+      "address": "430 Cannon House Office Building; Washington DC 20515-1806", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "202-225-7313", 
+      "office": "430 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3901", 
+      "start": "2017-01-03", 
+      "state": "LA", 
+      "type": "rep", 
+      "url": "https://garretgraves.house.gov"
+    }
+  ]
 }

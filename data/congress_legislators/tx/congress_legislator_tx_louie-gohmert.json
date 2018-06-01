@@ -1,125 +1,126 @@
 {
-    "bio": {
-        "birthday": "1953-08-18", 
-        "gender": "M", 
-        "religion": "Unknown"
+  "bio": {
+    "birthday": "1953-08-18", 
+    "gender": "M", 
+    "religion": "Unknown"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:976", 
+    "ballotpedia": "Louie Gohmert", 
+    "bioguide": "G000552", 
+    "cspan": 1011394, 
+    "fec": [
+      "H4TX04039"
+    ], 
+    "google_entity_id": "kg:/m/0490h9", 
+    "govtrack": 400651, 
+    "house_history": 14263, 
+    "icpsr": 20527, 
+    "maplight": 656, 
+    "opensecrets": "N00026148", 
+    "thomas": "01801", 
+    "votesmart": 50029, 
+    "wikidata": "Q532647", 
+    "wikipedia": "Louie Gohmert"
+  }, 
+  "name": {
+    "first": "Louie", 
+    "last": "Gohmert", 
+    "middle": "B.", 
+    "official_full": "Louie Gohmert", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "50375006903", 
+    "twitter": "RepLouieGohmert", 
+    "twitter_id": 22055226, 
+    "youtube": "GohmertTX01", 
+    "youtube_id": "UC0HMa6X3iMhMq96kkRLLTog"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Louie Gohmert", 
-        "bioguide": "G000552", 
-        "cspan": 1011394, 
-        "fec": [
-            "H4TX04039"
-        ], 
-        "google_entity_id": "kg:/m/0490h9", 
-        "govtrack": 400651, 
-        "house_history": 14263, 
-        "icpsr": 20527, 
-        "maplight": 656, 
-        "opensecrets": "N00026148", 
-        "thomas": "01801", 
-        "votesmart": 50029, 
-        "wikidata": "Q532647", 
-        "wikipedia": "Louie Gohmert"
+    {
+      "district": 1, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://gohmert.house.gov"
     }, 
-    "name": {
-        "first": "Louie", 
-        "last": "Gohmert", 
-        "middle": "B.", 
-        "official_full": "Louie Gohmert", 
-        "suffix": "Jr."
+    {
+      "district": 1, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://gohmert.house.gov"
     }, 
-    "social": {
-        "facebook": "50375006903", 
-        "twitter": "RepLouieGohmert", 
-        "twitter_id": 22055226, 
-        "youtube": "GohmertTX01", 
-        "youtube_id": "UC0HMa6X3iMhMq96kkRLLTog"
+    {
+      "address": "2440 Rayburn HOB; Washington DC 20515-4301", 
+      "contact_form": "http://gohmert.house.gov/contact_louie.htm", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-226-1230", 
+      "office": "2440 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3035", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://gohmert.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://gohmert.house.gov"
-        }, 
-        {
-            "district": 1, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://gohmert.house.gov"
-        }, 
-        {
-            "address": "2440 Rayburn HOB; Washington DC 20515-4301", 
-            "contact_form": "http://gohmert.house.gov/contact_louie.htm", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-226-1230", 
-            "office": "2440 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3035", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://gohmert.house.gov"
-        }, 
-        {
-            "address": "2243 Rayburn HOB; Washington DC 20515-4301", 
-            "contact_form": "http://gohmert.house.gov/contact/", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-226-1230", 
-            "office": "2243 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3035", 
-            "rss_url": "http://gohmert.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://gohmert.house.gov"
-        }, 
-        {
-            "address": "2243 Rayburn HOB; Washington DC 20515-4301", 
-            "contact_form": "http://gohmert.house.gov/contact/", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-226-1230", 
-            "office": "2243 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3035", 
-            "rss_url": "http://gohmert.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://gohmert.house.gov"
-        }, 
-        {
-            "address": "2243 Rayburn House Office Building; Washington DC 20515-4301", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-226-1230", 
-            "office": "2243 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3035", 
-            "rss_url": "http://gohmert.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://gohmert.house.gov"
-        }
-    ]
+    {
+      "address": "2243 Rayburn HOB; Washington DC 20515-4301", 
+      "contact_form": "http://gohmert.house.gov/contact/", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-226-1230", 
+      "office": "2243 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3035", 
+      "rss_url": "http://gohmert.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://gohmert.house.gov"
+    }, 
+    {
+      "address": "2243 Rayburn HOB; Washington DC 20515-4301", 
+      "contact_form": "http://gohmert.house.gov/contact/", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-226-1230", 
+      "office": "2243 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3035", 
+      "rss_url": "http://gohmert.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://gohmert.house.gov"
+    }, 
+    {
+      "address": "2243 Rayburn House Office Building; Washington DC 20515-4301", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-226-1230", 
+      "office": "2243 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3035", 
+      "rss_url": "http://gohmert.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://gohmert.house.gov"
+    }
+  ]
 }

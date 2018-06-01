@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1956-01-28", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1956-01-28", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:916", 
+    "ballotpedia": "Lou Barletta", 
+    "bioguide": "B001269", 
+    "cspan": 29618, 
+    "fec": [
+      "H2PA11098"
+    ], 
+    "google_entity_id": "kg:/m/03wcvjl", 
+    "govtrack": 412469, 
+    "house_history": 10432, 
+    "icpsr": 21171, 
+    "maplight": 1474, 
+    "opensecrets": "N00025495", 
+    "thomas": "02054", 
+    "votesmart": 47143, 
+    "wikidata": "Q25568", 
+    "wikipedia": "Lou Barletta"
+  }, 
+  "name": {
+    "first": "Lou", 
+    "last": "Barletta", 
+    "official_full": "Lou Barletta"
+  }, 
+  "social": {
+    "facebook": "CongressmanLouBarletta", 
+    "twitter": "RepLouBarletta", 
+    "twitter_id": 239871673, 
+    "youtube": "reploubarletta", 
+    "youtube_id": "UChViw1Iv0nY1b3Qq9Q0vDBQ"
+  }, 
+  "terms": [
+    {
+      "address": "510 Cannon HOB; Washington DC 20515-3811", 
+      "district": 11, 
+      "end": "2013-01-03", 
+      "fax": "202-225-0764", 
+      "office": "510 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6511", 
+      "start": "2011-01-05", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://barletta.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Lou Barletta", 
-        "bioguide": "B001269", 
-        "cspan": 29618, 
-        "fec": [
-            "H2PA11098"
-        ], 
-        "google_entity_id": "kg:/m/03wcvjl", 
-        "govtrack": 412469, 
-        "house_history": 10432, 
-        "icpsr": 21171, 
-        "maplight": 1474, 
-        "opensecrets": "N00025495", 
-        "thomas": "02054", 
-        "votesmart": 47143, 
-        "wikidata": "Q25568", 
-        "wikipedia": "Lou Barletta"
+    {
+      "address": "115 Cannon HOB; Washington DC 20515-3811", 
+      "contact_form": "https://barletta.house.gov/contact/email-me", 
+      "district": 11, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0764", 
+      "office": "115 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6511", 
+      "rss_url": "http://barletta.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2013-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://barletta.house.gov"
     }, 
-    "name": {
-        "first": "Lou", 
-        "last": "Barletta", 
-        "official_full": "Lou Barletta"
+    {
+      "address": "115 Cannon HOB; Washington DC 20515-3811", 
+      "contact_form": "https://barletta.house.gov/contact/email-me", 
+      "district": 11, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0764", 
+      "office": "115 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6511", 
+      "rss_url": "http://barletta.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2015-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://barletta.house.gov"
     }, 
-    "social": {
-        "facebook": "CongressmanLouBarletta", 
-        "twitter": "RepLouBarletta", 
-        "twitter_id": 239871673, 
-        "youtube": "reploubarletta", 
-        "youtube_id": "UChViw1Iv0nY1b3Qq9Q0vDBQ"
-    }, 
-    "terms": [
-        {
-            "address": "510 Cannon HOB; Washington DC 20515-3811", 
-            "district": 11, 
-            "end": "2013-01-03", 
-            "fax": "202-225-0764", 
-            "office": "510 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6511", 
-            "start": "2011-01-05", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://barletta.house.gov/"
-        }, 
-        {
-            "address": "115 Cannon HOB; Washington DC 20515-3811", 
-            "contact_form": "https://barletta.house.gov/contact/email-me", 
-            "district": 11, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0764", 
-            "office": "115 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6511", 
-            "rss_url": "http://barletta.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2013-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://barletta.house.gov"
-        }, 
-        {
-            "address": "115 Cannon HOB; Washington DC 20515-3811", 
-            "contact_form": "https://barletta.house.gov/contact/email-me", 
-            "district": 11, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0764", 
-            "office": "115 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6511", 
-            "rss_url": "http://barletta.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2015-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://barletta.house.gov"
-        }, 
-        {
-            "address": "2049 Rayburn House Office Building; Washington DC 20515-3811", 
-            "district": 11, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0764", 
-            "office": "2049 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6511", 
-            "rss_url": "http://barletta.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://barletta.house.gov"
-        }
-    ]
+    {
+      "address": "2049 Rayburn House Office Building; Washington DC 20515-3811", 
+      "district": 11, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0764", 
+      "office": "2049 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6511", 
+      "rss_url": "http://barletta.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://barletta.house.gov"
+    }
+  ]
 }

@@ -1,125 +1,126 @@
 {
-    "bio": {
-        "birthday": "1942-09-29", 
-        "gender": "M", 
-        "religion": "Presbyterian"
+  "bio": {
+    "birthday": "1942-09-29", 
+    "gender": "M", 
+    "religion": "Presbyterian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:622", 
+    "ballotpedia": "Bill Nelson (Florida)", 
+    "bioguide": "N000032", 
+    "cspan": 1931, 
+    "fec": [
+      "S8FL00166"
+    ], 
+    "google_entity_id": "kg:/m/01_pb_", 
+    "govtrack": 300078, 
+    "house_history": 18875, 
+    "icpsr": 14651, 
+    "lis": "S282", 
+    "maplight": 598, 
+    "opensecrets": "N00009926", 
+    "thomas": "00859", 
+    "votesmart": 1606, 
+    "wikidata": "Q358437", 
+    "wikipedia": "Bill Nelson"
+  }, 
+  "name": {
+    "first": "Bill", 
+    "last": "Nelson", 
+    "official_full": "Bill Nelson"
+  }, 
+  "social": {
+    "twitter": "SenBillNelson", 
+    "twitter_id": 20597460, 
+    "youtube": "senbillnelson", 
+    "youtube_id": "UC1Iir7_h98mI9-hHzrDJWpw"
+  }, 
+  "terms": [
+    {
+      "district": 9, 
+      "end": "1981-01-03", 
+      "party": "Democrat", 
+      "start": "1979-01-15", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Bill Nelson (Florida)", 
-        "bioguide": "N000032", 
-        "cspan": 1931, 
-        "fec": [
-            "S8FL00166"
-        ], 
-        "google_entity_id": "kg:/m/01_pb_", 
-        "govtrack": 300078, 
-        "house_history": 18875, 
-        "icpsr": 14651, 
-        "lis": "S282", 
-        "maplight": 598, 
-        "opensecrets": "N00009926", 
-        "thomas": "00859", 
-        "votesmart": 1606, 
-        "wikidata": "Q358437", 
-        "wikipedia": "Bill Nelson"
+    {
+      "district": 9, 
+      "end": "1983-01-03", 
+      "party": "Democrat", 
+      "start": "1981-01-05", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Bill", 
-        "last": "Nelson", 
-        "official_full": "Bill Nelson"
+    {
+      "district": 11, 
+      "end": "1985-01-03", 
+      "party": "Democrat", 
+      "start": "1983-01-03", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "social": {
-        "twitter": "SenBillNelson", 
-        "twitter_id": 20597460, 
-        "youtube": "senbillnelson", 
-        "youtube_id": "UC1Iir7_h98mI9-hHzrDJWpw"
+    {
+      "district": 11, 
+      "end": "1987-01-03", 
+      "party": "Democrat", 
+      "start": "1985-01-03", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 9, 
-            "end": "1981-01-03", 
-            "party": "Democrat", 
-            "start": "1979-01-15", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1983-01-03", 
-            "party": "Democrat", 
-            "start": "1981-01-05", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "1985-01-03", 
-            "party": "Democrat", 
-            "start": "1983-01-03", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "1987-01-03", 
-            "party": "Democrat", 
-            "start": "1985-01-03", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "1989-01-03", 
-            "party": "Democrat", 
-            "start": "1987-01-06", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "1991-01-03", 
-            "party": "Democrat", 
-            "start": "1989-01-03", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "class": 1, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "FL", 
-            "type": "sen", 
-            "url": "http://billnelson.senate.gov/"
-        }, 
-        {
-            "address": "716 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.billnelson.senate.gov/contact/index.cfm", 
-            "end": "2013-01-03", 
-            "fax": "202-228-2183", 
-            "office": "716 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-5274", 
-            "start": "2007-01-04", 
-            "state": "FL", 
-            "type": "sen", 
-            "url": "http://billnelson.senate.gov/"
-        }, 
-        {
-            "address": "716 Hart Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "https://www.billnelson.senate.gov/contact-bill", 
-            "end": "2019-01-03", 
-            "fax": "202-228-2183", 
-            "office": "716 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-5274", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.billnelson.senate.gov"
-        }
-    ]
+    {
+      "district": 11, 
+      "end": "1989-01-03", 
+      "party": "Democrat", 
+      "start": "1987-01-06", 
+      "state": "FL", 
+      "type": "rep"
+    }, 
+    {
+      "district": 11, 
+      "end": "1991-01-03", 
+      "party": "Democrat", 
+      "start": "1989-01-03", 
+      "state": "FL", 
+      "type": "rep"
+    }, 
+    {
+      "class": 1, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "FL", 
+      "type": "sen", 
+      "url": "http://billnelson.senate.gov/"
+    }, 
+    {
+      "address": "716 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.billnelson.senate.gov/contact/index.cfm", 
+      "end": "2013-01-03", 
+      "fax": "202-228-2183", 
+      "office": "716 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5274", 
+      "start": "2007-01-04", 
+      "state": "FL", 
+      "type": "sen", 
+      "url": "http://billnelson.senate.gov/"
+    }, 
+    {
+      "address": "716 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "https://www.billnelson.senate.gov/contact-bill", 
+      "end": "2019-01-03", 
+      "fax": "202-228-2183", 
+      "office": "716 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5274", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.billnelson.senate.gov"
+    }
+  ]
 }

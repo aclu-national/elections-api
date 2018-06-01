@@ -1,99 +1,100 @@
 {
-    "bio": {
-        "birthday": "1950-10-11", 
-        "gender": "F", 
-        "religion": "Roman Catholic"
+  "bio": {
+    "birthday": "1950-10-11", 
+    "gender": "F", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1021", 
+    "ballotpedia": "Patty Murray", 
+    "bioguide": "M001111", 
+    "cspan": 25277, 
+    "fec": [
+      "S2WA00189"
+    ], 
+    "google_entity_id": "kg:/m/018qx5", 
+    "govtrack": 300076, 
+    "house_history": 18715, 
+    "icpsr": 49308, 
+    "lis": "S229", 
+    "maplight": 596, 
+    "opensecrets": "N00007876", 
+    "thomas": "01409", 
+    "votesmart": 53358, 
+    "wikidata": "Q258825", 
+    "wikipedia": "Patty Murray"
+  }, 
+  "name": {
+    "first": "Patty", 
+    "last": "Murray", 
+    "official_full": "Patty Murray"
+  }, 
+  "social": {
+    "instagram": "senpattymurray", 
+    "instagram_id": 426137845, 
+    "twitter": "PattyMurray", 
+    "twitter_id": 293131808, 
+    "youtube": "SenatorPattyMurray", 
+    "youtube_id": "UCb8jq3TvQ3AzKsexhWfFLoA"
+  }, 
+  "terms": [
+    {
+      "class": 3, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "WA", 
+      "type": "sen"
     }, 
-    "id": {
-        "ballotpedia": "Patty Murray", 
-        "bioguide": "M001111", 
-        "cspan": 25277, 
-        "fec": [
-            "S2WA00189"
-        ], 
-        "google_entity_id": "kg:/m/018qx5", 
-        "govtrack": 300076, 
-        "house_history": 18715, 
-        "icpsr": 49308, 
-        "lis": "S229", 
-        "maplight": 596, 
-        "opensecrets": "N00007876", 
-        "thomas": "01409", 
-        "votesmart": 53358, 
-        "wikidata": "Q258825", 
-        "wikipedia": "Patty Murray"
+    {
+      "class": 3, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "WA", 
+      "type": "sen", 
+      "url": "http://murray.senate.gov/"
     }, 
-    "name": {
-        "first": "Patty", 
-        "last": "Murray", 
-        "official_full": "Patty Murray"
+    {
+      "class": 3, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "WA", 
+      "type": "sen", 
+      "url": "http://murray.senate.gov/"
     }, 
-    "social": {
-        "instagram": "senpattymurray", 
-        "instagram_id": 426137845, 
-        "twitter": "PattyMurray", 
-        "twitter_id": 293131808, 
-        "youtube": "SenatorPattyMurray", 
-        "youtube_id": "UCb8jq3TvQ3AzKsexhWfFLoA"
+    {
+      "address": "154 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.murray.senate.gov/public/index.cfm/contactme", 
+      "end": "2017-01-03", 
+      "fax": "202-224-0238", 
+      "office": "154 Russell Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2621", 
+      "rss_url": "http://www.murray.senate.gov/public/?a=rss.feed", 
+      "start": "2011-01-05", 
+      "state": "WA", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.murray.senate.gov"
     }, 
-    "terms": [
-        {
-            "class": 3, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "WA", 
-            "type": "sen"
-        }, 
-        {
-            "class": 3, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "WA", 
-            "type": "sen", 
-            "url": "http://murray.senate.gov/"
-        }, 
-        {
-            "class": 3, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "WA", 
-            "type": "sen", 
-            "url": "http://murray.senate.gov/"
-        }, 
-        {
-            "address": "154 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.murray.senate.gov/public/index.cfm/contactme", 
-            "end": "2017-01-03", 
-            "fax": "202-224-0238", 
-            "office": "154 Russell Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-2621", 
-            "rss_url": "http://www.murray.senate.gov/public/?a=rss.feed", 
-            "start": "2011-01-05", 
-            "state": "WA", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.murray.senate.gov"
-        }, 
-        {
-            "address": "154 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.murray.senate.gov/public/index.cfm/contactme", 
-            "end": "2023-01-03", 
-            "fax": "202-224-0238", 
-            "office": "154 Russell Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-2621", 
-            "rss_url": "http://www.murray.senate.gov/public/?a=rss.feed", 
-            "start": "2017-01-03", 
-            "state": "WA", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.murray.senate.gov/public"
-        }
-    ]
+    {
+      "address": "154 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.murray.senate.gov/public/index.cfm/contactme", 
+      "end": "2023-01-03", 
+      "fax": "202-224-0238", 
+      "office": "154 Russell Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2621", 
+      "rss_url": "http://www.murray.senate.gov/public/?a=rss.feed", 
+      "start": "2017-01-03", 
+      "state": "WA", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.murray.senate.gov/public"
+    }
+  ]
 }

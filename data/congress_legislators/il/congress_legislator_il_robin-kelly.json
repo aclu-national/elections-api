@@ -1,81 +1,82 @@
 {
-    "bio": {
-        "birthday": "1956-04-30", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1956-04-30", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:696", 
+    "ballotpedia": "Robin Kelly", 
+    "bioguide": "K000385", 
+    "cspan": 70399, 
+    "fec": [
+      "H2IL02172"
+    ], 
+    "google_entity_id": "kg:/m/0g8l32", 
+    "govtrack": 412595, 
+    "house_history": 15032393262, 
+    "icpsr": 21371, 
+    "maplight": 2045, 
+    "opensecrets": "N00035215", 
+    "thomas": "02190", 
+    "votesmart": 33384, 
+    "wikidata": "Q3437091", 
+    "wikipedia": "Robin Kelly"
+  }, 
+  "name": {
+    "first": "Robin", 
+    "last": "Kelly", 
+    "official_full": "Robin L. Kelly"
+  }, 
+  "social": {
+    "facebook": "reprobinkelly", 
+    "twitter": "RepRobinKelly", 
+    "twitter_id": 1339931490, 
+    "youtube_id": "UCLhcNPX2nNQLNzwKW0nEykg"
+  }, 
+  "terms": [
+    {
+      "address": "2419 Rayburn HOB; Washington DC 20515-1302", 
+      "contact_form": "https://robinkelly.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4583", 
+      "office": "2419 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0773", 
+      "rss_url": "http://robinkelly.house.gov/rss.xml", 
+      "start": "2013-04-09", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://robinkelly.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Robin Kelly", 
-        "bioguide": "K000385", 
-        "cspan": 70399, 
-        "fec": [
-            "H2IL02172"
-        ], 
-        "google_entity_id": "kg:/m/0g8l32", 
-        "govtrack": 412595, 
-        "house_history": 15032393262, 
-        "icpsr": 21371, 
-        "maplight": 2045, 
-        "opensecrets": "N00035215", 
-        "thomas": "02190", 
-        "votesmart": 33384, 
-        "wikidata": "Q3437091", 
-        "wikipedia": "Robin Kelly"
+    {
+      "address": "1239 Longworth HOB; Washington DC 20515-1302", 
+      "contact_form": "https://robinkelly.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4583", 
+      "office": "1239 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0773", 
+      "rss_url": "http://robinkelly.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://robinkelly.house.gov"
     }, 
-    "name": {
-        "first": "Robin", 
-        "last": "Kelly", 
-        "official_full": "Robin L. Kelly"
-    }, 
-    "social": {
-        "facebook": "reprobinkelly", 
-        "twitter": "RepRobinKelly", 
-        "twitter_id": 1339931490, 
-        "youtube_id": "UCLhcNPX2nNQLNzwKW0nEykg"
-    }, 
-    "terms": [
-        {
-            "address": "2419 Rayburn HOB; Washington DC 20515-1302", 
-            "contact_form": "https://robinkelly.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4583", 
-            "office": "2419 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0773", 
-            "rss_url": "http://robinkelly.house.gov/rss.xml", 
-            "start": "2013-04-09", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://robinkelly.house.gov"
-        }, 
-        {
-            "address": "1239 Longworth HOB; Washington DC 20515-1302", 
-            "contact_form": "https://robinkelly.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4583", 
-            "office": "1239 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0773", 
-            "rss_url": "http://robinkelly.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://robinkelly.house.gov"
-        }, 
-        {
-            "address": "1239 Longworth House Office Building; Washington DC 20515-1302", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4583", 
-            "office": "1239 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0773", 
-            "rss_url": "http://robinkelly.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://robinkelly.house.gov"
-        }
-    ]
+    {
+      "address": "1239 Longworth House Office Building; Washington DC 20515-1302", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4583", 
+      "office": "1239 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0773", 
+      "rss_url": "http://robinkelly.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://robinkelly.house.gov"
+    }
+  ]
 }

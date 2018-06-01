@@ -1,55 +1,56 @@
 {
-    "bio": {
-        "birthday": "1944-03-31", 
-        "gender": "M"
-    }, 
-    "id": {
-        "ballotpedia": "Angus King", 
-        "bioguide": "K000383", 
-        "cspan": 37413, 
-        "fec": [
-            "S2ME00109"
-        ], 
-        "google_entity_id": "kg:/m/02hfx0", 
-        "govtrack": 412545, 
-        "icpsr": 41300, 
-        "lis": "S363", 
-        "maplight": 1769, 
-        "opensecrets": "N00034580", 
-        "thomas": "02185", 
-        "votesmart": 22381, 
-        "wikidata": "Q544464", 
-        "wikipedia": "Angus King"
-    }, 
-    "name": {
-        "first": "Angus", 
-        "last": "King", 
-        "official_full": "Angus S. King, Jr."
-    }, 
-    "social": {
-        "facebook": "SenatorAngusSKingJr", 
-        "twitter": "SenAngusKing", 
-        "twitter_id": 1068481578, 
-        "youtube": "SenatorAngusKing", 
-        "youtube_id": "UCpp6lGvrmt0XU_lnD4Ak0gA"
-    }, 
-    "terms": [
-        {
-            "address": "133 Hart Senate Office Building Washington DC 20510", 
-            "caucus": "Democrat", 
-            "class": 1, 
-            "contact_form": "https://www.king.senate.gov/contact", 
-            "end": "2019-01-03", 
-            "fax": "202-224-1946", 
-            "office": "133 Hart Senate Office Building", 
-            "party": "Independent", 
-            "phone": "202-224-5344", 
-            "rss_url": "http://www.king.senate.gov/rss/feeds/?type=all", 
-            "start": "2013-01-03", 
-            "state": "ME", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.king.senate.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1944-03-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:753", 
+    "ballotpedia": "Angus King", 
+    "bioguide": "K000383", 
+    "cspan": 37413, 
+    "fec": [
+      "S2ME00109"
+    ], 
+    "google_entity_id": "kg:/m/02hfx0", 
+    "govtrack": 412545, 
+    "icpsr": 41300, 
+    "lis": "S363", 
+    "maplight": 1769, 
+    "opensecrets": "N00034580", 
+    "thomas": "02185", 
+    "votesmart": 22381, 
+    "wikidata": "Q544464", 
+    "wikipedia": "Angus King"
+  }, 
+  "name": {
+    "first": "Angus", 
+    "last": "King", 
+    "official_full": "Angus S. King, Jr."
+  }, 
+  "social": {
+    "facebook": "SenatorAngusSKingJr", 
+    "twitter": "SenAngusKing", 
+    "twitter_id": 1068481578, 
+    "youtube": "SenatorAngusKing", 
+    "youtube_id": "UCpp6lGvrmt0XU_lnD4Ak0gA"
+  }, 
+  "terms": [
+    {
+      "address": "133 Hart Senate Office Building Washington DC 20510", 
+      "caucus": "Democrat", 
+      "class": 1, 
+      "contact_form": "https://www.king.senate.gov/contact", 
+      "end": "2019-01-03", 
+      "fax": "202-224-1946", 
+      "office": "133 Hart Senate Office Building", 
+      "party": "Independent", 
+      "phone": "202-224-5344", 
+      "rss_url": "http://www.king.senate.gov/rss/feeds/?type=all", 
+      "start": "2013-01-03", 
+      "state": "ME", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.king.senate.gov"
+    }
+  ]
 }

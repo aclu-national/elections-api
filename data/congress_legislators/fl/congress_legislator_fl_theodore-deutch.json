@@ -1,107 +1,108 @@
 {
-    "bio": {
-        "birthday": "1966-05-07", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1966-05-07", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:645", 
+    "ballotpedia": "Theodore E. Deutch", 
+    "bioguide": "D000610", 
+    "cspan": 9267613, 
+    "fec": [
+      "H0FL19080"
+    ], 
+    "google_entity_id": "kg:/m/03cg3qs", 
+    "govtrack": 412385, 
+    "house_history": 12594, 
+    "icpsr": 20959, 
+    "maplight": 1365, 
+    "opensecrets": "N00031317", 
+    "thomas": "01976", 
+    "votesmart": 67151, 
+    "wikidata": "Q245724", 
+    "wikipedia": "Ted Deutch"
+  }, 
+  "name": {
+    "first": "Theodore", 
+    "last": "Deutch", 
+    "middle": "E.", 
+    "official_full": "Theodore E. Deutch"
+  }, 
+  "social": {
+    "facebook": "CongressmanTedDeutch", 
+    "instagram": "repteddeutch", 
+    "twitter": "RepTedDeutch", 
+    "twitter_id": 137794015, 
+    "youtube": "congressmanteddeutch", 
+    "youtube_id": "UC1JlTLRUDkzhM2htvI9QJTA"
+  }, 
+  "terms": [
+    {
+      "district": 19, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2010-04-15", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://deutch.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Theodore E. Deutch", 
-        "bioguide": "D000610", 
-        "cspan": 9267613, 
-        "fec": [
-            "H0FL19080"
-        ], 
-        "google_entity_id": "kg:/m/03cg3qs", 
-        "govtrack": 412385, 
-        "house_history": 12594, 
-        "icpsr": 20959, 
-        "maplight": 1365, 
-        "opensecrets": "N00031317", 
-        "thomas": "01976", 
-        "votesmart": 67151, 
-        "wikidata": "Q245724", 
-        "wikipedia": "Ted Deutch"
+    {
+      "address": "1024 Longworth HOB; Washington DC 20515-0919", 
+      "contact_form": "https://teddeutch.house.gov/Forms/WriteYourRep/default.aspx", 
+      "district": 19, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5974", 
+      "office": "1024 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3001", 
+      "start": "2011-01-05", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://deutch.house.gov/"
     }, 
-    "name": {
-        "first": "Theodore", 
-        "last": "Deutch", 
-        "middle": "E.", 
-        "official_full": "Theodore E. Deutch"
+    {
+      "address": "1024 Longworth HOB; Washington DC 20515-0921", 
+      "contact_form": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 21, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5974", 
+      "office": "1024 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3001", 
+      "rss_url": "http://teddeutch.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://teddeutch.house.gov"
     }, 
-    "social": {
-        "facebook": "CongressmanTedDeutch", 
-        "instagram": "repteddeutch", 
-        "twitter": "RepTedDeutch", 
-        "twitter_id": 137794015, 
-        "youtube": "congressmanteddeutch", 
-        "youtube_id": "UC1JlTLRUDkzhM2htvI9QJTA"
+    {
+      "address": "2447 Rayburn HOB; Washington DC 20515-0921", 
+      "contact_form": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx", 
+      "district": 21, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5974", 
+      "office": "2447 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3001", 
+      "rss_url": "http://teddeutch.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://teddeutch.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 19, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2010-04-15", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://deutch.house.gov/"
-        }, 
-        {
-            "address": "1024 Longworth HOB; Washington DC 20515-0919", 
-            "contact_form": "https://teddeutch.house.gov/Forms/WriteYourRep/default.aspx", 
-            "district": 19, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5974", 
-            "office": "1024 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3001", 
-            "start": "2011-01-05", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://deutch.house.gov/"
-        }, 
-        {
-            "address": "1024 Longworth HOB; Washington DC 20515-0921", 
-            "contact_form": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 21, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5974", 
-            "office": "1024 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3001", 
-            "rss_url": "http://teddeutch.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://teddeutch.house.gov"
-        }, 
-        {
-            "address": "2447 Rayburn HOB; Washington DC 20515-0921", 
-            "contact_form": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx", 
-            "district": 21, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5974", 
-            "office": "2447 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3001", 
-            "rss_url": "http://teddeutch.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://teddeutch.house.gov"
-        }, 
-        {
-            "address": "2447 Rayburn House Office Building; Washington DC 20515-0922", 
-            "district": 22, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5974", 
-            "office": "2447 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3001", 
-            "rss_url": "http://teddeutch.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://teddeutch.house.gov"
-        }
-    ]
+    {
+      "address": "2447 Rayburn House Office Building; Washington DC 20515-0922", 
+      "district": 22, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5974", 
+      "office": "2447 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3001", 
+      "rss_url": "http://teddeutch.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://teddeutch.house.gov"
+    }
+  ]
 }

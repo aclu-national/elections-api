@@ -1,174 +1,175 @@
 {
-    "bio": {
-        "birthday": "1936-09-05", 
-        "gender": "M", 
-        "religion": "African Methodist Episcopal"
+  "bio": {
+    "birthday": "1936-09-05", 
+    "gender": "M", 
+    "religion": "African Methodist Episcopal"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:621", 
+    "ballotpedia": "Alcee L. Hastings", 
+    "bioguide": "H000324", 
+    "cspan": 1858, 
+    "fec": [
+      "H2FL23021"
+    ], 
+    "google_entity_id": "kg:/m/02534d", 
+    "govtrack": 400170, 
+    "house_history": 14683, 
+    "icpsr": 29337, 
+    "maplight": 276, 
+    "opensecrets": "N00002884", 
+    "thomas": "00511", 
+    "votesmart": 26798, 
+    "wikidata": "Q1758631", 
+    "wikipedia": "Alcee Hastings"
+  }, 
+  "name": {
+    "first": "Alcee", 
+    "last": "Hastings", 
+    "middle": "L.", 
+    "official_full": "Alcee L. Hastings"
+  }, 
+  "social": {
+    "facebook": "95696782238", 
+    "twitter": "RepHastingsFL", 
+    "twitter_id": 2433737761, 
+    "youtube": "RepAlceeHastings", 
+    "youtube_id": "UCaXXiR3YjMuPIlIGRGNnm8A"
+  }, 
+  "terms": [
+    {
+      "district": 23, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Alcee L. Hastings", 
-        "bioguide": "H000324", 
-        "cspan": 1858, 
-        "fec": [
-            "H2FL23021"
-        ], 
-        "google_entity_id": "kg:/m/02534d", 
-        "govtrack": 400170, 
-        "house_history": 14683, 
-        "icpsr": 29337, 
-        "maplight": 276, 
-        "opensecrets": "N00002884", 
-        "thomas": "00511", 
-        "votesmart": 26798, 
-        "wikidata": "Q1758631", 
-        "wikipedia": "Alcee Hastings"
+    {
+      "district": 23, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Alcee", 
-        "last": "Hastings", 
-        "middle": "L.", 
-        "official_full": "Alcee L. Hastings"
+    {
+      "district": 23, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "95696782238", 
-        "twitter": "RepHastingsFL", 
-        "twitter_id": 2433737761, 
-        "youtube": "RepAlceeHastings", 
-        "youtube_id": "UCaXXiR3YjMuPIlIGRGNnm8A"
+    {
+      "district": 23, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 23, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 23, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 23, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 23, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 23, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 23, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/alceehastings"
-        }, 
-        {
-            "district": 23, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/alceehastings"
-        }, 
-        {
-            "district": 23, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://alceehastings.house.gov"
-        }, 
-        {
-            "district": 23, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://alceehastings.house.gov"
-        }, 
-        {
-            "address": "2353 Rayburn HOB; Washington DC 20515-0923", 
-            "contact_form": "http://www.alceehastings.house.gov/index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=", 
-            "district": 23, 
-            "end": "2013-01-03", 
-            "fax": "202-225-1171", 
-            "office": "2353 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1313", 
-            "start": "2011-01-05", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://alceehastings.house.gov"
-        }, 
-        {
-            "address": "2353 Rayburn HOB; Washington DC 20515-0920", 
-            "contact_form": "https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224", 
-            "district": 20, 
-            "end": "2015-01-03", 
-            "fax": "202-225-1171", 
-            "office": "2353 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1313", 
-            "rss_url": "http://www.alceehastings.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://alceehastings.house.gov"
-        }, 
-        {
-            "address": "2353 Rayburn HOB; Washington DC 20515-0920", 
-            "contact_form": "https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224", 
-            "district": 20, 
-            "end": "2017-01-03", 
-            "fax": "202-225-1171", 
-            "office": "2353 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1313", 
-            "rss_url": "http://www.alceehastings.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://alceehastings.house.gov"
-        }, 
-        {
-            "address": "2353 Rayburn House Office Building; Washington DC 20515-0920", 
-            "district": 20, 
-            "end": "2019-01-03", 
-            "fax": "202-225-1171", 
-            "office": "2353 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1313", 
-            "rss_url": "http://www.alceehastings.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://alceehastings.house.gov"
-        }
-    ]
+    {
+      "district": 23, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "FL", 
+      "type": "rep"
+    }, 
+    {
+      "district": 23, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/alceehastings"
+    }, 
+    {
+      "district": 23, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/alceehastings"
+    }, 
+    {
+      "district": 23, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://alceehastings.house.gov"
+    }, 
+    {
+      "district": 23, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://alceehastings.house.gov"
+    }, 
+    {
+      "address": "2353 Rayburn HOB; Washington DC 20515-0923", 
+      "contact_form": "http://www.alceehastings.house.gov/index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=", 
+      "district": 23, 
+      "end": "2013-01-03", 
+      "fax": "202-225-1171", 
+      "office": "2353 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1313", 
+      "start": "2011-01-05", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://alceehastings.house.gov"
+    }, 
+    {
+      "address": "2353 Rayburn HOB; Washington DC 20515-0920", 
+      "contact_form": "https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224", 
+      "district": 20, 
+      "end": "2015-01-03", 
+      "fax": "202-225-1171", 
+      "office": "2353 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1313", 
+      "rss_url": "http://www.alceehastings.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://alceehastings.house.gov"
+    }, 
+    {
+      "address": "2353 Rayburn HOB; Washington DC 20515-0920", 
+      "contact_form": "https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224", 
+      "district": 20, 
+      "end": "2017-01-03", 
+      "fax": "202-225-1171", 
+      "office": "2353 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1313", 
+      "rss_url": "http://www.alceehastings.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://alceehastings.house.gov"
+    }, 
+    {
+      "address": "2353 Rayburn House Office Building; Washington DC 20515-0920", 
+      "district": 20, 
+      "end": "2019-01-03", 
+      "fax": "202-225-1171", 
+      "office": "2353 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1313", 
+      "rss_url": "http://www.alceehastings.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://alceehastings.house.gov"
+    }
+  ]
 }

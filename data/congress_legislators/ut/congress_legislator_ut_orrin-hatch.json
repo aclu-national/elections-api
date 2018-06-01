@@ -1,112 +1,113 @@
 {
-    "bio": {
-        "birthday": "1934-03-22", 
-        "gender": "M", 
-        "religion": "Latter Day Saints"
+  "bio": {
+    "birthday": "1934-03-22", 
+    "gender": "M", 
+    "religion": "Latter Day Saints"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:994", 
+    "ballotpedia": "Orrin Hatch", 
+    "bioguide": "H000338", 
+    "cspan": 189, 
+    "fec": [
+      "S6UT00063", 
+      "P00003806"
+    ], 
+    "google_entity_id": "kg:/m/016mj4", 
+    "govtrack": 300052, 
+    "icpsr": 14503, 
+    "lis": "S118", 
+    "maplight": 574, 
+    "opensecrets": "N00009869", 
+    "thomas": "01351", 
+    "votesmart": 53352, 
+    "wikidata": "Q381157", 
+    "wikipedia": "Orrin Hatch"
+  }, 
+  "name": {
+    "first": "Orrin", 
+    "last": "Hatch", 
+    "middle": "G.", 
+    "official_full": "Orrin G. Hatch"
+  }, 
+  "social": {
+    "facebook": "senatororrinhatch", 
+    "twitter": "SenOrrinHatch", 
+    "twitter_id": 262756641, 
+    "youtube": "SenatorOrrinHatch", 
+    "youtube_id": "UCQUPyPV_SR435OsPiFNIWPQ"
+  }, 
+  "terms": [
+    {
+      "class": 1, 
+      "end": "1983-01-03", 
+      "party": "Republican", 
+      "start": "1977-01-04", 
+      "state": "UT", 
+      "type": "sen"
     }, 
-    "id": {
-        "ballotpedia": "Orrin Hatch", 
-        "bioguide": "H000338", 
-        "cspan": 189, 
-        "fec": [
-            "S6UT00063", 
-            "P00003806"
-        ], 
-        "google_entity_id": "kg:/m/016mj4", 
-        "govtrack": 300052, 
-        "icpsr": 14503, 
-        "lis": "S118", 
-        "maplight": 574, 
-        "opensecrets": "N00009869", 
-        "thomas": "01351", 
-        "votesmart": 53352, 
-        "wikidata": "Q381157", 
-        "wikipedia": "Orrin Hatch"
+    {
+      "class": 1, 
+      "end": "1989-01-03", 
+      "party": "Republican", 
+      "start": "1983-01-03", 
+      "state": "UT", 
+      "type": "sen"
     }, 
-    "name": {
-        "first": "Orrin", 
-        "last": "Hatch", 
-        "middle": "G.", 
-        "official_full": "Orrin G. Hatch"
+    {
+      "class": 1, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1989-01-03", 
+      "state": "UT", 
+      "type": "sen"
     }, 
-    "social": {
-        "facebook": "senatororrinhatch", 
-        "twitter": "SenOrrinHatch", 
-        "twitter_id": 262756641, 
-        "youtube": "SenatorOrrinHatch", 
-        "youtube_id": "UCQUPyPV_SR435OsPiFNIWPQ"
+    {
+      "class": 1, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "UT", 
+      "type": "sen"
     }, 
-    "terms": [
-        {
-            "class": 1, 
-            "end": "1983-01-03", 
-            "party": "Republican", 
-            "start": "1977-01-04", 
-            "state": "UT", 
-            "type": "sen"
-        }, 
-        {
-            "class": 1, 
-            "end": "1989-01-03", 
-            "party": "Republican", 
-            "start": "1983-01-03", 
-            "state": "UT", 
-            "type": "sen"
-        }, 
-        {
-            "class": 1, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1989-01-03", 
-            "state": "UT", 
-            "type": "sen"
-        }, 
-        {
-            "class": 1, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "UT", 
-            "type": "sen"
-        }, 
-        {
-            "class": 1, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "UT", 
-            "type": "sen", 
-            "url": "http://hatch.senate.gov/"
-        }, 
-        {
-            "address": "104 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin", 
-            "end": "2013-01-03", 
-            "fax": "202-224-6331", 
-            "office": "104 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-5251", 
-            "start": "2007-01-04", 
-            "state": "UT", 
-            "type": "sen", 
-            "url": "http://hatch.senate.gov/"
-        }, 
-        {
-            "address": "104 Hart Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin", 
-            "end": "2019-01-03", 
-            "fax": "202-224-6331", 
-            "office": "104 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-5251", 
-            "rss_url": "http://www.hatch.senate.gov/public/index.cfm/rss/feed", 
-            "start": "2013-01-03", 
-            "state": "UT", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.hatch.senate.gov"
-        }
-    ]
+    {
+      "class": 1, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "UT", 
+      "type": "sen", 
+      "url": "http://hatch.senate.gov/"
+    }, 
+    {
+      "address": "104 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin", 
+      "end": "2013-01-03", 
+      "fax": "202-224-6331", 
+      "office": "104 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5251", 
+      "start": "2007-01-04", 
+      "state": "UT", 
+      "type": "sen", 
+      "url": "http://hatch.senate.gov/"
+    }, 
+    {
+      "address": "104 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.hatch.senate.gov/public/index.cfm/contact?p=Email-Orrin", 
+      "end": "2019-01-03", 
+      "fax": "202-224-6331", 
+      "office": "104 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5251", 
+      "rss_url": "http://www.hatch.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2013-01-03", 
+      "state": "UT", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.hatch.senate.gov"
+    }
+  ]
 }

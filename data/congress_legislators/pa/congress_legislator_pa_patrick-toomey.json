@@ -1,99 +1,100 @@
 {
-    "bio": {
-        "birthday": "1961-11-17", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1961-11-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:920", 
+    "ballotpedia": "Pat Toomey", 
+    "bioguide": "T000461", 
+    "cspan": 7958, 
+    "fec": [
+      "S4PA00121", 
+      "H8PA15096"
+    ], 
+    "google_entity_id": "kg:/m/02_kk7", 
+    "govtrack": 400408, 
+    "house_history": 23202, 
+    "icpsr": 29935, 
+    "lis": "S351", 
+    "maplight": 1406, 
+    "opensecrets": "N00001489", 
+    "thomas": "02085", 
+    "votesmart": 24096, 
+    "wikidata": "Q971308", 
+    "wikipedia": "Pat Toomey"
+  }, 
+  "name": {
+    "first": "Patrick", 
+    "last": "Toomey", 
+    "middle": "J.", 
+    "nickname": "Pat", 
+    "official_full": "Patrick J. Toomey"
+  }, 
+  "social": {
+    "facebook": "senatortoomey", 
+    "twitter": "SenToomey", 
+    "twitter_id": 221162525, 
+    "youtube": "sentoomey", 
+    "youtube_id": "UCDUM4FFU1p-_YuHqmBglyXw"
+  }, 
+  "terms": [
+    {
+      "district": 15, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "PA", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Pat Toomey", 
-        "bioguide": "T000461", 
-        "cspan": 7958, 
-        "fec": [
-            "S4PA00121", 
-            "H8PA15096"
-        ], 
-        "google_entity_id": "kg:/m/02_kk7", 
-        "govtrack": 400408, 
-        "house_history": 23202, 
-        "icpsr": 29935, 
-        "lis": "S351", 
-        "maplight": 1406, 
-        "opensecrets": "N00001489", 
-        "thomas": "02085", 
-        "votesmart": 24096, 
-        "wikidata": "Q971308", 
-        "wikipedia": "Pat Toomey"
+    {
+      "district": 15, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "PA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Patrick", 
-        "last": "Toomey", 
-        "middle": "J.", 
-        "nickname": "Pat", 
-        "official_full": "Patrick J. Toomey"
+    {
+      "district": 15, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/toomey"
     }, 
-    "social": {
-        "facebook": "senatortoomey", 
-        "twitter": "SenToomey", 
-        "twitter_id": 221162525, 
-        "youtube": "sentoomey", 
-        "youtube_id": "UCDUM4FFU1p-_YuHqmBglyXw"
+    {
+      "address": "248 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.toomey.senate.gov/?p=contact", 
+      "end": "2017-01-03", 
+      "fax": "202-228-0284", 
+      "office": "248 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4254", 
+      "rss_url": "http://toomey.senate.gov/rss/?p=hot_topic", 
+      "start": "2011-01-05", 
+      "state": "PA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "http://www.toomey.senate.gov"
     }, 
-    "terms": [
-        {
-            "district": 15, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "PA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 15, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "PA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 15, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/toomey"
-        }, 
-        {
-            "address": "248 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.toomey.senate.gov/?p=contact", 
-            "end": "2017-01-03", 
-            "fax": "202-228-0284", 
-            "office": "248 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-4254", 
-            "rss_url": "http://toomey.senate.gov/rss/?p=hot_topic", 
-            "start": "2011-01-05", 
-            "state": "PA", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "http://www.toomey.senate.gov"
-        }, 
-        {
-            "address": "248 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.toomey.senate.gov/?p=contact", 
-            "end": "2023-01-03", 
-            "fax": "202-228-0284", 
-            "office": "248 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-4254", 
-            "rss_url": "http://toomey.senate.gov/rss/?p=hot_topic", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.toomey.senate.gov"
-        }
-    ]
+    {
+      "address": "248 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.toomey.senate.gov/?p=contact", 
+      "end": "2023-01-03", 
+      "fax": "202-228-0284", 
+      "office": "248 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4254", 
+      "rss_url": "http://toomey.senate.gov/rss/?p=hot_topic", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.toomey.senate.gov"
+    }
+  ]
 }

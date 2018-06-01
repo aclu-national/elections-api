@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1951-05-04", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1951-05-04", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:666", 
+    "ballotpedia": "Colleen Hanabusa", 
+    "bioguide": "H001050", 
+    "cspan": 61258, 
+    "fec": [
+      "H2HI02110", 
+      "S4HI00144"
+    ], 
+    "google_entity_id": "kg:/m/03cwzgv", 
+    "govtrack": 412418, 
+    "house_history": 15596, 
+    "icpsr": 21124, 
+    "maplight": 1430, 
+    "opensecrets": "N00025881", 
+    "thomas": "02010", 
+    "votesmart": 17745, 
+    "wikidata": "Q276359", 
+    "wikipedia": "Colleen Hanabusa"
+  }, 
+  "name": {
+    "first": "Colleen", 
+    "last": "Hanabusa", 
+    "middle": "W.", 
+    "official_full": "Colleen Hanabusa"
+  }, 
+  "social": {
+    "facebook": "RepColleenHanabusa", 
+    "twitter": "RepHanabusa", 
+    "twitter_id": 235373000
+  }, 
+  "terms": [
+    {
+      "address": "238 Cannon HOB; Washington DC 20515-1101", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-225-4580", 
+      "office": "238 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2726", 
+      "start": "2011-01-05", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "http://hanabusa.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Colleen Hanabusa", 
-        "bioguide": "H001050", 
-        "cspan": 61258, 
-        "fec": [
-            "H2HI02110", 
-            "S4HI00144"
-        ], 
-        "google_entity_id": "kg:/m/03cwzgv", 
-        "govtrack": 412418, 
-        "house_history": 15596, 
-        "icpsr": 21124, 
-        "maplight": 1430, 
-        "opensecrets": "N00025881", 
-        "thomas": "02010", 
-        "votesmart": 17745, 
-        "wikidata": "Q276359", 
-        "wikipedia": "Colleen Hanabusa"
+    {
+      "address": "238 Cannon HOB; Washington DC 20515-1101", 
+      "contact_form": "https://hanabusa.house.gov/contact-me/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4580", 
+      "office": "238 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2726", 
+      "rss_url": "http://hanabusa.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "http://hanabusa.house.gov"
     }, 
-    "name": {
-        "first": "Colleen", 
-        "last": "Hanabusa", 
-        "middle": "W.", 
-        "official_full": "Colleen Hanabusa"
+    {
+      "address": "422 Cannon HOB; Washington DC 20515-1101", 
+      "contact_form": "https://hanabusa.house.gov/contact/email", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0688", 
+      "office": "422 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2726", 
+      "rss_url": "https://hanabusa.house.gov/rss.xml", 
+      "start": "2016-11-14", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "https://hanabusa.house.gov/"
     }, 
-    "social": {
-        "facebook": "RepColleenHanabusa", 
-        "twitter": "RepHanabusa", 
-        "twitter_id": 235373000
-    }, 
-    "terms": [
-        {
-            "address": "238 Cannon HOB; Washington DC 20515-1101", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-225-4580", 
-            "office": "238 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2726", 
-            "start": "2011-01-05", 
-            "state": "HI", 
-            "type": "rep", 
-            "url": "http://hanabusa.house.gov/"
-        }, 
-        {
-            "address": "238 Cannon HOB; Washington DC 20515-1101", 
-            "contact_form": "https://hanabusa.house.gov/contact-me/email-me", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4580", 
-            "office": "238 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2726", 
-            "rss_url": "http://hanabusa.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "HI", 
-            "type": "rep", 
-            "url": "http://hanabusa.house.gov"
-        }, 
-        {
-            "address": "422 Cannon HOB; Washington DC 20515-1101", 
-            "contact_form": "https://hanabusa.house.gov/contact/email", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0688", 
-            "office": "422 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2726", 
-            "rss_url": "https://hanabusa.house.gov/rss.xml", 
-            "start": "2016-11-14", 
-            "state": "HI", 
-            "type": "rep", 
-            "url": "https://hanabusa.house.gov/"
-        }, 
-        {
-            "address": "422 Cannon House Office Building; Washington DC 20515-1101", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0688", 
-            "office": "422 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2726", 
-            "rss_url": "https://hanabusa.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "HI", 
-            "type": "rep", 
-            "url": "https://hanabusa.house.gov"
-        }
-    ]
+    {
+      "address": "422 Cannon House Office Building; Washington DC 20515-1101", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0688", 
+      "office": "422 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2726", 
+      "rss_url": "https://hanabusa.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "https://hanabusa.house.gov"
+    }
+  ]
 }

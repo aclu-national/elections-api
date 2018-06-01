@@ -1,206 +1,207 @@
 {
-    "bio": {
-        "birthday": "1949-09-15", 
-        "gender": "M", 
-        "religion": "Methodist"
+  "bio": {
+    "birthday": "1949-09-15", 
+    "gender": "M", 
+    "religion": "Methodist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:965", 
+    "bioguide": "B000213", 
+    "cspan": 5248, 
+    "fec": [
+      "H4TX06117", 
+      "S4TX00094"
+    ], 
+    "google_entity_id": "kg:/m/03rspq", 
+    "govtrack": 400018, 
+    "house_history": 9049, 
+    "icpsr": 15085, 
+    "maplight": 139, 
+    "opensecrets": "N00005656", 
+    "thomas": "00062", 
+    "votesmart": 27082, 
+    "wikidata": "Q966261", 
+    "wikipedia": "Joe Barton"
+  }, 
+  "name": {
+    "first": "Joe", 
+    "last": "Barton", 
+    "middle": "Linus", 
+    "official_full": "Joe Barton"
+  }, 
+  "social": {
+    "facebook": "RepJoeBarton", 
+    "twitter": "RepJoeBarton", 
+    "twitter_id": 19929362, 
+    "youtube": "repjoebarton", 
+    "youtube_id": "UC9zg5RmxfNdBfz4iZuzvWXg"
+  }, 
+  "terms": [
+    {
+      "district": 6, 
+      "end": "1987-01-03", 
+      "party": "Republican", 
+      "start": "1985-01-03", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "B000213", 
-        "cspan": 5248, 
-        "fec": [
-            "H4TX06117", 
-            "S4TX00094"
-        ], 
-        "google_entity_id": "kg:/m/03rspq", 
-        "govtrack": 400018, 
-        "house_history": 9049, 
-        "icpsr": 15085, 
-        "maplight": 139, 
-        "opensecrets": "N00005656", 
-        "thomas": "00062", 
-        "votesmart": 27082, 
-        "wikidata": "Q966261", 
-        "wikipedia": "Joe Barton"
+    {
+      "district": 6, 
+      "end": "1989-01-03", 
+      "party": "Republican", 
+      "start": "1987-01-06", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Joe", 
-        "last": "Barton", 
-        "middle": "Linus", 
-        "official_full": "Joe Barton"
+    {
+      "district": 6, 
+      "end": "1991-01-03", 
+      "party": "Republican", 
+      "start": "1989-01-03", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepJoeBarton", 
-        "twitter": "RepJoeBarton", 
-        "twitter_id": 19929362, 
-        "youtube": "repjoebarton", 
-        "youtube_id": "UC9zg5RmxfNdBfz4iZuzvWXg"
+    {
+      "district": 6, 
+      "end": "1993-01-03", 
+      "party": "Republican", 
+      "start": "1991-01-03", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 6, 
-            "end": "1987-01-03", 
-            "party": "Republican", 
-            "start": "1985-01-03", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1989-01-03", 
-            "party": "Republican", 
-            "start": "1987-01-06", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1991-01-03", 
-            "party": "Republican", 
-            "start": "1989-01-03", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1993-01-03", 
-            "party": "Republican", 
-            "start": "1991-01-03", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1993-01-05", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/barton"
-        }, 
-        {
-            "district": 6, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/barton"
-        }, 
-        {
-            "district": 6, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://joebarton.house.gov"
-        }, 
-        {
-            "district": 6, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://joebarton.house.gov"
-        }, 
-        {
-            "address": "2109 Rayburn HOB; Washington DC 20515-4306", 
-            "contact_form": "http://joebarton.house.gov/ContactJoe.aspx?Type=Email", 
-            "district": 6, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3052", 
-            "office": "2109 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2002", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://joebarton.house.gov"
-        }, 
-        {
-            "address": "2107 Rayburn HOB; Washington DC 20515-4306", 
-            "contact_form": "https://joebarton.house.gov/contact1/", 
-            "district": 6, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3052", 
-            "office": "2107 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2002", 
-            "rss_url": "http://joebarton.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://joebarton.house.gov"
-        }, 
-        {
-            "address": "2107 Rayburn HOB; Washington DC 20515-4306", 
-            "contact_form": "https://joebarton.house.gov/contact1/", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3052", 
-            "office": "2107 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2002", 
-            "rss_url": "http://joebarton.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://joebarton.house.gov"
-        }, 
-        {
-            "address": "2107 Rayburn House Office Building; Washington DC 20515-4306", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3052", 
-            "office": "2107 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2002", 
-            "rss_url": "http://joebarton.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://joebarton.house.gov"
-        }
-    ]
+    {
+      "district": 6, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "TX", 
+      "type": "rep"
+    }, 
+    {
+      "district": 6, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "TX", 
+      "type": "rep"
+    }, 
+    {
+      "district": 6, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "TX", 
+      "type": "rep"
+    }, 
+    {
+      "district": 6, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "TX", 
+      "type": "rep"
+    }, 
+    {
+      "district": 6, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "TX", 
+      "type": "rep"
+    }, 
+    {
+      "district": 6, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/barton"
+    }, 
+    {
+      "district": 6, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/barton"
+    }, 
+    {
+      "district": 6, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://joebarton.house.gov"
+    }, 
+    {
+      "district": 6, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://joebarton.house.gov"
+    }, 
+    {
+      "address": "2109 Rayburn HOB; Washington DC 20515-4306", 
+      "contact_form": "http://joebarton.house.gov/ContactJoe.aspx?Type=Email", 
+      "district": 6, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3052", 
+      "office": "2109 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2002", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://joebarton.house.gov"
+    }, 
+    {
+      "address": "2107 Rayburn HOB; Washington DC 20515-4306", 
+      "contact_form": "https://joebarton.house.gov/contact1/", 
+      "district": 6, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3052", 
+      "office": "2107 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2002", 
+      "rss_url": "http://joebarton.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://joebarton.house.gov"
+    }, 
+    {
+      "address": "2107 Rayburn HOB; Washington DC 20515-4306", 
+      "contact_form": "https://joebarton.house.gov/contact1/", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3052", 
+      "office": "2107 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2002", 
+      "rss_url": "http://joebarton.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://joebarton.house.gov"
+    }, 
+    {
+      "address": "2107 Rayburn House Office Building; Washington DC 20515-4306", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3052", 
+      "office": "2107 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2002", 
+      "rss_url": "http://joebarton.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://joebarton.house.gov"
+    }
+  ]
 }

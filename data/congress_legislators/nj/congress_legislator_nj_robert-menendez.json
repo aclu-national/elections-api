@@ -1,0 +1,147 @@
+{
+  "bio": {
+    "birthday": "1954-01-01", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:837", 
+    "ballotpedia": "Bob Menendez", 
+    "bioguide": "M000639", 
+    "cspan": 29608, 
+    "fec": [
+      "H2NJ13075", 
+      "S6NJ00289"
+    ], 
+    "google_entity_id": "kg:/m/033d3p", 
+    "govtrack": 400272, 
+    "house_history": 18124, 
+    "icpsr": 29373, 
+    "lis": "S306", 
+    "maplight": 368, 
+    "opensecrets": "N00000699", 
+    "thomas": "00791", 
+    "votesmart": 26961, 
+    "wikidata": "Q888132", 
+    "wikipedia": "Bob Menendez"
+  }, 
+  "name": {
+    "first": "Robert", 
+    "last": "Men\u00e9ndez", 
+    "nickname": "Bob", 
+    "official_full": "Robert Menendez"
+  }, 
+  "other_names": [
+    {
+      "last": "Menendez"
+    }
+  ], 
+  "social": {
+    "facebook": "senatormenendez", 
+    "instagram": "senatormenendez", 
+    "instagram_id": 433044338, 
+    "twitter": "SenatorMenendez", 
+    "twitter_id": 18695134, 
+    "youtube": "SenatorMenendezNJ", 
+    "youtube_id": "UC0PV0K9Z5a9p3D5917KF5fw"
+  }, 
+  "terms": [
+    {
+      "district": 13, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 13, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 13, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 13, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 13, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 13, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://menendez.house.gov"
+    }, 
+    {
+      "district": 13, 
+      "end": "2006-01-16", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://menendez.house.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2006-01-18", 
+      "state": "NJ", 
+      "type": "sen", 
+      "url": "http://menendez.senate.gov/"
+    }, 
+    {
+      "address": "528 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://menendez.senate.gov/contact/", 
+      "end": "2013-01-03", 
+      "fax": "202-228-2197", 
+      "office": "528 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4744", 
+      "start": "2007-01-04", 
+      "state": "NJ", 
+      "type": "sen", 
+      "url": "http://menendez.senate.gov/"
+    }, 
+    {
+      "address": "528 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "https://www.menendez.senate.gov/contact", 
+      "end": "2019-01-03", 
+      "fax": "202-228-2197", 
+      "office": "528 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4744", 
+      "rss_url": "http://www.menendez.senate.gov/rss/feeds/index.cfm?type=news", 
+      "start": "2013-01-03", 
+      "state": "NJ", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.menendez.senate.gov"
+    }
+  ]
+}

@@ -1,122 +1,123 @@
 {
-    "bio": {
-        "birthday": "1962-01-14", 
-        "gender": "M", 
-        "religion": "Unknown"
+  "bio": {
+    "birthday": "1962-01-14", 
+    "gender": "M", 
+    "religion": "Unknown"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:980", 
+    "ballotpedia": "Michael McCaul", 
+    "bioguide": "M001157", 
+    "cspan": 1013056, 
+    "fec": [
+      "H4TX10093"
+    ], 
+    "google_entity_id": "kg:/m/0492cz", 
+    "govtrack": 400654, 
+    "house_history": 18786, 
+    "icpsr": 20530, 
+    "maplight": 659, 
+    "opensecrets": "N00026460", 
+    "thomas": "01804", 
+    "votesmart": 49210, 
+    "wikidata": "Q539509", 
+    "wikipedia": "Michael McCaul"
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "McCaul", 
+    "middle": "T.", 
+    "official_full": "Michael T. McCaul"
+  }, 
+  "social": {
+    "facebook": "michaeltmccaul", 
+    "instagram": "congressman_mccaul", 
+    "twitter": "RepMcCaul", 
+    "twitter_id": 26424123, 
+    "youtube": "MichaelTMcCaul", 
+    "youtube_id": "UCRw6sGE0PH7_FCeTT3PQRaA"
+  }, 
+  "terms": [
+    {
+      "district": 10, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Michael McCaul", 
-        "bioguide": "M001157", 
-        "cspan": 1013056, 
-        "fec": [
-            "H4TX10093"
-        ], 
-        "google_entity_id": "kg:/m/0492cz", 
-        "govtrack": 400654, 
-        "house_history": 18786, 
-        "icpsr": 20530, 
-        "maplight": 659, 
-        "opensecrets": "N00026460", 
-        "thomas": "01804", 
-        "votesmart": 49210, 
-        "wikidata": "Q539509", 
-        "wikipedia": "Michael McCaul"
+    {
+      "district": 10, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mccaul"
     }, 
-    "name": {
-        "first": "Michael", 
-        "last": "McCaul", 
-        "middle": "T.", 
-        "official_full": "Michael T. McCaul"
+    {
+      "district": 10, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mccaul"
     }, 
-    "social": {
-        "facebook": "michaeltmccaul", 
-        "instagram": "congressman_mccaul", 
-        "twitter": "RepMcCaul", 
-        "twitter_id": 26424123, 
-        "youtube": "MichaelTMcCaul", 
-        "youtube_id": "UCRw6sGE0PH7_FCeTT3PQRaA"
+    {
+      "address": "131 Cannon HOB; Washington DC 20515-4310", 
+      "contact_form": "http://www.house.gov/writerep", 
+      "district": 10, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5955", 
+      "office": "131 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2401", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mccaul"
     }, 
-    "terms": [
-        {
-            "district": 10, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 10, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mccaul"
-        }, 
-        {
-            "district": 10, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mccaul"
-        }, 
-        {
-            "address": "131 Cannon HOB; Washington DC 20515-4310", 
-            "contact_form": "http://www.house.gov/writerep", 
-            "district": 10, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5955", 
-            "office": "131 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2401", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mccaul"
-        }, 
-        {
-            "address": "131 Cannon HOB; Washington DC 20515-4310", 
-            "contact_form": "https://mccaul.house.gov/contact/email-me", 
-            "district": 10, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5955", 
-            "office": "131 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2401", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://mccaul.house.gov"
-        }, 
-        {
-            "address": "131 Cannon HOB; Washington DC 20515-4310", 
-            "contact_form": "https://mccaul.house.gov/contact/email-me", 
-            "district": 10, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5955", 
-            "office": "131 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2401", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://mccaul.house.gov"
-        }, 
-        {
-            "address": "2001 Rayburn House Office Building; Washington DC 20515-4310", 
-            "district": 10, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5955", 
-            "office": "2001 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2401", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://mccaul.house.gov"
-        }
-    ]
+    {
+      "address": "131 Cannon HOB; Washington DC 20515-4310", 
+      "contact_form": "https://mccaul.house.gov/contact/email-me", 
+      "district": 10, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5955", 
+      "office": "131 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2401", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://mccaul.house.gov"
+    }, 
+    {
+      "address": "131 Cannon HOB; Washington DC 20515-4310", 
+      "contact_form": "https://mccaul.house.gov/contact/email-me", 
+      "district": 10, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5955", 
+      "office": "131 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2401", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://mccaul.house.gov"
+    }, 
+    {
+      "address": "2001 Rayburn House Office Building; Washington DC 20515-4310", 
+      "district": 10, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5955", 
+      "office": "2001 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2401", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://mccaul.house.gov"
+    }
+  ]
 }

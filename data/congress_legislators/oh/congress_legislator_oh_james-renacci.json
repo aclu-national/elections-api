@@ -1,97 +1,98 @@
 {
-    "bio": {
-        "birthday": "1958-12-03", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1958-12-03", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:883", 
+    "ballotpedia": "Jim Renacci", 
+    "bioguide": "R000586", 
+    "cspan": 62686, 
+    "fec": [
+      "H0OH16097"
+    ], 
+    "google_entity_id": "kg:/m/025v2hb", 
+    "govtrack": 412462, 
+    "house_history": 20813, 
+    "icpsr": 21164, 
+    "maplight": 1468, 
+    "opensecrets": "N00031127", 
+    "thomas": "02048", 
+    "votesmart": 120678, 
+    "wikidata": "Q976676", 
+    "wikipedia": "Jim Renacci"
+  }, 
+  "name": {
+    "first": "James", 
+    "last": "Renacci", 
+    "middle": "B.", 
+    "official_full": "James B. Renacci"
+  }, 
+  "social": {
+    "facebook": "repjimrenacci", 
+    "instagram": "repjimrenacci", 
+    "twitter": "RepJimRenacci", 
+    "twitter_id": 236916916, 
+    "youtube": "repjimrenacci", 
+    "youtube_id": "UCHTvP1X0dgUU1lrMub4hbLw"
+  }, 
+  "terms": [
+    {
+      "address": "130 Cannon HOB; Washington DC 20515-3516", 
+      "district": 16, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3059", 
+      "office": "130 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3876", 
+      "start": "2011-01-05", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://renacci.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Jim Renacci", 
-        "bioguide": "R000586", 
-        "cspan": 62686, 
-        "fec": [
-            "H0OH16097"
-        ], 
-        "google_entity_id": "kg:/m/025v2hb", 
-        "govtrack": 412462, 
-        "house_history": 20813, 
-        "icpsr": 21164, 
-        "maplight": 1468, 
-        "opensecrets": "N00031127", 
-        "thomas": "02048", 
-        "votesmart": 120678, 
-        "wikidata": "Q976676", 
-        "wikipedia": "Jim Renacci"
+    {
+      "address": "130 Cannon HOB; Washington DC 20515-3516", 
+      "contact_form": "https://renacci.house.gov/index.cfm/contact-form", 
+      "district": 16, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3059", 
+      "office": "130 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3876", 
+      "rss_url": "http://renacci.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2013-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://renacci.house.gov"
     }, 
-    "name": {
-        "first": "James", 
-        "last": "Renacci", 
-        "middle": "B.", 
-        "official_full": "James B. Renacci"
+    {
+      "address": "328 Cannon HOB; Washington DC 20515-3516", 
+      "contact_form": "https://renacci.house.gov/index.cfm/contact-form", 
+      "district": 16, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3059", 
+      "office": "328 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3876", 
+      "rss_url": "http://renacci.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2015-01-06", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://renacci.house.gov"
     }, 
-    "social": {
-        "facebook": "repjimrenacci", 
-        "instagram": "repjimrenacci", 
-        "twitter": "RepJimRenacci", 
-        "twitter_id": 236916916, 
-        "youtube": "repjimrenacci", 
-        "youtube_id": "UCHTvP1X0dgUU1lrMub4hbLw"
-    }, 
-    "terms": [
-        {
-            "address": "130 Cannon HOB; Washington DC 20515-3516", 
-            "district": 16, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3059", 
-            "office": "130 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3876", 
-            "start": "2011-01-05", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://renacci.house.gov/"
-        }, 
-        {
-            "address": "130 Cannon HOB; Washington DC 20515-3516", 
-            "contact_form": "https://renacci.house.gov/index.cfm/contact-form", 
-            "district": 16, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3059", 
-            "office": "130 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3876", 
-            "rss_url": "http://renacci.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2013-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://renacci.house.gov"
-        }, 
-        {
-            "address": "328 Cannon HOB; Washington DC 20515-3516", 
-            "contact_form": "https://renacci.house.gov/index.cfm/contact-form", 
-            "district": 16, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3059", 
-            "office": "328 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3876", 
-            "rss_url": "http://renacci.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2015-01-06", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "https://renacci.house.gov"
-        }, 
-        {
-            "address": "328 Cannon House Office Building; Washington DC 20515-3516", 
-            "district": 16, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3059", 
-            "office": "328 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3876", 
-            "rss_url": "http://renacci.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2017-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "https://renacci.house.gov"
-        }
-    ]
+    {
+      "address": "328 Cannon House Office Building; Washington DC 20515-3516", 
+      "district": 16, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3059", 
+      "office": "328 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3876", 
+      "rss_url": "http://renacci.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2017-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://renacci.house.gov"
+    }
+  ]
 }

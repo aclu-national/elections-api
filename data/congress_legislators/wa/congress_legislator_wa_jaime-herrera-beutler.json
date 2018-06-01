@@ -1,94 +1,95 @@
 {
-    "bio": {
-        "birthday": "1978-11-03", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1978-11-03", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1019", 
+    "bioguide": "H001056", 
+    "cspan": 95198, 
+    "fec": [
+      "H0WA03187"
+    ], 
+    "google_entity_id": "kg:/m/0cz8yx2", 
+    "govtrack": 412486, 
+    "house_history": 15606, 
+    "icpsr": 21187, 
+    "maplight": 1491, 
+    "opensecrets": "N00031559", 
+    "thomas": "02071", 
+    "votesmart": 101907, 
+    "wikidata": "Q168592", 
+    "wikipedia": "Jaime Herrera Beutler"
+  }, 
+  "name": {
+    "first": "Jaime", 
+    "last": "Herrera Beutler", 
+    "official_full": "Jaime Herrera Beutler"
+  }, 
+  "social": {
+    "facebook": "herrerabeutler", 
+    "twitter": "HerreraBeutler", 
+    "twitter_id": 242926427, 
+    "youtube": "RepHerreraBeutler", 
+    "youtube_id": "UCJEgiA9clfx0amrQUj0aBTQ"
+  }, 
+  "terms": [
+    {
+      "address": "1130 Longworth HOB; Washington DC 20515-4703", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3478", 
+      "office": "1130 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3536", 
+      "start": "2011-01-05", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://herrerabeutler.house.gov/"
     }, 
-    "id": {
-        "bioguide": "H001056", 
-        "cspan": 95198, 
-        "fec": [
-            "H0WA03187"
-        ], 
-        "google_entity_id": "kg:/m/0cz8yx2", 
-        "govtrack": 412486, 
-        "house_history": 15606, 
-        "icpsr": 21187, 
-        "maplight": 1491, 
-        "opensecrets": "N00031559", 
-        "thomas": "02071", 
-        "votesmart": 101907, 
-        "wikidata": "Q168592", 
-        "wikipedia": "Jaime Herrera Beutler"
+    {
+      "address": "1130 Longworth HOB; Washington DC 20515-4703", 
+      "contact_form": "http://herrerabeutler.house.gov/contact/", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3478", 
+      "office": "1130 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3536", 
+      "rss_url": "http://herrerabeutler.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://herrerabeutler.house.gov"
     }, 
-    "name": {
-        "first": "Jaime", 
-        "last": "Herrera Beutler", 
-        "official_full": "Jaime Herrera Beutler"
+    {
+      "address": "1130 Longworth HOB; Washington DC 20515-4703", 
+      "contact_form": "http://herrerabeutler.house.gov/contact/", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3478", 
+      "office": "1130 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3536", 
+      "rss_url": "http://herrerabeutler.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://herrerabeutler.house.gov"
     }, 
-    "social": {
-        "facebook": "herrerabeutler", 
-        "twitter": "HerreraBeutler", 
-        "twitter_id": 242926427, 
-        "youtube": "RepHerreraBeutler", 
-        "youtube_id": "UCJEgiA9clfx0amrQUj0aBTQ"
-    }, 
-    "terms": [
-        {
-            "address": "1130 Longworth HOB; Washington DC 20515-4703", 
-            "district": 3, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3478", 
-            "office": "1130 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3536", 
-            "start": "2011-01-05", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://herrerabeutler.house.gov/"
-        }, 
-        {
-            "address": "1130 Longworth HOB; Washington DC 20515-4703", 
-            "contact_form": "http://herrerabeutler.house.gov/contact/", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3478", 
-            "office": "1130 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3536", 
-            "rss_url": "http://herrerabeutler.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://herrerabeutler.house.gov"
-        }, 
-        {
-            "address": "1130 Longworth HOB; Washington DC 20515-4703", 
-            "contact_form": "http://herrerabeutler.house.gov/contact/", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3478", 
-            "office": "1130 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3536", 
-            "rss_url": "http://herrerabeutler.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://herrerabeutler.house.gov"
-        }, 
-        {
-            "address": "1107 Longworth House Office Building; Washington DC 20515-4703", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3478", 
-            "office": "1107 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3536", 
-            "rss_url": "http://herrerabeutler.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "https://herrerabeutler.house.gov"
-        }
-    ]
+    {
+      "address": "1107 Longworth House Office Building; Washington DC 20515-4703", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3478", 
+      "office": "1107 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3536", 
+      "rss_url": "http://herrerabeutler.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://herrerabeutler.house.gov"
+    }
+  ]
 }

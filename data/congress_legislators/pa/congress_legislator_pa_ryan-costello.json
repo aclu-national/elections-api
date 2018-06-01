@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1976-09-07", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1976-09-07", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:923", 
+    "bioguide": "C001106", 
+    "cspan": 95125, 
+    "fec": [
+      "H0PA06076"
+    ], 
+    "google_entity_id": "kg:/m/0127dxsz", 
+    "govtrack": 412651, 
+    "icpsr": 21547, 
+    "maplight": 2107, 
+    "opensecrets": "N00031064", 
+    "thomas": "02266", 
+    "votesmart": 133557, 
+    "wikidata": "Q18631846", 
+    "wikipedia": "Ryan Costello"
+  }, 
+  "name": {
+    "first": "Ryan", 
+    "last": "Costello", 
+    "official_full": "Ryan A. Costello"
+  }, 
+  "social": {
+    "facebook": "CongressmanRyanCostello", 
+    "instagram": "RepRyanCostello", 
+    "twitter": "RepRyanCostello", 
+    "twitter_id": 2953922782, 
+    "youtube_id": "UCJzU_8Bwz1lUyP1qz84L5jw"
+  }, 
+  "terms": [
+    {
+      "address": "427 Cannon HOB; Washington DC 20515-3806", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "202-225-8440", 
+      "office": "427 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4315", 
+      "start": "2015-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://costello.house.gov"
     }, 
-    "id": {
-        "bioguide": "C001106", 
-        "cspan": 95125, 
-        "fec": [
-            "H0PA06076"
-        ], 
-        "google_entity_id": "kg:/m/0127dxsz", 
-        "govtrack": 412651, 
-        "icpsr": 21547, 
-        "maplight": 2107, 
-        "opensecrets": "N00031064", 
-        "thomas": "02266", 
-        "votesmart": 133557, 
-        "wikidata": "Q18631846", 
-        "wikipedia": "Ryan Costello"
-    }, 
-    "name": {
-        "first": "Ryan", 
-        "last": "Costello", 
-        "official_full": "Ryan A. Costello"
-    }, 
-    "social": {
-        "facebook": "CongressmanRyanCostello", 
-        "instagram": "RepRyanCostello", 
-        "twitter": "RepRyanCostello", 
-        "twitter_id": 2953922782, 
-        "youtube_id": "UCJzU_8Bwz1lUyP1qz84L5jw"
-    }, 
-    "terms": [
-        {
-            "address": "427 Cannon HOB; Washington DC 20515-3806", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "202-225-8440", 
-            "office": "427 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4315", 
-            "start": "2015-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://costello.house.gov"
-        }, 
-        {
-            "address": "326 Cannon House Office Building; Washington DC 20515-3806", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "202-225-8440", 
-            "office": "326 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4315", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://costello.house.gov"
-        }
-    ]
+    {
+      "address": "326 Cannon House Office Building; Washington DC 20515-3806", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "202-225-8440", 
+      "office": "326 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4315", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://costello.house.gov"
+    }
+  ]
 }

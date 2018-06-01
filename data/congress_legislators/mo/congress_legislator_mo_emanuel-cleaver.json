@@ -1,122 +1,123 @@
 {
-    "bio": {
-        "birthday": "1944-10-26", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1944-10-26", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:785", 
+    "bioguide": "C001061", 
+    "cspan": 10933, 
+    "fec": [
+      "H4MO05234"
+    ], 
+    "google_entity_id": "kg:/m/04cbbm", 
+    "govtrack": 400639, 
+    "house_history": 11786, 
+    "icpsr": 20517, 
+    "maplight": 645, 
+    "opensecrets": "N00026790", 
+    "thomas": "01790", 
+    "votesmart": 39507, 
+    "wikidata": "Q1334654", 
+    "wikipedia": "Emanuel Cleaver"
+  }, 
+  "name": {
+    "first": "Emanuel", 
+    "last": "Cleaver", 
+    "official_full": "Emanuel Cleaver", 
+    "suffix": "II"
+  }, 
+  "social": {
+    "facebook": "emanuelcleaverii", 
+    "twitter": "RepCleaver", 
+    "twitter_id": 163570705, 
+    "youtube": "repcleaver", 
+    "youtube_id": "UCVC-7CLFjXczoihr5FxDLsw"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "MO", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "C001061", 
-        "cspan": 10933, 
-        "fec": [
-            "H4MO05234"
-        ], 
-        "google_entity_id": "kg:/m/04cbbm", 
-        "govtrack": 400639, 
-        "house_history": 11786, 
-        "icpsr": 20517, 
-        "maplight": 645, 
-        "opensecrets": "N00026790", 
-        "thomas": "01790", 
-        "votesmart": 39507, 
-        "wikidata": "Q1334654", 
-        "wikipedia": "Emanuel Cleaver"
+    {
+      "district": 5, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cleaver"
     }, 
-    "name": {
-        "first": "Emanuel", 
-        "last": "Cleaver", 
-        "official_full": "Emanuel Cleaver", 
-        "suffix": "II"
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cleaver"
     }, 
-    "social": {
-        "facebook": "emanuelcleaverii", 
-        "twitter": "RepCleaver", 
-        "twitter_id": 163570705, 
-        "youtube": "repcleaver", 
-        "youtube_id": "UCVC-7CLFjXczoihr5FxDLsw"
+    {
+      "address": "1433 Longworth HOB; Washington DC 20515-2505", 
+      "contact_form": "http://www.house.gov/cleaver/IMA/issue.htm", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-4403", 
+      "office": "1433 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4535", 
+      "start": "2011-01-05", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cleaver"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "MO", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cleaver"
-        }, 
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cleaver"
-        }, 
-        {
-            "address": "1433 Longworth HOB; Washington DC 20515-2505", 
-            "contact_form": "http://www.house.gov/cleaver/IMA/issue.htm", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-4403", 
-            "office": "1433 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4535", 
-            "start": "2011-01-05", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cleaver"
-        }, 
-        {
-            "address": "2335 Rayburn HOB; Washington DC 20515-2505", 
-            "contact_form": "https://cleaver.house.gov/contact/email-me", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4403", 
-            "office": "2335 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4535", 
-            "rss_url": "http://cleaver.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://cleaver.house.gov"
-        }, 
-        {
-            "address": "2335 Rayburn HOB; Washington DC 20515-2505", 
-            "contact_form": "https://cleaver.house.gov/contact/email-me", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4403", 
-            "office": "2335 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4535", 
-            "rss_url": "http://cleaver.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://cleaver.house.gov"
-        }, 
-        {
-            "address": "2335 Rayburn House Office Building; Washington DC 20515-2505", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4403", 
-            "office": "2335 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4535", 
-            "rss_url": "http://cleaver.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "https://cleaver.house.gov"
-        }
-    ]
+    {
+      "address": "2335 Rayburn HOB; Washington DC 20515-2505", 
+      "contact_form": "https://cleaver.house.gov/contact/email-me", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4403", 
+      "office": "2335 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4535", 
+      "rss_url": "http://cleaver.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://cleaver.house.gov"
+    }, 
+    {
+      "address": "2335 Rayburn HOB; Washington DC 20515-2505", 
+      "contact_form": "https://cleaver.house.gov/contact/email-me", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4403", 
+      "office": "2335 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4535", 
+      "rss_url": "http://cleaver.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://cleaver.house.gov"
+    }, 
+    {
+      "address": "2335 Rayburn House Office Building; Washington DC 20515-2505", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4403", 
+      "office": "2335 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4535", 
+      "rss_url": "http://cleaver.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://cleaver.house.gov"
+    }
+  ]
 }

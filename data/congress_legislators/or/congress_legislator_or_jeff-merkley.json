@@ -1,72 +1,73 @@
 {
-    "bio": {
-        "birthday": "1956-10-24", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1956-10-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:904", 
+    "ballotpedia": "Jeff Merkley", 
+    "bioguide": "M001176", 
+    "cspan": 1029842, 
+    "fec": [
+      "S8OR00207"
+    ], 
+    "google_entity_id": "kg:/m/026k60f", 
+    "govtrack": 412325, 
+    "icpsr": 40908, 
+    "lis": "S322", 
+    "maplight": 807, 
+    "opensecrets": "N00029303", 
+    "thomas": "01900", 
+    "votesmart": 23644, 
+    "wikidata": "Q1368405", 
+    "wikipedia": "Jeff Merkley"
+  }, 
+  "name": {
+    "first": "Jeff", 
+    "last": "Merkley", 
+    "official_full": "Jeff Merkley"
+  }, 
+  "social": {
+    "facebook": "jeffmerkley", 
+    "instagram": "senjeffmerkley", 
+    "instagram_id": 501463589, 
+    "twitter": "SenJeffMerkley", 
+    "twitter_id": 29201047, 
+    "youtube": "SenatorJeffMerkley", 
+    "youtube_id": "UCRoXttCJhMnLVCxCaa6VnNQ"
+  }, 
+  "terms": [
+    {
+      "address": "313 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.merkley.senate.gov/contact/", 
+      "end": "2015-01-03", 
+      "fax": "202-228-3997", 
+      "office": "313 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-3753", 
+      "rss_url": "http://www.merkley.senate.gov/rss/", 
+      "start": "2009-01-06", 
+      "state": "OR", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "http://www.merkley.senate.gov"
     }, 
-    "id": {
-        "ballotpedia": "Jeff Merkley", 
-        "bioguide": "M001176", 
-        "cspan": 1029842, 
-        "fec": [
-            "S8OR00207"
-        ], 
-        "google_entity_id": "kg:/m/026k60f", 
-        "govtrack": 412325, 
-        "icpsr": 40908, 
-        "lis": "S322", 
-        "maplight": 807, 
-        "opensecrets": "N00029303", 
-        "thomas": "01900", 
-        "votesmart": 23644, 
-        "wikidata": "Q1368405", 
-        "wikipedia": "Jeff Merkley"
-    }, 
-    "name": {
-        "first": "Jeff", 
-        "last": "Merkley", 
-        "official_full": "Jeff Merkley"
-    }, 
-    "social": {
-        "facebook": "jeffmerkley", 
-        "instagram": "senjeffmerkley", 
-        "instagram_id": 501463589, 
-        "twitter": "SenJeffMerkley", 
-        "twitter_id": 29201047, 
-        "youtube": "SenatorJeffMerkley", 
-        "youtube_id": "UCRoXttCJhMnLVCxCaa6VnNQ"
-    }, 
-    "terms": [
-        {
-            "address": "313 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.merkley.senate.gov/contact/", 
-            "end": "2015-01-03", 
-            "fax": "202-228-3997", 
-            "office": "313 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-3753", 
-            "rss_url": "http://www.merkley.senate.gov/rss/", 
-            "start": "2009-01-06", 
-            "state": "OR", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "http://www.merkley.senate.gov"
-        }, 
-        {
-            "address": "313 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.merkley.senate.gov/contact/", 
-            "end": "2021-01-03", 
-            "fax": "202-228-3997", 
-            "office": "313 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-3753", 
-            "rss_url": "http://www.merkley.senate.gov/rss/", 
-            "start": "2015-01-06", 
-            "state": "OR", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.merkley.senate.gov"
-        }
-    ]
+    {
+      "address": "313 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.merkley.senate.gov/contact/", 
+      "end": "2021-01-03", 
+      "fax": "202-228-3997", 
+      "office": "313 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-3753", 
+      "rss_url": "http://www.merkley.senate.gov/rss/", 
+      "start": "2015-01-06", 
+      "state": "OR", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.merkley.senate.gov"
+    }
+  ]
 }

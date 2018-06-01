@@ -1,168 +1,169 @@
 {
-    "bio": {
-        "birthday": "1953-08-05", 
-        "gender": "M", 
-        "religion": "Roman Catholic"
+  "bio": {
+    "birthday": "1953-08-05", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:918", 
+    "ballotpedia": "Michael F. Doyle", 
+    "bioguide": "D000482", 
+    "cspan": 36774, 
+    "fec": [
+      "H4PA18131"
+    ], 
+    "google_entity_id": "kg:/m/03tqjg", 
+    "govtrack": 400114, 
+    "house_history": 12436, 
+    "icpsr": 29561, 
+    "maplight": 226, 
+    "opensecrets": "N00001373", 
+    "thomas": "00316", 
+    "votesmart": 21853, 
+    "wikidata": "Q1344200", 
+    "wikipedia": "Michael F. Doyle"
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "Doyle", 
+    "middle": "F.", 
+    "nickname": "Mike", 
+    "official_full": "Michael F. Doyle", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "usrepmikedoyle", 
+    "twitter": "USRepMikeDoyle", 
+    "twitter_id": 39249305, 
+    "youtube": "CongressmanDoyle", 
+    "youtube_id": "UCni9vINmgerEeVXhKCC9qbA"
+  }, 
+  "terms": [
+    {
+      "district": 18, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "PA", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Michael F. Doyle", 
-        "bioguide": "D000482", 
-        "cspan": 36774, 
-        "fec": [
-            "H4PA18131"
-        ], 
-        "google_entity_id": "kg:/m/03tqjg", 
-        "govtrack": 400114, 
-        "house_history": 12436, 
-        "icpsr": 29561, 
-        "maplight": 226, 
-        "opensecrets": "N00001373", 
-        "thomas": "00316", 
-        "votesmart": 21853, 
-        "wikidata": "Q1344200", 
-        "wikipedia": "Michael F. Doyle"
+    {
+      "district": 18, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "PA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Michael", 
-        "last": "Doyle", 
-        "middle": "F.", 
-        "nickname": "Mike", 
-        "official_full": "Michael F. Doyle", 
-        "suffix": "Jr."
+    {
+      "district": 18, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "PA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "usrepmikedoyle", 
-        "twitter": "USRepMikeDoyle", 
-        "twitter_id": 39249305, 
-        "youtube": "CongressmanDoyle", 
-        "youtube_id": "UCni9vINmgerEeVXhKCC9qbA"
+    {
+      "district": 18, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "PA", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 18, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "PA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 18, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "PA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 18, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "PA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 18, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "PA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 14, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/doyle"
-        }, 
-        {
-            "district": 14, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/doyle"
-        }, 
-        {
-            "district": 14, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/doyle"
-        }, 
-        {
-            "district": 14, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/doyle"
-        }, 
-        {
-            "address": "401 Cannon HOB; Washington DC 20515-3814", 
-            "contact_form": "http://www.house.gov/doyle/email_mike.shtml", 
-            "district": 14, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3084", 
-            "office": "401 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2135", 
-            "start": "2011-01-05", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/doyle"
-        }, 
-        {
-            "address": "239 Cannon HOB; Washington DC 20515-3814", 
-            "contact_form": "https://doyle.house.gov/contact-me/email-me", 
-            "district": 14, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3084", 
-            "office": "239 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2135", 
-            "rss_url": "http://doyle.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://doyle.house.gov"
-        }, 
-        {
-            "address": "239 Cannon HOB; Washington DC 20515-3814", 
-            "contact_form": "https://doyle.house.gov/contact-me/email-me", 
-            "district": 14, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3084", 
-            "office": "239 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2135", 
-            "rss_url": "http://doyle.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://doyle.house.gov"
-        }, 
-        {
-            "address": "239 Cannon House Office Building; Washington DC 20515-3814", 
-            "district": 14, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3084", 
-            "office": "239 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2135", 
-            "rss_url": "http://doyle.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://doyle.house.gov"
-        }
-    ]
+    {
+      "district": 14, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/doyle"
+    }, 
+    {
+      "district": 14, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/doyle"
+    }, 
+    {
+      "district": 14, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/doyle"
+    }, 
+    {
+      "district": 14, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/doyle"
+    }, 
+    {
+      "address": "401 Cannon HOB; Washington DC 20515-3814", 
+      "contact_form": "http://www.house.gov/doyle/email_mike.shtml", 
+      "district": 14, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3084", 
+      "office": "401 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2135", 
+      "start": "2011-01-05", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/doyle"
+    }, 
+    {
+      "address": "239 Cannon HOB; Washington DC 20515-3814", 
+      "contact_form": "https://doyle.house.gov/contact-me/email-me", 
+      "district": 14, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3084", 
+      "office": "239 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2135", 
+      "rss_url": "http://doyle.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://doyle.house.gov"
+    }, 
+    {
+      "address": "239 Cannon HOB; Washington DC 20515-3814", 
+      "contact_form": "https://doyle.house.gov/contact-me/email-me", 
+      "district": 14, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3084", 
+      "office": "239 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2135", 
+      "rss_url": "http://doyle.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://doyle.house.gov"
+    }, 
+    {
+      "address": "239 Cannon House Office Building; Washington DC 20515-3814", 
+      "district": 14, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3084", 
+      "office": "239 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2135", 
+      "rss_url": "http://doyle.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://doyle.house.gov"
+    }
+  ]
 }

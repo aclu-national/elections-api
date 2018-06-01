@@ -1,69 +1,70 @@
 {
-    "bio": {
-        "birthday": "1955-10-20", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1955-10-20", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:930", 
+    "ballotpedia": "Sheldon Whitehouse", 
+    "bioguide": "W000802", 
+    "cspan": 92235, 
+    "fec": [
+      "S6RI00221"
+    ], 
+    "google_entity_id": "kg:/m/07qw94", 
+    "govtrack": 412247, 
+    "icpsr": 40704, 
+    "lis": "S316", 
+    "maplight": 728, 
+    "opensecrets": "N00027533", 
+    "thomas": "01823", 
+    "votesmart": 2572, 
+    "wikidata": "Q652066", 
+    "wikipedia": "Sheldon Whitehouse"
+  }, 
+  "name": {
+    "first": "Sheldon", 
+    "last": "Whitehouse", 
+    "official_full": "Sheldon Whitehouse"
+  }, 
+  "social": {
+    "facebook": "SenatorWhitehouse", 
+    "instagram": "SenWhitehouse", 
+    "twitter": "SenWhitehouse", 
+    "twitter_id": 242555999, 
+    "youtube": "SenatorWhitehouse", 
+    "youtube_id": "UCnG0N70SNBkNqvIMLodPTIA"
+  }, 
+  "terms": [
+    {
+      "address": "717 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.whitehouse.senate.gov/contact/", 
+      "end": "2013-01-03", 
+      "fax": "202-228-6362", 
+      "office": "717 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2921", 
+      "start": "2007-01-04", 
+      "state": "RI", 
+      "type": "sen", 
+      "url": "http://whitehouse.senate.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Sheldon Whitehouse", 
-        "bioguide": "W000802", 
-        "cspan": 92235, 
-        "fec": [
-            "S6RI00221"
-        ], 
-        "google_entity_id": "kg:/m/07qw94", 
-        "govtrack": 412247, 
-        "icpsr": 40704, 
-        "lis": "S316", 
-        "maplight": 728, 
-        "opensecrets": "N00027533", 
-        "thomas": "01823", 
-        "votesmart": 2572, 
-        "wikidata": "Q652066", 
-        "wikipedia": "Sheldon Whitehouse"
-    }, 
-    "name": {
-        "first": "Sheldon", 
-        "last": "Whitehouse", 
-        "official_full": "Sheldon Whitehouse"
-    }, 
-    "social": {
-        "facebook": "SenatorWhitehouse", 
-        "instagram": "SenWhitehouse", 
-        "twitter": "SenWhitehouse", 
-        "twitter_id": 242555999, 
-        "youtube": "SenatorWhitehouse", 
-        "youtube_id": "UCnG0N70SNBkNqvIMLodPTIA"
-    }, 
-    "terms": [
-        {
-            "address": "717 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.whitehouse.senate.gov/contact/", 
-            "end": "2013-01-03", 
-            "fax": "202-228-6362", 
-            "office": "717 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-2921", 
-            "start": "2007-01-04", 
-            "state": "RI", 
-            "type": "sen", 
-            "url": "http://whitehouse.senate.gov/"
-        }, 
-        {
-            "address": "530 Hart Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "https://www.whitehouse.senate.gov/contact/email-sheldon", 
-            "end": "2019-01-03", 
-            "fax": "202-228-6362", 
-            "office": "530 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-2921", 
-            "rss_url": "http://www.whitehouse.senate.gov/rss/feeds/?type=all&amp;cachebuster=1", 
-            "start": "2013-01-03", 
-            "state": "RI", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.whitehouse.senate.gov"
-        }
-    ]
+    {
+      "address": "530 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "https://www.whitehouse.senate.gov/contact/email-sheldon", 
+      "end": "2019-01-03", 
+      "fax": "202-228-6362", 
+      "office": "530 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2921", 
+      "rss_url": "http://www.whitehouse.senate.gov/rss/feeds/?type=all&amp;cachebuster=1", 
+      "start": "2013-01-03", 
+      "state": "RI", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.whitehouse.senate.gov"
+    }
+  ]
 }

@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1969-02-27", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1969-02-27", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:704", 
+    "ballotpedia": "Luke Messer", 
+    "bioguide": "M001189", 
+    "cspan": 11245, 
+    "fec": [
+      "H0IN02125", 
+      "H0IN05094"
+    ], 
+    "google_entity_id": "kg:/m/0n48dw8", 
+    "govtrack": 412540, 
+    "icpsr": 21332, 
+    "maplight": 1764, 
+    "opensecrets": "N00012546", 
+    "thomas": "02130", 
+    "votesmart": 33997, 
+    "wikidata": "Q3225316", 
+    "wikipedia": "Luke Messer"
+  }, 
+  "name": {
+    "first": "Luke", 
+    "last": "Messer", 
+    "official_full": "Luke Messer"
+  }, 
+  "social": {
+    "facebook": "RepLukeMesser", 
+    "twitter": "RepLukeMesser", 
+    "twitter_id": 1045853744, 
+    "youtube": "RepLukeMesser", 
+    "youtube_id": "UC9NKMvZuY2koTf1iVurxicw"
+  }, 
+  "terms": [
+    {
+      "address": "508 Cannon HOB; Washington DC 20515-1406", 
+      "contact_form": "https://messer.house.gov/contact/email-me", 
+      "district": 6, 
+      "end": "2015-01-03", 
+      "fax": "765-747-5586", 
+      "office": "508 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3021", 
+      "rss_url": "http://messer.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://messer.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Luke Messer", 
-        "bioguide": "M001189", 
-        "cspan": 11245, 
-        "fec": [
-            "H0IN02125", 
-            "H0IN05094"
-        ], 
-        "google_entity_id": "kg:/m/0n48dw8", 
-        "govtrack": 412540, 
-        "icpsr": 21332, 
-        "maplight": 1764, 
-        "opensecrets": "N00012546", 
-        "thomas": "02130", 
-        "votesmart": 33997, 
-        "wikidata": "Q3225316", 
-        "wikipedia": "Luke Messer"
+    {
+      "address": "508 Cannon HOB; Washington DC 20515-1406", 
+      "contact_form": "https://messer.house.gov/contact/email-me", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "765-747-5586", 
+      "office": "508 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3021", 
+      "rss_url": "http://messer.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://messer.house.gov"
     }, 
-    "name": {
-        "first": "Luke", 
-        "last": "Messer", 
-        "official_full": "Luke Messer"
-    }, 
-    "social": {
-        "facebook": "RepLukeMesser", 
-        "twitter": "RepLukeMesser", 
-        "twitter_id": 1045853744, 
-        "youtube": "RepLukeMesser", 
-        "youtube_id": "UC9NKMvZuY2koTf1iVurxicw"
-    }, 
-    "terms": [
-        {
-            "address": "508 Cannon HOB; Washington DC 20515-1406", 
-            "contact_form": "https://messer.house.gov/contact/email-me", 
-            "district": 6, 
-            "end": "2015-01-03", 
-            "fax": "765-747-5586", 
-            "office": "508 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3021", 
-            "rss_url": "http://messer.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://messer.house.gov"
-        }, 
-        {
-            "address": "508 Cannon HOB; Washington DC 20515-1406", 
-            "contact_form": "https://messer.house.gov/contact/email-me", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "765-747-5586", 
-            "office": "508 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3021", 
-            "rss_url": "http://messer.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "https://messer.house.gov"
-        }, 
-        {
-            "address": "1230 Longworth House Office Building; Washington DC 20515-1406", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "765-747-5586", 
-            "office": "1230 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3021", 
-            "rss_url": "http://messer.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "https://messer.house.gov"
-        }
-    ]
+    {
+      "address": "1230 Longworth House Office Building; Washington DC 20515-1406", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "765-747-5586", 
+      "office": "1230 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3021", 
+      "rss_url": "http://messer.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://messer.house.gov"
+    }
+  ]
 }

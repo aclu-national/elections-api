@@ -1,115 +1,116 @@
 {
-    "bio": {
-        "birthday": "1955-07-09", 
-        "gender": "M", 
-        "religion": "Southern Baptist"
+  "bio": {
+    "birthday": "1955-07-09", 
+    "gender": "M", 
+    "religion": "Southern Baptist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:934", 
+    "ballotpedia": "Lindsey Graham", 
+    "bioguide": "G000359", 
+    "cspan": 36782, 
+    "fec": [
+      "S0SC00149", 
+      "H4SC03087"
+    ], 
+    "google_entity_id": "kg:/m/01_pdg", 
+    "govtrack": 300047, 
+    "house_history": 14015, 
+    "icpsr": 29566, 
+    "lis": "S293", 
+    "maplight": 569, 
+    "opensecrets": "N00009975", 
+    "thomas": "00452", 
+    "votesmart": 21992, 
+    "wikidata": "Q22212", 
+    "wikipedia": "Lindsey Graham"
+  }, 
+  "name": {
+    "first": "Lindsey", 
+    "last": "Graham", 
+    "middle": "O.", 
+    "official_full": "Lindsey Graham"
+  }, 
+  "social": {
+    "facebook": "USSenatorLindseyGraham", 
+    "twitter": "GrahamBlog", 
+    "twitter_id": 14845376, 
+    "youtube": "USSenLindseyGraham", 
+    "youtube_id": "UClLGZMA5Ei2Z8fR1PLEx6yQ"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Lindsey Graham", 
-        "bioguide": "G000359", 
-        "cspan": 36782, 
-        "fec": [
-            "S0SC00149", 
-            "H4SC03087"
-        ], 
-        "google_entity_id": "kg:/m/01_pdg", 
-        "govtrack": 300047, 
-        "house_history": 14015, 
-        "icpsr": 29566, 
-        "lis": "S293", 
-        "maplight": 569, 
-        "opensecrets": "N00009975", 
-        "thomas": "00452", 
-        "votesmart": 21992, 
-        "wikidata": "Q22212", 
-        "wikipedia": "Lindsey Graham"
+    {
+      "district": 3, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Lindsey", 
-        "last": "Graham", 
-        "middle": "O.", 
-        "official_full": "Lindsey Graham"
+    {
+      "district": 3, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "USSenatorLindseyGraham", 
-        "twitter": "GrahamBlog", 
-        "twitter_id": 14845376, 
-        "youtube": "USSenLindseyGraham", 
-        "youtube_id": "UClLGZMA5Ei2Z8fR1PLEx6yQ"
+    {
+      "district": 3, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 3, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "class": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "SC", 
-            "type": "sen", 
-            "url": "http://lgraham.senate.gov/"
-        }, 
-        {
-            "address": "290 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Contact.EmailSenatorGraham", 
-            "end": "2015-01-03", 
-            "fax": "202-224-3808", 
-            "office": "290 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-5972", 
-            "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
-            "start": "2009-01-06", 
-            "state": "SC", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.lgraham.senate.gov"
-        }, 
-        {
-            "address": "290 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham", 
-            "end": "2021-01-03", 
-            "fax": "202-224-3808", 
-            "office": "290 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-5972", 
-            "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
-            "start": "2015-01-06", 
-            "state": "SC", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.lgraham.senate.gov/public"
-        }
-    ]
+    {
+      "class": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "SC", 
+      "type": "sen", 
+      "url": "http://lgraham.senate.gov/"
+    }, 
+    {
+      "address": "290 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Contact.EmailSenatorGraham", 
+      "end": "2015-01-03", 
+      "fax": "202-224-3808", 
+      "office": "290 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5972", 
+      "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
+      "start": "2009-01-06", 
+      "state": "SC", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.lgraham.senate.gov"
+    }, 
+    {
+      "address": "290 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham", 
+      "end": "2021-01-03", 
+      "fax": "202-224-3808", 
+      "office": "290 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5972", 
+      "rss_url": "http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
+      "start": "2015-01-06", 
+      "state": "SC", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.lgraham.senate.gov/public"
+    }
+  ]
 }

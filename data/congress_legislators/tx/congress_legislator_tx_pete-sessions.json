@@ -1,158 +1,159 @@
 {
-    "bio": {
-        "birthday": "1955-03-22", 
-        "gender": "M", 
-        "religion": "Methodist"
+  "bio": {
+    "birthday": "1955-03-22", 
+    "gender": "M", 
+    "religion": "Methodist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:982", 
+    "ballotpedia": "Pete Sessions", 
+    "bioguide": "S000250", 
+    "cspan": 36807, 
+    "fec": [
+      "H2TX03126"
+    ], 
+    "google_entity_id": "kg:/m/03v39l", 
+    "govtrack": 400367, 
+    "house_history": 21446, 
+    "icpsr": 29759, 
+    "maplight": 458, 
+    "opensecrets": "N00005681", 
+    "thomas": "01525", 
+    "votesmart": 288, 
+    "wikidata": "Q437852", 
+    "wikipedia": "Pete Sessions"
+  }, 
+  "name": {
+    "first": "Pete", 
+    "last": "Sessions", 
+    "middle": "A.", 
+    "official_full": "Pete Sessions"
+  }, 
+  "social": {
+    "facebook": "petesessions", 
+    "twitter": "PeteSessions", 
+    "twitter_id": 24735461, 
+    "youtube": "PeteSessions", 
+    "youtube_id": "UCDSBWdAlrCZq2W8P3wR_LCg"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Pete Sessions", 
-        "bioguide": "S000250", 
-        "cspan": 36807, 
-        "fec": [
-            "H2TX03126"
-        ], 
-        "google_entity_id": "kg:/m/03v39l", 
-        "govtrack": 400367, 
-        "house_history": 21446, 
-        "icpsr": 29759, 
-        "maplight": 458, 
-        "opensecrets": "N00005681", 
-        "thomas": "01525", 
-        "votesmart": 288, 
-        "wikidata": "Q437852", 
-        "wikipedia": "Pete Sessions"
+    {
+      "district": 5, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Pete", 
-        "last": "Sessions", 
-        "middle": "A.", 
-        "official_full": "Pete Sessions"
+    {
+      "district": 5, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "TX", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "petesessions", 
-        "twitter": "PeteSessions", 
-        "twitter_id": 24735461, 
-        "youtube": "PeteSessions", 
-        "youtube_id": "UCDSBWdAlrCZq2W8P3wR_LCg"
+    {
+      "district": 32, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sessions"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "TX", 
-            "type": "rep"
-        }, 
-        {
-            "district": 32, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sessions"
-        }, 
-        {
-            "district": 32, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sessions"
-        }, 
-        {
-            "district": 32, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sessions"
-        }, 
-        {
-            "district": 32, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sessions"
-        }, 
-        {
-            "address": "2233 Rayburn HOB; Washington DC 20515-4332", 
-            "contact_form": "http://www.house.gov/sessionsform/emailform.htm", 
-            "district": 32, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5878", 
-            "office": "2233 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2231", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sessions"
-        }, 
-        {
-            "address": "2233 Rayburn HOB; Washington DC 20515-4332", 
-            "contact_form": "https://sessions.house.gov/index.cfm/contact-form", 
-            "district": 32, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5878", 
-            "office": "2233 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2231", 
-            "rss_url": "http://sessions.house.gov/?a=rss.feed", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://sessions.house.gov"
-        }, 
-        {
-            "address": "2233 Rayburn HOB; Washington DC 20515-4332", 
-            "contact_form": "https://sessions.house.gov/index.cfm/contact-form", 
-            "district": 32, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5878", 
-            "office": "2233 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2231", 
-            "rss_url": "http://sessions.house.gov/?a=rss.feed", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://sessions.house.gov"
-        }, 
-        {
-            "address": "2233 Rayburn House Office Building; Washington DC 20515-4332", 
-            "district": 32, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5878", 
-            "office": "2233 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2231", 
-            "rss_url": "http://sessions.house.gov/?a=rss.feed", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://sessions.house.gov"
-        }
-    ]
+    {
+      "district": 32, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sessions"
+    }, 
+    {
+      "district": 32, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sessions"
+    }, 
+    {
+      "district": 32, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sessions"
+    }, 
+    {
+      "address": "2233 Rayburn HOB; Washington DC 20515-4332", 
+      "contact_form": "http://www.house.gov/sessionsform/emailform.htm", 
+      "district": 32, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5878", 
+      "office": "2233 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2231", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sessions"
+    }, 
+    {
+      "address": "2233 Rayburn HOB; Washington DC 20515-4332", 
+      "contact_form": "https://sessions.house.gov/index.cfm/contact-form", 
+      "district": 32, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5878", 
+      "office": "2233 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2231", 
+      "rss_url": "http://sessions.house.gov/?a=rss.feed", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://sessions.house.gov"
+    }, 
+    {
+      "address": "2233 Rayburn HOB; Washington DC 20515-4332", 
+      "contact_form": "https://sessions.house.gov/index.cfm/contact-form", 
+      "district": 32, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5878", 
+      "office": "2233 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2231", 
+      "rss_url": "http://sessions.house.gov/?a=rss.feed", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://sessions.house.gov"
+    }, 
+    {
+      "address": "2233 Rayburn House Office Building; Washington DC 20515-4332", 
+      "district": 32, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5878", 
+      "office": "2233 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2231", 
+      "rss_url": "http://sessions.house.gov/?a=rss.feed", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://sessions.house.gov"
+    }
+  ]
 }

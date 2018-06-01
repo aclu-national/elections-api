@@ -1,129 +1,130 @@
 {
-    "bio": {
-        "birthday": "1966-07-15", 
-        "gender": "M"
-    }, 
-    "family": [
-        {
-            "name": "William Oliver Lipinski", 
-            "relation": "son"
-        }
+  "bio": {
+    "birthday": "1966-07-15", 
+    "gender": "M"
+  }, 
+  "family": [
+    {
+      "name": "William Oliver Lipinski", 
+      "relation": "son"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:684", 
+    "ballotpedia": "Daniel Lipinski", 
+    "bioguide": "L000563", 
+    "cspan": 1013046, 
+    "fec": [
+      "H4IL03077"
     ], 
-    "id": {
-        "ballotpedia": "Daniel Lipinski", 
-        "bioguide": "L000563", 
-        "cspan": 1013046, 
-        "fec": [
-            "H4IL03077"
-        ], 
-        "google_entity_id": "kg:/m/0508fv", 
-        "govtrack": 400630, 
-        "house_history": 17303, 
-        "icpsr": 20508, 
-        "maplight": 636, 
-        "opensecrets": "N00027239", 
-        "thomas": "01781", 
-        "votesmart": 33692, 
-        "wikidata": "Q518424", 
-        "wikipedia": "Dan Lipinski"
+    "google_entity_id": "kg:/m/0508fv", 
+    "govtrack": 400630, 
+    "house_history": 17303, 
+    "icpsr": 20508, 
+    "maplight": 636, 
+    "opensecrets": "N00027239", 
+    "thomas": "01781", 
+    "votesmart": 33692, 
+    "wikidata": "Q518424", 
+    "wikipedia": "Dan Lipinski"
+  }, 
+  "name": {
+    "first": "Daniel", 
+    "last": "Lipinski", 
+    "middle": "William", 
+    "official_full": "Daniel Lipinski"
+  }, 
+  "social": {
+    "facebook": "repdanlipinski", 
+    "twitter": "RepLipinski", 
+    "twitter_id": 1009269193, 
+    "youtube": "lipinski03", 
+    "youtube_id": "UC4-dyxzIODTMk1-12QPEpoQ"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "IL", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Daniel", 
-        "last": "Lipinski", 
-        "middle": "William", 
-        "official_full": "Daniel Lipinski"
+    {
+      "district": 3, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.lipinski.house.gov"
     }, 
-    "social": {
-        "facebook": "repdanlipinski", 
-        "twitter": "RepLipinski", 
-        "twitter_id": 1009269193, 
-        "youtube": "lipinski03", 
-        "youtube_id": "UC4-dyxzIODTMk1-12QPEpoQ"
+    {
+      "district": 3, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.lipinski.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 3, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "IL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.lipinski.house.gov"
-        }, 
-        {
-            "district": 3, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.lipinski.house.gov"
-        }, 
-        {
-            "address": "1717 Longworth HOB; Washington DC 20515-1303", 
-            "contact_form": "http://www.house.gov/formlipinski/zipauth.html", 
-            "district": 3, 
-            "end": "2013-01-03", 
-            "fax": "202-225-1012", 
-            "office": "1717 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5701", 
-            "start": "2011-01-05", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.lipinski.house.gov"
-        }, 
-        {
-            "address": "1717 Longworth HOB; Washington DC 20515-1303", 
-            "contact_form": "https://lipinskiforms.house.gov/contact-form", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "fax": "202-225-1012", 
-            "office": "1717 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5701", 
-            "rss_url": "http://www.lipinski.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2013-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://www.lipinski.house.gov"
-        }, 
-        {
-            "address": "2346 Rayburn HOB; Washington DC 20515-1303", 
-            "contact_form": "https://lipinskiforms.house.gov/contact-form", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-1012", 
-            "office": "2346 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5701", 
-            "rss_url": "http://www.lipinski.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://lipinski.house.gov"
-        }, 
-        {
-            "address": "2346 Rayburn House Office Building; Washington DC 20515-1303", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-1012", 
-            "office": "2346 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5701", 
-            "rss_url": "http://www.lipinski.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://lipinski.house.gov"
-        }
-    ]
+    {
+      "address": "1717 Longworth HOB; Washington DC 20515-1303", 
+      "contact_form": "http://www.house.gov/formlipinski/zipauth.html", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-225-1012", 
+      "office": "1717 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5701", 
+      "start": "2011-01-05", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.lipinski.house.gov"
+    }, 
+    {
+      "address": "1717 Longworth HOB; Washington DC 20515-1303", 
+      "contact_form": "https://lipinskiforms.house.gov/contact-form", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-225-1012", 
+      "office": "1717 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5701", 
+      "rss_url": "http://www.lipinski.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2013-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://www.lipinski.house.gov"
+    }, 
+    {
+      "address": "2346 Rayburn HOB; Washington DC 20515-1303", 
+      "contact_form": "https://lipinskiforms.house.gov/contact-form", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-1012", 
+      "office": "2346 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5701", 
+      "rss_url": "http://www.lipinski.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://lipinski.house.gov"
+    }, 
+    {
+      "address": "2346 Rayburn House Office Building; Washington DC 20515-1303", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-1012", 
+      "office": "2346 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5701", 
+      "rss_url": "http://www.lipinski.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://lipinski.house.gov"
+    }
+  ]
 }

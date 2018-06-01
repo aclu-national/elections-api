@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1962-05-31", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1962-05-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:703", 
+    "ballotpedia": "Larry Bucshon", 
+    "bioguide": "B001275", 
+    "cspan": 61837, 
+    "fec": [
+      "H0IN08114"
+    ], 
+    "google_entity_id": "kg:/m/0dd9k_y", 
+    "govtrack": 412427, 
+    "house_history": 10439, 
+    "icpsr": 21132, 
+    "maplight": 1438, 
+    "opensecrets": "N00031227", 
+    "thomas": "02018", 
+    "votesmart": 120335, 
+    "wikidata": "Q944286", 
+    "wikipedia": "Larry Bucshon"
+  }, 
+  "name": {
+    "first": "Larry", 
+    "last": "Bucshon", 
+    "official_full": "Larry Bucshon"
+  }, 
+  "social": {
+    "facebook": "RepLarryBucshon", 
+    "twitter": "RepLarryBucshon", 
+    "twitter_id": 234812598, 
+    "youtube": "RepLarryBucshon", 
+    "youtube_id": "UC0bIliQs0LKZabNwvZ3gnhQ"
+  }, 
+  "terms": [
+    {
+      "address": "1123 Longworth HOB; Washington DC 20515-1408", 
+      "district": 8, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3284", 
+      "office": "1123 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4636", 
+      "start": "2011-01-05", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://bucshon.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Larry Bucshon", 
-        "bioguide": "B001275", 
-        "cspan": 61837, 
-        "fec": [
-            "H0IN08114"
-        ], 
-        "google_entity_id": "kg:/m/0dd9k_y", 
-        "govtrack": 412427, 
-        "house_history": 10439, 
-        "icpsr": 21132, 
-        "maplight": 1438, 
-        "opensecrets": "N00031227", 
-        "thomas": "02018", 
-        "votesmart": 120335, 
-        "wikidata": "Q944286", 
-        "wikipedia": "Larry Bucshon"
+    {
+      "address": "1005 Longworth HOB; Washington DC 20515-1408", 
+      "contact_form": "https://bucshon.house.gov/contact-me/email-me", 
+      "district": 8, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3284", 
+      "office": "1005 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4636", 
+      "rss_url": "http://bucshon.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://bucshon.house.gov"
     }, 
-    "name": {
-        "first": "Larry", 
-        "last": "Bucshon", 
-        "official_full": "Larry Bucshon"
+    {
+      "address": "1005 Longworth HOB; Washington DC 20515-1408", 
+      "contact_form": "https://bucshon.house.gov/contact-me/email-me", 
+      "district": 8, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3284", 
+      "office": "1005 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4636", 
+      "rss_url": "http://bucshon.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://bucshon.house.gov"
     }, 
-    "social": {
-        "facebook": "RepLarryBucshon", 
-        "twitter": "RepLarryBucshon", 
-        "twitter_id": 234812598, 
-        "youtube": "RepLarryBucshon", 
-        "youtube_id": "UC0bIliQs0LKZabNwvZ3gnhQ"
-    }, 
-    "terms": [
-        {
-            "address": "1123 Longworth HOB; Washington DC 20515-1408", 
-            "district": 8, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3284", 
-            "office": "1123 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4636", 
-            "start": "2011-01-05", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://bucshon.house.gov/"
-        }, 
-        {
-            "address": "1005 Longworth HOB; Washington DC 20515-1408", 
-            "contact_form": "https://bucshon.house.gov/contact-me/email-me", 
-            "district": 8, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3284", 
-            "office": "1005 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4636", 
-            "rss_url": "http://bucshon.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://bucshon.house.gov"
-        }, 
-        {
-            "address": "1005 Longworth HOB; Washington DC 20515-1408", 
-            "contact_form": "https://bucshon.house.gov/contact-me/email-me", 
-            "district": 8, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3284", 
-            "office": "1005 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4636", 
-            "rss_url": "http://bucshon.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://bucshon.house.gov"
-        }, 
-        {
-            "address": "1005 Longworth House Office Building; Washington DC 20515-1408", 
-            "district": 8, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3284", 
-            "office": "1005 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4636", 
-            "rss_url": "http://bucshon.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "https://bucshon.house.gov"
-        }
-    ]
+    {
+      "address": "1005 Longworth House Office Building; Washington DC 20515-1408", 
+      "district": 8, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3284", 
+      "office": "1005 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4636", 
+      "rss_url": "http://bucshon.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://bucshon.house.gov"
+    }
+  ]
 }

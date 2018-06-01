@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1970-02-11", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1970-02-11", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:661", 
+    "bioguide": "W000810", 
+    "cspan": 623342, 
+    "fec": [
+      "H0GA07133"
+    ], 
+    "google_entity_id": "kg:/m/0cz8ryh", 
+    "govtrack": 412416, 
+    "house_history": 24199, 
+    "icpsr": 21122, 
+    "maplight": 1428, 
+    "opensecrets": "N00032416", 
+    "thomas": "02008", 
+    "votesmart": 122251, 
+    "wikidata": "Q2156128", 
+    "wikipedia": "Rob Woodall"
+  }, 
+  "name": {
+    "first": "Rob", 
+    "last": "Woodall", 
+    "official_full": "Rob Woodall"
+  }, 
+  "social": {
+    "facebook": "RepRobWoodall", 
+    "instagram": "reprobwoodall", 
+    "twitter": "RepRobWoodall", 
+    "twitter_id": 2382685057, 
+    "youtube": "RobWoodallGA07", 
+    "youtube_id": "UC7MSlu8zV6Mf8wYzek2Cb-w"
+  }, 
+  "terms": [
+    {
+      "address": "1725 Longworth HOB; Washington DC 20515-1007", 
+      "district": 7, 
+      "end": "2013-01-03", 
+      "fax": "202-225-4696", 
+      "office": "1725 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4272", 
+      "start": "2011-01-05", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://woodall.house.gov/"
     }, 
-    "id": {
-        "bioguide": "W000810", 
-        "cspan": 623342, 
-        "fec": [
-            "H0GA07133"
-        ], 
-        "google_entity_id": "kg:/m/0cz8ryh", 
-        "govtrack": 412416, 
-        "house_history": 24199, 
-        "icpsr": 21122, 
-        "maplight": 1428, 
-        "opensecrets": "N00032416", 
-        "thomas": "02008", 
-        "votesmart": 122251, 
-        "wikidata": "Q2156128", 
-        "wikipedia": "Rob Woodall"
+    {
+      "address": "1725 Longworth HOB; Washington DC 20515-1007", 
+      "contact_form": "https://woodall.house.gov/contact-me/email-me", 
+      "district": 7, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4696", 
+      "office": "1725 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4272", 
+      "rss_url": "http://woodall.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://woodall.house.gov"
     }, 
-    "name": {
-        "first": "Rob", 
-        "last": "Woodall", 
-        "official_full": "Rob Woodall"
+    {
+      "address": "1724 Longworth HOB; Washington DC 20515-1007", 
+      "contact_form": "https://woodall.house.gov/contact-me/email-me", 
+      "district": 7, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4696", 
+      "office": "1724 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4272", 
+      "rss_url": "http://woodall.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://woodall.house.gov"
     }, 
-    "social": {
-        "facebook": "RepRobWoodall", 
-        "instagram": "reprobwoodall", 
-        "twitter": "RepRobWoodall", 
-        "twitter_id": 2382685057, 
-        "youtube": "RobWoodallGA07", 
-        "youtube_id": "UC7MSlu8zV6Mf8wYzek2Cb-w"
-    }, 
-    "terms": [
-        {
-            "address": "1725 Longworth HOB; Washington DC 20515-1007", 
-            "district": 7, 
-            "end": "2013-01-03", 
-            "fax": "202-225-4696", 
-            "office": "1725 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4272", 
-            "start": "2011-01-05", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://woodall.house.gov/"
-        }, 
-        {
-            "address": "1725 Longworth HOB; Washington DC 20515-1007", 
-            "contact_form": "https://woodall.house.gov/contact-me/email-me", 
-            "district": 7, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4696", 
-            "office": "1725 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4272", 
-            "rss_url": "http://woodall.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://woodall.house.gov"
-        }, 
-        {
-            "address": "1724 Longworth HOB; Washington DC 20515-1007", 
-            "contact_form": "https://woodall.house.gov/contact-me/email-me", 
-            "district": 7, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4696", 
-            "office": "1724 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4272", 
-            "rss_url": "http://woodall.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://woodall.house.gov"
-        }, 
-        {
-            "address": "1724 Longworth House Office Building; Washington DC 20515-1007", 
-            "district": 7, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4696", 
-            "office": "1724 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4272", 
-            "rss_url": "http://woodall.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "https://woodall.house.gov"
-        }
-    ]
+    {
+      "address": "1724 Longworth House Office Building; Washington DC 20515-1007", 
+      "district": 7, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4696", 
+      "office": "1724 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4272", 
+      "rss_url": "http://woodall.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://woodall.house.gov"
+    }
+  ]
 }

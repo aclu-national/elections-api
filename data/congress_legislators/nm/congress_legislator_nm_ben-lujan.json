@@ -1,0 +1,108 @@
+{
+  "bio": {
+    "birthday": "1972-06-07", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:840", 
+    "bioguide": "L000570", 
+    "cspan": 1031351, 
+    "fec": [
+      "H8NM03196"
+    ], 
+    "google_entity_id": "kg:/m/0412qzq", 
+    "govtrack": 412293, 
+    "house_history": 17317, 
+    "icpsr": 20932, 
+    "maplight": 775, 
+    "opensecrets": "N00029562", 
+    "thomas": "01939", 
+    "votesmart": 102842, 
+    "wikidata": "Q324256", 
+    "wikipedia": "Ben Ray Luj\u00e1n"
+  }, 
+  "name": {
+    "first": "Ben", 
+    "last": "Luj\u00e1n", 
+    "middle": "Ray", 
+    "official_full": "Ben Ray Luj\u00e1n"
+  }, 
+  "social": {
+    "facebook": "RepBenRayLujan", 
+    "instagram": "repbenraylujan", 
+    "instagram_id": 1409819789, 
+    "twitter": "RepBenRayLujan", 
+    "twitter_id": 19318314, 
+    "youtube": "Repbenraylujan", 
+    "youtube_id": "UCcO5AmF8HuJo4d0awEbst7Q"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://lujan.house.gov"
+    }, 
+    {
+      "address": "330 Cannon HOB; Washington DC 20515-3103", 
+      "contact_form": "https://forms.house.gov/lujan/contact-form.shtml", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-226-1528", 
+      "office": "330 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6190", 
+      "start": "2011-01-05", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://lujan.house.gov"
+    }, 
+    {
+      "address": "2446 Rayburn HOB; Washington DC 20515-3103", 
+      "contact_form": "https://forms.house.gov/lujan/contact-form.shtml", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-226-1528", 
+      "office": "2446 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6190", 
+      "rss_url": "http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1", 
+      "start": "2013-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://lujan.house.gov"
+    }, 
+    {
+      "address": "2446 Rayburn HOB; Washington DC 20515-3103", 
+      "contact_form": "https://forms.house.gov/lujan/contact-form.shtml", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-226-1528", 
+      "office": "2446 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6190", 
+      "rss_url": "http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1", 
+      "start": "2015-01-06", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://lujan.house.gov"
+    }, 
+    {
+      "address": "2231 Rayburn House Office Building; Washington DC 20515-3103", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-226-1528", 
+      "office": "2231 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6190", 
+      "rss_url": "http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1", 
+      "start": "2017-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://lujan.house.gov"
+    }
+  ]
+}

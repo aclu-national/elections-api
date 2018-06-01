@@ -1,76 +1,77 @@
 {
-    "bio": {
-        "birthday": "1974-01-01", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1974-01-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1018", 
+    "ballotpedia": "Derek Kilmer", 
+    "bioguide": "K000381", 
+    "cspan": 68310, 
+    "fec": [
+      "H2WA06129"
+    ], 
+    "google_entity_id": "kg:/m/03w9yd6", 
+    "govtrack": 412583, 
+    "icpsr": 21368, 
+    "maplight": 1807, 
+    "opensecrets": "N00034453", 
+    "thomas": "02169", 
+    "votesmart": 51516, 
+    "wikidata": "Q4068828", 
+    "wikipedia": "Derek Kilmer"
+  }, 
+  "name": {
+    "first": "Derek", 
+    "last": "Kilmer", 
+    "official_full": "Derek Kilmer"
+  }, 
+  "social": {
+    "facebook": "derek.kilmer", 
+    "twitter": "RepDerekKilmer", 
+    "twitter_id": 1058917562
+  }, 
+  "terms": [
+    {
+      "address": "1429 Longworth HOB; Washington DC 20515-4706", 
+      "contact_form": "https://kilmer.house.gov/contact/email-me", 
+      "district": 6, 
+      "end": "2015-01-03", 
+      "office": "1429 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5916", 
+      "rss_url": "http://kilmer.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://kilmer.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Derek Kilmer", 
-        "bioguide": "K000381", 
-        "cspan": 68310, 
-        "fec": [
-            "H2WA06129"
-        ], 
-        "google_entity_id": "kg:/m/03w9yd6", 
-        "govtrack": 412583, 
-        "icpsr": 21368, 
-        "maplight": 1807, 
-        "opensecrets": "N00034453", 
-        "thomas": "02169", 
-        "votesmart": 51516, 
-        "wikidata": "Q4068828", 
-        "wikipedia": "Derek Kilmer"
+    {
+      "address": "1520 Longworth HOB; Washington DC 20515-4706", 
+      "contact_form": "https://kilmer.house.gov/contact/email-me", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "office": "1520 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5916", 
+      "rss_url": "http://kilmer.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://kilmer.house.gov"
     }, 
-    "name": {
-        "first": "Derek", 
-        "last": "Kilmer", 
-        "official_full": "Derek Kilmer"
-    }, 
-    "social": {
-        "facebook": "derek.kilmer", 
-        "twitter": "RepDerekKilmer", 
-        "twitter_id": 1058917562
-    }, 
-    "terms": [
-        {
-            "address": "1429 Longworth HOB; Washington DC 20515-4706", 
-            "contact_form": "https://kilmer.house.gov/contact/email-me", 
-            "district": 6, 
-            "end": "2015-01-03", 
-            "office": "1429 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5916", 
-            "rss_url": "http://kilmer.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://kilmer.house.gov"
-        }, 
-        {
-            "address": "1520 Longworth HOB; Washington DC 20515-4706", 
-            "contact_form": "https://kilmer.house.gov/contact/email-me", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "office": "1520 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5916", 
-            "rss_url": "http://kilmer.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://kilmer.house.gov"
-        }, 
-        {
-            "address": "1520 Longworth House Office Building; Washington DC 20515-4706", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "office": "1520 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5916", 
-            "rss_url": "http://kilmer.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "https://kilmer.house.gov"
-        }
-    ]
+    {
+      "address": "1520 Longworth House Office Building; Washington DC 20515-4706", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "office": "1520 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5916", 
+      "rss_url": "http://kilmer.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://kilmer.house.gov"
+    }
+  ]
 }

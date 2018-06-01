@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1954-10-14", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1954-10-14", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:908", 
+    "ballotpedia": "Suzanne Bonamici", 
+    "bioguide": "B001278", 
+    "cspan": 63966, 
+    "fec": [
+      "H2OR01133"
+    ], 
+    "google_entity_id": "kg:/m/02q453x", 
+    "govtrack": 412501, 
+    "house_history": 10443, 
+    "icpsr": 21198, 
+    "maplight": 1682, 
+    "opensecrets": "N00033474", 
+    "thomas": "02092", 
+    "votesmart": 59641, 
+    "wikidata": "Q45946", 
+    "wikipedia": "Suzanne Bonamici"
+  }, 
+  "name": {
+    "first": "Suzanne", 
+    "last": "Bonamici", 
+    "official_full": "Suzanne Bonamici"
+  }, 
+  "social": {
+    "facebook": "congresswomanbonamici", 
+    "twitter": "RepBonamici", 
+    "twitter_id": 558769636, 
+    "youtube": "RepSuzanneBonamici", 
+    "youtube_id": "UC0IkAeEiwgzSRTD1TDSvuBw"
+  }, 
+  "terms": [
+    {
+      "address": "2338 Rayburn HOB; Washington DC 20515-3701", 
+      "contact_form": "https://bonamici.house.gov/contact-me", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "office": "2338 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0855", 
+      "start": "2012-02-07", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "http://bonamici.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Suzanne Bonamici", 
-        "bioguide": "B001278", 
-        "cspan": 63966, 
-        "fec": [
-            "H2OR01133"
-        ], 
-        "google_entity_id": "kg:/m/02q453x", 
-        "govtrack": 412501, 
-        "house_history": 10443, 
-        "icpsr": 21198, 
-        "maplight": 1682, 
-        "opensecrets": "N00033474", 
-        "thomas": "02092", 
-        "votesmart": 59641, 
-        "wikidata": "Q45946", 
-        "wikipedia": "Suzanne Bonamici"
+    {
+      "address": "439 Cannon HOB; Washington DC 20515-3701", 
+      "contact_form": "https://bonamici.house.gov/contact-me/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-9497", 
+      "office": "439 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0855", 
+      "rss_url": "http://bonamici.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "http://bonamici.house.gov"
     }, 
-    "name": {
-        "first": "Suzanne", 
-        "last": "Bonamici", 
-        "official_full": "Suzanne Bonamici"
+    {
+      "address": "439 Cannon HOB; Washington DC 20515-3701", 
+      "contact_form": "https://bonamici.house.gov/contact-me/email-me", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-9497", 
+      "office": "439 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0855", 
+      "rss_url": "http://bonamici.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "http://bonamici.house.gov"
     }, 
-    "social": {
-        "facebook": "congresswomanbonamici", 
-        "twitter": "RepBonamici", 
-        "twitter_id": 558769636, 
-        "youtube": "RepSuzanneBonamici", 
-        "youtube_id": "UC0IkAeEiwgzSRTD1TDSvuBw"
-    }, 
-    "terms": [
-        {
-            "address": "2338 Rayburn HOB; Washington DC 20515-3701", 
-            "contact_form": "https://bonamici.house.gov/contact-me", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "office": "2338 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0855", 
-            "start": "2012-02-07", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "http://bonamici.house.gov/"
-        }, 
-        {
-            "address": "439 Cannon HOB; Washington DC 20515-3701", 
-            "contact_form": "https://bonamici.house.gov/contact-me/email-me", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-9497", 
-            "office": "439 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0855", 
-            "rss_url": "http://bonamici.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "http://bonamici.house.gov"
-        }, 
-        {
-            "address": "439 Cannon HOB; Washington DC 20515-3701", 
-            "contact_form": "https://bonamici.house.gov/contact-me/email-me", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-9497", 
-            "office": "439 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0855", 
-            "rss_url": "http://bonamici.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "http://bonamici.house.gov"
-        }, 
-        {
-            "address": "439 Cannon House Office Building; Washington DC 20515-3701", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-9497", 
-            "office": "439 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0855", 
-            "rss_url": "http://bonamici.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "https://bonamici.house.gov"
-        }
-    ]
+    {
+      "address": "439 Cannon House Office Building; Washington DC 20515-3701", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-9497", 
+      "office": "439 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0855", 
+      "rss_url": "http://bonamici.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "https://bonamici.house.gov"
+    }
+  ]
 }

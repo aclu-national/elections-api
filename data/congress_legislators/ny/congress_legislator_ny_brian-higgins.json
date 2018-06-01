@@ -1,124 +1,125 @@
 {
-    "bio": {
-        "birthday": "1959-10-06", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1959-10-06", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:852", 
+    "ballotpedia": "Brian Higgins", 
+    "bioguide": "H001038", 
+    "cspan": 1013050, 
+    "fec": [
+      "H4NY27076"
+    ], 
+    "google_entity_id": "kg:/m/04fc7g", 
+    "govtrack": 400641, 
+    "house_history": 15572, 
+    "icpsr": 20519, 
+    "maplight": 647, 
+    "opensecrets": "N00027060", 
+    "thomas": "01794", 
+    "votesmart": 23127, 
+    "wikidata": "Q505581", 
+    "wikipedia": "Brian Higgins"
+  }, 
+  "name": {
+    "first": "Brian", 
+    "last": "Higgins", 
+    "middle": "M.", 
+    "official_full": "Brian Higgins"
+  }, 
+  "social": {
+    "facebook": "RepBrianHiggins", 
+    "instagram": "repbrianhiggins", 
+    "twitter": "RepBrianHiggins", 
+    "twitter_id": 33576489, 
+    "youtube": "CongressmanHiggins", 
+    "youtube_id": "UCSGbv85HaaYYOrPGePtxwag"
+  }, 
+  "terms": [
+    {
+      "district": 27, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "NY", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Brian Higgins", 
-        "bioguide": "H001038", 
-        "cspan": 1013050, 
-        "fec": [
-            "H4NY27076"
-        ], 
-        "google_entity_id": "kg:/m/04fc7g", 
-        "govtrack": 400641, 
-        "house_history": 15572, 
-        "icpsr": 20519, 
-        "maplight": 647, 
-        "opensecrets": "N00027060", 
-        "thomas": "01794", 
-        "votesmart": 23127, 
-        "wikidata": "Q505581", 
-        "wikipedia": "Brian Higgins"
+    {
+      "district": 27, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://www.house.gov/higgins"
     }, 
-    "name": {
-        "first": "Brian", 
-        "last": "Higgins", 
-        "middle": "M.", 
-        "official_full": "Brian Higgins"
+    {
+      "district": 27, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://www.house.gov/higgins"
     }, 
-    "social": {
-        "facebook": "RepBrianHiggins", 
-        "instagram": "repbrianhiggins", 
-        "twitter": "RepBrianHiggins", 
-        "twitter_id": 33576489, 
-        "youtube": "CongressmanHiggins", 
-        "youtube_id": "UCSGbv85HaaYYOrPGePtxwag"
+    {
+      "address": "2459 Rayburn HOB; Washington DC 20515-3227", 
+      "contact_form": "http://higgins.house.gov/email.asp", 
+      "district": 27, 
+      "end": "2013-01-03", 
+      "fax": "202-226-0347", 
+      "office": "2459 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3306", 
+      "start": "2011-01-05", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://www.house.gov/higgins"
     }, 
-    "terms": [
-        {
-            "district": 27, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "NY", 
-            "type": "rep"
-        }, 
-        {
-            "district": 27, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://www.house.gov/higgins"
-        }, 
-        {
-            "district": 27, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://www.house.gov/higgins"
-        }, 
-        {
-            "address": "2459 Rayburn HOB; Washington DC 20515-3227", 
-            "contact_form": "http://higgins.house.gov/email.asp", 
-            "district": 27, 
-            "end": "2013-01-03", 
-            "fax": "202-226-0347", 
-            "office": "2459 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3306", 
-            "start": "2011-01-05", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://www.house.gov/higgins"
-        }, 
-        {
-            "address": "2459 Rayburn HOB; Washington DC 20515-3226", 
-            "contact_form": "http://higgins.house.gov/contact/email-brian", 
-            "district": 26, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0347", 
-            "office": "2459 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3306", 
-            "rss_url": "http://higgins.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://higgins.house.gov"
-        }, 
-        {
-            "address": "2459 Rayburn HOB; Washington DC 20515-3226", 
-            "contact_form": "http://higgins.house.gov/contact/email-brian", 
-            "district": 26, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0347", 
-            "office": "2459 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3306", 
-            "rss_url": "http://higgins.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://higgins.house.gov"
-        }, 
-        {
-            "address": "2459 Rayburn House Office Building; Washington DC 20515-3226", 
-            "district": 26, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0347", 
-            "office": "2459 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3306", 
-            "rss_url": "http://higgins.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "https://higgins.house.gov"
-        }
-    ]
+    {
+      "address": "2459 Rayburn HOB; Washington DC 20515-3226", 
+      "contact_form": "http://higgins.house.gov/contact/email-brian", 
+      "district": 26, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0347", 
+      "office": "2459 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3306", 
+      "rss_url": "http://higgins.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://higgins.house.gov"
+    }, 
+    {
+      "address": "2459 Rayburn HOB; Washington DC 20515-3226", 
+      "contact_form": "http://higgins.house.gov/contact/email-brian", 
+      "district": 26, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0347", 
+      "office": "2459 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3306", 
+      "rss_url": "http://higgins.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://higgins.house.gov"
+    }, 
+    {
+      "address": "2459 Rayburn House Office Building; Washington DC 20515-3226", 
+      "district": 26, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0347", 
+      "office": "2459 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3306", 
+      "rss_url": "http://higgins.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://higgins.house.gov"
+    }
+  ]
 }

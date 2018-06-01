@@ -1,231 +1,232 @@
 {
-    "bio": {
-        "birthday": "1943-06-14", 
-        "gender": "M", 
-        "religion": "Episcopalian"
+  "bio": {
+    "birthday": "1943-06-14", 
+    "gender": "M", 
+    "religion": "Episcopalian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1025", 
+    "ballotpedia": "Jim Sensenbrenner", 
+    "bioguide": "S000244", 
+    "cspan": 1507, 
+    "fec": [
+      "H8WI09050"
+    ], 
+    "google_entity_id": "kg:/m/024tp2", 
+    "govtrack": 400365, 
+    "house_history": 21438, 
+    "icpsr": 14657, 
+    "maplight": 456, 
+    "opensecrets": "N00004291", 
+    "thomas": "01041", 
+    "votesmart": 27142, 
+    "wikidata": "Q952268", 
+    "wikipedia": "Jim Sensenbrenner"
+  }, 
+  "name": {
+    "first": "F.", 
+    "last": "Sensenbrenner", 
+    "middle": "James", 
+    "official_full": "F. James Sensenbrenner, Jr.", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "RepSensenbrenner", 
+    "twitter": "JimPressOffice", 
+    "twitter_id": 851621377, 
+    "youtube": "RepSensenbrenner", 
+    "youtube_id": "UCUNfNsc2CVsqivJ2wThQF6A"
+  }, 
+  "terms": [
+    {
+      "district": 9, 
+      "end": "1981-01-03", 
+      "party": "Republican", 
+      "start": "1979-01-15", 
+      "state": "WI", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Jim Sensenbrenner", 
-        "bioguide": "S000244", 
-        "cspan": 1507, 
-        "fec": [
-            "H8WI09050"
-        ], 
-        "google_entity_id": "kg:/m/024tp2", 
-        "govtrack": 400365, 
-        "house_history": 21438, 
-        "icpsr": 14657, 
-        "maplight": 456, 
-        "opensecrets": "N00004291", 
-        "thomas": "01041", 
-        "votesmart": 27142, 
-        "wikidata": "Q952268", 
-        "wikipedia": "Jim Sensenbrenner"
+    {
+      "district": 9, 
+      "end": "1983-01-03", 
+      "party": "Republican", 
+      "start": "1981-01-05", 
+      "state": "WI", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "F.", 
-        "last": "Sensenbrenner", 
-        "middle": "James", 
-        "official_full": "F. James Sensenbrenner, Jr.", 
-        "suffix": "Jr."
+    {
+      "district": 9, 
+      "end": "1985-01-03", 
+      "party": "Republican", 
+      "start": "1983-01-03", 
+      "state": "WI", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepSensenbrenner", 
-        "twitter": "JimPressOffice", 
-        "twitter_id": 851621377, 
-        "youtube": "RepSensenbrenner", 
-        "youtube_id": "UCUNfNsc2CVsqivJ2wThQF6A"
+    {
+      "district": 9, 
+      "end": "1987-01-03", 
+      "party": "Republican", 
+      "start": "1985-01-03", 
+      "state": "WI", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 9, 
-            "end": "1981-01-03", 
-            "party": "Republican", 
-            "start": "1979-01-15", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1983-01-03", 
-            "party": "Republican", 
-            "start": "1981-01-05", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1985-01-03", 
-            "party": "Republican", 
-            "start": "1983-01-03", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1987-01-03", 
-            "party": "Republican", 
-            "start": "1985-01-03", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1989-01-03", 
-            "party": "Republican", 
-            "start": "1987-01-06", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1991-01-03", 
-            "party": "Republican", 
-            "start": "1989-01-03", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1993-01-03", 
-            "party": "Republican", 
-            "start": "1991-01-03", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1993-01-05", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "WI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sensenbrenner"
-        }, 
-        {
-            "district": 5, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sensenbrenner"
-        }, 
-        {
-            "district": 5, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sensenbrenner"
-        }, 
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sensenbrenner"
-        }, 
-        {
-            "address": "2449 Rayburn HOB; Washington DC 20515-4905", 
-            "contact_form": "http://sensenbrenner.house.gov/email_zip.htm", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3190", 
-            "office": "2449 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5101", 
-            "start": "2011-01-05", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sensenbrenner"
-        }, 
-        {
-            "address": "2449 Rayburn HOB; Washington DC 20515-4905", 
-            "contact_form": "http://sensenbrenner.house.gov/contact/email.htm", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3190", 
-            "office": "2449 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5101", 
-            "rss_url": "http://sensenbrenner.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://sensenbrenner.house.gov"
-        }, 
-        {
-            "address": "2449 Rayburn HOB; Washington DC 20515-4905", 
-            "contact_form": "http://sensenbrenner.house.gov/contact/email.htm", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3190", 
-            "office": "2449 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5101", 
-            "rss_url": "http://sensenbrenner.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "http://sensenbrenner.house.gov"
-        }, 
-        {
-            "address": "2449 Rayburn House Office Building; Washington DC 20515-4905", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3190", 
-            "office": "2449 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5101", 
-            "rss_url": "http://sensenbrenner.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "WI", 
-            "type": "rep", 
-            "url": "https://sensenbrenner.house.gov"
-        }
-    ]
+    {
+      "district": 9, 
+      "end": "1989-01-03", 
+      "party": "Republican", 
+      "start": "1987-01-06", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 9, 
+      "end": "1991-01-03", 
+      "party": "Republican", 
+      "start": "1989-01-03", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 9, 
+      "end": "1993-01-03", 
+      "party": "Republican", 
+      "start": "1991-01-03", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 9, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 9, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 9, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 9, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 9, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "WI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 5, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sensenbrenner"
+    }, 
+    {
+      "district": 5, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sensenbrenner"
+    }, 
+    {
+      "district": 5, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sensenbrenner"
+    }, 
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sensenbrenner"
+    }, 
+    {
+      "address": "2449 Rayburn HOB; Washington DC 20515-4905", 
+      "contact_form": "http://sensenbrenner.house.gov/email_zip.htm", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3190", 
+      "office": "2449 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5101", 
+      "start": "2011-01-05", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sensenbrenner"
+    }, 
+    {
+      "address": "2449 Rayburn HOB; Washington DC 20515-4905", 
+      "contact_form": "http://sensenbrenner.house.gov/contact/email.htm", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3190", 
+      "office": "2449 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5101", 
+      "rss_url": "http://sensenbrenner.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://sensenbrenner.house.gov"
+    }, 
+    {
+      "address": "2449 Rayburn HOB; Washington DC 20515-4905", 
+      "contact_form": "http://sensenbrenner.house.gov/contact/email.htm", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3190", 
+      "office": "2449 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5101", 
+      "rss_url": "http://sensenbrenner.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "http://sensenbrenner.house.gov"
+    }, 
+    {
+      "address": "2449 Rayburn House Office Building; Washington DC 20515-4905", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3190", 
+      "office": "2449 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5101", 
+      "rss_url": "http://sensenbrenner.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://sensenbrenner.house.gov"
+    }
+  ]
 }

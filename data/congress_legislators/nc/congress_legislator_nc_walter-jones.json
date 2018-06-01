@@ -1,174 +1,175 @@
 {
-    "bio": {
-        "birthday": "1943-02-10", 
-        "gender": "M", 
-        "religion": "Catholic"
-    }, 
-    "family": [
-        {
-            "name": "Walter Beaman Jones Sr.", 
-            "relation": "son"
-        }
+  "bio": {
+    "birthday": "1943-02-10", 
+    "gender": "M", 
+    "religion": "Catholic"
+  }, 
+  "family": [
+    {
+      "name": "Walter Beaman Jones Sr.", 
+      "relation": "son"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:813", 
+    "ballotpedia": "Walter B. Jones", 
+    "bioguide": "J000255", 
+    "cspan": 36693, 
+    "fec": [
+      "H2NC01081"
     ], 
-    "id": {
-        "ballotpedia": "Walter B. Jones", 
-        "bioguide": "J000255", 
-        "cspan": 36693, 
-        "fec": [
-            "H2NC01081"
-        ], 
-        "google_entity_id": "kg:/m/03g_r5", 
-        "govtrack": 400209, 
-        "house_history": 16015, 
-        "icpsr": 29546, 
-        "maplight": 309, 
-        "opensecrets": "N00002299", 
-        "thomas": "00612", 
-        "votesmart": 21785, 
-        "wikidata": "Q512537", 
-        "wikipedia": "Walter B. Jones Jr."
+    "google_entity_id": "kg:/m/03g_r5", 
+    "govtrack": 400209, 
+    "house_history": 16015, 
+    "icpsr": 29546, 
+    "maplight": 309, 
+    "opensecrets": "N00002299", 
+    "thomas": "00612", 
+    "votesmart": 21785, 
+    "wikidata": "Q512537", 
+    "wikipedia": "Walter B. Jones Jr."
+  }, 
+  "name": {
+    "first": "Walter", 
+    "last": "Jones", 
+    "middle": "B.", 
+    "official_full": "Walter B. Jones", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "15083070102", 
+    "instagram": "repwalterbjones", 
+    "twitter": "RepWalterJones", 
+    "twitter_id": 26778110, 
+    "youtube": "RepWalterJones", 
+    "youtube_id": "UCZdvBD1F5FXAQyJFD2aTiWA"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "NC", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Walter", 
-        "last": "Jones", 
-        "middle": "B.", 
-        "official_full": "Walter B. Jones", 
-        "suffix": "Jr."
+    {
+      "district": 3, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "NC", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "15083070102", 
-        "instagram": "repwalterbjones", 
-        "twitter": "RepWalterJones", 
-        "twitter_id": 26778110, 
-        "youtube": "RepWalterJones", 
-        "youtube_id": "UCZdvBD1F5FXAQyJFD2aTiWA"
+    {
+      "district": 3, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "NC", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 3, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "NC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "NC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "NC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "NC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://jones.house.gov"
-        }, 
-        {
-            "district": 3, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://jones.house.gov"
-        }, 
-        {
-            "district": 3, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://jones.house.gov"
-        }, 
-        {
-            "district": 3, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://jones.house.gov"
-        }, 
-        {
-            "address": "2333 Rayburn HOB; Washington DC 20515-3303", 
-            "contact_form": "http://jones.house.gov/contact_form_email.cfm", 
-            "district": 3, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3286", 
-            "office": "2333 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3415", 
-            "start": "2011-01-05", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://jones.house.gov"
-        }, 
-        {
-            "address": "2333 Rayburn HOB; Washington DC 20515-3303", 
-            "contact_form": "https://jones.house.gov/contact-me/email-me", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3286", 
-            "office": "2333 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3415", 
-            "rss_url": "http://jones.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://jones.house.gov"
-        }, 
-        {
-            "address": "2333 Rayburn HOB; Washington DC 20515-3303", 
-            "contact_form": "https://jones.house.gov/contact-me/email-me", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3286", 
-            "office": "2333 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3415", 
-            "rss_url": "http://jones.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://jones.house.gov"
-        }, 
-        {
-            "address": "2333 Rayburn House Office Building; Washington DC 20515-3303", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3286", 
-            "office": "2333 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3415", 
-            "rss_url": "http://jones.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "https://jones.house.gov"
-        }
-    ]
+    {
+      "district": 3, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "NC", 
+      "type": "rep"
+    }, 
+    {
+      "district": 3, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://jones.house.gov"
+    }, 
+    {
+      "district": 3, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://jones.house.gov"
+    }, 
+    {
+      "district": 3, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://jones.house.gov"
+    }, 
+    {
+      "district": 3, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://jones.house.gov"
+    }, 
+    {
+      "address": "2333 Rayburn HOB; Washington DC 20515-3303", 
+      "contact_form": "http://jones.house.gov/contact_form_email.cfm", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3286", 
+      "office": "2333 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3415", 
+      "start": "2011-01-05", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://jones.house.gov"
+    }, 
+    {
+      "address": "2333 Rayburn HOB; Washington DC 20515-3303", 
+      "contact_form": "https://jones.house.gov/contact-me/email-me", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3286", 
+      "office": "2333 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3415", 
+      "rss_url": "http://jones.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://jones.house.gov"
+    }, 
+    {
+      "address": "2333 Rayburn HOB; Washington DC 20515-3303", 
+      "contact_form": "https://jones.house.gov/contact-me/email-me", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3286", 
+      "office": "2333 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3415", 
+      "rss_url": "http://jones.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://jones.house.gov"
+    }, 
+    {
+      "address": "2333 Rayburn House Office Building; Washington DC 20515-3303", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3286", 
+      "office": "2333 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3415", 
+      "rss_url": "http://jones.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://jones.house.gov"
+    }
+  ]
 }

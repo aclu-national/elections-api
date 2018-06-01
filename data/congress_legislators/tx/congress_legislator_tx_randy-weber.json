@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1953-07-02", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1953-07-02", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:983", 
+    "ballotpedia": "Randy Weber", 
+    "bioguide": "W000814", 
+    "cspan": 79698, 
+    "fec": [
+      "H2TX14149"
+    ], 
+    "google_entity_id": "kg:/m/0km63t0", 
+    "govtrack": 412574, 
+    "icpsr": 21360, 
+    "maplight": 1798, 
+    "opensecrets": "N00033539", 
+    "thomas": "02161", 
+    "votesmart": 102026, 
+    "wikidata": "Q4014569", 
+    "wikipedia": "Randy Weber"
+  }, 
+  "name": {
+    "first": "Randy", 
+    "last": "Weber", 
+    "middle": "K.", 
+    "official_full": "Randy K. Weber, Sr."
+  }, 
+  "social": {
+    "facebook": "TXRandy14", 
+    "twitter": "TXRandy14", 
+    "twitter_id": 1058051748, 
+    "youtube": "TXRandy14", 
+    "youtube_id": "UCJSZRrAcd5i1bHLjR66PZdg"
+  }, 
+  "terms": [
+    {
+      "address": "510 Cannon HOB; Washington DC 20515-4314", 
+      "contact_form": "https://weber.house.gov/contact/email-me", 
+      "district": 14, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0271", 
+      "office": "510 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2831", 
+      "rss_url": "http://weber.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://weber.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Randy Weber", 
-        "bioguide": "W000814", 
-        "cspan": 79698, 
-        "fec": [
-            "H2TX14149"
-        ], 
-        "google_entity_id": "kg:/m/0km63t0", 
-        "govtrack": 412574, 
-        "icpsr": 21360, 
-        "maplight": 1798, 
-        "opensecrets": "N00033539", 
-        "thomas": "02161", 
-        "votesmart": 102026, 
-        "wikidata": "Q4014569", 
-        "wikipedia": "Randy Weber"
+    {
+      "address": "510 Cannon HOB; Washington DC 20515-4314", 
+      "contact_form": "https://weber.house.gov/contact/email-me", 
+      "district": 14, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0271", 
+      "office": "510 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2831", 
+      "rss_url": "http://weber.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://weber.house.gov"
     }, 
-    "name": {
-        "first": "Randy", 
-        "last": "Weber", 
-        "middle": "K.", 
-        "official_full": "Randy K. Weber, Sr."
-    }, 
-    "social": {
-        "facebook": "TXRandy14", 
-        "twitter": "TXRandy14", 
-        "twitter_id": 1058051748, 
-        "youtube": "TXRandy14", 
-        "youtube_id": "UCJSZRrAcd5i1bHLjR66PZdg"
-    }, 
-    "terms": [
-        {
-            "address": "510 Cannon HOB; Washington DC 20515-4314", 
-            "contact_form": "https://weber.house.gov/contact/email-me", 
-            "district": 14, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0271", 
-            "office": "510 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2831", 
-            "rss_url": "http://weber.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://weber.house.gov"
-        }, 
-        {
-            "address": "510 Cannon HOB; Washington DC 20515-4314", 
-            "contact_form": "https://weber.house.gov/contact/email-me", 
-            "district": 14, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0271", 
-            "office": "510 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2831", 
-            "rss_url": "http://weber.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://weber.house.gov"
-        }, 
-        {
-            "address": "1708 Longworth House Office Building; Washington DC 20515-4314", 
-            "district": 14, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0271", 
-            "office": "1708 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2831", 
-            "rss_url": "http://weber.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://weber.house.gov"
-        }
-    ]
+    {
+      "address": "1708 Longworth House Office Building; Washington DC 20515-4314", 
+      "district": 14, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0271", 
+      "office": "1708 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2831", 
+      "rss_url": "http://weber.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://weber.house.gov"
+    }
+  ]
 }

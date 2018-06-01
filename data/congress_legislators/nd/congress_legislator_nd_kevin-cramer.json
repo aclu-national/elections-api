@@ -1,83 +1,84 @@
 {
-    "bio": {
-        "birthday": "1961-01-21", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1961-01-21", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:816", 
+    "ballotpedia": "Kevin Cramer", 
+    "bioguide": "C001096", 
+    "cspan": 7600, 
+    "fec": [
+      "H0ND01026", 
+      "H6ND00074"
+    ], 
+    "google_entity_id": "kg:/m/02rhrnw", 
+    "govtrack": 412555, 
+    "icpsr": 21350, 
+    "maplight": 1779, 
+    "opensecrets": "N00004614", 
+    "thomas": "02144", 
+    "votesmart": 444, 
+    "wikidata": "Q3957020", 
+    "wikipedia": "Kevin Cramer"
+  }, 
+  "name": {
+    "first": "Kevin", 
+    "last": "Cramer", 
+    "official_full": "Kevin Cramer"
+  }, 
+  "social": {
+    "facebook": "CongressmanKevinCramer", 
+    "instagram": "repkevincramer", 
+    "twitter": "RepKevinCramer", 
+    "twitter_id": 1048784496, 
+    "youtube": "kevincramer", 
+    "youtube_id": "UCqUPdO9XaAW-dvwwXKbIVdA"
+  }, 
+  "terms": [
+    {
+      "address": "1032 Longworth HOB; Washington DC 20515-3400", 
+      "contact_form": "https://cramer.house.gov/contact/email-me", 
+      "district": 0, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0893", 
+      "office": "1032 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2611", 
+      "rss_url": "http://cramer.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "ND", 
+      "type": "rep", 
+      "url": "http://cramer.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Kevin Cramer", 
-        "bioguide": "C001096", 
-        "cspan": 7600, 
-        "fec": [
-            "H0ND01026", 
-            "H6ND00074"
-        ], 
-        "google_entity_id": "kg:/m/02rhrnw", 
-        "govtrack": 412555, 
-        "icpsr": 21350, 
-        "maplight": 1779, 
-        "opensecrets": "N00004614", 
-        "thomas": "02144", 
-        "votesmart": 444, 
-        "wikidata": "Q3957020", 
-        "wikipedia": "Kevin Cramer"
+    {
+      "address": "1032 Longworth HOB; Washington DC 20515-3400", 
+      "contact_form": "https://cramer.house.gov/contact/email-me", 
+      "district": 0, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0893", 
+      "office": "1032 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2611", 
+      "rss_url": "http://cramer.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "ND", 
+      "type": "rep", 
+      "url": "http://cramer.house.gov"
     }, 
-    "name": {
-        "first": "Kevin", 
-        "last": "Cramer", 
-        "official_full": "Kevin Cramer"
-    }, 
-    "social": {
-        "facebook": "CongressmanKevinCramer", 
-        "instagram": "repkevincramer", 
-        "twitter": "RepKevinCramer", 
-        "twitter_id": 1048784496, 
-        "youtube": "kevincramer", 
-        "youtube_id": "UCqUPdO9XaAW-dvwwXKbIVdA"
-    }, 
-    "terms": [
-        {
-            "address": "1032 Longworth HOB; Washington DC 20515-3400", 
-            "contact_form": "https://cramer.house.gov/contact/email-me", 
-            "district": 0, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0893", 
-            "office": "1032 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2611", 
-            "rss_url": "http://cramer.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "ND", 
-            "type": "rep", 
-            "url": "http://cramer.house.gov"
-        }, 
-        {
-            "address": "1032 Longworth HOB; Washington DC 20515-3400", 
-            "contact_form": "https://cramer.house.gov/contact/email-me", 
-            "district": 0, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0893", 
-            "office": "1032 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2611", 
-            "rss_url": "http://cramer.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "ND", 
-            "type": "rep", 
-            "url": "http://cramer.house.gov"
-        }, 
-        {
-            "address": "1717 Longworth House Office Building; Washington DC 20515-3400", 
-            "district": 0, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0893", 
-            "office": "1717 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2611", 
-            "rss_url": "http://cramer.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "ND", 
-            "type": "rep", 
-            "url": "https://cramer.house.gov"
-        }
-    ]
+    {
+      "address": "1717 Longworth House Office Building; Washington DC 20515-3400", 
+      "district": 0, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0893", 
+      "office": "1717 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2611", 
+      "rss_url": "http://cramer.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "ND", 
+      "type": "rep", 
+      "url": "https://cramer.house.gov"
+    }
+  ]
 }

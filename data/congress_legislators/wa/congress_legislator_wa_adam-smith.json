@@ -1,157 +1,158 @@
 {
-    "bio": {
-        "birthday": "1965-06-15", 
-        "gender": "M", 
-        "religion": "Christian"
+  "bio": {
+    "birthday": "1965-06-15", 
+    "gender": "M", 
+    "religion": "Christian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1013", 
+    "ballotpedia": "Adam Smith", 
+    "bioguide": "S000510", 
+    "cspan": 44329, 
+    "fec": [
+      "H6WA09025"
+    ], 
+    "google_entity_id": "kg:/m/024zj_", 
+    "govtrack": 400379, 
+    "house_history": 21774, 
+    "icpsr": 29768, 
+    "maplight": 471, 
+    "opensecrets": "N00007833", 
+    "thomas": "01528", 
+    "votesmart": 845, 
+    "wikidata": "Q350916", 
+    "wikipedia": "Adam Smith (politician)"
+  }, 
+  "name": {
+    "first": "Adam", 
+    "last": "Smith", 
+    "official_full": "Adam Smith"
+  }, 
+  "social": {
+    "facebook": "RepAdamSmith", 
+    "twitter": "RepAdamSmith", 
+    "twitter_id": 58928690, 
+    "youtube": "CongressmanAdamSmith", 
+    "youtube_id": "UCcrHso483LOfC6WwDnzAh-g"
+  }, 
+  "terms": [
+    {
+      "district": 9, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "WA", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Adam Smith", 
-        "bioguide": "S000510", 
-        "cspan": 44329, 
-        "fec": [
-            "H6WA09025"
-        ], 
-        "google_entity_id": "kg:/m/024zj_", 
-        "govtrack": 400379, 
-        "house_history": 21774, 
-        "icpsr": 29768, 
-        "maplight": 471, 
-        "opensecrets": "N00007833", 
-        "thomas": "01528", 
-        "votesmart": 845, 
-        "wikidata": "Q350916", 
-        "wikipedia": "Adam Smith (politician)"
+    {
+      "district": 9, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "WA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Adam", 
-        "last": "Smith", 
-        "official_full": "Adam Smith"
+    {
+      "district": 9, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "WA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepAdamSmith", 
-        "twitter": "RepAdamSmith", 
-        "twitter_id": 58928690, 
-        "youtube": "CongressmanAdamSmith", 
-        "youtube_id": "UCcrHso483LOfC6WwDnzAh-g"
+    {
+      "district": 9, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/adamsmith"
     }, 
-    "terms": [
-        {
-            "district": 9, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "WA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "WA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "WA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 9, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/adamsmith"
-        }, 
-        {
-            "district": 9, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/adamsmith"
-        }, 
-        {
-            "district": 9, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/adamsmith"
-        }, 
-        {
-            "district": 9, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/adamsmith"
-        }, 
-        {
-            "address": "2402 Rayburn HOB; Washington DC 20515-4709", 
-            "contact_form": "http://adamsmith.house.gov/Contact/", 
-            "district": 9, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5893", 
-            "office": "2402 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8901", 
-            "start": "2011-01-05", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/adamsmith"
-        }, 
-        {
-            "address": "2264 Rayburn HOB; Washington DC 20515-4709", 
-            "contact_form": "https://adamsmith.house.gov/contact/contactform.htm", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5893", 
-            "office": "2264 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8901", 
-            "rss_url": "http://www.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://adamsmith.house.gov"
-        }, 
-        {
-            "address": "2264 Rayburn HOB; Washington DC 20515-4709", 
-            "contact_form": "https://adamsmith.house.gov/contact/contactform.htm", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5893", 
-            "office": "2264 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8901", 
-            "rss_url": "http://www.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "https://adamsmith.house.gov"
-        }, 
-        {
-            "address": "2264 Rayburn House Office Building; Washington DC 20515-4709", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5893", 
-            "office": "2264 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8901", 
-            "rss_url": "http://www.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "https://adamsmith.house.gov"
-        }
-    ]
+    {
+      "district": 9, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/adamsmith"
+    }, 
+    {
+      "district": 9, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/adamsmith"
+    }, 
+    {
+      "district": 9, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/adamsmith"
+    }, 
+    {
+      "address": "2402 Rayburn HOB; Washington DC 20515-4709", 
+      "contact_form": "http://adamsmith.house.gov/Contact/", 
+      "district": 9, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5893", 
+      "office": "2402 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8901", 
+      "start": "2011-01-05", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/adamsmith"
+    }, 
+    {
+      "address": "2264 Rayburn HOB; Washington DC 20515-4709", 
+      "contact_form": "https://adamsmith.house.gov/contact/contactform.htm", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5893", 
+      "office": "2264 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8901", 
+      "rss_url": "http://www.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://adamsmith.house.gov"
+    }, 
+    {
+      "address": "2264 Rayburn HOB; Washington DC 20515-4709", 
+      "contact_form": "https://adamsmith.house.gov/contact/contactform.htm", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5893", 
+      "office": "2264 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8901", 
+      "rss_url": "http://www.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://adamsmith.house.gov"
+    }, 
+    {
+      "address": "2264 Rayburn House Office Building; Washington DC 20515-4709", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5893", 
+      "office": "2264 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8901", 
+      "rss_url": "http://www.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://adamsmith.house.gov"
+    }
+  ]
 }

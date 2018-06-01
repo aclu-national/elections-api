@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1961-10-17", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1961-10-17", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:683", 
+    "ballotpedia": "Cheri Bustos", 
+    "bioguide": "B001286", 
+    "cspan": 63949, 
+    "fec": [
+      "H2IL17071"
+    ], 
+    "google_entity_id": "kg:/m/0jwwtrm", 
+    "govtrack": 412537, 
+    "house_history": 15032386872, 
+    "icpsr": 21329, 
+    "maplight": 1761, 
+    "opensecrets": "N00033390", 
+    "thomas": "02127", 
+    "votesmart": 134964, 
+    "wikidata": "Q723148", 
+    "wikipedia": "Cheri Bustos"
+  }, 
+  "name": {
+    "first": "Cheri", 
+    "last": "Bustos", 
+    "official_full": "Cheri Bustos"
+  }, 
+  "social": {
+    "facebook": "RepCheri", 
+    "twitter": "RepCheri", 
+    "twitter_id": 1092979962, 
+    "youtube": "RepCheri", 
+    "youtube_id": "UCrkOYuIsVeb4dvKeeO7jnaA"
+  }, 
+  "terms": [
+    {
+      "address": "1009 Longworth HOB; Washington DC 20515-1317", 
+      "contact_form": "http://bustos.house.gov/contact", 
+      "district": 17, 
+      "end": "2015-01-03", 
+      "fax": "309-786-3720", 
+      "office": "1009 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5905", 
+      "rss_url": "http://bustos.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://bustos.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Cheri Bustos", 
-        "bioguide": "B001286", 
-        "cspan": 63949, 
-        "fec": [
-            "H2IL17071"
-        ], 
-        "google_entity_id": "kg:/m/0jwwtrm", 
-        "govtrack": 412537, 
-        "house_history": 15032386872, 
-        "icpsr": 21329, 
-        "maplight": 1761, 
-        "opensecrets": "N00033390", 
-        "thomas": "02127", 
-        "votesmart": 134964, 
-        "wikidata": "Q723148", 
-        "wikipedia": "Cheri Bustos"
+    {
+      "address": "1009 Longworth HOB; Washington DC 20515-1317", 
+      "contact_form": "http://bustos.house.gov/contact", 
+      "district": 17, 
+      "end": "2017-01-03", 
+      "fax": "309-786-3720", 
+      "office": "1009 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5905", 
+      "rss_url": "http://bustos.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://bustos.house.gov"
     }, 
-    "name": {
-        "first": "Cheri", 
-        "last": "Bustos", 
-        "official_full": "Cheri Bustos"
-    }, 
-    "social": {
-        "facebook": "RepCheri", 
-        "twitter": "RepCheri", 
-        "twitter_id": 1092979962, 
-        "youtube": "RepCheri", 
-        "youtube_id": "UCrkOYuIsVeb4dvKeeO7jnaA"
-    }, 
-    "terms": [
-        {
-            "address": "1009 Longworth HOB; Washington DC 20515-1317", 
-            "contact_form": "http://bustos.house.gov/contact", 
-            "district": 17, 
-            "end": "2015-01-03", 
-            "fax": "309-786-3720", 
-            "office": "1009 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5905", 
-            "rss_url": "http://bustos.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://bustos.house.gov"
-        }, 
-        {
-            "address": "1009 Longworth HOB; Washington DC 20515-1317", 
-            "contact_form": "http://bustos.house.gov/contact", 
-            "district": 17, 
-            "end": "2017-01-03", 
-            "fax": "309-786-3720", 
-            "office": "1009 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5905", 
-            "rss_url": "http://bustos.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://bustos.house.gov"
-        }, 
-        {
-            "address": "1009 Longworth House Office Building; Washington DC 20515-1317", 
-            "district": 17, 
-            "end": "2019-01-03", 
-            "fax": "309-786-3720", 
-            "office": "1009 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5905", 
-            "rss_url": "http://bustos.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://bustos.house.gov"
-        }
-    ]
+    {
+      "address": "1009 Longworth House Office Building; Washington DC 20515-1317", 
+      "district": 17, 
+      "end": "2019-01-03", 
+      "fax": "309-786-3720", 
+      "office": "1009 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5905", 
+      "rss_url": "http://bustos.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://bustos.house.gov"
+    }
+  ]
 }

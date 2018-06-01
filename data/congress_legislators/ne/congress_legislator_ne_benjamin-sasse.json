@@ -1,53 +1,54 @@
 {
-    "bio": {
-        "birthday": "1972-02-22", 
-        "gender": "M"
-    }, 
-    "id": {
-        "bioguide": "S001197", 
-        "cspan": 77429, 
-        "fec": [
-            "S4NE00090"
-        ], 
-        "google_entity_id": "kg:/m/0j5wk_6", 
-        "govtrack": 412671, 
-        "icpsr": 41503, 
-        "lis": "S382", 
-        "maplight": 2127, 
-        "opensecrets": "N00035544", 
-        "thomas": "02289", 
-        "votesmart": 150182, 
-        "wikidata": "Q16192221", 
-        "wikipedia": "Ben Sasse"
-    }, 
-    "name": {
-        "first": "Benjamin", 
-        "last": "Sasse", 
-        "middle": "Eric", 
-        "official_full": "Ben Sasse"
-    }, 
-    "social": {
-        "facebook": "SenatorSasse", 
-        "instagram": "senatorsasse", 
-        "instagram_id": 1636974433, 
-        "twitter": "SenSasse", 
-        "twitter_id": 2962923040, 
-        "youtube_id": "UCYaNGwcM2Dl5yDcDqS6xV2g"
-    }, 
-    "terms": [
-        {
-            "address": "136 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.sasse.senate.gov/public/index.cfm/email-ben", 
-            "end": "2021-01-03", 
-            "office": "136 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-4224", 
-            "start": "2015-01-06", 
-            "state": "NE", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.sasse.senate.gov/public"
-        }
-    ]
+  "bio": {
+    "birthday": "1972-02-22", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:818", 
+    "bioguide": "S001197", 
+    "cspan": 77429, 
+    "fec": [
+      "S4NE00090"
+    ], 
+    "google_entity_id": "kg:/m/0j5wk_6", 
+    "govtrack": 412671, 
+    "icpsr": 41503, 
+    "lis": "S382", 
+    "maplight": 2127, 
+    "opensecrets": "N00035544", 
+    "thomas": "02289", 
+    "votesmart": 150182, 
+    "wikidata": "Q16192221", 
+    "wikipedia": "Ben Sasse"
+  }, 
+  "name": {
+    "first": "Benjamin", 
+    "last": "Sasse", 
+    "middle": "Eric", 
+    "official_full": "Ben Sasse"
+  }, 
+  "social": {
+    "facebook": "SenatorSasse", 
+    "instagram": "senatorsasse", 
+    "instagram_id": 1636974433, 
+    "twitter": "SenSasse", 
+    "twitter_id": 2962923040, 
+    "youtube_id": "UCYaNGwcM2Dl5yDcDqS6xV2g"
+  }, 
+  "terms": [
+    {
+      "address": "136 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.sasse.senate.gov/public/index.cfm/email-ben", 
+      "end": "2021-01-03", 
+      "office": "136 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4224", 
+      "start": "2015-01-06", 
+      "state": "NE", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.sasse.senate.gov/public"
+    }
+  ]
 }

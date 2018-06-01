@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1954-02-25", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1954-02-25", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:956", 
+    "bioguide": "F000461", 
+    "cspan": 623540, 
+    "fec": [
+      "H0TX17104"
+    ], 
+    "google_entity_id": "kg:/m/0bs1ntq", 
+    "govtrack": 412480, 
+    "house_history": 13566, 
+    "icpsr": 21182, 
+    "maplight": 1485, 
+    "opensecrets": "N00031545", 
+    "thomas": "02065", 
+    "votesmart": 116906, 
+    "wikidata": "Q862103", 
+    "wikipedia": "Bill Flores"
+  }, 
+  "name": {
+    "first": "Bill", 
+    "last": "Flores", 
+    "official_full": "Bill Flores"
+  }, 
+  "social": {
+    "facebook": "RepBillFlores", 
+    "instagram": "repbillflores", 
+    "twitter": "RepBillFlores", 
+    "twitter_id": 237312687, 
+    "youtube": "RepBillFlores", 
+    "youtube_id": "UCA7MgQ_ccBlCqoxV56B6nmA"
+  }, 
+  "terms": [
+    {
+      "address": "1505 Longworth HOB; Washington DC 20515-4317", 
+      "district": 17, 
+      "end": "2013-01-03", 
+      "fax": "202-225-0350", 
+      "office": "1505 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6105", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://flores.house.gov/"
     }, 
-    "id": {
-        "bioguide": "F000461", 
-        "cspan": 623540, 
-        "fec": [
-            "H0TX17104"
-        ], 
-        "google_entity_id": "kg:/m/0bs1ntq", 
-        "govtrack": 412480, 
-        "house_history": 13566, 
-        "icpsr": 21182, 
-        "maplight": 1485, 
-        "opensecrets": "N00031545", 
-        "thomas": "02065", 
-        "votesmart": 116906, 
-        "wikidata": "Q862103", 
-        "wikipedia": "Bill Flores"
+    {
+      "address": "1030 Longworth HOB; Washington DC 20515-4317", 
+      "contact_form": "https://billflores.house.gov/contact/", 
+      "district": 17, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0350", 
+      "office": "1030 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6105", 
+      "rss_url": "http://flores.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://flores.house.gov"
     }, 
-    "name": {
-        "first": "Bill", 
-        "last": "Flores", 
-        "official_full": "Bill Flores"
+    {
+      "address": "1030 Longworth HOB; Washington DC 20515-4317", 
+      "contact_form": "https://billflores.house.gov/contact/", 
+      "district": 17, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0350", 
+      "office": "1030 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6105", 
+      "rss_url": "http://flores.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://flores.house.gov"
     }, 
-    "social": {
-        "facebook": "RepBillFlores", 
-        "instagram": "repbillflores", 
-        "twitter": "RepBillFlores", 
-        "twitter_id": 237312687, 
-        "youtube": "RepBillFlores", 
-        "youtube_id": "UCA7MgQ_ccBlCqoxV56B6nmA"
-    }, 
-    "terms": [
-        {
-            "address": "1505 Longworth HOB; Washington DC 20515-4317", 
-            "district": 17, 
-            "end": "2013-01-03", 
-            "fax": "202-225-0350", 
-            "office": "1505 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6105", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://flores.house.gov/"
-        }, 
-        {
-            "address": "1030 Longworth HOB; Washington DC 20515-4317", 
-            "contact_form": "https://billflores.house.gov/contact/", 
-            "district": 17, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0350", 
-            "office": "1030 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6105", 
-            "rss_url": "http://flores.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://flores.house.gov"
-        }, 
-        {
-            "address": "1030 Longworth HOB; Washington DC 20515-4317", 
-            "contact_form": "https://billflores.house.gov/contact/", 
-            "district": 17, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0350", 
-            "office": "1030 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6105", 
-            "rss_url": "http://flores.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://flores.house.gov"
-        }, 
-        {
-            "address": "2440 Rayburn House Office Building; Washington DC 20515-4317", 
-            "district": 17, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0350", 
-            "office": "2440 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6105", 
-            "rss_url": "http://flores.house.gov/common/rss//index.cfm?rss=25", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://flores.house.gov"
-        }
-    ]
+    {
+      "address": "2440 Rayburn House Office Building; Washington DC 20515-4317", 
+      "district": 17, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0350", 
+      "office": "2440 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6105", 
+      "rss_url": "http://flores.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://flores.house.gov"
+    }
+  ]
 }

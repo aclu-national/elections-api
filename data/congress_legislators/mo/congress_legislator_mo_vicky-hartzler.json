@@ -1,97 +1,98 @@
 {
-    "bio": {
-        "birthday": "1960-10-13", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1960-10-13", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:789", 
+    "ballotpedia": "Vicky Hartzler", 
+    "bioguide": "H001053", 
+    "cspan": 95050, 
+    "fec": [
+      "H0MO04086"
+    ], 
+    "google_entity_id": "kg:/m/09v2dv4", 
+    "govtrack": 412444, 
+    "house_history": 15601, 
+    "icpsr": 21149, 
+    "maplight": 1454, 
+    "opensecrets": "N00031005", 
+    "thomas": "02032", 
+    "votesmart": 8783, 
+    "wikidata": "Q375389", 
+    "wikipedia": "Vicky Hartzler"
+  }, 
+  "name": {
+    "first": "Vicky", 
+    "last": "Hartzler", 
+    "official_full": "Vicky Hartzler"
+  }, 
+  "social": {
+    "facebook": "Congresswoman.Hartzler", 
+    "instagram": "rephartzler", 
+    "instagram_id": 787899303, 
+    "twitter": "RepHartzler", 
+    "twitter_id": 237763317, 
+    "youtube": "repvickyhartzler", 
+    "youtube_id": "UCAvttUz6qBVEJiFt7p_MZxw"
+  }, 
+  "terms": [
+    {
+      "address": "1023 Longworth HOB; Washington DC 20515-2504", 
+      "district": 4, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2695", 
+      "office": "1023 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2876", 
+      "start": "2011-01-05", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://hartzler.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Vicky Hartzler", 
-        "bioguide": "H001053", 
-        "cspan": 95050, 
-        "fec": [
-            "H0MO04086"
-        ], 
-        "google_entity_id": "kg:/m/09v2dv4", 
-        "govtrack": 412444, 
-        "house_history": 15601, 
-        "icpsr": 21149, 
-        "maplight": 1454, 
-        "opensecrets": "N00031005", 
-        "thomas": "02032", 
-        "votesmart": 8783, 
-        "wikidata": "Q375389", 
-        "wikipedia": "Vicky Hartzler"
+    {
+      "address": "1023 Longworth HOB; Washington DC 20515-2504", 
+      "contact_form": "https://hartzler.house.gov/contact-me/email-me", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0148", 
+      "office": "1023 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2876", 
+      "rss_url": "http://hartzler.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://hartzler.house.gov"
     }, 
-    "name": {
-        "first": "Vicky", 
-        "last": "Hartzler", 
-        "official_full": "Vicky Hartzler"
+    {
+      "address": "2235 Rayburn HOB; Washington DC 20515-2504", 
+      "contact_form": "https://hartzler.house.gov/contact-me/email-me", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0148", 
+      "office": "2235 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2876", 
+      "rss_url": "http://hartzler.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://hartzler.house.gov"
     }, 
-    "social": {
-        "facebook": "Congresswoman.Hartzler", 
-        "instagram": "rephartzler", 
-        "instagram_id": 787899303, 
-        "twitter": "RepHartzler", 
-        "twitter_id": 237763317, 
-        "youtube": "repvickyhartzler", 
-        "youtube_id": "UCAvttUz6qBVEJiFt7p_MZxw"
-    }, 
-    "terms": [
-        {
-            "address": "1023 Longworth HOB; Washington DC 20515-2504", 
-            "district": 4, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2695", 
-            "office": "1023 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2876", 
-            "start": "2011-01-05", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://hartzler.house.gov/"
-        }, 
-        {
-            "address": "1023 Longworth HOB; Washington DC 20515-2504", 
-            "contact_form": "https://hartzler.house.gov/contact-me/email-me", 
-            "district": 4, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0148", 
-            "office": "1023 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2876", 
-            "rss_url": "http://hartzler.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://hartzler.house.gov"
-        }, 
-        {
-            "address": "2235 Rayburn HOB; Washington DC 20515-2504", 
-            "contact_form": "https://hartzler.house.gov/contact-me/email-me", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0148", 
-            "office": "2235 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2876", 
-            "rss_url": "http://hartzler.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://hartzler.house.gov"
-        }, 
-        {
-            "address": "2235 Rayburn House Office Building; Washington DC 20515-2504", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0148", 
-            "office": "2235 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2876", 
-            "rss_url": "http://hartzler.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "https://hartzler.house.gov"
-        }
-    ]
+    {
+      "address": "2235 Rayburn House Office Building; Washington DC 20515-2504", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0148", 
+      "office": "2235 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2876", 
+      "rss_url": "http://hartzler.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://hartzler.house.gov"
+    }
+  ]
 }

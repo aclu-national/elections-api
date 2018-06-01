@@ -1,134 +1,135 @@
 {
-    "bio": {
-        "birthday": "1949-04-28", 
-        "gender": "M", 
-        "religion": "Methodist"
+  "bio": {
+    "birthday": "1949-04-28", 
+    "gender": "M", 
+    "religion": "Methodist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:901", 
+    "ballotpedia": "Tom Cole", 
+    "bioguide": "C001053", 
+    "cspan": 1003609, 
+    "fec": [
+      "H2OK04055"
+    ], 
+    "google_entity_id": "kg:/m/03tqb0", 
+    "govtrack": 400077, 
+    "house_history": 11774, 
+    "icpsr": 20344, 
+    "maplight": 194, 
+    "opensecrets": "N00025726", 
+    "thomas": "01742", 
+    "votesmart": 46034, 
+    "wikidata": "Q173839", 
+    "wikipedia": "Tom Cole"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "Cole", 
+    "official_full": "Tom Cole"
+  }, 
+  "social": {
+    "facebook": "TomColeOK04", 
+    "instagram": "TomColeOK04", 
+    "twitter": "TomColeOK04", 
+    "twitter_id": 23124635, 
+    "youtube": "reptomcole", 
+    "youtube_id": "UCvqzPm_YnNkfEHpm3SEMJMQ"
+  }, 
+  "terms": [
+    {
+      "district": 4, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cole"
     }, 
-    "id": {
-        "ballotpedia": "Tom Cole", 
-        "bioguide": "C001053", 
-        "cspan": 1003609, 
-        "fec": [
-            "H2OK04055"
-        ], 
-        "google_entity_id": "kg:/m/03tqb0", 
-        "govtrack": 400077, 
-        "house_history": 11774, 
-        "icpsr": 20344, 
-        "maplight": 194, 
-        "opensecrets": "N00025726", 
-        "thomas": "01742", 
-        "votesmart": 46034, 
-        "wikidata": "Q173839", 
-        "wikipedia": "Tom Cole"
+    {
+      "district": 4, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cole"
     }, 
-    "name": {
-        "first": "Tom", 
-        "last": "Cole", 
-        "official_full": "Tom Cole"
+    {
+      "district": 4, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cole"
     }, 
-    "social": {
-        "facebook": "TomColeOK04", 
-        "instagram": "TomColeOK04", 
-        "twitter": "TomColeOK04", 
-        "twitter_id": 23124635, 
-        "youtube": "reptomcole", 
-        "youtube_id": "UCvqzPm_YnNkfEHpm3SEMJMQ"
+    {
+      "district": 4, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cole"
     }, 
-    "terms": [
-        {
-            "district": 4, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cole"
-        }, 
-        {
-            "district": 4, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cole"
-        }, 
-        {
-            "district": 4, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cole"
-        }, 
-        {
-            "district": 4, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cole"
-        }, 
-        {
-            "address": "2458 Rayburn HOB; Washington DC 20515-3604", 
-            "contact_form": "http://www.cole.house.gov/contact-tom.html", 
-            "district": 4, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3512", 
-            "office": "2458 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6165", 
-            "start": "2011-01-05", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://www.house.gov/cole"
-        }, 
-        {
-            "address": "2458 Rayburn HOB; Washington DC 20515-3604", 
-            "contact_form": "https://coleforms.house.gov/contact/default.aspx", 
-            "district": 4, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3512", 
-            "office": "2458 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6165", 
-            "rss_url": "http://cole.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://cole.house.gov"
-        }, 
-        {
-            "address": "2467 Rayburn HOB; Washington DC 20515-3604", 
-            "contact_form": "https://coleforms.house.gov/contact/default.aspx", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3512", 
-            "office": "2467 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6165", 
-            "rss_url": "http://cole.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "http://cole.house.gov"
-        }, 
-        {
-            "address": "2467 Rayburn House Office Building; Washington DC 20515-3604", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3512", 
-            "office": "2467 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6165", 
-            "rss_url": "http://cole.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "OK", 
-            "type": "rep", 
-            "url": "https://cole.house.gov"
-        }
-    ]
+    {
+      "address": "2458 Rayburn HOB; Washington DC 20515-3604", 
+      "contact_form": "http://www.cole.house.gov/contact-tom.html", 
+      "district": 4, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3512", 
+      "office": "2458 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6165", 
+      "start": "2011-01-05", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://www.house.gov/cole"
+    }, 
+    {
+      "address": "2458 Rayburn HOB; Washington DC 20515-3604", 
+      "contact_form": "https://coleforms.house.gov/contact/default.aspx", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3512", 
+      "office": "2458 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6165", 
+      "rss_url": "http://cole.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://cole.house.gov"
+    }, 
+    {
+      "address": "2467 Rayburn HOB; Washington DC 20515-3604", 
+      "contact_form": "https://coleforms.house.gov/contact/default.aspx", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3512", 
+      "office": "2467 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6165", 
+      "rss_url": "http://cole.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "http://cole.house.gov"
+    }, 
+    {
+      "address": "2467 Rayburn House Office Building; Washington DC 20515-3604", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3512", 
+      "office": "2467 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6165", 
+      "rss_url": "http://cole.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://cole.house.gov"
+    }
+  ]
 }

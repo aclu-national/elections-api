@@ -1,199 +1,200 @@
 {
-    "bio": {
-        "birthday": "1940-02-21", 
-        "gender": "M", 
-        "religion": "Baptist"
+  "bio": {
+    "birthday": "1940-02-21", 
+    "gender": "M", 
+    "religion": "Baptist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:659", 
+    "ballotpedia": "John Lewis (Georgia)", 
+    "bioguide": "L000287", 
+    "cspan": 2528, 
+    "fec": [
+      "H6GA05217"
+    ], 
+    "google_entity_id": "kg:/m/02555z", 
+    "govtrack": 400240, 
+    "house_history": 16948, 
+    "icpsr": 15431, 
+    "maplight": 341, 
+    "opensecrets": "N00002577", 
+    "thomas": "00688", 
+    "votesmart": 26820, 
+    "wikidata": "Q45380", 
+    "wikipedia": "John Lewis (civil rights leader)"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Lewis", 
+    "middle": "R.", 
+    "official_full": "John Lewis"
+  }, 
+  "social": {
+    "facebook": "RepJohnLewis", 
+    "instagram": "RepJohnLewis", 
+    "twitter": "RepJohnLewis", 
+    "twitter_id": 29450962, 
+    "youtube": "repjohnlewis", 
+    "youtube_id": "UC_jpkZzdyGhTBGBZ3UTNwjA"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "1989-01-03", 
+      "party": "Democrat", 
+      "start": "1987-01-06", 
+      "state": "GA", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "John Lewis (Georgia)", 
-        "bioguide": "L000287", 
-        "cspan": 2528, 
-        "fec": [
-            "H6GA05217"
-        ], 
-        "google_entity_id": "kg:/m/02555z", 
-        "govtrack": 400240, 
-        "house_history": 16948, 
-        "icpsr": 15431, 
-        "maplight": 341, 
-        "opensecrets": "N00002577", 
-        "thomas": "00688", 
-        "votesmart": 26820, 
-        "wikidata": "Q45380", 
-        "wikipedia": "John Lewis (civil rights leader)"
+    {
+      "district": 5, 
+      "end": "1991-01-03", 
+      "party": "Democrat", 
+      "start": "1989-01-03", 
+      "state": "GA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "John", 
-        "last": "Lewis", 
-        "middle": "R.", 
-        "official_full": "John Lewis"
+    {
+      "district": 5, 
+      "end": "1993-01-03", 
+      "party": "Democrat", 
+      "start": "1991-01-03", 
+      "state": "GA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepJohnLewis", 
-        "instagram": "RepJohnLewis", 
-        "twitter": "RepJohnLewis", 
-        "twitter_id": 29450962, 
-        "youtube": "repjohnlewis", 
-        "youtube_id": "UC_jpkZzdyGhTBGBZ3UTNwjA"
+    {
+      "district": 5, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "GA", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "1989-01-03", 
-            "party": "Democrat", 
-            "start": "1987-01-06", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "1991-01-03", 
-            "party": "Democrat", 
-            "start": "1989-01-03", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "1993-01-03", 
-            "party": "Democrat", 
-            "start": "1991-01-03", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "GA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/johnlewis"
-        }, 
-        {
-            "district": 5, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/johnlewis"
-        }, 
-        {
-            "district": 5, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/johnlewis"
-        }, 
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/johnlewis"
-        }, 
-        {
-            "address": "343 Cannon HOB; Washington DC 20515-1005", 
-            "contact_form": "http://www.house.gov/formjohnlewis/contact.html", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-0351", 
-            "office": "343 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3801", 
-            "start": "2011-01-05", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/johnlewis"
-        }, 
-        {
-            "address": "343 Cannon HOB; Washington DC 20515-1005", 
-            "contact_form": "https://johnlewis.house.gov/contact-me/email-me-zip", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0351", 
-            "office": "343 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3801", 
-            "rss_url": "http://johnlewis.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://johnlewis.house.gov"
-        }, 
-        {
-            "address": "343 Cannon HOB; Washington DC 20515-1005", 
-            "contact_form": "https://johnlewis.house.gov/contact-me/email-me-zip", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0351", 
-            "office": "343 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3801", 
-            "rss_url": "http://johnlewis.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://johnlewis.house.gov"
-        }, 
-        {
-            "address": "343 Cannon House Office Building; Washington DC 20515-1005", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0351", 
-            "office": "343 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3801", 
-            "rss_url": "http://johnlewis.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "https://johnlewis.house.gov"
-        }
-    ]
+    {
+      "district": 5, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "GA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 5, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "GA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 5, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "GA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 5, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "GA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 5, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/johnlewis"
+    }, 
+    {
+      "district": 5, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/johnlewis"
+    }, 
+    {
+      "district": 5, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/johnlewis"
+    }, 
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/johnlewis"
+    }, 
+    {
+      "address": "343 Cannon HOB; Washington DC 20515-1005", 
+      "contact_form": "http://www.house.gov/formjohnlewis/contact.html", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-0351", 
+      "office": "343 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3801", 
+      "start": "2011-01-05", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/johnlewis"
+    }, 
+    {
+      "address": "343 Cannon HOB; Washington DC 20515-1005", 
+      "contact_form": "https://johnlewis.house.gov/contact-me/email-me-zip", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0351", 
+      "office": "343 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3801", 
+      "rss_url": "http://johnlewis.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://johnlewis.house.gov"
+    }, 
+    {
+      "address": "343 Cannon HOB; Washington DC 20515-1005", 
+      "contact_form": "https://johnlewis.house.gov/contact-me/email-me-zip", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0351", 
+      "office": "343 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3801", 
+      "rss_url": "http://johnlewis.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://johnlewis.house.gov"
+    }, 
+    {
+      "address": "343 Cannon House Office Building; Washington DC 20515-1005", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0351", 
+      "office": "343 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3801", 
+      "rss_url": "http://johnlewis.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://johnlewis.house.gov"
+    }
+  ]
 }

@@ -1,60 +1,61 @@
 {
-    "bio": {
-        "birthday": "1972-08-19", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1972-08-19", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:719", 
+    "ballotpedia": "James Comer Jr.", 
+    "bioguide": "C001108", 
+    "cspan": 76619, 
+    "fec": [
+      "H6KY01110"
+    ], 
+    "google_entity_id": "kg:/m/0j65cf0", 
+    "govtrack": 412676, 
+    "icpsr": 21565, 
+    "maplight": 2166, 
+    "opensecrets": "N00038260", 
+    "votesmart": 35169, 
+    "wikidata": "Q6131602", 
+    "wikipedia": "James Comer (politician)"
+  }, 
+  "name": {
+    "first": "James", 
+    "last": "Comer", 
+    "official_full": "James Comer"
+  }, 
+  "social": {
+    "facebook": "congressmancomer", 
+    "instagram": "congressmancomer"
+  }, 
+  "terms": [
+    {
+      "address": "2184 Rayburn HOB; Washington DC 20515-1701", 
+      "contact_form": "https://comer.house.gov/contact/email", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "office": "2184 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3115", 
+      "rss_url": "https://comer.house.gov/rss.xml", 
+      "start": "2016-11-14", 
+      "state": "KY", 
+      "type": "rep", 
+      "url": "https://comer.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "James Comer Jr.", 
-        "bioguide": "C001108", 
-        "cspan": 76619, 
-        "fec": [
-            "H6KY01110"
-        ], 
-        "google_entity_id": "kg:/m/0j65cf0", 
-        "govtrack": 412676, 
-        "icpsr": 21565, 
-        "maplight": 2166, 
-        "opensecrets": "N00038260", 
-        "votesmart": 35169, 
-        "wikidata": "Q6131602", 
-        "wikipedia": "James Comer (politician)"
-    }, 
-    "name": {
-        "first": "James", 
-        "last": "Comer", 
-        "official_full": "James Comer"
-    }, 
-    "social": {
-        "facebook": "congressmancomer", 
-        "instagram": "congressmancomer"
-    }, 
-    "terms": [
-        {
-            "address": "2184 Rayburn HOB; Washington DC 20515-1701", 
-            "contact_form": "https://comer.house.gov/contact/email", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "office": "2184 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3115", 
-            "rss_url": "https://comer.house.gov/rss.xml", 
-            "start": "2016-11-14", 
-            "state": "KY", 
-            "type": "rep", 
-            "url": "https://comer.house.gov/"
-        }, 
-        {
-            "address": "1513 Longworth House Office Building; Washington DC 20515-1701", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "office": "1513 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3115", 
-            "rss_url": "https://comer.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "KY", 
-            "type": "rep", 
-            "url": "https://comer.house.gov"
-        }
-    ]
+    {
+      "address": "1513 Longworth House Office Building; Washington DC 20515-1701", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "office": "1513 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3115", 
+      "rss_url": "https://comer.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "KY", 
+      "type": "rep", 
+      "url": "https://comer.house.gov"
+    }
+  ]
 }

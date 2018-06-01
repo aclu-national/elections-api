@@ -1,220 +1,221 @@
 {
-    "bio": {
-        "birthday": "1931-09-06", 
-        "gender": "M", 
-        "religion": "Jewish"
-    }, 
-    "family": [
-        {
-            "name": "Carl Levin", 
-            "relation": "brother"
-        }
+  "bio": {
+    "birthday": "1931-09-06", 
+    "gender": "M", 
+    "religion": "Jewish"
+  }, 
+  "family": [
+    {
+      "name": "Carl Levin", 
+      "relation": "brother"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:770", 
+    "ballotpedia": "Sander Levin", 
+    "bioguide": "L000263", 
+    "cspan": 251, 
+    "fec": [
+      "H2MI17023"
     ], 
-    "id": {
-        "ballotpedia": "Sander Levin", 
-        "bioguide": "L000263", 
-        "cspan": 251, 
-        "fec": [
-            "H2MI17023"
-        ], 
-        "google_entity_id": "kg:/m/02n8p2", 
-        "govtrack": 400238, 
-        "house_history": 16921, 
-        "icpsr": 15033, 
-        "maplight": 339, 
-        "opensecrets": "N00003950", 
-        "thomas": "00683", 
-        "votesmart": 26918, 
-        "wikidata": "Q971943", 
-        "wikipedia": "Sander Levin"
+    "google_entity_id": "kg:/m/02n8p2", 
+    "govtrack": 400238, 
+    "house_history": 16921, 
+    "icpsr": 15033, 
+    "maplight": 339, 
+    "opensecrets": "N00003950", 
+    "thomas": "00683", 
+    "votesmart": 26918, 
+    "wikidata": "Q971943", 
+    "wikipedia": "Sander Levin"
+  }, 
+  "name": {
+    "first": "Sander", 
+    "last": "Levin", 
+    "middle": "M.", 
+    "official_full": "Sander M. Levin"
+  }, 
+  "social": {
+    "facebook": "RepSandyLevin", 
+    "twitter": "RepSandyLevin", 
+    "twitter_id": 25781141, 
+    "youtube": "mi12yes", 
+    "youtube_id": "UCkVlSO4vhgPTgWYzY29Z7Gg"
+  }, 
+  "terms": [
+    {
+      "district": 17, 
+      "end": "1985-01-03", 
+      "party": "Democrat", 
+      "start": "1983-01-03", 
+      "state": "MI", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Sander", 
-        "last": "Levin", 
-        "middle": "M.", 
-        "official_full": "Sander M. Levin"
+    {
+      "district": 17, 
+      "end": "1987-01-03", 
+      "party": "Democrat", 
+      "start": "1985-01-03", 
+      "state": "MI", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepSandyLevin", 
-        "twitter": "RepSandyLevin", 
-        "twitter_id": 25781141, 
-        "youtube": "mi12yes", 
-        "youtube_id": "UCkVlSO4vhgPTgWYzY29Z7Gg"
+    {
+      "district": 17, 
+      "end": "1989-01-03", 
+      "party": "Democrat", 
+      "start": "1987-01-06", 
+      "state": "MI", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 17, 
-            "end": "1985-01-03", 
-            "party": "Democrat", 
-            "start": "1983-01-03", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 17, 
-            "end": "1987-01-03", 
-            "party": "Democrat", 
-            "start": "1985-01-03", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 17, 
-            "end": "1989-01-03", 
-            "party": "Democrat", 
-            "start": "1987-01-06", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 17, 
-            "end": "1991-01-03", 
-            "party": "Democrat", 
-            "start": "1989-01-03", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 17, 
-            "end": "1993-01-03", 
-            "party": "Democrat", 
-            "start": "1991-01-03", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 12, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 12, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 12, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 12, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 12, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 12, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/levin"
-        }, 
-        {
-            "district": 12, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/levin"
-        }, 
-        {
-            "district": 12, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/levin"
-        }, 
-        {
-            "district": 12, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/levin"
-        }, 
-        {
-            "address": "1236 Longworth HOB; Washington DC 20515-2212", 
-            "contact_form": "http://www.house.gov/levin/levin_contact_email.shtml", 
-            "district": 12, 
-            "end": "2013-01-03", 
-            "fax": "202-226-1033", 
-            "office": "1236 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4961", 
-            "start": "2011-01-05", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://www.house.gov/levin"
-        }, 
-        {
-            "address": "1236 Longworth HOB; Washington DC 20515-2209", 
-            "contact_form": "https://levin.house.gov/contact-me/email-me", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-226-1033", 
-            "office": "1236 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4961", 
-            "rss_url": "http://levin.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://levin.house.gov"
-        }, 
-        {
-            "address": "1236 Longworth HOB; Washington DC 20515-2209", 
-            "contact_form": "https://levin.house.gov/contact-me/email-me", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-226-1033", 
-            "office": "1236 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4961", 
-            "rss_url": "http://levin.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://levin.house.gov"
-        }, 
-        {
-            "address": "1236 Longworth House Office Building; Washington DC 20515-2209", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-226-1033", 
-            "office": "1236 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4961", 
-            "rss_url": "http://levin.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "https://levin.house.gov"
-        }
-    ]
+    {
+      "district": 17, 
+      "end": "1991-01-03", 
+      "party": "Democrat", 
+      "start": "1989-01-03", 
+      "state": "MI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 17, 
+      "end": "1993-01-03", 
+      "party": "Democrat", 
+      "start": "1991-01-03", 
+      "state": "MI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 12, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "MI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 12, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "MI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 12, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "MI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 12, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "MI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 12, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "MI", 
+      "type": "rep"
+    }, 
+    {
+      "district": 12, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/levin"
+    }, 
+    {
+      "district": 12, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/levin"
+    }, 
+    {
+      "district": 12, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/levin"
+    }, 
+    {
+      "district": 12, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/levin"
+    }, 
+    {
+      "address": "1236 Longworth HOB; Washington DC 20515-2212", 
+      "contact_form": "http://www.house.gov/levin/levin_contact_email.shtml", 
+      "district": 12, 
+      "end": "2013-01-03", 
+      "fax": "202-226-1033", 
+      "office": "1236 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4961", 
+      "start": "2011-01-05", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/levin"
+    }, 
+    {
+      "address": "1236 Longworth HOB; Washington DC 20515-2209", 
+      "contact_form": "https://levin.house.gov/contact-me/email-me", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-226-1033", 
+      "office": "1236 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4961", 
+      "rss_url": "http://levin.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://levin.house.gov"
+    }, 
+    {
+      "address": "1236 Longworth HOB; Washington DC 20515-2209", 
+      "contact_form": "https://levin.house.gov/contact-me/email-me", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-226-1033", 
+      "office": "1236 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4961", 
+      "rss_url": "http://levin.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://levin.house.gov"
+    }, 
+    {
+      "address": "1236 Longworth House Office Building; Washington DC 20515-2209", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-226-1033", 
+      "office": "1236 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4961", 
+      "rss_url": "http://levin.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://levin.house.gov"
+    }
+  ]
 }

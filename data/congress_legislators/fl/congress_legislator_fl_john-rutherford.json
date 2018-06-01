@@ -1,45 +1,46 @@
 {
-    "bio": {
-        "birthday": "1952-09-02", 
-        "gender": "M"
-    }, 
-    "id": {
-        "bioguide": "R000609", 
-        "cspan": 104531, 
-        "fec": [
-            "H6FL04105"
-        ], 
-        "google_entity_id": "kg:/m/03zz77", 
-        "govtrack": 412692, 
-        "icpsr": 21744, 
-        "maplight": 2204, 
-        "opensecrets": "N00039777", 
-        "votesmart": 172542, 
-        "wikidata": "Q6256043", 
-        "wikipedia": "John Rutherford (Florida politician)"
-    }, 
-    "name": {
-        "first": "John", 
-        "last": "Rutherford", 
-        "official_full": "John H. Rutherford"
-    }, 
-    "social": {
-        "facebook": "RepRutherfordFL", 
-        "twitter": "RepRutherfordFL", 
-        "twitter_id": 828977216595849216
-    }, 
-    "terms": [
-        {
-            "address": "230 Cannon House Office Building; Washington DC 20515-0904", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "office": "230 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2501", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://rutherford.house.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1952-09-02", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:635", 
+    "bioguide": "R000609", 
+    "cspan": 104531, 
+    "fec": [
+      "H6FL04105"
+    ], 
+    "google_entity_id": "kg:/m/03zz77", 
+    "govtrack": 412692, 
+    "icpsr": 21744, 
+    "maplight": 2204, 
+    "opensecrets": "N00039777", 
+    "votesmart": 172542, 
+    "wikidata": "Q6256043", 
+    "wikipedia": "John Rutherford (Florida politician)"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Rutherford", 
+    "official_full": "John H. Rutherford"
+  }, 
+  "social": {
+    "facebook": "RepRutherfordFL", 
+    "twitter": "RepRutherfordFL", 
+    "twitter_id": 828977216595849216
+  }, 
+  "terms": [
+    {
+      "address": "230 Cannon House Office Building; Washington DC 20515-0904", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "office": "230 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2501", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://rutherford.house.gov"
+    }
+  ]
 }

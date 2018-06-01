@@ -1,114 +1,115 @@
 {
-    "bio": {
-        "birthday": "1950-05-14", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1950-05-14", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:563", 
+    "bioguide": "S001175", 
+    "cspan": 1027627, 
+    "fec": [
+      "H8CA12171"
+    ], 
+    "google_entity_id": "kg:/m/06k27l", 
+    "govtrack": 412259, 
+    "house_history": 22606, 
+    "icpsr": 20762, 
+    "maplight": 740, 
+    "opensecrets": "N00029649", 
+    "thomas": "01890", 
+    "votesmart": 8425, 
+    "wikidata": "Q218544", 
+    "wikipedia": "Jackie Speier"
+  }, 
+  "name": {
+    "first": "Jackie", 
+    "last": "Speier", 
+    "official_full": "Jackie Speier"
+  }, 
+  "social": {
+    "facebook": "JackieSpeier", 
+    "instagram": "jackiespeier", 
+    "twitter": "RepSpeier", 
+    "twitter_id": 24913074, 
+    "youtube": "jackiespeierca12", 
+    "youtube_id": "UCevmyTb0HSO8irVaR2gYyoA"
+  }, 
+  "terms": [
+    {
+      "district": 12, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2008-04-08", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://speier.house.gov/"
     }, 
-    "id": {
-        "bioguide": "S001175", 
-        "cspan": 1027627, 
-        "fec": [
-            "H8CA12171"
-        ], 
-        "google_entity_id": "kg:/m/06k27l", 
-        "govtrack": 412259, 
-        "house_history": 22606, 
-        "icpsr": 20762, 
-        "maplight": 740, 
-        "opensecrets": "N00029649", 
-        "thomas": "01890", 
-        "votesmart": 8425, 
-        "wikidata": "Q218544", 
-        "wikipedia": "Jackie Speier"
+    {
+      "district": 12, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://speier.house.gov/"
     }, 
-    "name": {
-        "first": "Jackie", 
-        "last": "Speier", 
-        "official_full": "Jackie Speier"
+    {
+      "address": "211 Cannon HOB; Washington DC 20515-0512", 
+      "contact_form": "http://speier.house.gov/IMA/issue_subscribe.htm", 
+      "district": 12, 
+      "end": "2013-01-03", 
+      "fax": "202-347-0956", 
+      "office": "211 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3531", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://speier.house.gov/"
     }, 
-    "social": {
-        "facebook": "JackieSpeier", 
-        "instagram": "jackiespeier", 
-        "twitter": "RepSpeier", 
-        "twitter_id": 24913074, 
-        "youtube": "jackiespeierca12", 
-        "youtube_id": "UCevmyTb0HSO8irVaR2gYyoA"
+    {
+      "address": "211 Cannon HOB; Washington DC 20515-0514", 
+      "contact_form": "https://forms.house.gov/speier/webforms/email_jackie.shtml", 
+      "district": 14, 
+      "end": "2015-01-03", 
+      "fax": "202-347-0956", 
+      "office": "211 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3531", 
+      "rss_url": "http://speier.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://speier.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 12, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2008-04-08", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://speier.house.gov/"
-        }, 
-        {
-            "district": 12, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://speier.house.gov/"
-        }, 
-        {
-            "address": "211 Cannon HOB; Washington DC 20515-0512", 
-            "contact_form": "http://speier.house.gov/IMA/issue_subscribe.htm", 
-            "district": 12, 
-            "end": "2013-01-03", 
-            "fax": "202-347-0956", 
-            "office": "211 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3531", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://speier.house.gov/"
-        }, 
-        {
-            "address": "211 Cannon HOB; Washington DC 20515-0514", 
-            "contact_form": "https://forms.house.gov/speier/webforms/email_jackie.shtml", 
-            "district": 14, 
-            "end": "2015-01-03", 
-            "fax": "202-347-0956", 
-            "office": "211 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3531", 
-            "rss_url": "http://speier.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://speier.house.gov"
-        }, 
-        {
-            "address": "2465 Rayburn HOB; Washington DC 20515-0514", 
-            "contact_form": "https://forms.house.gov/speier/webforms/email_jackie.shtml", 
-            "district": 14, 
-            "end": "2017-01-03", 
-            "fax": "202-347-0956", 
-            "office": "2465 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3531", 
-            "rss_url": "http://speier.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://speier.house.gov"
-        }, 
-        {
-            "address": "2465 Rayburn House Office Building; Washington DC 20515-0514", 
-            "district": 14, 
-            "end": "2019-01-03", 
-            "fax": "202-347-0956", 
-            "office": "2465 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3531", 
-            "rss_url": "http://speier.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://speier.house.gov"
-        }
-    ]
+    {
+      "address": "2465 Rayburn HOB; Washington DC 20515-0514", 
+      "contact_form": "https://forms.house.gov/speier/webforms/email_jackie.shtml", 
+      "district": 14, 
+      "end": "2017-01-03", 
+      "fax": "202-347-0956", 
+      "office": "2465 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3531", 
+      "rss_url": "http://speier.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://speier.house.gov"
+    }, 
+    {
+      "address": "2465 Rayburn House Office Building; Washington DC 20515-0514", 
+      "district": 14, 
+      "end": "2019-01-03", 
+      "fax": "202-347-0956", 
+      "office": "2465 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3531", 
+      "rss_url": "http://speier.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://speier.house.gov"
+    }
+  ]
 }

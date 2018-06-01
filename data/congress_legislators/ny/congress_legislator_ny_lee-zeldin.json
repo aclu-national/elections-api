@@ -1,61 +1,62 @@
 {
-    "bio": {
-        "birthday": "1980-01-30", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1980-01-30", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:870", 
+    "bioguide": "Z000017", 
+    "cspan": 61616, 
+    "fec": [
+      "H8NY01148"
+    ], 
+    "google_entity_id": "kg:/m/03h4jcq", 
+    "govtrack": 412646, 
+    "icpsr": 21539, 
+    "maplight": 2102, 
+    "opensecrets": "N00029404", 
+    "thomas": "02261", 
+    "votesmart": 110252, 
+    "wikidata": "Q16221257", 
+    "wikipedia": "Lee Zeldin"
+  }, 
+  "name": {
+    "first": "Lee", 
+    "last": "Zeldin", 
+    "official_full": "Lee M. Zeldin"
+  }, 
+  "social": {
+    "facebook": "RepLeeZeldin", 
+    "twitter": "RepLeeZeldin", 
+    "twitter_id": 2750127259, 
+    "youtube_id": "UCHzZuesCPDka2NhZO8icqzA"
+  }, 
+  "terms": [
+    {
+      "address": "1517 Longworth HOB; Washington DC 20515-3201", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3143", 
+      "office": "1517 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3826", 
+      "start": "2015-01-06", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://zeldin.house.gov"
     }, 
-    "id": {
-        "bioguide": "Z000017", 
-        "cspan": 61616, 
-        "fec": [
-            "H8NY01148"
-        ], 
-        "google_entity_id": "kg:/m/03h4jcq", 
-        "govtrack": 412646, 
-        "icpsr": 21539, 
-        "maplight": 2102, 
-        "opensecrets": "N00029404", 
-        "thomas": "02261", 
-        "votesmart": 110252, 
-        "wikidata": "Q16221257", 
-        "wikipedia": "Lee Zeldin"
-    }, 
-    "name": {
-        "first": "Lee", 
-        "last": "Zeldin", 
-        "official_full": "Lee M. Zeldin"
-    }, 
-    "social": {
-        "facebook": "RepLeeZeldin", 
-        "twitter": "RepLeeZeldin", 
-        "twitter_id": 2750127259, 
-        "youtube_id": "UCHzZuesCPDka2NhZO8icqzA"
-    }, 
-    "terms": [
-        {
-            "address": "1517 Longworth HOB; Washington DC 20515-3201", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3143", 
-            "office": "1517 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3826", 
-            "start": "2015-01-06", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "https://zeldin.house.gov"
-        }, 
-        {
-            "address": "1517 Longworth House Office Building; Washington DC 20515-3201", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3143", 
-            "office": "1517 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3826", 
-            "start": "2017-01-03", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "https://zeldin.house.gov"
-        }
-    ]
+    {
+      "address": "1517 Longworth House Office Building; Washington DC 20515-3201", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3143", 
+      "office": "1517 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3826", 
+      "start": "2017-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://zeldin.house.gov"
+    }
+  ]
 }

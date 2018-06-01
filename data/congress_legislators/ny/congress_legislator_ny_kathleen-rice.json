@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1965-02-15", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1965-02-15", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:868", 
+    "bioguide": "R000602", 
+    "cspan": 76332, 
+    "fec": [
+      "H4NY04075"
+    ], 
+    "google_entity_id": "kg:/m/08z1cf", 
+    "govtrack": 412647, 
+    "house_history": 15032412351, 
+    "icpsr": 21540, 
+    "maplight": 2103, 
+    "opensecrets": "N00035927", 
+    "thomas": "02262", 
+    "votesmart": 127653, 
+    "wikidata": "Q6376887", 
+    "wikipedia": "Kathleen Rice"
+  }, 
+  "name": {
+    "first": "Kathleen", 
+    "last": "Rice", 
+    "official_full": "Kathleen M. Rice"
+  }, 
+  "social": {
+    "facebook": "RepKathleenRice", 
+    "twitter": "RepKathleenRice", 
+    "twitter_id": 2970462034, 
+    "youtube_id": "UCLYLmjrGtzzCFXMWPBxHAug"
+  }, 
+  "terms": [
+    {
+      "address": "1508 Longworth HOB; Washington DC 20515-3204", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5758", 
+      "office": "1508 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5516", 
+      "start": "2015-01-06", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "http://kathleenrice.house.gov"
     }, 
-    "id": {
-        "bioguide": "R000602", 
-        "cspan": 76332, 
-        "fec": [
-            "H4NY04075"
-        ], 
-        "google_entity_id": "kg:/m/08z1cf", 
-        "govtrack": 412647, 
-        "house_history": 15032412351, 
-        "icpsr": 21540, 
-        "maplight": 2103, 
-        "opensecrets": "N00035927", 
-        "thomas": "02262", 
-        "votesmart": 127653, 
-        "wikidata": "Q6376887", 
-        "wikipedia": "Kathleen Rice"
-    }, 
-    "name": {
-        "first": "Kathleen", 
-        "last": "Rice", 
-        "official_full": "Kathleen M. Rice"
-    }, 
-    "social": {
-        "facebook": "RepKathleenRice", 
-        "twitter": "RepKathleenRice", 
-        "twitter_id": 2970462034, 
-        "youtube_id": "UCLYLmjrGtzzCFXMWPBxHAug"
-    }, 
-    "terms": [
-        {
-            "address": "1508 Longworth HOB; Washington DC 20515-3204", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5758", 
-            "office": "1508 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5516", 
-            "start": "2015-01-06", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "http://kathleenrice.house.gov"
-        }, 
-        {
-            "address": "1508 Longworth House Office Building; Washington DC 20515-3204", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5758", 
-            "office": "1508 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5516", 
-            "start": "2017-01-03", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "https://kathleenrice.house.gov"
-        }
-    ]
+    {
+      "address": "1508 Longworth House Office Building; Washington DC 20515-3204", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5758", 
+      "office": "1508 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5516", 
+      "start": "2017-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://kathleenrice.house.gov"
+    }
+  ]
 }

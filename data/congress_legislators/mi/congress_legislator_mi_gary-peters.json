@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1958-12-01", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1958-12-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:764", 
+    "ballotpedia": "Gary Peters", 
+    "bioguide": "P000595", 
+    "cspan": 50199, 
+    "fec": [
+      "H8MI09068", 
+      "S4MI00355"
+    ], 
+    "google_entity_id": "kg:/m/02x0lnt", 
+    "govtrack": 412305, 
+    "house_history": 20028, 
+    "icpsr": 20923, 
+    "lis": "S380", 
+    "maplight": 787, 
+    "opensecrets": "N00029277", 
+    "thomas": "01929", 
+    "votesmart": 8749, 
+    "wikidata": "Q1494930", 
+    "wikipedia": "Gary Peters (politician)"
+  }, 
+  "name": {
+    "first": "Gary", 
+    "last": "Peters", 
+    "middle": "C.", 
+    "official_full": "Gary C. Peters"
+  }, 
+  "social": {
+    "facebook": "SenGaryPeters", 
+    "instagram": "sengarypeters", 
+    "instagram_id": 1640246681, 
+    "twitter": "SenGaryPeters", 
+    "twitter_id": 236511574, 
+    "youtube": "RepGaryPeters", 
+    "youtube_id": "UC7LYNbnKSK2VZqQ98YROWHQ"
+  }, 
+  "terms": [
+    {
+      "district": 9, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://peters.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Gary Peters", 
-        "bioguide": "P000595", 
-        "cspan": 50199, 
-        "fec": [
-            "H8MI09068", 
-            "S4MI00355"
-        ], 
-        "google_entity_id": "kg:/m/02x0lnt", 
-        "govtrack": 412305, 
-        "house_history": 20028, 
-        "icpsr": 20923, 
-        "lis": "S380", 
-        "maplight": 787, 
-        "opensecrets": "N00029277", 
-        "thomas": "01929", 
-        "votesmart": 8749, 
-        "wikidata": "Q1494930", 
-        "wikipedia": "Gary Peters (politician)"
+    {
+      "address": "1609 Longworth HOB; Washington DC 20515-2209", 
+      "contact_form": "https://forms.house.gov/peters/contact-form.shtml", 
+      "district": 9, 
+      "end": "2013-01-03", 
+      "fax": "202-226-2356", 
+      "office": "1609 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5802", 
+      "start": "2011-01-05", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://peters.house.gov"
     }, 
-    "name": {
-        "first": "Gary", 
-        "last": "Peters", 
-        "middle": "C.", 
-        "official_full": "Gary C. Peters"
+    {
+      "address": "1609 Longworth HOB; Washington DC 20515-2214", 
+      "contact_form": "https://petersforms.house.gov/contact-us-form", 
+      "district": 14, 
+      "end": "2015-01-03", 
+      "fax": "202-226-2356", 
+      "office": "1609 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5802", 
+      "rss_url": "http://peters.house.gov/common/rss/?rss=22", 
+      "start": "2013-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://peters.house.gov"
     }, 
-    "social": {
-        "facebook": "SenGaryPeters", 
-        "instagram": "sengarypeters", 
-        "instagram_id": 1640246681, 
-        "twitter": "SenGaryPeters", 
-        "twitter_id": 236511574, 
-        "youtube": "RepGaryPeters", 
-        "youtube_id": "UC7LYNbnKSK2VZqQ98YROWHQ"
-    }, 
-    "terms": [
-        {
-            "district": 9, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://peters.house.gov"
-        }, 
-        {
-            "address": "1609 Longworth HOB; Washington DC 20515-2209", 
-            "contact_form": "https://forms.house.gov/peters/contact-form.shtml", 
-            "district": 9, 
-            "end": "2013-01-03", 
-            "fax": "202-226-2356", 
-            "office": "1609 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5802", 
-            "start": "2011-01-05", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://peters.house.gov"
-        }, 
-        {
-            "address": "1609 Longworth HOB; Washington DC 20515-2214", 
-            "contact_form": "https://petersforms.house.gov/contact-us-form", 
-            "district": 14, 
-            "end": "2015-01-03", 
-            "fax": "202-226-2356", 
-            "office": "1609 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5802", 
-            "rss_url": "http://peters.house.gov/common/rss/?rss=22", 
-            "start": "2013-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://peters.house.gov"
-        }, 
-        {
-            "address": "724 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.peters.senate.gov/contact/email-gary", 
-            "end": "2021-01-03", 
-            "fax": "202-226-2356", 
-            "office": "724 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-6221", 
-            "start": "2015-01-06", 
-            "state": "MI", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.peters.senate.gov"
-        }
-    ]
+    {
+      "address": "724 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.peters.senate.gov/contact/email-gary", 
+      "end": "2021-01-03", 
+      "fax": "202-226-2356", 
+      "office": "724 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-6221", 
+      "start": "2015-01-06", 
+      "state": "MI", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.peters.senate.gov"
+    }
+  ]
 }

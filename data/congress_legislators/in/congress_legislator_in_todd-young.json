@@ -1,100 +1,101 @@
 {
-    "bio": {
-        "birthday": "1972-08-24", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1972-08-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:708", 
+    "ballotpedia": "Todd Young", 
+    "bioguide": "Y000064", 
+    "cspan": 1033743, 
+    "fec": [
+      "H0IN09070", 
+      "S6IN00191"
+    ], 
+    "google_entity_id": "kg:/m/0ds030m", 
+    "govtrack": 412428, 
+    "house_history": 21109, 
+    "icpsr": 21133, 
+    "lis": "S391", 
+    "maplight": 1439, 
+    "opensecrets": "N00030670", 
+    "thomas": "02019", 
+    "votesmart": 120345, 
+    "wikidata": "Q25483", 
+    "wikipedia": "Todd Young"
+  }, 
+  "name": {
+    "first": "Todd", 
+    "last": "Young", 
+    "middle": "C.", 
+    "official_full": "Todd Young"
+  }, 
+  "social": {
+    "facebook": "SenatorToddYoung", 
+    "instagram": "sentoddyoung", 
+    "twitter": "SenToddYoung", 
+    "twitter_id": 234128524, 
+    "youtube": "RepToddYoung", 
+    "youtube_id": "UCuknj4PGn91gHDNAfboZEgQ"
+  }, 
+  "terms": [
+    {
+      "address": "1721 Longworth HOB; Washington DC 20515-1409", 
+      "district": 9, 
+      "end": "2013-01-03", 
+      "fax": "202-226-6866", 
+      "office": "1721 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5315", 
+      "start": "2011-01-05", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://toddyoung.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Todd Young", 
-        "bioguide": "Y000064", 
-        "cspan": 1033743, 
-        "fec": [
-            "H0IN09070", 
-            "S6IN00191"
-        ], 
-        "google_entity_id": "kg:/m/0ds030m", 
-        "govtrack": 412428, 
-        "house_history": 21109, 
-        "icpsr": 21133, 
-        "lis": "S391", 
-        "maplight": 1439, 
-        "opensecrets": "N00030670", 
-        "thomas": "02019", 
-        "votesmart": 120345, 
-        "wikidata": "Q25483", 
-        "wikipedia": "Todd Young"
+    {
+      "address": "1007 Longworth HOB; Washington DC 20515-1409", 
+      "contact_form": "https://toddyoungforms.house.gov/give-me-your-opinion", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-226-6866", 
+      "office": "1007 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5315", 
+      "rss_url": "http://toddyoung.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2013-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://toddyoung.house.gov"
     }, 
-    "name": {
-        "first": "Todd", 
-        "last": "Young", 
-        "middle": "C.", 
-        "official_full": "Todd Young"
+    {
+      "address": "1007 Longworth HOB; Washington DC 20515-1409", 
+      "contact_form": "https://toddyoungforms.house.gov/give-me-your-opinion", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-226-6866", 
+      "office": "1007 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5315", 
+      "rss_url": "http://toddyoung.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2015-01-06", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://toddyoung.house.gov"
     }, 
-    "social": {
-        "facebook": "SenatorToddYoung", 
-        "instagram": "sentoddyoung", 
-        "twitter": "SenToddYoung", 
-        "twitter_id": 234128524, 
-        "youtube": "RepToddYoung", 
-        "youtube_id": "UCuknj4PGn91gHDNAfboZEgQ"
-    }, 
-    "terms": [
-        {
-            "address": "1721 Longworth HOB; Washington DC 20515-1409", 
-            "district": 9, 
-            "end": "2013-01-03", 
-            "fax": "202-226-6866", 
-            "office": "1721 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5315", 
-            "start": "2011-01-05", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://toddyoung.house.gov/"
-        }, 
-        {
-            "address": "1007 Longworth HOB; Washington DC 20515-1409", 
-            "contact_form": "https://toddyoungforms.house.gov/give-me-your-opinion", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-226-6866", 
-            "office": "1007 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5315", 
-            "rss_url": "http://toddyoung.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2013-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://toddyoung.house.gov"
-        }, 
-        {
-            "address": "1007 Longworth HOB; Washington DC 20515-1409", 
-            "contact_form": "https://toddyoungforms.house.gov/give-me-your-opinion", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-226-6866", 
-            "office": "1007 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5315", 
-            "rss_url": "http://toddyoung.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2015-01-06", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://toddyoung.house.gov"
-        }, 
-        {
-            "address": "400 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.young.senate.gov/contact", 
-            "end": "2023-01-03", 
-            "fax": "202-226-6866", 
-            "office": "400 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-5623", 
-            "start": "2017-01-03", 
-            "state": "IN", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.young.senate.gov"
-        }
-    ]
+    {
+      "address": "400 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.young.senate.gov/contact", 
+      "end": "2023-01-03", 
+      "fax": "202-226-6866", 
+      "office": "400 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5623", 
+      "start": "2017-01-03", 
+      "state": "IN", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.young.senate.gov"
+    }
+  ]
 }

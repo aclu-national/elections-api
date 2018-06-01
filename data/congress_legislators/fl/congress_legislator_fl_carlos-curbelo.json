@@ -1,60 +1,61 @@
 {
-    "bio": {
-        "birthday": "1980-03-01", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1980-03-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:625", 
+    "bioguide": "C001107", 
+    "cspan": 70472, 
+    "fec": [
+      "H4FL26038"
+    ], 
+    "google_entity_id": "kg:/m/0127nzmk", 
+    "govtrack": 412621, 
+    "icpsr": 21512, 
+    "maplight": 2077, 
+    "opensecrets": "N00035403", 
+    "thomas": "02235", 
+    "votesmart": 137676, 
+    "wikidata": "Q18631533", 
+    "wikipedia": "Carlos Curbelo"
+  }, 
+  "name": {
+    "first": "Carlos", 
+    "last": "Curbelo", 
+    "official_full": "Carlos Curbelo"
+  }, 
+  "social": {
+    "facebook": "repcurbelo", 
+    "instagram": "repcurbelo", 
+    "twitter": "RepCurbelo", 
+    "twitter_id": 2853309155, 
+    "youtube_id": "UC6SRoWRNiv5U4a7ovRICwaw"
+  }, 
+  "terms": [
+    {
+      "address": "1429 Longworth HOB; Washington DC 20515-0926", 
+      "district": 26, 
+      "end": "2017-01-03", 
+      "office": "1429 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2778", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://curbelo.house.gov"
     }, 
-    "id": {
-        "bioguide": "C001107", 
-        "cspan": 70472, 
-        "fec": [
-            "H4FL26038"
-        ], 
-        "google_entity_id": "kg:/m/0127nzmk", 
-        "govtrack": 412621, 
-        "icpsr": 21512, 
-        "maplight": 2077, 
-        "opensecrets": "N00035403", 
-        "thomas": "02235", 
-        "votesmart": 137676, 
-        "wikidata": "Q18631533", 
-        "wikipedia": "Carlos Curbelo"
-    }, 
-    "name": {
-        "first": "Carlos", 
-        "last": "Curbelo", 
-        "official_full": "Carlos Curbelo"
-    }, 
-    "social": {
-        "facebook": "repcurbelo", 
-        "instagram": "repcurbelo", 
-        "twitter": "RepCurbelo", 
-        "twitter_id": 2853309155, 
-        "youtube_id": "UC6SRoWRNiv5U4a7ovRICwaw"
-    }, 
-    "terms": [
-        {
-            "address": "1429 Longworth HOB; Washington DC 20515-0926", 
-            "district": 26, 
-            "end": "2017-01-03", 
-            "office": "1429 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2778", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://curbelo.house.gov"
-        }, 
-        {
-            "address": "1404 Longworth House Office Building; Washington DC 20515-0926", 
-            "district": 26, 
-            "end": "2019-01-03", 
-            "office": "1404 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2778", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://curbelo.house.gov"
-        }
-    ]
+    {
+      "address": "1404 Longworth House Office Building; Washington DC 20515-0926", 
+      "district": 26, 
+      "end": "2019-01-03", 
+      "office": "1404 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2778", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://curbelo.house.gov"
+    }
+  ]
 }

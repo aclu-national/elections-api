@@ -1,84 +1,85 @@
 {
-    "bio": {
-        "birthday": "1959-08-25", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1959-08-25", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:610", 
+    "ballotpedia": "Elzabeth Esty", 
+    "bioguide": "E000293", 
+    "cspan": 1020906, 
+    "fec": [
+      "H2CT05131"
+    ], 
+    "google_entity_id": "kg:/m/0l8ll7_", 
+    "govtrack": 412524, 
+    "house_history": 15032387067, 
+    "icpsr": 21316, 
+    "maplight": 1748, 
+    "opensecrets": "N00033217", 
+    "thomas": "02114", 
+    "votesmart": 72826, 
+    "wikidata": "Q3090454", 
+    "wikipedia": "Elizabeth Esty"
+  }, 
+  "name": {
+    "first": "Elizabeth", 
+    "last": "Esty", 
+    "middle": "H.", 
+    "official_full": "Elizabeth H. Esty"
+  }, 
+  "social": {
+    "facebook": "RepEsty", 
+    "instagram": "repesty", 
+    "twitter": "RepEsty", 
+    "twitter_id": 1060984272, 
+    "youtube": "RepEsty", 
+    "youtube_id": "UCJoc9OfUHVbx0Z7V055sbCA"
+  }, 
+  "terms": [
+    {
+      "address": "509 Cannon HOB; Washington DC 20515-0705", 
+      "contact_form": "http://esty.house.gov/contact", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5933", 
+      "office": "509 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4476", 
+      "rss_url": "http://esty.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "http://esty.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Elzabeth Esty", 
-        "bioguide": "E000293", 
-        "cspan": 1020906, 
-        "fec": [
-            "H2CT05131"
-        ], 
-        "google_entity_id": "kg:/m/0l8ll7_", 
-        "govtrack": 412524, 
-        "house_history": 15032387067, 
-        "icpsr": 21316, 
-        "maplight": 1748, 
-        "opensecrets": "N00033217", 
-        "thomas": "02114", 
-        "votesmart": 72826, 
-        "wikidata": "Q3090454", 
-        "wikipedia": "Elizabeth Esty"
+    {
+      "address": "405 Cannon HOB; Washington DC 20515-0705", 
+      "contact_form": "http://esty.house.gov/contact", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5933", 
+      "office": "405 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4476", 
+      "rss_url": "http://esty.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "http://esty.house.gov"
     }, 
-    "name": {
-        "first": "Elizabeth", 
-        "last": "Esty", 
-        "middle": "H.", 
-        "official_full": "Elizabeth H. Esty"
-    }, 
-    "social": {
-        "facebook": "RepEsty", 
-        "instagram": "repesty", 
-        "twitter": "RepEsty", 
-        "twitter_id": 1060984272, 
-        "youtube": "RepEsty", 
-        "youtube_id": "UCJoc9OfUHVbx0Z7V055sbCA"
-    }, 
-    "terms": [
-        {
-            "address": "509 Cannon HOB; Washington DC 20515-0705", 
-            "contact_form": "http://esty.house.gov/contact", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5933", 
-            "office": "509 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4476", 
-            "rss_url": "http://esty.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CT", 
-            "type": "rep", 
-            "url": "http://esty.house.gov"
-        }, 
-        {
-            "address": "405 Cannon HOB; Washington DC 20515-0705", 
-            "contact_form": "http://esty.house.gov/contact", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5933", 
-            "office": "405 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4476", 
-            "rss_url": "http://esty.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CT", 
-            "type": "rep", 
-            "url": "http://esty.house.gov"
-        }, 
-        {
-            "address": "221 Cannon House Office Building; Washington DC 20515-0705", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5933", 
-            "office": "221 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4476", 
-            "rss_url": "http://esty.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CT", 
-            "type": "rep", 
-            "url": "https://esty.house.gov"
-        }
-    ]
+    {
+      "address": "221 Cannon House Office Building; Washington DC 20515-0705", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5933", 
+      "office": "221 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4476", 
+      "rss_url": "http://esty.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "https://esty.house.gov"
+    }
+  ]
 }

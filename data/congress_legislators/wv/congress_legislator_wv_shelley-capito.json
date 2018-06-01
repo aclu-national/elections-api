@@ -1,137 +1,138 @@
 {
-    "bio": {
-        "birthday": "1953-11-26", 
-        "gender": "F", 
-        "religion": "Presbyterian"
-    }, 
-    "family": [
-        {
-            "name": "Arch Alfred Moore Jr.", 
-            "relation": "daughter"
-        }
+  "bio": {
+    "birthday": "1953-11-26", 
+    "gender": "F", 
+    "religion": "Presbyterian"
+  }, 
+  "family": [
+    {
+      "name": "Arch Alfred Moore Jr.", 
+      "relation": "daughter"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1039", 
+    "ballotpedia": "Shelley Moore Capito", 
+    "bioguide": "C001047", 
+    "cspan": 83737, 
+    "fec": [
+      "H0WV02138", 
+      "S4WV00159"
     ], 
-    "id": {
-        "ballotpedia": "Shelley Moore Capito", 
-        "bioguide": "C001047", 
-        "cspan": 83737, 
-        "fec": [
-            "H0WV02138", 
-            "S4WV00159"
-        ], 
-        "google_entity_id": "kg:/m/024pwq", 
-        "govtrack": 400061, 
-        "house_history": 11762, 
-        "icpsr": 20146, 
-        "lis": "S372", 
-        "maplight": 179, 
-        "opensecrets": "N00009771", 
-        "thomas": "01676", 
-        "votesmart": 11701, 
-        "wikidata": "Q459618", 
-        "wikipedia": "Shelley Moore Capito"
+    "google_entity_id": "kg:/m/024pwq", 
+    "govtrack": 400061, 
+    "house_history": 11762, 
+    "icpsr": 20146, 
+    "lis": "S372", 
+    "maplight": 179, 
+    "opensecrets": "N00009771", 
+    "thomas": "01676", 
+    "votesmart": 11701, 
+    "wikidata": "Q459618", 
+    "wikipedia": "Shelley Moore Capito"
+  }, 
+  "name": {
+    "first": "Shelley", 
+    "last": "Capito", 
+    "middle": "Moore", 
+    "official_full": "Shelley Moore Capito"
+  }, 
+  "social": {
+    "facebook": "senshelley", 
+    "instagram": "sencapito", 
+    "instagram_id": 1640447624, 
+    "twitter": "SenCapito", 
+    "twitter_id": 193794406, 
+    "youtube_id": "UCbiXdR4XQ3vD9Xp5lfR9QXw"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "WV", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Shelley", 
-        "last": "Capito", 
-        "middle": "Moore", 
-        "official_full": "Shelley Moore Capito"
+    {
+      "district": 2, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "http://www.house.gov/capito"
     }, 
-    "social": {
-        "facebook": "senshelley", 
-        "instagram": "sencapito", 
-        "instagram_id": 1640447624, 
-        "twitter": "SenCapito", 
-        "twitter_id": 193794406, 
-        "youtube_id": "UCbiXdR4XQ3vD9Xp5lfR9QXw"
+    {
+      "district": 2, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "http://www.house.gov/capito"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "WV", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "http://www.house.gov/capito"
-        }, 
-        {
-            "district": 2, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "http://www.house.gov/capito"
-        }, 
-        {
-            "district": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "http://capito.house.gov"
-        }, 
-        {
-            "district": 2, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "http://capito.house.gov"
-        }, 
-        {
-            "address": "2443 Rayburn HOB; Washington DC 20515-4802", 
-            "contact_form": "https://forms.house.gov/wyr/welcome.shtml", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "fax": "202-225-7856", 
-            "office": "2443 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2711", 
-            "start": "2011-01-05", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "http://capito.house.gov"
-        }, 
-        {
-            "address": "2366 Rayburn HOB; Washington DC 20515-4802", 
-            "contact_form": "https://capitoforms.house.gov/email-shelley/", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-7856", 
-            "office": "2366 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2711", 
-            "rss_url": "http://capito.house.gov/common/rss//index.cfm?rss=85", 
-            "start": "2013-01-03", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "http://capito.house.gov"
-        }, 
-        {
-            "address": "172 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.capito.senate.gov/contact/contact-shelley", 
-            "end": "2021-01-03", 
-            "fax": "202-225-7856", 
-            "office": "172 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6472", 
-            "start": "2015-01-06", 
-            "state": "WV", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.capito.senate.gov"
-        }
-    ]
+    {
+      "district": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "http://capito.house.gov"
+    }, 
+    {
+      "district": 2, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "http://capito.house.gov"
+    }, 
+    {
+      "address": "2443 Rayburn HOB; Washington DC 20515-4802", 
+      "contact_form": "https://forms.house.gov/wyr/welcome.shtml", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "fax": "202-225-7856", 
+      "office": "2443 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2711", 
+      "start": "2011-01-05", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "http://capito.house.gov"
+    }, 
+    {
+      "address": "2366 Rayburn HOB; Washington DC 20515-4802", 
+      "contact_form": "https://capitoforms.house.gov/email-shelley/", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-7856", 
+      "office": "2366 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2711", 
+      "rss_url": "http://capito.house.gov/common/rss//index.cfm?rss=85", 
+      "start": "2013-01-03", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "http://capito.house.gov"
+    }, 
+    {
+      "address": "172 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.capito.senate.gov/contact/contact-shelley", 
+      "end": "2021-01-03", 
+      "fax": "202-225-7856", 
+      "office": "172 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6472", 
+      "start": "2015-01-06", 
+      "state": "WV", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.capito.senate.gov"
+    }
+  ]
 }

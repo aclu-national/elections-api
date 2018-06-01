@@ -1,105 +1,106 @@
 {
-    "bio": {
-        "birthday": "1951-10-19", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1951-10-19", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:905", 
+    "ballotpedia": "Kurt Schrader", 
+    "bioguide": "S001180", 
+    "cspan": 1031358, 
+    "fec": [
+      "H8OR05107"
+    ], 
+    "google_entity_id": "kg:/m/0412ntl", 
+    "govtrack": 412315, 
+    "house_history": 22616, 
+    "icpsr": 20944, 
+    "maplight": 797, 
+    "opensecrets": "N00030071", 
+    "thomas": "01950", 
+    "votesmart": 10813, 
+    "wikidata": "Q1387868", 
+    "wikipedia": "Kurt Schrader"
+  }, 
+  "name": {
+    "first": "Kurt", 
+    "last": "Schrader", 
+    "official_full": "Kurt Schrader"
+  }, 
+  "social": {
+    "facebook": "repschrader", 
+    "twitter": "RepSchrader", 
+    "twitter_id": 20545793, 
+    "youtube": "repkurtschrader", 
+    "youtube_id": "UCrWRXVaGJtcImc_kknuDsAw"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "http://schrader.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Kurt Schrader", 
-        "bioguide": "S001180", 
-        "cspan": 1031358, 
-        "fec": [
-            "H8OR05107"
-        ], 
-        "google_entity_id": "kg:/m/0412ntl", 
-        "govtrack": 412315, 
-        "house_history": 22616, 
-        "icpsr": 20944, 
-        "maplight": 797, 
-        "opensecrets": "N00030071", 
-        "thomas": "01950", 
-        "votesmart": 10813, 
-        "wikidata": "Q1387868", 
-        "wikipedia": "Kurt Schrader"
+    {
+      "address": "314 Cannon HOB; Washington DC 20515-3705", 
+      "contact_form": "https://forms.house.gov/schrader/contact-form.shtml", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5699", 
+      "office": "314 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5711", 
+      "start": "2011-01-05", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "http://schrader.house.gov"
     }, 
-    "name": {
-        "first": "Kurt", 
-        "last": "Schrader", 
-        "official_full": "Kurt Schrader"
+    {
+      "address": "108 Cannon HOB; Washington DC 20515-3705", 
+      "contact_form": "https://schrader.house.gov/forms/writeyourrep/", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5699", 
+      "office": "108 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5711", 
+      "rss_url": "http://schrader.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "http://schrader.house.gov"
     }, 
-    "social": {
-        "facebook": "repschrader", 
-        "twitter": "RepSchrader", 
-        "twitter_id": 20545793, 
-        "youtube": "repkurtschrader", 
-        "youtube_id": "UCrWRXVaGJtcImc_kknuDsAw"
+    {
+      "address": "2431 Rayburn HOB; Washington DC 20515-3705", 
+      "contact_form": "https://schrader.house.gov/contact", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5699", 
+      "office": "2431 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5711", 
+      "rss_url": "http://schrader.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "http://schrader.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "http://schrader.house.gov"
-        }, 
-        {
-            "address": "314 Cannon HOB; Washington DC 20515-3705", 
-            "contact_form": "https://forms.house.gov/schrader/contact-form.shtml", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5699", 
-            "office": "314 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5711", 
-            "start": "2011-01-05", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "http://schrader.house.gov"
-        }, 
-        {
-            "address": "108 Cannon HOB; Washington DC 20515-3705", 
-            "contact_form": "https://schrader.house.gov/forms/writeyourrep/", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5699", 
-            "office": "108 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5711", 
-            "rss_url": "http://schrader.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "http://schrader.house.gov"
-        }, 
-        {
-            "address": "2431 Rayburn HOB; Washington DC 20515-3705", 
-            "contact_form": "https://schrader.house.gov/contact", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5699", 
-            "office": "2431 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5711", 
-            "rss_url": "http://schrader.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "http://schrader.house.gov"
-        }, 
-        {
-            "address": "2431 Rayburn House Office Building; Washington DC 20515-3705", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5699", 
-            "office": "2431 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5711", 
-            "rss_url": "http://schrader.house.gov/news/rss.aspx", 
-            "start": "2017-01-10", 
-            "state": "OR", 
-            "type": "rep", 
-            "url": "https://schrader.house.gov"
-        }
-    ]
+    {
+      "address": "2431 Rayburn House Office Building; Washington DC 20515-3705", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5699", 
+      "office": "2431 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5711", 
+      "rss_url": "http://schrader.house.gov/news/rss.aspx", 
+      "start": "2017-01-10", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "https://schrader.house.gov"
+    }
+  ]
 }

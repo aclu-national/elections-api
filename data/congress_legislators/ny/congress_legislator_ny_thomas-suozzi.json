@@ -1,46 +1,47 @@
 {
-    "bio": {
-        "birthday": "1962-08-31", 
-        "gender": "M"
-    }, 
-    "id": {
-        "bioguide": "S001201", 
-        "cspan": 104747, 
-        "fec": [
-            "H6NY03247"
-        ], 
-        "google_entity_id": "kg:/m/060n4d", 
-        "govtrack": 412717, 
-        "icpsr": 21747, 
-        "maplight": 2229, 
-        "opensecrets": "N00038742", 
-        "votesmart": 92111, 
-        "wikidata": "Q7794276", 
-        "wikipedia": "Thomas Suozzi"
-    }, 
-    "name": {
-        "first": "Thomas", 
-        "last": "Suozzi", 
-        "official_full": "Thomas R. Suozzi"
-    }, 
-    "social": {
-        "facebook": "RepTomSuozzi", 
-        "twitter": "RepTomSuozzi", 
-        "twitter_id": 816705409486618624
-    }, 
-    "terms": [
-        {
-            "address": "226 Cannon House Office Building; Washington DC 20515-3203", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4669", 
-            "office": "226 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3335", 
-            "start": "2017-01-03", 
-            "state": "NY", 
-            "type": "rep", 
-            "url": "https://suozzi.house.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1962-08-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:876", 
+    "bioguide": "S001201", 
+    "cspan": 104747, 
+    "fec": [
+      "H6NY03247"
+    ], 
+    "google_entity_id": "kg:/m/060n4d", 
+    "govtrack": 412717, 
+    "icpsr": 21747, 
+    "maplight": 2229, 
+    "opensecrets": "N00038742", 
+    "votesmart": 92111, 
+    "wikidata": "Q7794276", 
+    "wikipedia": "Thomas Suozzi"
+  }, 
+  "name": {
+    "first": "Thomas", 
+    "last": "Suozzi", 
+    "official_full": "Thomas R. Suozzi"
+  }, 
+  "social": {
+    "facebook": "RepTomSuozzi", 
+    "twitter": "RepTomSuozzi", 
+    "twitter_id": 816705409486618624
+  }, 
+  "terms": [
+    {
+      "address": "226 Cannon House Office Building; Washington DC 20515-3203", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4669", 
+      "office": "226 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3335", 
+      "start": "2017-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://suozzi.house.gov"
+    }
+  ]
 }

@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1975-12-06", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1975-12-06", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:992", 
+    "bioguide": "L000584", 
+    "cspan": 67205, 
+    "fec": [
+      "H2UT04023"
+    ], 
+    "google_entity_id": "kg:/m/09v75sn", 
+    "govtrack": 412656, 
+    "house_history": 15032411201, 
+    "icpsr": 21552, 
+    "maplight": 2112, 
+    "opensecrets": "N00033842", 
+    "thomas": "02271", 
+    "votesmart": 135957, 
+    "wikidata": "Q11112119", 
+    "wikipedia": "Mia Love"
+  }, 
+  "name": {
+    "first": "Mia", 
+    "last": "Love", 
+    "official_full": "Mia B. Love"
+  }, 
+  "social": {
+    "facebook": "repmialove", 
+    "twitter": "repmialove", 
+    "twitter_id": 2976598347, 
+    "youtube_id": "UCqHVv1qerDPYaH9NbyWyxtg"
+  }, 
+  "terms": [
+    {
+      "address": "217 Cannon HOB; Washington DC 20515-4404", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5638", 
+      "office": "217 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3011", 
+      "start": "2015-01-06", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://love.house.gov"
     }, 
-    "id": {
-        "bioguide": "L000584", 
-        "cspan": 67205, 
-        "fec": [
-            "H2UT04023"
-        ], 
-        "google_entity_id": "kg:/m/09v75sn", 
-        "govtrack": 412656, 
-        "house_history": 15032411201, 
-        "icpsr": 21552, 
-        "maplight": 2112, 
-        "opensecrets": "N00033842", 
-        "thomas": "02271", 
-        "votesmart": 135957, 
-        "wikidata": "Q11112119", 
-        "wikipedia": "Mia Love"
-    }, 
-    "name": {
-        "first": "Mia", 
-        "last": "Love", 
-        "official_full": "Mia B. Love"
-    }, 
-    "social": {
-        "facebook": "repmialove", 
-        "twitter": "repmialove", 
-        "twitter_id": 2976598347, 
-        "youtube_id": "UCqHVv1qerDPYaH9NbyWyxtg"
-    }, 
-    "terms": [
-        {
-            "address": "217 Cannon HOB; Washington DC 20515-4404", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5638", 
-            "office": "217 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3011", 
-            "start": "2015-01-06", 
-            "state": "UT", 
-            "type": "rep", 
-            "url": "https://love.house.gov"
-        }, 
-        {
-            "address": "217 Cannon House Office Building; Washington DC 20515-4404", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5638", 
-            "office": "217 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3011", 
-            "start": "2017-01-03", 
-            "state": "UT", 
-            "type": "rep", 
-            "url": "https://love.house.gov"
-        }
-    ]
+    {
+      "address": "217 Cannon House Office Building; Washington DC 20515-4404", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5638", 
+      "office": "217 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3011", 
+      "start": "2017-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://love.house.gov"
+    }
+  ]
 }

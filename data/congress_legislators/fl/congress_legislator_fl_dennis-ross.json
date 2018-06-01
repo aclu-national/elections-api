@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1959-10-18", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1959-10-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:630", 
+    "ballotpedia": "Dennis A. Ross", 
+    "bioguide": "R000593", 
+    "cspan": 62532, 
+    "fec": [
+      "H0FL12101"
+    ], 
+    "google_entity_id": "kg:/m/0bmd7xs", 
+    "govtrack": 412411, 
+    "house_history": 20823, 
+    "icpsr": 21117, 
+    "maplight": 1423, 
+    "opensecrets": "N00030645", 
+    "thomas": "02003", 
+    "votesmart": 12813, 
+    "wikidata": "Q1188940", 
+    "wikipedia": "Dennis A. Ross"
+  }, 
+  "name": {
+    "first": "Dennis", 
+    "last": "Ross", 
+    "middle": "A.", 
+    "official_full": "Dennis A. Ross"
+  }, 
+  "social": {
+    "facebook": "dennis.ross.376", 
+    "twitter": "RepDennisRoss", 
+    "twitter_id": 33655490, 
+    "youtube": "RepDennisRoss", 
+    "youtube_id": "UCSjZ4oRWi_sO-aGM9CUBOJQ"
+  }, 
+  "terms": [
+    {
+      "address": "404 Cannon HOB; Washington DC 20515-0912", 
+      "district": 12, 
+      "end": "2013-01-03", 
+      "fax": "202-226-0585", 
+      "office": "404 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1252", 
+      "start": "2011-01-05", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://dennisross.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Dennis A. Ross", 
-        "bioguide": "R000593", 
-        "cspan": 62532, 
-        "fec": [
-            "H0FL12101"
-        ], 
-        "google_entity_id": "kg:/m/0bmd7xs", 
-        "govtrack": 412411, 
-        "house_history": 20823, 
-        "icpsr": 21117, 
-        "maplight": 1423, 
-        "opensecrets": "N00030645", 
-        "thomas": "02003", 
-        "votesmart": 12813, 
-        "wikidata": "Q1188940", 
-        "wikipedia": "Dennis A. Ross"
+    {
+      "address": "229 Cannon HOB; Washington DC 20515-0915", 
+      "contact_form": "https://dennisross.house.gov/forms/writeyourrep/", 
+      "district": 15, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0585", 
+      "office": "229 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1252", 
+      "rss_url": "http://dennisross.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://dennisross.house.gov"
     }, 
-    "name": {
-        "first": "Dennis", 
-        "last": "Ross", 
-        "middle": "A.", 
-        "official_full": "Dennis A. Ross"
+    {
+      "address": "229 Cannon HOB; Washington DC 20515-0915", 
+      "contact_form": "https://dennisross.house.gov/forms/writeyourrep/", 
+      "district": 15, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0585", 
+      "office": "229 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1252", 
+      "rss_url": "http://dennisross.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://dennisross.house.gov"
     }, 
-    "social": {
-        "facebook": "dennis.ross.376", 
-        "twitter": "RepDennisRoss", 
-        "twitter_id": 33655490, 
-        "youtube": "RepDennisRoss", 
-        "youtube_id": "UCSjZ4oRWi_sO-aGM9CUBOJQ"
-    }, 
-    "terms": [
-        {
-            "address": "404 Cannon HOB; Washington DC 20515-0912", 
-            "district": 12, 
-            "end": "2013-01-03", 
-            "fax": "202-226-0585", 
-            "office": "404 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1252", 
-            "start": "2011-01-05", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://dennisross.house.gov/"
-        }, 
-        {
-            "address": "229 Cannon HOB; Washington DC 20515-0915", 
-            "contact_form": "https://dennisross.house.gov/forms/writeyourrep/", 
-            "district": 15, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0585", 
-            "office": "229 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1252", 
-            "rss_url": "http://dennisross.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://dennisross.house.gov"
-        }, 
-        {
-            "address": "229 Cannon HOB; Washington DC 20515-0915", 
-            "contact_form": "https://dennisross.house.gov/forms/writeyourrep/", 
-            "district": 15, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0585", 
-            "office": "229 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1252", 
-            "rss_url": "http://dennisross.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://dennisross.house.gov"
-        }, 
-        {
-            "address": "436 Cannon House Office Building; Washington DC 20515-0915", 
-            "district": 15, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0585", 
-            "office": "436 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1252", 
-            "rss_url": "http://dennisross.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://dennisross.house.gov"
-        }
-    ]
+    {
+      "address": "436 Cannon House Office Building; Washington DC 20515-0915", 
+      "district": 15, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0585", 
+      "office": "436 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1252", 
+      "rss_url": "http://dennisross.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://dennisross.house.gov"
+    }
+  ]
 }

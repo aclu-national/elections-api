@@ -1,100 +1,101 @@
 {
-    "bio": {
-        "birthday": "1958-06-12", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1958-06-12", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:849", 
+    "ballotpedia": "Mark Amodei", 
+    "bioguide": "A000369", 
+    "cspan": 62817, 
+    "fec": [
+      "H2NV02395", 
+      "H1NV02017", 
+      "S0NV00237"
+    ], 
+    "google_entity_id": "kg:/m/03bzdkn", 
+    "govtrack": 412500, 
+    "house_history": 8772, 
+    "icpsr": 21196, 
+    "maplight": 1680, 
+    "opensecrets": "N00031177", 
+    "thomas": "02090", 
+    "votesmart": 12537, 
+    "wikidata": "Q23944", 
+    "wikipedia": "Mark Amodei"
+  }, 
+  "name": {
+    "first": "Mark", 
+    "last": "Amodei", 
+    "middle": "E.", 
+    "official_full": "Mark E. Amodei"
+  }, 
+  "social": {
+    "facebook": "MarkAmodeiNV2", 
+    "instagram": "MarkAmodeiNV2", 
+    "twitter": "MarkAmodeiNV2", 
+    "twitter_id": 402719755, 
+    "youtube": "markamodeinv2", 
+    "youtube_id": "UCjOGx2iqSn1r3BQxaVgYhYw"
+  }, 
+  "terms": [
+    {
+      "address": "125 Cannon HOB; Washington DC 20515-2802", 
+      "contact_form": "https://amodei.house.gov/contact-me", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5679", 
+      "office": "125 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6155", 
+      "start": "2011-09-13", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://amodei.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Mark Amodei", 
-        "bioguide": "A000369", 
-        "cspan": 62817, 
-        "fec": [
-            "H2NV02395", 
-            "H1NV02017", 
-            "S0NV00237"
-        ], 
-        "google_entity_id": "kg:/m/03bzdkn", 
-        "govtrack": 412500, 
-        "house_history": 8772, 
-        "icpsr": 21196, 
-        "maplight": 1680, 
-        "opensecrets": "N00031177", 
-        "thomas": "02090", 
-        "votesmart": 12537, 
-        "wikidata": "Q23944", 
-        "wikipedia": "Mark Amodei"
+    {
+      "address": "222 Cannon HOB; Washington DC 20515-2802", 
+      "contact_form": "https://amodei.house.gov/contact-us", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5679", 
+      "office": "222 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6155", 
+      "rss_url": "http://amodei.house.gov/common/rss//?rss=49", 
+      "start": "2013-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://amodei.house.gov"
     }, 
-    "name": {
-        "first": "Mark", 
-        "last": "Amodei", 
-        "middle": "E.", 
-        "official_full": "Mark E. Amodei"
+    {
+      "address": "332 Cannon HOB; Washington DC 20515-2802", 
+      "contact_form": "https://amodei.house.gov/contact-us", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5679", 
+      "office": "332 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6155", 
+      "rss_url": "http://amodei.house.gov/common/rss//?rss=49", 
+      "start": "2015-01-06", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://amodei.house.gov"
     }, 
-    "social": {
-        "facebook": "MarkAmodeiNV2", 
-        "instagram": "MarkAmodeiNV2", 
-        "twitter": "MarkAmodeiNV2", 
-        "twitter_id": 402719755, 
-        "youtube": "markamodeinv2", 
-        "youtube_id": "UCjOGx2iqSn1r3BQxaVgYhYw"
-    }, 
-    "terms": [
-        {
-            "address": "125 Cannon HOB; Washington DC 20515-2802", 
-            "contact_form": "https://amodei.house.gov/contact-me", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5679", 
-            "office": "125 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6155", 
-            "start": "2011-09-13", 
-            "state": "NV", 
-            "type": "rep", 
-            "url": "http://amodei.house.gov/"
-        }, 
-        {
-            "address": "222 Cannon HOB; Washington DC 20515-2802", 
-            "contact_form": "https://amodei.house.gov/contact-us", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5679", 
-            "office": "222 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6155", 
-            "rss_url": "http://amodei.house.gov/common/rss//?rss=49", 
-            "start": "2013-01-03", 
-            "state": "NV", 
-            "type": "rep", 
-            "url": "http://amodei.house.gov"
-        }, 
-        {
-            "address": "332 Cannon HOB; Washington DC 20515-2802", 
-            "contact_form": "https://amodei.house.gov/contact-us", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5679", 
-            "office": "332 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6155", 
-            "rss_url": "http://amodei.house.gov/common/rss//?rss=49", 
-            "start": "2015-01-06", 
-            "state": "NV", 
-            "type": "rep", 
-            "url": "http://amodei.house.gov"
-        }, 
-        {
-            "address": "332 Cannon House Office Building; Washington DC 20515-2802", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5679", 
-            "office": "332 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6155", 
-            "rss_url": "http://amodei.house.gov/common/rss//?rss=49", 
-            "start": "2017-01-03", 
-            "state": "NV", 
-            "type": "rep", 
-            "url": "https://amodei.house.gov"
-        }
-    ]
+    {
+      "address": "332 Cannon House Office Building; Washington DC 20515-2802", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5679", 
+      "office": "332 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6155", 
+      "rss_url": "http://amodei.house.gov/common/rss//?rss=49", 
+      "start": "2017-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "https://amodei.house.gov"
+    }
+  ]
 }

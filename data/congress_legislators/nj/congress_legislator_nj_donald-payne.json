@@ -1,98 +1,99 @@
 {
-    "bio": {
-        "birthday": "1958-12-17", 
-        "gender": "M"
-    }, 
-    "family": [
-        {
-            "name": "Donald Milford Payne", 
-            "relation": "son"
-        }
+  "bio": {
+    "birthday": "1958-12-17", 
+    "gender": "M"
+  }, 
+  "family": [
+    {
+      "name": "Donald Milford Payne", 
+      "relation": "son"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:832", 
+    "bioguide": "P000604", 
+    "cspan": 65639, 
+    "fec": [
+      "H2NJ10154"
     ], 
-    "id": {
-        "bioguide": "P000604", 
-        "cspan": 65639, 
-        "fec": [
-            "H2NJ10154"
-        ], 
-        "google_entity_id": "kg:/m/0jwr2v8", 
-        "govtrack": 412506, 
-        "icpsr": 31103, 
-        "maplight": 1687, 
-        "opensecrets": "N00034639", 
-        "thomas": "02097", 
-        "votesmart": 90668, 
-        "wikidata": "Q1240224", 
-        "wikipedia": "Donald Payne Jr."
+    "google_entity_id": "kg:/m/0jwr2v8", 
+    "govtrack": 412506, 
+    "icpsr": 31103, 
+    "maplight": 1687, 
+    "opensecrets": "N00034639", 
+    "thomas": "02097", 
+    "votesmart": 90668, 
+    "wikidata": "Q1240224", 
+    "wikipedia": "Donald Payne Jr."
+  }, 
+  "name": {
+    "first": "Donald", 
+    "last": "Payne", 
+    "middle": "M.", 
+    "official_full": "Donald M. Payne, Jr.", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "DonaldPayneJr", 
+    "instagram": "repdonaldpaynejr", 
+    "twitter": "RepDonaldPayne", 
+    "twitter_id": 1155335864, 
+    "youtube_id": "UCTG_SeYsOgbngjv1Donyu0w"
+  }, 
+  "terms": [
+    {
+      "address": "2310 Rayburn HOB; Washington DC 20515-3010", 
+      "district": 10, 
+      "end": "2013-01-03", 
+      "office": "2310 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3436", 
+      "start": "2012-11-15", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Donald", 
-        "last": "Payne", 
-        "middle": "M.", 
-        "official_full": "Donald M. Payne, Jr.", 
-        "suffix": "Jr."
+    {
+      "address": "103 Cannon HOB; Washington DC 20515-3010", 
+      "contact_form": "http://payne.house.gov/contact/email-me", 
+      "district": 10, 
+      "end": "2015-01-03", 
+      "office": "103 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3436", 
+      "rss_url": "http://payne.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://payne.house.gov"
     }, 
-    "social": {
-        "facebook": "DonaldPayneJr", 
-        "instagram": "repdonaldpaynejr", 
-        "twitter": "RepDonaldPayne", 
-        "twitter_id": 1155335864, 
-        "youtube_id": "UCTG_SeYsOgbngjv1Donyu0w"
+    {
+      "address": "103 Cannon HOB; Washington DC 20515-3010", 
+      "contact_form": "http://payne.house.gov/contact/email-me", 
+      "district": 10, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4160", 
+      "office": "103 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3436", 
+      "rss_url": "http://payne.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://payne.house.gov"
     }, 
-    "terms": [
-        {
-            "address": "2310 Rayburn HOB; Washington DC 20515-3010", 
-            "district": 10, 
-            "end": "2013-01-03", 
-            "office": "2310 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3436", 
-            "start": "2012-11-15", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "address": "103 Cannon HOB; Washington DC 20515-3010", 
-            "contact_form": "http://payne.house.gov/contact/email-me", 
-            "district": 10, 
-            "end": "2015-01-03", 
-            "office": "103 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3436", 
-            "rss_url": "http://payne.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://payne.house.gov"
-        }, 
-        {
-            "address": "103 Cannon HOB; Washington DC 20515-3010", 
-            "contact_form": "http://payne.house.gov/contact/email-me", 
-            "district": 10, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4160", 
-            "office": "103 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3436", 
-            "rss_url": "http://payne.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://payne.house.gov"
-        }, 
-        {
-            "address": "132 Cannon House Office Building; Washington DC 20515-3010", 
-            "district": 10, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4160", 
-            "office": "132 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3436", 
-            "rss_url": "http://payne.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "https://payne.house.gov"
-        }
-    ]
+    {
+      "address": "132 Cannon House Office Building; Washington DC 20515-3010", 
+      "district": 10, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4160", 
+      "office": "132 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3436", 
+      "rss_url": "http://payne.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://payne.house.gov"
+    }
+  ]
 }

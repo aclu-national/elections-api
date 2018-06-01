@@ -1,91 +1,92 @@
 {
-    "bio": {
-        "birthday": "1952-12-07", 
-        "gender": "F", 
-        "religion": "Catholic"
+  "bio": {
+    "birthday": "1952-12-07", 
+    "gender": "F", 
+    "religion": "Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:756", 
+    "ballotpedia": "Susan Collins", 
+    "bioguide": "C001035", 
+    "cspan": 45738, 
+    "fec": [
+      "S6ME00159"
+    ], 
+    "google_entity_id": "kg:/m/020y8m", 
+    "govtrack": 300025, 
+    "house_history": 11742, 
+    "icpsr": 49703, 
+    "lis": "S252", 
+    "maplight": 551, 
+    "opensecrets": "N00000491", 
+    "thomas": "01541", 
+    "votesmart": 379, 
+    "wikidata": "Q22279", 
+    "wikipedia": "Susan Collins"
+  }, 
+  "name": {
+    "first": "Susan", 
+    "last": "Collins", 
+    "middle": "M.", 
+    "official_full": "Susan M. Collins"
+  }, 
+  "social": {
+    "facebook": "susancollins", 
+    "instagram": "sensusancollins", 
+    "twitter": "SenatorCollins", 
+    "twitter_id": 19726613, 
+    "youtube": "SenatorSusanCollins", 
+    "youtube_id": "UC6GYaBx5kT2r4PN8KENxC-w"
+  }, 
+  "terms": [
+    {
+      "class": 2, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "ME", 
+      "type": "sen"
     }, 
-    "id": {
-        "ballotpedia": "Susan Collins", 
-        "bioguide": "C001035", 
-        "cspan": 45738, 
-        "fec": [
-            "S6ME00159"
-        ], 
-        "google_entity_id": "kg:/m/020y8m", 
-        "govtrack": 300025, 
-        "house_history": 11742, 
-        "icpsr": 49703, 
-        "lis": "S252", 
-        "maplight": 551, 
-        "opensecrets": "N00000491", 
-        "thomas": "01541", 
-        "votesmart": 379, 
-        "wikidata": "Q22279", 
-        "wikipedia": "Susan Collins"
+    {
+      "class": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "ME", 
+      "type": "sen", 
+      "url": "http://collins.senate.gov"
     }, 
-    "name": {
-        "first": "Susan", 
-        "last": "Collins", 
-        "middle": "M.", 
-        "official_full": "Susan M. Collins"
+    {
+      "address": "413 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.collins.senate.gov/public/index.cfm/email", 
+      "end": "2015-01-03", 
+      "fax": "202-224-2693", 
+      "office": "413 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2523", 
+      "rss_url": "http://www.collins.senate.gov/public/?a=rss.feed", 
+      "start": "2009-01-06", 
+      "state": "ME", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.collins.senate.gov"
     }, 
-    "social": {
-        "facebook": "susancollins", 
-        "instagram": "sensusancollins", 
-        "twitter": "SenatorCollins", 
-        "twitter_id": 19726613, 
-        "youtube": "SenatorSusanCollins", 
-        "youtube_id": "UC6GYaBx5kT2r4PN8KENxC-w"
-    }, 
-    "terms": [
-        {
-            "class": 2, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "ME", 
-            "type": "sen"
-        }, 
-        {
-            "class": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "ME", 
-            "type": "sen", 
-            "url": "http://collins.senate.gov"
-        }, 
-        {
-            "address": "413 Dirksen Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.collins.senate.gov/public/index.cfm/email", 
-            "end": "2015-01-03", 
-            "fax": "202-224-2693", 
-            "office": "413 Dirksen Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-2523", 
-            "rss_url": "http://www.collins.senate.gov/public/?a=rss.feed", 
-            "start": "2009-01-06", 
-            "state": "ME", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.collins.senate.gov"
-        }, 
-        {
-            "address": "413 Dirksen Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.collins.senate.gov/contact", 
-            "end": "2021-01-03", 
-            "fax": "202-224-2693", 
-            "office": "413 Dirksen Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-2523", 
-            "rss_url": "http://www.collins.senate.gov/public/?a=rss.feed", 
-            "start": "2015-01-06", 
-            "state": "ME", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.collins.senate.gov"
-        }
-    ]
+    {
+      "address": "413 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.collins.senate.gov/contact", 
+      "end": "2021-01-03", 
+      "fax": "202-224-2693", 
+      "office": "413 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2523", 
+      "rss_url": "http://www.collins.senate.gov/public/?a=rss.feed", 
+      "start": "2015-01-06", 
+      "state": "ME", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.collins.senate.gov"
+    }
+  ]
 }

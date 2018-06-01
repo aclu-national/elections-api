@@ -1,113 +1,114 @@
 {
-    "bio": {
-        "birthday": "1951-06-18", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1951-06-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:566", 
+    "bioguide": "M001166", 
+    "cspan": 1021667, 
+    "fec": [
+      "H4CA11081"
+    ], 
+    "google_entity_id": "kg:/m/07zk65", 
+    "govtrack": 412189, 
+    "house_history": 18803, 
+    "icpsr": 20702, 
+    "maplight": 676, 
+    "opensecrets": "N00026926", 
+    "thomas": "01832", 
+    "votesmart": 29474, 
+    "wikidata": "Q1344743", 
+    "wikipedia": "Jerry McNerney"
+  }, 
+  "name": {
+    "first": "Jerry", 
+    "last": "McNerney", 
+    "official_full": "Jerry McNerney"
+  }, 
+  "social": {
+    "facebook": "jerrymcnerney", 
+    "twitter": "RepMcNerney", 
+    "twitter_id": 385429543, 
+    "youtube": "RepJerryMcNerney", 
+    "youtube_id": "UClUOx6F8GKshxGBUBLkisug"
+  }, 
+  "terms": [
+    {
+      "district": 11, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://mcnerney.house.gov"
     }, 
-    "id": {
-        "bioguide": "M001166", 
-        "cspan": 1021667, 
-        "fec": [
-            "H4CA11081"
-        ], 
-        "google_entity_id": "kg:/m/07zk65", 
-        "govtrack": 412189, 
-        "house_history": 18803, 
-        "icpsr": 20702, 
-        "maplight": 676, 
-        "opensecrets": "N00026926", 
-        "thomas": "01832", 
-        "votesmart": 29474, 
-        "wikidata": "Q1344743", 
-        "wikipedia": "Jerry McNerney"
+    {
+      "district": 11, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://mcnerney.house.gov"
     }, 
-    "name": {
-        "first": "Jerry", 
-        "last": "McNerney", 
-        "official_full": "Jerry McNerney"
+    {
+      "address": "1210 Longworth HOB; Washington DC 20515-0511", 
+      "contact_form": "http://mcnerney.house.gov/contact.shtml", 
+      "district": 11, 
+      "end": "2013-01-03", 
+      "fax": "202-225-4060", 
+      "office": "1210 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1947", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://mcnerney.house.gov"
     }, 
-    "social": {
-        "facebook": "jerrymcnerney", 
-        "twitter": "RepMcNerney", 
-        "twitter_id": 385429543, 
-        "youtube": "RepJerryMcNerney", 
-        "youtube_id": "UClUOx6F8GKshxGBUBLkisug"
+    {
+      "address": "1210 Longworth HOB; Washington DC 20515-0509", 
+      "contact_form": "https://mcnerney.house.gov/contact/email-me", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4060", 
+      "office": "1210 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1947", 
+      "rss_url": "http://mcnerney.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://mcnerney.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 11, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://mcnerney.house.gov"
-        }, 
-        {
-            "district": 11, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://mcnerney.house.gov"
-        }, 
-        {
-            "address": "1210 Longworth HOB; Washington DC 20515-0511", 
-            "contact_form": "http://mcnerney.house.gov/contact.shtml", 
-            "district": 11, 
-            "end": "2013-01-03", 
-            "fax": "202-225-4060", 
-            "office": "1210 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1947", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://mcnerney.house.gov"
-        }, 
-        {
-            "address": "1210 Longworth HOB; Washington DC 20515-0509", 
-            "contact_form": "https://mcnerney.house.gov/contact/email-me", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4060", 
-            "office": "1210 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1947", 
-            "rss_url": "http://mcnerney.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://mcnerney.house.gov"
-        }, 
-        {
-            "address": "2265 Rayburn HOB; Washington DC 20515-0509", 
-            "contact_form": "https://mcnerney.house.gov/contact/email-me", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4060", 
-            "office": "2265 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1947", 
-            "rss_url": "http://mcnerney.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://mcnerney.house.gov"
-        }, 
-        {
-            "address": "2265 Rayburn House Office Building; Washington DC 20515-0509", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4060", 
-            "office": "2265 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-1947", 
-            "rss_url": "http://mcnerney.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://mcnerney.house.gov"
-        }
-    ]
+    {
+      "address": "2265 Rayburn HOB; Washington DC 20515-0509", 
+      "contact_form": "https://mcnerney.house.gov/contact/email-me", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4060", 
+      "office": "2265 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1947", 
+      "rss_url": "http://mcnerney.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://mcnerney.house.gov"
+    }, 
+    {
+      "address": "2265 Rayburn House Office Building; Washington DC 20515-0509", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4060", 
+      "office": "2265 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1947", 
+      "rss_url": "http://mcnerney.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://mcnerney.house.gov"
+    }
+  ]
 }

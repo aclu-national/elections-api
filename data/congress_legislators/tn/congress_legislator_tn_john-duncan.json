@@ -1,205 +1,206 @@
 {
-    "bio": {
-        "birthday": "1947-07-21", 
-        "gender": "M", 
-        "religion": "Presbyterian"
-    }, 
-    "family": [
-        {
-            "name": "John James Duncan", 
-            "relation": "son"
-        }
+  "bio": {
+    "birthday": "1947-07-21", 
+    "gender": "M", 
+    "religion": "Presbyterian"
+  }, 
+  "family": [
+    {
+      "name": "John James Duncan", 
+      "relation": "son"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:949", 
+    "bioguide": "D000533", 
+    "cspan": 6114, 
+    "fec": [
+      "H8TN02069"
     ], 
-    "id": {
-        "bioguide": "D000533", 
-        "cspan": 6114, 
-        "fec": [
-            "H8TN02069"
-        ], 
-        "google_entity_id": "kg:/m/0450rl", 
-        "govtrack": 400116, 
-        "house_history": 12493, 
-        "icpsr": 15455, 
-        "maplight": 228, 
-        "opensecrets": "N00003209", 
-        "thomas": "00322", 
-        "votesmart": 27069, 
-        "wikidata": "Q653994", 
-        "wikipedia": "Jimmy Duncan (politician)"
+    "google_entity_id": "kg:/m/0450rl", 
+    "govtrack": 400116, 
+    "house_history": 12493, 
+    "icpsr": 15455, 
+    "maplight": 228, 
+    "opensecrets": "N00003209", 
+    "thomas": "00322", 
+    "votesmart": 27069, 
+    "wikidata": "Q653994", 
+    "wikipedia": "Jimmy Duncan (politician)"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Duncan", 
+    "middle": "J.", 
+    "nickname": "Jimmy", 
+    "official_full": "John J. Duncan, Jr.", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "CongressmanDuncan", 
+    "twitter": "RepJohnDuncanJr", 
+    "twitter_id": 1883356866, 
+    "youtube": "RepJohnDuncan", 
+    "youtube_id": "UCCpcKqQfp9gVkeD1t7uYLKQ"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "1989-01-03", 
+      "party": "Republican", 
+      "start": "1988-11-08", 
+      "state": "TN", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "John", 
-        "last": "Duncan", 
-        "middle": "J.", 
-        "nickname": "Jimmy", 
-        "official_full": "John J. Duncan, Jr.", 
-        "suffix": "Jr."
+    {
+      "district": 2, 
+      "end": "1991-01-03", 
+      "party": "Republican", 
+      "start": "1989-01-03", 
+      "state": "TN", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "CongressmanDuncan", 
-        "twitter": "RepJohnDuncanJr", 
-        "twitter_id": 1883356866, 
-        "youtube": "RepJohnDuncan", 
-        "youtube_id": "UCCpcKqQfp9gVkeD1t7uYLKQ"
+    {
+      "district": 2, 
+      "end": "1993-01-03", 
+      "party": "Republican", 
+      "start": "1991-01-03", 
+      "state": "TN", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "1989-01-03", 
-            "party": "Republican", 
-            "start": "1988-11-08", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1991-01-03", 
-            "party": "Republican", 
-            "start": "1989-01-03", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1993-01-03", 
-            "party": "Republican", 
-            "start": "1991-01-03", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1993-01-05", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "TN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/duncan"
-        }, 
-        {
-            "district": 2, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/duncan"
-        }, 
-        {
-            "district": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/duncan/"
-        }, 
-        {
-            "district": 2, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/duncan/"
-        }, 
-        {
-            "address": "2207 Rayburn HOB; Washington DC 20515-4202", 
-            "contact_form": "http://www.house.gov/duncan/contactform_zipcheck.shtml", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "fax": "202-225-6440", 
-            "office": "2207 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5435", 
-            "start": "2011-01-05", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/duncan/"
-        }, 
-        {
-            "address": "2207 Rayburn HOB; Washington DC 20515-4202", 
-            "contact_form": "https://duncan.house.gov/contact-me/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-6440", 
-            "office": "2207 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5435", 
-            "rss_url": "http://duncan.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://duncan.house.gov"
-        }, 
-        {
-            "address": "2207 Rayburn HOB; Washington DC 20515-4202", 
-            "contact_form": "https://duncan.house.gov/contact-me/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-6440", 
-            "office": "2207 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5435", 
-            "rss_url": "http://duncan.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://duncan.house.gov"
-        }, 
-        {
-            "address": "2207 Rayburn House Office Building; Washington DC 20515-4202", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-6440", 
-            "office": "2207 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5435", 
-            "rss_url": "http://duncan.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "https://duncan.house.gov"
-        }
-    ]
+    {
+      "district": 2, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "TN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "TN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "TN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "TN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "TN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/duncan"
+    }, 
+    {
+      "district": 2, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/duncan"
+    }, 
+    {
+      "district": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/duncan/"
+    }, 
+    {
+      "district": 2, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/duncan/"
+    }, 
+    {
+      "address": "2207 Rayburn HOB; Washington DC 20515-4202", 
+      "contact_form": "http://www.house.gov/duncan/contactform_zipcheck.shtml", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "fax": "202-225-6440", 
+      "office": "2207 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5435", 
+      "start": "2011-01-05", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/duncan/"
+    }, 
+    {
+      "address": "2207 Rayburn HOB; Washington DC 20515-4202", 
+      "contact_form": "https://duncan.house.gov/contact-me/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-6440", 
+      "office": "2207 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5435", 
+      "rss_url": "http://duncan.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://duncan.house.gov"
+    }, 
+    {
+      "address": "2207 Rayburn HOB; Washington DC 20515-4202", 
+      "contact_form": "https://duncan.house.gov/contact-me/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-6440", 
+      "office": "2207 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5435", 
+      "rss_url": "http://duncan.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://duncan.house.gov"
+    }, 
+    {
+      "address": "2207 Rayburn House Office Building; Washington DC 20515-4202", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-6440", 
+      "office": "2207 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5435", 
+      "rss_url": "http://duncan.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://duncan.house.gov"
+    }
+  ]
 }

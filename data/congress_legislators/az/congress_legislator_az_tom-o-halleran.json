@@ -1,46 +1,47 @@
 {
-    "bio": {
-        "birthday": "1946-01-24", 
-        "gender": "M"
-    }, 
-    "id": {
-        "bioguide": "O000171", 
-        "cspan": 104523, 
-        "fec": [
-            "H6AZ01199"
-        ], 
-        "google_entity_id": "kg:/m/02z4x12", 
-        "govtrack": 412682, 
-        "icpsr": 21739, 
-        "maplight": 2194, 
-        "opensecrets": "N00037515", 
-        "votesmart": 28499, 
-        "wikidata": "Q7817086", 
-        "wikipedia": "Tom O'Halleran"
-    }, 
-    "name": {
-        "first": "Tom", 
-        "last": "O\u2019Halleran", 
-        "official_full": "Tom O\u2019Halleran"
-    }, 
-    "social": {
-        "facebook": "repohalleran", 
-        "instagram": "repohalleran", 
-        "twitter": "repohalleran", 
-        "twitter_id": 808416682972770304
-    }, 
-    "terms": [
-        {
-            "address": "126 Cannon House Office Building; Washington DC 20515-0301", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "office": "126 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3361", 
-            "start": "2017-01-03", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "https://ohalleran.house.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1946-01-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:544", 
+    "bioguide": "O000171", 
+    "cspan": 104523, 
+    "fec": [
+      "H6AZ01199"
+    ], 
+    "google_entity_id": "kg:/m/02z4x12", 
+    "govtrack": 412682, 
+    "icpsr": 21739, 
+    "maplight": 2194, 
+    "opensecrets": "N00037515", 
+    "votesmart": 28499, 
+    "wikidata": "Q7817086", 
+    "wikipedia": "Tom O'Halleran"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "O\u2019Halleran", 
+    "official_full": "Tom O\u2019Halleran"
+  }, 
+  "social": {
+    "facebook": "repohalleran", 
+    "instagram": "repohalleran", 
+    "twitter": "repohalleran", 
+    "twitter_id": 808416682972770304
+  }, 
+  "terms": [
+    {
+      "address": "126 Cannon House Office Building; Washington DC 20515-0301", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "office": "126 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3361", 
+      "start": "2017-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://ohalleran.house.gov"
+    }
+  ]
 }

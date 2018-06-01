@@ -1,124 +1,125 @@
 {
-    "bio": {
-        "birthday": "1966-09-27", 
-        "gender": "F", 
-        "religion": "Jewish"
+  "bio": {
+    "birthday": "1966-09-27", 
+    "gender": "F", 
+    "religion": "Jewish"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:629", 
+    "ballotpedia": "Debbie Wasserman Schultz", 
+    "bioguide": "W000797", 
+    "cspan": 86882, 
+    "fec": [
+      "H4FL20023"
+    ], 
+    "google_entity_id": "kg:/m/04cmyw", 
+    "govtrack": 400623, 
+    "house_history": 24177, 
+    "icpsr": 20504, 
+    "maplight": 631, 
+    "opensecrets": "N00026106", 
+    "thomas": "01777", 
+    "votesmart": 24301, 
+    "wikidata": "Q50104", 
+    "wikipedia": "Debbie Wasserman Schultz"
+  }, 
+  "name": {
+    "first": "Debbie", 
+    "last": "Wasserman Schultz", 
+    "official_full": "Debbie Wasserman Schultz"
+  }, 
+  "social": {
+    "facebook": "RepDWS", 
+    "instagram": "RepDWSTweets", 
+    "twitter": "RepDWStweets", 
+    "twitter_id": 1140648348, 
+    "youtube": "RepWassermanSchultz", 
+    "youtube_id": "UCfHQiJVvMlYbVAxrMSLdO4w"
+  }, 
+  "terms": [
+    {
+      "district": 20, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "FL", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Debbie Wasserman Schultz", 
-        "bioguide": "W000797", 
-        "cspan": 86882, 
-        "fec": [
-            "H4FL20023"
-        ], 
-        "google_entity_id": "kg:/m/04cmyw", 
-        "govtrack": 400623, 
-        "house_history": 24177, 
-        "icpsr": 20504, 
-        "maplight": 631, 
-        "opensecrets": "N00026106", 
-        "thomas": "01777", 
-        "votesmart": 24301, 
-        "wikidata": "Q50104", 
-        "wikipedia": "Debbie Wasserman Schultz"
+    {
+      "district": 20, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schultz"
     }, 
-    "name": {
-        "first": "Debbie", 
-        "last": "Wasserman Schultz", 
-        "official_full": "Debbie Wasserman Schultz"
+    {
+      "district": 20, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schultz"
     }, 
-    "social": {
-        "facebook": "RepDWS", 
-        "instagram": "RepDWSTweets", 
-        "twitter": "RepDWStweets", 
-        "twitter_id": 1140648348, 
-        "youtube": "RepWassermanSchultz", 
-        "youtube_id": "UCfHQiJVvMlYbVAxrMSLdO4w"
+    {
+      "address": "118 Cannon HOB; Washington DC 20515-0920", 
+      "contact_form": "http://wassermanschultz.house.gov/zipauth.htm", 
+      "district": 20, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2052", 
+      "office": "118 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7931", 
+      "start": "2011-01-05", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schultz"
     }, 
-    "terms": [
-        {
-            "district": 20, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "FL", 
-            "type": "rep"
-        }, 
-        {
-            "district": 20, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schultz"
-        }, 
-        {
-            "district": 20, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schultz"
-        }, 
-        {
-            "address": "118 Cannon HOB; Washington DC 20515-0920", 
-            "contact_form": "http://wassermanschultz.house.gov/zipauth.htm", 
-            "district": 20, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2052", 
-            "office": "118 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7931", 
-            "start": "2011-01-05", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schultz"
-        }, 
-        {
-            "address": "118 Cannon HOB; Washington DC 20515-0923", 
-            "contact_form": "http://wassermanschultz.house.gov/contact/email-me.shtml", 
-            "district": 23, 
-            "end": "2015-01-03", 
-            "fax": "202-226-2052", 
-            "office": "118 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7931", 
-            "rss_url": "http://wassermanschultz.house.gov/atom.xml", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://wassermanschultz.house.gov"
-        }, 
-        {
-            "address": "1114 Longworth HOB; Washington DC 20515-0923", 
-            "contact_form": "http://wassermanschultz.house.gov/contact/email-me.shtml", 
-            "district": 23, 
-            "end": "2017-01-03", 
-            "fax": "202-226-2052", 
-            "office": "1114 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7931", 
-            "rss_url": "http://wassermanschultz.house.gov/atom.xml", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://wassermanschultz.house.gov"
-        }, 
-        {
-            "address": "1114 Longworth House Office Building; Washington DC 20515-0923", 
-            "district": 23, 
-            "end": "2019-01-03", 
-            "fax": "202-226-2052", 
-            "office": "1114 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7931", 
-            "rss_url": "http://wassermanschultz.house.gov/atom.xml", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://wassermanschultz.house.gov"
-        }
-    ]
+    {
+      "address": "118 Cannon HOB; Washington DC 20515-0923", 
+      "contact_form": "http://wassermanschultz.house.gov/contact/email-me.shtml", 
+      "district": 23, 
+      "end": "2015-01-03", 
+      "fax": "202-226-2052", 
+      "office": "118 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7931", 
+      "rss_url": "http://wassermanschultz.house.gov/atom.xml", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://wassermanschultz.house.gov"
+    }, 
+    {
+      "address": "1114 Longworth HOB; Washington DC 20515-0923", 
+      "contact_form": "http://wassermanschultz.house.gov/contact/email-me.shtml", 
+      "district": 23, 
+      "end": "2017-01-03", 
+      "fax": "202-226-2052", 
+      "office": "1114 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7931", 
+      "rss_url": "http://wassermanschultz.house.gov/atom.xml", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://wassermanschultz.house.gov"
+    }, 
+    {
+      "address": "1114 Longworth House Office Building; Washington DC 20515-0923", 
+      "district": 23, 
+      "end": "2019-01-03", 
+      "fax": "202-226-2052", 
+      "office": "1114 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7931", 
+      "rss_url": "http://wassermanschultz.house.gov/atom.xml", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://wassermanschultz.house.gov"
+    }
+  ]
 }

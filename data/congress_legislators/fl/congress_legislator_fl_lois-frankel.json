@@ -1,84 +1,85 @@
 {
-    "bio": {
-        "birthday": "1948-05-16", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1948-05-16", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:637", 
+    "ballotpedia": "Lois Frankel", 
+    "bioguide": "F000462", 
+    "cspan": 623714, 
+    "fec": [
+      "H2FL14053", 
+      "H2FL22080"
+    ], 
+    "google_entity_id": "kg:/m/0gjdw8_", 
+    "govtrack": 412529, 
+    "house_history": 15032387115, 
+    "icpsr": 21321, 
+    "maplight": 1753, 
+    "opensecrets": "N00002893", 
+    "thomas": "02119", 
+    "votesmart": 8102, 
+    "wikidata": "Q3182451", 
+    "wikipedia": "Lois Frankel"
+  }, 
+  "name": {
+    "first": "Lois", 
+    "last": "Frankel", 
+    "official_full": "Lois Frankel"
+  }, 
+  "social": {
+    "facebook": "RepLoisFrankel", 
+    "instagram": "reploisfrankel", 
+    "twitter": "RepLoisFrankel", 
+    "twitter_id": 1077121945, 
+    "youtube": "reploisfrankel", 
+    "youtube_id": "UCEk5viAhxaW_2OK20-yBwzQ"
+  }, 
+  "terms": [
+    {
+      "address": "1037 Longworth HOB; Washington DC 20515-0922", 
+      "contact_form": "https://frankel.house.gov/contact/email-me", 
+      "district": 22, 
+      "end": "2015-01-03", 
+      "fax": "561-998-9048", 
+      "office": "1037 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9890", 
+      "rss_url": "http://frankel.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://frankel.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Lois Frankel", 
-        "bioguide": "F000462", 
-        "cspan": 623714, 
-        "fec": [
-            "H2FL14053", 
-            "H2FL22080"
-        ], 
-        "google_entity_id": "kg:/m/0gjdw8_", 
-        "govtrack": 412529, 
-        "house_history": 15032387115, 
-        "icpsr": 21321, 
-        "maplight": 1753, 
-        "opensecrets": "N00002893", 
-        "thomas": "02119", 
-        "votesmart": 8102, 
-        "wikidata": "Q3182451", 
-        "wikipedia": "Lois Frankel"
+    {
+      "address": "1037 Longworth HOB; Washington DC 20515-0922", 
+      "contact_form": "https://frankel.house.gov/contact/email-me", 
+      "district": 22, 
+      "end": "2017-01-03", 
+      "fax": "561-998-9048", 
+      "office": "1037 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9890", 
+      "rss_url": "http://frankel.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://frankel.house.gov"
     }, 
-    "name": {
-        "first": "Lois", 
-        "last": "Frankel", 
-        "official_full": "Lois Frankel"
-    }, 
-    "social": {
-        "facebook": "RepLoisFrankel", 
-        "instagram": "reploisfrankel", 
-        "twitter": "RepLoisFrankel", 
-        "twitter_id": 1077121945, 
-        "youtube": "reploisfrankel", 
-        "youtube_id": "UCEk5viAhxaW_2OK20-yBwzQ"
-    }, 
-    "terms": [
-        {
-            "address": "1037 Longworth HOB; Washington DC 20515-0922", 
-            "contact_form": "https://frankel.house.gov/contact/email-me", 
-            "district": 22, 
-            "end": "2015-01-03", 
-            "fax": "561-998-9048", 
-            "office": "1037 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-9890", 
-            "rss_url": "http://frankel.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://frankel.house.gov"
-        }, 
-        {
-            "address": "1037 Longworth HOB; Washington DC 20515-0922", 
-            "contact_form": "https://frankel.house.gov/contact/email-me", 
-            "district": 22, 
-            "end": "2017-01-03", 
-            "fax": "561-998-9048", 
-            "office": "1037 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-9890", 
-            "rss_url": "http://frankel.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://frankel.house.gov"
-        }, 
-        {
-            "address": "1037 Longworth House Office Building; Washington DC 20515-0921", 
-            "district": 21, 
-            "end": "2019-01-03", 
-            "fax": "561-998-9048", 
-            "office": "1037 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-9890", 
-            "rss_url": "http://frankel.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://frankel.house.gov"
-        }
-    ]
+    {
+      "address": "1037 Longworth House Office Building; Washington DC 20515-0921", 
+      "district": 21, 
+      "end": "2019-01-03", 
+      "fax": "561-998-9048", 
+      "office": "1037 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9890", 
+      "rss_url": "http://frankel.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://frankel.house.gov"
+    }
+  ]
 }

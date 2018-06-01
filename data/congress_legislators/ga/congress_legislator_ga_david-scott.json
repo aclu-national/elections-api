@@ -1,133 +1,134 @@
 {
-    "bio": {
-        "birthday": "1945-06-27", 
-        "gender": "M", 
-        "religion": "Baptist"
+  "bio": {
+    "birthday": "1945-06-27", 
+    "gender": "M", 
+    "religion": "Baptist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:654", 
+    "ballotpedia": "David Scott (Georgia)", 
+    "bioguide": "S001157", 
+    "cspan": 1003567, 
+    "fec": [
+      "H2GA13012"
+    ], 
+    "google_entity_id": "kg:/m/0255r4", 
+    "govtrack": 400363, 
+    "house_history": 22574, 
+    "icpsr": 20321, 
+    "maplight": 454, 
+    "opensecrets": "N00024871", 
+    "thomas": "01722", 
+    "votesmart": 7826, 
+    "wikidata": "Q132071", 
+    "wikipedia": "David Scott (Georgia politician)"
+  }, 
+  "name": {
+    "first": "David", 
+    "last": "Scott", 
+    "official_full": "David Scott"
+  }, 
+  "social": {
+    "facebook": "113303673339", 
+    "twitter": "RepDavidScott", 
+    "twitter_id": 168673083, 
+    "youtube": "RepDavidScott", 
+    "youtube_id": "UCgf28zRkLSqAUiPuJhGdF0w"
+  }, 
+  "terms": [
+    {
+      "district": 13, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/davidscott"
     }, 
-    "id": {
-        "ballotpedia": "David Scott (Georgia)", 
-        "bioguide": "S001157", 
-        "cspan": 1003567, 
-        "fec": [
-            "H2GA13012"
-        ], 
-        "google_entity_id": "kg:/m/0255r4", 
-        "govtrack": 400363, 
-        "house_history": 22574, 
-        "icpsr": 20321, 
-        "maplight": 454, 
-        "opensecrets": "N00024871", 
-        "thomas": "01722", 
-        "votesmart": 7826, 
-        "wikidata": "Q132071", 
-        "wikipedia": "David Scott (Georgia politician)"
+    {
+      "district": 13, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/davidscott"
     }, 
-    "name": {
-        "first": "David", 
-        "last": "Scott", 
-        "official_full": "David Scott"
+    {
+      "district": 13, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://davidscott.house.gov"
     }, 
-    "social": {
-        "facebook": "113303673339", 
-        "twitter": "RepDavidScott", 
-        "twitter_id": 168673083, 
-        "youtube": "RepDavidScott", 
-        "youtube_id": "UCgf28zRkLSqAUiPuJhGdF0w"
+    {
+      "district": 13, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://davidscott.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 13, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/davidscott"
-        }, 
-        {
-            "district": 13, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/davidscott"
-        }, 
-        {
-            "district": 13, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://davidscott.house.gov"
-        }, 
-        {
-            "district": 13, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://davidscott.house.gov"
-        }, 
-        {
-            "address": "225 Cannon HOB; Washington DC 20515-1013", 
-            "contact_form": "http://www.house.gov/writerep", 
-            "district": 13, 
-            "end": "2013-01-03", 
-            "fax": "202-225-4628", 
-            "office": "225 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2939", 
-            "start": "2011-01-05", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://davidscott.house.gov"
-        }, 
-        {
-            "address": "225 Cannon HOB; Washington DC 20515-1013", 
-            "contact_form": "https://davidscott.house.gov/contact/contactform.htm", 
-            "district": 13, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4628", 
-            "office": "225 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2939", 
-            "rss_url": "http://davidscott.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://davidscott.house.gov"
-        }, 
-        {
-            "address": "225 Cannon HOB; Washington DC 20515-1013", 
-            "contact_form": "https://davidscott.house.gov/contact/contactform.htm", 
-            "district": 13, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4628", 
-            "office": "225 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2939", 
-            "rss_url": "http://davidscott.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "http://davidscott.house.gov"
-        }, 
-        {
-            "address": "225 Cannon House Office Building; Washington DC 20515-1013", 
-            "district": 13, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4628", 
-            "office": "225 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2939", 
-            "rss_url": "http://davidscott.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "GA", 
-            "type": "rep", 
-            "url": "https://davidscott.house.gov"
-        }
-    ]
+    {
+      "address": "225 Cannon HOB; Washington DC 20515-1013", 
+      "contact_form": "http://www.house.gov/writerep", 
+      "district": 13, 
+      "end": "2013-01-03", 
+      "fax": "202-225-4628", 
+      "office": "225 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2939", 
+      "start": "2011-01-05", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://davidscott.house.gov"
+    }, 
+    {
+      "address": "225 Cannon HOB; Washington DC 20515-1013", 
+      "contact_form": "https://davidscott.house.gov/contact/contactform.htm", 
+      "district": 13, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4628", 
+      "office": "225 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2939", 
+      "rss_url": "http://davidscott.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://davidscott.house.gov"
+    }, 
+    {
+      "address": "225 Cannon HOB; Washington DC 20515-1013", 
+      "contact_form": "https://davidscott.house.gov/contact/contactform.htm", 
+      "district": 13, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4628", 
+      "office": "225 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2939", 
+      "rss_url": "http://davidscott.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "http://davidscott.house.gov"
+    }, 
+    {
+      "address": "225 Cannon House Office Building; Washington DC 20515-1013", 
+      "district": 13, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4628", 
+      "office": "225 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2939", 
+      "rss_url": "http://davidscott.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://davidscott.house.gov"
+    }
+  ]
 }

@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1977-04-14", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1977-04-14", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:553", 
+    "ballotpedia": "David G. Valadao", 
+    "bioguide": "V000129", 
+    "cspan": 623702, 
+    "fec": [
+      "H2CA20094"
+    ], 
+    "google_entity_id": "kg:/m/0g55rlx", 
+    "govtrack": 412515, 
+    "icpsr": 21307, 
+    "maplight": 1739, 
+    "opensecrets": "N00033367", 
+    "thomas": "02105", 
+    "votesmart": 120200, 
+    "wikidata": "Q3528567", 
+    "wikipedia": "David Valadao"
+  }, 
+  "name": {
+    "first": "David", 
+    "last": "Valadao", 
+    "middle": "G.", 
+    "official_full": "David G. Valadao"
+  }, 
+  "social": {
+    "facebook": "CongressmanDavidValadao", 
+    "twitter": "RepDavidValadao", 
+    "twitter_id": 1128514404, 
+    "youtube": "congressmanvaladao", 
+    "youtube_id": "UCWqOVVxQd6IV4mfYMi95LqA"
+  }, 
+  "terms": [
+    {
+      "address": "1004 Longworth HOB; Washington DC 20515-0521", 
+      "contact_form": "http://valadao.house.gov/contact/", 
+      "district": 21, 
+      "end": "2015-01-03", 
+      "fax": "202-226-3196", 
+      "office": "1004 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4695", 
+      "rss_url": "http://valadao.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://valadao.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "David G. Valadao", 
-        "bioguide": "V000129", 
-        "cspan": 623702, 
-        "fec": [
-            "H2CA20094"
-        ], 
-        "google_entity_id": "kg:/m/0g55rlx", 
-        "govtrack": 412515, 
-        "icpsr": 21307, 
-        "maplight": 1739, 
-        "opensecrets": "N00033367", 
-        "thomas": "02105", 
-        "votesmart": 120200, 
-        "wikidata": "Q3528567", 
-        "wikipedia": "David Valadao"
+    {
+      "address": "1004 Longworth HOB; Washington DC 20515-0521", 
+      "contact_form": "http://valadao.house.gov/contact/", 
+      "district": 21, 
+      "end": "2017-01-03", 
+      "fax": "202-226-3196", 
+      "office": "1004 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4695", 
+      "rss_url": "http://valadao.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://valadao.house.gov"
     }, 
-    "name": {
-        "first": "David", 
-        "last": "Valadao", 
-        "middle": "G.", 
-        "official_full": "David G. Valadao"
-    }, 
-    "social": {
-        "facebook": "CongressmanDavidValadao", 
-        "twitter": "RepDavidValadao", 
-        "twitter_id": 1128514404, 
-        "youtube": "congressmanvaladao", 
-        "youtube_id": "UCWqOVVxQd6IV4mfYMi95LqA"
-    }, 
-    "terms": [
-        {
-            "address": "1004 Longworth HOB; Washington DC 20515-0521", 
-            "contact_form": "http://valadao.house.gov/contact/", 
-            "district": 21, 
-            "end": "2015-01-03", 
-            "fax": "202-226-3196", 
-            "office": "1004 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4695", 
-            "rss_url": "http://valadao.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://valadao.house.gov"
-        }, 
-        {
-            "address": "1004 Longworth HOB; Washington DC 20515-0521", 
-            "contact_form": "http://valadao.house.gov/contact/", 
-            "district": 21, 
-            "end": "2017-01-03", 
-            "fax": "202-226-3196", 
-            "office": "1004 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4695", 
-            "rss_url": "http://valadao.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://valadao.house.gov"
-        }, 
-        {
-            "address": "1728 Longworth House Office Building; Washington DC 20515-0521", 
-            "district": 21, 
-            "end": "2019-01-03", 
-            "fax": "202-226-3196", 
-            "office": "1728 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4695", 
-            "rss_url": "http://valadao.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://valadao.house.gov"
-        }
-    ]
+    {
+      "address": "1728 Longworth House Office Building; Washington DC 20515-0521", 
+      "district": 21, 
+      "end": "2019-01-03", 
+      "fax": "202-226-3196", 
+      "office": "1728 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4695", 
+      "rss_url": "http://valadao.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://valadao.house.gov"
+    }
+  ]
 }

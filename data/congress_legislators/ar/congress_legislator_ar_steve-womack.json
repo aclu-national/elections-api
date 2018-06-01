@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1957-02-18", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1957-02-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:532", 
+    "ballotpedia": "Steve Womack", 
+    "bioguide": "W000809", 
+    "cspan": 1033625, 
+    "fec": [
+      "H0AR03055"
+    ], 
+    "google_entity_id": "kg:/m/0cmcvkz", 
+    "govtrack": 412402, 
+    "house_history": 24197, 
+    "icpsr": 21108, 
+    "maplight": 1416, 
+    "opensecrets": "N00031857", 
+    "thomas": "01991", 
+    "votesmart": 71815, 
+    "wikidata": "Q1029527", 
+    "wikipedia": "Steve Womack"
+  }, 
+  "name": {
+    "first": "Steve", 
+    "last": "Womack", 
+    "official_full": "Steve Womack"
+  }, 
+  "social": {
+    "facebook": "RepSteveWomack", 
+    "twitter": "Rep_SteveWomack", 
+    "twitter_id": 234469322, 
+    "youtube": "CongressmanWomack", 
+    "youtube_id": "UCXJbUDLYX-wGIhRuN66hqZw"
+  }, 
+  "terms": [
+    {
+      "address": "1508 Longworth HOB; Washington DC 20515-0403", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5713", 
+      "office": "1508 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4301", 
+      "start": "2011-01-05", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "http://womack.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Steve Womack", 
-        "bioguide": "W000809", 
-        "cspan": 1033625, 
-        "fec": [
-            "H0AR03055"
-        ], 
-        "google_entity_id": "kg:/m/0cmcvkz", 
-        "govtrack": 412402, 
-        "house_history": 24197, 
-        "icpsr": 21108, 
-        "maplight": 1416, 
-        "opensecrets": "N00031857", 
-        "thomas": "01991", 
-        "votesmart": 71815, 
-        "wikidata": "Q1029527", 
-        "wikipedia": "Steve Womack"
+    {
+      "address": "1119 Longworth HOB; Washington DC 20515-0403", 
+      "contact_form": "https://womack.house.gov/contact/contactform.htm", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5713", 
+      "office": "1119 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4301", 
+      "rss_url": "http://womack.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "http://womack.house.gov"
     }, 
-    "name": {
-        "first": "Steve", 
-        "last": "Womack", 
-        "official_full": "Steve Womack"
+    {
+      "address": "1119 Longworth HOB; Washington DC 20515-0403", 
+      "contact_form": "https://womack.house.gov/contact/contactform.htm", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5713", 
+      "office": "1119 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4301", 
+      "rss_url": "http://womack.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "http://womack.house.gov"
     }, 
-    "social": {
-        "facebook": "RepSteveWomack", 
-        "twitter": "Rep_SteveWomack", 
-        "twitter_id": 234469322, 
-        "youtube": "CongressmanWomack", 
-        "youtube_id": "UCXJbUDLYX-wGIhRuN66hqZw"
-    }, 
-    "terms": [
-        {
-            "address": "1508 Longworth HOB; Washington DC 20515-0403", 
-            "district": 3, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5713", 
-            "office": "1508 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4301", 
-            "start": "2011-01-05", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "http://womack.house.gov/"
-        }, 
-        {
-            "address": "1119 Longworth HOB; Washington DC 20515-0403", 
-            "contact_form": "https://womack.house.gov/contact/contactform.htm", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5713", 
-            "office": "1119 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4301", 
-            "rss_url": "http://womack.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "http://womack.house.gov"
-        }, 
-        {
-            "address": "1119 Longworth HOB; Washington DC 20515-0403", 
-            "contact_form": "https://womack.house.gov/contact/contactform.htm", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5713", 
-            "office": "1119 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4301", 
-            "rss_url": "http://womack.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "http://womack.house.gov"
-        }, 
-        {
-            "address": "2412 Rayburn House Office Building; Washington DC 20515-0403", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5713", 
-            "office": "2412 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4301", 
-            "rss_url": "http://womack.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "https://womack.house.gov"
-        }
-    ]
+    {
+      "address": "2412 Rayburn House Office Building; Washington DC 20515-0403", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5713", 
+      "office": "2412 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4301", 
+      "rss_url": "http://womack.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "https://womack.house.gov"
+    }
+  ]
 }

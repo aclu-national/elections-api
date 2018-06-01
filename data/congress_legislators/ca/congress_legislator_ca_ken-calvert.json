@@ -1,173 +1,174 @@
 {
-    "bio": {
-        "birthday": "1953-06-08", 
-        "gender": "M", 
-        "religion": "Protestant"
+  "bio": {
+    "birthday": "1953-06-08", 
+    "gender": "M", 
+    "religion": "Protestant"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:576", 
+    "bioguide": "C000059", 
+    "cspan": 26709, 
+    "fec": [
+      "H2CA37023"
+    ], 
+    "google_entity_id": "kg:/m/024xl1", 
+    "govtrack": 400057, 
+    "house_history": 10517, 
+    "icpsr": 29323, 
+    "maplight": 175, 
+    "opensecrets": "N00007099", 
+    "thomas": "00165", 
+    "votesmart": 26777, 
+    "wikidata": "Q538978", 
+    "wikipedia": "Ken Calvert"
+  }, 
+  "name": {
+    "first": "Ken", 
+    "last": "Calvert", 
+    "middle": "S.", 
+    "official_full": "Ken Calvert"
+  }, 
+  "social": {
+    "facebook": "70063393423", 
+    "twitter": "KenCalvert", 
+    "twitter_id": 22545491, 
+    "youtube": "RepKenCalvert", 
+    "youtube_id": "UC5MEj7YOX_QdKoqD_HRxP3A"
+  }, 
+  "terms": [
+    {
+      "district": 43, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "C000059", 
-        "cspan": 26709, 
-        "fec": [
-            "H2CA37023"
-        ], 
-        "google_entity_id": "kg:/m/024xl1", 
-        "govtrack": 400057, 
-        "house_history": 10517, 
-        "icpsr": 29323, 
-        "maplight": 175, 
-        "opensecrets": "N00007099", 
-        "thomas": "00165", 
-        "votesmart": 26777, 
-        "wikidata": "Q538978", 
-        "wikipedia": "Ken Calvert"
+    {
+      "district": 43, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Ken", 
-        "last": "Calvert", 
-        "middle": "S.", 
-        "official_full": "Ken Calvert"
+    {
+      "district": 43, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "70063393423", 
-        "twitter": "KenCalvert", 
-        "twitter_id": 22545491, 
-        "youtube": "RepKenCalvert", 
-        "youtube_id": "UC5MEj7YOX_QdKoqD_HRxP3A"
+    {
+      "district": 43, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 43, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1993-01-05", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 43, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 43, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 43, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 43, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 44, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/calvert"
-        }, 
-        {
-            "district": 44, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/calvert"
-        }, 
-        {
-            "district": 44, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://calvert.house.gov"
-        }, 
-        {
-            "district": 44, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://calvert.house.gov"
-        }, 
-        {
-            "address": "2269 Rayburn HOB; Washington DC 20515-0544", 
-            "contact_form": "http://calvert.house.gov/awenhnjafe.asp", 
-            "district": 44, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2004", 
-            "office": "2269 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1986", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://calvert.house.gov"
-        }, 
-        {
-            "address": "2269 Rayburn HOB; Washington DC 20515-0542", 
-            "contact_form": "https://calvert.house.gov/contactform/", 
-            "district": 42, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2004", 
-            "office": "2269 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1986", 
-            "rss_url": "http://calvert.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://calvert.house.gov"
-        }, 
-        {
-            "address": "2205 Rayburn HOB; Washington DC 20515-0542", 
-            "contact_form": "https://calvert.house.gov/contactform/", 
-            "district": 42, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2004", 
-            "office": "2205 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1986", 
-            "rss_url": "http://calvert.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://calvert.house.gov"
-        }, 
-        {
-            "address": "2205 Rayburn House Office Building; Washington DC 20515-0542", 
-            "district": 42, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2004", 
-            "office": "2205 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-1986", 
-            "rss_url": "http://calvert.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://calvert.house.gov"
-        }
-    ]
+    {
+      "district": 43, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "CA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 44, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/calvert"
+    }, 
+    {
+      "district": 44, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/calvert"
+    }, 
+    {
+      "district": 44, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://calvert.house.gov"
+    }, 
+    {
+      "district": 44, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://calvert.house.gov"
+    }, 
+    {
+      "address": "2269 Rayburn HOB; Washington DC 20515-0544", 
+      "contact_form": "http://calvert.house.gov/awenhnjafe.asp", 
+      "district": 44, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2004", 
+      "office": "2269 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1986", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://calvert.house.gov"
+    }, 
+    {
+      "address": "2269 Rayburn HOB; Washington DC 20515-0542", 
+      "contact_form": "https://calvert.house.gov/contactform/", 
+      "district": 42, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2004", 
+      "office": "2269 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1986", 
+      "rss_url": "http://calvert.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://calvert.house.gov"
+    }, 
+    {
+      "address": "2205 Rayburn HOB; Washington DC 20515-0542", 
+      "contact_form": "https://calvert.house.gov/contactform/", 
+      "district": 42, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2004", 
+      "office": "2205 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1986", 
+      "rss_url": "http://calvert.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://calvert.house.gov"
+    }, 
+    {
+      "address": "2205 Rayburn House Office Building; Washington DC 20515-0542", 
+      "district": 42, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2004", 
+      "office": "2205 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1986", 
+      "rss_url": "http://calvert.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://calvert.house.gov"
+    }
+  ]
 }

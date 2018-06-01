@@ -1,115 +1,116 @@
 {
-    "bio": {
-        "birthday": "1963-08-04", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1963-08-04", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:776", 
+    "ballotpedia": "Keith Ellison", 
+    "bioguide": "E000288", 
+    "cspan": 1022556, 
+    "fec": [
+      "H6MN05183"
+    ], 
+    "google_entity_id": "kg:/m/0dlwms", 
+    "govtrack": 412215, 
+    "house_history": 12957, 
+    "icpsr": 20727, 
+    "maplight": 700, 
+    "opensecrets": "N00028257", 
+    "thomas": "01857", 
+    "votesmart": 38982, 
+    "wikidata": "Q40589", 
+    "wikipedia": "Keith Ellison"
+  }, 
+  "name": {
+    "first": "Keith", 
+    "last": "Ellison", 
+    "middle": "Maurice", 
+    "official_full": "Keith Ellison"
+  }, 
+  "social": {
+    "facebook": "Keith.Ellison", 
+    "twitter": "KeithEllison", 
+    "twitter_id": 14135426, 
+    "youtube": "RepKeithEllison", 
+    "youtube_id": "UCR_QMi3wGy7xPUZxaIRi9QA"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "http://ellison.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Keith Ellison", 
-        "bioguide": "E000288", 
-        "cspan": 1022556, 
-        "fec": [
-            "H6MN05183"
-        ], 
-        "google_entity_id": "kg:/m/0dlwms", 
-        "govtrack": 412215, 
-        "house_history": 12957, 
-        "icpsr": 20727, 
-        "maplight": 700, 
-        "opensecrets": "N00028257", 
-        "thomas": "01857", 
-        "votesmart": 38982, 
-        "wikidata": "Q40589", 
-        "wikipedia": "Keith Ellison"
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "http://ellison.house.gov"
     }, 
-    "name": {
-        "first": "Keith", 
-        "last": "Ellison", 
-        "middle": "Maurice", 
-        "official_full": "Keith Ellison"
+    {
+      "address": "1027 Longworth HOB; Washington DC 20515-2305", 
+      "contact_form": "http://ellison.house.gov/index.php?option=com_content&amp;task=view&amp;id=87", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-4886", 
+      "office": "1027 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4755", 
+      "start": "2011-01-05", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "http://ellison.house.gov"
     }, 
-    "social": {
-        "facebook": "Keith.Ellison", 
-        "twitter": "KeithEllison", 
-        "twitter_id": 14135426, 
-        "youtube": "RepKeithEllison", 
-        "youtube_id": "UCR_QMi3wGy7xPUZxaIRi9QA"
+    {
+      "address": "2244 Rayburn HOB; Washington DC 20515-2305", 
+      "contact_form": "http://ellison.house.gov/contact", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4886", 
+      "office": "2244 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4755", 
+      "rss_url": "http://ellison.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "http://ellison.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "http://ellison.house.gov"
-        }, 
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "http://ellison.house.gov"
-        }, 
-        {
-            "address": "1027 Longworth HOB; Washington DC 20515-2305", 
-            "contact_form": "http://ellison.house.gov/index.php?option=com_content&amp;task=view&amp;id=87", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-4886", 
-            "office": "1027 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4755", 
-            "start": "2011-01-05", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "http://ellison.house.gov"
-        }, 
-        {
-            "address": "2244 Rayburn HOB; Washington DC 20515-2305", 
-            "contact_form": "http://ellison.house.gov/contact", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4886", 
-            "office": "2244 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4755", 
-            "rss_url": "http://ellison.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "http://ellison.house.gov"
-        }, 
-        {
-            "address": "2263 Rayburn HOB; Washington DC 20515-2305", 
-            "contact_form": "http://ellison.house.gov/contact", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4886", 
-            "office": "2263 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4755", 
-            "rss_url": "http://ellison.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "http://ellison.house.gov"
-        }, 
-        {
-            "address": "2263 Rayburn House Office Building; Washington DC 20515-2305", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4886", 
-            "office": "2263 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4755", 
-            "rss_url": "http://ellison.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "https://ellison.house.gov"
-        }
-    ]
+    {
+      "address": "2263 Rayburn HOB; Washington DC 20515-2305", 
+      "contact_form": "http://ellison.house.gov/contact", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4886", 
+      "office": "2263 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4755", 
+      "rss_url": "http://ellison.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "http://ellison.house.gov"
+    }, 
+    {
+      "address": "2263 Rayburn House Office Building; Washington DC 20515-2305", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4886", 
+      "office": "2263 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4755", 
+      "rss_url": "http://ellison.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://ellison.house.gov"
+    }
+  ]
 }

@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1958-06-17", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1958-06-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:593", 
+    "ballotpedia": "Scott Peters", 
+    "bioguide": "P000608", 
+    "cspan": 79661, 
+    "fec": [
+      "H2CA52089"
+    ], 
+    "google_entity_id": "kg:/m/02rymxd", 
+    "govtrack": 412523, 
+    "icpsr": 21315, 
+    "maplight": 1747, 
+    "opensecrets": "N00033591", 
+    "thomas": "02113", 
+    "votesmart": 70351, 
+    "wikidata": "Q3791514", 
+    "wikipedia": "Scott Peters (politician)"
+  }, 
+  "name": {
+    "first": "Scott", 
+    "last": "Peters", 
+    "middle": "H.", 
+    "official_full": "Scott H. Peters"
+  }, 
+  "social": {
+    "facebook": "RepScottPeters", 
+    "instagram": "repscottpeters", 
+    "twitter": "RepScottPeters", 
+    "twitter_id": 1135486501, 
+    "youtube_id": "UCQK77QJxW7Xr-S3zqeMd-0g"
+  }, 
+  "terms": [
+    {
+      "address": "2410 Rayburn HOB; Washington DC 20515-0552", 
+      "contact_form": "https://scottpeters.house.gov/contact/email-me", 
+      "district": 52, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2558", 
+      "office": "2410 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0508", 
+      "rss_url": "http://scottpeters.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://scottpeters.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Scott Peters", 
-        "bioguide": "P000608", 
-        "cspan": 79661, 
-        "fec": [
-            "H2CA52089"
-        ], 
-        "google_entity_id": "kg:/m/02rymxd", 
-        "govtrack": 412523, 
-        "icpsr": 21315, 
-        "maplight": 1747, 
-        "opensecrets": "N00033591", 
-        "thomas": "02113", 
-        "votesmart": 70351, 
-        "wikidata": "Q3791514", 
-        "wikipedia": "Scott Peters (politician)"
+    {
+      "address": "1122 Longworth HOB; Washington DC 20515-0552", 
+      "contact_form": "https://scottpeters.house.gov/contact/email-me", 
+      "district": 52, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2558", 
+      "office": "1122 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0508", 
+      "rss_url": "http://scottpeters.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://scottpeters.house.gov"
     }, 
-    "name": {
-        "first": "Scott", 
-        "last": "Peters", 
-        "middle": "H.", 
-        "official_full": "Scott H. Peters"
-    }, 
-    "social": {
-        "facebook": "RepScottPeters", 
-        "instagram": "repscottpeters", 
-        "twitter": "RepScottPeters", 
-        "twitter_id": 1135486501, 
-        "youtube_id": "UCQK77QJxW7Xr-S3zqeMd-0g"
-    }, 
-    "terms": [
-        {
-            "address": "2410 Rayburn HOB; Washington DC 20515-0552", 
-            "contact_form": "https://scottpeters.house.gov/contact/email-me", 
-            "district": 52, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2558", 
-            "office": "2410 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0508", 
-            "rss_url": "http://scottpeters.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://scottpeters.house.gov"
-        }, 
-        {
-            "address": "1122 Longworth HOB; Washington DC 20515-0552", 
-            "contact_form": "https://scottpeters.house.gov/contact/email-me", 
-            "district": 52, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2558", 
-            "office": "1122 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0508", 
-            "rss_url": "http://scottpeters.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://scottpeters.house.gov"
-        }, 
-        {
-            "address": "1122 Longworth House Office Building; Washington DC 20515-0552", 
-            "district": 52, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2558", 
-            "office": "1122 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-0508", 
-            "rss_url": "http://scottpeters.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://scottpeters.house.gov"
-        }
-    ]
+    {
+      "address": "1122 Longworth House Office Building; Washington DC 20515-0552", 
+      "district": 52, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2558", 
+      "office": "1122 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0508", 
+      "rss_url": "http://scottpeters.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://scottpeters.house.gov"
+    }
+  ]
 }

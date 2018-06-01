@@ -1,83 +1,84 @@
 {
-    "bio": {
-        "birthday": "1962-05-27", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1962-05-27", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:924", 
+    "ballotpedia": "Scott Perry", 
+    "bioguide": "P000605", 
+    "cspan": 79873, 
+    "fec": [
+      "H2PA04135"
+    ], 
+    "google_entity_id": "kg:/m/04mwt6y", 
+    "govtrack": 412569, 
+    "icpsr": 21356, 
+    "maplight": 1793, 
+    "opensecrets": "N00034120", 
+    "thomas": "02157", 
+    "votesmart": 59980, 
+    "wikidata": "Q7437040", 
+    "wikipedia": "Scott Perry (politician)"
+  }, 
+  "name": {
+    "first": "Scott", 
+    "last": "Perry", 
+    "official_full": "Scott Perry"
+  }, 
+  "social": {
+    "facebook": "repscottperry", 
+    "instagram": "repscottperry", 
+    "instagram_id": 519463466, 
+    "twitter": "RepScottPerry", 
+    "twitter_id": 18773159, 
+    "youtube": "RepScottPerry", 
+    "youtube_id": "UCzgrU5PT_HHRgf5hXPen4dQ"
+  }, 
+  "terms": [
+    {
+      "address": "126 Cannon HOB; Washington DC 20515-3804", 
+      "contact_form": "http://perryforms.house.gov/forms/writeyourrep/", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "fax": "202-226-1000", 
+      "office": "126 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5836", 
+      "rss_url": "http://perry.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://perry.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Scott Perry", 
-        "bioguide": "P000605", 
-        "cspan": 79873, 
-        "fec": [
-            "H2PA04135"
-        ], 
-        "google_entity_id": "kg:/m/04mwt6y", 
-        "govtrack": 412569, 
-        "icpsr": 21356, 
-        "maplight": 1793, 
-        "opensecrets": "N00034120", 
-        "thomas": "02157", 
-        "votesmart": 59980, 
-        "wikidata": "Q7437040", 
-        "wikipedia": "Scott Perry (politician)"
+    {
+      "address": "1207 Longworth HOB; Washington DC 20515-3804", 
+      "contact_form": "http://perryforms.house.gov/forms/writeyourrep/", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "fax": "202-226-1000", 
+      "office": "1207 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5836", 
+      "rss_url": "http://perry.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://perry.house.gov"
     }, 
-    "name": {
-        "first": "Scott", 
-        "last": "Perry", 
-        "official_full": "Scott Perry"
-    }, 
-    "social": {
-        "facebook": "repscottperry", 
-        "instagram": "repscottperry", 
-        "instagram_id": 519463466, 
-        "twitter": "RepScottPerry", 
-        "twitter_id": 18773159, 
-        "youtube": "RepScottPerry", 
-        "youtube_id": "UCzgrU5PT_HHRgf5hXPen4dQ"
-    }, 
-    "terms": [
-        {
-            "address": "126 Cannon HOB; Washington DC 20515-3804", 
-            "contact_form": "http://perryforms.house.gov/forms/writeyourrep/", 
-            "district": 4, 
-            "end": "2015-01-03", 
-            "fax": "202-226-1000", 
-            "office": "126 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5836", 
-            "rss_url": "http://perry.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://perry.house.gov"
-        }, 
-        {
-            "address": "1207 Longworth HOB; Washington DC 20515-3804", 
-            "contact_form": "http://perryforms.house.gov/forms/writeyourrep/", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "fax": "202-226-1000", 
-            "office": "1207 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5836", 
-            "rss_url": "http://perry.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://perry.house.gov"
-        }, 
-        {
-            "address": "1207 Longworth House Office Building; Washington DC 20515-3804", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "fax": "202-226-1000", 
-            "office": "1207 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5836", 
-            "rss_url": "http://perry.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://perry.house.gov"
-        }
-    ]
+    {
+      "address": "1207 Longworth House Office Building; Washington DC 20515-3804", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "fax": "202-226-1000", 
+      "office": "1207 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5836", 
+      "rss_url": "http://perry.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://perry.house.gov"
+    }
+  ]
 }

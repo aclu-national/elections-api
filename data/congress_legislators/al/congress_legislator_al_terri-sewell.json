@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1965-01-01", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1965-01-01", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:527", 
+    "ballotpedia": "Terri Sewell", 
+    "bioguide": "S001185", 
+    "cspan": 623257, 
+    "fec": [
+      "H0AL07086"
+    ], 
+    "google_entity_id": "kg:/m/05pbszt", 
+    "govtrack": 412396, 
+    "house_history": 22624, 
+    "icpsr": 21102, 
+    "maplight": 1410, 
+    "opensecrets": "N00030622", 
+    "thomas": "01988", 
+    "votesmart": 121621, 
+    "wikidata": "Q461621", 
+    "wikipedia": "Terri Sewell"
+  }, 
+  "name": {
+    "first": "Terri", 
+    "last": "Sewell", 
+    "middle": "A.", 
+    "official_full": "Terri A. Sewell"
+  }, 
+  "social": {
+    "facebook": "RepSewell", 
+    "twitter": "RepTerriSewell", 
+    "twitter_id": 381152398, 
+    "youtube": "RepSewell", 
+    "youtube_id": "UCHkEHtfrfUWOFtbUFQTQH7Q"
+  }, 
+  "terms": [
+    {
+      "address": "1133 Longworth HOB; Washington DC 20515-0107", 
+      "district": 7, 
+      "end": "2013-01-03", 
+      "fax": "202-226-9567", 
+      "office": "1133 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2665", 
+      "start": "2011-01-05", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "http://sewell.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Terri Sewell", 
-        "bioguide": "S001185", 
-        "cspan": 623257, 
-        "fec": [
-            "H0AL07086"
-        ], 
-        "google_entity_id": "kg:/m/05pbszt", 
-        "govtrack": 412396, 
-        "house_history": 22624, 
-        "icpsr": 21102, 
-        "maplight": 1410, 
-        "opensecrets": "N00030622", 
-        "thomas": "01988", 
-        "votesmart": 121621, 
-        "wikidata": "Q461621", 
-        "wikipedia": "Terri Sewell"
+    {
+      "address": "1133 Longworth HOB; Washington DC 20515-0107", 
+      "contact_form": "https://sewell.house.gov/email-me", 
+      "district": 7, 
+      "end": "2015-01-03", 
+      "fax": "202-226-9567", 
+      "office": "1133 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2665", 
+      "rss_url": "http://sewell.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "http://sewell.house.gov"
     }, 
-    "name": {
-        "first": "Terri", 
-        "last": "Sewell", 
-        "middle": "A.", 
-        "official_full": "Terri A. Sewell"
+    {
+      "address": "1133 Longworth HOB; Washington DC 20515-0107", 
+      "contact_form": "https://sewell.house.gov/email-me", 
+      "district": 7, 
+      "end": "2017-01-03", 
+      "fax": "202-226-9567", 
+      "office": "1133 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2665", 
+      "rss_url": "http://sewell.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "https://sewell.house.gov"
     }, 
-    "social": {
-        "facebook": "RepSewell", 
-        "twitter": "RepTerriSewell", 
-        "twitter_id": 381152398, 
-        "youtube": "RepSewell", 
-        "youtube_id": "UCHkEHtfrfUWOFtbUFQTQH7Q"
-    }, 
-    "terms": [
-        {
-            "address": "1133 Longworth HOB; Washington DC 20515-0107", 
-            "district": 7, 
-            "end": "2013-01-03", 
-            "fax": "202-226-9567", 
-            "office": "1133 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2665", 
-            "start": "2011-01-05", 
-            "state": "AL", 
-            "type": "rep", 
-            "url": "http://sewell.house.gov/"
-        }, 
-        {
-            "address": "1133 Longworth HOB; Washington DC 20515-0107", 
-            "contact_form": "https://sewell.house.gov/email-me", 
-            "district": 7, 
-            "end": "2015-01-03", 
-            "fax": "202-226-9567", 
-            "office": "1133 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2665", 
-            "rss_url": "http://sewell.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "AL", 
-            "type": "rep", 
-            "url": "http://sewell.house.gov"
-        }, 
-        {
-            "address": "1133 Longworth HOB; Washington DC 20515-0107", 
-            "contact_form": "https://sewell.house.gov/email-me", 
-            "district": 7, 
-            "end": "2017-01-03", 
-            "fax": "202-226-9567", 
-            "office": "1133 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2665", 
-            "rss_url": "http://sewell.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "AL", 
-            "type": "rep", 
-            "url": "https://sewell.house.gov"
-        }, 
-        {
-            "address": "2201 Rayburn House Office Building; Washington DC 20515-0107", 
-            "district": 7, 
-            "end": "2019-01-03", 
-            "fax": "202-226-9567", 
-            "office": "2201 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2665", 
-            "rss_url": "http://sewell.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "AL", 
-            "type": "rep", 
-            "url": "https://sewell.house.gov"
-        }
-    ]
+    {
+      "address": "2201 Rayburn House Office Building; Washington DC 20515-0107", 
+      "district": 7, 
+      "end": "2019-01-03", 
+      "fax": "202-226-9567", 
+      "office": "2201 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2665", 
+      "rss_url": "http://sewell.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "https://sewell.house.gov"
+    }
+  ]
 }

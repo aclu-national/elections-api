@@ -1,180 +1,181 @@
 {
-    "bio": {
-        "birthday": "1946-04-29", 
-        "gender": "M", 
-        "religion": "Episcopalian"
+  "bio": {
+    "birthday": "1946-04-29", 
+    "gender": "M", 
+    "religion": "Episcopalian"
+  }, 
+  "family": [
+    {
+      "name": "Peter Hood Ballantine Frelinghuysen Jr.", 
+      "relation": "son"
     }, 
-    "family": [
-        {
-            "name": "Peter Hood Ballantine Frelinghuysen Jr.", 
-            "relation": "son"
-        }, 
-        {
-            "name": "Frederick Frelinghuysen", 
-            "relation": "great great grandson"
-        }, 
-        {
-            "name": "Theodore Frelinghuysen", 
-            "relation": "great great great nephew"
-        }
+    {
+      "name": "Frederick Frelinghuysen", 
+      "relation": "great great grandson"
+    }, 
+    {
+      "name": "Theodore Frelinghuysen", 
+      "relation": "great great great nephew"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:838", 
+    "bioguide": "F000372", 
+    "cspan": 37781, 
+    "fec": [
+      "H2NJ05014"
     ], 
-    "id": {
-        "bioguide": "F000372", 
-        "cspan": 37781, 
-        "fec": [
-            "H2NJ05014"
-        ], 
-        "google_entity_id": "kg:/m/03bktp", 
-        "govtrack": 400142, 
-        "house_history": 13440, 
-        "icpsr": 29541, 
-        "maplight": 252, 
-        "opensecrets": "N00000684", 
-        "thomas": "00414", 
-        "votesmart": 22177, 
-        "wikidata": "Q338190", 
-        "wikipedia": "Rodney Frelinghuysen"
+    "google_entity_id": "kg:/m/03bktp", 
+    "govtrack": 400142, 
+    "house_history": 13440, 
+    "icpsr": 29541, 
+    "maplight": 252, 
+    "opensecrets": "N00000684", 
+    "thomas": "00414", 
+    "votesmart": 22177, 
+    "wikidata": "Q338190", 
+    "wikipedia": "Rodney Frelinghuysen"
+  }, 
+  "name": {
+    "first": "Rodney", 
+    "last": "Frelinghuysen", 
+    "middle": "P.", 
+    "official_full": "Rodney P. Frelinghuysen"
+  }, 
+  "social": {
+    "facebook": "rfrelinghuysen", 
+    "instagram": "usreprodney", 
+    "twitter": "USRepRodney", 
+    "twitter_id": 1382011333, 
+    "youtube": "RepFrelinghuysen", 
+    "youtube_id": "UCePp5KwEKTtu3GM6gkVIkmg"
+  }, 
+  "terms": [
+    {
+      "district": 11, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Rodney", 
-        "last": "Frelinghuysen", 
-        "middle": "P.", 
-        "official_full": "Rodney P. Frelinghuysen"
+    {
+      "district": 11, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "rfrelinghuysen", 
-        "instagram": "usreprodney", 
-        "twitter": "USRepRodney", 
-        "twitter_id": 1382011333, 
-        "youtube": "RepFrelinghuysen", 
-        "youtube_id": "UCePp5KwEKTtu3GM6gkVIkmg"
+    {
+      "district": 11, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 11, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 11, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/frelinghuysen"
-        }, 
-        {
-            "district": 11, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/frelinghuysen"
-        }, 
-        {
-            "district": 11, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://frelinghuysen.house.gov"
-        }, 
-        {
-            "district": 11, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://frelinghuysen.house.gov"
-        }, 
-        {
-            "address": "2369 Rayburn HOB; Washington DC 20515-3011", 
-            "contact_form": "http://frelinghuysen.house.gov/contactus/form.cfm", 
-            "district": 11, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3186", 
-            "office": "2369 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5034", 
-            "start": "2011-01-05", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://frelinghuysen.house.gov"
-        }, 
-        {
-            "address": "2306 Rayburn HOB; Washington DC 20515-3011", 
-            "contact_form": "https://frelinghuysenforms.house.gov/contact-form", 
-            "district": 11, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3186", 
-            "office": "2306 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5034", 
-            "rss_url": "http://frelinghuysen.house.gov/common/rss/?rss=3", 
-            "start": "2013-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://frelinghuysen.house.gov"
-        }, 
-        {
-            "address": "2306 Rayburn HOB; Washington DC 20515-3011", 
-            "contact_form": "https://frelinghuysenforms.house.gov/contact-form", 
-            "district": 11, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3186", 
-            "office": "2306 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5034", 
-            "rss_url": "http://frelinghuysen.house.gov/common/rss/?rss=3", 
-            "start": "2015-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://frelinghuysen.house.gov"
-        }, 
-        {
-            "address": "2306 Rayburn House Office Building; Washington DC 20515-3011", 
-            "district": 11, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3186", 
-            "office": "2306 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5034", 
-            "rss_url": "http://frelinghuysen.house.gov/common/rss/?rss=3", 
-            "start": "2017-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "https://frelinghuysen.house.gov"
-        }
-    ]
+    {
+      "district": 11, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 11, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/frelinghuysen"
+    }, 
+    {
+      "district": 11, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/frelinghuysen"
+    }, 
+    {
+      "district": 11, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://frelinghuysen.house.gov"
+    }, 
+    {
+      "district": 11, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://frelinghuysen.house.gov"
+    }, 
+    {
+      "address": "2369 Rayburn HOB; Washington DC 20515-3011", 
+      "contact_form": "http://frelinghuysen.house.gov/contactus/form.cfm", 
+      "district": 11, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3186", 
+      "office": "2369 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5034", 
+      "start": "2011-01-05", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://frelinghuysen.house.gov"
+    }, 
+    {
+      "address": "2306 Rayburn HOB; Washington DC 20515-3011", 
+      "contact_form": "https://frelinghuysenforms.house.gov/contact-form", 
+      "district": 11, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3186", 
+      "office": "2306 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5034", 
+      "rss_url": "http://frelinghuysen.house.gov/common/rss/?rss=3", 
+      "start": "2013-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://frelinghuysen.house.gov"
+    }, 
+    {
+      "address": "2306 Rayburn HOB; Washington DC 20515-3011", 
+      "contact_form": "https://frelinghuysenforms.house.gov/contact-form", 
+      "district": 11, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3186", 
+      "office": "2306 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5034", 
+      "rss_url": "http://frelinghuysen.house.gov/common/rss/?rss=3", 
+      "start": "2015-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://frelinghuysen.house.gov"
+    }, 
+    {
+      "address": "2306 Rayburn House Office Building; Washington DC 20515-3011", 
+      "district": 11, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3186", 
+      "office": "2306 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5034", 
+      "rss_url": "http://frelinghuysen.house.gov/common/rss/?rss=3", 
+      "start": "2017-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://frelinghuysen.house.gov"
+    }
+  ]
 }

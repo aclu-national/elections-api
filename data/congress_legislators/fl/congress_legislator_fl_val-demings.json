@@ -1,47 +1,48 @@
 {
-    "bio": {
-        "birthday": "1957-03-12", 
-        "gender": "F"
-    }, 
-    "id": {
-        "bioguide": "D000627", 
-        "cspan": 623713, 
-        "fec": [
-            "H2FL08063"
-        ], 
-        "google_entity_id": "kg:/m/0n52xwn", 
-        "govtrack": 412696, 
-        "icpsr": 21713, 
-        "maplight": 2208, 
-        "opensecrets": "N00033449", 
-        "votesmart": 137637, 
-        "wikidata": "Q7909083", 
-        "wikipedia": "Val Demings"
-    }, 
-    "name": {
-        "first": "Val", 
-        "last": "Demings", 
-        "official_full": "Val Butler Demings"
-    }, 
-    "social": {
-        "facebook": "RepresentativeValDemings", 
-        "instagram": "repvaldemings", 
-        "twitter": "RepValDemings", 
-        "twitter_id": 798973032362606600, 
-        "youtube_id": "UCkcshqwFNJG6XeduOforhig"
-    }, 
-    "terms": [
-        {
-            "address": "238 Cannon House Office Building; Washington DC 20515-0910", 
-            "district": 10, 
-            "end": "2019-01-03", 
-            "office": "238 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2176", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://demings.house.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1957-03-12", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:647", 
+    "bioguide": "D000627", 
+    "cspan": 623713, 
+    "fec": [
+      "H2FL08063"
+    ], 
+    "google_entity_id": "kg:/m/0n52xwn", 
+    "govtrack": 412696, 
+    "icpsr": 21713, 
+    "maplight": 2208, 
+    "opensecrets": "N00033449", 
+    "votesmart": 137637, 
+    "wikidata": "Q7909083", 
+    "wikipedia": "Val Demings"
+  }, 
+  "name": {
+    "first": "Val", 
+    "last": "Demings", 
+    "official_full": "Val Butler Demings"
+  }, 
+  "social": {
+    "facebook": "RepresentativeValDemings", 
+    "instagram": "repvaldemings", 
+    "twitter": "RepValDemings", 
+    "twitter_id": 798973032362606600, 
+    "youtube_id": "UCkcshqwFNJG6XeduOforhig"
+  }, 
+  "terms": [
+    {
+      "address": "238 Cannon House Office Building; Washington DC 20515-0910", 
+      "district": 10, 
+      "end": "2019-01-03", 
+      "office": "238 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2176", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://demings.house.gov"
+    }
+  ]
 }

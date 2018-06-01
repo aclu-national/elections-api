@@ -1,113 +1,114 @@
 {
-    "bio": {
-        "birthday": "1949-05-24", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1949-05-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:953", 
+    "bioguide": "C001068", 
+    "cspan": 1022876, 
+    "fec": [
+      "H6TN09068"
+    ], 
+    "google_entity_id": "kg:/m/04l8cr", 
+    "govtrack": 412236, 
+    "house_history": 11800, 
+    "icpsr": 20748, 
+    "maplight": 721, 
+    "opensecrets": "N00003225", 
+    "thomas": "01878", 
+    "votesmart": 24340, 
+    "wikidata": "Q512330", 
+    "wikipedia": "Steve Cohen"
+  }, 
+  "name": {
+    "first": "Steve", 
+    "last": "Cohen", 
+    "official_full": "Steve Cohen"
+  }, 
+  "social": {
+    "facebook": "CongressmanSteveCohen", 
+    "twitter": "RepCohen", 
+    "twitter_id": 162069635, 
+    "youtube": "repcohen", 
+    "youtube_id": "UC_NJlnsOBjOameUwZk0rvsA"
+  }, 
+  "terms": [
+    {
+      "district": 9, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://cohen.house.gov"
     }, 
-    "id": {
-        "bioguide": "C001068", 
-        "cspan": 1022876, 
-        "fec": [
-            "H6TN09068"
-        ], 
-        "google_entity_id": "kg:/m/04l8cr", 
-        "govtrack": 412236, 
-        "house_history": 11800, 
-        "icpsr": 20748, 
-        "maplight": 721, 
-        "opensecrets": "N00003225", 
-        "thomas": "01878", 
-        "votesmart": 24340, 
-        "wikidata": "Q512330", 
-        "wikipedia": "Steve Cohen"
+    {
+      "district": 9, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://cohen.house.gov"
     }, 
-    "name": {
-        "first": "Steve", 
-        "last": "Cohen", 
-        "official_full": "Steve Cohen"
+    {
+      "address": "1005 Longworth HOB; Washington DC 20515-4209", 
+      "contact_form": "http://cohen.house.gov/index.php?option=com_email_form&amp;Itemid=113", 
+      "district": 9, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5663", 
+      "office": "1005 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3265", 
+      "start": "2011-01-05", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://cohen.house.gov"
     }, 
-    "social": {
-        "facebook": "CongressmanSteveCohen", 
-        "twitter": "RepCohen", 
-        "twitter_id": 162069635, 
-        "youtube": "repcohen", 
-        "youtube_id": "UC_NJlnsOBjOameUwZk0rvsA"
+    {
+      "address": "2404 Rayburn HOB; Washington DC 20515-4209", 
+      "contact_form": "https://cohen.house.gov/contact-me/email-me", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5663", 
+      "office": "2404 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3265", 
+      "rss_url": "http://cohen.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://cohen.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 9, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://cohen.house.gov"
-        }, 
-        {
-            "district": 9, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://cohen.house.gov"
-        }, 
-        {
-            "address": "1005 Longworth HOB; Washington DC 20515-4209", 
-            "contact_form": "http://cohen.house.gov/index.php?option=com_email_form&amp;Itemid=113", 
-            "district": 9, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5663", 
-            "office": "1005 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3265", 
-            "start": "2011-01-05", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://cohen.house.gov"
-        }, 
-        {
-            "address": "2404 Rayburn HOB; Washington DC 20515-4209", 
-            "contact_form": "https://cohen.house.gov/contact-me/email-me", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5663", 
-            "office": "2404 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3265", 
-            "rss_url": "http://cohen.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://cohen.house.gov"
-        }, 
-        {
-            "address": "2404 Rayburn HOB; Washington DC 20515-4209", 
-            "contact_form": "https://cohen.house.gov/contact-me/email-me", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5663", 
-            "office": "2404 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3265", 
-            "rss_url": "http://cohen.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://cohen.house.gov"
-        }, 
-        {
-            "address": "2404 Rayburn House Office Building; Washington DC 20515-4209", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5663", 
-            "office": "2404 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3265", 
-            "rss_url": "http://cohen.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "https://cohen.house.gov"
-        }
-    ]
+    {
+      "address": "2404 Rayburn HOB; Washington DC 20515-4209", 
+      "contact_form": "https://cohen.house.gov/contact-me/email-me", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5663", 
+      "office": "2404 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3265", 
+      "rss_url": "http://cohen.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://cohen.house.gov"
+    }, 
+    {
+      "address": "2404 Rayburn House Office Building; Washington DC 20515-4209", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5663", 
+      "office": "2404 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3265", 
+      "rss_url": "http://cohen.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://cohen.house.gov"
+    }
+  ]
 }

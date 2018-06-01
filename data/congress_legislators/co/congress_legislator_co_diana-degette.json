@@ -1,158 +1,159 @@
 {
-    "bio": {
-        "birthday": "1957-07-29", 
-        "gender": "F", 
-        "religion": "Presbyterian"
+  "bio": {
+    "birthday": "1957-07-29", 
+    "gender": "F", 
+    "religion": "Presbyterian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:601", 
+    "ballotpedia": "Diana DeGette", 
+    "bioguide": "D000197", 
+    "cspan": 90293, 
+    "fec": [
+      "H6CO01141"
+    ], 
+    "google_entity_id": "kg:/m/024z95", 
+    "govtrack": 400101, 
+    "house_history": 12076, 
+    "icpsr": 29710, 
+    "maplight": 214, 
+    "opensecrets": "N00006134", 
+    "thomas": "01479", 
+    "votesmart": 561, 
+    "wikidata": "Q437159", 
+    "wikipedia": "Diana DeGette"
+  }, 
+  "name": {
+    "first": "Diana", 
+    "last": "DeGette", 
+    "middle": "L.", 
+    "official_full": "Diana DeGette"
+  }, 
+  "social": {
+    "facebook": "DianaDeGette", 
+    "twitter": "RepDianaDeGette", 
+    "twitter_id": 28599820, 
+    "youtube": "RepDianaDeGette", 
+    "youtube_id": "UCWFQCRTHwsHg9P1Hf-EQtew"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "CO", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Diana DeGette", 
-        "bioguide": "D000197", 
-        "cspan": 90293, 
-        "fec": [
-            "H6CO01141"
-        ], 
-        "google_entity_id": "kg:/m/024z95", 
-        "govtrack": 400101, 
-        "house_history": 12076, 
-        "icpsr": 29710, 
-        "maplight": 214, 
-        "opensecrets": "N00006134", 
-        "thomas": "01479", 
-        "votesmart": 561, 
-        "wikidata": "Q437159", 
-        "wikipedia": "Diana DeGette"
+    {
+      "district": 1, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "CO", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Diana", 
-        "last": "DeGette", 
-        "middle": "L.", 
-        "official_full": "Diana DeGette"
+    {
+      "district": 1, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "CO", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "DianaDeGette", 
-        "twitter": "RepDianaDeGette", 
-        "twitter_id": 28599820, 
-        "youtube": "RepDianaDeGette", 
-        "youtube_id": "UCWFQCRTHwsHg9P1Hf-EQtew"
+    {
+      "district": 1, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/degette"
     }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "CO", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "CO", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "CO", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/degette"
-        }, 
-        {
-            "district": 1, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/degette"
-        }, 
-        {
-            "district": 1, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/degette"
-        }, 
-        {
-            "district": 1, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/degette"
-        }, 
-        {
-            "address": "2335 Rayburn HOB; Washington DC 20515-0601", 
-            "contact_form": "http://www.house.gov/formdegette/zip_auth.htm", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5657", 
-            "office": "2335 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4431", 
-            "start": "2011-01-05", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/degette"
-        }, 
-        {
-            "address": "2368 Rayburn HOB; Washington DC 20515-0601", 
-            "contact_form": "https://degette.house.gov/contact/send-me-an-email/email-me", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5657", 
-            "office": "2368 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4431", 
-            "rss_url": "http://degette.house.gov/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw", 
-            "start": "2013-01-03", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://degette.house.gov"
-        }, 
-        {
-            "address": "2368 Rayburn HOB; Washington DC 20515-0601", 
-            "contact_form": "https://degette.house.gov/contact/send-me-an-email/email-me", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5657", 
-            "office": "2368 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4431", 
-            "rss_url": "http://degette.house.gov/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw", 
-            "start": "2015-01-06", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://degette.house.gov"
-        }, 
-        {
-            "address": "2111 Rayburn House Office Building; Washington DC 20515-0601", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5657", 
-            "office": "2111 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4431", 
-            "rss_url": "http://degette.house.gov/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw", 
-            "start": "2017-01-03", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "https://degette.house.gov"
-        }
-    ]
+    {
+      "district": 1, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/degette"
+    }, 
+    {
+      "district": 1, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/degette"
+    }, 
+    {
+      "district": 1, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/degette"
+    }, 
+    {
+      "address": "2335 Rayburn HOB; Washington DC 20515-0601", 
+      "contact_form": "http://www.house.gov/formdegette/zip_auth.htm", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5657", 
+      "office": "2335 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4431", 
+      "start": "2011-01-05", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/degette"
+    }, 
+    {
+      "address": "2368 Rayburn HOB; Washington DC 20515-0601", 
+      "contact_form": "https://degette.house.gov/contact/send-me-an-email/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5657", 
+      "office": "2368 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4431", 
+      "rss_url": "http://degette.house.gov/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw", 
+      "start": "2013-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://degette.house.gov"
+    }, 
+    {
+      "address": "2368 Rayburn HOB; Washington DC 20515-0601", 
+      "contact_form": "https://degette.house.gov/contact/send-me-an-email/email-me", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5657", 
+      "office": "2368 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4431", 
+      "rss_url": "http://degette.house.gov/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw", 
+      "start": "2015-01-06", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://degette.house.gov"
+    }, 
+    {
+      "address": "2111 Rayburn House Office Building; Washington DC 20515-0601", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5657", 
+      "office": "2111 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4431", 
+      "rss_url": "http://degette.house.gov/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw", 
+      "start": "2017-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "https://degette.house.gov"
+    }
+  ]
 }

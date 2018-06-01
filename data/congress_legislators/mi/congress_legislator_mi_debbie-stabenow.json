@@ -1,97 +1,98 @@
 {
-    "bio": {
-        "birthday": "1950-04-29", 
-        "gender": "F", 
-        "religion": "United Methodist"
+  "bio": {
+    "birthday": "1950-04-29", 
+    "gender": "F", 
+    "religion": "United Methodist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:762", 
+    "ballotpedia": "Debbie Stabenow", 
+    "bioguide": "S000770", 
+    "cspan": 45451, 
+    "fec": [
+      "S8MI00281", 
+      "H6MI08163"
+    ], 
+    "google_entity_id": "kg:/m/01xh64", 
+    "govtrack": 300093, 
+    "house_history": 22090, 
+    "icpsr": 29732, 
+    "lis": "S284", 
+    "maplight": 612, 
+    "opensecrets": "N00004118", 
+    "thomas": "01531", 
+    "votesmart": 515, 
+    "wikidata": "Q241092", 
+    "wikipedia": "Debbie Stabenow"
+  }, 
+  "name": {
+    "first": "Debbie", 
+    "last": "Stabenow", 
+    "middle": "Ann", 
+    "official_full": "Debbie Stabenow"
+  }, 
+  "social": {
+    "facebook": "SenatorStabenow", 
+    "twitter": "SenStabenow", 
+    "twitter_id": 76456274, 
+    "youtube": "senatorstabenow", 
+    "youtube_id": "UCFoDKCvxSwCUfDv-4Eg4K5A"
+  }, 
+  "terms": [
+    {
+      "district": 8, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "MI", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Debbie Stabenow", 
-        "bioguide": "S000770", 
-        "cspan": 45451, 
-        "fec": [
-            "S8MI00281", 
-            "H6MI08163"
-        ], 
-        "google_entity_id": "kg:/m/01xh64", 
-        "govtrack": 300093, 
-        "house_history": 22090, 
-        "icpsr": 29732, 
-        "lis": "S284", 
-        "maplight": 612, 
-        "opensecrets": "N00004118", 
-        "thomas": "01531", 
-        "votesmart": 515, 
-        "wikidata": "Q241092", 
-        "wikipedia": "Debbie Stabenow"
+    {
+      "district": 8, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "MI", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Debbie", 
-        "last": "Stabenow", 
-        "middle": "Ann", 
-        "official_full": "Debbie Stabenow"
+    {
+      "class": 1, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "MI", 
+      "type": "sen", 
+      "url": "http://stabenow.senate.gov/"
     }, 
-    "social": {
-        "facebook": "SenatorStabenow", 
-        "twitter": "SenStabenow", 
-        "twitter_id": 76456274, 
-        "youtube": "senatorstabenow", 
-        "youtube_id": "UCFoDKCvxSwCUfDv-4Eg4K5A"
+    {
+      "address": "133 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.stabenow.senate.gov/?p=contact", 
+      "end": "2013-01-03", 
+      "fax": "202-228-0325", 
+      "office": "133 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4822", 
+      "start": "2007-01-04", 
+      "state": "MI", 
+      "type": "sen", 
+      "url": "http://stabenow.senate.gov/"
     }, 
-    "terms": [
-        {
-            "district": 8, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 8, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "MI", 
-            "type": "rep"
-        }, 
-        {
-            "class": 1, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "MI", 
-            "type": "sen", 
-            "url": "http://stabenow.senate.gov/"
-        }, 
-        {
-            "address": "133 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.stabenow.senate.gov/?p=contact", 
-            "end": "2013-01-03", 
-            "fax": "202-228-0325", 
-            "office": "133 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-4822", 
-            "start": "2007-01-04", 
-            "state": "MI", 
-            "type": "sen", 
-            "url": "http://stabenow.senate.gov/"
-        }, 
-        {
-            "address": "731 Hart Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "https://www.stabenow.senate.gov/contact", 
-            "end": "2019-01-03", 
-            "fax": "202-228-0325", 
-            "office": "731 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-4822", 
-            "rss_url": "http://stabenow.senate.gov/rss/?p=news", 
-            "start": "2013-01-03", 
-            "state": "MI", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.stabenow.senate.gov"
-        }
-    ]
+    {
+      "address": "731 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "https://www.stabenow.senate.gov/contact", 
+      "end": "2019-01-03", 
+      "fax": "202-228-0325", 
+      "office": "731 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4822", 
+      "rss_url": "http://stabenow.senate.gov/rss/?p=news", 
+      "start": "2013-01-03", 
+      "state": "MI", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.stabenow.senate.gov"
+    }
+  ]
 }

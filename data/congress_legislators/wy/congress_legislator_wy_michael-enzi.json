@@ -1,89 +1,90 @@
 {
-    "bio": {
-        "birthday": "1944-02-01", 
-        "gender": "M", 
-        "religion": "Presbyterian"
+  "bio": {
+    "birthday": "1944-02-01", 
+    "gender": "M", 
+    "religion": "Presbyterian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1042", 
+    "ballotpedia": "Mike Enzi", 
+    "bioguide": "E000285", 
+    "cspan": 45824, 
+    "fec": [
+      "S6WY00126"
+    ], 
+    "google_entity_id": "kg:/m/021ph1", 
+    "govtrack": 300041, 
+    "icpsr": 49706, 
+    "lis": "S254", 
+    "maplight": 565, 
+    "opensecrets": "N00006249", 
+    "thomas": "01542", 
+    "votesmart": 558, 
+    "wikidata": "Q432431", 
+    "wikipedia": "Mike Enzi"
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "Enzi", 
+    "middle": "B.", 
+    "official_full": "Michael B. Enzi"
+  }, 
+  "social": {
+    "facebook": "mikeenzi", 
+    "twitter": "SenatorEnzi", 
+    "twitter_id": 291756142, 
+    "youtube": "senatorenzi", 
+    "youtube_id": "UCipEXEDAKVPj_B0cQjaikEA"
+  }, 
+  "terms": [
+    {
+      "class": 2, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "WY", 
+      "type": "sen"
     }, 
-    "id": {
-        "ballotpedia": "Mike Enzi", 
-        "bioguide": "E000285", 
-        "cspan": 45824, 
-        "fec": [
-            "S6WY00126"
-        ], 
-        "google_entity_id": "kg:/m/021ph1", 
-        "govtrack": 300041, 
-        "icpsr": 49706, 
-        "lis": "S254", 
-        "maplight": 565, 
-        "opensecrets": "N00006249", 
-        "thomas": "01542", 
-        "votesmart": 558, 
-        "wikidata": "Q432431", 
-        "wikipedia": "Mike Enzi"
+    {
+      "class": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "WY", 
+      "type": "sen", 
+      "url": "http://enzi.senate.gov"
     }, 
-    "name": {
-        "first": "Michael", 
-        "last": "Enzi", 
-        "middle": "B.", 
-        "official_full": "Michael B. Enzi"
+    {
+      "address": "379A Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi", 
+      "end": "2015-01-03", 
+      "fax": "202-228-0359", 
+      "office": "379a Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3424", 
+      "rss_url": "http://www.enzi.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2009-01-06", 
+      "state": "WY", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.enzi.senate.gov"
     }, 
-    "social": {
-        "facebook": "mikeenzi", 
-        "twitter": "SenatorEnzi", 
-        "twitter_id": 291756142, 
-        "youtube": "senatorenzi", 
-        "youtube_id": "UCipEXEDAKVPj_B0cQjaikEA"
-    }, 
-    "terms": [
-        {
-            "class": 2, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "WY", 
-            "type": "sen"
-        }, 
-        {
-            "class": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "WY", 
-            "type": "sen", 
-            "url": "http://enzi.senate.gov"
-        }, 
-        {
-            "address": "379A Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi", 
-            "end": "2015-01-03", 
-            "fax": "202-228-0359", 
-            "office": "379a Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-3424", 
-            "rss_url": "http://www.enzi.senate.gov/public/index.cfm/rss/feed", 
-            "start": "2009-01-06", 
-            "state": "WY", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.enzi.senate.gov"
-        }, 
-        {
-            "address": "379A Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi", 
-            "end": "2021-01-03", 
-            "fax": "202-228-0359", 
-            "office": "379a Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-3424", 
-            "rss_url": "http://www.enzi.senate.gov/public/index.cfm/rss/feed", 
-            "start": "2015-01-06", 
-            "state": "WY", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.enzi.senate.gov"
-        }
-    ]
+    {
+      "address": "379A Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi", 
+      "end": "2021-01-03", 
+      "fax": "202-228-0359", 
+      "office": "379a Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3424", 
+      "rss_url": "http://www.enzi.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2015-01-06", 
+      "state": "WY", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.enzi.senate.gov"
+    }
+  ]
 }

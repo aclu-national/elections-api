@@ -1,83 +1,84 @@
 {
-    "bio": {
-        "birthday": "1952-12-02", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1952-12-02", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:823", 
+    "ballotpedia": "Carol Shea-Porter", 
+    "bioguide": "S001170", 
+    "cspan": 1021773, 
+    "fec": [
+      "H6NH01230"
+    ], 
+    "google_entity_id": "kg:/m/0fvcl4", 
+    "govtrack": 412219, 
+    "house_history": 22596, 
+    "icpsr": 20731, 
+    "maplight": 704, 
+    "opensecrets": "N00028091", 
+    "thomas": "01861", 
+    "votesmart": 65891, 
+    "wikidata": "Q434112", 
+    "wikipedia": "Carol Shea-Porter"
+  }, 
+  "name": {
+    "first": "Carol", 
+    "last": "Shea-Porter", 
+    "official_full": "Carol Shea-Porter"
+  }, 
+  "social": {
+    "facebook": "repsheaporter", 
+    "twitter": "repsheaporter", 
+    "twitter_id": 126171100
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "http://shea-porter.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Carol Shea-Porter", 
-        "bioguide": "S001170", 
-        "cspan": 1021773, 
-        "fec": [
-            "H6NH01230"
-        ], 
-        "google_entity_id": "kg:/m/0fvcl4", 
-        "govtrack": 412219, 
-        "house_history": 22596, 
-        "icpsr": 20731, 
-        "maplight": 704, 
-        "opensecrets": "N00028091", 
-        "thomas": "01861", 
-        "votesmart": 65891, 
-        "wikidata": "Q434112", 
-        "wikipedia": "Carol Shea-Porter"
+    {
+      "district": 1, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "http://shea-porter.house.gov"
     }, 
-    "name": {
-        "first": "Carol", 
-        "last": "Shea-Porter", 
-        "official_full": "Carol Shea-Porter"
+    {
+      "address": "1530 Longworth HOB; Washington DC 20515-2901", 
+      "contact_form": "https://shea-porter.house.gov/contact/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-228-6362", 
+      "office": "1530 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5456", 
+      "rss_url": "http://shea-porter.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "http://shea-porter.house.gov"
     }, 
-    "social": {
-        "facebook": "repsheaporter", 
-        "twitter": "repsheaporter", 
-        "twitter_id": 126171100
-    }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "NH", 
-            "type": "rep", 
-            "url": "http://shea-porter.house.gov"
-        }, 
-        {
-            "district": 1, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "NH", 
-            "type": "rep", 
-            "url": "http://shea-porter.house.gov"
-        }, 
-        {
-            "address": "1530 Longworth HOB; Washington DC 20515-2901", 
-            "contact_form": "https://shea-porter.house.gov/contact/email-me", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-228-6362", 
-            "office": "1530 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5456", 
-            "rss_url": "http://shea-porter.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NH", 
-            "type": "rep", 
-            "url": "http://shea-porter.house.gov"
-        }, 
-        {
-            "address": "1530 Longworth House Office Building; Washington DC 20515-2901", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-228-6362", 
-            "office": "1530 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5456", 
-            "rss_url": "http://shea-porter.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NH", 
-            "type": "rep", 
-            "url": "https://shea-porter.house.gov"
-        }
-    ]
+    {
+      "address": "1530 Longworth House Office Building; Washington DC 20515-2901", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-228-6362", 
+      "office": "1530 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5456", 
+      "rss_url": "http://shea-porter.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "https://shea-porter.house.gov"
+    }
+  ]
 }

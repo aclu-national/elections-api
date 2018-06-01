@@ -1,84 +1,85 @@
 {
-    "bio": {
-        "birthday": "1959-10-24", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1959-10-24", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:842", 
+    "ballotpedia": "Michelle Lujan Grisham", 
+    "bioguide": "L000580", 
+    "cspan": 94791, 
+    "fec": [
+      "H8NM01257"
+    ], 
+    "google_entity_id": "kg:/m/0n3vkrv", 
+    "govtrack": 412558, 
+    "house_history": 15032387385, 
+    "icpsr": 21341, 
+    "maplight": 1782, 
+    "opensecrets": "N00029400", 
+    "thomas": "02146", 
+    "votesmart": 102404, 
+    "wikidata": "Q3917203", 
+    "wikipedia": "Michelle Lujan Grisham"
+  }, 
+  "name": {
+    "first": "Michelle", 
+    "last": "Lujan Grisham", 
+    "official_full": "Michelle Lujan Grisham"
+  }, 
+  "social": {
+    "facebook": "RepLujanGrisham", 
+    "instagram": "replujangrisham", 
+    "instagram_id": 379143191, 
+    "twitter": "RepLujanGrisham", 
+    "twitter_id": 1061385474, 
+    "youtube": "RepLujanGrisham", 
+    "youtube_id": "UCS_N-wEnUBEbVYCD-CXpNjw"
+  }, 
+  "terms": [
+    {
+      "address": "214 Cannon HOB; Washington DC 20515-3101", 
+      "contact_form": "http://lujangrisham.house.gov/contact/email-me/", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4975", 
+      "office": "214 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6316", 
+      "rss_url": "http://lujangrisham.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://lujangrisham.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Michelle Lujan Grisham", 
-        "bioguide": "L000580", 
-        "cspan": 94791, 
-        "fec": [
-            "H8NM01257"
-        ], 
-        "google_entity_id": "kg:/m/0n3vkrv", 
-        "govtrack": 412558, 
-        "house_history": 15032387385, 
-        "icpsr": 21341, 
-        "maplight": 1782, 
-        "opensecrets": "N00029400", 
-        "thomas": "02146", 
-        "votesmart": 102404, 
-        "wikidata": "Q3917203", 
-        "wikipedia": "Michelle Lujan Grisham"
+    {
+      "address": "214 Cannon HOB; Washington DC 20515-3101", 
+      "contact_form": "http://lujangrisham.house.gov/contact/email-me/", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4975", 
+      "office": "214 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6316", 
+      "rss_url": "http://lujangrisham.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://lujangrisham.house.gov"
     }, 
-    "name": {
-        "first": "Michelle", 
-        "last": "Lujan Grisham", 
-        "official_full": "Michelle Lujan Grisham"
-    }, 
-    "social": {
-        "facebook": "RepLujanGrisham", 
-        "instagram": "replujangrisham", 
-        "instagram_id": 379143191, 
-        "twitter": "RepLujanGrisham", 
-        "twitter_id": 1061385474, 
-        "youtube": "RepLujanGrisham", 
-        "youtube_id": "UCS_N-wEnUBEbVYCD-CXpNjw"
-    }, 
-    "terms": [
-        {
-            "address": "214 Cannon HOB; Washington DC 20515-3101", 
-            "contact_form": "http://lujangrisham.house.gov/contact/email-me/", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4975", 
-            "office": "214 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6316", 
-            "rss_url": "http://lujangrisham.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://lujangrisham.house.gov"
-        }, 
-        {
-            "address": "214 Cannon HOB; Washington DC 20515-3101", 
-            "contact_form": "http://lujangrisham.house.gov/contact/email-me/", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4975", 
-            "office": "214 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6316", 
-            "rss_url": "http://lujangrisham.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "https://lujangrisham.house.gov"
-        }, 
-        {
-            "address": "214 Cannon House Office Building; Washington DC 20515-3101", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4975", 
-            "office": "214 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6316", 
-            "rss_url": "http://lujangrisham.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "https://lujangrisham.house.gov"
-        }
-    ]
+    {
+      "address": "214 Cannon House Office Building; Washington DC 20515-3101", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4975", 
+      "office": "214 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6316", 
+      "rss_url": "http://lujangrisham.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://lujangrisham.house.gov"
+    }
+  ]
 }

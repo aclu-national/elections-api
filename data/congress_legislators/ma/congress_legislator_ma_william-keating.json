@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1952-09-06", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1952-09-06", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:742", 
+    "bioguide": "K000375", 
+    "cspan": 61856, 
+    "fec": [
+      "H0MA10082"
+    ], 
+    "google_entity_id": "kg:/m/09v6g7c", 
+    "govtrack": 412435, 
+    "house_history": 16570, 
+    "icpsr": 21140, 
+    "maplight": 1446, 
+    "opensecrets": "N00031933", 
+    "thomas": "02025", 
+    "votesmart": 4743, 
+    "wikidata": "Q775412", 
+    "wikipedia": "Bill Keating (politician)"
+  }, 
+  "name": {
+    "first": "William", 
+    "last": "Keating", 
+    "middle": "R.", 
+    "official_full": "William R. Keating"
+  }, 
+  "social": {
+    "facebook": "Congressman.Keating", 
+    "twitter": "USRepKeating", 
+    "twitter_id": 232992031, 
+    "youtube": "RepBillKeating", 
+    "youtube_id": "UC7KPV4xdxO2dms9vl6tETmg"
+  }, 
+  "terms": [
+    {
+      "address": "315 Cannon HOB; Washington DC 20515-2110", 
+      "district": 10, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5658", 
+      "office": "315 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3111", 
+      "start": "2011-01-05", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://keating.house.gov/"
     }, 
-    "id": {
-        "bioguide": "K000375", 
-        "cspan": 61856, 
-        "fec": [
-            "H0MA10082"
-        ], 
-        "google_entity_id": "kg:/m/09v6g7c", 
-        "govtrack": 412435, 
-        "house_history": 16570, 
-        "icpsr": 21140, 
-        "maplight": 1446, 
-        "opensecrets": "N00031933", 
-        "thomas": "02025", 
-        "votesmart": 4743, 
-        "wikidata": "Q775412", 
-        "wikipedia": "Bill Keating (politician)"
+    {
+      "address": "315 Cannon HOB; Washington DC 20515-2109", 
+      "contact_form": "https://forms.house.gov/keating/webforms/contact.shtml", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5658", 
+      "office": "315 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3111", 
+      "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://keating.house.gov"
     }, 
-    "name": {
-        "first": "William", 
-        "last": "Keating", 
-        "middle": "R.", 
-        "official_full": "William R. Keating"
+    {
+      "address": "315 Cannon HOB; Washington DC 20515-2109", 
+      "contact_form": "https://forms.house.gov/keating/webforms/contact.shtml", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5658", 
+      "office": "315 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3111", 
+      "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://keating.house.gov"
     }, 
-    "social": {
-        "facebook": "Congressman.Keating", 
-        "twitter": "USRepKeating", 
-        "twitter_id": 232992031, 
-        "youtube": "RepBillKeating", 
-        "youtube_id": "UC7KPV4xdxO2dms9vl6tETmg"
-    }, 
-    "terms": [
-        {
-            "address": "315 Cannon HOB; Washington DC 20515-2110", 
-            "district": 10, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5658", 
-            "office": "315 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3111", 
-            "start": "2011-01-05", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://keating.house.gov/"
-        }, 
-        {
-            "address": "315 Cannon HOB; Washington DC 20515-2109", 
-            "contact_form": "https://forms.house.gov/keating/webforms/contact.shtml", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5658", 
-            "office": "315 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3111", 
-            "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://keating.house.gov"
-        }, 
-        {
-            "address": "315 Cannon HOB; Washington DC 20515-2109", 
-            "contact_form": "https://forms.house.gov/keating/webforms/contact.shtml", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5658", 
-            "office": "315 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3111", 
-            "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://keating.house.gov"
-        }, 
-        {
-            "address": "2351 Rayburn House Office Building; Washington DC 20515-2109", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5658", 
-            "office": "2351 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3111", 
-            "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "https://keating.house.gov"
-        }
-    ]
+    {
+      "address": "2351 Rayburn House Office Building; Washington DC 20515-2109", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5658", 
+      "office": "2351 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3111", 
+      "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://keating.house.gov"
+    }
+  ]
 }

@@ -1,59 +1,60 @@
 {
-    "bio": {
-        "birthday": "1960-10-16", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-10-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:760", 
+    "bioguide": "T000475", 
+    "cspan": 76679, 
+    "fec": [
+      "H4MI11097"
+    ], 
+    "google_entity_id": "kg:/m/0x0fzkk", 
+    "govtrack": 412636, 
+    "icpsr": 21528, 
+    "maplight": 2092, 
+    "opensecrets": "N00035607", 
+    "thomas": "02250", 
+    "votesmart": 152477, 
+    "wikidata": "Q16982345", 
+    "wikipedia": "Dave Trott (politician)"
+  }, 
+  "name": {
+    "first": "Dave", 
+    "last": "Trott", 
+    "official_full": "David A. Trott"
+  }, 
+  "social": {
+    "facebook": "RepDaveTrott", 
+    "twitter": "repdavetrott", 
+    "twitter_id": 2869746172, 
+    "youtube_id": "UCkIE7mLSCRV6QidM2fuil4w"
+  }, 
+  "terms": [
+    {
+      "address": "1722 Longworth HOB; Washington DC 20515-2211", 
+      "district": 11, 
+      "end": "2017-01-03", 
+      "office": "1722 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-8171", 
+      "start": "2015-01-06", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://trott.house.gov"
     }, 
-    "id": {
-        "bioguide": "T000475", 
-        "cspan": 76679, 
-        "fec": [
-            "H4MI11097"
-        ], 
-        "google_entity_id": "kg:/m/0x0fzkk", 
-        "govtrack": 412636, 
-        "icpsr": 21528, 
-        "maplight": 2092, 
-        "opensecrets": "N00035607", 
-        "thomas": "02250", 
-        "votesmart": 152477, 
-        "wikidata": "Q16982345", 
-        "wikipedia": "Dave Trott (politician)"
-    }, 
-    "name": {
-        "first": "Dave", 
-        "last": "Trott", 
-        "official_full": "David A. Trott"
-    }, 
-    "social": {
-        "facebook": "RepDaveTrott", 
-        "twitter": "repdavetrott", 
-        "twitter_id": 2869746172, 
-        "youtube_id": "UCkIE7mLSCRV6QidM2fuil4w"
-    }, 
-    "terms": [
-        {
-            "address": "1722 Longworth HOB; Washington DC 20515-2211", 
-            "district": 11, 
-            "end": "2017-01-03", 
-            "office": "1722 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-8171", 
-            "start": "2015-01-06", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "https://trott.house.gov"
-        }, 
-        {
-            "address": "1722 Longworth House Office Building; Washington DC 20515-2211", 
-            "district": 11, 
-            "end": "2019-01-03", 
-            "office": "1722 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-8171", 
-            "start": "2017-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "https://trott.house.gov"
-        }
-    ]
+    {
+      "address": "1722 Longworth House Office Building; Washington DC 20515-2211", 
+      "district": 11, 
+      "end": "2019-01-03", 
+      "office": "1722 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-8171", 
+      "start": "2017-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://trott.house.gov"
+    }
+  ]
 }

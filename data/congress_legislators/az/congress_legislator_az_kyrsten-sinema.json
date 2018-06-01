@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1976-07-12", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1976-07-12", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:539", 
+    "ballotpedia": "Kyrsten Sinema", 
+    "bioguide": "S001191", 
+    "cspan": 68489, 
+    "fec": [
+      "H2AZ09019"
+    ], 
+    "google_entity_id": "kg:/m/03qnndb", 
+    "govtrack": 412509, 
+    "house_history": 15032387755, 
+    "icpsr": 21300, 
+    "maplight": 1733, 
+    "opensecrets": "N00033983", 
+    "thomas": "02099", 
+    "votesmart": 28338, 
+    "wikidata": "Q1556541", 
+    "wikipedia": "Kyrsten Sinema"
+  }, 
+  "name": {
+    "first": "Kyrsten", 
+    "last": "Sinema", 
+    "official_full": "Kyrsten Sinema"
+  }, 
+  "social": {
+    "facebook": "CongresswomanSinema", 
+    "twitter": "RepSinema", 
+    "twitter_id": 1080844782, 
+    "youtube": "repsinema", 
+    "youtube_id": "UC4NzhW7D4lQdukSGWmFnK9w"
+  }, 
+  "terms": [
+    {
+      "address": "1237 Longworth HOB; Washington DC 20515-0309", 
+      "contact_form": "https://sinemaforms.house.gov/forms/writeyourrep/", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-9731", 
+      "office": "1237 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9888", 
+      "rss_url": "http://sinema.house.gov/index.cfm/rss/feed", 
+      "start": "2013-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "http://sinema.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Kyrsten Sinema", 
-        "bioguide": "S001191", 
-        "cspan": 68489, 
-        "fec": [
-            "H2AZ09019"
-        ], 
-        "google_entity_id": "kg:/m/03qnndb", 
-        "govtrack": 412509, 
-        "house_history": 15032387755, 
-        "icpsr": 21300, 
-        "maplight": 1733, 
-        "opensecrets": "N00033983", 
-        "thomas": "02099", 
-        "votesmart": 28338, 
-        "wikidata": "Q1556541", 
-        "wikipedia": "Kyrsten Sinema"
+    {
+      "address": "1530 Longworth HOB; Washington DC 20515-0309", 
+      "contact_form": "https://sinemaforms.house.gov/forms/writeyourrep/", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-9731", 
+      "office": "1530 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9888", 
+      "rss_url": "http://sinema.house.gov/index.cfm/rss/feed", 
+      "start": "2015-01-06", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://sinema.house.gov"
     }, 
-    "name": {
-        "first": "Kyrsten", 
-        "last": "Sinema", 
-        "official_full": "Kyrsten Sinema"
-    }, 
-    "social": {
-        "facebook": "CongresswomanSinema", 
-        "twitter": "RepSinema", 
-        "twitter_id": 1080844782, 
-        "youtube": "repsinema", 
-        "youtube_id": "UC4NzhW7D4lQdukSGWmFnK9w"
-    }, 
-    "terms": [
-        {
-            "address": "1237 Longworth HOB; Washington DC 20515-0309", 
-            "contact_form": "https://sinemaforms.house.gov/forms/writeyourrep/", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-9731", 
-            "office": "1237 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-9888", 
-            "rss_url": "http://sinema.house.gov/index.cfm/rss/feed", 
-            "start": "2013-01-03", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "http://sinema.house.gov"
-        }, 
-        {
-            "address": "1530 Longworth HOB; Washington DC 20515-0309", 
-            "contact_form": "https://sinemaforms.house.gov/forms/writeyourrep/", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-9731", 
-            "office": "1530 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-9888", 
-            "rss_url": "http://sinema.house.gov/index.cfm/rss/feed", 
-            "start": "2015-01-06", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "https://sinema.house.gov"
-        }, 
-        {
-            "address": "1725 Longworth House Office Building; Washington DC 20515-0309", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-9731", 
-            "office": "1725 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-9888", 
-            "rss_url": "http://sinema.house.gov/index.cfm/rss/feed", 
-            "start": "2017-01-03", 
-            "state": "AZ", 
-            "type": "rep", 
-            "url": "https://sinema.house.gov"
-        }
-    ]
+    {
+      "address": "1725 Longworth House Office Building; Washington DC 20515-0309", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-9731", 
+      "office": "1725 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9888", 
+      "rss_url": "http://sinema.house.gov/index.cfm/rss/feed", 
+      "start": "2017-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://sinema.house.gov"
+    }
+  ]
 }

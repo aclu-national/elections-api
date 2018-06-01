@@ -1,116 +1,117 @@
 {
-    "bio": {
-        "birthday": "1949-11-12", 
-        "gender": "M", 
-        "religion": "Roman Catholic"
+  "bio": {
+    "birthday": "1949-11-12", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:929", 
+    "ballotpedia": "Jack Reed", 
+    "bioguide": "R000122", 
+    "cspan": 24239, 
+    "fec": [
+      "S6RI00163", 
+      "H0RI02071"
+    ], 
+    "google_entity_id": "kg:/m/0202mc", 
+    "govtrack": 300081, 
+    "house_history": 20232, 
+    "icpsr": 29142, 
+    "lis": "S259", 
+    "maplight": 600, 
+    "opensecrets": "N00000362", 
+    "thomas": "00949", 
+    "votesmart": 27060, 
+    "wikidata": "Q528979", 
+    "wikipedia": "Jack Reed (Rhode Island politician)"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Reed", 
+    "middle": "F.", 
+    "nickname": "Jack", 
+    "official_full": "Jack Reed"
+  }, 
+  "social": {
+    "facebook": "SenJackReed", 
+    "twitter": "SenJackReed", 
+    "twitter_id": 486694111, 
+    "youtube": "SenatorReed", 
+    "youtube_id": "UCT_aFVtsjxPwWKfO-PW_hPw"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "1993-01-03", 
+      "party": "Democrat", 
+      "start": "1991-01-03", 
+      "state": "RI", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Jack Reed", 
-        "bioguide": "R000122", 
-        "cspan": 24239, 
-        "fec": [
-            "S6RI00163", 
-            "H0RI02071"
-        ], 
-        "google_entity_id": "kg:/m/0202mc", 
-        "govtrack": 300081, 
-        "house_history": 20232, 
-        "icpsr": 29142, 
-        "lis": "S259", 
-        "maplight": 600, 
-        "opensecrets": "N00000362", 
-        "thomas": "00949", 
-        "votesmart": 27060, 
-        "wikidata": "Q528979", 
-        "wikipedia": "Jack Reed (Rhode Island politician)"
+    {
+      "district": 2, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "RI", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "John", 
-        "last": "Reed", 
-        "middle": "F.", 
-        "nickname": "Jack", 
-        "official_full": "Jack Reed"
+    {
+      "district": 2, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "RI", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "SenJackReed", 
-        "twitter": "SenJackReed", 
-        "twitter_id": 486694111, 
-        "youtube": "SenatorReed", 
-        "youtube_id": "UCT_aFVtsjxPwWKfO-PW_hPw"
+    {
+      "class": 2, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "RI", 
+      "type": "sen"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "1993-01-03", 
-            "party": "Democrat", 
-            "start": "1991-01-03", 
-            "state": "RI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "RI", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "RI", 
-            "type": "rep"
-        }, 
-        {
-            "class": 2, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "RI", 
-            "type": "sen"
-        }, 
-        {
-            "class": 2, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "RI", 
-            "type": "sen", 
-            "url": "http://reed.senate.gov/"
-        }, 
-        {
-            "address": "728 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.reed.senate.gov/contact/", 
-            "end": "2015-01-03", 
-            "fax": "202-224-4680", 
-            "office": "728 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-4642", 
-            "rss_url": "https://www.reed.senate.gov//rss/feeds/?type=all", 
-            "start": "2009-01-06", 
-            "state": "RI", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.reed.senate.gov"
-        }, 
-        {
-            "address": "728 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.reed.senate.gov/contact/", 
-            "end": "2021-01-03", 
-            "fax": "202-224-4680", 
-            "office": "728 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-4642", 
-            "rss_url": "https://www.reed.senate.gov//rss/feeds/?type=all", 
-            "start": "2015-01-06", 
-            "state": "RI", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.reed.senate.gov"
-        }
-    ]
+    {
+      "class": 2, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "RI", 
+      "type": "sen", 
+      "url": "http://reed.senate.gov/"
+    }, 
+    {
+      "address": "728 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.reed.senate.gov/contact/", 
+      "end": "2015-01-03", 
+      "fax": "202-224-4680", 
+      "office": "728 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4642", 
+      "rss_url": "https://www.reed.senate.gov//rss/feeds/?type=all", 
+      "start": "2009-01-06", 
+      "state": "RI", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.reed.senate.gov"
+    }, 
+    {
+      "address": "728 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.reed.senate.gov/contact/", 
+      "end": "2021-01-03", 
+      "fax": "202-224-4680", 
+      "office": "728 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4642", 
+      "rss_url": "https://www.reed.senate.gov//rss/feeds/?type=all", 
+      "start": "2015-01-06", 
+      "state": "RI", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.reed.senate.gov"
+    }
+  ]
 }

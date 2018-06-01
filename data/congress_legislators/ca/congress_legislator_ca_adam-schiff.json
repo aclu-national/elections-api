@@ -1,142 +1,143 @@
 {
-    "bio": {
-        "birthday": "1960-06-22", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-06-22", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:545", 
+    "ballotpedia": "Adam Schiff", 
+    "bioguide": "S001150", 
+    "cspan": 90167, 
+    "fec": [
+      "H0CA27085"
+    ], 
+    "google_entity_id": "kg:/m/024tls", 
+    "govtrack": 400361, 
+    "house_history": 22560, 
+    "icpsr": 20104, 
+    "maplight": 453, 
+    "opensecrets": "N00009585", 
+    "thomas": "01635", 
+    "votesmart": 9489, 
+    "wikidata": "Q350843", 
+    "wikipedia": "Adam Schiff"
+  }, 
+  "name": {
+    "first": "Adam", 
+    "last": "Schiff", 
+    "middle": "B.", 
+    "official_full": "Adam B. Schiff"
+  }, 
+  "social": {
+    "facebook": "RepAdamSchiff", 
+    "instagram": "RepAdamSchiff", 
+    "twitter": "RepAdamSchiff", 
+    "twitter_id": 29501253, 
+    "youtube": "adamschiff", 
+    "youtube_id": "UCadiUi-KZoFk1K5ZDsluLcA"
+  }, 
+  "terms": [
+    {
+      "district": 27, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Adam Schiff", 
-        "bioguide": "S001150", 
-        "cspan": 90167, 
-        "fec": [
-            "H0CA27085"
-        ], 
-        "google_entity_id": "kg:/m/024tls", 
-        "govtrack": 400361, 
-        "house_history": 22560, 
-        "icpsr": 20104, 
-        "maplight": 453, 
-        "opensecrets": "N00009585", 
-        "thomas": "01635", 
-        "votesmart": 9489, 
-        "wikidata": "Q350843", 
-        "wikipedia": "Adam Schiff"
+    {
+      "district": 29, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schiff"
     }, 
-    "name": {
-        "first": "Adam", 
-        "last": "Schiff", 
-        "middle": "B.", 
-        "official_full": "Adam B. Schiff"
+    {
+      "district": 29, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/schiff"
     }, 
-    "social": {
-        "facebook": "RepAdamSchiff", 
-        "instagram": "RepAdamSchiff", 
-        "twitter": "RepAdamSchiff", 
-        "twitter_id": 29501253, 
-        "youtube": "adamschiff", 
-        "youtube_id": "UCadiUi-KZoFk1K5ZDsluLcA"
+    {
+      "district": 29, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://schiff.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 27, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 29, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schiff"
-        }, 
-        {
-            "district": 29, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/schiff"
-        }, 
-        {
-            "district": 29, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://schiff.house.gov"
-        }, 
-        {
-            "district": 29, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://schiff.house.gov"
-        }, 
-        {
-            "address": "2411 Rayburn HOB; Washington DC 20515-0529", 
-            "contact_form": "http://schiff.house.gov/HoR/CA29/Contact+Information/Contact+Form.htm", 
-            "district": 29, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5828", 
-            "office": "2411 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4176", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://schiff.house.gov"
-        }, 
-        {
-            "address": "2411 Rayburn HOB; Washington DC 20515-0528", 
-            "contact_form": "https://schiff.house.gov/email-congressman-schiff1", 
-            "district": 28, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5828", 
-            "office": "2411 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4176", 
-            "rss_url": "http://schiff.house.gov/common/rss/?rss=49", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://schiff.house.gov"
-        }, 
-        {
-            "address": "2411 Rayburn HOB; Washington DC 20515-0528", 
-            "contact_form": "https://schiff.house.gov/contact", 
-            "district": 28, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5828", 
-            "office": "2411 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4176", 
-            "rss_url": "http://schiff.house.gov/common/rss/?rss=49", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://schiff.house.gov"
-        }, 
-        {
-            "address": "2372 Rayburn House Office Building; Washington DC 20515-0528", 
-            "district": 28, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5828", 
-            "office": "2372 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4176", 
-            "rss_url": "http://schiff.house.gov/common/rss/?rss=49", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://schiff.house.gov"
-        }
-    ]
+    {
+      "district": 29, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://schiff.house.gov"
+    }, 
+    {
+      "address": "2411 Rayburn HOB; Washington DC 20515-0529", 
+      "contact_form": "http://schiff.house.gov/HoR/CA29/Contact+Information/Contact+Form.htm", 
+      "district": 29, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5828", 
+      "office": "2411 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4176", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://schiff.house.gov"
+    }, 
+    {
+      "address": "2411 Rayburn HOB; Washington DC 20515-0528", 
+      "contact_form": "https://schiff.house.gov/email-congressman-schiff1", 
+      "district": 28, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5828", 
+      "office": "2411 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4176", 
+      "rss_url": "http://schiff.house.gov/common/rss/?rss=49", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://schiff.house.gov"
+    }, 
+    {
+      "address": "2411 Rayburn HOB; Washington DC 20515-0528", 
+      "contact_form": "https://schiff.house.gov/contact", 
+      "district": 28, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5828", 
+      "office": "2411 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4176", 
+      "rss_url": "http://schiff.house.gov/common/rss/?rss=49", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://schiff.house.gov"
+    }, 
+    {
+      "address": "2372 Rayburn House Office Building; Washington DC 20515-0528", 
+      "district": 28, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5828", 
+      "office": "2372 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4176", 
+      "rss_url": "http://schiff.house.gov/common/rss/?rss=49", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://schiff.house.gov"
+    }
+  ]
 }

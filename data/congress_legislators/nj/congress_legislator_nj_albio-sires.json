@@ -1,122 +1,123 @@
 {
-    "bio": {
-        "birthday": "1951-01-26", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1951-01-26", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:826", 
+    "ballotpedia": "Albio Sires", 
+    "bioguide": "S001165", 
+    "cspan": 1022293, 
+    "fec": [
+      "H6NJ13191"
+    ], 
+    "google_entity_id": "kg:/m/08bt8r", 
+    "govtrack": 412186, 
+    "house_history": 22587, 
+    "icpsr": 20542, 
+    "maplight": 673, 
+    "opensecrets": "N00027523", 
+    "thomas": "01818", 
+    "votesmart": 22510, 
+    "wikidata": "Q527509", 
+    "wikipedia": "Albio Sires"
+  }, 
+  "name": {
+    "first": "Albio", 
+    "last": "Sires", 
+    "official_full": "Albio Sires"
+  }, 
+  "social": {
+    "facebook": "81058818750", 
+    "twitter": "RepSires", 
+    "twitter_id": 18696134, 
+    "youtube": "RepSiresNJ13", 
+    "youtube_id": "UCfdEcWPNGoIxpYoTANF4PBA"
+  }, 
+  "terms": [
+    {
+      "district": 13, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2006-11-13", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Albio Sires", 
-        "bioguide": "S001165", 
-        "cspan": 1022293, 
-        "fec": [
-            "H6NJ13191"
-        ], 
-        "google_entity_id": "kg:/m/08bt8r", 
-        "govtrack": 412186, 
-        "house_history": 22587, 
-        "icpsr": 20542, 
-        "maplight": 673, 
-        "opensecrets": "N00027523", 
-        "thomas": "01818", 
-        "votesmart": 22510, 
-        "wikidata": "Q527509", 
-        "wikipedia": "Albio Sires"
+    {
+      "district": 13, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sires"
     }, 
-    "name": {
-        "first": "Albio", 
-        "last": "Sires", 
-        "official_full": "Albio Sires"
+    {
+      "district": 13, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sires"
     }, 
-    "social": {
-        "facebook": "81058818750", 
-        "twitter": "RepSires", 
-        "twitter_id": 18696134, 
-        "youtube": "RepSiresNJ13", 
-        "youtube_id": "UCfdEcWPNGoIxpYoTANF4PBA"
+    {
+      "address": "2342 Rayburn HOB; Washington DC 20515-3013", 
+      "contact_form": "https://forms.house.gov/sires/webforms/issue_subscribe.htm", 
+      "district": 13, 
+      "end": "2013-01-03", 
+      "fax": "202-226-0792", 
+      "office": "2342 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7919", 
+      "start": "2011-01-05", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sires"
     }, 
-    "terms": [
-        {
-            "district": 13, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2006-11-13", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 13, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sires"
-        }, 
-        {
-            "district": 13, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sires"
-        }, 
-        {
-            "address": "2342 Rayburn HOB; Washington DC 20515-3013", 
-            "contact_form": "https://forms.house.gov/sires/webforms/issue_subscribe.htm", 
-            "district": 13, 
-            "end": "2013-01-03", 
-            "fax": "202-226-0792", 
-            "office": "2342 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7919", 
-            "start": "2011-01-05", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sires"
-        }, 
-        {
-            "address": "2342 Rayburn HOB; Washington DC 20515-3008", 
-            "contact_form": "https://sires.house.gov/contact-me/email-me", 
-            "district": 8, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0792", 
-            "office": "2342 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7919", 
-            "rss_url": "http://sires.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://sires.house.gov"
-        }, 
-        {
-            "address": "2342 Rayburn HOB; Washington DC 20515-3008", 
-            "contact_form": "https://sires.house.gov/contact-me/email-me", 
-            "district": 8, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0792", 
-            "office": "2342 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7919", 
-            "rss_url": "http://sires.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://sires.house.gov"
-        }, 
-        {
-            "address": "2342 Rayburn House Office Building; Washington DC 20515-3008", 
-            "district": 8, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0792", 
-            "office": "2342 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7919", 
-            "rss_url": "http://sires.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "https://sires.house.gov"
-        }
-    ]
+    {
+      "address": "2342 Rayburn HOB; Washington DC 20515-3008", 
+      "contact_form": "https://sires.house.gov/contact-me/email-me", 
+      "district": 8, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0792", 
+      "office": "2342 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7919", 
+      "rss_url": "http://sires.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://sires.house.gov"
+    }, 
+    {
+      "address": "2342 Rayburn HOB; Washington DC 20515-3008", 
+      "contact_form": "https://sires.house.gov/contact-me/email-me", 
+      "district": 8, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0792", 
+      "office": "2342 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7919", 
+      "rss_url": "http://sires.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://sires.house.gov"
+    }, 
+    {
+      "address": "2342 Rayburn House Office Building; Washington DC 20515-3008", 
+      "district": 8, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0792", 
+      "office": "2342 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7919", 
+      "rss_url": "http://sires.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://sires.house.gov"
+    }
+  ]
 }

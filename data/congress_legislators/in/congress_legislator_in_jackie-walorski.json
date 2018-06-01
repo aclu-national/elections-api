@@ -1,83 +1,84 @@
 {
-    "bio": {
-        "birthday": "1963-08-17", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1963-08-17", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:700", 
+    "ballotpedia": "Jackie Walorski", 
+    "bioguide": "W000813", 
+    "cspan": 95005, 
+    "fec": [
+      "H0IN02190"
+    ], 
+    "google_entity_id": "kg:/m/0ksf92", 
+    "govtrack": 412538, 
+    "house_history": 15032387909, 
+    "icpsr": 21330, 
+    "maplight": 1762, 
+    "opensecrets": "N00031226", 
+    "thomas": "02128", 
+    "votesmart": 34205, 
+    "wikidata": "Q3157413", 
+    "wikipedia": "Jackie Walorski"
+  }, 
+  "name": {
+    "first": "Jackie", 
+    "last": "Walorski", 
+    "official_full": "Jackie Walorski"
+  }, 
+  "social": {
+    "facebook": "RepJackieWalorski", 
+    "instagram": "jackiewalorski", 
+    "twitter": "RepWalorski", 
+    "twitter_id": 1065995022, 
+    "youtube": "repwalorski", 
+    "youtube_id": "UC8fsSDjVJ_VnCF3ccx3Lkng"
+  }, 
+  "terms": [
+    {
+      "address": "419 Cannon HOB; Washington DC 20515-1402", 
+      "contact_form": "https://walorski.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-6798", 
+      "office": "419 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3915", 
+      "rss_url": "http://walorski.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://walorski.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Jackie Walorski", 
-        "bioguide": "W000813", 
-        "cspan": 95005, 
-        "fec": [
-            "H0IN02190"
-        ], 
-        "google_entity_id": "kg:/m/0ksf92", 
-        "govtrack": 412538, 
-        "house_history": 15032387909, 
-        "icpsr": 21330, 
-        "maplight": 1762, 
-        "opensecrets": "N00031226", 
-        "thomas": "02128", 
-        "votesmart": 34205, 
-        "wikidata": "Q3157413", 
-        "wikipedia": "Jackie Walorski"
+    {
+      "address": "419 Cannon HOB; Washington DC 20515-1402", 
+      "contact_form": "https://walorski.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-6798", 
+      "office": "419 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3915", 
+      "rss_url": "http://walorski.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://walorski.house.gov"
     }, 
-    "name": {
-        "first": "Jackie", 
-        "last": "Walorski", 
-        "official_full": "Jackie Walorski"
-    }, 
-    "social": {
-        "facebook": "RepJackieWalorski", 
-        "instagram": "jackiewalorski", 
-        "twitter": "RepWalorski", 
-        "twitter_id": 1065995022, 
-        "youtube": "repwalorski", 
-        "youtube_id": "UC8fsSDjVJ_VnCF3ccx3Lkng"
-    }, 
-    "terms": [
-        {
-            "address": "419 Cannon HOB; Washington DC 20515-1402", 
-            "contact_form": "https://walorski.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-6798", 
-            "office": "419 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3915", 
-            "rss_url": "http://walorski.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://walorski.house.gov"
-        }, 
-        {
-            "address": "419 Cannon HOB; Washington DC 20515-1402", 
-            "contact_form": "https://walorski.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-6798", 
-            "office": "419 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3915", 
-            "rss_url": "http://walorski.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://walorski.house.gov"
-        }, 
-        {
-            "address": "419 Cannon House Office Building; Washington DC 20515-1402", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-6798", 
-            "office": "419 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3915", 
-            "rss_url": "http://walorski.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "https://walorski.house.gov"
-        }
-    ]
+    {
+      "address": "419 Cannon House Office Building; Washington DC 20515-1402", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-6798", 
+      "office": "419 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3915", 
+      "rss_url": "http://walorski.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://walorski.house.gov"
+    }
+  ]
 }

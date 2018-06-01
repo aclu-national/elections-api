@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1968-07-05", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1968-07-05", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:686", 
+    "ballotpedia": "Darin LaHood", 
+    "bioguide": "L000585", 
+    "cspan": 70020, 
+    "fec": [
+      "H6IL18088"
+    ], 
+    "google_entity_id": "kg:/m/0gg7rcy", 
+    "govtrack": 412674, 
+    "house_history": 15032425053, 
+    "icpsr": 21562, 
+    "maplight": 2164, 
+    "opensecrets": "N00037031", 
+    "thomas": "02295", 
+    "votesmart": 128760, 
+    "wikidata": "Q5222780", 
+    "wikipedia": "Darin LaHood"
+  }, 
+  "name": {
+    "first": "Darin", 
+    "last": "LaHood", 
+    "official_full": "Darin LaHood"
+  }, 
+  "social": {
+    "facebook": "replahood", 
+    "twitter": "RepLaHood", 
+    "twitter_id": 3686482216, 
+    "youtube_id": "UCVRbtFwaBGcixZIkygtalRw"
+  }, 
+  "terms": [
+    {
+      "address": "2464 Rayburn HOB; Washington DC 20515-1318", 
+      "contact_form": "https://lahood.house.gov/contact/email", 
+      "district": 18, 
+      "end": "2017-01-03", 
+      "office": "2464 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6201", 
+      "start": "2015-09-17", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://lahood.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Darin LaHood", 
-        "bioguide": "L000585", 
-        "cspan": 70020, 
-        "fec": [
-            "H6IL18088"
-        ], 
-        "google_entity_id": "kg:/m/0gg7rcy", 
-        "govtrack": 412674, 
-        "house_history": 15032425053, 
-        "icpsr": 21562, 
-        "maplight": 2164, 
-        "opensecrets": "N00037031", 
-        "thomas": "02295", 
-        "votesmart": 128760, 
-        "wikidata": "Q5222780", 
-        "wikipedia": "Darin LaHood"
-    }, 
-    "name": {
-        "first": "Darin", 
-        "last": "LaHood", 
-        "official_full": "Darin LaHood"
-    }, 
-    "social": {
-        "facebook": "replahood", 
-        "twitter": "RepLaHood", 
-        "twitter_id": 3686482216, 
-        "youtube_id": "UCVRbtFwaBGcixZIkygtalRw"
-    }, 
-    "terms": [
-        {
-            "address": "2464 Rayburn HOB; Washington DC 20515-1318", 
-            "contact_form": "https://lahood.house.gov/contact/email", 
-            "district": 18, 
-            "end": "2017-01-03", 
-            "office": "2464 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6201", 
-            "start": "2015-09-17", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://lahood.house.gov/"
-        }, 
-        {
-            "address": "1424 Longworth House Office Building; Washington DC 20515-1318", 
-            "district": 18, 
-            "end": "2019-01-03", 
-            "office": "1424 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6201", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://lahood.house.gov"
-        }
-    ]
+    {
+      "address": "1424 Longworth House Office Building; Washington DC 20515-1318", 
+      "district": 18, 
+      "end": "2019-01-03", 
+      "office": "1424 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6201", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://lahood.house.gov"
+    }
+  ]
 }

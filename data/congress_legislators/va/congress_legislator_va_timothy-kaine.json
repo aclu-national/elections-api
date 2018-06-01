@@ -1,52 +1,53 @@
 {
-    "bio": {
-        "birthday": "1958-02-26", 
-        "gender": "M"
-    }, 
-    "id": {
-        "ballotpedia": "Tim Kaine", 
-        "bioguide": "K000384", 
-        "cspan": 49219, 
-        "fec": [
-            "S2VA00142"
-        ], 
-        "google_entity_id": "kg:/m/053f8h", 
-        "govtrack": 412582, 
-        "icpsr": 41305, 
-        "lis": "S362", 
-        "maplight": 1806, 
-        "opensecrets": "N00033177", 
-        "thomas": "02176", 
-        "votesmart": 50772, 
-        "wikidata": "Q359888", 
-        "wikipedia": "Tim Kaine"
-    }, 
-    "name": {
-        "first": "Timothy", 
-        "last": "Kaine", 
-        "official_full": "Tim Kaine"
-    }, 
-    "social": {
-        "facebook": "SenatorKaine", 
-        "youtube": "SenatorTimKaine", 
-        "youtube_id": "UC27LgTZlUnBQoNEQFZdn9LA"
-    }, 
-    "terms": [
-        {
-            "address": "231 Russell Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "https://www.kaine.senate.gov/contact", 
-            "end": "2019-01-03", 
-            "fax": "202-228-6363", 
-            "office": "231 Russell Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-4024", 
-            "rss_url": "http://www.kaine.senate.gov/rss/feeds/?type=all", 
-            "start": "2013-01-03", 
-            "state": "VA", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.kaine.senate.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1958-02-26", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1008", 
+    "ballotpedia": "Tim Kaine", 
+    "bioguide": "K000384", 
+    "cspan": 49219, 
+    "fec": [
+      "S2VA00142"
+    ], 
+    "google_entity_id": "kg:/m/053f8h", 
+    "govtrack": 412582, 
+    "icpsr": 41305, 
+    "lis": "S362", 
+    "maplight": 1806, 
+    "opensecrets": "N00033177", 
+    "thomas": "02176", 
+    "votesmart": 50772, 
+    "wikidata": "Q359888", 
+    "wikipedia": "Tim Kaine"
+  }, 
+  "name": {
+    "first": "Timothy", 
+    "last": "Kaine", 
+    "official_full": "Tim Kaine"
+  }, 
+  "social": {
+    "facebook": "SenatorKaine", 
+    "youtube": "SenatorTimKaine", 
+    "youtube_id": "UC27LgTZlUnBQoNEQFZdn9LA"
+  }, 
+  "terms": [
+    {
+      "address": "231 Russell Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "https://www.kaine.senate.gov/contact", 
+      "end": "2019-01-03", 
+      "fax": "202-228-6363", 
+      "office": "231 Russell Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-4024", 
+      "rss_url": "http://www.kaine.senate.gov/rss/feeds/?type=all", 
+      "start": "2013-01-03", 
+      "state": "VA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.kaine.senate.gov"
+    }
+  ]
 }

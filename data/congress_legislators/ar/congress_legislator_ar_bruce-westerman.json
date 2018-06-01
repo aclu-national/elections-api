@@ -1,59 +1,60 @@
 {
-    "bio": {
-        "birthday": "1967-11-18", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1967-11-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:528", 
+    "bioguide": "W000821", 
+    "cspan": 76097, 
+    "fec": [
+      "H4AR04048"
+    ], 
+    "google_entity_id": "kg:/m/0wklff5", 
+    "govtrack": 412610, 
+    "icpsr": 21563, 
+    "maplight": 2066, 
+    "opensecrets": "N00035527", 
+    "thomas": "02224", 
+    "votesmart": 119120, 
+    "wikidata": "Q16197421", 
+    "wikipedia": "Bruce Westerman"
+  }, 
+  "name": {
+    "first": "Bruce", 
+    "last": "Westerman", 
+    "official_full": "Bruce Westerman"
+  }, 
+  "social": {
+    "facebook": "RepWesterman", 
+    "twitter": "RepWesterman", 
+    "twitter_id": 2852998461, 
+    "youtube_id": "UCNshPbmupCwP5a7Hi79jETQ"
+  }, 
+  "terms": [
+    {
+      "address": "130 Cannon HOB; Washington DC 20515-0404", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "office": "130 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3772", 
+      "start": "2015-01-06", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "https://westerman.house.gov"
     }, 
-    "id": {
-        "bioguide": "W000821", 
-        "cspan": 76097, 
-        "fec": [
-            "H4AR04048"
-        ], 
-        "google_entity_id": "kg:/m/0wklff5", 
-        "govtrack": 412610, 
-        "icpsr": 21563, 
-        "maplight": 2066, 
-        "opensecrets": "N00035527", 
-        "thomas": "02224", 
-        "votesmart": 119120, 
-        "wikidata": "Q16197421", 
-        "wikipedia": "Bruce Westerman"
-    }, 
-    "name": {
-        "first": "Bruce", 
-        "last": "Westerman", 
-        "official_full": "Bruce Westerman"
-    }, 
-    "social": {
-        "facebook": "RepWesterman", 
-        "twitter": "RepWesterman", 
-        "twitter_id": 2852998461, 
-        "youtube_id": "UCNshPbmupCwP5a7Hi79jETQ"
-    }, 
-    "terms": [
-        {
-            "address": "130 Cannon HOB; Washington DC 20515-0404", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "office": "130 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3772", 
-            "start": "2015-01-06", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "https://westerman.house.gov"
-        }, 
-        {
-            "address": "130 Cannon House Office Building; Washington DC 20515-0404", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "office": "130 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3772", 
-            "start": "2017-01-03", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "https://westerman.house.gov"
-        }
-    ]
+    {
+      "address": "130 Cannon House Office Building; Washington DC 20515-0404", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "office": "130 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3772", 
+      "start": "2017-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "https://westerman.house.gov"
+    }
+  ]
 }

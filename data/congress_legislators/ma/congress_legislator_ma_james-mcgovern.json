@@ -1,158 +1,159 @@
 {
-    "bio": {
-        "birthday": "1959-11-20", 
-        "gender": "M", 
-        "religion": "Catholic"
+  "bio": {
+    "birthday": "1959-11-20", 
+    "gender": "M", 
+    "religion": "Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:734", 
+    "bioguide": "M000312", 
+    "cspan": 45976, 
+    "fec": [
+      "H4MA03022"
+    ], 
+    "google_entity_id": "kg:/m/028vn7", 
+    "govtrack": 400263, 
+    "house_history": 17711, 
+    "icpsr": 29729, 
+    "maplight": 360, 
+    "opensecrets": "N00000179", 
+    "thomas": "01504", 
+    "votesmart": 552, 
+    "wikidata": "Q1337459", 
+    "wikipedia": "Jim McGovern (American politician)"
+  }, 
+  "name": {
+    "first": "James", 
+    "last": "McGovern", 
+    "middle": "P.", 
+    "nickname": "Jim", 
+    "official_full": "James P. McGovern"
+  }, 
+  "social": {
+    "facebook": "RepJimMcGovern", 
+    "twitter": "RepMcGovern", 
+    "twitter_id": 242426145, 
+    "youtube": "repjimmcgovern", 
+    "youtube_id": "UCpiUqp2ZF64tXqgR_EQo27g"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "MA", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "M000312", 
-        "cspan": 45976, 
-        "fec": [
-            "H4MA03022"
-        ], 
-        "google_entity_id": "kg:/m/028vn7", 
-        "govtrack": 400263, 
-        "house_history": 17711, 
-        "icpsr": 29729, 
-        "maplight": 360, 
-        "opensecrets": "N00000179", 
-        "thomas": "01504", 
-        "votesmart": 552, 
-        "wikidata": "Q1337459", 
-        "wikipedia": "Jim McGovern (American politician)"
+    {
+      "district": 3, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "MA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "James", 
-        "last": "McGovern", 
-        "middle": "P.", 
-        "nickname": "Jim", 
-        "official_full": "James P. McGovern"
+    {
+      "district": 3, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "MA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepJimMcGovern", 
-        "twitter": "RepMcGovern", 
-        "twitter_id": 242426145, 
-        "youtube": "repjimmcgovern", 
-        "youtube_id": "UCpiUqp2ZF64tXqgR_EQo27g"
+    {
+      "district": 3, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mcgovern"
     }, 
-    "terms": [
-        {
-            "district": 3, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mcgovern"
-        }, 
-        {
-            "district": 3, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mcgovern"
-        }, 
-        {
-            "district": 3, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mcgovern"
-        }, 
-        {
-            "district": 3, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mcgovern"
-        }, 
-        {
-            "address": "438 Cannon HOB; Washington DC 20515-2103", 
-            "contact_form": "http://www.house.gov/writerep", 
-            "district": 3, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5759", 
-            "office": "438 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6101", 
-            "start": "2011-01-05", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/mcgovern"
-        }, 
-        {
-            "address": "438 Cannon HOB; Washington DC 20515-2102", 
-            "contact_form": "https://mcgovern.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5759", 
-            "office": "438 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6101", 
-            "rss_url": "http://mcgovern.house.gov/common/rss/?rss=15", 
-            "start": "2013-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://mcgovern.house.gov"
-        }, 
-        {
-            "address": "438 Cannon HOB; Washington DC 20515-2102", 
-            "contact_form": "https://mcgovern.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5759", 
-            "office": "438 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6101", 
-            "rss_url": "http://mcgovern.house.gov/common/rss/?rss=15", 
-            "start": "2015-01-06", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://mcgovern.house.gov"
-        }, 
-        {
-            "address": "438 Cannon House Office Building; Washington DC 20515-2102", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5759", 
-            "office": "438 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6101", 
-            "rss_url": "http://mcgovern.house.gov/common/rss/?rss=15", 
-            "start": "2017-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "https://mcgovern.house.gov"
-        }
-    ]
+    {
+      "district": 3, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mcgovern"
+    }, 
+    {
+      "district": 3, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mcgovern"
+    }, 
+    {
+      "district": 3, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mcgovern"
+    }, 
+    {
+      "address": "438 Cannon HOB; Washington DC 20515-2103", 
+      "contact_form": "http://www.house.gov/writerep", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5759", 
+      "office": "438 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6101", 
+      "start": "2011-01-05", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/mcgovern"
+    }, 
+    {
+      "address": "438 Cannon HOB; Washington DC 20515-2102", 
+      "contact_form": "https://mcgovern.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5759", 
+      "office": "438 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6101", 
+      "rss_url": "http://mcgovern.house.gov/common/rss/?rss=15", 
+      "start": "2013-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://mcgovern.house.gov"
+    }, 
+    {
+      "address": "438 Cannon HOB; Washington DC 20515-2102", 
+      "contact_form": "https://mcgovern.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5759", 
+      "office": "438 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6101", 
+      "rss_url": "http://mcgovern.house.gov/common/rss/?rss=15", 
+      "start": "2015-01-06", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://mcgovern.house.gov"
+    }, 
+    {
+      "address": "438 Cannon House Office Building; Washington DC 20515-2102", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5759", 
+      "office": "438 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6101", 
+      "rss_url": "http://mcgovern.house.gov/common/rss/?rss=15", 
+      "start": "2017-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://mcgovern.house.gov"
+    }
+  ]
 }

@@ -1,97 +1,98 @@
 {
-    "bio": {
-        "birthday": "1958-03-15", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1958-03-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1002", 
+    "ballotpedia": "Morgan Griffith", 
+    "bioguide": "G000568", 
+    "cspan": 62766, 
+    "fec": [
+      "H0VA09055"
+    ], 
+    "google_entity_id": "kg:/m/025vdrq", 
+    "govtrack": 412485, 
+    "house_history": 14288, 
+    "icpsr": 21191, 
+    "maplight": 1490, 
+    "opensecrets": "N00032029", 
+    "thomas": "02070", 
+    "votesmart": 5148, 
+    "wikidata": "Q1684857", 
+    "wikipedia": "Morgan Griffith"
+  }, 
+  "name": {
+    "first": "H.", 
+    "last": "Griffith", 
+    "middle": "Morgan", 
+    "official_full": "H. Morgan Griffith"
+  }, 
+  "social": {
+    "facebook": "RepMorganGriffith", 
+    "instagram": "hmorgangriffith", 
+    "twitter": "RepMGriffith", 
+    "twitter_id": 234057152, 
+    "youtube": "RepMorganGriffith", 
+    "youtube_id": "UCzxqD7EY_Rdvbc0spbaYkJA"
+  }, 
+  "terms": [
+    {
+      "address": "1108 Longworth HOB; Washington DC 20515-4609", 
+      "district": 9, 
+      "end": "2013-01-03", 
+      "fax": "202-225-0076", 
+      "office": "1108 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3861", 
+      "start": "2011-01-05", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "http://morgangriffith.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Morgan Griffith", 
-        "bioguide": "G000568", 
-        "cspan": 62766, 
-        "fec": [
-            "H0VA09055"
-        ], 
-        "google_entity_id": "kg:/m/025vdrq", 
-        "govtrack": 412485, 
-        "house_history": 14288, 
-        "icpsr": 21191, 
-        "maplight": 1490, 
-        "opensecrets": "N00032029", 
-        "thomas": "02070", 
-        "votesmart": 5148, 
-        "wikidata": "Q1684857", 
-        "wikipedia": "Morgan Griffith"
+    {
+      "address": "1108 Longworth HOB; Washington DC 20515-4609", 
+      "contact_form": "https://morgangriffith.house.gov/contact/contactform.htm", 
+      "district": 9, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0076", 
+      "office": "1108 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3861", 
+      "rss_url": "http://morgangriffith.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "http://morgangriffith.house.gov"
     }, 
-    "name": {
-        "first": "H.", 
-        "last": "Griffith", 
-        "middle": "Morgan", 
-        "official_full": "H. Morgan Griffith"
+    {
+      "address": "1108 Longworth HOB; Washington DC 20515-4609", 
+      "contact_form": "https://morgangriffith.house.gov/contact/contactform.htm", 
+      "district": 9, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0076", 
+      "office": "1108 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3861", 
+      "rss_url": "http://morgangriffith.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "http://morgangriffith.house.gov"
     }, 
-    "social": {
-        "facebook": "RepMorganGriffith", 
-        "instagram": "hmorgangriffith", 
-        "twitter": "RepMGriffith", 
-        "twitter_id": 234057152, 
-        "youtube": "RepMorganGriffith", 
-        "youtube_id": "UCzxqD7EY_Rdvbc0spbaYkJA"
-    }, 
-    "terms": [
-        {
-            "address": "1108 Longworth HOB; Washington DC 20515-4609", 
-            "district": 9, 
-            "end": "2013-01-03", 
-            "fax": "202-225-0076", 
-            "office": "1108 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3861", 
-            "start": "2011-01-05", 
-            "state": "VA", 
-            "type": "rep", 
-            "url": "http://morgangriffith.house.gov/"
-        }, 
-        {
-            "address": "1108 Longworth HOB; Washington DC 20515-4609", 
-            "contact_form": "https://morgangriffith.house.gov/contact/contactform.htm", 
-            "district": 9, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0076", 
-            "office": "1108 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3861", 
-            "rss_url": "http://morgangriffith.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "VA", 
-            "type": "rep", 
-            "url": "http://morgangriffith.house.gov"
-        }, 
-        {
-            "address": "1108 Longworth HOB; Washington DC 20515-4609", 
-            "contact_form": "https://morgangriffith.house.gov/contact/contactform.htm", 
-            "district": 9, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0076", 
-            "office": "1108 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3861", 
-            "rss_url": "http://morgangriffith.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "VA", 
-            "type": "rep", 
-            "url": "http://morgangriffith.house.gov"
-        }, 
-        {
-            "address": "2202 Rayburn House Office Building; Washington DC 20515-4609", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0076", 
-            "office": "2202 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3861", 
-            "rss_url": "http://morgangriffith.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "VA", 
-            "type": "rep", 
-            "url": "https://morgangriffith.house.gov"
-        }
-    ]
+    {
+      "address": "2202 Rayburn House Office Building; Washington DC 20515-4609", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0076", 
+      "office": "2202 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3861", 
+      "rss_url": "http://morgangriffith.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://morgangriffith.house.gov"
+    }
+  ]
 }

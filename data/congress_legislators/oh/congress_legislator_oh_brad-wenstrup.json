@@ -1,80 +1,81 @@
 {
-    "bio": {
-        "birthday": "1958-06-17", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1958-06-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:881", 
+    "ballotpedia": "Brad Wenstrup", 
+    "bioguide": "W000815", 
+    "cspan": 1034044, 
+    "fec": [
+      "H2OH02085"
+    ], 
+    "google_entity_id": "kg:/m/0j63b7n", 
+    "govtrack": 412564, 
+    "icpsr": 21351, 
+    "maplight": 1788, 
+    "opensecrets": "N00033310", 
+    "thomas": "02152", 
+    "votesmart": 135326, 
+    "wikidata": "Q892413", 
+    "wikipedia": "Brad Wenstrup"
+  }, 
+  "name": {
+    "first": "Brad", 
+    "last": "Wenstrup", 
+    "middle": "R.", 
+    "official_full": "Brad R. Wenstrup"
+  }, 
+  "social": {
+    "facebook": "RepBradWenstrup", 
+    "instagram": "repbradwenstrup", 
+    "instagram_id": 305496379, 
+    "twitter": "RepBradWenstrup", 
+    "twitter_id": 518644221, 
+    "youtube": "repbradwenstrup", 
+    "youtube_id": "UCaK7SeUvmHdHTMtF3HXb-jA"
+  }, 
+  "terms": [
+    {
+      "address": "1223 Longworth HOB; Washington DC 20515-3502", 
+      "contact_form": "http://wenstrup.house.gov/contact/", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "office": "1223 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3164", 
+      "start": "2013-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://wenstrup.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Brad Wenstrup", 
-        "bioguide": "W000815", 
-        "cspan": 1034044, 
-        "fec": [
-            "H2OH02085"
-        ], 
-        "google_entity_id": "kg:/m/0j63b7n", 
-        "govtrack": 412564, 
-        "icpsr": 21351, 
-        "maplight": 1788, 
-        "opensecrets": "N00033310", 
-        "thomas": "02152", 
-        "votesmart": 135326, 
-        "wikidata": "Q892413", 
-        "wikipedia": "Brad Wenstrup"
+    {
+      "address": "1318 Longworth HOB; Washington DC 20515-3502", 
+      "contact_form": "http://wenstrup.house.gov/contact/", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-1992", 
+      "office": "1318 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3164", 
+      "start": "2015-01-06", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://wenstrup.house.gov"
     }, 
-    "name": {
-        "first": "Brad", 
-        "last": "Wenstrup", 
-        "middle": "R.", 
-        "official_full": "Brad R. Wenstrup"
-    }, 
-    "social": {
-        "facebook": "RepBradWenstrup", 
-        "instagram": "repbradwenstrup", 
-        "instagram_id": 305496379, 
-        "twitter": "RepBradWenstrup", 
-        "twitter_id": 518644221, 
-        "youtube": "repbradwenstrup", 
-        "youtube_id": "UCaK7SeUvmHdHTMtF3HXb-jA"
-    }, 
-    "terms": [
-        {
-            "address": "1223 Longworth HOB; Washington DC 20515-3502", 
-            "contact_form": "http://wenstrup.house.gov/contact/", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "office": "1223 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3164", 
-            "start": "2013-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://wenstrup.house.gov"
-        }, 
-        {
-            "address": "1318 Longworth HOB; Washington DC 20515-3502", 
-            "contact_form": "http://wenstrup.house.gov/contact/", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-1992", 
-            "office": "1318 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3164", 
-            "start": "2015-01-06", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://wenstrup.house.gov"
-        }, 
-        {
-            "address": "2419 Rayburn House Office Building; Washington DC 20515-3502", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-1992", 
-            "office": "2419 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3164", 
-            "start": "2017-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "https://wenstrup.house.gov"
-        }
-    ]
+    {
+      "address": "2419 Rayburn House Office Building; Washington DC 20515-3502", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-1992", 
+      "office": "2419 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3164", 
+      "start": "2017-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://wenstrup.house.gov"
+    }
+  ]
 }

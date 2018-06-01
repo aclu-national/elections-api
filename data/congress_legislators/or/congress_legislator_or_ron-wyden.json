@@ -1,164 +1,165 @@
 {
-    "bio": {
-        "birthday": "1949-05-03", 
-        "gender": "M", 
-        "religion": "Jewish"
+  "bio": {
+    "birthday": "1949-05-03", 
+    "gender": "M", 
+    "religion": "Jewish"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:907", 
+    "ballotpedia": "Ron Wyden", 
+    "bioguide": "W000779", 
+    "cspan": 1962, 
+    "fec": [
+      "S6OR00110", 
+      "H0OR03026"
+    ], 
+    "google_entity_id": "kg:/m/0178p9", 
+    "govtrack": 300100, 
+    "house_history": 24150, 
+    "icpsr": 14871, 
+    "lis": "S247", 
+    "maplight": 619, 
+    "opensecrets": "N00007724", 
+    "thomas": "01247", 
+    "votesmart": 27036, 
+    "wikidata": "Q529344", 
+    "wikipedia": "Ron Wyden"
+  }, 
+  "name": {
+    "first": "Ron", 
+    "last": "Wyden", 
+    "official_full": "Ron Wyden"
+  }, 
+  "social": {
+    "instagram": "wydenpress", 
+    "instagram_id": 9443881, 
+    "twitter": "RonWyden", 
+    "twitter_id": 250188760, 
+    "youtube": "senronwyden", 
+    "youtube_id": "UCsd3UEaoLoqX60P88BdpGGw"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "1983-01-03", 
+      "party": "Democrat", 
+      "start": "1981-01-05", 
+      "state": "OR", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Ron Wyden", 
-        "bioguide": "W000779", 
-        "cspan": 1962, 
-        "fec": [
-            "S6OR00110", 
-            "H0OR03026"
-        ], 
-        "google_entity_id": "kg:/m/0178p9", 
-        "govtrack": 300100, 
-        "house_history": 24150, 
-        "icpsr": 14871, 
-        "lis": "S247", 
-        "maplight": 619, 
-        "opensecrets": "N00007724", 
-        "thomas": "01247", 
-        "votesmart": 27036, 
-        "wikidata": "Q529344", 
-        "wikipedia": "Ron Wyden"
+    {
+      "district": 3, 
+      "end": "1985-01-03", 
+      "party": "Democrat", 
+      "start": "1983-01-03", 
+      "state": "OR", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Ron", 
-        "last": "Wyden", 
-        "official_full": "Ron Wyden"
+    {
+      "district": 3, 
+      "end": "1987-01-03", 
+      "party": "Democrat", 
+      "start": "1985-01-03", 
+      "state": "OR", 
+      "type": "rep"
     }, 
-    "social": {
-        "instagram": "wydenpress", 
-        "instagram_id": 9443881, 
-        "twitter": "RonWyden", 
-        "twitter_id": 250188760, 
-        "youtube": "senronwyden", 
-        "youtube_id": "UCsd3UEaoLoqX60P88BdpGGw"
+    {
+      "district": 3, 
+      "end": "1989-01-03", 
+      "party": "Democrat", 
+      "start": "1987-01-06", 
+      "state": "OR", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 3, 
-            "end": "1983-01-03", 
-            "party": "Democrat", 
-            "start": "1981-01-05", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1985-01-03", 
-            "party": "Democrat", 
-            "start": "1983-01-03", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1987-01-03", 
-            "party": "Democrat", 
-            "start": "1985-01-03", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1989-01-03", 
-            "party": "Democrat", 
-            "start": "1987-01-06", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1991-01-03", 
-            "party": "Democrat", 
-            "start": "1989-01-03", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1993-01-03", 
-            "party": "Democrat", 
-            "start": "1991-01-03", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "1996-02-05", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "OR", 
-            "type": "rep"
-        }, 
-        {
-            "class": 3, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1996-01-01", 
-            "state": "OR", 
-            "type": "sen"
-        }, 
-        {
-            "class": 3, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "OR", 
-            "type": "sen", 
-            "url": "http://wyden.senate.gov/"
-        }, 
-        {
-            "class": 3, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "OR", 
-            "type": "sen", 
-            "url": "http://wyden.senate.gov/"
-        }, 
-        {
-            "address": "221 Dirksen Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.wyden.senate.gov/contact", 
-            "end": "2017-01-03", 
-            "fax": "202-228-2717", 
-            "office": "221 Dirksen Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-5244", 
-            "rss_url": "http://www.wyden.senate.gov/rss/feeds/?type=all&amp;", 
-            "start": "2011-01-05", 
-            "state": "OR", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.wyden.senate.gov"
-        }, 
-        {
-            "address": "221 Dirksen Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.wyden.senate.gov/contact/", 
-            "end": "2023-01-03", 
-            "fax": "202-228-2717", 
-            "office": "221 Dirksen Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-5244", 
-            "rss_url": "http://www.wyden.senate.gov/rss/feeds/?type=all&amp;", 
-            "start": "2017-01-03", 
-            "state": "OR", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.wyden.senate.gov"
-        }
-    ]
+    {
+      "district": 3, 
+      "end": "1991-01-03", 
+      "party": "Democrat", 
+      "start": "1989-01-03", 
+      "state": "OR", 
+      "type": "rep"
+    }, 
+    {
+      "district": 3, 
+      "end": "1993-01-03", 
+      "party": "Democrat", 
+      "start": "1991-01-03", 
+      "state": "OR", 
+      "type": "rep"
+    }, 
+    {
+      "district": 3, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "OR", 
+      "type": "rep"
+    }, 
+    {
+      "district": 3, 
+      "end": "1996-02-05", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "OR", 
+      "type": "rep"
+    }, 
+    {
+      "class": 3, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1996-01-01", 
+      "state": "OR", 
+      "type": "sen"
+    }, 
+    {
+      "class": 3, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "OR", 
+      "type": "sen", 
+      "url": "http://wyden.senate.gov/"
+    }, 
+    {
+      "class": 3, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "OR", 
+      "type": "sen", 
+      "url": "http://wyden.senate.gov/"
+    }, 
+    {
+      "address": "221 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.wyden.senate.gov/contact", 
+      "end": "2017-01-03", 
+      "fax": "202-228-2717", 
+      "office": "221 Dirksen Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5244", 
+      "rss_url": "http://www.wyden.senate.gov/rss/feeds/?type=all&amp;", 
+      "start": "2011-01-05", 
+      "state": "OR", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.wyden.senate.gov"
+    }, 
+    {
+      "address": "221 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.wyden.senate.gov/contact/", 
+      "end": "2023-01-03", 
+      "fax": "202-228-2717", 
+      "office": "221 Dirksen Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5244", 
+      "rss_url": "http://www.wyden.senate.gov/rss/feeds/?type=all&amp;", 
+      "start": "2017-01-03", 
+      "state": "OR", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.wyden.senate.gov"
+    }
+  ]
 }

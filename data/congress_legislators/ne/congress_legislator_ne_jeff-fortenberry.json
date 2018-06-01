@@ -1,123 +1,124 @@
 {
-    "bio": {
-        "birthday": "1960-12-27", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-12-27", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:821", 
+    "ballotpedia": "Jeff Fortenberry", 
+    "bioguide": "F000449", 
+    "cspan": 1013049, 
+    "fec": [
+      "H4NE01064"
+    ], 
+    "google_entity_id": "kg:/m/04fcch", 
+    "govtrack": 400640, 
+    "house_history": 13545, 
+    "icpsr": 20518, 
+    "maplight": 646, 
+    "opensecrets": "N00026631", 
+    "thomas": "01793", 
+    "votesmart": 41929, 
+    "wikidata": "Q1397331", 
+    "wikipedia": "Jeff Fortenberry"
+  }, 
+  "name": {
+    "first": "Jeff", 
+    "last": "Fortenberry", 
+    "middle": "Lane", 
+    "official_full": "Jeff Fortenberry"
+  }, 
+  "social": {
+    "facebook": "jefffortenberry", 
+    "twitter": "JeffFortenberry", 
+    "twitter_id": 18805303, 
+    "youtube": "JeffFortenberry", 
+    "youtube_id": "UCbWUvw3gQhbFyJzt1Nh6cAA"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "NE", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Jeff Fortenberry", 
-        "bioguide": "F000449", 
-        "cspan": 1013049, 
-        "fec": [
-            "H4NE01064"
-        ], 
-        "google_entity_id": "kg:/m/04fcch", 
-        "govtrack": 400640, 
-        "house_history": 13545, 
-        "icpsr": 20518, 
-        "maplight": 646, 
-        "opensecrets": "N00026631", 
-        "thomas": "01793", 
-        "votesmart": 41929, 
-        "wikidata": "Q1397331", 
-        "wikipedia": "Jeff Fortenberry"
+    {
+      "district": 1, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "http://fortenberry.house.gov"
     }, 
-    "name": {
-        "first": "Jeff", 
-        "last": "Fortenberry", 
-        "middle": "Lane", 
-        "official_full": "Jeff Fortenberry"
+    {
+      "district": 1, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "http://fortenberry.house.gov"
     }, 
-    "social": {
-        "facebook": "jefffortenberry", 
-        "twitter": "JeffFortenberry", 
-        "twitter_id": 18805303, 
-        "youtube": "JeffFortenberry", 
-        "youtube_id": "UCbWUvw3gQhbFyJzt1Nh6cAA"
+    {
+      "address": "1514 Longworth HOB; Washington DC 20515-2701", 
+      "contact_form": "http://fortenberry.house.gov/contactform_zipcheck.shtml", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5686", 
+      "office": "1514 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4806", 
+      "start": "2011-01-05", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "http://fortenberry.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "NE", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "NE", 
-            "type": "rep", 
-            "url": "http://fortenberry.house.gov"
-        }, 
-        {
-            "district": 1, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "NE", 
-            "type": "rep", 
-            "url": "http://fortenberry.house.gov"
-        }, 
-        {
-            "address": "1514 Longworth HOB; Washington DC 20515-2701", 
-            "contact_form": "http://fortenberry.house.gov/contactform_zipcheck.shtml", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5686", 
-            "office": "1514 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4806", 
-            "start": "2011-01-05", 
-            "state": "NE", 
-            "type": "rep", 
-            "url": "http://fortenberry.house.gov"
-        }, 
-        {
-            "address": "1514 Longworth HOB; Washington DC 20515-2701", 
-            "contact_form": "https://fortenberry.house.gov/contact-me1", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5686", 
-            "office": "1514 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4806", 
-            "rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "NE", 
-            "type": "rep", 
-            "url": "http://fortenberry.house.gov"
-        }, 
-        {
-            "address": "1514 Longworth HOB; Washington DC 20515-2701", 
-            "contact_form": "https://fortenberry.house.gov/contact-me1", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5686", 
-            "office": "1514 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4806", 
-            "rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "NE", 
-            "type": "rep", 
-            "url": "https://fortenberry.house.gov"
-        }, 
-        {
-            "address": "1514 Longworth House Office Building; Washington DC 20515-2701", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5686", 
-            "office": "1514 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4806", 
-            "rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "NE", 
-            "type": "rep", 
-            "url": "https://fortenberry.house.gov"
-        }
-    ]
+    {
+      "address": "1514 Longworth HOB; Washington DC 20515-2701", 
+      "contact_form": "https://fortenberry.house.gov/contact-me1", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5686", 
+      "office": "1514 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4806", 
+      "rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "http://fortenberry.house.gov"
+    }, 
+    {
+      "address": "1514 Longworth HOB; Washington DC 20515-2701", 
+      "contact_form": "https://fortenberry.house.gov/contact-me1", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5686", 
+      "office": "1514 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4806", 
+      "rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "https://fortenberry.house.gov"
+    }, 
+    {
+      "address": "1514 Longworth House Office Building; Washington DC 20515-2701", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5686", 
+      "office": "1514 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4806", 
+      "rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "https://fortenberry.house.gov"
+    }
+  ]
 }

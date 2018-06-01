@@ -1,123 +1,124 @@
 {
-    "bio": {
-        "birthday": "1969-05-22", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1969-05-22", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1014", 
+    "ballotpedia": "Cathy McMorris Rodgers", 
+    "bioguide": "M001159", 
+    "cspan": 1013063, 
+    "fec": [
+      "H4WA05077"
+    ], 
+    "google_entity_id": "kg:/m/03dlf3", 
+    "govtrack": 400659, 
+    "house_history": 18790, 
+    "icpsr": 20535, 
+    "maplight": 664, 
+    "opensecrets": "N00026314", 
+    "thomas": "01809", 
+    "votesmart": 3217, 
+    "wikidata": "Q293343", 
+    "wikipedia": "Cathy McMorris Rodgers"
+  }, 
+  "name": {
+    "first": "Cathy", 
+    "last": "McMorris Rodgers", 
+    "official_full": "Cathy McMorris Rodgers"
+  }, 
+  "social": {
+    "facebook": "mcmorrisrodgers", 
+    "instagram": "cathymcmorris", 
+    "twitter": "CathyMcMorris", 
+    "twitter_id": 17976923, 
+    "youtube": "mcmorrisrodgers", 
+    "youtube_id": "UCRp0lwIxAhq2Ia9_YgRWUkg"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "WA", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Cathy McMorris Rodgers", 
-        "bioguide": "M001159", 
-        "cspan": 1013063, 
-        "fec": [
-            "H4WA05077"
-        ], 
-        "google_entity_id": "kg:/m/03dlf3", 
-        "govtrack": 400659, 
-        "house_history": 18790, 
-        "icpsr": 20535, 
-        "maplight": 664, 
-        "opensecrets": "N00026314", 
-        "thomas": "01809", 
-        "votesmart": 3217, 
-        "wikidata": "Q293343", 
-        "wikipedia": "Cathy McMorris Rodgers"
+    {
+      "district": 5, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://mcmorris.house.gov"
     }, 
-    "name": {
-        "first": "Cathy", 
-        "last": "McMorris Rodgers", 
-        "official_full": "Cathy McMorris Rodgers"
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://mcmorris.house.gov"
     }, 
-    "social": {
-        "facebook": "mcmorrisrodgers", 
-        "instagram": "cathymcmorris", 
-        "twitter": "CathyMcMorris", 
-        "twitter_id": 17976923, 
-        "youtube": "mcmorrisrodgers", 
-        "youtube_id": "UCRp0lwIxAhq2Ia9_YgRWUkg"
+    {
+      "address": "2421 Rayburn HOB; Washington DC 20515-4705", 
+      "contact_form": "https://mcmorrisforms.house.gov/write-to-cathy1", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3392", 
+      "office": "2421 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2006", 
+      "start": "2011-01-05", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://mcmorris.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "WA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 5, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://mcmorris.house.gov"
-        }, 
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://mcmorris.house.gov"
-        }, 
-        {
-            "address": "2421 Rayburn HOB; Washington DC 20515-4705", 
-            "contact_form": "https://mcmorrisforms.house.gov/write-to-cathy1", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3392", 
-            "office": "2421 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2006", 
-            "start": "2011-01-05", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://mcmorris.house.gov"
-        }, 
-        {
-            "address": "203 Cannon HOB; Washington DC 20515-4705", 
-            "contact_form": "https://mcmorrisforms.house.gov/write-to-cathy1", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3392", 
-            "office": "203 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2006", 
-            "rss_url": "http://mcmorris.house.gov/common/rss/?rss=96", 
-            "start": "2013-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://mcmorris.house.gov"
-        }, 
-        {
-            "address": "203 Cannon HOB; Washington DC 20515-4705", 
-            "contact_form": "https://mcmorrisforms.house.gov/write-to-cathy1", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3392", 
-            "office": "203 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2006", 
-            "rss_url": "http://mcmorris.house.gov/common/rss/?rss=96", 
-            "start": "2015-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://mcmorris.house.gov"
-        }, 
-        {
-            "address": "1314 Longworth House Office Building; Washington DC 20515-4705", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3392", 
-            "office": "1314 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2006", 
-            "rss_url": "http://mcmorris.house.gov/common/rss/?rss=96", 
-            "start": "2017-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "https://mcmorris.house.gov"
-        }
-    ]
+    {
+      "address": "203 Cannon HOB; Washington DC 20515-4705", 
+      "contact_form": "https://mcmorrisforms.house.gov/write-to-cathy1", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3392", 
+      "office": "203 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2006", 
+      "rss_url": "http://mcmorris.house.gov/common/rss/?rss=96", 
+      "start": "2013-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://mcmorris.house.gov"
+    }, 
+    {
+      "address": "203 Cannon HOB; Washington DC 20515-4705", 
+      "contact_form": "https://mcmorrisforms.house.gov/write-to-cathy1", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3392", 
+      "office": "203 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2006", 
+      "rss_url": "http://mcmorris.house.gov/common/rss/?rss=96", 
+      "start": "2015-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://mcmorris.house.gov"
+    }, 
+    {
+      "address": "1314 Longworth House Office Building; Washington DC 20515-4705", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3392", 
+      "office": "1314 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2006", 
+      "rss_url": "http://mcmorris.house.gov/common/rss/?rss=96", 
+      "start": "2017-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://mcmorris.house.gov"
+    }
+  ]
 }

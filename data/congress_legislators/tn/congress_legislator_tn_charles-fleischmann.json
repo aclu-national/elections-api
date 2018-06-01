@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1962-10-11", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1962-10-11", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:944", 
+    "bioguide": "F000459", 
+    "cspan": 95146, 
+    "fec": [
+      "H0TN03254"
+    ], 
+    "google_entity_id": "kg:/m/0ddd54f", 
+    "govtrack": 412476, 
+    "house_history": 13563, 
+    "icpsr": 21178, 
+    "maplight": 1481, 
+    "opensecrets": "N00030815", 
+    "thomas": "02061", 
+    "votesmart": 123456, 
+    "wikidata": "Q521959", 
+    "wikipedia": "Chuck Fleischmann"
+  }, 
+  "name": {
+    "first": "Charles", 
+    "last": "Fleischmann", 
+    "middle": "J.", 
+    "nickname": "Chuck", 
+    "official_full": "Charles J. \"Chuck\" Fleischmann"
+  }, 
+  "social": {
+    "facebook": "repchuck", 
+    "twitter": "RepChuck", 
+    "twitter_id": 235190657, 
+    "youtube": "repchuck", 
+    "youtube_id": "UCTtRrJkM-R-f2K0byCMvHgw"
+  }, 
+  "terms": [
+    {
+      "address": "511 Cannon HOB; Washington DC 20515-4203", 
+      "district": 3, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3494", 
+      "office": "511 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3271", 
+      "start": "2011-01-05", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://fleischmann.house.gov/"
     }, 
-    "id": {
-        "bioguide": "F000459", 
-        "cspan": 95146, 
-        "fec": [
-            "H0TN03254"
-        ], 
-        "google_entity_id": "kg:/m/0ddd54f", 
-        "govtrack": 412476, 
-        "house_history": 13563, 
-        "icpsr": 21178, 
-        "maplight": 1481, 
-        "opensecrets": "N00030815", 
-        "thomas": "02061", 
-        "votesmart": 123456, 
-        "wikidata": "Q521959", 
-        "wikipedia": "Chuck Fleischmann"
+    {
+      "address": "230 Cannon HOB; Washington DC 20515-4203", 
+      "contact_form": "https://fleischmann.house.gov/contact-me/email-me", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3494", 
+      "office": "230 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3271", 
+      "rss_url": "http://fleischmann.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://fleischmann.house.gov"
     }, 
-    "name": {
-        "first": "Charles", 
-        "last": "Fleischmann", 
-        "middle": "J.", 
-        "nickname": "Chuck", 
-        "official_full": "Charles J. \"Chuck\" Fleischmann"
+    {
+      "address": "230 Cannon HOB; Washington DC 20515-4203", 
+      "contact_form": "https://fleischmann.house.gov/contact-me/email-me", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3494", 
+      "office": "230 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3271", 
+      "rss_url": "http://fleischmann.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "http://fleischmann.house.gov"
     }, 
-    "social": {
-        "facebook": "repchuck", 
-        "twitter": "RepChuck", 
-        "twitter_id": 235190657, 
-        "youtube": "repchuck", 
-        "youtube_id": "UCTtRrJkM-R-f2K0byCMvHgw"
-    }, 
-    "terms": [
-        {
-            "address": "511 Cannon HOB; Washington DC 20515-4203", 
-            "district": 3, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3494", 
-            "office": "511 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3271", 
-            "start": "2011-01-05", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://fleischmann.house.gov/"
-        }, 
-        {
-            "address": "230 Cannon HOB; Washington DC 20515-4203", 
-            "contact_form": "https://fleischmann.house.gov/contact-me/email-me", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3494", 
-            "office": "230 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3271", 
-            "rss_url": "http://fleischmann.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://fleischmann.house.gov"
-        }, 
-        {
-            "address": "230 Cannon HOB; Washington DC 20515-4203", 
-            "contact_form": "https://fleischmann.house.gov/contact-me/email-me", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3494", 
-            "office": "230 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3271", 
-            "rss_url": "http://fleischmann.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "http://fleischmann.house.gov"
-        }, 
-        {
-            "address": "2410 Rayburn House Office Building; Washington DC 20515-4203", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3494", 
-            "office": "2410 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3271", 
-            "rss_url": "http://fleischmann.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "TN", 
-            "type": "rep", 
-            "url": "https://fleischmann.house.gov"
-        }
-    ]
+    {
+      "address": "2410 Rayburn House Office Building; Washington DC 20515-4203", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3494", 
+      "office": "2410 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3271", 
+      "rss_url": "http://fleischmann.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://fleischmann.house.gov"
+    }
+  ]
 }

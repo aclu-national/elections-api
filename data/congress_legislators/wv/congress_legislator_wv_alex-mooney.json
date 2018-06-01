@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1971-06-05", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1971-06-05", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1035", 
+    "bioguide": "M001195", 
+    "cspan": 76588, 
+    "fec": [
+      "H4WV02080"
+    ], 
+    "google_entity_id": "kg:/m/02qqy78", 
+    "govtrack": 412662, 
+    "icpsr": 21557, 
+    "maplight": 2118, 
+    "opensecrets": "N00033814", 
+    "thomas": "02277", 
+    "votesmart": 145943, 
+    "wikidata": "Q4718026", 
+    "wikipedia": "Alex Mooney"
+  }, 
+  "name": {
+    "first": "Alex", 
+    "last": "Mooney", 
+    "official_full": "Alexander X. Mooney"
+  }, 
+  "social": {
+    "facebook": "CongressmanAlexMooney", 
+    "instagram": "repalexmooney", 
+    "twitter": "RepAlexMooney", 
+    "twitter_id": 2964526557, 
+    "youtube_id": "UCw9CGkF4Re3areluI43TGyA"
+  }, 
+  "terms": [
+    {
+      "address": "1232 Longworth HOB; Washington DC 20515-4802", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-7856", 
+      "office": "1232 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2711", 
+      "start": "2015-01-06", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "https://mooney.house.gov"
     }, 
-    "id": {
-        "bioguide": "M001195", 
-        "cspan": 76588, 
-        "fec": [
-            "H4WV02080"
-        ], 
-        "google_entity_id": "kg:/m/02qqy78", 
-        "govtrack": 412662, 
-        "icpsr": 21557, 
-        "maplight": 2118, 
-        "opensecrets": "N00033814", 
-        "thomas": "02277", 
-        "votesmart": 145943, 
-        "wikidata": "Q4718026", 
-        "wikipedia": "Alex Mooney"
-    }, 
-    "name": {
-        "first": "Alex", 
-        "last": "Mooney", 
-        "official_full": "Alexander X. Mooney"
-    }, 
-    "social": {
-        "facebook": "CongressmanAlexMooney", 
-        "instagram": "repalexmooney", 
-        "twitter": "RepAlexMooney", 
-        "twitter_id": 2964526557, 
-        "youtube_id": "UCw9CGkF4Re3areluI43TGyA"
-    }, 
-    "terms": [
-        {
-            "address": "1232 Longworth HOB; Washington DC 20515-4802", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-7856", 
-            "office": "1232 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2711", 
-            "start": "2015-01-06", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "https://mooney.house.gov"
-        }, 
-        {
-            "address": "1232 Longworth House Office Building; Washington DC 20515-4802", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-7856", 
-            "office": "1232 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2711", 
-            "start": "2017-01-03", 
-            "state": "WV", 
-            "type": "rep", 
-            "url": "https://mooney.house.gov"
-        }
-    ]
+    {
+      "address": "1232 Longworth House Office Building; Washington DC 20515-4802", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-7856", 
+      "office": "1232 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2711", 
+      "start": "2017-01-03", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "https://mooney.house.gov"
+    }
+  ]
 }

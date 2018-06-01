@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1965-04-04", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1965-04-04", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:587", 
+    "bioguide": "T000474", 
+    "cspan": 76129, 
+    "fec": [
+      "H4CA35031"
+    ], 
+    "google_entity_id": "kg:/m/03wd1hs", 
+    "govtrack": 412617, 
+    "house_history": 15032410409, 
+    "icpsr": 21508, 
+    "maplight": 2073, 
+    "opensecrets": "N00036107", 
+    "thomas": "02231", 
+    "votesmart": 71284, 
+    "wikidata": "Q3343727", 
+    "wikipedia": "Norma Torres"
+  }, 
+  "name": {
+    "first": "Norma", 
+    "last": "Torres", 
+    "official_full": "Norma J. Torres"
+  }, 
+  "social": {
+    "facebook": "RepNormaTorres", 
+    "twitter": "NormaJTorres", 
+    "twitter_id": 236279233, 
+    "youtube_id": "UCvWY4qKP6--o3pIJY7hhKDg"
+  }, 
+  "terms": [
+    {
+      "address": "516 Cannon HOB; Washington DC 20515-0535", 
+      "district": 35, 
+      "end": "2017-01-03", 
+      "fax": "202-225-8671", 
+      "office": "516 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6161", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://torres.house.gov"
     }, 
-    "id": {
-        "bioguide": "T000474", 
-        "cspan": 76129, 
-        "fec": [
-            "H4CA35031"
-        ], 
-        "google_entity_id": "kg:/m/03wd1hs", 
-        "govtrack": 412617, 
-        "house_history": 15032410409, 
-        "icpsr": 21508, 
-        "maplight": 2073, 
-        "opensecrets": "N00036107", 
-        "thomas": "02231", 
-        "votesmart": 71284, 
-        "wikidata": "Q3343727", 
-        "wikipedia": "Norma Torres"
-    }, 
-    "name": {
-        "first": "Norma", 
-        "last": "Torres", 
-        "official_full": "Norma J. Torres"
-    }, 
-    "social": {
-        "facebook": "RepNormaTorres", 
-        "twitter": "NormaJTorres", 
-        "twitter_id": 236279233, 
-        "youtube_id": "UCvWY4qKP6--o3pIJY7hhKDg"
-    }, 
-    "terms": [
-        {
-            "address": "516 Cannon HOB; Washington DC 20515-0535", 
-            "district": 35, 
-            "end": "2017-01-03", 
-            "fax": "202-225-8671", 
-            "office": "516 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6161", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://torres.house.gov"
-        }, 
-        {
-            "address": "1713 Longworth House Office Building; Washington DC 20515-0535", 
-            "district": 35, 
-            "end": "2019-01-03", 
-            "fax": "202-225-8671", 
-            "office": "1713 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6161", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://torres.house.gov"
-        }
-    ]
+    {
+      "address": "1713 Longworth House Office Building; Washington DC 20515-0535", 
+      "district": 35, 
+      "end": "2019-01-03", 
+      "fax": "202-225-8671", 
+      "office": "1713 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6161", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://torres.house.gov"
+    }
+  ]
 }

@@ -1,102 +1,103 @@
 {
-    "bio": {
-        "birthday": "1965-09-19", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1965-09-19", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:937", 
+    "ballotpedia": "Tim Scott", 
+    "bioguide": "S001184", 
+    "cspan": 623506, 
+    "fec": [
+      "H0SC01279", 
+      "S4SC00240"
+    ], 
+    "google_entity_id": "kg:/m/0c407g6", 
+    "govtrack": 412471, 
+    "house_history": 22623, 
+    "icpsr": 21173, 
+    "lis": "S365", 
+    "maplight": 1476, 
+    "opensecrets": "N00031782", 
+    "thomas": "02056", 
+    "votesmart": 11940, 
+    "wikidata": "Q561315", 
+    "wikipedia": "Tim Scott"
+  }, 
+  "name": {
+    "first": "Tim", 
+    "last": "Scott", 
+    "official_full": "Tim Scott"
+  }, 
+  "social": {
+    "facebook": "SenatorTimScott", 
+    "instagram": "SenatorTimScott", 
+    "twitter": "SenatorTimScott", 
+    "twitter_id": 217543151, 
+    "youtube": "SenatorTimScott", 
+    "youtube_id": "UCSfAsbG80CNInSKrtpKoL-w"
+  }, 
+  "terms": [
+    {
+      "address": "1117 Longworth HOB; Washington DC 20515-4001", 
+      "district": 1, 
+      "end": "2013-01-02", 
+      "fax": "202-225-3407", 
+      "office": "1117 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3176", 
+      "start": "2011-01-05", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://timscott.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Tim Scott", 
-        "bioguide": "S001184", 
-        "cspan": 623506, 
-        "fec": [
-            "H0SC01279", 
-            "S4SC00240"
-        ], 
-        "google_entity_id": "kg:/m/0c407g6", 
-        "govtrack": 412471, 
-        "house_history": 22623, 
-        "icpsr": 21173, 
-        "lis": "S365", 
-        "maplight": 1476, 
-        "opensecrets": "N00031782", 
-        "thomas": "02056", 
-        "votesmart": 11940, 
-        "wikidata": "Q561315", 
-        "wikipedia": "Tim Scott"
+    {
+      "address": "167 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.scott.senate.gov/contact/email-me", 
+      "end": "2015-01-03", 
+      "fax": "202-225-3407", 
+      "office": "167 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6121", 
+      "rss_url": "http://www.scott.senate.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "SC", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "http://www.scott.senate.gov"
     }, 
-    "name": {
-        "first": "Tim", 
-        "last": "Scott", 
-        "official_full": "Tim Scott"
+    {
+      "address": "520 Hart Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.scott.senate.gov/contact/email-me", 
+      "end": "2017-01-03", 
+      "fax": "202-225-3407", 
+      "office": "520 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6121", 
+      "rss_url": "http://www.scott.senate.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "SC", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.scott.senate.gov"
     }, 
-    "social": {
-        "facebook": "SenatorTimScott", 
-        "instagram": "SenatorTimScott", 
-        "twitter": "SenatorTimScott", 
-        "twitter_id": 217543151, 
-        "youtube": "SenatorTimScott", 
-        "youtube_id": "UCSfAsbG80CNInSKrtpKoL-w"
-    }, 
-    "terms": [
-        {
-            "address": "1117 Longworth HOB; Washington DC 20515-4001", 
-            "district": 1, 
-            "end": "2013-01-02", 
-            "fax": "202-225-3407", 
-            "office": "1117 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3176", 
-            "start": "2011-01-05", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://timscott.house.gov/"
-        }, 
-        {
-            "address": "167 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.scott.senate.gov/contact/email-me", 
-            "end": "2015-01-03", 
-            "fax": "202-225-3407", 
-            "office": "167 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6121", 
-            "rss_url": "http://www.scott.senate.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "SC", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "http://www.scott.senate.gov"
-        }, 
-        {
-            "address": "520 Hart Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.scott.senate.gov/contact/email-me", 
-            "end": "2017-01-03", 
-            "fax": "202-225-3407", 
-            "office": "520 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6121", 
-            "rss_url": "http://www.scott.senate.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "SC", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.scott.senate.gov"
-        }, 
-        {
-            "address": "717 Hart Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.scott.senate.gov/contact/email-me", 
-            "end": "2023-01-03", 
-            "fax": "202-225-3407", 
-            "office": "717 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6121", 
-            "rss_url": "http://www.scott.senate.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "SC", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.scott.senate.gov"
-        }
-    ]
+    {
+      "address": "717 Hart Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.scott.senate.gov/contact/email-me", 
+      "end": "2023-01-03", 
+      "fax": "202-225-3407", 
+      "office": "717 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6121", 
+      "rss_url": "http://www.scott.senate.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "SC", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.scott.senate.gov"
+    }
+  ]
 }

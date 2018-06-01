@@ -1,46 +1,47 @@
 {
-    "bio": {
-        "birthday": "1978-02-25", 
-        "gender": "M"
-    }, 
-    "id": {
-        "bioguide": "S001200", 
-        "cspan": 104534, 
-        "fec": [
-            "H6FL09179"
-        ], 
-        "google_entity_id": "kg:/m/05b_1xw", 
-        "govtrack": 412695, 
-        "icpsr": 21746, 
-        "maplight": 2207, 
-        "opensecrets": "N00037422", 
-        "votesmart": 67618, 
-        "wikidata": "Q5225162", 
-        "wikipedia": "Darren Soto"
-    }, 
-    "name": {
-        "first": "Darren", 
-        "last": "Soto", 
-        "official_full": "Darren Soto"
-    }, 
-    "social": {
-        "facebook": "CongressmanDarrenSoto", 
-        "twitter": "RepDarrenSoto", 
-        "twitter_id": 818713465653051392, 
-        "youtube": "repdarrensoto"
-    }, 
-    "terms": [
-        {
-            "address": "1429 Longworth House Office Building; Washington DC 20515-0909", 
-            "district": 9, 
-            "end": "2019-01-03", 
-            "office": "1429 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-9889", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://soto.house.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1978-02-25", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:628", 
+    "bioguide": "S001200", 
+    "cspan": 104534, 
+    "fec": [
+      "H6FL09179"
+    ], 
+    "google_entity_id": "kg:/m/05b_1xw", 
+    "govtrack": 412695, 
+    "icpsr": 21746, 
+    "maplight": 2207, 
+    "opensecrets": "N00037422", 
+    "votesmart": 67618, 
+    "wikidata": "Q5225162", 
+    "wikipedia": "Darren Soto"
+  }, 
+  "name": {
+    "first": "Darren", 
+    "last": "Soto", 
+    "official_full": "Darren Soto"
+  }, 
+  "social": {
+    "facebook": "CongressmanDarrenSoto", 
+    "twitter": "RepDarrenSoto", 
+    "twitter_id": 818713465653051392, 
+    "youtube": "repdarrensoto"
+  }, 
+  "terms": [
+    {
+      "address": "1429 Longworth House Office Building; Washington DC 20515-0909", 
+      "district": 9, 
+      "end": "2019-01-03", 
+      "office": "1429 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9889", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://soto.house.gov"
+    }
+  ]
 }

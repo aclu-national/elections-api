@@ -1,0 +1,84 @@
+{
+  "bio": {
+    "birthday": "1963-03-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:598", 
+    "ballotpedia": "Tony Cardenas", 
+    "bioguide": "C001097", 
+    "cspan": 63934, 
+    "fec": [
+      "H2CA28113"
+    ], 
+    "google_entity_id": "kg:/m/0cgzsw", 
+    "govtrack": 412517, 
+    "icpsr": 21309, 
+    "maplight": 1741, 
+    "opensecrets": "N00033373", 
+    "thomas": "02107", 
+    "votesmart": 9754, 
+    "wikidata": "Q3620422", 
+    "wikipedia": "Tony C\u00e1rdenas"
+  }, 
+  "name": {
+    "first": "Tony", 
+    "last": "C\u00e1rdenas", 
+    "official_full": "Tony C\u00e1rdenas"
+  }, 
+  "social": {
+    "facebook": "repcardenas", 
+    "instagram": "repcardenas", 
+    "instagram_id": 1483357690, 
+    "twitter": "RepCardenas", 
+    "twitter_id": 1222257180, 
+    "youtube": "repcardenas", 
+    "youtube_id": "UCm6ug1-yvYGL0F6DvYxfFBA"
+  }, 
+  "terms": [
+    {
+      "address": "1508 Longworth HOB; Washington DC 20515-0529", 
+      "contact_form": "https://cardenas.house.gov/contact/email-me", 
+      "district": 29, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0819", 
+      "office": "1508 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6131", 
+      "rss_url": "http://cardenas.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://cardenas.house.gov"
+    }, 
+    {
+      "address": "1510 Longworth HOB; Washington DC 20515-0529", 
+      "contact_form": "https://cardenas.house.gov/contact/email-me", 
+      "district": 29, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0819", 
+      "office": "1510 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6131", 
+      "rss_url": "http://cardenas.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://cardenas.house.gov"
+    }, 
+    {
+      "address": "1510 Longworth House Office Building; Washington DC 20515-0529", 
+      "district": 29, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0819", 
+      "office": "1510 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6131", 
+      "rss_url": "http://cardenas.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://cardenas.house.gov"
+    }
+  ]
+}

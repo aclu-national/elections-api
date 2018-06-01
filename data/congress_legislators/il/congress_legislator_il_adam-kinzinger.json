@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1978-02-27", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1978-02-27", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:679", 
+    "ballotpedia": "Adam Kinzinger", 
+    "bioguide": "K000378", 
+    "cspan": 62573, 
+    "fec": [
+      "H0IL11052"
+    ], 
+    "google_entity_id": "kg:/m/05q9ypn", 
+    "govtrack": 412421, 
+    "house_history": 16573, 
+    "icpsr": 21128, 
+    "maplight": 1433, 
+    "opensecrets": "N00030667", 
+    "thomas": "02014", 
+    "votesmart": 116559, 
+    "wikidata": "Q349955", 
+    "wikipedia": "Adam Kinzinger"
+  }, 
+  "name": {
+    "first": "Adam", 
+    "last": "Kinzinger", 
+    "official_full": "Adam Kinzinger"
+  }, 
+  "social": {
+    "facebook": "RepKinzinger", 
+    "twitter": "RepKinzinger", 
+    "twitter_id": 219429281, 
+    "youtube": "RepAdamKinzinger", 
+    "youtube_id": "UCjDHxyjndxxhjuPWyEBc7UA"
+  }, 
+  "terms": [
+    {
+      "address": "1218 Longworth HOB; Washington DC 20515-1311", 
+      "district": 11, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3521", 
+      "office": "1218 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3635", 
+      "start": "2011-01-05", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://kinzinger.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Adam Kinzinger", 
-        "bioguide": "K000378", 
-        "cspan": 62573, 
-        "fec": [
-            "H0IL11052"
-        ], 
-        "google_entity_id": "kg:/m/05q9ypn", 
-        "govtrack": 412421, 
-        "house_history": 16573, 
-        "icpsr": 21128, 
-        "maplight": 1433, 
-        "opensecrets": "N00030667", 
-        "thomas": "02014", 
-        "votesmart": 116559, 
-        "wikidata": "Q349955", 
-        "wikipedia": "Adam Kinzinger"
+    {
+      "address": "1221 Longworth HOB; Washington DC 20515-1316", 
+      "contact_form": "https://kinzinger.house.gov/email-adam", 
+      "district": 16, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3521", 
+      "office": "1221 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3635", 
+      "rss_url": "http://kinzinger.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2013-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://kinzinger.house.gov"
     }, 
-    "name": {
-        "first": "Adam", 
-        "last": "Kinzinger", 
-        "official_full": "Adam Kinzinger"
+    {
+      "address": "1221 Longworth HOB; Washington DC 20515-1316", 
+      "contact_form": "https://kinzinger.house.gov/email-adam", 
+      "district": 16, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3521", 
+      "office": "1221 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3635", 
+      "rss_url": "http://kinzinger.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://kinzinger.house.gov"
     }, 
-    "social": {
-        "facebook": "RepKinzinger", 
-        "twitter": "RepKinzinger", 
-        "twitter_id": 219429281, 
-        "youtube": "RepAdamKinzinger", 
-        "youtube_id": "UCjDHxyjndxxhjuPWyEBc7UA"
-    }, 
-    "terms": [
-        {
-            "address": "1218 Longworth HOB; Washington DC 20515-1311", 
-            "district": 11, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3521", 
-            "office": "1218 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3635", 
-            "start": "2011-01-05", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://kinzinger.house.gov/"
-        }, 
-        {
-            "address": "1221 Longworth HOB; Washington DC 20515-1316", 
-            "contact_form": "https://kinzinger.house.gov/email-adam", 
-            "district": 16, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3521", 
-            "office": "1221 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3635", 
-            "rss_url": "http://kinzinger.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2013-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://kinzinger.house.gov"
-        }, 
-        {
-            "address": "1221 Longworth HOB; Washington DC 20515-1316", 
-            "contact_form": "https://kinzinger.house.gov/email-adam", 
-            "district": 16, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3521", 
-            "office": "1221 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3635", 
-            "rss_url": "http://kinzinger.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://kinzinger.house.gov"
-        }, 
-        {
-            "address": "2245 Rayburn House Office Building; Washington DC 20515-1316", 
-            "district": 16, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3521", 
-            "office": "2245 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3635", 
-            "rss_url": "http://kinzinger.house.gov/common/rss//index.cfm?rss=49", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://kinzinger.house.gov"
-        }
-    ]
+    {
+      "address": "2245 Rayburn House Office Building; Washington DC 20515-1316", 
+      "district": 16, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3521", 
+      "office": "2245 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3635", 
+      "rss_url": "http://kinzinger.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://kinzinger.house.gov"
+    }
+  ]
 }

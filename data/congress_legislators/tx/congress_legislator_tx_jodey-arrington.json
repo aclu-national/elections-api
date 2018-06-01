@@ -1,45 +1,46 @@
 {
-    "bio": {
-        "birthday": "1972-03-09", 
-        "gender": "M"
-    }, 
-    "id": {
-        "bioguide": "A000375", 
-        "cspan": 1016482, 
-        "fec": [
-            "H6TX19099"
-        ], 
-        "google_entity_id": "kg:/m/0g9_f_1", 
-        "govtrack": 412726, 
-        "icpsr": 21700, 
-        "maplight": 2238, 
-        "opensecrets": "N00038285", 
-        "votesmart": 155685, 
-        "wikidata": "Q6207815", 
-        "wikipedia": "Jodey Arrington"
-    }, 
-    "name": {
-        "first": "Jodey", 
-        "last": "Arrington", 
-        "official_full": "Jodey C. Arrington"
-    }, 
-    "social": {
-        "facebook": "JodeyArrington", 
-        "twitter": "RepArrington", 
-        "twitter_id": 816284664658874368
-    }, 
-    "terms": [
-        {
-            "address": "1029 Longworth House Office Building; Washington DC 20515-4319", 
-            "district": 19, 
-            "end": "2019-01-03", 
-            "office": "1029 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4005", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://arrington.house.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1972-03-09", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:964", 
+    "bioguide": "A000375", 
+    "cspan": 1016482, 
+    "fec": [
+      "H6TX19099"
+    ], 
+    "google_entity_id": "kg:/m/0g9_f_1", 
+    "govtrack": 412726, 
+    "icpsr": 21700, 
+    "maplight": 2238, 
+    "opensecrets": "N00038285", 
+    "votesmart": 155685, 
+    "wikidata": "Q6207815", 
+    "wikipedia": "Jodey Arrington"
+  }, 
+  "name": {
+    "first": "Jodey", 
+    "last": "Arrington", 
+    "official_full": "Jodey C. Arrington"
+  }, 
+  "social": {
+    "facebook": "JodeyArrington", 
+    "twitter": "RepArrington", 
+    "twitter_id": 816284664658874368
+  }, 
+  "terms": [
+    {
+      "address": "1029 Longworth House Office Building; Washington DC 20515-4319", 
+      "district": 19, 
+      "end": "2019-01-03", 
+      "office": "1029 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4005", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://arrington.house.gov"
+    }
+  ]
 }

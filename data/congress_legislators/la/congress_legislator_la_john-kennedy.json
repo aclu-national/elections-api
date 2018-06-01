@@ -1,50 +1,51 @@
 {
-    "bio": {
-        "birthday": "1951-11-21", 
-        "gender": "M"
-    }, 
-    "id": {
-        "ballotpedia": "John Neely Kennedy", 
-        "bioguide": "K000393", 
-        "cspan": 1011723, 
-        "fec": [
-            "S4LA00065"
-        ], 
-        "google_entity_id": "kg:/m/0fl2sv", 
-        "govtrack": 412679, 
-        "icpsr": 41703, 
-        "lis": "S389", 
-        "maplight": 2191, 
-        "opensecrets": "N00026823", 
-        "votesmart": 35496, 
-        "wikidata": "Q6250211", 
-        "wikipedia": "John Neely Kennedy"
-    }, 
-    "name": {
-        "first": "John", 
-        "last": "Kennedy", 
-        "middle": "Neely", 
-        "official_full": "John Kennedy"
-    }, 
-    "social": {
-        "facebook": "JohnKennedyLouisiana", 
-        "twitter": "SenJohnKennedy", 
-        "twitter_id": 816683274076614656
-    }, 
-    "terms": [
-        {
-            "address": "383 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.kennedy.senate.gov/public/email-me", 
-            "end": "2023-01-03", 
-            "office": "383 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-4623", 
-            "start": "2017-01-03", 
-            "state": "LA", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.kennedy.senate.gov/public"
-        }
-    ]
+  "bio": {
+    "birthday": "1951-11-21", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:728", 
+    "ballotpedia": "John Neely Kennedy", 
+    "bioguide": "K000393", 
+    "cspan": 1011723, 
+    "fec": [
+      "S4LA00065"
+    ], 
+    "google_entity_id": "kg:/m/0fl2sv", 
+    "govtrack": 412679, 
+    "icpsr": 41703, 
+    "lis": "S389", 
+    "maplight": 2191, 
+    "opensecrets": "N00026823", 
+    "votesmart": 35496, 
+    "wikidata": "Q6250211", 
+    "wikipedia": "John Neely Kennedy"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Kennedy", 
+    "middle": "Neely", 
+    "official_full": "John Kennedy"
+  }, 
+  "social": {
+    "facebook": "JohnKennedyLouisiana", 
+    "twitter": "SenJohnKennedy", 
+    "twitter_id": 816683274076614656
+  }, 
+  "terms": [
+    {
+      "address": "383 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.kennedy.senate.gov/public/email-me", 
+      "end": "2023-01-03", 
+      "office": "383 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4623", 
+      "start": "2017-01-03", 
+      "state": "LA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.kennedy.senate.gov/public"
+    }
+  ]
 }

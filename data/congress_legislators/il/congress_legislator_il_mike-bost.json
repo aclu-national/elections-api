@@ -1,61 +1,62 @@
 {
-    "bio": {
-        "birthday": "1960-12-30", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-12-30", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:690", 
+    "bioguide": "B001295", 
+    "cspan": 76176, 
+    "fec": [
+      "H4IL12060"
+    ], 
+    "google_entity_id": "kg:/m/0kry42", 
+    "govtrack": 412629, 
+    "icpsr": 21519, 
+    "maplight": 2085, 
+    "opensecrets": "N00035420", 
+    "thomas": "02243", 
+    "votesmart": 6302, 
+    "wikidata": "Q6846090", 
+    "wikipedia": "Mike Bost"
+  }, 
+  "name": {
+    "first": "Mike", 
+    "last": "Bost", 
+    "official_full": "Mike Bost"
+  }, 
+  "social": {
+    "facebook": "RepBost", 
+    "twitter": "RepBost", 
+    "twitter_id": 2964877294, 
+    "youtube_id": "UCYA1psY06vSf3QadHuCrmjQ"
+  }, 
+  "terms": [
+    {
+      "address": "1440 Longworth HOB; Washington DC 20515-1312", 
+      "district": 12, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0285", 
+      "office": "1440 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5661", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://bost.house.gov"
     }, 
-    "id": {
-        "bioguide": "B001295", 
-        "cspan": 76176, 
-        "fec": [
-            "H4IL12060"
-        ], 
-        "google_entity_id": "kg:/m/0kry42", 
-        "govtrack": 412629, 
-        "icpsr": 21519, 
-        "maplight": 2085, 
-        "opensecrets": "N00035420", 
-        "thomas": "02243", 
-        "votesmart": 6302, 
-        "wikidata": "Q6846090", 
-        "wikipedia": "Mike Bost"
-    }, 
-    "name": {
-        "first": "Mike", 
-        "last": "Bost", 
-        "official_full": "Mike Bost"
-    }, 
-    "social": {
-        "facebook": "RepBost", 
-        "twitter": "RepBost", 
-        "twitter_id": 2964877294, 
-        "youtube_id": "UCYA1psY06vSf3QadHuCrmjQ"
-    }, 
-    "terms": [
-        {
-            "address": "1440 Longworth HOB; Washington DC 20515-1312", 
-            "district": 12, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0285", 
-            "office": "1440 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5661", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://bost.house.gov"
-        }, 
-        {
-            "address": "1440 Longworth House Office Building; Washington DC 20515-1312", 
-            "district": 12, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0285", 
-            "office": "1440 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5661", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "https://bost.house.gov"
-        }
-    ]
+    {
+      "address": "1440 Longworth House Office Building; Washington DC 20515-1312", 
+      "district": 12, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0285", 
+      "office": "1440 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5661", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://bost.house.gov"
+    }
+  ]
 }

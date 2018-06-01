@@ -1,121 +1,122 @@
 {
-    "bio": {
-        "birthday": "1947-08-24", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1947-08-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:843", 
+    "ballotpedia": "Steve Pearce", 
+    "bioguide": "P000588", 
+    "cspan": 12063, 
+    "fec": [
+      "H2NM02126", 
+      "S0NM00041"
+    ], 
+    "google_entity_id": "kg:/m/033t2h", 
+    "govtrack": 400313, 
+    "house_history": 20015, 
+    "icpsr": 20337, 
+    "maplight": 407, 
+    "opensecrets": "N00012672", 
+    "thomas": "01738", 
+    "votesmart": 10655, 
+    "wikidata": "Q947168", 
+    "wikipedia": "Steve Pearce (politician)"
+  }, 
+  "name": {
+    "first": "Stevan", 
+    "last": "Pearce", 
+    "middle": "E.", 
+    "nickname": "Steve", 
+    "official_full": "Stevan Pearce"
+  }, 
+  "social": {
+    "facebook": "RepStevePearce", 
+    "twitter": "RepStevePearce", 
+    "twitter_id": 235271965, 
+    "youtube": "NMStevePearce", 
+    "youtube_id": "UCaT7jt_M86sDK50eaaVsFvQ"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://www.house.gov/pearce"
     }, 
-    "id": {
-        "ballotpedia": "Steve Pearce", 
-        "bioguide": "P000588", 
-        "cspan": 12063, 
-        "fec": [
-            "H2NM02126", 
-            "S0NM00041"
-        ], 
-        "google_entity_id": "kg:/m/033t2h", 
-        "govtrack": 400313, 
-        "house_history": 20015, 
-        "icpsr": 20337, 
-        "maplight": 407, 
-        "opensecrets": "N00012672", 
-        "thomas": "01738", 
-        "votesmart": 10655, 
-        "wikidata": "Q947168", 
-        "wikipedia": "Steve Pearce (politician)"
+    {
+      "district": 2, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://www.house.gov/pearce"
     }, 
-    "name": {
-        "first": "Stevan", 
-        "last": "Pearce", 
-        "middle": "E.", 
-        "nickname": "Steve", 
-        "official_full": "Stevan Pearce"
+    {
+      "district": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://www.house.gov/pearce"
     }, 
-    "social": {
-        "facebook": "RepStevePearce", 
-        "twitter": "RepStevePearce", 
-        "twitter_id": 235271965, 
-        "youtube": "NMStevePearce", 
-        "youtube_id": "UCaT7jt_M86sDK50eaaVsFvQ"
+    {
+      "address": "2432 Rayburn HOB; Washington DC 20515-3102", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "office": "2432 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2365", 
+      "start": "2011-01-05", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://pearce.house.gov/"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://www.house.gov/pearce"
-        }, 
-        {
-            "district": 2, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://www.house.gov/pearce"
-        }, 
-        {
-            "district": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://www.house.gov/pearce"
-        }, 
-        {
-            "address": "2432 Rayburn HOB; Washington DC 20515-3102", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "office": "2432 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2365", 
-            "start": "2011-01-05", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://pearce.house.gov/"
-        }, 
-        {
-            "address": "2432 Rayburn HOB; Washington DC 20515-3102", 
-            "contact_form": "https://pearce.house.gov/contact-me/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "office": "2432 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2365", 
-            "rss_url": "http://pearce.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://pearce.house.gov"
-        }, 
-        {
-            "address": "2432 Rayburn HOB; Washington DC 20515-3102", 
-            "contact_form": "https://pearce.house.gov/contact-me/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "office": "2432 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2365", 
-            "rss_url": "http://pearce.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://pearce.house.gov"
-        }, 
-        {
-            "address": "2432 Rayburn House Office Building; Washington DC 20515-3102", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "office": "2432 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2365", 
-            "rss_url": "http://pearce.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "https://pearce.house.gov"
-        }
-    ]
+    {
+      "address": "2432 Rayburn HOB; Washington DC 20515-3102", 
+      "contact_form": "https://pearce.house.gov/contact-me/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "office": "2432 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2365", 
+      "rss_url": "http://pearce.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://pearce.house.gov"
+    }, 
+    {
+      "address": "2432 Rayburn HOB; Washington DC 20515-3102", 
+      "contact_form": "https://pearce.house.gov/contact-me/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "office": "2432 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2365", 
+      "rss_url": "http://pearce.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://pearce.house.gov"
+    }, 
+    {
+      "address": "2432 Rayburn House Office Building; Washington DC 20515-3102", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "office": "2432 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2365", 
+      "rss_url": "http://pearce.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://pearce.house.gov"
+    }
+  ]
 }

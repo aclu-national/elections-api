@@ -1,174 +1,175 @@
 {
-    "bio": {
-        "birthday": "1942-12-13", 
-        "gender": "F", 
-        "religion": "Catholic"
+  "bio": {
+    "birthday": "1942-12-13", 
+    "gender": "F", 
+    "religion": "Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:548", 
+    "bioguide": "E000215", 
+    "cspan": 26130, 
+    "fec": [
+      "H8CA12098"
+    ], 
+    "google_entity_id": "kg:/m/024t6x", 
+    "govtrack": 400124, 
+    "house_history": 12867, 
+    "icpsr": 29312, 
+    "maplight": 235, 
+    "opensecrets": "N00007335", 
+    "thomas": "00355", 
+    "votesmart": 26741, 
+    "wikidata": "Q291193", 
+    "wikipedia": "Anna Eshoo"
+  }, 
+  "name": {
+    "first": "Anna", 
+    "last": "Eshoo", 
+    "middle": "G.", 
+    "official_full": "Anna G. Eshoo"
+  }, 
+  "social": {
+    "facebook": "RepAnnaEshoo", 
+    "instagram": "RepAnnaEshoo", 
+    "twitter": "RepAnnaEshoo", 
+    "twitter_id": 249348006, 
+    "youtube": "RepAnnaEshoo", 
+    "youtube_id": "UCjRvhco2d59GBgA78IIIaYQ"
+  }, 
+  "terms": [
+    {
+      "district": 14, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "E000215", 
-        "cspan": 26130, 
-        "fec": [
-            "H8CA12098"
-        ], 
-        "google_entity_id": "kg:/m/024t6x", 
-        "govtrack": 400124, 
-        "house_history": 12867, 
-        "icpsr": 29312, 
-        "maplight": 235, 
-        "opensecrets": "N00007335", 
-        "thomas": "00355", 
-        "votesmart": 26741, 
-        "wikidata": "Q291193", 
-        "wikipedia": "Anna Eshoo"
+    {
+      "district": 14, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Anna", 
-        "last": "Eshoo", 
-        "middle": "G.", 
-        "official_full": "Anna G. Eshoo"
+    {
+      "district": 14, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepAnnaEshoo", 
-        "instagram": "RepAnnaEshoo", 
-        "twitter": "RepAnnaEshoo", 
-        "twitter_id": 249348006, 
-        "youtube": "RepAnnaEshoo", 
-        "youtube_id": "UCjRvhco2d59GBgA78IIIaYQ"
+    {
+      "district": 14, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 14, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 14, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 14, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 14, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 14, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 14, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www-eshoo.house.gov"
-        }, 
-        {
-            "district": 14, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www-eshoo.house.gov"
-        }, 
-        {
-            "district": 14, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://eshoo.house.gov"
-        }, 
-        {
-            "district": 14, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://eshoo.house.gov"
-        }, 
-        {
-            "address": "205 Cannon HOB; Washington DC 20515-0514", 
-            "contact_form": "https://forms.house.gov/eshoo/webforms/issue_subscribe.htm", 
-            "district": 14, 
-            "end": "2013-01-03", 
-            "fax": "202-225-8890", 
-            "office": "205 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8104", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://eshoo.house.gov"
-        }, 
-        {
-            "address": "241 Cannon HOB; Washington DC 20515-0518", 
-            "contact_form": "https://eshoo.house.gov/email-me/", 
-            "district": 18, 
-            "end": "2015-01-03", 
-            "fax": "202-225-8890", 
-            "office": "241 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8104", 
-            "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://eshoo.house.gov"
-        }, 
-        {
-            "address": "241 Cannon HOB; Washington DC 20515-0518", 
-            "contact_form": "https://eshoo.house.gov/email-me/", 
-            "district": 18, 
-            "end": "2017-01-03", 
-            "fax": "202-225-8890", 
-            "office": "241 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8104", 
-            "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://eshoo.house.gov"
-        }, 
-        {
-            "address": "241 Cannon House Office Building; Washington DC 20515-0518", 
-            "district": 18, 
-            "end": "2019-01-03", 
-            "fax": "202-225-8890", 
-            "office": "241 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8104", 
-            "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://eshoo.house.gov"
-        }
-    ]
+    {
+      "district": 14, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "CA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 14, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www-eshoo.house.gov"
+    }, 
+    {
+      "district": 14, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www-eshoo.house.gov"
+    }, 
+    {
+      "district": 14, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://eshoo.house.gov"
+    }, 
+    {
+      "district": 14, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://eshoo.house.gov"
+    }, 
+    {
+      "address": "205 Cannon HOB; Washington DC 20515-0514", 
+      "contact_form": "https://forms.house.gov/eshoo/webforms/issue_subscribe.htm", 
+      "district": 14, 
+      "end": "2013-01-03", 
+      "fax": "202-225-8890", 
+      "office": "205 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8104", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://eshoo.house.gov"
+    }, 
+    {
+      "address": "241 Cannon HOB; Washington DC 20515-0518", 
+      "contact_form": "https://eshoo.house.gov/email-me/", 
+      "district": 18, 
+      "end": "2015-01-03", 
+      "fax": "202-225-8890", 
+      "office": "241 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8104", 
+      "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://eshoo.house.gov"
+    }, 
+    {
+      "address": "241 Cannon HOB; Washington DC 20515-0518", 
+      "contact_form": "https://eshoo.house.gov/email-me/", 
+      "district": 18, 
+      "end": "2017-01-03", 
+      "fax": "202-225-8890", 
+      "office": "241 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8104", 
+      "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://eshoo.house.gov"
+    }, 
+    {
+      "address": "241 Cannon House Office Building; Washington DC 20515-0518", 
+      "district": 18, 
+      "end": "2019-01-03", 
+      "fax": "202-225-8890", 
+      "office": "241 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8104", 
+      "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://eshoo.house.gov"
+    }
+  ]
 }

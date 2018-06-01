@@ -1,84 +1,85 @@
 {
-    "bio": {
-        "birthday": "1968-03-12", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1968-03-12", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:698", 
+    "ballotpedia": "Tammy Duckworth", 
+    "bioguide": "D000622", 
+    "cspan": 94484, 
+    "fec": [
+      "H6IL06141", 
+      "S6IL00292"
+    ], 
+    "google_entity_id": "kg:/m/09vqjr", 
+    "govtrack": 412533, 
+    "house_history": 15032387037, 
+    "icpsr": 21325, 
+    "lis": "S386", 
+    "maplight": 1757, 
+    "opensecrets": "N00027860", 
+    "thomas": "02123", 
+    "votesmart": 57442, 
+    "wikidata": "Q3036410", 
+    "wikipedia": "Tammy Duckworth"
+  }, 
+  "name": {
+    "first": "Tammy", 
+    "last": "Duckworth", 
+    "official_full": "Tammy Duckworth"
+  }, 
+  "social": {
+    "facebook": "SenDuckworth", 
+    "instagram": "repduckworth", 
+    "instagram_id": 1387939090, 
+    "twitter": "SenDuckworth", 
+    "twitter_id": 1058520120, 
+    "youtube": "repduckworth", 
+    "youtube_id": "UCYRWRvUxtjaHnFMCbdd94tg"
+  }, 
+  "terms": [
+    {
+      "address": "104 Cannon HOB; Washington DC 20515-1308", 
+      "contact_form": "https://duckworth.house.gov/contact/email-me", 
+      "district": 8, 
+      "end": "2015-01-03", 
+      "office": "104 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3711", 
+      "rss_url": "http://duckworth.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://duckworth.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Tammy Duckworth", 
-        "bioguide": "D000622", 
-        "cspan": 94484, 
-        "fec": [
-            "H6IL06141", 
-            "S6IL00292"
-        ], 
-        "google_entity_id": "kg:/m/09vqjr", 
-        "govtrack": 412533, 
-        "house_history": 15032387037, 
-        "icpsr": 21325, 
-        "lis": "S386", 
-        "maplight": 1757, 
-        "opensecrets": "N00027860", 
-        "thomas": "02123", 
-        "votesmart": 57442, 
-        "wikidata": "Q3036410", 
-        "wikipedia": "Tammy Duckworth"
+    {
+      "address": "104 Cannon HOB; Washington DC 20515-1308", 
+      "contact_form": "https://duckworth.house.gov/contact/email-me", 
+      "district": 8, 
+      "end": "2017-01-03", 
+      "office": "104 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3711", 
+      "rss_url": "http://duckworth.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "http://duckworth.house.gov"
     }, 
-    "name": {
-        "first": "Tammy", 
-        "last": "Duckworth", 
-        "official_full": "Tammy Duckworth"
-    }, 
-    "social": {
-        "facebook": "SenDuckworth", 
-        "instagram": "repduckworth", 
-        "instagram_id": 1387939090, 
-        "twitter": "SenDuckworth", 
-        "twitter_id": 1058520120, 
-        "youtube": "repduckworth", 
-        "youtube_id": "UCYRWRvUxtjaHnFMCbdd94tg"
-    }, 
-    "terms": [
-        {
-            "address": "104 Cannon HOB; Washington DC 20515-1308", 
-            "contact_form": "https://duckworth.house.gov/contact/email-me", 
-            "district": 8, 
-            "end": "2015-01-03", 
-            "office": "104 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3711", 
-            "rss_url": "http://duckworth.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://duckworth.house.gov"
-        }, 
-        {
-            "address": "104 Cannon HOB; Washington DC 20515-1308", 
-            "contact_form": "https://duckworth.house.gov/contact/email-me", 
-            "district": 8, 
-            "end": "2017-01-03", 
-            "office": "104 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3711", 
-            "rss_url": "http://duckworth.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IL", 
-            "type": "rep", 
-            "url": "http://duckworth.house.gov"
-        }, 
-        {
-            "address": "524 Hart Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.duckworth.senate.gov/content/contact-senator", 
-            "end": "2023-01-03", 
-            "office": "524 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-2854", 
-            "start": "2017-01-03", 
-            "state": "IL", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.duckworth.senate.gov"
-        }
-    ]
+    {
+      "address": "524 Hart Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.duckworth.senate.gov/content/contact-senator", 
+      "end": "2023-01-03", 
+      "office": "524 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2854", 
+      "start": "2017-01-03", 
+      "state": "IL", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.duckworth.senate.gov"
+    }
+  ]
 }

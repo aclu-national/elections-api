@@ -1,107 +1,108 @@
 {
-    "bio": {
-        "birthday": "1960-05-28", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-05-28", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:935", 
+    "ballotpedia": "Mark Sanford", 
+    "bioguide": "S000051", 
+    "cspan": 6513, 
+    "fec": [
+      "H4SC01073"
+    ], 
+    "google_entity_id": "kg:/m/02c6ck", 
+    "govtrack": 400607, 
+    "house_history": 21195, 
+    "icpsr": 29565, 
+    "maplight": 2046, 
+    "opensecrets": "N00002424", 
+    "thomas": "01012", 
+    "votesmart": 21991, 
+    "wikidata": "Q11669", 
+    "wikipedia": "Mark Sanford"
+  }, 
+  "name": {
+    "first": "Marshall", 
+    "last": "Sanford", 
+    "nickname": "Mark", 
+    "official_full": "Mark Sanford"
+  }, 
+  "social": {
+    "facebook": "RepSanfordSC", 
+    "twitter": "RepSanfordSC", 
+    "twitter_id": 1499993378, 
+    "youtube": "RepSanfordSC", 
+    "youtube_id": "UCS33edNAxXe2pyFbnUUcZWA"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Mark Sanford", 
-        "bioguide": "S000051", 
-        "cspan": 6513, 
-        "fec": [
-            "H4SC01073"
-        ], 
-        "google_entity_id": "kg:/m/02c6ck", 
-        "govtrack": 400607, 
-        "house_history": 21195, 
-        "icpsr": 29565, 
-        "maplight": 2046, 
-        "opensecrets": "N00002424", 
-        "thomas": "01012", 
-        "votesmart": 21991, 
-        "wikidata": "Q11669", 
-        "wikipedia": "Mark Sanford"
+    {
+      "district": 1, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Marshall", 
-        "last": "Sanford", 
-        "nickname": "Mark", 
-        "official_full": "Mark Sanford"
+    {
+      "district": 1, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepSanfordSC", 
-        "twitter": "RepSanfordSC", 
-        "twitter_id": 1499993378, 
-        "youtube": "RepSanfordSC", 
-        "youtube_id": "UCS33edNAxXe2pyFbnUUcZWA"
+    {
+      "address": "322 Cannon HOB; Washington DC 20515-4001", 
+      "contact_form": "https://sanford.house.gov/contact/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "843-521-2535", 
+      "office": "322 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3176", 
+      "rss_url": "http://sanford.house.gov/rss.xml", 
+      "start": "2013-05-15", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://sanford.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "address": "322 Cannon HOB; Washington DC 20515-4001", 
-            "contact_form": "https://sanford.house.gov/contact/email-me", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "843-521-2535", 
-            "office": "322 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3176", 
-            "rss_url": "http://sanford.house.gov/rss.xml", 
-            "start": "2013-05-15", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://sanford.house.gov"
-        }, 
-        {
-            "address": "2201 Rayburn HOB; Washington DC 20515-4001", 
-            "contact_form": "https://sanford.house.gov/contact/email-me", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "843-521-2535", 
-            "office": "2201 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3176", 
-            "rss_url": "http://sanford.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://sanford.house.gov"
-        }, 
-        {
-            "address": "2211 Rayburn House Office Building; Washington DC 20515-4001", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "843-521-2535", 
-            "office": "2211 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3176", 
-            "rss_url": "http://sanford.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "https://sanford.house.gov"
-        }
-    ]
+    {
+      "address": "2201 Rayburn HOB; Washington DC 20515-4001", 
+      "contact_form": "https://sanford.house.gov/contact/email-me", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "843-521-2535", 
+      "office": "2201 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3176", 
+      "rss_url": "http://sanford.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://sanford.house.gov"
+    }, 
+    {
+      "address": "2211 Rayburn House Office Building; Washington DC 20515-4001", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "843-521-2535", 
+      "office": "2211 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3176", 
+      "rss_url": "http://sanford.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://sanford.house.gov"
+    }
+  ]
 }

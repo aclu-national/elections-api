@@ -1,105 +1,106 @@
 {
-    "bio": {
-        "birthday": "1951-04-12", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1951-04-12", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:771", 
+    "ballotpedia": "Tim Walberg", 
+    "bioguide": "W000798", 
+    "cspan": 1022844, 
+    "fec": [
+      "H4MI07103"
+    ], 
+    "google_entity_id": "kg:/m/0d7n3m", 
+    "govtrack": 412213, 
+    "house_history": 24179, 
+    "icpsr": 20725, 
+    "maplight": 698, 
+    "opensecrets": "N00026368", 
+    "thomas": "01855", 
+    "votesmart": 8618, 
+    "wikidata": "Q978618", 
+    "wikipedia": "Tim Walberg"
+  }, 
+  "name": {
+    "first": "Tim", 
+    "last": "Walberg", 
+    "official_full": "Tim Walberg"
+  }, 
+  "social": {
+    "facebook": "RepWalberg", 
+    "instagram": "repwalberg", 
+    "twitter": "RepWalberg", 
+    "twitter_id": 237862972, 
+    "youtube": "RepWalberg", 
+    "youtube_id": "UChpf3_3Wn8f3qSJbsYXrhvg"
+  }, 
+  "terms": [
+    {
+      "district": 7, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://walberg.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Tim Walberg", 
-        "bioguide": "W000798", 
-        "cspan": 1022844, 
-        "fec": [
-            "H4MI07103"
-        ], 
-        "google_entity_id": "kg:/m/0d7n3m", 
-        "govtrack": 412213, 
-        "house_history": 24179, 
-        "icpsr": 20725, 
-        "maplight": 698, 
-        "opensecrets": "N00026368", 
-        "thomas": "01855", 
-        "votesmart": 8618, 
-        "wikidata": "Q978618", 
-        "wikipedia": "Tim Walberg"
+    {
+      "address": "418 Cannon HOB; Washington DC 20515-2207", 
+      "district": 7, 
+      "end": "2013-01-03", 
+      "fax": "202-225-6281", 
+      "office": "418 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6276", 
+      "start": "2011-01-05", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://walberg.house.gov/"
     }, 
-    "name": {
-        "first": "Tim", 
-        "last": "Walberg", 
-        "official_full": "Tim Walberg"
+    {
+      "address": "2436 Rayburn HOB; Washington DC 20515-2207", 
+      "contact_form": "https://walberg.house.gov/contact/contactform.htm", 
+      "district": 7, 
+      "end": "2015-01-03", 
+      "fax": "202-225-6281", 
+      "office": "2436 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6276", 
+      "rss_url": "http://walberg.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://walberg.house.gov"
     }, 
-    "social": {
-        "facebook": "RepWalberg", 
-        "instagram": "repwalberg", 
-        "twitter": "RepWalberg", 
-        "twitter_id": 237862972, 
-        "youtube": "RepWalberg", 
-        "youtube_id": "UChpf3_3Wn8f3qSJbsYXrhvg"
+    {
+      "address": "2436 Rayburn HOB; Washington DC 20515-2207", 
+      "contact_form": "https://walberg.house.gov/contact/contactform.htm", 
+      "district": 7, 
+      "end": "2017-01-03", 
+      "fax": "202-225-6281", 
+      "office": "2436 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6276", 
+      "rss_url": "http://walberg.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "http://walberg.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 7, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://walberg.house.gov"
-        }, 
-        {
-            "address": "418 Cannon HOB; Washington DC 20515-2207", 
-            "district": 7, 
-            "end": "2013-01-03", 
-            "fax": "202-225-6281", 
-            "office": "418 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6276", 
-            "start": "2011-01-05", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://walberg.house.gov/"
-        }, 
-        {
-            "address": "2436 Rayburn HOB; Washington DC 20515-2207", 
-            "contact_form": "https://walberg.house.gov/contact/contactform.htm", 
-            "district": 7, 
-            "end": "2015-01-03", 
-            "fax": "202-225-6281", 
-            "office": "2436 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6276", 
-            "rss_url": "http://walberg.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://walberg.house.gov"
-        }, 
-        {
-            "address": "2436 Rayburn HOB; Washington DC 20515-2207", 
-            "contact_form": "https://walberg.house.gov/contact/contactform.htm", 
-            "district": 7, 
-            "end": "2017-01-03", 
-            "fax": "202-225-6281", 
-            "office": "2436 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6276", 
-            "rss_url": "http://walberg.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "http://walberg.house.gov"
-        }, 
-        {
-            "address": "2436 Rayburn House Office Building; Washington DC 20515-2207", 
-            "district": 7, 
-            "end": "2019-01-03", 
-            "fax": "202-225-6281", 
-            "office": "2436 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-6276", 
-            "rss_url": "http://walberg.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "MI", 
-            "type": "rep", 
-            "url": "https://walberg.house.gov"
-        }
-    ]
+    {
+      "address": "2436 Rayburn House Office Building; Washington DC 20515-2207", 
+      "district": 7, 
+      "end": "2019-01-03", 
+      "fax": "202-225-6281", 
+      "office": "2436 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6276", 
+      "rss_url": "http://walberg.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://walberg.house.gov"
+    }
+  ]
 }

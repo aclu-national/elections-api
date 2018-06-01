@@ -1,140 +1,141 @@
 {
-    "bio": {
-        "birthday": "1965-06-15", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1965-06-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1023", 
+    "bioguide": "L000560", 
+    "cspan": 86610, 
+    "fec": [
+      "H0WA02080"
+    ], 
+    "google_entity_id": "kg:/m/025953", 
+    "govtrack": 400232, 
+    "house_history": 17298, 
+    "icpsr": 20145, 
+    "maplight": 333, 
+    "opensecrets": "N00009759", 
+    "thomas": "01675", 
+    "votesmart": 56231, 
+    "wikidata": "Q503529", 
+    "wikipedia": "Rick Larsen"
+  }, 
+  "name": {
+    "first": "Rick", 
+    "last": "Larsen", 
+    "official_full": "Rick Larsen"
+  }, 
+  "social": {
+    "facebook": "RepRickLarsen", 
+    "instagram": "repricklarsen", 
+    "twitter": "RepRickLarsen", 
+    "twitter_id": 404132211, 
+    "youtube": "congressmanlarsen", 
+    "youtube_id": "UCMv7LsJtiyO4AJcbRux5CxQ"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "WA", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "L000560", 
-        "cspan": 86610, 
-        "fec": [
-            "H0WA02080"
-        ], 
-        "google_entity_id": "kg:/m/025953", 
-        "govtrack": 400232, 
-        "house_history": 17298, 
-        "icpsr": 20145, 
-        "maplight": 333, 
-        "opensecrets": "N00009759", 
-        "thomas": "01675", 
-        "votesmart": 56231, 
-        "wikidata": "Q503529", 
-        "wikipedia": "Rick Larsen"
+    {
+      "district": 2, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/larsen"
     }, 
-    "name": {
-        "first": "Rick", 
-        "last": "Larsen", 
-        "official_full": "Rick Larsen"
+    {
+      "district": 2, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/larsen"
     }, 
-    "social": {
-        "facebook": "RepRickLarsen", 
-        "instagram": "repricklarsen", 
-        "twitter": "RepRickLarsen", 
-        "twitter_id": 404132211, 
-        "youtube": "congressmanlarsen", 
-        "youtube_id": "UCMv7LsJtiyO4AJcbRux5CxQ"
+    {
+      "district": 2, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/larsen"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "WA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/larsen"
-        }, 
-        {
-            "district": 2, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/larsen"
-        }, 
-        {
-            "district": 2, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/larsen"
-        }, 
-        {
-            "district": 2, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/larsen"
-        }, 
-        {
-            "address": "108 Cannon HOB; Washington DC 20515-4702", 
-            "contact_form": "http://www.house.gov/larsen/contact/", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "fax": "202-225-4420", 
-            "office": "108 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2605", 
-            "start": "2011-01-05", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/larsen"
-        }, 
-        {
-            "address": "2113 Rayburn HOB; Washington DC 20515-4702", 
-            "contact_form": "http://larsen.house.gov/contact-rick/email-rick", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "202-225-4420", 
-            "office": "2113 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2605", 
-            "rss_url": "http://larsen.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://larsen.house.gov"
-        }, 
-        {
-            "address": "2113 Rayburn HOB; Washington DC 20515-4702", 
-            "contact_form": "http://larsen.house.gov/contact-rick/email-rick", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4420", 
-            "office": "2113 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2605", 
-            "rss_url": "http://larsen.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "http://larsen.house.gov"
-        }, 
-        {
-            "address": "2113 Rayburn House Office Building; Washington DC 20515-4702", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4420", 
-            "office": "2113 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2605", 
-            "rss_url": "http://larsen.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "WA", 
-            "type": "rep", 
-            "url": "https://larsen.house.gov"
-        }
-    ]
+    {
+      "district": 2, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/larsen"
+    }, 
+    {
+      "address": "108 Cannon HOB; Washington DC 20515-4702", 
+      "contact_form": "http://www.house.gov/larsen/contact/", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "fax": "202-225-4420", 
+      "office": "108 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2605", 
+      "start": "2011-01-05", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/larsen"
+    }, 
+    {
+      "address": "2113 Rayburn HOB; Washington DC 20515-4702", 
+      "contact_form": "http://larsen.house.gov/contact-rick/email-rick", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "202-225-4420", 
+      "office": "2113 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2605", 
+      "rss_url": "http://larsen.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://larsen.house.gov"
+    }, 
+    {
+      "address": "2113 Rayburn HOB; Washington DC 20515-4702", 
+      "contact_form": "http://larsen.house.gov/contact-rick/email-rick", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4420", 
+      "office": "2113 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2605", 
+      "rss_url": "http://larsen.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "http://larsen.house.gov"
+    }, 
+    {
+      "address": "2113 Rayburn House Office Building; Washington DC 20515-4702", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4420", 
+      "office": "2113 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2605", 
+      "rss_url": "http://larsen.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://larsen.house.gov"
+    }
+  ]
 }

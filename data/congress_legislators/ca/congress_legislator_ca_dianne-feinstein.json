@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1933-06-22", 
-        "gender": "F", 
-        "religion": "Jewish"
+  "bio": {
+    "birthday": "1933-06-22", 
+    "gender": "F", 
+    "religion": "Jewish"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:555", 
+    "ballotpedia": "Dianne Feinstein", 
+    "bioguide": "F000062", 
+    "cspan": 13061, 
+    "fec": [
+      "S0CA00199"
+    ], 
+    "google_entity_id": "kg:/m/01gqws", 
+    "govtrack": 300043, 
+    "house_history": 13044, 
+    "icpsr": 49300, 
+    "lis": "S221", 
+    "maplight": 567, 
+    "opensecrets": "N00007364", 
+    "thomas": "01332", 
+    "votesmart": 53273, 
+    "wikidata": "Q230733", 
+    "wikipedia": "Dianne Feinstein"
+  }, 
+  "name": {
+    "first": "Dianne", 
+    "last": "Feinstein", 
+    "official_full": "Dianne Feinstein"
+  }, 
+  "social": {
+    "facebook": "senatorfeinstein", 
+    "twitter": "SenFeinstein", 
+    "twitter_id": 476256944, 
+    "youtube": "SenatorFeinstein", 
+    "youtube_id": "UCtVC--6LR0ff2aOP8THpuEw"
+  }, 
+  "terms": [
+    {
+      "class": 1, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1992-11-10", 
+      "state": "CA", 
+      "type": "sen"
     }, 
-    "id": {
-        "ballotpedia": "Dianne Feinstein", 
-        "bioguide": "F000062", 
-        "cspan": 13061, 
-        "fec": [
-            "S0CA00199"
-        ], 
-        "google_entity_id": "kg:/m/01gqws", 
-        "govtrack": 300043, 
-        "house_history": 13044, 
-        "icpsr": 49300, 
-        "lis": "S221", 
-        "maplight": 567, 
-        "opensecrets": "N00007364", 
-        "thomas": "01332", 
-        "votesmart": 53273, 
-        "wikidata": "Q230733", 
-        "wikipedia": "Dianne Feinstein"
+    {
+      "class": 1, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "CA", 
+      "type": "sen"
     }, 
-    "name": {
-        "first": "Dianne", 
-        "last": "Feinstein", 
-        "official_full": "Dianne Feinstein"
+    {
+      "class": 1, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "CA", 
+      "type": "sen", 
+      "url": "http://feinstein.senate.gov"
     }, 
-    "social": {
-        "facebook": "senatorfeinstein", 
-        "twitter": "SenFeinstein", 
-        "twitter_id": 476256944, 
-        "youtube": "SenatorFeinstein", 
-        "youtube_id": "UCtVC--6LR0ff2aOP8THpuEw"
+    {
+      "address": "331 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.feinstein.senate.gov/public/index.cfm/e-mail-me", 
+      "end": "2013-01-03", 
+      "fax": "202-228-3954", 
+      "office": "331 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-3841", 
+      "start": "2007-01-04", 
+      "state": "CA", 
+      "type": "sen", 
+      "url": "http://feinstein.senate.gov"
     }, 
-    "terms": [
-        {
-            "class": 1, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1992-11-10", 
-            "state": "CA", 
-            "type": "sen"
-        }, 
-        {
-            "class": 1, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "CA", 
-            "type": "sen"
-        }, 
-        {
-            "class": 1, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "CA", 
-            "type": "sen", 
-            "url": "http://feinstein.senate.gov"
-        }, 
-        {
-            "address": "331 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.feinstein.senate.gov/public/index.cfm/e-mail-me", 
-            "end": "2013-01-03", 
-            "fax": "202-228-3954", 
-            "office": "331 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-3841", 
-            "start": "2007-01-04", 
-            "state": "CA", 
-            "type": "sen", 
-            "url": "http://feinstein.senate.gov"
-        }, 
-        {
-            "address": "331 Hart Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me", 
-            "end": "2019-01-03", 
-            "fax": "202-228-3954", 
-            "office": "331 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-3841", 
-            "rss_url": "http://www.feinstein.senate.gov/public/?a=rss.feed", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.feinstein.senate.gov"
-        }
-    ]
+    {
+      "address": "331 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me", 
+      "end": "2019-01-03", 
+      "fax": "202-228-3954", 
+      "office": "331 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-3841", 
+      "rss_url": "http://www.feinstein.senate.gov/public/?a=rss.feed", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.feinstein.senate.gov"
+    }
+  ]
 }

@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1950-03-12", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1950-03-12", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:885", 
+    "ballotpedia": "Joyce Beatty", 
+    "bioguide": "B001281", 
+    "cspan": 67294, 
+    "fec": [
+      "H2OH03125"
+    ], 
+    "google_entity_id": "kg:/m/03lcwb", 
+    "govtrack": 412565, 
+    "house_history": 15032386867, 
+    "icpsr": 21352, 
+    "maplight": 1789, 
+    "opensecrets": "N00033904", 
+    "thomas": "02153", 
+    "votesmart": 2427, 
+    "wikidata": "Q976417", 
+    "wikipedia": "Joyce Beatty"
+  }, 
+  "name": {
+    "first": "Joyce", 
+    "last": "Beatty", 
+    "official_full": "Joyce Beatty"
+  }, 
+  "social": {
+    "facebook": "RepJoyceBeatty", 
+    "instagram": "repbeatty", 
+    "instagram_id": 554027718, 
+    "twitter": "RepBeatty", 
+    "twitter_id": 1531521632, 
+    "youtube_id": "UCtVl3kb7Xvt3pY7l6x-M6LA"
+  }, 
+  "terms": [
+    {
+      "address": "417 Cannon HOB; Washington DC 20515-3503", 
+      "contact_form": "https://beattyforms.house.gov/forms/writeyourrep/", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "office": "417 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4324", 
+      "rss_url": "http://beatty.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://beatty.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Joyce Beatty", 
-        "bioguide": "B001281", 
-        "cspan": 67294, 
-        "fec": [
-            "H2OH03125"
-        ], 
-        "google_entity_id": "kg:/m/03lcwb", 
-        "govtrack": 412565, 
-        "house_history": 15032386867, 
-        "icpsr": 21352, 
-        "maplight": 1789, 
-        "opensecrets": "N00033904", 
-        "thomas": "02153", 
-        "votesmart": 2427, 
-        "wikidata": "Q976417", 
-        "wikipedia": "Joyce Beatty"
+    {
+      "address": "133 Cannon HOB; Washington DC 20515-3503", 
+      "contact_form": "https://beattyforms.house.gov/forms/writeyourrep/", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-1984", 
+      "office": "133 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4324", 
+      "rss_url": "http://beatty.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://beatty.house.gov"
     }, 
-    "name": {
-        "first": "Joyce", 
-        "last": "Beatty", 
-        "official_full": "Joyce Beatty"
-    }, 
-    "social": {
-        "facebook": "RepJoyceBeatty", 
-        "instagram": "repbeatty", 
-        "instagram_id": 554027718, 
-        "twitter": "RepBeatty", 
-        "twitter_id": 1531521632, 
-        "youtube_id": "UCtVl3kb7Xvt3pY7l6x-M6LA"
-    }, 
-    "terms": [
-        {
-            "address": "417 Cannon HOB; Washington DC 20515-3503", 
-            "contact_form": "https://beattyforms.house.gov/forms/writeyourrep/", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "office": "417 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4324", 
-            "rss_url": "http://beatty.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://beatty.house.gov"
-        }, 
-        {
-            "address": "133 Cannon HOB; Washington DC 20515-3503", 
-            "contact_form": "https://beattyforms.house.gov/forms/writeyourrep/", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-1984", 
-            "office": "133 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4324", 
-            "rss_url": "http://beatty.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://beatty.house.gov"
-        }, 
-        {
-            "address": "133 Cannon House Office Building; Washington DC 20515-3503", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-1984", 
-            "office": "133 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-4324", 
-            "rss_url": "http://beatty.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "https://beatty.house.gov"
-        }
-    ]
+    {
+      "address": "133 Cannon House Office Building; Washington DC 20515-3503", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-1984", 
+      "office": "133 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4324", 
+      "rss_url": "http://beatty.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://beatty.house.gov"
+    }
+  ]
 }

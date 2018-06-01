@@ -1,70 +1,71 @@
 {
-    "bio": {
-        "birthday": "1962-08-20", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1962-08-20", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:798", 
+    "ballotpedia": "Steve Daines", 
+    "bioguide": "D000618", 
+    "cspan": 1034037, 
+    "fec": [
+      "H2MT01060", 
+      "S2MT00096"
+    ], 
+    "google_entity_id": "kg:/m/03qlc5t", 
+    "govtrack": 412549, 
+    "icpsr": 21338, 
+    "lis": "S375", 
+    "maplight": 1773, 
+    "opensecrets": "N00033054", 
+    "thomas": "02138", 
+    "votesmart": 135720, 
+    "wikidata": "Q3200900", 
+    "wikipedia": "Steve Daines"
+  }, 
+  "name": {
+    "first": "Steve", 
+    "last": "Daines", 
+    "official_full": "Steve Daines"
+  }, 
+  "social": {
+    "facebook": "SteveDainesMT", 
+    "instagram": "stevedaines", 
+    "instagram_id": 371125857, 
+    "twitter": "SteveDaines", 
+    "twitter_id": 11651202, 
+    "youtube": "SteveDainesMT", 
+    "youtube_id": "UC-ny-W5mEUGytiyMdXbQ20Q"
+  }, 
+  "terms": [
+    {
+      "address": "206 Cannon HOB; Washington DC 20515-2600", 
+      "contact_form": "https://daines.house.gov/email-me", 
+      "district": 0, 
+      "end": "2015-01-03", 
+      "office": "206 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3211", 
+      "rss_url": "http://daines.house.gov/rss/press-releases.xml", 
+      "start": "2013-01-03", 
+      "state": "MT", 
+      "type": "rep", 
+      "url": "http://daines.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Steve Daines", 
-        "bioguide": "D000618", 
-        "cspan": 1034037, 
-        "fec": [
-            "H2MT01060", 
-            "S2MT00096"
-        ], 
-        "google_entity_id": "kg:/m/03qlc5t", 
-        "govtrack": 412549, 
-        "icpsr": 21338, 
-        "lis": "S375", 
-        "maplight": 1773, 
-        "opensecrets": "N00033054", 
-        "thomas": "02138", 
-        "votesmart": 135720, 
-        "wikidata": "Q3200900", 
-        "wikipedia": "Steve Daines"
-    }, 
-    "name": {
-        "first": "Steve", 
-        "last": "Daines", 
-        "official_full": "Steve Daines"
-    }, 
-    "social": {
-        "facebook": "SteveDainesMT", 
-        "instagram": "stevedaines", 
-        "instagram_id": 371125857, 
-        "twitter": "SteveDaines", 
-        "twitter_id": 11651202, 
-        "youtube": "SteveDainesMT", 
-        "youtube_id": "UC-ny-W5mEUGytiyMdXbQ20Q"
-    }, 
-    "terms": [
-        {
-            "address": "206 Cannon HOB; Washington DC 20515-2600", 
-            "contact_form": "https://daines.house.gov/email-me", 
-            "district": 0, 
-            "end": "2015-01-03", 
-            "office": "206 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3211", 
-            "rss_url": "http://daines.house.gov/rss/press-releases.xml", 
-            "start": "2013-01-03", 
-            "state": "MT", 
-            "type": "rep", 
-            "url": "http://daines.house.gov"
-        }, 
-        {
-            "address": "320 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.daines.senate.gov/connect/email-steve", 
-            "end": "2021-01-03", 
-            "fax": "202-228-1236", 
-            "office": "320 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-2651", 
-            "start": "2015-01-06", 
-            "state": "MT", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.daines.senate.gov"
-        }
-    ]
+    {
+      "address": "320 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.daines.senate.gov/connect/email-steve", 
+      "end": "2021-01-03", 
+      "fax": "202-228-1236", 
+      "office": "320 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2651", 
+      "start": "2015-01-06", 
+      "state": "MT", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.daines.senate.gov"
+    }
+  ]
 }

@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1965-03-24", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1965-03-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:893", 
+    "ballotpedia": "Steve Stivers", 
+    "bioguide": "S001187", 
+    "cspan": 62320, 
+    "fec": [
+      "H8OH15076"
+    ], 
+    "google_entity_id": "kg:/m/08xnqw", 
+    "govtrack": 412461, 
+    "house_history": 22627, 
+    "icpsr": 21163, 
+    "maplight": 1467, 
+    "opensecrets": "N00029574", 
+    "thomas": "02047", 
+    "votesmart": 45333, 
+    "wikidata": "Q324099", 
+    "wikipedia": "Steve Stivers"
+  }, 
+  "name": {
+    "first": "Steve", 
+    "last": "Stivers", 
+    "official_full": "Steve Stivers"
+  }, 
+  "social": {
+    "facebook": "116058275133542", 
+    "instagram": "RepSteveStivers", 
+    "twitter": "RepSteveStivers", 
+    "twitter_id": 211420609, 
+    "youtube": "RepSteveStivers", 
+    "youtube_id": "UCfZrE20pIcR-LeFUV7r2Ixw"
+  }, 
+  "terms": [
+    {
+      "address": "1007 Longworth HOB; Washington DC 20515-3515", 
+      "district": 15, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3529", 
+      "office": "1007 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2015", 
+      "start": "2011-01-05", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://stivers.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Steve Stivers", 
-        "bioguide": "S001187", 
-        "cspan": 62320, 
-        "fec": [
-            "H8OH15076"
-        ], 
-        "google_entity_id": "kg:/m/08xnqw", 
-        "govtrack": 412461, 
-        "house_history": 22627, 
-        "icpsr": 21163, 
-        "maplight": 1467, 
-        "opensecrets": "N00029574", 
-        "thomas": "02047", 
-        "votesmart": 45333, 
-        "wikidata": "Q324099", 
-        "wikipedia": "Steve Stivers"
+    {
+      "address": "1022 Longworth HOB; Washington DC 20515-3515", 
+      "contact_form": "https://stivers.house.gov/forms/writeyourrep/", 
+      "district": 15, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3529", 
+      "office": "1022 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2015", 
+      "rss_url": "http://stivers.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://stivers.house.gov"
     }, 
-    "name": {
-        "first": "Steve", 
-        "last": "Stivers", 
-        "official_full": "Steve Stivers"
+    {
+      "address": "1022 Longworth HOB; Washington DC 20515-3515", 
+      "contact_form": "https://stivers.house.gov/forms/writeyourrep/", 
+      "district": 15, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3529", 
+      "office": "1022 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2015", 
+      "rss_url": "http://stivers.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://stivers.house.gov"
     }, 
-    "social": {
-        "facebook": "116058275133542", 
-        "instagram": "RepSteveStivers", 
-        "twitter": "RepSteveStivers", 
-        "twitter_id": 211420609, 
-        "youtube": "RepSteveStivers", 
-        "youtube_id": "UCfZrE20pIcR-LeFUV7r2Ixw"
-    }, 
-    "terms": [
-        {
-            "address": "1007 Longworth HOB; Washington DC 20515-3515", 
-            "district": 15, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3529", 
-            "office": "1007 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2015", 
-            "start": "2011-01-05", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://stivers.house.gov/"
-        }, 
-        {
-            "address": "1022 Longworth HOB; Washington DC 20515-3515", 
-            "contact_form": "https://stivers.house.gov/forms/writeyourrep/", 
-            "district": 15, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3529", 
-            "office": "1022 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2015", 
-            "rss_url": "http://stivers.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://stivers.house.gov"
-        }, 
-        {
-            "address": "1022 Longworth HOB; Washington DC 20515-3515", 
-            "contact_form": "https://stivers.house.gov/forms/writeyourrep/", 
-            "district": 15, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3529", 
-            "office": "1022 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2015", 
-            "rss_url": "http://stivers.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://stivers.house.gov"
-        }, 
-        {
-            "address": "1022 Longworth House Office Building; Washington DC 20515-3515", 
-            "district": 15, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3529", 
-            "office": "1022 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2015", 
-            "rss_url": "http://stivers.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "https://stivers.house.gov"
-        }
-    ]
+    {
+      "address": "1022 Longworth House Office Building; Washington DC 20515-3515", 
+      "district": 15, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3529", 
+      "office": "1022 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2015", 
+      "rss_url": "http://stivers.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://stivers.house.gov"
+    }
+  ]
 }

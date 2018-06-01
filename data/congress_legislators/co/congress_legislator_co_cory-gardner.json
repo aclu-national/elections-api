@@ -1,83 +1,84 @@
 {
-    "bio": {
-        "birthday": "1974-08-22", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1974-08-22", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:600", 
+    "ballotpedia": "Cory Gardner", 
+    "bioguide": "G000562", 
+    "cspan": 623308, 
+    "fec": [
+      "H0CO04122", 
+      "S4CO00395"
+    ], 
+    "google_entity_id": "kg:/m/0czd33q", 
+    "govtrack": 412406, 
+    "house_history": 14279, 
+    "icpsr": 21112, 
+    "lis": "S377", 
+    "maplight": 1418, 
+    "opensecrets": "N00030780", 
+    "thomas": "01998", 
+    "votesmart": 30004, 
+    "wikidata": "Q1135774", 
+    "wikipedia": "Cory Gardner"
+  }, 
+  "name": {
+    "first": "Cory", 
+    "last": "Gardner", 
+    "official_full": "Cory Gardner"
+  }, 
+  "social": {
+    "facebook": "SenCoryGardner", 
+    "instagram": "sencorygardner", 
+    "instagram_id": 1643152643, 
+    "twitter": "SenCoryGardner", 
+    "twitter_id": 235217558, 
+    "youtube_id": "UC7Vi5vAFb7piu_BNwrYDBxQ"
+  }, 
+  "terms": [
+    {
+      "address": "213 Cannon HOB; Washington DC 20515-0604", 
+      "district": 4, 
+      "end": "2013-01-03", 
+      "office": "213 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4676", 
+      "start": "2011-01-05", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://gardner.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Cory Gardner", 
-        "bioguide": "G000562", 
-        "cspan": 623308, 
-        "fec": [
-            "H0CO04122", 
-            "S4CO00395"
-        ], 
-        "google_entity_id": "kg:/m/0czd33q", 
-        "govtrack": 412406, 
-        "house_history": 14279, 
-        "icpsr": 21112, 
-        "lis": "S377", 
-        "maplight": 1418, 
-        "opensecrets": "N00030780", 
-        "thomas": "01998", 
-        "votesmart": 30004, 
-        "wikidata": "Q1135774", 
-        "wikipedia": "Cory Gardner"
+    {
+      "address": "213 Cannon HOB; Washington DC 20515-0604", 
+      "contact_form": "https://gardner.house.gov/contact-me", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5870", 
+      "office": "213 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4676", 
+      "rss_url": "http://gardner.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "http://gardner.house.gov"
     }, 
-    "name": {
-        "first": "Cory", 
-        "last": "Gardner", 
-        "official_full": "Cory Gardner"
-    }, 
-    "social": {
-        "facebook": "SenCoryGardner", 
-        "instagram": "sencorygardner", 
-        "instagram_id": 1643152643, 
-        "twitter": "SenCoryGardner", 
-        "twitter_id": 235217558, 
-        "youtube_id": "UC7Vi5vAFb7piu_BNwrYDBxQ"
-    }, 
-    "terms": [
-        {
-            "address": "213 Cannon HOB; Washington DC 20515-0604", 
-            "district": 4, 
-            "end": "2013-01-03", 
-            "office": "213 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4676", 
-            "start": "2011-01-05", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://gardner.house.gov/"
-        }, 
-        {
-            "address": "213 Cannon HOB; Washington DC 20515-0604", 
-            "contact_form": "https://gardner.house.gov/contact-me", 
-            "district": 4, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5870", 
-            "office": "213 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4676", 
-            "rss_url": "http://gardner.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CO", 
-            "type": "rep", 
-            "url": "http://gardner.house.gov"
-        }, 
-        {
-            "address": "354 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.gardner.senate.gov/contact-cory/email-cory", 
-            "end": "2021-01-03", 
-            "fax": "202-225-5870", 
-            "office": "354 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-5941", 
-            "start": "2015-01-06", 
-            "state": "CO", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.gardner.senate.gov"
-        }
-    ]
+    {
+      "address": "354 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.gardner.senate.gov/contact-cory/email-cory", 
+      "end": "2021-01-03", 
+      "fax": "202-225-5870", 
+      "office": "354 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5941", 
+      "start": "2015-01-06", 
+      "state": "CO", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.gardner.senate.gov"
+    }
+  ]
 }

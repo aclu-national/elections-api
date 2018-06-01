@@ -1,115 +1,116 @@
 {
-    "bio": {
-        "birthday": "1966-08-20", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1966-08-20", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:636", 
+    "ballotpedia": "Kathy Castor", 
+    "bioguide": "C001066", 
+    "cspan": 1022874, 
+    "fec": [
+      "H6FL11126", 
+      "H6FL11134"
+    ], 
+    "google_entity_id": "kg:/m/0dq1v6", 
+    "govtrack": 412195, 
+    "house_history": 11796, 
+    "icpsr": 20708, 
+    "maplight": 682, 
+    "opensecrets": "N00027514", 
+    "thomas": "01839", 
+    "votesmart": 53825, 
+    "wikidata": "Q458492", 
+    "wikipedia": "Kathy Castor"
+  }, 
+  "name": {
+    "first": "Kathy", 
+    "last": "Castor", 
+    "official_full": "Kathy Castor"
+  }, 
+  "social": {
+    "facebook": "USRepKathyCastor", 
+    "twitter": "USRepKCastor", 
+    "twitter_id": 1880674038, 
+    "youtube": "RepKathyCastor", 
+    "youtube_id": "UC_irxhmLqVenTFPxDxznG6g"
+  }, 
+  "terms": [
+    {
+      "district": 11, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://castor.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Kathy Castor", 
-        "bioguide": "C001066", 
-        "cspan": 1022874, 
-        "fec": [
-            "H6FL11126", 
-            "H6FL11134"
-        ], 
-        "google_entity_id": "kg:/m/0dq1v6", 
-        "govtrack": 412195, 
-        "house_history": 11796, 
-        "icpsr": 20708, 
-        "maplight": 682, 
-        "opensecrets": "N00027514", 
-        "thomas": "01839", 
-        "votesmart": 53825, 
-        "wikidata": "Q458492", 
-        "wikipedia": "Kathy Castor"
+    {
+      "district": 11, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://castor.house.gov"
     }, 
-    "name": {
-        "first": "Kathy", 
-        "last": "Castor", 
-        "official_full": "Kathy Castor"
+    {
+      "address": "137 Cannon HOB; Washington DC 20515-0911", 
+      "contact_form": "https://forms.house.gov/wyr/welcome.shtml", 
+      "district": 11, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5652", 
+      "office": "137 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3376", 
+      "start": "2011-01-05", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://castor.house.gov"
     }, 
-    "social": {
-        "facebook": "USRepKathyCastor", 
-        "twitter": "USRepKCastor", 
-        "twitter_id": 1880674038, 
-        "youtube": "RepKathyCastor", 
-        "youtube_id": "UC_irxhmLqVenTFPxDxznG6g"
+    {
+      "address": "205 Cannon HOB; Washington DC 20515-0914", 
+      "contact_form": "https://castor.house.gov/contact/contactform.htm", 
+      "district": 14, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5652", 
+      "office": "205 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3376", 
+      "rss_url": "http://castor.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://castor.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 11, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://castor.house.gov"
-        }, 
-        {
-            "district": 11, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://castor.house.gov"
-        }, 
-        {
-            "address": "137 Cannon HOB; Washington DC 20515-0911", 
-            "contact_form": "https://forms.house.gov/wyr/welcome.shtml", 
-            "district": 11, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5652", 
-            "office": "137 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3376", 
-            "start": "2011-01-05", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://castor.house.gov"
-        }, 
-        {
-            "address": "205 Cannon HOB; Washington DC 20515-0914", 
-            "contact_form": "https://castor.house.gov/contact/contactform.htm", 
-            "district": 14, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5652", 
-            "office": "205 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3376", 
-            "rss_url": "http://castor.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://castor.house.gov"
-        }, 
-        {
-            "address": "205 Cannon HOB; Washington DC 20515-0914", 
-            "contact_form": "https://castor.house.gov/contact/contactform.htm", 
-            "district": 14, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5652", 
-            "office": "205 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3376", 
-            "rss_url": "http://castor.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://castor.house.gov"
-        }, 
-        {
-            "address": "2052 Rayburn House Office Building; Washington DC 20515-0914", 
-            "district": 14, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5652", 
-            "office": "2052 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3376", 
-            "rss_url": "http://castor.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://castor.house.gov"
-        }
-    ]
+    {
+      "address": "205 Cannon HOB; Washington DC 20515-0914", 
+      "contact_form": "https://castor.house.gov/contact/contactform.htm", 
+      "district": 14, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5652", 
+      "office": "205 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3376", 
+      "rss_url": "http://castor.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://castor.house.gov"
+    }, 
+    {
+      "address": "2052 Rayburn House Office Building; Washington DC 20515-0914", 
+      "district": 14, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5652", 
+      "office": "2052 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3376", 
+      "rss_url": "http://castor.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://castor.house.gov"
+    }
+  ]
 }

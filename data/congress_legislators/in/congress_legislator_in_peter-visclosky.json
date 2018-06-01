@@ -1,206 +1,207 @@
 {
-    "bio": {
-        "birthday": "1949-08-13", 
-        "gender": "M", 
-        "religion": "Roman Catholic"
+  "bio": {
+    "birthday": "1949-08-13", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:705", 
+    "ballotpedia": "Peter J. Visclosky", 
+    "bioguide": "V000108", 
+    "cspan": 6785, 
+    "fec": [
+      "H4IN01012"
+    ], 
+    "google_entity_id": "kg:/m/022r85", 
+    "govtrack": 400417, 
+    "house_history": 21005, 
+    "icpsr": 15124, 
+    "maplight": 502, 
+    "opensecrets": "N00003813", 
+    "thomas": "01188", 
+    "votesmart": 26851, 
+    "wikidata": "Q514660", 
+    "wikipedia": "Pete Visclosky"
+  }, 
+  "name": {
+    "first": "Peter", 
+    "last": "Visclosky", 
+    "middle": "J.", 
+    "official_full": "Peter J. Visclosky"
+  }, 
+  "social": {
+    "facebook": "repvisclosky", 
+    "twitter": "RepVisclosky", 
+    "twitter_id": 193872188, 
+    "youtube": "PeteVisclosky1", 
+    "youtube_id": "UC9njNo6tTComo9Kn7imz7Mg"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "1987-01-03", 
+      "party": "Democrat", 
+      "start": "1985-01-03", 
+      "state": "IN", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Peter J. Visclosky", 
-        "bioguide": "V000108", 
-        "cspan": 6785, 
-        "fec": [
-            "H4IN01012"
-        ], 
-        "google_entity_id": "kg:/m/022r85", 
-        "govtrack": 400417, 
-        "house_history": 21005, 
-        "icpsr": 15124, 
-        "maplight": 502, 
-        "opensecrets": "N00003813", 
-        "thomas": "01188", 
-        "votesmart": 26851, 
-        "wikidata": "Q514660", 
-        "wikipedia": "Pete Visclosky"
+    {
+      "district": 1, 
+      "end": "1989-01-03", 
+      "party": "Democrat", 
+      "start": "1987-01-06", 
+      "state": "IN", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Peter", 
-        "last": "Visclosky", 
-        "middle": "J.", 
-        "official_full": "Peter J. Visclosky"
+    {
+      "district": 1, 
+      "end": "1991-01-03", 
+      "party": "Democrat", 
+      "start": "1989-01-03", 
+      "state": "IN", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "repvisclosky", 
-        "twitter": "RepVisclosky", 
-        "twitter_id": 193872188, 
-        "youtube": "PeteVisclosky1", 
-        "youtube_id": "UC9njNo6tTComo9Kn7imz7Mg"
+    {
+      "district": 1, 
+      "end": "1993-01-03", 
+      "party": "Democrat", 
+      "start": "1991-01-03", 
+      "state": "IN", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "1987-01-03", 
-            "party": "Democrat", 
-            "start": "1985-01-03", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1989-01-03", 
-            "party": "Democrat", 
-            "start": "1987-01-06", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1991-01-03", 
-            "party": "Democrat", 
-            "start": "1989-01-03", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1993-01-03", 
-            "party": "Democrat", 
-            "start": "1991-01-03", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "IN", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/visclosky"
-        }, 
-        {
-            "district": 1, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/visclosky"
-        }, 
-        {
-            "district": 1, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/visclosky"
-        }, 
-        {
-            "district": 1, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/visclosky"
-        }, 
-        {
-            "address": "2256 Rayburn HOB; Washington DC 20515-1401", 
-            "contact_form": "http://www.house.gov/writerep", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2493", 
-            "office": "2256 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2461", 
-            "start": "2011-01-05", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://www.house.gov/visclosky"
-        }, 
-        {
-            "address": "2256 Rayburn HOB; Washington DC 20515-1401", 
-            "contact_form": "https://visclosky.house.gov/contact-pete/email-pete", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2493", 
-            "office": "2256 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2461", 
-            "rss_url": "http://visclosky.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://visclosky.house.gov"
-        }, 
-        {
-            "address": "2328 Rayburn HOB; Washington DC 20515-1401", 
-            "contact_form": "https://visclosky.house.gov/contact-pete/email-pete", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2493", 
-            "office": "2328 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2461", 
-            "rss_url": "http://visclosky.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://visclosky.house.gov"
-        }, 
-        {
-            "address": "2328 Rayburn House Office Building; Washington DC 20515-1401", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2493", 
-            "office": "2328 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2461", 
-            "rss_url": "http://visclosky.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "https://visclosky.house.gov"
-        }
-    ]
+    {
+      "district": 1, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "IN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "IN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "IN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "IN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "IN", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/visclosky"
+    }, 
+    {
+      "district": 1, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/visclosky"
+    }, 
+    {
+      "district": 1, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/visclosky"
+    }, 
+    {
+      "district": 1, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/visclosky"
+    }, 
+    {
+      "address": "2256 Rayburn HOB; Washington DC 20515-1401", 
+      "contact_form": "http://www.house.gov/writerep", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2493", 
+      "office": "2256 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2461", 
+      "start": "2011-01-05", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://www.house.gov/visclosky"
+    }, 
+    {
+      "address": "2256 Rayburn HOB; Washington DC 20515-1401", 
+      "contact_form": "https://visclosky.house.gov/contact-pete/email-pete", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2493", 
+      "office": "2256 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2461", 
+      "rss_url": "http://visclosky.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://visclosky.house.gov"
+    }, 
+    {
+      "address": "2328 Rayburn HOB; Washington DC 20515-1401", 
+      "contact_form": "https://visclosky.house.gov/contact-pete/email-pete", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2493", 
+      "office": "2328 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2461", 
+      "rss_url": "http://visclosky.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://visclosky.house.gov"
+    }, 
+    {
+      "address": "2328 Rayburn House Office Building; Washington DC 20515-1401", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2493", 
+      "office": "2328 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2461", 
+      "rss_url": "http://visclosky.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://visclosky.house.gov"
+    }
+  ]
 }

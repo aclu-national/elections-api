@@ -1,48 +1,49 @@
 {
-    "bio": {
-        "birthday": "1953-06-20", 
-        "gender": "M"
-    }, 
-    "id": {
-        "ballotpedia": "Ralph W. Norman", 
-        "bioguide": "N000190", 
-        "cspan": 61996, 
-        "fec": [
-            "H8SC05158"
-        ], 
-        "google_entity_id": "kg:/m/0f9kbx", 
-        "govtrack": 412738, 
-        "house_history": 15032448994, 
-        "maplight": 2248, 
-        "opensecrets": "N00027783", 
-        "votesmart": 47930, 
-        "wikidata": "Q7287914", 
-        "wikipedia": "Ralph Norman"
-    }, 
-    "name": {
-        "first": "Ralph", 
-        "last": "Norman", 
-        "official_full": "Ralph Norman", 
-        "suffix": "Jr."
-    }, 
-    "social": {
-        "facebook": "RepRalphNorman", 
-        "twitter": "RepRalphNorman", 
-        "twitter_id": 880480631108644864
-    }, 
-    "terms": [
-        {
-            "address": "2350 Rayburn House Office Building; Washington DC 20515-4005", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": null, 
-            "office": "2350 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5501", 
-            "start": "2017-06-26", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "https://norman.house.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1953-06-20", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:936", 
+    "ballotpedia": "Ralph W. Norman", 
+    "bioguide": "N000190", 
+    "cspan": 61996, 
+    "fec": [
+      "H8SC05158"
+    ], 
+    "google_entity_id": "kg:/m/0f9kbx", 
+    "govtrack": 412738, 
+    "house_history": 15032448994, 
+    "maplight": 2248, 
+    "opensecrets": "N00027783", 
+    "votesmart": 47930, 
+    "wikidata": "Q7287914", 
+    "wikipedia": "Ralph Norman"
+  }, 
+  "name": {
+    "first": "Ralph", 
+    "last": "Norman", 
+    "official_full": "Ralph Norman", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "RepRalphNorman", 
+    "twitter": "RepRalphNorman", 
+    "twitter_id": 880480631108644864
+  }, 
+  "terms": [
+    {
+      "address": "2350 Rayburn House Office Building; Washington DC 20515-4005", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": null, 
+      "office": "2350 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5501", 
+      "start": "2017-06-26", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://norman.house.gov"
+    }
+  ]
 }

@@ -1,135 +1,136 @@
 {
-    "bio": {
-        "birthday": "1948-05-18", 
-        "gender": "M", 
-        "religion": "Latter Day Saints"
+  "bio": {
+    "birthday": "1948-05-18", 
+    "gender": "M", 
+    "religion": "Latter Day Saints"
+  }, 
+  "family": [
+    {
+      "name": "Stewart Lee Udall", 
+      "relation": "son"
     }, 
-    "family": [
-        {
-            "name": "Stewart Lee Udall", 
-            "relation": "son"
-        }, 
-        {
-            "name": "Morris K. Udall", 
-            "relation": "nephew"
-        }, 
-        {
-            "name": "Mark Udall", 
-            "relation": "cousin"
-        }, 
-        {
-            "name": "Gordon H. Smith", 
-            "relation": "cousin"
-        }
+    {
+      "name": "Morris K. Udall", 
+      "relation": "nephew"
+    }, 
+    {
+      "name": "Mark Udall", 
+      "relation": "cousin"
+    }, 
+    {
+      "name": "Gordon H. Smith", 
+      "relation": "cousin"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:844", 
+    "ballotpedia": "Tom Udall", 
+    "bioguide": "U000039", 
+    "cspan": 10075, 
+    "fec": [
+      "H8NM03097", 
+      "S8NM00184"
     ], 
-    "id": {
-        "ballotpedia": "Tom Udall", 
-        "bioguide": "U000039", 
-        "cspan": 10075, 
-        "fec": [
-            "H8NM03097", 
-            "S8NM00184"
-        ], 
-        "google_entity_id": "kg:/m/033t35", 
-        "govtrack": 400413, 
-        "house_history": 20879, 
-        "icpsr": 29924, 
-        "lis": "S326", 
-        "maplight": 498, 
-        "opensecrets": "N00006561", 
-        "thomas": "01567", 
-        "votesmart": 22658, 
-        "wikidata": "Q957690", 
-        "wikipedia": "Tom Udall"
+    "google_entity_id": "kg:/m/033t35", 
+    "govtrack": 400413, 
+    "house_history": 20879, 
+    "icpsr": 29924, 
+    "lis": "S326", 
+    "maplight": 498, 
+    "opensecrets": "N00006561", 
+    "thomas": "01567", 
+    "votesmart": 22658, 
+    "wikidata": "Q957690", 
+    "wikipedia": "Tom Udall"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "Udall", 
+    "middle": "S.", 
+    "official_full": "Tom Udall"
+  }, 
+  "social": {
+    "facebook": "senatortomudall", 
+    "twitter": "SenatorTomUdall", 
+    "twitter_id": 60828944, 
+    "youtube": "senatortomudall", 
+    "youtube_id": "UCADpIVS6bxOcr-uWnJCC9pQ"
+  }, 
+  "terms": [
+    {
+      "district": 3, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "NM", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Tom", 
-        "last": "Udall", 
-        "middle": "S.", 
-        "official_full": "Tom Udall"
+    {
+      "district": 3, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "NM", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "senatortomudall", 
-        "twitter": "SenatorTomUdall", 
-        "twitter_id": 60828944, 
-        "youtube": "senatortomudall", 
-        "youtube_id": "UCADpIVS6bxOcr-uWnJCC9pQ"
+    {
+      "district": 3, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://www.house.gov/tomudall"
     }, 
-    "terms": [
-        {
-            "district": 3, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "NM", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "NM", 
-            "type": "rep"
-        }, 
-        {
-            "district": 3, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://www.house.gov/tomudall"
-        }, 
-        {
-            "district": 3, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://www.house.gov/tomudall"
-        }, 
-        {
-            "district": 3, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "NM", 
-            "type": "rep", 
-            "url": "http://tomudall.house.gov"
-        }, 
-        {
-            "address": "110 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.tomudall.senate.gov/?p=contact", 
-            "end": "2015-01-03", 
-            "fax": "202-228-3261", 
-            "office": "110 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-6621", 
-            "rss_url": "http://tomudall.senate.gov/rss/?p=blog", 
-            "start": "2009-01-06", 
-            "state": "NM", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.tomudall.senate.gov"
-        }, 
-        {
-            "address": "531 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.tomudall.senate.gov/?p=contact", 
-            "end": "2021-01-03", 
-            "fax": "202-228-3261", 
-            "office": "531 Hart Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-6621", 
-            "rss_url": "http://tomudall.senate.gov/rss/?p=blog", 
-            "start": "2015-01-06", 
-            "state": "NM", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.tomudall.senate.gov"
-        }
-    ]
+    {
+      "district": 3, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://www.house.gov/tomudall"
+    }, 
+    {
+      "district": 3, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "http://tomudall.house.gov"
+    }, 
+    {
+      "address": "110 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.tomudall.senate.gov/?p=contact", 
+      "end": "2015-01-03", 
+      "fax": "202-228-3261", 
+      "office": "110 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-6621", 
+      "rss_url": "http://tomudall.senate.gov/rss/?p=blog", 
+      "start": "2009-01-06", 
+      "state": "NM", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.tomudall.senate.gov"
+    }, 
+    {
+      "address": "531 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.tomudall.senate.gov/?p=contact", 
+      "end": "2021-01-03", 
+      "fax": "202-228-3261", 
+      "office": "531 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-6621", 
+      "rss_url": "http://tomudall.senate.gov/rss/?p=blog", 
+      "start": "2015-01-06", 
+      "state": "NM", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.tomudall.senate.gov"
+    }
+  ]
 }

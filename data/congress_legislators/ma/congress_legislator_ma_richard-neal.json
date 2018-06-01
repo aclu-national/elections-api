@@ -1,189 +1,190 @@
 {
-    "bio": {
-        "birthday": "1949-02-14", 
-        "gender": "M", 
-        "religion": "Roman Catholic"
+  "bio": {
+    "birthday": "1949-02-14", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:739", 
+    "bioguide": "N000015", 
+    "cspan": 6103, 
+    "fec": [
+      "H8MA02041"
+    ], 
+    "google_entity_id": "kg:/m/028vm4", 
+    "govtrack": 400291, 
+    "house_history": 18855, 
+    "icpsr": 15616, 
+    "maplight": 387, 
+    "opensecrets": "N00000153", 
+    "thomas": "00854", 
+    "votesmart": 26895, 
+    "wikidata": "Q1464697", 
+    "wikipedia": "Richard Neal"
+  }, 
+  "name": {
+    "first": "Richard", 
+    "last": "Neal", 
+    "middle": "E.", 
+    "official_full": "Richard E. Neal"
+  }, 
+  "social": {
+    "facebook": "reprichardneal", 
+    "twitter": "RepRichardNeal", 
+    "twitter_id": 442824717, 
+    "youtube": "RepRichardENeal", 
+    "youtube_id": "UCZVtTydu0-MSK6G12GaKA4g"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "1991-01-03", 
+      "party": "Democrat", 
+      "start": "1989-01-03", 
+      "state": "MA", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "N000015", 
-        "cspan": 6103, 
-        "fec": [
-            "H8MA02041"
-        ], 
-        "google_entity_id": "kg:/m/028vm4", 
-        "govtrack": 400291, 
-        "house_history": 18855, 
-        "icpsr": 15616, 
-        "maplight": 387, 
-        "opensecrets": "N00000153", 
-        "thomas": "00854", 
-        "votesmart": 26895, 
-        "wikidata": "Q1464697", 
-        "wikipedia": "Richard Neal"
+    {
+      "district": 2, 
+      "end": "1993-01-03", 
+      "party": "Democrat", 
+      "start": "1991-01-03", 
+      "state": "MA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Richard", 
-        "last": "Neal", 
-        "middle": "E.", 
-        "official_full": "Richard E. Neal"
+    {
+      "district": 2, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "MA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "reprichardneal", 
-        "twitter": "RepRichardNeal", 
-        "twitter_id": 442824717, 
-        "youtube": "RepRichardENeal", 
-        "youtube_id": "UCZVtTydu0-MSK6G12GaKA4g"
+    {
+      "district": 2, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "MA", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "1991-01-03", 
-            "party": "Democrat", 
-            "start": "1989-01-03", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1993-01-03", 
-            "party": "Democrat", 
-            "start": "1991-01-03", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "MA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 2, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/neal"
-        }, 
-        {
-            "district": 2, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/neal"
-        }, 
-        {
-            "district": 2, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/neal"
-        }, 
-        {
-            "district": 2, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/neal"
-        }, 
-        {
-            "address": "2208 Rayburn HOB; Washington DC 20515-2102", 
-            "contact_form": "http://www.house.gov/neal/write_neal.html", 
-            "district": 2, 
-            "end": "2013-01-03", 
-            "fax": "202-225-8112", 
-            "office": "2208 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5601", 
-            "start": "2011-01-05", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/neal"
-        }, 
-        {
-            "address": "2208 Rayburn HOB; Washington DC 20515-2101", 
-            "contact_form": "https://forms.house.gov/neal/webforms/Contact_Form.shtml", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-8112", 
-            "office": "2208 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5601", 
-            "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2013-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://neal.house.gov"
-        }, 
-        {
-            "address": "341 Cannon HOB; Washington DC 20515-2101", 
-            "contact_form": "https://forms.house.gov/neal/webforms/Contact_Form.shtml", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-8112", 
-            "office": "341 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5601", 
-            "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2015-01-06", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://neal.house.gov"
-        }, 
-        {
-            "address": "341 Cannon House Office Building; Washington DC 20515-2101", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-8112", 
-            "office": "341 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5601", 
-            "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
-            "start": "2017-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "https://neal.house.gov"
-        }
-    ]
+    {
+      "district": 2, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "MA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "MA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "MA", 
+      "type": "rep"
+    }, 
+    {
+      "district": 2, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/neal"
+    }, 
+    {
+      "district": 2, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/neal"
+    }, 
+    {
+      "district": 2, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/neal"
+    }, 
+    {
+      "district": 2, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/neal"
+    }, 
+    {
+      "address": "2208 Rayburn HOB; Washington DC 20515-2102", 
+      "contact_form": "http://www.house.gov/neal/write_neal.html", 
+      "district": 2, 
+      "end": "2013-01-03", 
+      "fax": "202-225-8112", 
+      "office": "2208 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5601", 
+      "start": "2011-01-05", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/neal"
+    }, 
+    {
+      "address": "2208 Rayburn HOB; Washington DC 20515-2101", 
+      "contact_form": "https://forms.house.gov/neal/webforms/Contact_Form.shtml", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-8112", 
+      "office": "2208 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5601", 
+      "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2013-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://neal.house.gov"
+    }, 
+    {
+      "address": "341 Cannon HOB; Washington DC 20515-2101", 
+      "contact_form": "https://forms.house.gov/neal/webforms/Contact_Form.shtml", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-8112", 
+      "office": "341 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5601", 
+      "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2015-01-06", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://neal.house.gov"
+    }, 
+    {
+      "address": "341 Cannon House Office Building; Washington DC 20515-2101", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-8112", 
+      "office": "341 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5601", 
+      "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2017-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://neal.house.gov"
+    }
+  ]
 }

@@ -1,63 +1,64 @@
 {
-    "bio": {
-        "birthday": "1969-03-29", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1969-03-29", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:596", 
+    "ballotpedia": "Ted Lieu", 
+    "bioguide": "L000582", 
+    "cspan": 28076, 
+    "fec": [
+      "H4CA33119"
+    ], 
+    "google_entity_id": "kg:/m/0f3y2w", 
+    "govtrack": 412616, 
+    "icpsr": 21507, 
+    "maplight": 2072, 
+    "opensecrets": "N00035825", 
+    "thomas": "02230", 
+    "votesmart": 1516, 
+    "wikidata": "Q7693450", 
+    "wikipedia": "Ted Lieu"
+  }, 
+  "name": {
+    "first": "Ted", 
+    "last": "Lieu", 
+    "official_full": "Ted Lieu"
+  }, 
+  "social": {
+    "facebook": "RepTedLieu", 
+    "instagram": "RepTedLieu", 
+    "twitter": "RepTedLieu", 
+    "twitter_id": 3044993235, 
+    "youtube_id": "UC9qcJxTqfDNBnVul1IojlFg"
+  }, 
+  "terms": [
+    {
+      "address": "415 Cannon HOB; Washington DC 20515-0533", 
+      "district": 33, 
+      "end": "2017-01-03", 
+      "fax": "202-225-4099", 
+      "office": "415 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3976", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://lieu.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Ted Lieu", 
-        "bioguide": "L000582", 
-        "cspan": 28076, 
-        "fec": [
-            "H4CA33119"
-        ], 
-        "google_entity_id": "kg:/m/0f3y2w", 
-        "govtrack": 412616, 
-        "icpsr": 21507, 
-        "maplight": 2072, 
-        "opensecrets": "N00035825", 
-        "thomas": "02230", 
-        "votesmart": 1516, 
-        "wikidata": "Q7693450", 
-        "wikipedia": "Ted Lieu"
-    }, 
-    "name": {
-        "first": "Ted", 
-        "last": "Lieu", 
-        "official_full": "Ted Lieu"
-    }, 
-    "social": {
-        "facebook": "RepTedLieu", 
-        "instagram": "RepTedLieu", 
-        "twitter": "RepTedLieu", 
-        "twitter_id": 3044993235, 
-        "youtube_id": "UC9qcJxTqfDNBnVul1IojlFg"
-    }, 
-    "terms": [
-        {
-            "address": "415 Cannon HOB; Washington DC 20515-0533", 
-            "district": 33, 
-            "end": "2017-01-03", 
-            "fax": "202-225-4099", 
-            "office": "415 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3976", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://lieu.house.gov"
-        }, 
-        {
-            "address": "236 Cannon House Office Building; Washington DC 20515-0533", 
-            "district": 33, 
-            "end": "2019-01-03", 
-            "fax": "202-225-4099", 
-            "office": "236 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3976", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://lieu.house.gov"
-        }
-    ]
+    {
+      "address": "236 Cannon House Office Building; Washington DC 20515-0533", 
+      "district": 33, 
+      "end": "2019-01-03", 
+      "fax": "202-225-4099", 
+      "office": "236 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3976", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://lieu.house.gov"
+    }
+  ]
 }

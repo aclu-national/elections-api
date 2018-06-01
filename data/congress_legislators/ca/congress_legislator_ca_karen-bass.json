@@ -1,94 +1,95 @@
 {
-    "bio": {
-        "birthday": "1953-10-03", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1953-10-03", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:575", 
+    "bioguide": "B001270", 
+    "cspan": 62502, 
+    "fec": [
+      "H0CA33117"
+    ], 
+    "google_entity_id": "kg:/m/027g9m6", 
+    "govtrack": 412404, 
+    "house_history": 10433, 
+    "icpsr": 21110, 
+    "maplight": 1249, 
+    "opensecrets": "N00031877", 
+    "thomas": "01996", 
+    "votesmart": 28963, 
+    "wikidata": "Q461739", 
+    "wikipedia": "Karen Bass"
+  }, 
+  "name": {
+    "first": "Karen", 
+    "last": "Bass", 
+    "official_full": "Karen Bass"
+  }, 
+  "social": {
+    "facebook": "RepKarenBass", 
+    "twitter": "RepKarenBass", 
+    "twitter_id": 239949176, 
+    "youtube": "RepKarenBass", 
+    "youtube_id": "UCQZg7oxkV3Yag2emYPLhT2g"
+  }, 
+  "terms": [
+    {
+      "address": "408 Cannon HOB; Washington DC 20515-0533", 
+      "district": 33, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2422", 
+      "office": "408 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7084", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://karenbass.house.gov/"
     }, 
-    "id": {
-        "bioguide": "B001270", 
-        "cspan": 62502, 
-        "fec": [
-            "H0CA33117"
-        ], 
-        "google_entity_id": "kg:/m/027g9m6", 
-        "govtrack": 412404, 
-        "house_history": 10433, 
-        "icpsr": 21110, 
-        "maplight": 1249, 
-        "opensecrets": "N00031877", 
-        "thomas": "01996", 
-        "votesmart": 28963, 
-        "wikidata": "Q461739", 
-        "wikipedia": "Karen Bass"
+    {
+      "address": "408 Cannon HOB; Washington DC 20515-0537", 
+      "contact_form": "https://bass.house.gov/contact-me/email-me", 
+      "district": 37, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2422", 
+      "office": "408 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7084", 
+      "rss_url": "http://bass.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bass.house.gov"
     }, 
-    "name": {
-        "first": "Karen", 
-        "last": "Bass", 
-        "official_full": "Karen Bass"
+    {
+      "address": "408 Cannon HOB; Washington DC 20515-0537", 
+      "contact_form": "https://bass.house.gov/contact-me/email-me", 
+      "district": 37, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2422", 
+      "office": "408 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7084", 
+      "rss_url": "http://bass.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bass.house.gov"
     }, 
-    "social": {
-        "facebook": "RepKarenBass", 
-        "twitter": "RepKarenBass", 
-        "twitter_id": 239949176, 
-        "youtube": "RepKarenBass", 
-        "youtube_id": "UCQZg7oxkV3Yag2emYPLhT2g"
-    }, 
-    "terms": [
-        {
-            "address": "408 Cannon HOB; Washington DC 20515-0533", 
-            "district": 33, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2422", 
-            "office": "408 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7084", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://karenbass.house.gov/"
-        }, 
-        {
-            "address": "408 Cannon HOB; Washington DC 20515-0537", 
-            "contact_form": "https://bass.house.gov/contact-me/email-me", 
-            "district": 37, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2422", 
-            "office": "408 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7084", 
-            "rss_url": "http://bass.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bass.house.gov"
-        }, 
-        {
-            "address": "408 Cannon HOB; Washington DC 20515-0537", 
-            "contact_form": "https://bass.house.gov/contact-me/email-me", 
-            "district": 37, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2422", 
-            "office": "408 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7084", 
-            "rss_url": "http://bass.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bass.house.gov"
-        }, 
-        {
-            "address": "2241 Rayburn House Office Building; Washington DC 20515-0537", 
-            "district": 37, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2422", 
-            "office": "2241 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-7084", 
-            "rss_url": "http://bass.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://bass.house.gov"
-        }
-    ]
+    {
+      "address": "2241 Rayburn House Office Building; Washington DC 20515-0537", 
+      "district": 37, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2422", 
+      "office": "2241 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7084", 
+      "rss_url": "http://bass.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://bass.house.gov"
+    }
+  ]
 }

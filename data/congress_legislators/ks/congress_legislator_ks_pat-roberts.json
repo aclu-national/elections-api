@@ -1,154 +1,155 @@
 {
-    "bio": {
-        "birthday": "1936-04-20", 
-        "gender": "M", 
-        "religion": "Methodist"
+  "bio": {
+    "birthday": "1936-04-20", 
+    "gender": "M", 
+    "religion": "Methodist"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:713", 
+    "ballotpedia": "Pat Roberts", 
+    "bioguide": "R000307", 
+    "cspan": 16354, 
+    "fec": [
+      "S6KS00080", 
+      "H0KS01016"
+    ], 
+    "google_entity_id": "kg:/m/01_pdv", 
+    "govtrack": 300083, 
+    "house_history": 20465, 
+    "icpsr": 14852, 
+    "lis": "S260", 
+    "maplight": 602, 
+    "opensecrets": "N00005285", 
+    "thomas": "00968", 
+    "votesmart": 26866, 
+    "wikidata": "Q538375", 
+    "wikipedia": "Pat Roberts"
+  }, 
+  "name": {
+    "first": "Pat", 
+    "last": "Roberts", 
+    "official_full": "Pat Roberts"
+  }, 
+  "social": {
+    "facebook": "SenPatRoberts", 
+    "twitter": "SenPatRoberts", 
+    "twitter_id": 75364211, 
+    "youtube": "SenPatRoberts", 
+    "youtube_id": "UCRpswvC8LgxzE9AYSFpqUgw"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "1983-01-03", 
+      "party": "Republican", 
+      "start": "1981-01-05", 
+      "state": "KS", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Pat Roberts", 
-        "bioguide": "R000307", 
-        "cspan": 16354, 
-        "fec": [
-            "S6KS00080", 
-            "H0KS01016"
-        ], 
-        "google_entity_id": "kg:/m/01_pdv", 
-        "govtrack": 300083, 
-        "house_history": 20465, 
-        "icpsr": 14852, 
-        "lis": "S260", 
-        "maplight": 602, 
-        "opensecrets": "N00005285", 
-        "thomas": "00968", 
-        "votesmart": 26866, 
-        "wikidata": "Q538375", 
-        "wikipedia": "Pat Roberts"
+    {
+      "district": 1, 
+      "end": "1985-01-03", 
+      "party": "Republican", 
+      "start": "1983-01-03", 
+      "state": "KS", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Pat", 
-        "last": "Roberts", 
-        "official_full": "Pat Roberts"
+    {
+      "district": 1, 
+      "end": "1987-01-03", 
+      "party": "Republican", 
+      "start": "1985-01-03", 
+      "state": "KS", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "SenPatRoberts", 
-        "twitter": "SenPatRoberts", 
-        "twitter_id": 75364211, 
-        "youtube": "SenPatRoberts", 
-        "youtube_id": "UCRpswvC8LgxzE9AYSFpqUgw"
+    {
+      "district": 1, 
+      "end": "1989-01-03", 
+      "party": "Republican", 
+      "start": "1987-01-06", 
+      "state": "KS", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "1983-01-03", 
-            "party": "Republican", 
-            "start": "1981-01-05", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1985-01-03", 
-            "party": "Republican", 
-            "start": "1983-01-03", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1987-01-03", 
-            "party": "Republican", 
-            "start": "1985-01-03", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1989-01-03", 
-            "party": "Republican", 
-            "start": "1987-01-06", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1991-01-03", 
-            "party": "Republican", 
-            "start": "1989-01-03", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1993-01-03", 
-            "party": "Republican", 
-            "start": "1991-01-03", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1993-01-05", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "KS", 
-            "type": "rep"
-        }, 
-        {
-            "class": 2, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "KS", 
-            "type": "sen"
-        }, 
-        {
-            "class": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "KS", 
-            "type": "sen", 
-            "url": "http://roberts.senate.gov/"
-        }, 
-        {
-            "address": "109 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.roberts.senate.gov/public/index.cfm?p=EmailPat", 
-            "end": "2015-01-03", 
-            "fax": "202-224-3514", 
-            "office": "109 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-4774", 
-            "rss_url": "http://www.roberts.senate.gov/public/?a=rss.feed", 
-            "start": "2009-01-06", 
-            "state": "KS", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "http://www.roberts.senate.gov"
-        }, 
-        {
-            "address": "109 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.roberts.senate.gov/public/?p=EmailPat", 
-            "end": "2021-01-03", 
-            "fax": "202-224-3514", 
-            "office": "109 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-4774", 
-            "rss_url": "http://www.roberts.senate.gov/public/?a=rss.feed", 
-            "start": "2015-01-06", 
-            "state": "KS", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.roberts.senate.gov"
-        }
-    ]
+    {
+      "district": 1, 
+      "end": "1991-01-03", 
+      "party": "Republican", 
+      "start": "1989-01-03", 
+      "state": "KS", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "1993-01-03", 
+      "party": "Republican", 
+      "start": "1991-01-03", 
+      "state": "KS", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "KS", 
+      "type": "rep"
+    }, 
+    {
+      "district": 1, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "KS", 
+      "type": "rep"
+    }, 
+    {
+      "class": 2, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "KS", 
+      "type": "sen"
+    }, 
+    {
+      "class": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "KS", 
+      "type": "sen", 
+      "url": "http://roberts.senate.gov/"
+    }, 
+    {
+      "address": "109 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.roberts.senate.gov/public/index.cfm?p=EmailPat", 
+      "end": "2015-01-03", 
+      "fax": "202-224-3514", 
+      "office": "109 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4774", 
+      "rss_url": "http://www.roberts.senate.gov/public/?a=rss.feed", 
+      "start": "2009-01-06", 
+      "state": "KS", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "http://www.roberts.senate.gov"
+    }, 
+    {
+      "address": "109 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.roberts.senate.gov/public/?p=EmailPat", 
+      "end": "2021-01-03", 
+      "fax": "202-224-3514", 
+      "office": "109 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4774", 
+      "rss_url": "http://www.roberts.senate.gov/public/?a=rss.feed", 
+      "start": "2015-01-06", 
+      "state": "KS", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.roberts.senate.gov"
+    }
+  ]
 }

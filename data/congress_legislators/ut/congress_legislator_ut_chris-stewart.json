@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1960-07-15", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-07-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:991", 
+    "ballotpedia": "Chris Stewart", 
+    "bioguide": "S001192", 
+    "cspan": 68466, 
+    "fec": [
+      "H2UT02324"
+    ], 
+    "google_entity_id": "kg:/m/0j273ks", 
+    "govtrack": 412581, 
+    "icpsr": 21367, 
+    "maplight": 1805, 
+    "opensecrets": "N00033932", 
+    "thomas": "02168", 
+    "votesmart": 135930, 
+    "wikidata": "Q4068880", 
+    "wikipedia": "Chris Stewart (politician)"
+  }, 
+  "name": {
+    "first": "Chris", 
+    "last": "Stewart", 
+    "official_full": "Chris Stewart"
+  }, 
+  "social": {
+    "facebook": "RepChrisStewart", 
+    "instagram": "repChrisStewart", 
+    "twitter": "RepChrisStewart", 
+    "twitter_id": 1072008757, 
+    "youtube": "repchrisstewart", 
+    "youtube_id": "UCKYqzTvmQVWys-WhrCkbyPw"
+  }, 
+  "terms": [
+    {
+      "address": "323 Cannon HOB; Washington DC 20515-4402", 
+      "contact_form": "https://stewart.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2015-01-03", 
+      "fax": "801-364-5551", 
+      "office": "323 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-9730", 
+      "rss_url": "http://stewart.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "http://stewart.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Chris Stewart", 
-        "bioguide": "S001192", 
-        "cspan": 68466, 
-        "fec": [
-            "H2UT02324"
-        ], 
-        "google_entity_id": "kg:/m/0j273ks", 
-        "govtrack": 412581, 
-        "icpsr": 21367, 
-        "maplight": 1805, 
-        "opensecrets": "N00033932", 
-        "thomas": "02168", 
-        "votesmart": 135930, 
-        "wikidata": "Q4068880", 
-        "wikipedia": "Chris Stewart (politician)"
+    {
+      "address": "323 Cannon HOB; Washington DC 20515-4402", 
+      "contact_form": "https://stewart.house.gov/contact/email-me", 
+      "district": 2, 
+      "end": "2017-01-03", 
+      "fax": "801-364-5551", 
+      "office": "323 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-9730", 
+      "rss_url": "http://stewart.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "http://stewart.house.gov"
     }, 
-    "name": {
-        "first": "Chris", 
-        "last": "Stewart", 
-        "official_full": "Chris Stewart"
-    }, 
-    "social": {
-        "facebook": "RepChrisStewart", 
-        "instagram": "repChrisStewart", 
-        "twitter": "RepChrisStewart", 
-        "twitter_id": 1072008757, 
-        "youtube": "repchrisstewart", 
-        "youtube_id": "UCKYqzTvmQVWys-WhrCkbyPw"
-    }, 
-    "terms": [
-        {
-            "address": "323 Cannon HOB; Washington DC 20515-4402", 
-            "contact_form": "https://stewart.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2015-01-03", 
-            "fax": "801-364-5551", 
-            "office": "323 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-9730", 
-            "rss_url": "http://stewart.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "UT", 
-            "type": "rep", 
-            "url": "http://stewart.house.gov"
-        }, 
-        {
-            "address": "323 Cannon HOB; Washington DC 20515-4402", 
-            "contact_form": "https://stewart.house.gov/contact/email-me", 
-            "district": 2, 
-            "end": "2017-01-03", 
-            "fax": "801-364-5551", 
-            "office": "323 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-9730", 
-            "rss_url": "http://stewart.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "UT", 
-            "type": "rep", 
-            "url": "http://stewart.house.gov"
-        }, 
-        {
-            "address": "323 Cannon House Office Building; Washington DC 20515-4402", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "801-364-5551", 
-            "office": "323 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-9730", 
-            "rss_url": "http://stewart.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "UT", 
-            "type": "rep", 
-            "url": "https://stewart.house.gov"
-        }
-    ]
+    {
+      "address": "323 Cannon House Office Building; Washington DC 20515-4402", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "801-364-5551", 
+      "office": "323 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-9730", 
+      "rss_url": "http://stewart.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://stewart.house.gov"
+    }
+  ]
 }

@@ -1,97 +1,98 @@
 {
-    "bio": {
-        "birthday": "1960-05-10", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-05-10", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:846", 
+    "ballotpedia": "Dean Heller", 
+    "bioguide": "H001041", 
+    "cspan": 1012368, 
+    "fec": [
+      "H6NV02164", 
+      "S2NV00183"
+    ], 
+    "google_entity_id": "kg:/m/0g92xz", 
+    "govtrack": 412218, 
+    "house_history": 15578, 
+    "icpsr": 20730, 
+    "lis": "S352", 
+    "maplight": 703, 
+    "opensecrets": "N00027522", 
+    "thomas": "01863", 
+    "votesmart": 2291, 
+    "wikidata": "Q251763", 
+    "wikipedia": "Dean Heller"
+  }, 
+  "name": {
+    "first": "Dean", 
+    "last": "Heller", 
+    "official_full": "Dean Heller"
+  }, 
+  "social": {
+    "facebook": "SenDeanHeller", 
+    "twitter": "SenDeanHeller", 
+    "twitter_id": 266133081, 
+    "youtube": "SenDeanHeller", 
+    "youtube_id": "UCTS6f940sIirkO6ICyx4ksw"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://heller.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Dean Heller", 
-        "bioguide": "H001041", 
-        "cspan": 1012368, 
-        "fec": [
-            "H6NV02164", 
-            "S2NV00183"
-        ], 
-        "google_entity_id": "kg:/m/0g92xz", 
-        "govtrack": 412218, 
-        "house_history": 15578, 
-        "icpsr": 20730, 
-        "lis": "S352", 
-        "maplight": 703, 
-        "opensecrets": "N00027522", 
-        "thomas": "01863", 
-        "votesmart": 2291, 
-        "wikidata": "Q251763", 
-        "wikipedia": "Dean Heller"
+    {
+      "district": 2, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://heller.house.gov"
     }, 
-    "name": {
-        "first": "Dean", 
-        "last": "Heller", 
-        "official_full": "Dean Heller"
+    {
+      "address": "125 Cannon House Office Building;  20515-2802", 
+      "district": 2, 
+      "end": "2011-05-09", 
+      "party": "Republican", 
+      "start": "2011-01-05", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://heller.house.gov"
     }, 
-    "social": {
-        "facebook": "SenDeanHeller", 
-        "twitter": "SenDeanHeller", 
-        "twitter_id": 266133081, 
-        "youtube": "SenDeanHeller", 
-        "youtube_id": "UCTS6f940sIirkO6ICyx4ksw"
+    {
+      "address": "361A RUSSELL SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.heller.senate.gov/public/index.cfm/contact-form", 
+      "end": "2013-01-03", 
+      "office": "361a Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6244", 
+      "start": "2011-05-09", 
+      "state": "NV", 
+      "type": "sen", 
+      "url": "http://heller.senate.gov/"
     }, 
-    "terms": [
-        {
-            "district": 2, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "NV", 
-            "type": "rep", 
-            "url": "http://heller.house.gov"
-        }, 
-        {
-            "district": 2, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "NV", 
-            "type": "rep", 
-            "url": "http://heller.house.gov"
-        }, 
-        {
-            "address": "125 Cannon House Office Building;  20515-2802", 
-            "district": 2, 
-            "end": "2011-05-09", 
-            "party": "Republican", 
-            "start": "2011-01-05", 
-            "state": "NV", 
-            "type": "rep", 
-            "url": "http://heller.house.gov"
-        }, 
-        {
-            "address": "361A RUSSELL SENATE OFFICE BUILDING WASHINGTON DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.heller.senate.gov/public/index.cfm/contact-form", 
-            "end": "2013-01-03", 
-            "office": "361a Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6244", 
-            "start": "2011-05-09", 
-            "state": "NV", 
-            "type": "sen", 
-            "url": "http://heller.senate.gov/"
-        }, 
-        {
-            "address": "324 Hart Senate Office Building Washington DC 20510", 
-            "class": 1, 
-            "contact_form": "http://www.heller.senate.gov/public/index.cfm/contact-form", 
-            "end": "2019-01-03", 
-            "fax": "202-228-6753", 
-            "office": "324 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6244", 
-            "rss_url": "http://www.heller.senate.gov/public/index.cfm/rss/feed", 
-            "start": "2013-01-03", 
-            "state": "NV", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.heller.senate.gov/public"
-        }
-    ]
+    {
+      "address": "324 Hart Senate Office Building Washington DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.heller.senate.gov/public/index.cfm/contact-form", 
+      "end": "2019-01-03", 
+      "fax": "202-228-6753", 
+      "office": "324 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6244", 
+      "rss_url": "http://www.heller.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2013-01-03", 
+      "state": "NV", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.heller.senate.gov/public"
+    }
+  ]
 }

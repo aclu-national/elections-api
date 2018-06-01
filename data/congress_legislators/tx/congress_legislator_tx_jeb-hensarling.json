@@ -1,133 +1,134 @@
 {
-    "bio": {
-        "birthday": "1957-05-29", 
-        "gender": "M", 
-        "religion": "Christian"
+  "bio": {
+    "birthday": "1957-05-29", 
+    "gender": "M", 
+    "religion": "Christian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:962", 
+    "ballotpedia": "Jeb Hensarling", 
+    "bioguide": "H001036", 
+    "cspan": 1003619, 
+    "fec": [
+      "H2TX05121"
+    ], 
+    "google_entity_id": "kg:/m/0h23n6", 
+    "govtrack": 400175, 
+    "house_history": 15568, 
+    "icpsr": 20352, 
+    "maplight": 281, 
+    "opensecrets": "N00024922", 
+    "thomas": "01749", 
+    "votesmart": 49827, 
+    "wikidata": "Q538785", 
+    "wikipedia": "Jeb Hensarling"
+  }, 
+  "name": {
+    "first": "Jeb", 
+    "last": "Hensarling", 
+    "official_full": "Jeb Hensarling"
+  }, 
+  "social": {
+    "facebook": "RepHensarling", 
+    "twitter": "RepHensarling", 
+    "twitter_id": 18566912, 
+    "youtube": "repjebhensarling", 
+    "youtube_id": "UCjZWXpz6wypzbL8nK0JNEvg"
+  }, 
+  "terms": [
+    {
+      "district": 5, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/hensarling"
     }, 
-    "id": {
-        "ballotpedia": "Jeb Hensarling", 
-        "bioguide": "H001036", 
-        "cspan": 1003619, 
-        "fec": [
-            "H2TX05121"
-        ], 
-        "google_entity_id": "kg:/m/0h23n6", 
-        "govtrack": 400175, 
-        "house_history": 15568, 
-        "icpsr": 20352, 
-        "maplight": 281, 
-        "opensecrets": "N00024922", 
-        "thomas": "01749", 
-        "votesmart": 49827, 
-        "wikidata": "Q538785", 
-        "wikipedia": "Jeb Hensarling"
+    {
+      "district": 5, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/hensarling"
     }, 
-    "name": {
-        "first": "Jeb", 
-        "last": "Hensarling", 
-        "official_full": "Jeb Hensarling"
+    {
+      "district": 5, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/hensarling"
     }, 
-    "social": {
-        "facebook": "RepHensarling", 
-        "twitter": "RepHensarling", 
-        "twitter_id": 18566912, 
-        "youtube": "repjebhensarling", 
-        "youtube_id": "UCjZWXpz6wypzbL8nK0JNEvg"
+    {
+      "district": 5, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/hensarling"
     }, 
-    "terms": [
-        {
-            "district": 5, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/hensarling"
-        }, 
-        {
-            "district": 5, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/hensarling"
-        }, 
-        {
-            "district": 5, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/hensarling"
-        }, 
-        {
-            "district": 5, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/hensarling"
-        }, 
-        {
-            "address": "129 Cannon HOB; Washington DC 20515-4305", 
-            "contact_form": "http://www.house.gov/hensarling/contact_web.shtml", 
-            "district": 5, 
-            "end": "2013-01-03", 
-            "fax": "202-226-4888", 
-            "office": "129 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3484", 
-            "start": "2011-01-05", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://www.house.gov/hensarling"
-        }, 
-        {
-            "address": "2228 Rayburn HOB; Washington DC 20515-4305", 
-            "contact_form": "https://hensarling.house.gov/contact/email-me", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "fax": "202-226-4888", 
-            "office": "2228 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3484", 
-            "rss_url": "http://hensarling.house.gov/atom.xml", 
-            "start": "2013-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://hensarling.house.gov"
-        }, 
-        {
-            "address": "2228 Rayburn HOB; Washington DC 20515-4305", 
-            "contact_form": "https://hensarling.house.gov/contact/email-me", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-226-4888", 
-            "office": "2228 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3484", 
-            "rss_url": "http://hensarling.house.gov/atom.xml", 
-            "start": "2015-01-06", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "http://hensarling.house.gov"
-        }, 
-        {
-            "address": "2228 Rayburn House Office Building; Washington DC 20515-4305", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-226-4888", 
-            "office": "2228 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3484", 
-            "rss_url": "http://hensarling.house.gov/atom.xml", 
-            "start": "2017-01-03", 
-            "state": "TX", 
-            "type": "rep", 
-            "url": "https://hensarling.house.gov"
-        }
-    ]
+    {
+      "address": "129 Cannon HOB; Washington DC 20515-4305", 
+      "contact_form": "http://www.house.gov/hensarling/contact_web.shtml", 
+      "district": 5, 
+      "end": "2013-01-03", 
+      "fax": "202-226-4888", 
+      "office": "129 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3484", 
+      "start": "2011-01-05", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://www.house.gov/hensarling"
+    }, 
+    {
+      "address": "2228 Rayburn HOB; Washington DC 20515-4305", 
+      "contact_form": "https://hensarling.house.gov/contact/email-me", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "fax": "202-226-4888", 
+      "office": "2228 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3484", 
+      "rss_url": "http://hensarling.house.gov/atom.xml", 
+      "start": "2013-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://hensarling.house.gov"
+    }, 
+    {
+      "address": "2228 Rayburn HOB; Washington DC 20515-4305", 
+      "contact_form": "https://hensarling.house.gov/contact/email-me", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-226-4888", 
+      "office": "2228 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3484", 
+      "rss_url": "http://hensarling.house.gov/atom.xml", 
+      "start": "2015-01-06", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "http://hensarling.house.gov"
+    }, 
+    {
+      "address": "2228 Rayburn House Office Building; Washington DC 20515-4305", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-226-4888", 
+      "office": "2228 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3484", 
+      "rss_url": "http://hensarling.house.gov/atom.xml", 
+      "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://hensarling.house.gov"
+    }
+  ]
 }

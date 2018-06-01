@@ -1,222 +1,223 @@
 {
-    "bio": {
-        "birthday": "1953-03-04", 
-        "gender": "M", 
-        "religion": "Roman Catholic"
+  "bio": {
+    "birthday": "1953-03-04", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:829", 
+    "bioguide": "S000522", 
+    "cspan": 6411, 
+    "fec": [
+      "H8NJ04014"
+    ], 
+    "google_entity_id": "kg:/m/033f4d", 
+    "govtrack": 400380, 
+    "house_history": 21787, 
+    "icpsr": 14863, 
+    "maplight": 469, 
+    "opensecrets": "N00009816", 
+    "thomas": "01071", 
+    "votesmart": 26952, 
+    "wikidata": "Q981167", 
+    "wikipedia": "Chris Smith (New Jersey politician)"
+  }, 
+  "name": {
+    "first": "Christopher", 
+    "last": "Smith", 
+    "middle": "H.", 
+    "nickname": "Chris", 
+    "official_full": "Christopher H. Smith"
+  }, 
+  "social": {
+    "facebook": "RepChrisSmith", 
+    "twitter": "RepChrisSmith", 
+    "twitter_id": 1289319271, 
+    "youtube": "USRepChrisSmith", 
+    "youtube_id": "UCtCNUDo3-I1gsd_03ppDfZg"
+  }, 
+  "terms": [
+    {
+      "district": 4, 
+      "end": "1983-01-03", 
+      "party": "Republican", 
+      "start": "1981-01-05", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "S000522", 
-        "cspan": 6411, 
-        "fec": [
-            "H8NJ04014"
-        ], 
-        "google_entity_id": "kg:/m/033f4d", 
-        "govtrack": 400380, 
-        "house_history": 21787, 
-        "icpsr": 14863, 
-        "maplight": 469, 
-        "opensecrets": "N00009816", 
-        "thomas": "01071", 
-        "votesmart": 26952, 
-        "wikidata": "Q981167", 
-        "wikipedia": "Chris Smith (New Jersey politician)"
+    {
+      "district": 4, 
+      "end": "1985-01-03", 
+      "party": "Republican", 
+      "start": "1983-01-03", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Christopher", 
-        "last": "Smith", 
-        "middle": "H.", 
-        "nickname": "Chris", 
-        "official_full": "Christopher H. Smith"
+    {
+      "district": 4, 
+      "end": "1987-01-03", 
+      "party": "Republican", 
+      "start": "1985-01-03", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "RepChrisSmith", 
-        "twitter": "RepChrisSmith", 
-        "twitter_id": 1289319271, 
-        "youtube": "USRepChrisSmith", 
-        "youtube_id": "UCtCNUDo3-I1gsd_03ppDfZg"
+    {
+      "district": 4, 
+      "end": "1989-01-03", 
+      "party": "Republican", 
+      "start": "1987-01-06", 
+      "state": "NJ", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 4, 
-            "end": "1983-01-03", 
-            "party": "Republican", 
-            "start": "1981-01-05", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1985-01-03", 
-            "party": "Republican", 
-            "start": "1983-01-03", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1987-01-03", 
-            "party": "Republican", 
-            "start": "1985-01-03", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1989-01-03", 
-            "party": "Republican", 
-            "start": "1987-01-06", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1991-01-03", 
-            "party": "Republican", 
-            "start": "1989-01-03", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1993-01-03", 
-            "party": "Republican", 
-            "start": "1991-01-03", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1995-01-03", 
-            "party": "Republican", 
-            "start": "1993-01-05", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1997-01-03", 
-            "party": "Republican", 
-            "start": "1995-01-04", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "1999-01-03", 
-            "party": "Republican", 
-            "start": "1997-01-07", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "2001-01-03", 
-            "party": "Republican", 
-            "start": "1999-01-06", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "2003-01-03", 
-            "party": "Republican", 
-            "start": "2001-01-03", 
-            "state": "NJ", 
-            "type": "rep"
-        }, 
-        {
-            "district": 4, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/chrissmith"
-        }, 
-        {
-            "district": 4, 
-            "end": "2007-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/chrissmith"
-        }, 
-        {
-            "district": 4, 
-            "end": "2009-01-03", 
-            "party": "Republican", 
-            "start": "2007-01-04", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/chrissmith"
-        }, 
-        {
-            "district": 4, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2009-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/chrissmith"
-        }, 
-        {
-            "address": "2373 Rayburn HOB; Washington DC 20515-3004", 
-            "contact_form": "http://chrissmith.house.gov/zipauth.html", 
-            "district": 4, 
-            "end": "2013-01-03", 
-            "fax": "202-225-7768", 
-            "office": "2373 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3765", 
-            "start": "2011-01-05", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://www.house.gov/chrissmith"
-        }, 
-        {
-            "address": "2373 Rayburn HOB; Washington DC 20515-3004", 
-            "contact_form": "https://chrissmith.house.gov/contact/write.htm", 
-            "district": 4, 
-            "end": "2015-01-03", 
-            "fax": "202-225-7768", 
-            "office": "2373 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3765", 
-            "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
-            "start": "2013-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://chrissmith.house.gov"
-        }, 
-        {
-            "address": "2373 Rayburn HOB; Washington DC 20515-3004", 
-            "contact_form": "https://chrissmith.house.gov/contact/write.htm", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "fax": "202-225-7768", 
-            "office": "2373 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3765", 
-            "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
-            "start": "2015-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "http://chrissmith.house.gov"
-        }, 
-        {
-            "address": "2373 Rayburn House Office Building; Washington DC 20515-3004", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "fax": "202-225-7768", 
-            "office": "2373 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3765", 
-            "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
-            "start": "2017-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "https://chrissmith.house.gov"
-        }
-    ]
+    {
+      "district": 4, 
+      "end": "1991-01-03", 
+      "party": "Republican", 
+      "start": "1989-01-03", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "1993-01-03", 
+      "party": "Republican", 
+      "start": "1991-01-03", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "1997-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "1999-01-03", 
+      "party": "Republican", 
+      "start": "1997-01-07", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1999-01-06", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "2003-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "NJ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/chrissmith"
+    }, 
+    {
+      "district": 4, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/chrissmith"
+    }, 
+    {
+      "district": 4, 
+      "end": "2009-01-03", 
+      "party": "Republican", 
+      "start": "2007-01-04", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/chrissmith"
+    }, 
+    {
+      "district": 4, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/chrissmith"
+    }, 
+    {
+      "address": "2373 Rayburn HOB; Washington DC 20515-3004", 
+      "contact_form": "http://chrissmith.house.gov/zipauth.html", 
+      "district": 4, 
+      "end": "2013-01-03", 
+      "fax": "202-225-7768", 
+      "office": "2373 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3765", 
+      "start": "2011-01-05", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://www.house.gov/chrissmith"
+    }, 
+    {
+      "address": "2373 Rayburn HOB; Washington DC 20515-3004", 
+      "contact_form": "https://chrissmith.house.gov/contact/write.htm", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "fax": "202-225-7768", 
+      "office": "2373 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3765", 
+      "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://chrissmith.house.gov"
+    }, 
+    {
+      "address": "2373 Rayburn HOB; Washington DC 20515-3004", 
+      "contact_form": "https://chrissmith.house.gov/contact/write.htm", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "fax": "202-225-7768", 
+      "office": "2373 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3765", 
+      "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "http://chrissmith.house.gov"
+    }, 
+    {
+      "address": "2373 Rayburn House Office Building; Washington DC 20515-3004", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "fax": "202-225-7768", 
+      "office": "2373 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3765", 
+      "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
+      "start": "2017-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://chrissmith.house.gov"
+    }
+  ]
 }

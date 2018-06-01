@@ -1,157 +1,158 @@
 {
-    "bio": {
-        "birthday": "1954-10-24", 
-        "gender": "M", 
-        "religion": "Jewish"
+  "bio": {
+    "birthday": "1954-10-24", 
+    "gender": "M", 
+    "religion": "Jewish"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:550", 
+    "bioguide": "S000344", 
+    "cspan": 45124, 
+    "fec": [
+      "H6CA24113"
+    ], 
+    "google_entity_id": "kg:/m/024tkr", 
+    "govtrack": 400371, 
+    "house_history": 21565, 
+    "icpsr": 29707, 
+    "maplight": 462, 
+    "opensecrets": "N00006897", 
+    "thomas": "01526", 
+    "votesmart": 142, 
+    "wikidata": "Q672919", 
+    "wikipedia": "Brad Sherman"
+  }, 
+  "name": {
+    "first": "Brad", 
+    "last": "Sherman", 
+    "middle": "J.", 
+    "official_full": "Brad Sherman"
+  }, 
+  "social": {
+    "facebook": "63158229861", 
+    "twitter": "BradSherman", 
+    "twitter_id": 30216513, 
+    "youtube": "shermanca27", 
+    "youtube_id": "UCPisrz6-SLwVy2l9Mcy8kug"
+  }, 
+  "terms": [
+    {
+      "district": 24, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "id": {
-        "bioguide": "S000344", 
-        "cspan": 45124, 
-        "fec": [
-            "H6CA24113"
-        ], 
-        "google_entity_id": "kg:/m/024tkr", 
-        "govtrack": 400371, 
-        "house_history": 21565, 
-        "icpsr": 29707, 
-        "maplight": 462, 
-        "opensecrets": "N00006897", 
-        "thomas": "01526", 
-        "votesmart": 142, 
-        "wikidata": "Q672919", 
-        "wikipedia": "Brad Sherman"
+    {
+      "district": 24, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Brad", 
-        "last": "Sherman", 
-        "middle": "J.", 
-        "official_full": "Brad Sherman"
+    {
+      "district": 24, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "CA", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "63158229861", 
-        "twitter": "BradSherman", 
-        "twitter_id": 30216513, 
-        "youtube": "shermanca27", 
-        "youtube_id": "UCPisrz6-SLwVy2l9Mcy8kug"
+    {
+      "district": 27, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sherman"
     }, 
-    "terms": [
-        {
-            "district": 24, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 24, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 24, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "CA", 
-            "type": "rep"
-        }, 
-        {
-            "district": 27, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sherman"
-        }, 
-        {
-            "district": 27, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://www.house.gov/sherman"
-        }, 
-        {
-            "district": 27, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bradsherman.house.gov"
-        }, 
-        {
-            "district": 27, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bradsherman.house.gov"
-        }, 
-        {
-            "address": "2242 Rayburn HOB; Washington DC 20515-0527", 
-            "contact_form": "http://www.house.gov/sherman/contact/", 
-            "district": 27, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5879", 
-            "office": "2242 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5911", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bradsherman.house.gov"
-        }, 
-        {
-            "address": "2242 Rayburn HOB; Washington DC 20515-0530", 
-            "contact_form": "http://sherman.house.gov/contact/contact-congressman-sherman-form", 
-            "district": 30, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5879", 
-            "office": "2242 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5911", 
-            "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bradsherman.house.gov"
-        }, 
-        {
-            "address": "2242 Rayburn HOB; Washington DC 20515-0530", 
-            "contact_form": "http://sherman.house.gov/contact/contact-congressman-sherman-form", 
-            "district": 30, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5879", 
-            "office": "2242 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5911", 
-            "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://sherman.house.gov"
-        }, 
-        {
-            "address": "2181 Rayburn House Office Building; Washington DC 20515-0530", 
-            "district": 30, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5879", 
-            "office": "2181 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5911", 
-            "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://sherman.house.gov"
-        }
-    ]
+    {
+      "district": 27, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://www.house.gov/sherman"
+    }, 
+    {
+      "district": 27, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bradsherman.house.gov"
+    }, 
+    {
+      "district": 27, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bradsherman.house.gov"
+    }, 
+    {
+      "address": "2242 Rayburn HOB; Washington DC 20515-0527", 
+      "contact_form": "http://www.house.gov/sherman/contact/", 
+      "district": 27, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5879", 
+      "office": "2242 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5911", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bradsherman.house.gov"
+    }, 
+    {
+      "address": "2242 Rayburn HOB; Washington DC 20515-0530", 
+      "contact_form": "http://sherman.house.gov/contact/contact-congressman-sherman-form", 
+      "district": 30, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5879", 
+      "office": "2242 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5911", 
+      "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bradsherman.house.gov"
+    }, 
+    {
+      "address": "2242 Rayburn HOB; Washington DC 20515-0530", 
+      "contact_form": "http://sherman.house.gov/contact/contact-congressman-sherman-form", 
+      "district": 30, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5879", 
+      "office": "2242 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5911", 
+      "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://sherman.house.gov"
+    }, 
+    {
+      "address": "2181 Rayburn House Office Building; Washington DC 20515-0530", 
+      "district": 30, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5879", 
+      "office": "2181 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5911", 
+      "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://sherman.house.gov"
+    }
+  ]
 }

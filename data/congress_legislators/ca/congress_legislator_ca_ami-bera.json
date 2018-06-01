@@ -1,81 +1,82 @@
 {
-    "bio": {
-        "birthday": "1965-03-02", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1965-03-02", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:547", 
+    "ballotpedia": "Ami Bera", 
+    "bioguide": "B001287", 
+    "cspan": 1033636, 
+    "fec": [
+      "H0CA03078"
+    ], 
+    "google_entity_id": "kg:/m/0dgqnts", 
+    "govtrack": 412512, 
+    "icpsr": 21304, 
+    "maplight": 1736, 
+    "opensecrets": "N00030717", 
+    "thomas": "02102", 
+    "votesmart": 120030, 
+    "wikidata": "Q3389105", 
+    "wikipedia": "Ami Bera"
+  }, 
+  "name": {
+    "first": "Ami", 
+    "last": "Bera", 
+    "official_full": "Ami Bera"
+  }, 
+  "social": {
+    "facebook": "RepAmiBera", 
+    "twitter": "RepBera", 
+    "twitter_id": 950783972, 
+    "youtube": "repamibera", 
+    "youtube_id": "UClJCTCo53Zk6b4kUL-bbdzg"
+  }, 
+  "terms": [
+    {
+      "address": "1408 Longworth HOB; Washington DC 20515-0507", 
+      "contact_form": "https://beraforms.house.gov/forms/writeyourrep/", 
+      "district": 7, 
+      "end": "2015-01-03", 
+      "fax": "202-226-1298", 
+      "office": "1408 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5716", 
+      "rss_url": "http://bera.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bera.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Ami Bera", 
-        "bioguide": "B001287", 
-        "cspan": 1033636, 
-        "fec": [
-            "H0CA03078"
-        ], 
-        "google_entity_id": "kg:/m/0dgqnts", 
-        "govtrack": 412512, 
-        "icpsr": 21304, 
-        "maplight": 1736, 
-        "opensecrets": "N00030717", 
-        "thomas": "02102", 
-        "votesmart": 120030, 
-        "wikidata": "Q3389105", 
-        "wikipedia": "Ami Bera"
+    {
+      "address": "1535 Longworth HOB; Washington DC 20515-0507", 
+      "contact_form": "https://beraforms.house.gov/forms/writeyourrep/", 
+      "district": 7, 
+      "end": "2017-01-03", 
+      "fax": "202-226-1298", 
+      "office": "1535 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5716", 
+      "rss_url": "http://bera.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://bera.house.gov"
     }, 
-    "name": {
-        "first": "Ami", 
-        "last": "Bera", 
-        "official_full": "Ami Bera"
-    }, 
-    "social": {
-        "facebook": "RepAmiBera", 
-        "twitter": "RepBera", 
-        "twitter_id": 950783972, 
-        "youtube": "repamibera", 
-        "youtube_id": "UClJCTCo53Zk6b4kUL-bbdzg"
-    }, 
-    "terms": [
-        {
-            "address": "1408 Longworth HOB; Washington DC 20515-0507", 
-            "contact_form": "https://beraforms.house.gov/forms/writeyourrep/", 
-            "district": 7, 
-            "end": "2015-01-03", 
-            "fax": "202-226-1298", 
-            "office": "1408 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5716", 
-            "rss_url": "http://bera.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bera.house.gov"
-        }, 
-        {
-            "address": "1535 Longworth HOB; Washington DC 20515-0507", 
-            "contact_form": "https://beraforms.house.gov/forms/writeyourrep/", 
-            "district": 7, 
-            "end": "2017-01-03", 
-            "fax": "202-226-1298", 
-            "office": "1535 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5716", 
-            "rss_url": "http://bera.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://bera.house.gov"
-        }, 
-        {
-            "address": "1431 Longworth House Office Building; Washington DC 20515-0507", 
-            "district": 7, 
-            "end": "2019-01-03", 
-            "fax": "202-226-1298", 
-            "office": "1431 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5716", 
-            "rss_url": "http://bera.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://bera.house.gov"
-        }
-    ]
+    {
+      "address": "1431 Longworth House Office Building; Washington DC 20515-0507", 
+      "district": 7, 
+      "end": "2019-01-03", 
+      "fax": "202-226-1298", 
+      "office": "1431 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5716", 
+      "rss_url": "http://bera.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://bera.house.gov"
+    }
+  ]
 }

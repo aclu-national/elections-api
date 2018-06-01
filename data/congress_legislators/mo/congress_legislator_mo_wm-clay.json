@@ -1,144 +1,145 @@
 {
-    "bio": {
-        "birthday": "1956-07-27", 
-        "gender": "M", 
-        "religion": "Roman Catholic"
-    }, 
-    "family": [
-        {
-            "name": "William Lacy Clay Sr.", 
-            "relation": "son"
-        }
+  "bio": {
+    "birthday": "1956-07-27", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "family": [
+    {
+      "name": "William Lacy Clay Sr.", 
+      "relation": "son"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:790", 
+    "ballotpedia": "William Lacy Clay", 
+    "bioguide": "C001049", 
+    "cspan": 88332, 
+    "fec": [
+      "H0MO01066"
     ], 
-    "id": {
-        "ballotpedia": "William Lacy Clay", 
-        "bioguide": "C001049", 
-        "cspan": 88332, 
-        "fec": [
-            "H0MO01066"
-        ], 
-        "google_entity_id": "kg:/m/024vjr", 
-        "govtrack": 400074, 
-        "house_history": 11766, 
-        "icpsr": 20147, 
-        "maplight": 191, 
-        "opensecrets": "N00012460", 
-        "thomas": "01654", 
-        "votesmart": 8967, 
-        "wikidata": "Q959455", 
-        "wikipedia": "Lacy Clay"
+    "google_entity_id": "kg:/m/024vjr", 
+    "govtrack": 400074, 
+    "house_history": 11766, 
+    "icpsr": 20147, 
+    "maplight": 191, 
+    "opensecrets": "N00012460", 
+    "thomas": "01654", 
+    "votesmart": 8967, 
+    "wikidata": "Q959455", 
+    "wikipedia": "Lacy Clay"
+  }, 
+  "name": {
+    "first": "Wm.", 
+    "last": "Clay", 
+    "middle": "Lacy", 
+    "official_full": "Wm. Lacy Clay", 
+    "suffix": "Jr."
+  }, 
+  "social": {
+    "facebook": "109135405838588", 
+    "youtube": "WilliamLacyClay", 
+    "youtube_id": "UCB3yVQzlxhx3brOwaWtiXoQ"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "MO", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Wm.", 
-        "last": "Clay", 
-        "middle": "Lacy", 
-        "official_full": "Wm. Lacy Clay", 
-        "suffix": "Jr."
+    {
+      "district": 1, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/clay"
     }, 
-    "social": {
-        "facebook": "109135405838588", 
-        "youtube": "WilliamLacyClay", 
-        "youtube_id": "UCB3yVQzlxhx3brOwaWtiXoQ"
+    {
+      "district": 1, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/clay"
     }, 
-    "terms": [
-        {
-            "district": 1, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "MO", 
-            "type": "rep"
-        }, 
-        {
-            "district": 1, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/clay"
-        }, 
-        {
-            "district": 1, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/clay"
-        }, 
-        {
-            "district": 1, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/clay"
-        }, 
-        {
-            "district": 1, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/clay"
-        }, 
-        {
-            "address": "2418 Rayburn HOB; Washington DC 20515-2501", 
-            "contact_form": "http://lacyclay.house.gov/contact.htm", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-226-3717", 
-            "office": "2418 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2406", 
-            "start": "2011-01-05", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://www.house.gov/clay"
-        }, 
-        {
-            "address": "2418 Rayburn HOB; Washington DC 20515-2501", 
-            "contact_form": "http://lacyclay.house.gov/contact-form/", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-226-3717", 
-            "office": "2418 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2406", 
-            "start": "2013-01-03", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://lacyclay.house.gov"
-        }, 
-        {
-            "address": "2428 Rayburn HOB; Washington DC 20515-2501", 
-            "contact_form": "http://lacyclay.house.gov/contact-form/", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-226-3717", 
-            "office": "2428 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2406", 
-            "start": "2015-01-06", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://lacyclay.house.gov"
-        }, 
-        {
-            "address": "2428 Rayburn House Office Building; Washington DC 20515-2501", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-226-3717", 
-            "office": "2428 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2406", 
-            "start": "2017-01-03", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "https://lacyclay.house.gov"
-        }
-    ]
+    {
+      "district": 1, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/clay"
+    }, 
+    {
+      "district": 1, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/clay"
+    }, 
+    {
+      "address": "2418 Rayburn HOB; Washington DC 20515-2501", 
+      "contact_form": "http://lacyclay.house.gov/contact.htm", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-226-3717", 
+      "office": "2418 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2406", 
+      "start": "2011-01-05", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://www.house.gov/clay"
+    }, 
+    {
+      "address": "2418 Rayburn HOB; Washington DC 20515-2501", 
+      "contact_form": "http://lacyclay.house.gov/contact-form/", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-226-3717", 
+      "office": "2418 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2406", 
+      "start": "2013-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://lacyclay.house.gov"
+    }, 
+    {
+      "address": "2428 Rayburn HOB; Washington DC 20515-2501", 
+      "contact_form": "http://lacyclay.house.gov/contact-form/", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-226-3717", 
+      "office": "2428 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2406", 
+      "start": "2015-01-06", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://lacyclay.house.gov"
+    }, 
+    {
+      "address": "2428 Rayburn House Office Building; Washington DC 20515-2501", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-226-3717", 
+      "office": "2428 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2406", 
+      "start": "2017-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://lacyclay.house.gov"
+    }
+  ]
 }

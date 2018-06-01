@@ -1,95 +1,96 @@
 {
-    "bio": {
-        "birthday": "1970-02-09", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1970-02-09", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:707", 
+    "ballotpedia": "Todd Rokita", 
+    "bioguide": "R000592", 
+    "cspan": 61832, 
+    "fec": [
+      "H0IN04170"
+    ], 
+    "google_entity_id": "kg:/m/0bll9p", 
+    "govtrack": 412426, 
+    "house_history": 20822, 
+    "icpsr": 21131, 
+    "maplight": 1437, 
+    "opensecrets": "N00031741", 
+    "thomas": "02017", 
+    "votesmart": 34167, 
+    "wikidata": "Q1521384", 
+    "wikipedia": "Todd Rokita"
+  }, 
+  "name": {
+    "first": "Todd", 
+    "last": "Rokita", 
+    "official_full": "Todd Rokita"
+  }, 
+  "social": {
+    "facebook": "RepToddRokita", 
+    "instagram": "RepToddRokita", 
+    "twitter": "ToddRokita", 
+    "twitter_id": 17544524, 
+    "youtube": "reptoddrokita", 
+    "youtube_id": "UCl_wYwGYw1AXiUoqNmwLxzA"
+  }, 
+  "terms": [
+    {
+      "address": "236 Cannon HOB; Washington DC 20515-1404", 
+      "district": 4, 
+      "end": "2013-01-03", 
+      "office": "236 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5037", 
+      "start": "2011-01-05", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://rokita.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Todd Rokita", 
-        "bioguide": "R000592", 
-        "cspan": 61832, 
-        "fec": [
-            "H0IN04170"
-        ], 
-        "google_entity_id": "kg:/m/0bll9p", 
-        "govtrack": 412426, 
-        "house_history": 20822, 
-        "icpsr": 21131, 
-        "maplight": 1437, 
-        "opensecrets": "N00031741", 
-        "thomas": "02017", 
-        "votesmart": 34167, 
-        "wikidata": "Q1521384", 
-        "wikipedia": "Todd Rokita"
+    {
+      "address": "236 Cannon HOB; Washington DC 20515-1404", 
+      "contact_form": "https://rokita.house.gov/contact-me", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0544", 
+      "office": "236 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5037", 
+      "rss_url": "http://rokita.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://rokita.house.gov"
     }, 
-    "name": {
-        "first": "Todd", 
-        "last": "Rokita", 
-        "official_full": "Todd Rokita"
+    {
+      "address": "1717 Longworth HOB; Washington DC 20515-1404", 
+      "contact_form": "https://rokita.house.gov/contact-me", 
+      "district": 4, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0544", 
+      "office": "1717 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5037", 
+      "rss_url": "http://rokita.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://rokita.house.gov"
     }, 
-    "social": {
-        "facebook": "RepToddRokita", 
-        "instagram": "RepToddRokita", 
-        "twitter": "ToddRokita", 
-        "twitter_id": 17544524, 
-        "youtube": "reptoddrokita", 
-        "youtube_id": "UCl_wYwGYw1AXiUoqNmwLxzA"
-    }, 
-    "terms": [
-        {
-            "address": "236 Cannon HOB; Washington DC 20515-1404", 
-            "district": 4, 
-            "end": "2013-01-03", 
-            "office": "236 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5037", 
-            "start": "2011-01-05", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://rokita.house.gov/"
-        }, 
-        {
-            "address": "236 Cannon HOB; Washington DC 20515-1404", 
-            "contact_form": "https://rokita.house.gov/contact-me", 
-            "district": 4, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0544", 
-            "office": "236 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5037", 
-            "rss_url": "http://rokita.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://rokita.house.gov"
-        }, 
-        {
-            "address": "1717 Longworth HOB; Washington DC 20515-1404", 
-            "contact_form": "https://rokita.house.gov/contact-me", 
-            "district": 4, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0544", 
-            "office": "1717 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5037", 
-            "rss_url": "http://rokita.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://rokita.house.gov"
-        }, 
-        {
-            "address": "2439 Rayburn House Office Building; Washington DC 20515-1404", 
-            "district": 4, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0544", 
-            "office": "2439 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5037", 
-            "rss_url": "http://rokita.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "IN", 
-            "type": "rep", 
-            "url": "http://rokita.house.gov"
-        }
-    ]
+    {
+      "address": "2439 Rayburn House Office Building; Washington DC 20515-1404", 
+      "district": 4, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0544", 
+      "office": "2439 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5037", 
+      "rss_url": "http://rokita.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "http://rokita.house.gov"
+    }
+  ]
 }

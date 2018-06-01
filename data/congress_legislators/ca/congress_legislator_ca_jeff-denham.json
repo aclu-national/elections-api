@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1967-07-29", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1967-07-29", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:565", 
+    "bioguide": "D000612", 
+    "cspan": 623287, 
+    "fec": [
+      "H0CA19173"
+    ], 
+    "google_entity_id": "kg:/m/02q4gng", 
+    "govtrack": 412403, 
+    "house_history": 12597, 
+    "icpsr": 21109, 
+    "maplight": 1276, 
+    "opensecrets": "N00031593", 
+    "thomas": "01995", 
+    "votesmart": 28769, 
+    "wikidata": "Q1686295", 
+    "wikipedia": "Jeff Denham"
+  }, 
+  "name": {
+    "first": "Jeff", 
+    "last": "Denham", 
+    "official_full": "Jeff Denham"
+  }, 
+  "social": {
+    "facebook": "RepJeffDenham", 
+    "instagram": "repjeffdenham", 
+    "instagram_id": 380008060, 
+    "twitter": "RepJeffDenham", 
+    "twitter_id": 248699486, 
+    "youtube": "repjeffdenham", 
+    "youtube_id": "UCm59PEM_tgTvhm5-wIfnrRg"
+  }, 
+  "terms": [
+    {
+      "address": "1605 Longworth HOB; Washington DC 20515-0519", 
+      "district": 19, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3402", 
+      "office": "1605 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4540", 
+      "start": "2011-01-05", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://denham.house.gov/"
     }, 
-    "id": {
-        "bioguide": "D000612", 
-        "cspan": 623287, 
-        "fec": [
-            "H0CA19173"
-        ], 
-        "google_entity_id": "kg:/m/02q4gng", 
-        "govtrack": 412403, 
-        "house_history": 12597, 
-        "icpsr": 21109, 
-        "maplight": 1276, 
-        "opensecrets": "N00031593", 
-        "thomas": "01995", 
-        "votesmart": 28769, 
-        "wikidata": "Q1686295", 
-        "wikipedia": "Jeff Denham"
+    {
+      "address": "1730 Longworth HOB; Washington DC 20515-0510", 
+      "contact_form": "https://denham.house.gov/contact-me/email-me", 
+      "district": 10, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3402", 
+      "office": "1730 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4540", 
+      "rss_url": "http://denham.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://denham.house.gov"
     }, 
-    "name": {
-        "first": "Jeff", 
-        "last": "Denham", 
-        "official_full": "Jeff Denham"
+    {
+      "address": "1730 Longworth HOB; Washington DC 20515-0510", 
+      "contact_form": "https://denham.house.gov/contact-me/email-me", 
+      "district": 10, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3402", 
+      "office": "1730 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4540", 
+      "rss_url": "http://denham.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://denham.house.gov"
     }, 
-    "social": {
-        "facebook": "RepJeffDenham", 
-        "instagram": "repjeffdenham", 
-        "instagram_id": 380008060, 
-        "twitter": "RepJeffDenham", 
-        "twitter_id": 248699486, 
-        "youtube": "repjeffdenham", 
-        "youtube_id": "UCm59PEM_tgTvhm5-wIfnrRg"
-    }, 
-    "terms": [
-        {
-            "address": "1605 Longworth HOB; Washington DC 20515-0519", 
-            "district": 19, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3402", 
-            "office": "1605 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4540", 
-            "start": "2011-01-05", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://denham.house.gov/"
-        }, 
-        {
-            "address": "1730 Longworth HOB; Washington DC 20515-0510", 
-            "contact_form": "https://denham.house.gov/contact-me/email-me", 
-            "district": 10, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3402", 
-            "office": "1730 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4540", 
-            "rss_url": "http://denham.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://denham.house.gov"
-        }, 
-        {
-            "address": "1730 Longworth HOB; Washington DC 20515-0510", 
-            "contact_form": "https://denham.house.gov/contact-me/email-me", 
-            "district": 10, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3402", 
-            "office": "1730 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4540", 
-            "rss_url": "http://denham.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "http://denham.house.gov"
-        }, 
-        {
-            "address": "1730 Longworth House Office Building; Washington DC 20515-0510", 
-            "district": 10, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3402", 
-            "office": "1730 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4540", 
-            "rss_url": "http://denham.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "CA", 
-            "type": "rep", 
-            "url": "https://denham.house.gov"
-        }
-    ]
+    {
+      "address": "1730 Longworth House Office Building; Washington DC 20515-0510", 
+      "district": 10, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3402", 
+      "office": "1730 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4540", 
+      "rss_url": "http://denham.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://denham.house.gov"
+    }
+  ]
 }

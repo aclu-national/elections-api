@@ -1,78 +1,79 @@
 {
-    "bio": {
-        "birthday": "1955-02-16", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1955-02-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:519", 
+    "ballotpedia": "Bradley Byrne", 
+    "bioguide": "B001289", 
+    "cspan": 73486, 
+    "fec": [
+      "H4AL01123"
+    ], 
+    "google_entity_id": "kg:/m/09g6kty", 
+    "govtrack": 412601, 
+    "icpsr": 21376, 
+    "maplight": 2054, 
+    "opensecrets": "N00035380", 
+    "thomas": "02197", 
+    "votesmart": 27584, 
+    "wikidata": "Q4954892", 
+    "wikipedia": "Bradley Byrne"
+  }, 
+  "name": {
+    "first": "Bradley", 
+    "last": "Byrne", 
+    "official_full": "Bradley Byrne"
+  }, 
+  "social": {
+    "facebook": "RepByrne", 
+    "instagram": "repbyrne", 
+    "instagram_id": 944262792, 
+    "twitter": "RepByrne", 
+    "twitter_id": 2253968388, 
+    "youtube_id": "UCRUXmqQbrKo0T6xi_GT7TEA"
+  }, 
+  "terms": [
+    {
+      "address": "2236 Rayburn HOB; Washington DC 20515-0101", 
+      "contact_form": "https://byrne.house.gov/contact/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "office": "2236 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4931", 
+      "start": "2014-01-08", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "http://byrne.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Bradley Byrne", 
-        "bioguide": "B001289", 
-        "cspan": 73486, 
-        "fec": [
-            "H4AL01123"
-        ], 
-        "google_entity_id": "kg:/m/09g6kty", 
-        "govtrack": 412601, 
-        "icpsr": 21376, 
-        "maplight": 2054, 
-        "opensecrets": "N00035380", 
-        "thomas": "02197", 
-        "votesmart": 27584, 
-        "wikidata": "Q4954892", 
-        "wikipedia": "Bradley Byrne"
+    {
+      "address": "119 Cannon HOB; Washington DC 20515-0101", 
+      "contact_form": "https://byrne.house.gov/contact/email-me", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0562", 
+      "office": "119 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4931", 
+      "start": "2015-01-06", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "https://byrne.house.gov"
     }, 
-    "name": {
-        "first": "Bradley", 
-        "last": "Byrne", 
-        "official_full": "Bradley Byrne"
-    }, 
-    "social": {
-        "facebook": "RepByrne", 
-        "instagram": "repbyrne", 
-        "instagram_id": 944262792, 
-        "twitter": "RepByrne", 
-        "twitter_id": 2253968388, 
-        "youtube_id": "UCRUXmqQbrKo0T6xi_GT7TEA"
-    }, 
-    "terms": [
-        {
-            "address": "2236 Rayburn HOB; Washington DC 20515-0101", 
-            "contact_form": "https://byrne.house.gov/contact/email-me", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "office": "2236 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4931", 
-            "start": "2014-01-08", 
-            "state": "AL", 
-            "type": "rep", 
-            "url": "http://byrne.house.gov"
-        }, 
-        {
-            "address": "119 Cannon HOB; Washington DC 20515-0101", 
-            "contact_form": "https://byrne.house.gov/contact/email-me", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0562", 
-            "office": "119 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4931", 
-            "start": "2015-01-06", 
-            "state": "AL", 
-            "type": "rep", 
-            "url": "https://byrne.house.gov"
-        }, 
-        {
-            "address": "119 Cannon House Office Building; Washington DC 20515-0101", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0562", 
-            "office": "119 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4931", 
-            "start": "2017-01-03", 
-            "state": "AL", 
-            "type": "rep", 
-            "url": "https://byrne.house.gov"
-        }
-    ]
+    {
+      "address": "119 Cannon House Office Building; Washington DC 20515-0101", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0562", 
+      "office": "119 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4931", 
+      "start": "2017-01-03", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "https://byrne.house.gov"
+    }
+  ]
 }

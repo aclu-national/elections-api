@@ -1,63 +1,64 @@
 {
-    "bio": {
-        "birthday": "1978-10-24", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1978-10-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:740", 
+    "ballotpedia": "Seth Moulton", 
+    "bioguide": "M001196", 
+    "cspan": 78453, 
+    "fec": [
+      "H4MA06090"
+    ], 
+    "google_entity_id": "kg:/m/0sgh587", 
+    "govtrack": 412632, 
+    "icpsr": 21525, 
+    "maplight": 2088, 
+    "opensecrets": "N00035431", 
+    "thomas": "02246", 
+    "votesmart": 146299, 
+    "wikidata": "Q18045052", 
+    "wikipedia": "Seth Moulton"
+  }, 
+  "name": {
+    "first": "Seth", 
+    "last": "Moulton", 
+    "official_full": "Seth Moulton"
+  }, 
+  "social": {
+    "facebook": "CongressmanSethMoulton", 
+    "instagram": "repmoulton", 
+    "twitter": "teammoulton", 
+    "twitter_id": 3091316093, 
+    "youtube_id": "UC5w5qn7nj5Ljy69LTV7a_fQ"
+  }, 
+  "terms": [
+    {
+      "address": "1408 Longworth HOB; Washington DC 20515-2106", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5915", 
+      "office": "1408 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8020", 
+      "start": "2015-01-06", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://moulton.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Seth Moulton", 
-        "bioguide": "M001196", 
-        "cspan": 78453, 
-        "fec": [
-            "H4MA06090"
-        ], 
-        "google_entity_id": "kg:/m/0sgh587", 
-        "govtrack": 412632, 
-        "icpsr": 21525, 
-        "maplight": 2088, 
-        "opensecrets": "N00035431", 
-        "thomas": "02246", 
-        "votesmart": 146299, 
-        "wikidata": "Q18045052", 
-        "wikipedia": "Seth Moulton"
-    }, 
-    "name": {
-        "first": "Seth", 
-        "last": "Moulton", 
-        "official_full": "Seth Moulton"
-    }, 
-    "social": {
-        "facebook": "CongressmanSethMoulton", 
-        "instagram": "repmoulton", 
-        "twitter": "teammoulton", 
-        "twitter_id": 3091316093, 
-        "youtube_id": "UC5w5qn7nj5Ljy69LTV7a_fQ"
-    }, 
-    "terms": [
-        {
-            "address": "1408 Longworth HOB; Washington DC 20515-2106", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5915", 
-            "office": "1408 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8020", 
-            "start": "2015-01-06", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "https://moulton.house.gov"
-        }, 
-        {
-            "address": "1408 Longworth House Office Building; Washington DC 20515-2106", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5915", 
-            "office": "1408 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-8020", 
-            "start": "2017-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "https://moulton.house.gov"
-        }
-    ]
+    {
+      "address": "1408 Longworth House Office Building; Washington DC 20515-2106", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5915", 
+      "office": "1408 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8020", 
+      "start": "2017-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://moulton.house.gov"
+    }
+  ]
 }

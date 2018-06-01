@@ -1,181 +1,182 @@
 {
-    "bio": {
-        "birthday": "1940-07-21", 
-        "gender": "M", 
-        "religion": "African Methodist Episcopal"
-    }, 
-    "family": [
-        {
-            "name": "George Washington Murray", 
-            "relation": "relative"
-        }
+  "bio": {
+    "birthday": "1940-07-21", 
+    "gender": "M", 
+    "religion": "African Methodist Episcopal"
+  }, 
+  "family": [
+    {
+      "name": "George Washington Murray", 
+      "relation": "relative"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:931", 
+    "ballotpedia": "James E. Clyburn", 
+    "bioguide": "C000537", 
+    "cspan": 21607, 
+    "fec": [
+      "H2SC02042"
     ], 
-    "id": {
-        "ballotpedia": "James E. Clyburn", 
-        "bioguide": "C000537", 
-        "cspan": 21607, 
-        "fec": [
-            "H2SC02042"
-        ], 
-        "google_entity_id": "kg:/m/03c469", 
-        "govtrack": 400075, 
-        "house_history": 11119, 
-        "icpsr": 39301, 
-        "maplight": 192, 
-        "opensecrets": "N00002408", 
-        "thomas": "00208", 
-        "votesmart": 27066, 
-        "wikidata": "Q1289889", 
-        "wikipedia": "Jim Clyburn"
+    "google_entity_id": "kg:/m/03c469", 
+    "govtrack": 400075, 
+    "house_history": 11119, 
+    "icpsr": 39301, 
+    "maplight": 192, 
+    "opensecrets": "N00002408", 
+    "thomas": "00208", 
+    "votesmart": 27066, 
+    "wikidata": "Q1289889", 
+    "wikipedia": "Jim Clyburn"
+  }, 
+  "name": {
+    "first": "James", 
+    "last": "Clyburn", 
+    "middle": "E.", 
+    "nickname": "Jim", 
+    "official_full": "James E. Clyburn"
+  }, 
+  "social": {
+    "facebook": "jameseclyburn", 
+    "twitter": "Clyburn", 
+    "twitter_id": 188019606, 
+    "youtube": "repjamesclyburn", 
+    "youtube_id": "UCIyU_UA_JEa14gvAwhquKqg"
+  }, 
+  "terms": [
+    {
+      "district": 6, 
+      "end": "1995-01-03", 
+      "party": "Democrat", 
+      "start": "1993-01-05", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "James", 
-        "last": "Clyburn", 
-        "middle": "E.", 
-        "nickname": "Jim", 
-        "official_full": "James E. Clyburn"
+    {
+      "district": 6, 
+      "end": "1997-01-03", 
+      "party": "Democrat", 
+      "start": "1995-01-04", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "jameseclyburn", 
-        "twitter": "Clyburn", 
-        "twitter_id": 188019606, 
-        "youtube": "repjamesclyburn", 
-        "youtube_id": "UCIyU_UA_JEa14gvAwhquKqg"
+    {
+      "district": 6, 
+      "end": "1999-01-03", 
+      "party": "Democrat", 
+      "start": "1997-01-07", 
+      "state": "SC", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "district": 6, 
-            "end": "1995-01-03", 
-            "party": "Democrat", 
-            "start": "1993-01-05", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1997-01-03", 
-            "party": "Democrat", 
-            "start": "1995-01-04", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "1999-01-03", 
-            "party": "Democrat", 
-            "start": "1997-01-07", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "2001-01-03", 
-            "party": "Democrat", 
-            "start": "1999-01-06", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "2003-01-03", 
-            "party": "Democrat", 
-            "start": "2001-01-03", 
-            "state": "SC", 
-            "type": "rep"
-        }, 
-        {
-            "district": 6, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://www.house.gov/clyburn"
-        }, 
-        {
-            "district": 6, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://www.house.gov/clyburn"
-        }, 
-        {
-            "district": 6, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://clyburn.house.gov"
-        }, 
-        {
-            "district": 6, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://clyburn.house.gov"
-        }, 
-        {
-            "address": "2135 Rayburn HOB; Washington DC 20515-4006", 
-            "contact_form": "http://clyburn.house.gov/contact.cfm", 
-            "district": 6, 
-            "end": "2013-01-03", 
-            "fax": "202-225-2313", 
-            "office": "2135 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3315", 
-            "start": "2011-01-05", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://clyburn.house.gov"
-        }, 
-        {
-            "address": "242 Cannon HOB; Washington DC 20515-4006", 
-            "contact_form": "https://clyburn.house.gov/contact-me/email-me", 
-            "district": 6, 
-            "end": "2015-01-03", 
-            "fax": "202-225-2313", 
-            "office": "242 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3315", 
-            "rss_url": "http://clyburn.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://clyburn.house.gov"
-        }, 
-        {
-            "address": "242 Cannon HOB; Washington DC 20515-4006", 
-            "contact_form": "https://clyburn.house.gov/contact-me/email-me", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "202-225-2313", 
-            "office": "242 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3315", 
-            "rss_url": "http://clyburn.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "http://clyburn.house.gov"
-        }, 
-        {
-            "address": "242 Cannon House Office Building; Washington DC 20515-4006", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "202-225-2313", 
-            "office": "242 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-3315", 
-            "rss_url": "http://clyburn.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "SC", 
-            "type": "rep", 
-            "url": "https://clyburn.house.gov"
-        }
-    ]
+    {
+      "district": 6, 
+      "end": "2001-01-03", 
+      "party": "Democrat", 
+      "start": "1999-01-06", 
+      "state": "SC", 
+      "type": "rep"
+    }, 
+    {
+      "district": 6, 
+      "end": "2003-01-03", 
+      "party": "Democrat", 
+      "start": "2001-01-03", 
+      "state": "SC", 
+      "type": "rep"
+    }, 
+    {
+      "district": 6, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://www.house.gov/clyburn"
+    }, 
+    {
+      "district": 6, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://www.house.gov/clyburn"
+    }, 
+    {
+      "district": 6, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://clyburn.house.gov"
+    }, 
+    {
+      "district": 6, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://clyburn.house.gov"
+    }, 
+    {
+      "address": "2135 Rayburn HOB; Washington DC 20515-4006", 
+      "contact_form": "http://clyburn.house.gov/contact.cfm", 
+      "district": 6, 
+      "end": "2013-01-03", 
+      "fax": "202-225-2313", 
+      "office": "2135 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3315", 
+      "start": "2011-01-05", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://clyburn.house.gov"
+    }, 
+    {
+      "address": "242 Cannon HOB; Washington DC 20515-4006", 
+      "contact_form": "https://clyburn.house.gov/contact-me/email-me", 
+      "district": 6, 
+      "end": "2015-01-03", 
+      "fax": "202-225-2313", 
+      "office": "242 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3315", 
+      "rss_url": "http://clyburn.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://clyburn.house.gov"
+    }, 
+    {
+      "address": "242 Cannon HOB; Washington DC 20515-4006", 
+      "contact_form": "https://clyburn.house.gov/contact-me/email-me", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "202-225-2313", 
+      "office": "242 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3315", 
+      "rss_url": "http://clyburn.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "http://clyburn.house.gov"
+    }, 
+    {
+      "address": "242 Cannon House Office Building; Washington DC 20515-4006", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "202-225-2313", 
+      "office": "242 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3315", 
+      "rss_url": "http://clyburn.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://clyburn.house.gov"
+    }
+  ]
 }

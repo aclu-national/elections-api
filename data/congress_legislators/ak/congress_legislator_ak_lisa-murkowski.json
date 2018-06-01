@@ -1,98 +1,99 @@
 {
-    "bio": {
-        "birthday": "1957-05-22", 
-        "gender": "F", 
-        "religion": "Roman Catholic"
-    }, 
-    "family": [
-        {
-            "name": "Frank Hughes Murkowski", 
-            "relation": "daughter"
-        }
+  "bio": {
+    "birthday": "1957-05-22", 
+    "gender": "F", 
+    "religion": "Roman Catholic"
+  }, 
+  "family": [
+    {
+      "name": "Frank Hughes Murkowski", 
+      "relation": "daughter"
+    }
+  ], 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:518", 
+    "ballotpedia": "Lisa Murkowski", 
+    "bioguide": "M001153", 
+    "cspan": 1004138, 
+    "fec": [
+      "S4AK00099"
     ], 
-    "id": {
-        "ballotpedia": "Lisa Murkowski", 
-        "bioguide": "M001153", 
-        "cspan": 1004138, 
-        "fec": [
-            "S4AK00099"
-        ], 
-        "google_entity_id": "kg:/m/0202kt", 
-        "govtrack": 300075, 
-        "house_history": 18778, 
-        "icpsr": 40300, 
-        "lis": "S288", 
-        "maplight": 595, 
-        "opensecrets": "N00026050", 
-        "thomas": "01694", 
-        "votesmart": 15841, 
-        "wikidata": "Q22360", 
-        "wikipedia": "Lisa Murkowski"
+    "google_entity_id": "kg:/m/0202kt", 
+    "govtrack": 300075, 
+    "house_history": 18778, 
+    "icpsr": 40300, 
+    "lis": "S288", 
+    "maplight": 595, 
+    "opensecrets": "N00026050", 
+    "thomas": "01694", 
+    "votesmart": 15841, 
+    "wikidata": "Q22360", 
+    "wikipedia": "Lisa Murkowski"
+  }, 
+  "name": {
+    "first": "Lisa", 
+    "last": "Murkowski", 
+    "middle": "A.", 
+    "official_full": "Lisa Murkowski"
+  }, 
+  "social": {
+    "facebook": "SenLisaMurkowski", 
+    "instagram": "senlisamurkowski", 
+    "twitter": "LisaMurkowski", 
+    "twitter_id": 18061669, 
+    "youtube": "senatormurkowski", 
+    "youtube_id": "UCaigku16AErqvD0wRuwGb9A"
+  }, 
+  "terms": [
+    {
+      "class": 3, 
+      "end": "2005-01-03", 
+      "party": "Republican", 
+      "start": "2003-01-07", 
+      "state": "AK", 
+      "type": "sen", 
+      "url": "http://murkowski.senate.gov/"
     }, 
-    "name": {
-        "first": "Lisa", 
-        "last": "Murkowski", 
-        "middle": "A.", 
-        "official_full": "Lisa Murkowski"
+    {
+      "class": 3, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2005-01-04", 
+      "state": "AK", 
+      "type": "sen", 
+      "url": "http://murkowski.senate.gov/"
     }, 
-    "social": {
-        "facebook": "SenLisaMurkowski", 
-        "instagram": "senlisamurkowski", 
-        "twitter": "LisaMurkowski", 
-        "twitter_id": 18061669, 
-        "youtube": "senatormurkowski", 
-        "youtube_id": "UCaigku16AErqvD0wRuwGb9A"
+    {
+      "address": "709 Hart Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.murkowski.senate.gov/public/index.cfm?p=EMailLisa", 
+      "end": "2017-01-03", 
+      "fax": "202-224-5301", 
+      "office": "709 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6665", 
+      "rss_url": "http://www.murkowski.senate.gov/public/?a=rss.feed", 
+      "start": "2011-01-05", 
+      "state": "AK", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.murkowski.senate.gov"
     }, 
-    "terms": [
-        {
-            "class": 3, 
-            "end": "2005-01-03", 
-            "party": "Republican", 
-            "start": "2003-01-07", 
-            "state": "AK", 
-            "type": "sen", 
-            "url": "http://murkowski.senate.gov/"
-        }, 
-        {
-            "class": 3, 
-            "end": "2011-01-03", 
-            "party": "Republican", 
-            "start": "2005-01-04", 
-            "state": "AK", 
-            "type": "sen", 
-            "url": "http://murkowski.senate.gov/"
-        }, 
-        {
-            "address": "709 Hart Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.murkowski.senate.gov/public/index.cfm?p=EMailLisa", 
-            "end": "2017-01-03", 
-            "fax": "202-224-5301", 
-            "office": "709 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6665", 
-            "rss_url": "http://www.murkowski.senate.gov/public/?a=rss.feed", 
-            "start": "2011-01-05", 
-            "state": "AK", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.murkowski.senate.gov"
-        }, 
-        {
-            "address": "522 Hart Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.murkowski.senate.gov/public/index.cfm/contact", 
-            "end": "2023-01-03", 
-            "fax": "202-224-5301", 
-            "office": "522 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-6665", 
-            "rss_url": "http://www.murkowski.senate.gov/public/?a=rss.feed", 
-            "start": "2017-01-03", 
-            "state": "AK", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.murkowski.senate.gov"
-        }
-    ]
+    {
+      "address": "522 Hart Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.murkowski.senate.gov/public/index.cfm/contact", 
+      "end": "2023-01-03", 
+      "fax": "202-224-5301", 
+      "office": "522 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6665", 
+      "rss_url": "http://www.murkowski.senate.gov/public/?a=rss.feed", 
+      "start": "2017-01-03", 
+      "state": "AK", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.murkowski.senate.gov"
+    }
+  ]
 }

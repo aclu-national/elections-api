@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1968-04-17", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1968-04-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:803", 
+    "ballotpedia": "George E.B. Holding", 
+    "bioguide": "H001065", 
+    "cspan": 623728, 
+    "fec": [
+      "H2NC13110"
+    ], 
+    "google_entity_id": "kg:/m/0hgp6py", 
+    "govtrack": 412553, 
+    "icpsr": 21349, 
+    "maplight": 1777, 
+    "opensecrets": "N00033399", 
+    "thomas": "02143", 
+    "votesmart": 136462, 
+    "wikidata": "Q3956828", 
+    "wikipedia": "George Holding"
+  }, 
+  "name": {
+    "first": "George", 
+    "last": "Holding", 
+    "official_full": "George Holding"
+  }, 
+  "social": {
+    "facebook": "CongressmanGeorgeHolding", 
+    "instagram": "repholding", 
+    "twitter": "RepHolding", 
+    "twitter_id": 1058460818, 
+    "youtube": "repholding", 
+    "youtube_id": "UCx6IgBfJmIhXSXymnPr78hw"
+  }, 
+  "terms": [
+    {
+      "address": "507 Cannon HOB; Washington DC 20515-3313", 
+      "contact_form": "https://holding.house.gov/contact/email-me", 
+      "district": 13, 
+      "end": "2015-01-03", 
+      "fax": "919-782-4490", 
+      "office": "507 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3032", 
+      "rss_url": "http://holding.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://holding.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "George E.B. Holding", 
-        "bioguide": "H001065", 
-        "cspan": 623728, 
-        "fec": [
-            "H2NC13110"
-        ], 
-        "google_entity_id": "kg:/m/0hgp6py", 
-        "govtrack": 412553, 
-        "icpsr": 21349, 
-        "maplight": 1777, 
-        "opensecrets": "N00033399", 
-        "thomas": "02143", 
-        "votesmart": 136462, 
-        "wikidata": "Q3956828", 
-        "wikipedia": "George Holding"
+    {
+      "address": "507 Cannon HOB; Washington DC 20515-3313", 
+      "contact_form": "https://holding.house.gov/contact/email-me", 
+      "district": 13, 
+      "end": "2017-01-03", 
+      "fax": "919-782-4490", 
+      "office": "507 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3032", 
+      "rss_url": "http://holding.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "http://holding.house.gov"
     }, 
-    "name": {
-        "first": "George", 
-        "last": "Holding", 
-        "official_full": "George Holding"
-    }, 
-    "social": {
-        "facebook": "CongressmanGeorgeHolding", 
-        "instagram": "repholding", 
-        "twitter": "RepHolding", 
-        "twitter_id": 1058460818, 
-        "youtube": "repholding", 
-        "youtube_id": "UCx6IgBfJmIhXSXymnPr78hw"
-    }, 
-    "terms": [
-        {
-            "address": "507 Cannon HOB; Washington DC 20515-3313", 
-            "contact_form": "https://holding.house.gov/contact/email-me", 
-            "district": 13, 
-            "end": "2015-01-03", 
-            "fax": "919-782-4490", 
-            "office": "507 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3032", 
-            "rss_url": "http://holding.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://holding.house.gov"
-        }, 
-        {
-            "address": "507 Cannon HOB; Washington DC 20515-3313", 
-            "contact_form": "https://holding.house.gov/contact/email-me", 
-            "district": 13, 
-            "end": "2017-01-03", 
-            "fax": "919-782-4490", 
-            "office": "507 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3032", 
-            "rss_url": "http://holding.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "http://holding.house.gov"
-        }, 
-        {
-            "address": "1110 Longworth House Office Building; Washington DC 20515-3302", 
-            "district": 2, 
-            "end": "2019-01-03", 
-            "fax": "919-782-4490", 
-            "office": "1110 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3032", 
-            "rss_url": "http://holding.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "NC", 
-            "type": "rep", 
-            "url": "https://holding.house.gov"
-        }
-    ]
+    {
+      "address": "1110 Longworth House Office Building; Washington DC 20515-3302", 
+      "district": 2, 
+      "end": "2019-01-03", 
+      "fax": "919-782-4490", 
+      "office": "1110 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3032", 
+      "rss_url": "http://holding.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://holding.house.gov"
+    }
+  ]
 }

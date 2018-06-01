@@ -1,53 +1,54 @@
 {
-    "bio": {
-        "birthday": "1970-07-01", 
-        "gender": "F"
-    }, 
-    "id": {
-        "bioguide": "E000295", 
-        "cspan": 75342, 
-        "fec": [
-            "S4IA00129"
-        ], 
-        "google_entity_id": "kg:/m/0gg4wkg", 
-        "govtrack": 412667, 
-        "house_history": 15032414877, 
-        "icpsr": 41502, 
-        "lis": "S376", 
-        "maplight": 2123, 
-        "opensecrets": "N00035483", 
-        "thomas": "02283", 
-        "votesmart": 128583, 
-        "wikidata": "Q13475242", 
-        "wikipedia": "Joni Ernst"
-    }, 
-    "name": {
-        "first": "Joni", 
-        "last": "Ernst", 
-        "official_full": "Joni Ernst"
-    }, 
-    "social": {
-        "facebook": "senjoniernst", 
-        "instagram": "senjoniernst", 
-        "instagram_id": 1582702853, 
-        "twitter": "SenJoniErnst", 
-        "twitter_id": 2856787757, 
-        "youtube_id": "UCLwrmtF_84FIcK3TyMs4MIw"
-    }, 
-    "terms": [
-        {
-            "address": "111 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.ernst.senate.gov/public/index.cfm/contact", 
-            "end": "2021-01-03", 
-            "office": "111 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-3254", 
-            "start": "2015-01-06", 
-            "state": "IA", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.ernst.senate.gov/public"
-        }
-    ]
+  "bio": {
+    "birthday": "1970-07-01", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:672", 
+    "bioguide": "E000295", 
+    "cspan": 75342, 
+    "fec": [
+      "S4IA00129"
+    ], 
+    "google_entity_id": "kg:/m/0gg4wkg", 
+    "govtrack": 412667, 
+    "house_history": 15032414877, 
+    "icpsr": 41502, 
+    "lis": "S376", 
+    "maplight": 2123, 
+    "opensecrets": "N00035483", 
+    "thomas": "02283", 
+    "votesmart": 128583, 
+    "wikidata": "Q13475242", 
+    "wikipedia": "Joni Ernst"
+  }, 
+  "name": {
+    "first": "Joni", 
+    "last": "Ernst", 
+    "official_full": "Joni Ernst"
+  }, 
+  "social": {
+    "facebook": "senjoniernst", 
+    "instagram": "senjoniernst", 
+    "instagram_id": 1582702853, 
+    "twitter": "SenJoniErnst", 
+    "twitter_id": 2856787757, 
+    "youtube_id": "UCLwrmtF_84FIcK3TyMs4MIw"
+  }, 
+  "terms": [
+    {
+      "address": "111 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.ernst.senate.gov/public/index.cfm/contact", 
+      "end": "2021-01-03", 
+      "office": "111 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3254", 
+      "start": "2015-01-06", 
+      "state": "IA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.ernst.senate.gov/public"
+    }
+  ]
 }

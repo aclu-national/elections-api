@@ -1,148 +1,149 @@
 {
-    "bio": {
-        "birthday": "1941-09-08", 
-        "gender": "M", 
-        "religion": "Jewish"
+  "bio": {
+    "birthday": "1941-09-08", 
+    "gender": "M", 
+    "religion": "Jewish"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1010", 
+    "ballotpedia": "Bernie Sanders", 
+    "bioguide": "S000033", 
+    "cspan": 994, 
+    "fec": [
+      "H8VT01016", 
+      "S4VT00033"
+    ], 
+    "google_entity_id": "kg:/m/01_gbv", 
+    "govtrack": 400357, 
+    "house_history": 21173, 
+    "icpsr": 29147, 
+    "lis": "S313", 
+    "maplight": 450, 
+    "opensecrets": "N00000528", 
+    "thomas": "01010", 
+    "votesmart": 27110, 
+    "wikidata": "Q359442", 
+    "wikipedia": "Bernie Sanders"
+  }, 
+  "name": {
+    "first": "Bernard", 
+    "last": "Sanders", 
+    "nickname": "Bernie", 
+    "official_full": "Bernard Sanders"
+  }, 
+  "social": {
+    "facebook": "senatorsanders", 
+    "twitter": "SenSanders", 
+    "twitter_id": 29442313, 
+    "youtube": "senatorsanders", 
+    "youtube_id": "UCD_DaKNac0Ta-2PeHuoQ1uA"
+  }, 
+  "terms": [
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "1993-01-03", 
+      "party": "Independent", 
+      "start": "1991-01-03", 
+      "state": "VT", 
+      "type": "rep"
     }, 
-    "id": {
-        "ballotpedia": "Bernie Sanders", 
-        "bioguide": "S000033", 
-        "cspan": 994, 
-        "fec": [
-            "H8VT01016", 
-            "S4VT00033"
-        ], 
-        "google_entity_id": "kg:/m/01_gbv", 
-        "govtrack": 400357, 
-        "house_history": 21173, 
-        "icpsr": 29147, 
-        "lis": "S313", 
-        "maplight": 450, 
-        "opensecrets": "N00000528", 
-        "thomas": "01010", 
-        "votesmart": 27110, 
-        "wikidata": "Q359442", 
-        "wikipedia": "Bernie Sanders"
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "1995-01-03", 
+      "party": "Independent", 
+      "start": "1993-01-05", 
+      "state": "VT", 
+      "type": "rep"
     }, 
-    "name": {
-        "first": "Bernard", 
-        "last": "Sanders", 
-        "nickname": "Bernie", 
-        "official_full": "Bernard Sanders"
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "1997-01-03", 
+      "party": "Independent", 
+      "start": "1995-01-04", 
+      "state": "VT", 
+      "type": "rep"
     }, 
-    "social": {
-        "facebook": "senatorsanders", 
-        "twitter": "SenSanders", 
-        "twitter_id": 29442313, 
-        "youtube": "senatorsanders", 
-        "youtube_id": "UCD_DaKNac0Ta-2PeHuoQ1uA"
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "1999-01-03", 
+      "party": "Independent", 
+      "start": "1997-01-07", 
+      "state": "VT", 
+      "type": "rep"
     }, 
-    "terms": [
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "1993-01-03", 
-            "party": "Independent", 
-            "start": "1991-01-03", 
-            "state": "VT", 
-            "type": "rep"
-        }, 
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "1995-01-03", 
-            "party": "Independent", 
-            "start": "1993-01-05", 
-            "state": "VT", 
-            "type": "rep"
-        }, 
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "1997-01-03", 
-            "party": "Independent", 
-            "start": "1995-01-04", 
-            "state": "VT", 
-            "type": "rep"
-        }, 
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "1999-01-03", 
-            "party": "Independent", 
-            "start": "1997-01-07", 
-            "state": "VT", 
-            "type": "rep"
-        }, 
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "2001-01-03", 
-            "party": "Independent", 
-            "start": "1999-01-06", 
-            "state": "VT", 
-            "type": "rep"
-        }, 
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "2003-01-03", 
-            "party": "Independent", 
-            "start": "2001-01-03", 
-            "state": "VT", 
-            "type": "rep"
-        }, 
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "2005-01-03", 
-            "party": "Independent", 
-            "start": "2003-01-07", 
-            "state": "VT", 
-            "type": "rep", 
-            "url": "http://bernie.house.gov"
-        }, 
-        {
-            "caucus": "Democrat", 
-            "district": 0, 
-            "end": "2007-01-03", 
-            "party": "Independent", 
-            "start": "2005-01-04", 
-            "state": "VT", 
-            "type": "rep", 
-            "url": "http://bernie.house.gov"
-        }, 
-        {
-            "address": "332 DIRKSEN SENATE OFFICE BUILDING WASHINGTON DC 20510", 
-            "caucus": "Democrat", 
-            "class": 1, 
-            "contact_form": "http://www.sanders.senate.gov/contact/", 
-            "end": "2013-01-03", 
-            "fax": "202-228-0776", 
-            "office": "332 Dirksen Senate Office Building", 
-            "party": "Independent", 
-            "phone": "202-224-5141", 
-            "start": "2007-01-04", 
-            "state": "VT", 
-            "type": "sen", 
-            "url": "http://sanders.senate.gov/"
-        }, 
-        {
-            "address": "332 Dirksen Senate Office Building Washington DC 20510", 
-            "caucus": "Democrat", 
-            "class": 1, 
-            "contact_form": "http://www.sanders.senate.gov/contact/", 
-            "end": "2019-01-03", 
-            "fax": "202-228-0776", 
-            "office": "332 Dirksen Senate Office Building", 
-            "party": "Independent", 
-            "phone": "202-224-5141", 
-            "rss_url": "http://www.sanders.senate.gov/rss/", 
-            "start": "2013-01-03", 
-            "state": "VT", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.sanders.senate.gov"
-        }
-    ]
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "2001-01-03", 
+      "party": "Independent", 
+      "start": "1999-01-06", 
+      "state": "VT", 
+      "type": "rep"
+    }, 
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "2003-01-03", 
+      "party": "Independent", 
+      "start": "2001-01-03", 
+      "state": "VT", 
+      "type": "rep"
+    }, 
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "2005-01-03", 
+      "party": "Independent", 
+      "start": "2003-01-07", 
+      "state": "VT", 
+      "type": "rep", 
+      "url": "http://bernie.house.gov"
+    }, 
+    {
+      "caucus": "Democrat", 
+      "district": 0, 
+      "end": "2007-01-03", 
+      "party": "Independent", 
+      "start": "2005-01-04", 
+      "state": "VT", 
+      "type": "rep", 
+      "url": "http://bernie.house.gov"
+    }, 
+    {
+      "address": "332 DIRKSEN SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "caucus": "Democrat", 
+      "class": 1, 
+      "contact_form": "http://www.sanders.senate.gov/contact/", 
+      "end": "2013-01-03", 
+      "fax": "202-228-0776", 
+      "office": "332 Dirksen Senate Office Building", 
+      "party": "Independent", 
+      "phone": "202-224-5141", 
+      "start": "2007-01-04", 
+      "state": "VT", 
+      "type": "sen", 
+      "url": "http://sanders.senate.gov/"
+    }, 
+    {
+      "address": "332 Dirksen Senate Office Building Washington DC 20510", 
+      "caucus": "Democrat", 
+      "class": 1, 
+      "contact_form": "http://www.sanders.senate.gov/contact/", 
+      "end": "2019-01-03", 
+      "fax": "202-228-0776", 
+      "office": "332 Dirksen Senate Office Building", 
+      "party": "Independent", 
+      "phone": "202-224-5141", 
+      "rss_url": "http://www.sanders.senate.gov/rss/", 
+      "start": "2013-01-03", 
+      "state": "VT", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.sanders.senate.gov"
+    }
+  ]
 }

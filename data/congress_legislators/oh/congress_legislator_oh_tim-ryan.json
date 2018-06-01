@@ -1,134 +1,135 @@
 {
-    "bio": {
-        "birthday": "1973-07-16", 
-        "gender": "M", 
-        "religion": "Roman Catholic"
+  "bio": {
+    "birthday": "1973-07-16", 
+    "gender": "M", 
+    "religion": "Roman Catholic"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:894", 
+    "ballotpedia": "Tim Ryan (Ohio)", 
+    "bioguide": "R000577", 
+    "cspan": 1003608, 
+    "fec": [
+      "H2OH17109"
+    ], 
+    "google_entity_id": "kg:/m/039tr9", 
+    "govtrack": 400352, 
+    "house_history": 20799, 
+    "icpsr": 20343, 
+    "maplight": 444, 
+    "opensecrets": "N00025280", 
+    "thomas": "01756", 
+    "votesmart": 45638, 
+    "wikidata": "Q513960", 
+    "wikipedia": "Tim Ryan (politician)"
+  }, 
+  "name": {
+    "first": "Tim", 
+    "last": "Ryan", 
+    "middle": "J.", 
+    "official_full": "Tim Ryan"
+  }, 
+  "social": {
+    "facebook": "timryan", 
+    "twitter": "RepTimRyan", 
+    "twitter_id": 13491312, 
+    "youtube": "timryanvision", 
+    "youtube_id": "UCjAFlYCheFKjGg_Pxc2VOFA"
+  }, 
+  "terms": [
+    {
+      "district": 17, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://www.house.gov/timryan"
     }, 
-    "id": {
-        "ballotpedia": "Tim Ryan (Ohio)", 
-        "bioguide": "R000577", 
-        "cspan": 1003608, 
-        "fec": [
-            "H2OH17109"
-        ], 
-        "google_entity_id": "kg:/m/039tr9", 
-        "govtrack": 400352, 
-        "house_history": 20799, 
-        "icpsr": 20343, 
-        "maplight": 444, 
-        "opensecrets": "N00025280", 
-        "thomas": "01756", 
-        "votesmart": 45638, 
-        "wikidata": "Q513960", 
-        "wikipedia": "Tim Ryan (politician)"
+    {
+      "district": 17, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://www.house.gov/timryan"
     }, 
-    "name": {
-        "first": "Tim", 
-        "last": "Ryan", 
-        "middle": "J.", 
-        "official_full": "Tim Ryan"
+    {
+      "district": 17, 
+      "end": "2009-01-03", 
+      "party": "Democrat", 
+      "start": "2007-01-04", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://timryan.house.gov"
     }, 
-    "social": {
-        "facebook": "timryan", 
-        "twitter": "RepTimRyan", 
-        "twitter_id": 13491312, 
-        "youtube": "timryanvision", 
-        "youtube_id": "UCjAFlYCheFKjGg_Pxc2VOFA"
+    {
+      "district": 17, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://timryan.house.gov"
     }, 
-    "terms": [
-        {
-            "district": 17, 
-            "end": "2005-01-03", 
-            "party": "Democrat", 
-            "start": "2003-01-07", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://www.house.gov/timryan"
-        }, 
-        {
-            "district": 17, 
-            "end": "2007-01-03", 
-            "party": "Democrat", 
-            "start": "2005-01-04", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://www.house.gov/timryan"
-        }, 
-        {
-            "district": 17, 
-            "end": "2009-01-03", 
-            "party": "Democrat", 
-            "start": "2007-01-04", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://timryan.house.gov"
-        }, 
-        {
-            "district": 17, 
-            "end": "2011-01-03", 
-            "party": "Democrat", 
-            "start": "2009-01-06", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://timryan.house.gov"
-        }, 
-        {
-            "address": "1421 Longworth HOB; Washington DC 20515-3517", 
-            "contact_form": "http://timryan.house.gov/index.php?option=com_content&amp;task=view&amp;id=129&amp;Itemid=42", 
-            "district": 17, 
-            "end": "2013-01-03", 
-            "fax": "202-225-3719", 
-            "office": "1421 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5261", 
-            "start": "2011-01-05", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://timryan.house.gov"
-        }, 
-        {
-            "address": "1421 Longworth HOB; Washington DC 20515-3513", 
-            "contact_form": "http://timryanforms.house.gov/contact/", 
-            "district": 13, 
-            "end": "2015-01-03", 
-            "fax": "202-225-3719", 
-            "office": "1421 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5261", 
-            "rss_url": "http://timryan.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://timryan.house.gov"
-        }, 
-        {
-            "address": "1421 Longworth HOB; Washington DC 20515-3513", 
-            "contact_form": "http://timryanforms.house.gov/contact/", 
-            "district": 13, 
-            "end": "2017-01-03", 
-            "fax": "202-225-3719", 
-            "office": "1421 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5261", 
-            "rss_url": "http://timryan.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "http://timryan.house.gov"
-        }, 
-        {
-            "address": "1126 Longworth House Office Building; Washington DC 20515-3513", 
-            "district": 13, 
-            "end": "2019-01-03", 
-            "fax": "202-225-3719", 
-            "office": "1126 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-5261", 
-            "rss_url": "http://timryan.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "OH", 
-            "type": "rep", 
-            "url": "https://timryan.house.gov"
-        }
-    ]
+    {
+      "address": "1421 Longworth HOB; Washington DC 20515-3517", 
+      "contact_form": "http://timryan.house.gov/index.php?option=com_content&amp;task=view&amp;id=129&amp;Itemid=42", 
+      "district": 17, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3719", 
+      "office": "1421 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5261", 
+      "start": "2011-01-05", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://timryan.house.gov"
+    }, 
+    {
+      "address": "1421 Longworth HOB; Washington DC 20515-3513", 
+      "contact_form": "http://timryanforms.house.gov/contact/", 
+      "district": 13, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3719", 
+      "office": "1421 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5261", 
+      "rss_url": "http://timryan.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://timryan.house.gov"
+    }, 
+    {
+      "address": "1421 Longworth HOB; Washington DC 20515-3513", 
+      "contact_form": "http://timryanforms.house.gov/contact/", 
+      "district": 13, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3719", 
+      "office": "1421 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5261", 
+      "rss_url": "http://timryan.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "http://timryan.house.gov"
+    }, 
+    {
+      "address": "1126 Longworth House Office Building; Washington DC 20515-3513", 
+      "district": 13, 
+      "end": "2019-01-03", 
+      "fax": "202-225-3719", 
+      "office": "1126 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5261", 
+      "rss_url": "http://timryan.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://timryan.house.gov"
+    }
+  ]
 }

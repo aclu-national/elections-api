@@ -1,72 +1,73 @@
 {
-    "bio": {
-        "birthday": "1957-03-13", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1957-03-13", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:815", 
+    "ballotpedia": "John Hoeven", 
+    "bioguide": "H001061", 
+    "cspan": 85233, 
+    "fec": [
+      "S0ND00093"
+    ], 
+    "google_entity_id": "kg:/m/01qb45", 
+    "govtrack": 412494, 
+    "icpsr": 41107, 
+    "lis": "S344", 
+    "maplight": 1499, 
+    "opensecrets": "N00031688", 
+    "thomas": "02079", 
+    "votesmart": 41788, 
+    "wikidata": "Q374762", 
+    "wikipedia": "John Hoeven"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Hoeven", 
+    "official_full": "John Hoeven"
+  }, 
+  "social": {
+    "facebook": "SenatorJohnHoeven", 
+    "instagram": "senjohnhoeven", 
+    "instagram_id": 1237544252, 
+    "twitter": "SenJohnHoeven", 
+    "twitter_id": 382791093, 
+    "youtube": "senatorjohnhoevennd", 
+    "youtube_id": "UC1kQIC2Q_Fq9_NRqdb6eHiw"
+  }, 
+  "terms": [
+    {
+      "address": "338 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator", 
+      "end": "2017-01-03", 
+      "fax": "202-224-7999", 
+      "office": "338 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2551", 
+      "rss_url": "http://www.hoeven.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2011-01-05", 
+      "state": "ND", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.hoeven.senate.gov"
     }, 
-    "id": {
-        "ballotpedia": "John Hoeven", 
-        "bioguide": "H001061", 
-        "cspan": 85233, 
-        "fec": [
-            "S0ND00093"
-        ], 
-        "google_entity_id": "kg:/m/01qb45", 
-        "govtrack": 412494, 
-        "icpsr": 41107, 
-        "lis": "S344", 
-        "maplight": 1499, 
-        "opensecrets": "N00031688", 
-        "thomas": "02079", 
-        "votesmart": 41788, 
-        "wikidata": "Q374762", 
-        "wikipedia": "John Hoeven"
-    }, 
-    "name": {
-        "first": "John", 
-        "last": "Hoeven", 
-        "official_full": "John Hoeven"
-    }, 
-    "social": {
-        "facebook": "SenatorJohnHoeven", 
-        "instagram": "senjohnhoeven", 
-        "instagram_id": 1237544252, 
-        "twitter": "SenJohnHoeven", 
-        "twitter_id": 382791093, 
-        "youtube": "senatorjohnhoevennd", 
-        "youtube_id": "UC1kQIC2Q_Fq9_NRqdb6eHiw"
-    }, 
-    "terms": [
-        {
-            "address": "338 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator", 
-            "end": "2017-01-03", 
-            "fax": "202-224-7999", 
-            "office": "338 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-2551", 
-            "rss_url": "http://www.hoeven.senate.gov/public/index.cfm/rss/feed", 
-            "start": "2011-01-05", 
-            "state": "ND", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.hoeven.senate.gov"
-        }, 
-        {
-            "address": "338 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator", 
-            "end": "2023-01-03", 
-            "fax": "202-224-7999", 
-            "office": "338 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-2551", 
-            "rss_url": "http://www.hoeven.senate.gov/public/index.cfm/rss/feed", 
-            "start": "2017-01-03", 
-            "state": "ND", 
-            "state_rank": "senior", 
-            "type": "sen", 
-            "url": "https://www.hoeven.senate.gov"
-        }
-    ]
+    {
+      "address": "338 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "http://www.hoeven.senate.gov/public/index.cfm/email-the-senator", 
+      "end": "2023-01-03", 
+      "fax": "202-224-7999", 
+      "office": "338 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2551", 
+      "rss_url": "http://www.hoeven.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2017-01-03", 
+      "state": "ND", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.hoeven.senate.gov"
+    }
+  ]
 }

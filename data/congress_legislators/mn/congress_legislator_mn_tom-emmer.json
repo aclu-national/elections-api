@@ -1,63 +1,64 @@
 {
-    "bio": {
-        "birthday": "1961-03-03", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1961-03-03", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:780", 
+    "bioguide": "E000294", 
+    "cspan": 75567, 
+    "fec": [
+      "H4MN06087"
+    ], 
+    "google_entity_id": "kg:/m/06w2w3l", 
+    "govtrack": 412639, 
+    "icpsr": 21531, 
+    "maplight": 2095, 
+    "opensecrets": "N00035440", 
+    "thomas": "02253", 
+    "votesmart": 38894, 
+    "wikidata": "Q7815723", 
+    "wikipedia": "Tom Emmer"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "Emmer", 
+    "official_full": "Tom Emmer"
+  }, 
+  "social": {
+    "facebook": "reptomemmer", 
+    "instagram": "reptomemmer", 
+    "instagram_id": 1565640999, 
+    "twitter": "RepTomEmmer", 
+    "twitter_id": 2914515430, 
+    "youtube": "RepTomEmmer"
+  }, 
+  "terms": [
+    {
+      "address": "503 Cannon HOB; Washington DC 20515-2306", 
+      "district": 6, 
+      "end": "2017-01-03", 
+      "fax": "202-225-6475", 
+      "office": "503 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2331", 
+      "start": "2015-01-06", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://emmer.house.gov"
     }, 
-    "id": {
-        "bioguide": "E000294", 
-        "cspan": 75567, 
-        "fec": [
-            "H4MN06087"
-        ], 
-        "google_entity_id": "kg:/m/06w2w3l", 
-        "govtrack": 412639, 
-        "icpsr": 21531, 
-        "maplight": 2095, 
-        "opensecrets": "N00035440", 
-        "thomas": "02253", 
-        "votesmart": 38894, 
-        "wikidata": "Q7815723", 
-        "wikipedia": "Tom Emmer"
-    }, 
-    "name": {
-        "first": "Tom", 
-        "last": "Emmer", 
-        "official_full": "Tom Emmer"
-    }, 
-    "social": {
-        "facebook": "reptomemmer", 
-        "instagram": "reptomemmer", 
-        "instagram_id": 1565640999, 
-        "twitter": "RepTomEmmer", 
-        "twitter_id": 2914515430, 
-        "youtube": "RepTomEmmer"
-    }, 
-    "terms": [
-        {
-            "address": "503 Cannon HOB; Washington DC 20515-2306", 
-            "district": 6, 
-            "end": "2017-01-03", 
-            "fax": "202-225-6475", 
-            "office": "503 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2331", 
-            "start": "2015-01-06", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "https://emmer.house.gov"
-        }, 
-        {
-            "address": "315 Cannon House Office Building; Washington DC 20515-2306", 
-            "district": 6, 
-            "end": "2019-01-03", 
-            "fax": "202-225-6475", 
-            "office": "315 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2331", 
-            "start": "2017-01-03", 
-            "state": "MN", 
-            "type": "rep", 
-            "url": "https://emmer.house.gov"
-        }
-    ]
+    {
+      "address": "315 Cannon House Office Building; Washington DC 20515-2306", 
+      "district": 6, 
+      "end": "2019-01-03", 
+      "fax": "202-225-6475", 
+      "office": "315 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2331", 
+      "start": "2017-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://emmer.house.gov"
+    }
+  ]
 }

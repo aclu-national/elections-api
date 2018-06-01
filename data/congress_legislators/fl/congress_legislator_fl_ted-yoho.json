@@ -1,79 +1,80 @@
 {
-    "bio": {
-        "birthday": "1955-04-13", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1955-04-13", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:644", 
+    "ballotpedia": "Ted Yoho", 
+    "bioguide": "Y000065", 
+    "cspan": 63943, 
+    "fec": [
+      "H2FL06109"
+    ], 
+    "google_entity_id": "kg:/m/0l8lwvh", 
+    "govtrack": 412525, 
+    "icpsr": 21317, 
+    "maplight": 1749, 
+    "opensecrets": "N00033220", 
+    "thomas": "02115", 
+    "votesmart": 137622, 
+    "wikidata": "Q3090476", 
+    "wikipedia": "Ted Yoho"
+  }, 
+  "name": {
+    "first": "Ted", 
+    "last": "Yoho", 
+    "middle": "S.", 
+    "official_full": "Ted S. Yoho"
+  }, 
+  "social": {
+    "facebook": "CongressmanTedYoho", 
+    "twitter": "RepTedYoho", 
+    "twitter_id": 1071900114, 
+    "youtube": "RepTedYoho", 
+    "youtube_id": "UCGmDQgEgP2Z0NjavmnS9Hwg"
+  }, 
+  "terms": [
+    {
+      "address": "511 Cannon HOB; Washington DC 20515-0903", 
+      "contact_form": "https://yoho.house.gov/contact/email-me", 
+      "district": 3, 
+      "end": "2015-01-03", 
+      "office": "511 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5744", 
+      "rss_url": "http://yoho.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://yoho.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Ted Yoho", 
-        "bioguide": "Y000065", 
-        "cspan": 63943, 
-        "fec": [
-            "H2FL06109"
-        ], 
-        "google_entity_id": "kg:/m/0l8lwvh", 
-        "govtrack": 412525, 
-        "icpsr": 21317, 
-        "maplight": 1749, 
-        "opensecrets": "N00033220", 
-        "thomas": "02115", 
-        "votesmart": 137622, 
-        "wikidata": "Q3090476", 
-        "wikipedia": "Ted Yoho"
+    {
+      "address": "511 Cannon HOB; Washington DC 20515-0903", 
+      "contact_form": "https://yoho.house.gov/contact/email-me", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "office": "511 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5744", 
+      "rss_url": "http://yoho.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "http://yoho.house.gov"
     }, 
-    "name": {
-        "first": "Ted", 
-        "last": "Yoho", 
-        "middle": "S.", 
-        "official_full": "Ted S. Yoho"
-    }, 
-    "social": {
-        "facebook": "CongressmanTedYoho", 
-        "twitter": "RepTedYoho", 
-        "twitter_id": 1071900114, 
-        "youtube": "RepTedYoho", 
-        "youtube_id": "UCGmDQgEgP2Z0NjavmnS9Hwg"
-    }, 
-    "terms": [
-        {
-            "address": "511 Cannon HOB; Washington DC 20515-0903", 
-            "contact_form": "https://yoho.house.gov/contact/email-me", 
-            "district": 3, 
-            "end": "2015-01-03", 
-            "office": "511 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5744", 
-            "rss_url": "http://yoho.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://yoho.house.gov"
-        }, 
-        {
-            "address": "511 Cannon HOB; Washington DC 20515-0903", 
-            "contact_form": "https://yoho.house.gov/contact/email-me", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "office": "511 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5744", 
-            "rss_url": "http://yoho.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "http://yoho.house.gov"
-        }, 
-        {
-            "address": "511 Cannon House Office Building; Washington DC 20515-0903", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "office": "511 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5744", 
-            "rss_url": "http://yoho.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "FL", 
-            "type": "rep", 
-            "url": "https://yoho.house.gov"
-        }
-    ]
+    {
+      "address": "511 Cannon House Office Building; Washington DC 20515-0903", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "office": "511 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5744", 
+      "rss_url": "http://yoho.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://yoho.house.gov"
+    }
+  ]
 }

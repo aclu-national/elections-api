@@ -1,62 +1,63 @@
 {
-    "bio": {
-        "birthday": "1960-10-16", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1960-10-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:839", 
+    "bioguide": "M001193", 
+    "cspan": 76315, 
+    "fec": [
+      "H4NJ03130"
+    ], 
+    "google_entity_id": "kg:/m/0127f8tk", 
+    "govtrack": 412643, 
+    "icpsr": 21537, 
+    "maplight": 2099, 
+    "opensecrets": "N00036155", 
+    "thomas": "02258", 
+    "votesmart": 152113, 
+    "wikidata": "Q18631218", 
+    "wikipedia": "Tom MacArthur"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "MacArthur", 
+    "official_full": "Thomas MacArthur"
+  }, 
+  "social": {
+    "facebook": "CongressmanTomMacArthur", 
+    "instagram": "reptmac", 
+    "twitter": "RepTomMacArthur", 
+    "twitter_id": 2962994194, 
+    "youtube_id": "UCLD7s-g8XgSd_wvuUWATKkQ"
+  }, 
+  "terms": [
+    {
+      "address": "506 Cannon HOB; Washington DC 20515-3003", 
+      "district": 3, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0778", 
+      "office": "506 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4765", 
+      "start": "2015-01-06", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://macarthur.house.gov"
     }, 
-    "id": {
-        "bioguide": "M001193", 
-        "cspan": 76315, 
-        "fec": [
-            "H4NJ03130"
-        ], 
-        "google_entity_id": "kg:/m/0127f8tk", 
-        "govtrack": 412643, 
-        "icpsr": 21537, 
-        "maplight": 2099, 
-        "opensecrets": "N00036155", 
-        "thomas": "02258", 
-        "votesmart": 152113, 
-        "wikidata": "Q18631218", 
-        "wikipedia": "Tom MacArthur"
-    }, 
-    "name": {
-        "first": "Tom", 
-        "last": "MacArthur", 
-        "official_full": "Thomas MacArthur"
-    }, 
-    "social": {
-        "facebook": "CongressmanTomMacArthur", 
-        "instagram": "reptmac", 
-        "twitter": "RepTomMacArthur", 
-        "twitter_id": 2962994194, 
-        "youtube_id": "UCLD7s-g8XgSd_wvuUWATKkQ"
-    }, 
-    "terms": [
-        {
-            "address": "506 Cannon HOB; Washington DC 20515-3003", 
-            "district": 3, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0778", 
-            "office": "506 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4765", 
-            "start": "2015-01-06", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "https://macarthur.house.gov"
-        }, 
-        {
-            "address": "506 Cannon House Office Building; Washington DC 20515-3003", 
-            "district": 3, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0778", 
-            "office": "506 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4765", 
-            "start": "2017-01-03", 
-            "state": "NJ", 
-            "type": "rep", 
-            "url": "https://macarthur.house.gov"
-        }
-    ]
+    {
+      "address": "506 Cannon House Office Building; Washington DC 20515-3003", 
+      "district": 3, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0778", 
+      "office": "506 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4765", 
+      "start": "2017-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://macarthur.house.gov"
+    }
+  ]
 }

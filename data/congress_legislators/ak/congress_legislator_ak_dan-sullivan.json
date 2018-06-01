@@ -1,52 +1,53 @@
 {
-    "bio": {
-        "birthday": "1964-11-13", 
-        "gender": "M"
-    }, 
-    "id": {
-        "bioguide": "S001198", 
-        "cspan": 1023262, 
-        "fec": [
-            "S4AK00214"
-        ], 
-        "google_entity_id": "kg:/m/07s4r4q", 
-        "govtrack": 412665, 
-        "icpsr": 41500, 
-        "lis": "S383", 
-        "maplight": 2121, 
-        "opensecrets": "N00035774", 
-        "thomas": "02290", 
-        "votesmart": 114964, 
-        "wikidata": "Q5218668", 
-        "wikipedia": "Dan Sullivan (American senator)"
-    }, 
-    "name": {
-        "first": "Dan", 
-        "last": "Sullivan", 
-        "official_full": "Dan Sullivan"
-    }, 
-    "social": {
-        "facebook": "SenDanSullivan", 
-        "instagram": "sen_dansullivan", 
-        "instagram_id": 1660873387, 
-        "twitter": "SenDanSullivan", 
-        "twitter_id": 2891210047, 
-        "youtube_id": "UC7tXCm8gKlAhTFo2kuf5ylw"
-    }, 
-    "terms": [
-        {
-            "address": "702 Hart Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "https://www.sullivan.senate.gov/contact/email", 
-            "end": "2021-01-03", 
-            "office": "702 Hart Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-3004", 
-            "start": "2015-01-06", 
-            "state": "AK", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.sullivan.senate.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1964-11-13", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:516", 
+    "bioguide": "S001198", 
+    "cspan": 1023262, 
+    "fec": [
+      "S4AK00214"
+    ], 
+    "google_entity_id": "kg:/m/07s4r4q", 
+    "govtrack": 412665, 
+    "icpsr": 41500, 
+    "lis": "S383", 
+    "maplight": 2121, 
+    "opensecrets": "N00035774", 
+    "thomas": "02290", 
+    "votesmart": 114964, 
+    "wikidata": "Q5218668", 
+    "wikipedia": "Dan Sullivan (American senator)"
+  }, 
+  "name": {
+    "first": "Dan", 
+    "last": "Sullivan", 
+    "official_full": "Dan Sullivan"
+  }, 
+  "social": {
+    "facebook": "SenDanSullivan", 
+    "instagram": "sen_dansullivan", 
+    "instagram_id": 1660873387, 
+    "twitter": "SenDanSullivan", 
+    "twitter_id": 2891210047, 
+    "youtube_id": "UC7tXCm8gKlAhTFo2kuf5ylw"
+  }, 
+  "terms": [
+    {
+      "address": "702 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.sullivan.senate.gov/contact/email", 
+      "end": "2021-01-03", 
+      "office": "702 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3004", 
+      "start": "2015-01-06", 
+      "state": "AK", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.sullivan.senate.gov"
+    }
+  ]
 }

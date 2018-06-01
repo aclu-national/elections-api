@@ -1,67 +1,68 @@
 {
-    "bio": {
-        "birthday": "1977-05-13", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1977-05-13", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:533", 
+    "ballotpedia": "Tom Cotton", 
+    "bioguide": "C001095", 
+    "cspan": 63928, 
+    "fec": [
+      "H2AR04083", 
+      "S4AR00103"
+    ], 
+    "google_entity_id": "kg:/m/02g3ds", 
+    "govtrack": 412508, 
+    "icpsr": 21301, 
+    "lis": "S374", 
+    "maplight": 1732, 
+    "opensecrets": "N00033363", 
+    "thomas": "02098", 
+    "votesmart": 135651, 
+    "wikidata": "Q3090307", 
+    "wikipedia": "Tom Cotton"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "Cotton", 
+    "official_full": "Tom Cotton"
+  }, 
+  "social": {
+    "facebook": "SenatorTomCotton", 
+    "twitter": "SenTomCotton", 
+    "twitter_id": 968650362, 
+    "youtube": "RepTomCotton", 
+    "youtube_id": "UCXEk6mokWBajIpNatbjnwSg"
+  }, 
+  "terms": [
+    {
+      "address": "415 Cannon HOB; Washington DC 20515-0404", 
+      "contact_form": "https://cotton.house.gov/contact/email-me", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "office": "415 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3772", 
+      "rss_url": "http://cotton.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "http://cotton.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Tom Cotton", 
-        "bioguide": "C001095", 
-        "cspan": 63928, 
-        "fec": [
-            "H2AR04083", 
-            "S4AR00103"
-        ], 
-        "google_entity_id": "kg:/m/02g3ds", 
-        "govtrack": 412508, 
-        "icpsr": 21301, 
-        "lis": "S374", 
-        "maplight": 1732, 
-        "opensecrets": "N00033363", 
-        "thomas": "02098", 
-        "votesmart": 135651, 
-        "wikidata": "Q3090307", 
-        "wikipedia": "Tom Cotton"
-    }, 
-    "name": {
-        "first": "Tom", 
-        "last": "Cotton", 
-        "official_full": "Tom Cotton"
-    }, 
-    "social": {
-        "facebook": "SenatorTomCotton", 
-        "twitter": "SenTomCotton", 
-        "twitter_id": 968650362, 
-        "youtube": "RepTomCotton", 
-        "youtube_id": "UCXEk6mokWBajIpNatbjnwSg"
-    }, 
-    "terms": [
-        {
-            "address": "415 Cannon HOB; Washington DC 20515-0404", 
-            "contact_form": "https://cotton.house.gov/contact/email-me", 
-            "district": 4, 
-            "end": "2015-01-03", 
-            "office": "415 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3772", 
-            "rss_url": "http://cotton.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "AR", 
-            "type": "rep", 
-            "url": "http://cotton.house.gov"
-        }, 
-        {
-            "address": "124 Russell Senate Office Building Washington DC 20510", 
-            "class": 2, 
-            "contact_form": "http://www.cotton.senate.gov/?p=contact", 
-            "end": "2021-01-03", 
-            "office": "124 Russell Senate Office Building", 
-            "party": "Republican", 
-            "phone": "202-224-2353", 
-            "start": "2015-01-06", 
-            "state": "AR", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.cotton.senate.gov"
-        }
-    ]
+    {
+      "address": "124 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.cotton.senate.gov/?p=contact", 
+      "end": "2021-01-03", 
+      "office": "124 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2353", 
+      "start": "2015-01-06", 
+      "state": "AR", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.cotton.senate.gov"
+    }
+  ]
 }

@@ -1,94 +1,95 @@
 {
-    "bio": {
-        "birthday": "1957-01-25", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1957-01-25", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:743", 
+    "bioguide": "H001052", 
+    "cspan": 1033464, 
+    "fec": [
+      "H8MD01094"
+    ], 
+    "google_entity_id": "kg:/m/02852wc", 
+    "govtrack": 412434, 
+    "house_history": 15599, 
+    "icpsr": 21139, 
+    "maplight": 1445, 
+    "opensecrets": "N00029147", 
+    "thomas": "02026", 
+    "votesmart": 19157, 
+    "wikidata": "Q506639", 
+    "wikipedia": "Andy Harris (politician)"
+  }, 
+  "name": {
+    "first": "Andy", 
+    "last": "Harris", 
+    "official_full": "Andy Harris"
+  }, 
+  "social": {
+    "facebook": "AndyHarrisMD", 
+    "twitter": "RepAndyHarrisMD", 
+    "twitter_id": 960962340, 
+    "youtube": "RepAndyHarris", 
+    "youtube_id": "UCvUuV7FiJfJi1yux4qozgMg"
+  }, 
+  "terms": [
+    {
+      "address": "506 Cannon HOB; Washington DC 20515-2001", 
+      "district": 1, 
+      "end": "2013-01-03", 
+      "fax": "202-225-0254", 
+      "office": "506 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5311", 
+      "start": "2011-01-05", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "http://harris.house.gov/"
     }, 
-    "id": {
-        "bioguide": "H001052", 
-        "cspan": 1033464, 
-        "fec": [
-            "H8MD01094"
-        ], 
-        "google_entity_id": "kg:/m/02852wc", 
-        "govtrack": 412434, 
-        "house_history": 15599, 
-        "icpsr": 21139, 
-        "maplight": 1445, 
-        "opensecrets": "N00029147", 
-        "thomas": "02026", 
-        "votesmart": 19157, 
-        "wikidata": "Q506639", 
-        "wikipedia": "Andy Harris (politician)"
+    {
+      "address": "1533 Longworth HOB; Washington DC 20515-2001", 
+      "contact_form": "https://harris.house.gov/contact-me/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-0254", 
+      "office": "1533 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5311", 
+      "rss_url": "http://harris.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "http://harris.house.gov"
     }, 
-    "name": {
-        "first": "Andy", 
-        "last": "Harris", 
-        "official_full": "Andy Harris"
+    {
+      "address": "1533 Longworth HOB; Washington DC 20515-2001", 
+      "contact_form": "https://harris.house.gov/contact-me/email-me", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-0254", 
+      "office": "1533 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5311", 
+      "rss_url": "http://harris.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "http://harris.house.gov"
     }, 
-    "social": {
-        "facebook": "AndyHarrisMD", 
-        "twitter": "RepAndyHarrisMD", 
-        "twitter_id": 960962340, 
-        "youtube": "RepAndyHarris", 
-        "youtube_id": "UCvUuV7FiJfJi1yux4qozgMg"
-    }, 
-    "terms": [
-        {
-            "address": "506 Cannon HOB; Washington DC 20515-2001", 
-            "district": 1, 
-            "end": "2013-01-03", 
-            "fax": "202-225-0254", 
-            "office": "506 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5311", 
-            "start": "2011-01-05", 
-            "state": "MD", 
-            "type": "rep", 
-            "url": "http://harris.house.gov/"
-        }, 
-        {
-            "address": "1533 Longworth HOB; Washington DC 20515-2001", 
-            "contact_form": "https://harris.house.gov/contact-me/email-me", 
-            "district": 1, 
-            "end": "2015-01-03", 
-            "fax": "202-225-0254", 
-            "office": "1533 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5311", 
-            "rss_url": "http://harris.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "MD", 
-            "type": "rep", 
-            "url": "http://harris.house.gov"
-        }, 
-        {
-            "address": "1533 Longworth HOB; Washington DC 20515-2001", 
-            "contact_form": "https://harris.house.gov/contact-me/email-me", 
-            "district": 1, 
-            "end": "2017-01-03", 
-            "fax": "202-225-0254", 
-            "office": "1533 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5311", 
-            "rss_url": "http://harris.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "MD", 
-            "type": "rep", 
-            "url": "http://harris.house.gov"
-        }, 
-        {
-            "address": "1533 Longworth House Office Building; Washington DC 20515-2001", 
-            "district": 1, 
-            "end": "2019-01-03", 
-            "fax": "202-225-0254", 
-            "office": "1533 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-5311", 
-            "rss_url": "http://harris.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "MD", 
-            "type": "rep", 
-            "url": "https://harris.house.gov"
-        }
-    ]
+    {
+      "address": "1533 Longworth House Office Building; Washington DC 20515-2001", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "fax": "202-225-0254", 
+      "office": "1533 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5311", 
+      "rss_url": "http://harris.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://harris.house.gov"
+    }
+  ]
 }

@@ -1,78 +1,79 @@
 {
-    "bio": {
-        "birthday": "1963-07-17", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1963-07-17", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:736", 
+    "ballotpedia": "Katherine Clark", 
+    "bioguide": "C001101", 
+    "cspan": 73178, 
+    "fec": [
+      "H4MA05084"
+    ], 
+    "google_entity_id": "kg:/m/0fpjc8b", 
+    "govtrack": 412600, 
+    "house_history": 15032398493, 
+    "icpsr": 21375, 
+    "maplight": 2053, 
+    "opensecrets": "N00035278", 
+    "thomas": "02196", 
+    "votesmart": 35858, 
+    "wikidata": "Q6376330", 
+    "wikipedia": "Katherine Clark"
+  }, 
+  "name": {
+    "first": "Katherine", 
+    "last": "Clark", 
+    "middle": "M.", 
+    "official_full": "Katherine M. Clark"
+  }, 
+  "social": {
+    "facebook": "CongresswomanClark", 
+    "twitter": "RepKClark", 
+    "twitter_id": 2293131060, 
+    "youtube_id": "UCgaI52w7QKI8LtkSeCCmSuw"
+  }, 
+  "terms": [
+    {
+      "address": "2108 Rayburn HOB; Washington DC 20515-2105", 
+      "contact_form": "https://katherineclark.house.gov/index.cfm/email-me", 
+      "district": 5, 
+      "end": "2015-01-03", 
+      "office": "2108 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2836", 
+      "start": "2013-12-12", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "http://katherineclark.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Katherine Clark", 
-        "bioguide": "C001101", 
-        "cspan": 73178, 
-        "fec": [
-            "H4MA05084"
-        ], 
-        "google_entity_id": "kg:/m/0fpjc8b", 
-        "govtrack": 412600, 
-        "house_history": 15032398493, 
-        "icpsr": 21375, 
-        "maplight": 2053, 
-        "opensecrets": "N00035278", 
-        "thomas": "02196", 
-        "votesmart": 35858, 
-        "wikidata": "Q6376330", 
-        "wikipedia": "Katherine Clark"
+    {
+      "address": "1721 Longworth HOB; Washington DC 20515-2105", 
+      "contact_form": "https://katherineclark.house.gov/index.cfm/email-me", 
+      "district": 5, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0092", 
+      "office": "1721 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2836", 
+      "start": "2015-01-06", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://katherineclark.house.gov"
     }, 
-    "name": {
-        "first": "Katherine", 
-        "last": "Clark", 
-        "middle": "M.", 
-        "official_full": "Katherine M. Clark"
-    }, 
-    "social": {
-        "facebook": "CongresswomanClark", 
-        "twitter": "RepKClark", 
-        "twitter_id": 2293131060, 
-        "youtube_id": "UCgaI52w7QKI8LtkSeCCmSuw"
-    }, 
-    "terms": [
-        {
-            "address": "2108 Rayburn HOB; Washington DC 20515-2105", 
-            "contact_form": "https://katherineclark.house.gov/index.cfm/email-me", 
-            "district": 5, 
-            "end": "2015-01-03", 
-            "office": "2108 Rayburn House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2836", 
-            "start": "2013-12-12", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "http://katherineclark.house.gov"
-        }, 
-        {
-            "address": "1721 Longworth HOB; Washington DC 20515-2105", 
-            "contact_form": "https://katherineclark.house.gov/index.cfm/email-me", 
-            "district": 5, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0092", 
-            "office": "1721 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2836", 
-            "start": "2015-01-06", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "https://katherineclark.house.gov"
-        }, 
-        {
-            "address": "1415 Longworth House Office Building; Washington DC 20515-2105", 
-            "district": 5, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0092", 
-            "office": "1415 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-2836", 
-            "start": "2017-01-03", 
-            "state": "MA", 
-            "type": "rep", 
-            "url": "https://katherineclark.house.gov"
-        }
-    ]
+    {
+      "address": "1415 Longworth House Office Building; Washington DC 20515-2105", 
+      "district": 5, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0092", 
+      "office": "1415 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2836", 
+      "start": "2017-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://katherineclark.house.gov"
+    }
+  ]
 }

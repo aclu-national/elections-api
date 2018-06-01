@@ -1,97 +1,98 @@
 {
-    "bio": {
-        "birthday": "1952-08-15", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1952-08-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:925", 
+    "ballotpedia": "Tom Marino", 
+    "bioguide": "M001179", 
+    "cspan": 95129, 
+    "fec": [
+      "H0PA10078"
+    ], 
+    "google_entity_id": "kg:/m/02qv_mf", 
+    "govtrack": 412468, 
+    "house_history": 18828, 
+    "icpsr": 21170, 
+    "maplight": 1473, 
+    "opensecrets": "N00031777", 
+    "thomas": "02053", 
+    "votesmart": 119478, 
+    "wikidata": "Q2439864", 
+    "wikipedia": "Tom Marino"
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "Marino", 
+    "official_full": "Tom Marino"
+  }, 
+  "social": {
+    "facebook": "CongressmanMarino", 
+    "instagram": "reptommarino", 
+    "instagram_id": 1395145806, 
+    "twitter": "RepTomMarino", 
+    "twitter_id": 240363117, 
+    "youtube": "RepMarino", 
+    "youtube_id": "UCL8AvZKY5KuPk0T7G0jv7HA"
+  }, 
+  "terms": [
+    {
+      "address": "410 Cannon HOB; Washington DC 20515-3810", 
+      "district": 10, 
+      "end": "2013-01-03", 
+      "fax": "202-225-9594", 
+      "office": "410 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3731", 
+      "start": "2011-01-05", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://marino.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Tom Marino", 
-        "bioguide": "M001179", 
-        "cspan": 95129, 
-        "fec": [
-            "H0PA10078"
-        ], 
-        "google_entity_id": "kg:/m/02qv_mf", 
-        "govtrack": 412468, 
-        "house_history": 18828, 
-        "icpsr": 21170, 
-        "maplight": 1473, 
-        "opensecrets": "N00031777", 
-        "thomas": "02053", 
-        "votesmart": 119478, 
-        "wikidata": "Q2439864", 
-        "wikipedia": "Tom Marino"
+    {
+      "address": "410 Cannon HOB; Washington DC 20515-3810", 
+      "contact_form": "https://marino.house.gov/contact-me/email-me", 
+      "district": 10, 
+      "end": "2015-01-03", 
+      "fax": "202-225-9594", 
+      "office": "410 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3731", 
+      "rss_url": "http://marino.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://marino.house.gov"
     }, 
-    "name": {
-        "first": "Tom", 
-        "last": "Marino", 
-        "official_full": "Tom Marino"
+    {
+      "address": "410 Cannon HOB; Washington DC 20515-3810", 
+      "contact_form": "https://marino.house.gov/contact-me/email-me", 
+      "district": 10, 
+      "end": "2017-01-03", 
+      "fax": "202-225-9594", 
+      "office": "410 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3731", 
+      "rss_url": "http://marino.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "http://marino.house.gov"
     }, 
-    "social": {
-        "facebook": "CongressmanMarino", 
-        "instagram": "reptommarino", 
-        "instagram_id": 1395145806, 
-        "twitter": "RepTomMarino", 
-        "twitter_id": 240363117, 
-        "youtube": "RepMarino", 
-        "youtube_id": "UCL8AvZKY5KuPk0T7G0jv7HA"
-    }, 
-    "terms": [
-        {
-            "address": "410 Cannon HOB; Washington DC 20515-3810", 
-            "district": 10, 
-            "end": "2013-01-03", 
-            "fax": "202-225-9594", 
-            "office": "410 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3731", 
-            "start": "2011-01-05", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://marino.house.gov/"
-        }, 
-        {
-            "address": "410 Cannon HOB; Washington DC 20515-3810", 
-            "contact_form": "https://marino.house.gov/contact-me/email-me", 
-            "district": 10, 
-            "end": "2015-01-03", 
-            "fax": "202-225-9594", 
-            "office": "410 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3731", 
-            "rss_url": "http://marino.house.gov/rss.xml", 
-            "start": "2013-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://marino.house.gov"
-        }, 
-        {
-            "address": "410 Cannon HOB; Washington DC 20515-3810", 
-            "contact_form": "https://marino.house.gov/contact-me/email-me", 
-            "district": 10, 
-            "end": "2017-01-03", 
-            "fax": "202-225-9594", 
-            "office": "410 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3731", 
-            "rss_url": "http://marino.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "http://marino.house.gov"
-        }, 
-        {
-            "address": "2242 Rayburn House Office Building; Washington DC 20515-3810", 
-            "district": 10, 
-            "end": "2019-01-03", 
-            "fax": "202-225-9594", 
-            "office": "2242 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-3731", 
-            "rss_url": "http://marino.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://marino.house.gov"
-        }
-    ]
+    {
+      "address": "2242 Rayburn House Office Building; Washington DC 20515-3810", 
+      "district": 10, 
+      "end": "2019-01-03", 
+      "fax": "202-225-9594", 
+      "office": "2242 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3731", 
+      "rss_url": "http://marino.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://marino.house.gov"
+    }
+  ]
 }

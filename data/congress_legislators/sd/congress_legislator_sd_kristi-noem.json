@@ -1,96 +1,97 @@
 {
-    "bio": {
-        "birthday": "1971-11-30", 
-        "gender": "F"
+  "bio": {
+    "birthday": "1971-11-30", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:941", 
+    "ballotpedia": "Kristi Noem", 
+    "bioguide": "N000184", 
+    "cspan": 62717, 
+    "fec": [
+      "H0SD00054"
+    ], 
+    "google_entity_id": "kg:/m/0c3xgn9", 
+    "govtrack": 412475, 
+    "house_history": 19064, 
+    "icpsr": 21177, 
+    "maplight": 1480, 
+    "opensecrets": "N00032022", 
+    "thomas": "02060", 
+    "votesmart": 58189, 
+    "wikidata": "Q465749", 
+    "wikipedia": "Kristi Noem"
+  }, 
+  "name": {
+    "first": "Kristi", 
+    "last": "Noem", 
+    "middle": "L.", 
+    "official_full": "Kristi L. Noem"
+  }, 
+  "social": {
+    "instagram": "repkristinoem", 
+    "twitter": "RepKristiNoem", 
+    "twitter_id": 235251868, 
+    "youtube": "RepKristiNoem", 
+    "youtube_id": "UCZPzuVONjRwo5TsrKzbYRVA"
+  }, 
+  "terms": [
+    {
+      "address": "226 Cannon HOB; Washington DC 20515-4101", 
+      "district": 0, 
+      "end": "2013-01-03", 
+      "fax": "202-225-5823", 
+      "office": "226 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2801", 
+      "start": "2011-01-05", 
+      "state": "SD", 
+      "type": "rep", 
+      "url": "http://noem.house.gov/"
     }, 
-    "id": {
-        "ballotpedia": "Kristi Noem", 
-        "bioguide": "N000184", 
-        "cspan": 62717, 
-        "fec": [
-            "H0SD00054"
-        ], 
-        "google_entity_id": "kg:/m/0c3xgn9", 
-        "govtrack": 412475, 
-        "house_history": 19064, 
-        "icpsr": 21177, 
-        "maplight": 1480, 
-        "opensecrets": "N00032022", 
-        "thomas": "02060", 
-        "votesmart": 58189, 
-        "wikidata": "Q465749", 
-        "wikipedia": "Kristi Noem"
+    {
+      "address": "1323 Longworth HOB; Washington DC 20515-4100", 
+      "contact_form": "http://noem.house.gov/index.cfm/email-kristi", 
+      "district": 0, 
+      "end": "2015-01-03", 
+      "fax": "202-225-5823", 
+      "office": "1323 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2801", 
+      "rss_url": "http://noem.house.gov/index.cfm/rss/feed", 
+      "start": "2013-01-03", 
+      "state": "SD", 
+      "type": "rep", 
+      "url": "http://noem.house.gov"
     }, 
-    "name": {
-        "first": "Kristi", 
-        "last": "Noem", 
-        "middle": "L.", 
-        "official_full": "Kristi L. Noem"
+    {
+      "address": "2422 Rayburn HOB; Washington DC 20515-4100", 
+      "contact_form": "http://noem.house.gov/index.cfm/email-kristi", 
+      "district": 0, 
+      "end": "2017-01-03", 
+      "fax": "202-225-5823", 
+      "office": "2422 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2801", 
+      "rss_url": "http://noem.house.gov/index.cfm/rss/feed", 
+      "start": "2015-01-06", 
+      "state": "SD", 
+      "type": "rep", 
+      "url": "https://noem.house.gov"
     }, 
-    "social": {
-        "instagram": "repkristinoem", 
-        "twitter": "RepKristiNoem", 
-        "twitter_id": 235251868, 
-        "youtube": "RepKristiNoem", 
-        "youtube_id": "UCZPzuVONjRwo5TsrKzbYRVA"
-    }, 
-    "terms": [
-        {
-            "address": "226 Cannon HOB; Washington DC 20515-4101", 
-            "district": 0, 
-            "end": "2013-01-03", 
-            "fax": "202-225-5823", 
-            "office": "226 Cannon House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2801", 
-            "start": "2011-01-05", 
-            "state": "SD", 
-            "type": "rep", 
-            "url": "http://noem.house.gov/"
-        }, 
-        {
-            "address": "1323 Longworth HOB; Washington DC 20515-4100", 
-            "contact_form": "http://noem.house.gov/index.cfm/email-kristi", 
-            "district": 0, 
-            "end": "2015-01-03", 
-            "fax": "202-225-5823", 
-            "office": "1323 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2801", 
-            "rss_url": "http://noem.house.gov/index.cfm/rss/feed", 
-            "start": "2013-01-03", 
-            "state": "SD", 
-            "type": "rep", 
-            "url": "http://noem.house.gov"
-        }, 
-        {
-            "address": "2422 Rayburn HOB; Washington DC 20515-4100", 
-            "contact_form": "http://noem.house.gov/index.cfm/email-kristi", 
-            "district": 0, 
-            "end": "2017-01-03", 
-            "fax": "202-225-5823", 
-            "office": "2422 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2801", 
-            "rss_url": "http://noem.house.gov/index.cfm/rss/feed", 
-            "start": "2015-01-06", 
-            "state": "SD", 
-            "type": "rep", 
-            "url": "https://noem.house.gov"
-        }, 
-        {
-            "address": "2457 Rayburn House Office Building; Washington DC 20515-4100", 
-            "district": 0, 
-            "end": "2019-01-03", 
-            "fax": "202-225-5823", 
-            "office": "2457 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-2801", 
-            "rss_url": "http://noem.house.gov/index.cfm/rss/feed", 
-            "start": "2017-01-03", 
-            "state": "SD", 
-            "type": "rep", 
-            "url": "https://noem.house.gov"
-        }
-    ]
+    {
+      "address": "2457 Rayburn House Office Building; Washington DC 20515-4100", 
+      "district": 0, 
+      "end": "2019-01-03", 
+      "fax": "202-225-5823", 
+      "office": "2457 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2801", 
+      "rss_url": "http://noem.house.gov/index.cfm/rss/feed", 
+      "start": "2017-01-03", 
+      "state": "SD", 
+      "type": "rep", 
+      "url": "https://noem.house.gov"
+    }
+  ]
 }

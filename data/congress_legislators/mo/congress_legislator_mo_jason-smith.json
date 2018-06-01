@@ -1,82 +1,83 @@
 {
-    "bio": {
-        "birthday": "1980-06-16", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1980-06-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:786", 
+    "ballotpedia": "Jason Smith (Missouri representative)", 
+    "bioguide": "S001195", 
+    "cspan": 71083, 
+    "fec": [
+      "H4MO08162"
+    ], 
+    "google_entity_id": "kg:/m/0g9yj_2", 
+    "govtrack": 412596, 
+    "icpsr": 21373, 
+    "maplight": 2047, 
+    "opensecrets": "N00035282", 
+    "thomas": "02191", 
+    "votesmart": 59318, 
+    "wikidata": "Q6163589", 
+    "wikipedia": "Jason Smith (politician)"
+  }, 
+  "name": {
+    "first": "Jason", 
+    "last": "Smith", 
+    "middle": "T.", 
+    "official_full": "Jason Smith"
+  }, 
+  "social": {
+    "facebook": "repjasonsmith", 
+    "twitter": "RepJasonSmith", 
+    "twitter_id": 1623308912, 
+    "youtube": "RepJasonSmith", 
+    "youtube_id": "UCzj9-27Lr4gcqopmZAobXXg"
+  }, 
+  "terms": [
+    {
+      "address": "2230 Rayburn HOB; Washington DC 20515-2508", 
+      "contact_form": "https://jasonsmith.house.gov/contact/email-me", 
+      "district": 8, 
+      "end": "2015-01-03", 
+      "fax": "202-226-0326", 
+      "office": "2230 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4404", 
+      "rss_url": "http://jasonsmith.house.gov/rss.xml", 
+      "start": "2013-06-04", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://jasonsmith.house.gov"
     }, 
-    "id": {
-        "ballotpedia": "Jason Smith (Missouri representative)", 
-        "bioguide": "S001195", 
-        "cspan": 71083, 
-        "fec": [
-            "H4MO08162"
-        ], 
-        "google_entity_id": "kg:/m/0g9yj_2", 
-        "govtrack": 412596, 
-        "icpsr": 21373, 
-        "maplight": 2047, 
-        "opensecrets": "N00035282", 
-        "thomas": "02191", 
-        "votesmart": 59318, 
-        "wikidata": "Q6163589", 
-        "wikipedia": "Jason Smith (politician)"
+    {
+      "address": "1118 Longworth HOB; Washington DC 20515-2508", 
+      "contact_form": "https://jasonsmith.house.gov/contact/email-me", 
+      "district": 8, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0326", 
+      "office": "1118 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4404", 
+      "rss_url": "http://jasonsmith.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "http://jasonsmith.house.gov"
     }, 
-    "name": {
-        "first": "Jason", 
-        "last": "Smith", 
-        "middle": "T.", 
-        "official_full": "Jason Smith"
-    }, 
-    "social": {
-        "facebook": "repjasonsmith", 
-        "twitter": "RepJasonSmith", 
-        "twitter_id": 1623308912, 
-        "youtube": "RepJasonSmith", 
-        "youtube_id": "UCzj9-27Lr4gcqopmZAobXXg"
-    }, 
-    "terms": [
-        {
-            "address": "2230 Rayburn HOB; Washington DC 20515-2508", 
-            "contact_form": "https://jasonsmith.house.gov/contact/email-me", 
-            "district": 8, 
-            "end": "2015-01-03", 
-            "fax": "202-226-0326", 
-            "office": "2230 Rayburn House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4404", 
-            "rss_url": "http://jasonsmith.house.gov/rss.xml", 
-            "start": "2013-06-04", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://jasonsmith.house.gov"
-        }, 
-        {
-            "address": "1118 Longworth HOB; Washington DC 20515-2508", 
-            "contact_form": "https://jasonsmith.house.gov/contact/email-me", 
-            "district": 8, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0326", 
-            "office": "1118 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4404", 
-            "rss_url": "http://jasonsmith.house.gov/rss.xml", 
-            "start": "2015-01-06", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "http://jasonsmith.house.gov"
-        }, 
-        {
-            "address": "1118 Longworth House Office Building; Washington DC 20515-2508", 
-            "district": 8, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0326", 
-            "office": "1118 Longworth House Office Building", 
-            "party": "Republican", 
-            "phone": "202-225-4404", 
-            "rss_url": "http://jasonsmith.house.gov/rss.xml", 
-            "start": "2017-01-03", 
-            "state": "MO", 
-            "type": "rep", 
-            "url": "https://jasonsmith.house.gov"
-        }
-    ]
+    {
+      "address": "1118 Longworth House Office Building; Washington DC 20515-2508", 
+      "district": 8, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0326", 
+      "office": "1118 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4404", 
+      "rss_url": "http://jasonsmith.house.gov/rss.xml", 
+      "start": "2017-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://jasonsmith.house.gov"
+    }
+  ]
 }

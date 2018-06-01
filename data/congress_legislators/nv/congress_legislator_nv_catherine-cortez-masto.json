@@ -1,51 +1,52 @@
 {
-    "bio": {
-        "birthday": "1964-03-29", 
-        "gender": "F"
-    }, 
-    "id": {
-        "ballotpedia": "Catherine Cortez Masto", 
-        "bioguide": "C001113", 
-        "cspan": 105698, 
-        "fec": [
-            "S6NV00200"
-        ], 
-        "google_entity_id": "kg:/m/02rtp9t", 
-        "govtrack": 412681, 
-        "icpsr": 41700, 
-        "lis": "S385", 
-        "maplight": 2193, 
-        "opensecrets": "N00037161", 
-        "votesmart": 69579, 
-        "wikidata": "Q5052604", 
-        "wikipedia": "Catherine Cortez Masto"
-    }, 
-    "name": {
-        "first": "Catherine", 
-        "last": "Cortez Masto", 
-        "official_full": "Catherine Cortez Masto"
-    }, 
-    "social": {
-        "facebook": "SenatorCortezMasto", 
-        "instagram": "catherinecortezmastofornv", 
-        "twitter": "sencortezmasto", 
-        "twitter_id": 811313565760163844, 
-        "youtube_id": "UCip_83SiKUqwnUT57VOXrCg"
-    }, 
-    "terms": [
-        {
-            "address": "204 Russell Senate Office Building Washington DC 20510", 
-            "class": 3, 
-            "contact_form": "https://www.cortezmasto.senate.gov/contact", 
-            "end": "2023-01-03", 
-            "office": "204 Russell Senate Office Building", 
-            "party": "Democrat", 
-            "phone": "202-224-3542", 
-            "start": "2017-01-03", 
-            "state": "NV", 
-            "state_rank": "junior", 
-            "type": "sen", 
-            "url": "https://www.cortezmasto.senate.gov"
-        }
-    ]
+  "bio": {
+    "birthday": "1964-03-29", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:845", 
+    "ballotpedia": "Catherine Cortez Masto", 
+    "bioguide": "C001113", 
+    "cspan": 105698, 
+    "fec": [
+      "S6NV00200"
+    ], 
+    "google_entity_id": "kg:/m/02rtp9t", 
+    "govtrack": 412681, 
+    "icpsr": 41700, 
+    "lis": "S385", 
+    "maplight": 2193, 
+    "opensecrets": "N00037161", 
+    "votesmart": 69579, 
+    "wikidata": "Q5052604", 
+    "wikipedia": "Catherine Cortez Masto"
+  }, 
+  "name": {
+    "first": "Catherine", 
+    "last": "Cortez Masto", 
+    "official_full": "Catherine Cortez Masto"
+  }, 
+  "social": {
+    "facebook": "SenatorCortezMasto", 
+    "instagram": "catherinecortezmastofornv", 
+    "twitter": "sencortezmasto", 
+    "twitter_id": 811313565760163844, 
+    "youtube_id": "UCip_83SiKUqwnUT57VOXrCg"
+  }, 
+  "terms": [
+    {
+      "address": "204 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.cortezmasto.senate.gov/contact", 
+      "end": "2023-01-03", 
+      "office": "204 Russell Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-3542", 
+      "start": "2017-01-03", 
+      "state": "NV", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.cortezmasto.senate.gov"
+    }
+  ]
 }

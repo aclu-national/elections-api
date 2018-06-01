@@ -1,61 +1,62 @@
 {
-    "bio": {
-        "birthday": "1977-02-06", 
-        "gender": "M"
+  "bio": {
+    "birthday": "1977-02-06", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:910", 
+    "bioguide": "B001296", 
+    "cspan": 76428, 
+    "fec": [
+      "H4PA13199"
+    ], 
+    "google_entity_id": "kg:/m/04f4fjk", 
+    "govtrack": 412652, 
+    "icpsr": 21548, 
+    "maplight": 2108, 
+    "opensecrets": "N00035307", 
+    "thomas": "02267", 
+    "votesmart": 47357, 
+    "wikidata": "Q4960876", 
+    "wikipedia": "Brendan Boyle"
+  }, 
+  "name": {
+    "first": "Brendan", 
+    "last": "Boyle", 
+    "official_full": "Brendan F. Boyle"
+  }, 
+  "social": {
+    "facebook": "CongressmanBoyle", 
+    "twitter": "CongBoyle", 
+    "twitter_id": 4304448314, 
+    "youtube_id": "UCMP_Anj7lz4eZuSh8GwFqQQ"
+  }, 
+  "terms": [
+    {
+      "address": "118 Cannon HOB; Washington DC 20515-3813", 
+      "district": 13, 
+      "end": "2017-01-03", 
+      "fax": "202-226-0611", 
+      "office": "118 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6111", 
+      "start": "2015-01-06", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://boyle.house.gov"
     }, 
-    "id": {
-        "bioguide": "B001296", 
-        "cspan": 76428, 
-        "fec": [
-            "H4PA13199"
-        ], 
-        "google_entity_id": "kg:/m/04f4fjk", 
-        "govtrack": 412652, 
-        "icpsr": 21548, 
-        "maplight": 2108, 
-        "opensecrets": "N00035307", 
-        "thomas": "02267", 
-        "votesmart": 47357, 
-        "wikidata": "Q4960876", 
-        "wikipedia": "Brendan Boyle"
-    }, 
-    "name": {
-        "first": "Brendan", 
-        "last": "Boyle", 
-        "official_full": "Brendan F. Boyle"
-    }, 
-    "social": {
-        "facebook": "CongressmanBoyle", 
-        "twitter": "CongBoyle", 
-        "twitter_id": 4304448314, 
-        "youtube_id": "UCMP_Anj7lz4eZuSh8GwFqQQ"
-    }, 
-    "terms": [
-        {
-            "address": "118 Cannon HOB; Washington DC 20515-3813", 
-            "district": 13, 
-            "end": "2017-01-03", 
-            "fax": "202-226-0611", 
-            "office": "118 Cannon House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6111", 
-            "start": "2015-01-06", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://boyle.house.gov"
-        }, 
-        {
-            "address": "1133 Longworth House Office Building; Washington DC 20515-3813", 
-            "district": 13, 
-            "end": "2019-01-03", 
-            "fax": "202-226-0611", 
-            "office": "1133 Longworth House Office Building", 
-            "party": "Democrat", 
-            "phone": "202-225-6111", 
-            "start": "2017-01-03", 
-            "state": "PA", 
-            "type": "rep", 
-            "url": "https://boyle.house.gov"
-        }
-    ]
+    {
+      "address": "1133 Longworth House Office Building; Washington DC 20515-3813", 
+      "district": 13, 
+      "end": "2019-01-03", 
+      "fax": "202-226-0611", 
+      "office": "1133 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6111", 
+      "start": "2017-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://boyle.house.gov"
+    }
+  ]
 }

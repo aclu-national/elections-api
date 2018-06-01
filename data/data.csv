@@ -1,0 +1,57 @@
+id,path,name
+aclu/elections-api/state:0,states/state_ak.geojson,Alaska
+aclu/elections-api/state:1,states/state_al.geojson,Alabama
+aclu/elections-api/state:2,states/state_ar.geojson,Arkansas
+aclu/elections-api/state:4,states/state_as.geojson,American Samoa
+aclu/elections-api/state:5,states/state_az.geojson,Arizona
+aclu/elections-api/state:6,states/state_ca.geojson,California
+aclu/elections-api/state:7,states/state_co.geojson,Colorado
+aclu/elections-api/state:8,states/state_ct.geojson,Connecticut
+aclu/elections-api/state:9,states/state_dc.geojson,District of Columbia
+aclu/elections-api/state:10,states/state_de.geojson,Delaware
+aclu/elections-api/state:11,states/state_fl.geojson,Florida
+aclu/elections-api/state:12,states/state_ga.geojson,Georgia
+aclu/elections-api/state:13,states/state_gu.geojson,Guam
+aclu/elections-api/state:14,states/state_hi.geojson,Hawaii
+aclu/elections-api/state:15,states/state_ia.geojson,Iowa
+aclu/elections-api/state:16,states/state_id.geojson,Idaho
+aclu/elections-api/state:17,states/state_il.geojson,Illinois
+aclu/elections-api/state:18,states/state_in.geojson,Indiana
+aclu/elections-api/state:19,states/state_ks.geojson,Kansas
+aclu/elections-api/state:20,states/state_ky.geojson,Kentucky
+aclu/elections-api/state:21,states/state_la.geojson,Louisiana
+aclu/elections-api/state:22,states/state_ma.geojson,Massachusetts
+aclu/elections-api/state:23,states/state_md.geojson,Maryland
+aclu/elections-api/state:24,states/state_me.geojson,Maine
+aclu/elections-api/state:25,states/state_mi.geojson,Michigan
+aclu/elections-api/state:26,states/state_mn.geojson,Minnesota
+aclu/elections-api/state:27,states/state_mo.geojson,Missouri
+aclu/elections-api/state:28,states/state_mp.geojson,Commonwealth of the Northern Mariana Islands
+aclu/elections-api/state:29,states/state_ms.geojson,Mississippi
+aclu/elections-api/state:30,states/state_mt.geojson,Montana
+aclu/elections-api/state:31,states/state_nc.geojson,North Carolina
+aclu/elections-api/state:32,states/state_nd.geojson,North Dakota
+aclu/elections-api/state:33,states/state_ne.geojson,Nebraska
+aclu/elections-api/state:34,states/state_nh.geojson,New Hampshire
+aclu/elections-api/state:35,states/state_nj.geojson,New Jersey
+aclu/elections-api/state:36,states/state_nm.geojson,New Mexico
+aclu/elections-api/state:37,states/state_nv.geojson,Nevada
+aclu/elections-api/state:38,states/state_ny.geojson,New York
+aclu/elections-api/state:39,states/state_oh.geojson,Ohio
+aclu/elections-api/state:40,states/state_ok.geojson,Oklahoma
+aclu/elections-api/state:41,states/state_or.geojson,Oregon
+aclu/elections-api/state:42,states/state_pa.geojson,Pennsylvania
+aclu/elections-api/state:43,states/state_pr.geojson,Puerto Rico
+aclu/elections-api/state:44,states/state_ri.geojson,Rhode Island
+aclu/elections-api/state:45,states/state_sc.geojson,South Carolina
+aclu/elections-api/state:46,states/state_sd.geojson,South Dakota
+aclu/elections-api/state:47,states/state_tn.geojson,Tennessee
+aclu/elections-api/state:48,states/state_tx.geojson,Texas
+aclu/elections-api/state:49,states/state_ut.geojson,Utah
+aclu/elections-api/state:50,states/state_va.geojson,Virginia
+aclu/elections-api/state:51,states/state_vi.geojson,United States Virgin Islands
+aclu/elections-api/state:52,states/state_vt.geojson,Vermont
+aclu/elections-api/state:53,states/state_wa.geojson,Washington
+aclu/elections-api/state:54,states/state_wi.geojson,Wisconsin
+aclu/elections-api/state:55,states/state_wv.geojson,West Virginia
+aclu/elections-api/state:56,states/state_wy.geojson,Wyoming

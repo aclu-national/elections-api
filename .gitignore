@@ -1,8 +1,8 @@
 .DS_Store
 /scripts/*.pyc
-/sources/districts_113
-/sources/districts_116_pa
-/sources/legislators
+/sources/congress_113
+/sources/congress_116_pa
+/sources/congress_legislators
 /sources/states
 /sources/counties
 /sources/state_leg

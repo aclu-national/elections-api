@@ -1,21 +1,21 @@
-all: districts_113 districts_116_pa legislators states counties state_leg ocd_ids
+all: congress_113 congress_116_pa congress_legislators states counties state_leg ocd_ids
 
-districts_113:
-	mkdir -p districts_113
-	curl -o districts_113/districts_113.zip https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
-	unzip -d districts_113 districts_113/districts_113.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 districts_113/districts_113.geojson districts_113/tl_rd13_us_cd113.shp
+congress_113:
+	mkdir -p congress_113
+	curl -o congress_113/congress_113.zip https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
+	unzip -d congress_113 congress_113/congress_113.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 congress_113/congress_113.geojson congress_113/tl_rd13_us_cd113.shp
 
-districts_116_pa:
-	mkdir -p districts_116_pa
-	curl -o districts_116_pa/districts_116_pa.zip http://www.pacourts.us/assets/files/setting-6061/file-6845.zip?cb=b6385e
-	unzip -d districts_116_pa districts_116_pa/districts_116_pa.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 districts_116_pa/districts_116_pa.geojson districts_116_pa/Remedial\ Plan\ Shapefile.shp
+congress_116_pa:
+	mkdir -p congress_116_pa
+	curl -o congress_116_pa/congress_116_pa.zip http://www.pacourts.us/assets/files/setting-6061/file-6845.zip?cb=b6385e
+	unzip -d congress_116_pa congress_116_pa/congress_116_pa.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 congress_116_pa/congress_116_pa.geojson congress_116_pa/Remedial\ Plan\ Shapefile.shp
 
-legislators:
-	mkdir -p legislators
-	curl -o legislators/legislators-current.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-current.yaml
-	curl -o legislators/legislators-social-media.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-social-media.yaml
+congress_legislators:
+	mkdir -p congress_legislators
+	curl -o congress_legislators/congress_legislators-current.yaml https://raw.githubusercontent.com/unitedstates/congress-congress_legislators/master/congress_legislators-current.yaml
+	curl -o congress_legislators/congress_legislators-social-media.yaml https://raw.githubusercontent.com/unitedstates/congress-congress_legislators/master/congress_legislators-social-media.yaml
 
 states:
 	mkdir -p states

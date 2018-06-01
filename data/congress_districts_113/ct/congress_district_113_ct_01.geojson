@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ct_01",
+  "id": "aclu/elections-api/congress_district:139",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:139",
     "area":1802124438.84533,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0901",
+    "name":"CT Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:ct/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

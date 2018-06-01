@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ny_20",
+  "id": "aclu/elections-api/congress_district:351",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:351",
     "area":3273087385.173688,
     "district_num":"20",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3620",
+    "name":"NY Congressional District 20",
     "ocd_id":"ocd-division/country:us/state:ny/cd:20",
     "start_date":"2013-01-03",
     "start_session":113,

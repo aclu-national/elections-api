@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nc_01",
+  "id": "aclu/elections-api/congress_district:294",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:294",
     "area":14672201976.547506,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3701",
+    "name":"NC Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:nc/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

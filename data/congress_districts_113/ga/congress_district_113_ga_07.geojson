@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ga_07",
+  "id": "aclu/elections-api/congress_district:179",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:179",
     "area":1045286572.387016,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1307",
+    "name":"GA Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:ga/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_or_05",
+  "id": "aclu/elections-api/congress_district:384",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:384",
     "area":14648531261.157095,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4105",
+    "name":"OR Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:or/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

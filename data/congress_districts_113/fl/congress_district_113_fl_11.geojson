@@ -1,12 +1,14 @@
 {
-  "id": "district_113_fl_11",
+  "id": "aclu/elections-api/congress_district:156",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:156",
     "area":7565763729.015838,
     "district_num":"11",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1211",
+    "name":"FL Congressional District 11",
     "ocd_id":"ocd-division/country:us/state:fl/cd:11",
     "start_date":"2013-01-03",
     "start_session":113,

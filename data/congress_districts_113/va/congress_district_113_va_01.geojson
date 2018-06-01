@@ -1,12 +1,14 @@
 {
-  "id": "district_113_va_01",
+  "id": "aclu/elections-api/congress_district:463",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:463",
     "area":11754536171.031345,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5101",
+    "name":"VA Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:va/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

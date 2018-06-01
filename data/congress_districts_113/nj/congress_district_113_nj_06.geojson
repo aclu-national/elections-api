@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nj_06",
+  "id": "aclu/elections-api/congress_district:318",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:318",
     "area":1062511194.653492,
     "district_num":"06",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3406",
+    "name":"NJ Congressional District 6",
     "ocd_id":"ocd-division/country:us/state:nj/cd:6",
     "start_date":"2013-01-03",
     "start_session":113,

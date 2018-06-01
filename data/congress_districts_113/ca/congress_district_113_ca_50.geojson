@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_50",
+  "id": "aclu/elections-api/congress_district:128",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:128",
     "area":7282617960.378725,
     "district_num":"50",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0650",
+    "name":"CA Congressional District 50",
     "ocd_id":"ocd-division/country:us/state:ca/cd:50",
     "start_date":"2013-01-03",
     "start_session":113,

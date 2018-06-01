@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wa_09",
+  "id": "aclu/elections-api/congress_district:484",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:484",
     "area":582317282.597843,
     "district_num":"09",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5309",
+    "name":"WA Congressional District 9",
     "ocd_id":"ocd-division/country:us/state:wa/cd:9",
     "start_date":"2013-01-03",
     "start_session":113,

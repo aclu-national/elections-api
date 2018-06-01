@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nm_01",
+  "id": "aclu/elections-api/congress_district:325",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:325",
     "area":11960501116.775473,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3501",
+    "name":"NM Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:nm/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_az_05",
+  "id": "aclu/elections-api/congress_district:74",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:74",
     "area":764460805.674699,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0405",
+    "name":"AZ Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:az/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

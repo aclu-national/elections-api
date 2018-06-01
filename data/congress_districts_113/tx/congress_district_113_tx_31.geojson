@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tx_31",
+  "id": "aclu/elections-api/congress_district:453",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:453",
     "area":5734975929.297853,
     "district_num":"31",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4831",
+    "name":"TX Congressional District 31",
     "ocd_id":"ocd-division/country:us/state:tx/cd:31",
     "start_date":"2013-01-03",
     "start_session":113,

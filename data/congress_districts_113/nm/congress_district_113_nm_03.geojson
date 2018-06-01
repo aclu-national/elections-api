@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nm_03",
+  "id": "aclu/elections-api/congress_district:327",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:327",
     "area":117006026036.855133,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3503",
+    "name":"NM Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:nm/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

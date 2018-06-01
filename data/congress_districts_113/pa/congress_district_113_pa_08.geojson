@@ -1,12 +1,14 @@
 {
-  "id": "district_113_pa_08",
+  "id": "aclu/elections-api/congress_district:392",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:392",
     "area":1882406605.318783,
     "district_num":"08",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4208",
+    "name":"PA Congressional District 8",
     "ocd_id":"ocd-division/country:us/state:pa/cd:8",
     "start_date":"2013-01-03",
     "start_session":113,

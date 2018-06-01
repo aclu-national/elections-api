@@ -1,12 +1,14 @@
 {
-  "id": "district_113_il_17",
+  "id": "aclu/elections-api/congress_district:212",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:212",
     "area":18311218575.135979,
     "district_num":"17",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1717",
+    "name":"IL Congressional District 17",
     "ocd_id":"ocd-division/country:us/state:il/cd:17",
     "start_date":"2013-01-03",
     "start_session":113,

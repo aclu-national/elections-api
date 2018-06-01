@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_45",
+  "id": "aclu/elections-api/congress_district:123",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:123",
     "area":863359845.322693,
     "district_num":"45",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0645",
+    "name":"CA Congressional District 45",
     "ocd_id":"ocd-division/country:us/state:ca/cd:45",
     "start_date":"2013-01-03",
     "start_session":113,

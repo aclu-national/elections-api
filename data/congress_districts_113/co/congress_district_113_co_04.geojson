@@ -1,12 +1,14 @@
 {
-  "id": "district_113_co_04",
+  "id": "aclu/elections-api/congress_district:135",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:135",
     "area":99260347571.077698,
     "district_num":"04",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0804",
+    "name":"CO Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:co/cd:4",
     "start_date":"2013-01-03",
     "start_session":113,

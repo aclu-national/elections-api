@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_19",
+  "id": "aclu/elections-api/congress_district:97",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:97",
     "area":2391807311.991442,
     "district_num":"19",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0619",
+    "name":"CA Congressional District 19",
     "ocd_id":"ocd-division/country:us/state:ca/cd:19",
     "start_date":"2013-01-03",
     "start_session":113,

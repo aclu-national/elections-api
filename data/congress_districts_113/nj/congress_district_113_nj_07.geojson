@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nj_07",
+  "id": "aclu/elections-api/congress_district:319",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:319",
     "area":2562712447.949084,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3407",
+    "name":"NJ Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:nj/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

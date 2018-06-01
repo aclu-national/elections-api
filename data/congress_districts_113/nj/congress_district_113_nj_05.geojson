@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nj_05",
+  "id": "aclu/elections-api/congress_district:317",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:317",
     "area":2653817364.39653,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3405",
+    "name":"NJ Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:nj/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

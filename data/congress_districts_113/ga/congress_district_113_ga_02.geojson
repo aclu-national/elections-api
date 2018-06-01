@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ga_02",
+  "id": "aclu/elections-api/congress_district:174",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:174",
     "area":25457686989.19606,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1302",
+    "name":"GA Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:ga/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

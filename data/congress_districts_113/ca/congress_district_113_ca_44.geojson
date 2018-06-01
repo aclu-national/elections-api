@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_44",
+  "id": "aclu/elections-api/congress_district:122",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:122",
     "area":273119736.532009,
     "district_num":"44",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0644",
+    "name":"CA Congressional District 44",
     "ocd_id":"ocd-division/country:us/state:ca/cd:44",
     "start_date":"2013-01-03",
     "start_session":113,

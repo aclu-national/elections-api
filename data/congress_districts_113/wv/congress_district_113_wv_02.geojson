@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wv_02",
+  "id": "aclu/elections-api/congress_district:495",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:495",
     "area":20922723204.243992,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5402",
+    "name":"WV Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:wv/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

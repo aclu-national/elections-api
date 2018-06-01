@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mi_11",
+  "id": "aclu/elections-api/congress_district:268",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:268",
     "area":1141931088.731612,
     "district_num":"11",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2611",
+    "name":"MI Congressional District 11",
     "ocd_id":"ocd-division/country:us/state:mi/cd:11",
     "start_date":"2013-01-03",
     "start_session":113,

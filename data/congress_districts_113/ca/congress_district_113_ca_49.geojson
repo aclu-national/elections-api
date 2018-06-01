@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_49",
+  "id": "aclu/elections-api/congress_district:127",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:127",
     "area":1950216377.669883,
     "district_num":"49",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0649",
+    "name":"CA Congressional District 49",
     "ocd_id":"ocd-division/country:us/state:ca/cd:49",
     "start_date":"2013-01-03",
     "start_session":113,

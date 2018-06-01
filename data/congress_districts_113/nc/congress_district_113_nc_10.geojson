@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nc_10",
+  "id": "aclu/elections-api/congress_district:303",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:303",
     "area":6786128036.097098,
     "district_num":"10",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3710",
+    "name":"NC Congressional District 10",
     "ocd_id":"ocd-division/country:us/state:nc/cd:10",
     "start_date":"2013-01-03",
     "start_session":113,

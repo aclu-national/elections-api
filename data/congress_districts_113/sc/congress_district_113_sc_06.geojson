@@ -1,12 +1,14 @@
 {
-  "id": "district_113_sc_06",
+  "id": "aclu/elections-api/congress_district:411",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:411",
     "area":21805063644.613808,
     "district_num":"06",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4506",
+    "name":"SC Congressional District 6",
     "ocd_id":"ocd-division/country:us/state:sc/cd:6",
     "start_date":"2013-01-03",
     "start_session":113,

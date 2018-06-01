@@ -1,12 +1,14 @@
 {
-  "id": "district_113_pa_09",
+  "id": "aclu/elections-api/congress_district:393",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:393",
     "area":14952798327.998652,
     "district_num":"09",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4209",
+    "name":"PA Congressional District 9",
     "ocd_id":"ocd-division/country:us/state:pa/cd:9",
     "start_date":"2013-01-03",
     "start_session":113,

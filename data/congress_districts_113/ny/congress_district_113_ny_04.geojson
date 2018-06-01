@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ny_04",
+  "id": "aclu/elections-api/congress_district:335",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:335",
     "area":455974271.597915,
     "district_num":"04",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3604",
+    "name":"NY Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:ny/cd:4",
     "start_date":"2013-01-03",
     "start_session":113,

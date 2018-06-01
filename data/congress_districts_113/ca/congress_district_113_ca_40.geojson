@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_40",
+  "id": "aclu/elections-api/congress_district:118",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:118",
     "area":151533230.581976,
     "district_num":"40",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0640",
+    "name":"CA Congressional District 40",
     "ocd_id":"ocd-division/country:us/state:ca/cd:40",
     "start_date":"2013-01-03",
     "start_session":113,

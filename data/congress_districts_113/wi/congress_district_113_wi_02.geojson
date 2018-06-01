@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wi_02",
+  "id": "aclu/elections-api/congress_district:487",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:487",
     "area":11945175553.846056,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5502",
+    "name":"WI Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:wi/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_la_01",
+  "id": "aclu/elections-api/congress_district:233",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:233",
     "area":25012330685.079754,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2201",
+    "name":"LA Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:la/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

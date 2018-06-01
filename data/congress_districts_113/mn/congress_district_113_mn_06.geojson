@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mn_06",
+  "id": "aclu/elections-api/congress_district:277",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:277",
     "area":7868772144.847067,
     "district_num":"06",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2706",
+    "name":"MN Congressional District 6",
     "ocd_id":"ocd-division/country:us/state:mn/cd:6",
     "start_date":"2013-01-03",
     "start_session":113,

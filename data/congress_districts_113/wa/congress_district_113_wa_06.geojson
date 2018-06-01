@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wa_06",
+  "id": "aclu/elections-api/congress_district:481",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:481",
     "area":22954737582.245987,
     "district_num":"06",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5306",
+    "name":"WA Congressional District 6",
     "ocd_id":"ocd-division/country:us/state:wa/cd:6",
     "start_date":"2013-01-03",
     "start_session":113,

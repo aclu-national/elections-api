@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tn_08",
+  "id": "aclu/elections-api/congress_district:421",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:421",
     "area":18164164679.781643,
     "district_num":"08",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4708",
+    "name":"TN Congressional District 8",
     "ocd_id":"ocd-division/country:us/state:tn/cd:8",
     "start_date":"2013-01-03",
     "start_session":113,

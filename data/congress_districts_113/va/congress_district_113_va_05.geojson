@@ -1,12 +1,14 @@
 {
-  "id": "district_113_va_05",
+  "id": "aclu/elections-api/congress_district:467",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:467",
     "area":26415853290.584366,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5105",
+    "name":"VA Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:va/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

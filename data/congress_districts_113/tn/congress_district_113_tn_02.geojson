@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tn_02",
+  "id": "aclu/elections-api/congress_district:415",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:415",
     "area":6304984829.189379,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4702",
+    "name":"TN Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:tn/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

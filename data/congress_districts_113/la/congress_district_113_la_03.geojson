@@ -1,12 +1,14 @@
 {
-  "id": "district_113_la_03",
+  "id": "aclu/elections-api/congress_district:235",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:235",
     "area":23762937459.600529,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2203",
+    "name":"LA Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:la/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

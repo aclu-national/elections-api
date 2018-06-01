@@ -1,12 +1,14 @@
 {
-  "id": "district_113_fl_26",
+  "id": "aclu/elections-api/congress_district:171",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:171",
     "area":12744676910.600124,
     "district_num":"26",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1226",
+    "name":"FL Congressional District 26",
     "ocd_id":"ocd-division/country:us/state:fl/cd:26",
     "start_date":"2013-01-03",
     "start_session":113,

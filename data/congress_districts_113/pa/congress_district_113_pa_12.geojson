@@ -1,12 +1,14 @@
 {
-  "id": "district_113_pa_12",
+  "id": "aclu/elections-api/congress_district:396",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:396",
     "area":5667727850.34641,
     "district_num":"12",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4212",
+    "name":"PA Congressional District 12",
     "ocd_id":"ocd-division/country:us/state:pa/cd:12",
     "start_date":"2013-01-03",
     "start_session":113,

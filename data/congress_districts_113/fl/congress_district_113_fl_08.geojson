@@ -1,12 +1,14 @@
 {
-  "id": "district_113_fl_08",
+  "id": "aclu/elections-api/congress_district:153",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:153",
     "area":6270220750.917936,
     "district_num":"08",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1208",
+    "name":"FL Congressional District 8",
     "ocd_id":"ocd-division/country:us/state:fl/cd:8",
     "start_date":"2013-01-03",
     "start_session":113,

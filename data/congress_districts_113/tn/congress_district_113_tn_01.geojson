@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tn_01",
+  "id": "aclu/elections-api/congress_district:414",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:414",
     "area":10957674051.087044,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4701",
+    "name":"TN Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:tn/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

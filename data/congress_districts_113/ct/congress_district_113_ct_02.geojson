@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ct_02",
+  "id": "aclu/elections-api/congress_district:140",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:140",
     "area":5450792513.87389,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0902",
+    "name":"CT Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:ct/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

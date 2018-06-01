@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wa_07",
+  "id": "aclu/elections-api/congress_district:482",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:482",
     "area":713278456.63362,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5307",
+    "name":"WA Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:wa/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

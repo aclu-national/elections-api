@@ -1,12 +1,14 @@
 {
-  "id": "district_113_fl_23",
+  "id": "aclu/elections-api/congress_district:168",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:168",
     "area":737007696.477496,
     "district_num":"23",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1223",
+    "name":"FL Congressional District 23",
     "ocd_id":"ocd-division/country:us/state:fl/cd:23",
     "start_date":"2013-01-03",
     "start_session":113,

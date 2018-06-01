@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ga_10",
+  "id": "aclu/elections-api/congress_district:182",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:182",
     "area":18894049363.590107,
     "district_num":"10",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1310",
+    "name":"GA Congressional District 10",
     "ocd_id":"ocd-division/country:us/state:ga/cd:10",
     "start_date":"2013-01-03",
     "start_session":113,

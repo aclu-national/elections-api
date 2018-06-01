@@ -1,12 +1,14 @@
 {
-  "id": "district_113_il_05",
+  "id": "aclu/elections-api/congress_district:200",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:200",
     "area":249724621.587809,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1705",
+    "name":"IL Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:il/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

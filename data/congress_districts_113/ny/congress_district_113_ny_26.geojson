@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ny_26",
+  "id": "aclu/elections-api/congress_district:357",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:357",
     "area":603486296.963038,
     "district_num":"26",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3626",
+    "name":"NY Congressional District 26",
     "ocd_id":"ocd-division/country:us/state:ny/cd:26",
     "start_date":"2013-01-03",
     "start_session":113,

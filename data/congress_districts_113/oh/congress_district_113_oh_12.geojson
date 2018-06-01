@@ -1,12 +1,14 @@
 {
-  "id": "district_113_oh_12",
+  "id": "aclu/elections-api/congress_district:370",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:370",
     "area":5967838588.830031,
     "district_num":"12",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3912",
+    "name":"OH Congressional District 12",
     "ocd_id":"ocd-division/country:us/state:oh/cd:12",
     "start_date":"2013-01-03",
     "start_session":113,

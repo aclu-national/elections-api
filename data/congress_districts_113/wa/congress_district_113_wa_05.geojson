@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wa_05",
+  "id": "aclu/elections-api/congress_district:480",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:480",
     "area":40649766954.80677,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5305",
+    "name":"WA Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:wa/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mn_03",
+  "id": "aclu/elections-api/congress_district:274",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:274",
     "area":1509843390.413015,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2703",
+    "name":"MN Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:mn/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

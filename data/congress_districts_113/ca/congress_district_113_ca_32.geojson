@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_32",
+  "id": "aclu/elections-api/congress_district:110",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:110",
     "area":327916044.501367,
     "district_num":"32",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0632",
+    "name":"CA Congressional District 32",
     "ocd_id":"ocd-division/country:us/state:ca/cd:32",
     "start_date":"2013-01-03",
     "start_session":113,

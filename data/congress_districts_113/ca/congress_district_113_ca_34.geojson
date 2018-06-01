@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_34",
+  "id": "aclu/elections-api/congress_district:112",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:112",
     "area":124546010.778868,
     "district_num":"34",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0634",
+    "name":"CA Congressional District 34",
     "ocd_id":"ocd-division/country:us/state:ca/cd:34",
     "start_date":"2013-01-03",
     "start_session":113,

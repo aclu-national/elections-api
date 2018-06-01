@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ky_04",
+  "id": "aclu/elections-api/congress_district:230",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:230",
     "area":11641987497.732422,
     "district_num":"04",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2104",
+    "name":"KY Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:ky/cd:4",
     "start_date":"2013-01-03",
     "start_session":113,

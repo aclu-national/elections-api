@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ny_24",
+  "id": "aclu/elections-api/congress_district:355",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:355",
     "area":9462386507.940508,
     "district_num":"24",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3624",
+    "name":"NY Congressional District 24",
     "ocd_id":"ocd-division/country:us/state:ny/cd:24",
     "start_date":"2013-01-03",
     "start_session":113,

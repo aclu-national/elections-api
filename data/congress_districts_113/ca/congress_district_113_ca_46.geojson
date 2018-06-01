@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_46",
+  "id": "aclu/elections-api/congress_district:124",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:124",
     "area":188658637.329875,
     "district_num":"46",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0646",
+    "name":"CA Congressional District 46",
     "ocd_id":"ocd-division/country:us/state:ca/cd:46",
     "start_date":"2013-01-03",
     "start_session":113,

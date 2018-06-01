@@ -1,12 +1,14 @@
 {
-  "id": "district_113_co_03",
+  "id": "aclu/elections-api/congress_district:134",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:134",
     "area":129376744206.533493,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0803",
+    "name":"CO Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:co/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

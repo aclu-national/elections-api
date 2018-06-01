@@ -1,12 +1,14 @@
 {
-  "id": "district_113_in_01",
+  "id": "aclu/elections-api/congress_district:214",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:214",
     "area":3624294159.877386,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1801",
+    "name":"IN Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:in/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

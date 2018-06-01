@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_36",
+  "id": "aclu/elections-api/congress_district:114",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:114",
     "area":15554837780.582018,
     "district_num":"36",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0636",
+    "name":"CA Congressional District 36",
     "ocd_id":"ocd-division/country:us/state:ca/cd:36",
     "start_date":"2013-01-03",
     "start_session":113,

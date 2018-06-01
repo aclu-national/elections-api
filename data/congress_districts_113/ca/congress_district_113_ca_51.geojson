@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_51",
+  "id": "aclu/elections-api/congress_district:129",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:129",
     "area":13317216777.247688,
     "district_num":"51",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0651",
+    "name":"CA Congressional District 51",
     "ocd_id":"ocd-division/country:us/state:ca/cd:51",
     "start_date":"2013-01-03",
     "start_session":113,

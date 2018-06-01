@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_38",
+  "id": "aclu/elections-api/congress_district:116",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:116",
     "area":267279069.906003,
     "district_num":"38",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0638",
+    "name":"CA Congressional District 38",
     "ocd_id":"ocd-division/country:us/state:ca/cd:38",
     "start_date":"2013-01-03",
     "start_session":113,

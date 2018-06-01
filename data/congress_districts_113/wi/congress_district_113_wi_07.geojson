@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wi_07",
+  "id": "aclu/elections-api/congress_district:492",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:492",
     "area":67360577868.205795,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5507",
+    "name":"WI Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:wi/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

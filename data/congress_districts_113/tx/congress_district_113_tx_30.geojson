@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tx_30",
+  "id": "aclu/elections-api/congress_district:452",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:452",
     "area":958549326.713609,
     "district_num":"30",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4830",
+    "name":"TX Congressional District 30",
     "ocd_id":"ocd-division/country:us/state:tx/cd:30",
     "start_date":"2013-01-03",
     "start_session":113,

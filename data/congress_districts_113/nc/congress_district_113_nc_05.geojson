@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nc_05",
+  "id": "aclu/elections-api/congress_district:298",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:298",
     "area":9334875657.153915,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3705",
+    "name":"NC Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:nc/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

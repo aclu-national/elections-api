@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_22",
+  "id": "aclu/elections-api/congress_district:100",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:100",
     "area":3033529921.776419,
     "district_num":"22",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0622",
+    "name":"CA Congressional District 22",
     "ocd_id":"ocd-division/country:us/state:ca/cd:22",
     "start_date":"2013-01-03",
     "start_session":113,

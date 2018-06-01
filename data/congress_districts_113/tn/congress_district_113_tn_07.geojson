@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tn_07",
+  "id": "aclu/elections-api/congress_district:420",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:420",
     "area":24194148935.093182,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4707",
+    "name":"TN Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:tn/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

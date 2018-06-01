@@ -1,12 +1,14 @@
 {
-  "id": "district_113_pa_07",
+  "id": "aclu/elections-api/congress_district:391",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:391",
     "area":2257885645.143353,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4207",
+    "name":"PA Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:pa/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

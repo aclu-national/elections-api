@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ms_01",
+  "id": "aclu/elections-api/congress_district:289",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:289",
     "area":27861970560.622047,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2801",
+    "name":"MS Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:ms/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

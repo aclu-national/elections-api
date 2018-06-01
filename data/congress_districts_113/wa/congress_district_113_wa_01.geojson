@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wa_01",
+  "id": "aclu/elections-api/congress_district:476",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:476",
     "area":17105279365.87219,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5301",
+    "name":"WA Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:wa/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ma_07",
+  "id": "aclu/elections-api/congress_district:245",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:245",
     "area":260058215.739412,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2507",
+    "name":"MA Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:ma/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

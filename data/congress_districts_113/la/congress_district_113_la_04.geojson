@@ -1,12 +1,14 @@
 {
-  "id": "district_113_la_04",
+  "id": "aclu/elections-api/congress_district:236",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:236",
     "area":33417129485.692509,
     "district_num":"04",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2204",
+    "name":"LA Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:la/cd:4",
     "start_date":"2013-01-03",
     "start_session":113,

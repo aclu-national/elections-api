@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ga_05",
+  "id": "aclu/elections-api/congress_district:177",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:177",
     "area":693032769.023048,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1305",
+    "name":"GA Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:ga/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

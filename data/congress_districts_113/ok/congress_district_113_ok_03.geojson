@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ok_03",
+  "id": "aclu/elections-api/congress_district:377",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:377",
     "area":89359363176.387115,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4003",
+    "name":"OK Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:ok/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

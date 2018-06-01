@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_08",
+  "id": "aclu/elections-api/congress_district:86",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:86",
     "area":85762533923.169693,
     "district_num":"08",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0608",
+    "name":"CA Congressional District 8",
     "ocd_id":"ocd-division/country:us/state:ca/cd:8",
     "start_date":"2013-01-03",
     "start_session":113,

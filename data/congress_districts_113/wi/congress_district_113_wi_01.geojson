@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wi_01",
+  "id": "aclu/elections-api/congress_district:486",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:486",
     "area":7003405068.506465,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5501",
+    "name":"WI Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:wi/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

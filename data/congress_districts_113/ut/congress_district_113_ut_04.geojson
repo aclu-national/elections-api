@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ut_04",
+  "id": "aclu/elections-api/congress_district:462",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:462",
     "area":6987983710.753062,
     "district_num":"04",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4904",
+    "name":"UT Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:ut/cd:4",
     "start_date":"2013-01-03",
     "start_session":113,

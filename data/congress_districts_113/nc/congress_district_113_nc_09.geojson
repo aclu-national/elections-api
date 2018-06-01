@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nc_09",
+  "id": "aclu/elections-api/congress_district:302",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:302",
     "area":2340433700.801701,
     "district_num":"09",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3709",
+    "name":"NC Congressional District 9",
     "ocd_id":"ocd-division/country:us/state:nc/cd:9",
     "start_date":"2013-01-03",
     "start_session":113,

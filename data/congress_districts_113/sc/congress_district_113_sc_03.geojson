@@ -1,12 +1,14 @@
 {
-  "id": "district_113_sc_03",
+  "id": "aclu/elections-api/congress_district:408",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:408",
     "area":14198417851.863783,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4503",
+    "name":"SC Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:sc/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mi_13",
+  "id": "aclu/elections-api/congress_district:270",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:270",
     "area":484530227.21044,
     "district_num":"13",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2613",
+    "name":"MI Congressional District 13",
     "ocd_id":"ocd-division/country:us/state:mi/cd:13",
     "start_date":"2013-01-03",
     "start_session":113,

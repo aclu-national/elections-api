@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mn_01",
+  "id": "aclu/elections-api/congress_district:272",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:272",
     "area":31562577769.846222,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2701",
+    "name":"MN Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:mn/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

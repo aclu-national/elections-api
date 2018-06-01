@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nv_04",
+  "id": "aclu/elections-api/congress_district:331",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:331",
     "area":132927939765.693954,
     "district_num":"04",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3204",
+    "name":"NV Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:nv/cd:4",
     "start_date":"2013-01-03",
     "start_session":113,

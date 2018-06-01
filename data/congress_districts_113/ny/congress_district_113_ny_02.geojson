@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ny_02",
+  "id": "aclu/elections-api/congress_district:333",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:333",
     "area":846329046.601007,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3602",
+    "name":"NY Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:ny/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

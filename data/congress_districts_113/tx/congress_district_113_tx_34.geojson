@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tx_34",
+  "id": "aclu/elections-api/congress_district:456",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:456",
     "area":24672387098.008808,
     "district_num":"34",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4834",
+    "name":"TX Congressional District 34",
     "ocd_id":"ocd-division/country:us/state:tx/cd:34",
     "start_date":"2013-01-03",
     "start_session":113,

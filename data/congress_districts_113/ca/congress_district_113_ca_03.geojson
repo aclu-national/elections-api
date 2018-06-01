@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_03",
+  "id": "aclu/elections-api/congress_district:81",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:81",
     "area":16495218887.599548,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0603",
+    "name":"CA Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:ca/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

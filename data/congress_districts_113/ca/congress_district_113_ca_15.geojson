@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_15",
+  "id": "aclu/elections-api/congress_district:93",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:93",
     "area":1625266151.499318,
     "district_num":"15",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0615",
+    "name":"CA Congressional District 15",
     "ocd_id":"ocd-division/country:us/state:ca/cd:15",
     "start_date":"2013-01-03",
     "start_session":113,

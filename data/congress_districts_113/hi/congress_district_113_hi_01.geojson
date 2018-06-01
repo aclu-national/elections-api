@@ -1,12 +1,14 @@
 {
-  "id": "district_113_hi_01",
+  "id": "aclu/elections-api/congress_district:188",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:188",
     "area":1003082299.00839,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1501",
+    "name":"HI Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:hi/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

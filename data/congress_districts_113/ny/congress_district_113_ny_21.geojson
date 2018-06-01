@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ny_21",
+  "id": "aclu/elections-api/congress_district:352",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:352",
     "area":42497107405.350441,
     "district_num":"21",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3621",
+    "name":"NY Congressional District 21",
     "ocd_id":"ocd-division/country:us/state:ny/cd:21",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mp_98",
+  "id": "aclu/elections-api/congress_district:288",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:288",
     "area":5145201622.991329,
     "district_num":"98",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"6998",
+    "name":"MP Delegate District (at Large)",
     "ocd_id":"ocd-division/country:us/state:mp/cd:98",
     "start_date":"2013-01-03",
     "start_session":113,

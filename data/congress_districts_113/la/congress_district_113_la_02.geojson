@@ -1,12 +1,14 @@
 {
-  "id": "district_113_la_02",
+  "id": "aclu/elections-api/congress_district:234",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:234",
     "area":3820383748.100477,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2202",
+    "name":"LA Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:la/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wv_01",
+  "id": "aclu/elections-api/congress_district:494",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:494",
     "area":16451928473.27947,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5401",
+    "name":"WV Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:wv/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

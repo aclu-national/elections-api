@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tx_24",
+  "id": "aclu/elections-api/congress_district:446",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:446",
     "area":705771433.27449,
     "district_num":"24",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4824",
+    "name":"TX Congressional District 24",
     "ocd_id":"ocd-division/country:us/state:tx/cd:24",
     "start_date":"2013-01-03",
     "start_session":113,

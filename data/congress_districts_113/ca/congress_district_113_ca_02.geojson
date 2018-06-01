@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_02",
+  "id": "aclu/elections-api/congress_district:80",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:80",
     "area":37712462883.356079,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0602",
+    "name":"CA Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:ca/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

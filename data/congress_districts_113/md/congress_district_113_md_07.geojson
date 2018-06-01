@@ -1,12 +1,14 @@
 {
-  "id": "district_113_md_07",
+  "id": "aclu/elections-api/congress_district:254",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:254",
     "area":1280940095.22367,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2407",
+    "name":"MD Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:md/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

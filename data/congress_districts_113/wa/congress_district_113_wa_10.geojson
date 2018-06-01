@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wa_10",
+  "id": "aclu/elections-api/congress_district:485",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:485",
     "area":2373452558.082939,
     "district_num":"10",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5310",
+    "name":"WA Congressional District 10",
     "ocd_id":"ocd-division/country:us/state:wa/cd:10",
     "start_date":"2013-01-03",
     "start_session":113,

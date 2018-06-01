@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ar_04",
+  "id": "aclu/elections-api/congress_district:68",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:68",
     "area":59050591333.681717,
     "district_num":"04",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0504",
+    "name":"AR Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:ar/cd:4",
     "start_date":"2013-01-03",
     "start_session":113,

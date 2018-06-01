@@ -1,12 +1,14 @@
 {
-  "id": "district_113_sc_07",
+  "id": "aclu/elections-api/congress_district:412",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:412",
     "area":14865025363.241268,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4507",
+    "name":"SC Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:sc/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

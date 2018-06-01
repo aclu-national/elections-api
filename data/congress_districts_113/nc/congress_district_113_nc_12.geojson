@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nc_12",
+  "id": "aclu/elections-api/congress_district:305",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:305",
     "area":1445915722.342194,
     "district_num":"12",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3712",
+    "name":"NC Congressional District 12",
     "ocd_id":"ocd-division/country:us/state:nc/cd:12",
     "start_date":"2013-01-03",
     "start_session":113,

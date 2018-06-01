@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ok_01",
+  "id": "aclu/elections-api/congress_district:375",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:375",
     "area":4378428034.30856,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4001",
+    "name":"OK Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:ok/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

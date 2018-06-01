@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_24",
+  "id": "aclu/elections-api/congress_district:102",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:102",
     "area":21566845778.071415,
     "district_num":"24",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0624",
+    "name":"CA Congressional District 24",
     "ocd_id":"ocd-division/country:us/state:ca/cd:24",
     "start_date":"2013-01-03",
     "start_session":113,

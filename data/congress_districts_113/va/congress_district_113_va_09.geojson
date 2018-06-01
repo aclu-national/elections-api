@@ -1,12 +1,14 @@
 {
-  "id": "district_113_va_09",
+  "id": "aclu/elections-api/congress_district:471",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:471",
     "area":23804009807.702751,
     "district_num":"09",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5109",
+    "name":"VA Congressional District 9",
     "ocd_id":"ocd-division/country:us/state:va/cd:9",
     "start_date":"2013-01-03",
     "start_session":113,

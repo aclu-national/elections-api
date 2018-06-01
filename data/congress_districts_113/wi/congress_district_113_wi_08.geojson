@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wi_08",
+  "id": "aclu/elections-api/congress_district:493",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:493",
     "area":25811625603.616508,
     "district_num":"08",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5508",
+    "name":"WI Congressional District 8",
     "ocd_id":"ocd-division/country:us/state:wi/cd:8",
     "start_date":"2013-01-03",
     "start_session":113,

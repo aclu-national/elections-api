@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nc_13",
+  "id": "aclu/elections-api/congress_district:306",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:306",
     "area":6006463302.927098,
     "district_num":"13",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3713",
+    "name":"NC Congressional District 13",
     "ocd_id":"ocd-division/country:us/state:nc/cd:13",
     "start_date":"2013-01-03",
     "start_session":113,

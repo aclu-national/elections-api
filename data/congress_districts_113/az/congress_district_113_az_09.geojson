@@ -1,12 +1,14 @@
 {
-  "id": "district_113_az_09",
+  "id": "aclu/elections-api/congress_district:78",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:78",
     "area":431375351.637817,
     "district_num":"09",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0409",
+    "name":"AZ Congressional District 9",
     "ocd_id":"ocd-division/country:us/state:az/cd:9",
     "start_date":"2013-01-03",
     "start_session":113,

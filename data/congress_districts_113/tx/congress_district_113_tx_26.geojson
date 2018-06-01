@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tx_26",
+  "id": "aclu/elections-api/congress_district:448",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:448",
     "area":2548250095.82759,
     "district_num":"26",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4826",
+    "name":"TX Congressional District 26",
     "ocd_id":"ocd-division/country:us/state:tx/cd:26",
     "start_date":"2013-01-03",
     "start_session":113,

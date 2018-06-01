@@ -1,12 +1,14 @@
 {
-  "id": "district_113_in_07",
+  "id": "aclu/elections-api/congress_district:220",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:220",
     "area":792855827.584502,
     "district_num":"07",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1807",
+    "name":"IN Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:in/cd:7",
     "start_date":"2013-01-03",
     "start_session":113,

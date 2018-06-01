@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mi_09",
+  "id": "aclu/elections-api/congress_district:266",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:266",
     "area":489129389.153078,
     "district_num":"09",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2609",
+    "name":"MI Congressional District 9",
     "ocd_id":"ocd-division/country:us/state:mi/cd:9",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_wa_03",
+  "id": "aclu/elections-api/congress_district:478",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:478",
     "area":24810719275.230637,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5303",
+    "name":"WA Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:wa/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

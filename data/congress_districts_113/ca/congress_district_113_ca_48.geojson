@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_48",
+  "id": "aclu/elections-api/congress_district:126",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:126",
     "area":661759983.884142,
     "district_num":"48",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0648",
+    "name":"CA Congressional District 48",
     "ocd_id":"ocd-division/country:us/state:ca/cd:48",
     "start_date":"2013-01-03",
     "start_session":113,

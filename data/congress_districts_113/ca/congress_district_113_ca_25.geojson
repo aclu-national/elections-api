@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_25",
+  "id": "aclu/elections-api/congress_district:103",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:103",
     "area":4420110868.9498,
     "district_num":"25",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0625",
+    "name":"CA Congressional District 25",
     "ocd_id":"ocd-division/country:us/state:ca/cd:25",
     "start_date":"2013-01-03",
     "start_session":113,

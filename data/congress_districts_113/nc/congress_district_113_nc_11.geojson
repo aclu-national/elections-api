@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nc_11",
+  "id": "aclu/elections-api/congress_district:304",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:304",
     "area":17941562574.85305,
     "district_num":"11",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3711",
+    "name":"NC Congressional District 11",
     "ocd_id":"ocd-division/country:us/state:nc/cd:11",
     "start_date":"2013-01-03",
     "start_session":113,

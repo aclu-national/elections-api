@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ky_05",
+  "id": "aclu/elections-api/congress_district:231",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:231",
     "area":29461536953.819035,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2105",
+    "name":"KY Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:ky/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

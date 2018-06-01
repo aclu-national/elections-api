@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tx_29",
+  "id": "aclu/elections-api/congress_district:451",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:451",
     "area":496594143.91905,
     "district_num":"29",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4829",
+    "name":"TX Congressional District 29",
     "ocd_id":"ocd-division/country:us/state:tx/cd:29",
     "start_date":"2013-01-03",
     "start_session":113,

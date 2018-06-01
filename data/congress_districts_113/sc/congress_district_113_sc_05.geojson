@@ -1,12 +1,14 @@
 {
-  "id": "district_113_sc_05",
+  "id": "aclu/elections-api/congress_district:410",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:410",
     "area":14560309103.438263,
     "district_num":"05",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4505",
+    "name":"SC Congressional District 5",
     "ocd_id":"ocd-division/country:us/state:sc/cd:5",
     "start_date":"2013-01-03",
     "start_session":113,

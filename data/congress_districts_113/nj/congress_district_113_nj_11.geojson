@@ -1,12 +1,14 @@
 {
-  "id": "district_113_nj_11",
+  "id": "aclu/elections-api/congress_district:323",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:323",
     "area":1378154905.973342,
     "district_num":"11",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3411",
+    "name":"NJ Congressional District 11",
     "ocd_id":"ocd-division/country:us/state:nj/cd:11",
     "start_date":"2013-01-03",
     "start_session":113,

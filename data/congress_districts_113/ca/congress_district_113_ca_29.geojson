@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_29",
+  "id": "aclu/elections-api/congress_district:107",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:107",
     "area":240575244.182353,
     "district_num":"29",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0629",
+    "name":"CA Congressional District 29",
     "ocd_id":"ocd-division/country:us/state:ca/cd:29",
     "start_date":"2013-01-03",
     "start_session":113,

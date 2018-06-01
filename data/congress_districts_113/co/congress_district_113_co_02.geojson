@@ -1,12 +1,14 @@
 {
-  "id": "district_113_co_02",
+  "id": "aclu/elections-api/congress_district:133",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:133",
     "area":19775498997.715492,
     "district_num":"02",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0802",
+    "name":"CO Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:co/cd:2",
     "start_date":"2013-01-03",
     "start_session":113,

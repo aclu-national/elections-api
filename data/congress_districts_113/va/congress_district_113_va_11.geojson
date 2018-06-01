@@ -1,12 +1,14 @@
 {
-  "id": "district_113_va_11",
+  "id": "aclu/elections-api/congress_district:473",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:473",
     "area":501796840.824891,
     "district_num":"11",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"5111",
+    "name":"VA Congressional District 11",
     "ocd_id":"ocd-division/country:us/state:va/cd:11",
     "start_date":"2013-01-03",
     "start_session":113,

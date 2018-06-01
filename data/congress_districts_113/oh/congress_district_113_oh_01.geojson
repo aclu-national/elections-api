@@ -1,12 +1,14 @@
 {
-  "id": "district_113_oh_01",
+  "id": "aclu/elections-api/congress_district:359",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:359",
     "area":1808283608.588405,
     "district_num":"01",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3901",
+    "name":"OH Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:oh/cd:1",
     "start_date":"2013-01-03",
     "start_session":113,

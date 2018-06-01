@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_28",
+  "id": "aclu/elections-api/congress_district:106",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:106",
     "area":569617203.929458,
     "district_num":"28",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0628",
+    "name":"CA Congressional District 28",
     "ocd_id":"ocd-division/country:us/state:ca/cd:28",
     "start_date":"2013-01-03",
     "start_session":113,

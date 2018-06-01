@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ga_13",
+  "id": "aclu/elections-api/congress_district:185",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:185",
     "area":1880639752.143566,
     "district_num":"13",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1313",
+    "name":"GA Congressional District 13",
     "ocd_id":"ocd-division/country:us/state:ga/cd:13",
     "start_date":"2013-01-03",
     "start_session":113,

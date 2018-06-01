@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ny_15",
+  "id": "aclu/elections-api/congress_district:346",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:346",
     "area":44063522.283611,
     "district_num":"15",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3615",
+    "name":"NY Congressional District 15",
     "ocd_id":"ocd-division/country:us/state:ny/cd:15",
     "start_date":"2013-01-03",
     "start_session":113,

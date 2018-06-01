@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_42",
+  "id": "aclu/elections-api/congress_district:120",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:120",
     "area":2475229225.544473,
     "district_num":"42",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0642",
+    "name":"CA Congressional District 42",
     "ocd_id":"ocd-division/country:us/state:ca/cd:42",
     "start_date":"2013-01-03",
     "start_session":113,

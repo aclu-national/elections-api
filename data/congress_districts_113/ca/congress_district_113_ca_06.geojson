@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_06",
+  "id": "aclu/elections-api/congress_district:84",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:84",
     "area":465348780.659748,
     "district_num":"06",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0606",
+    "name":"CA Congressional District 6",
     "ocd_id":"ocd-division/country:us/state:ca/cd:6",
     "start_date":"2013-01-03",
     "start_session":113,

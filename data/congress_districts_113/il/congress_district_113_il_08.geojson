@@ -1,12 +1,14 @@
 {
-  "id": "district_113_il_08",
+  "id": "aclu/elections-api/congress_district:203",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:203",
     "area":543508635.168313,
     "district_num":"08",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1708",
+    "name":"IL Congressional District 8",
     "ocd_id":"ocd-division/country:us/state:il/cd:8",
     "start_date":"2013-01-03",
     "start_session":113,

@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ca_14",
+  "id": "aclu/elections-api/congress_district:92",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:92",
     "area":1502423245.618397,
     "district_num":"14",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"0614",
+    "name":"CA Congressional District 14",
     "ocd_id":"ocd-division/country:us/state:ca/cd:14",
     "start_date":"2013-01-03",
     "start_session":113,

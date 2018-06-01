@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ne_03",
+  "id": "aclu/elections-api/congress_district:310",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:310",
     "area":175863726897.000671,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"3103",
+    "name":"NE Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:ne/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

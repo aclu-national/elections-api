@@ -1,12 +1,14 @@
 {
-  "id": "district_113_ut_03",
+  "id": "aclu/elections-api/congress_district:461",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:461",
     "area":52518003030.700264,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4903",
+    "name":"UT Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:ut/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

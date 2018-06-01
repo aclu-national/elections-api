@@ -1,12 +1,14 @@
 {
-  "id": "district_113_tx_36",
+  "id": "aclu/elections-api/congress_district:458",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:458",
     "area":19762907690.41745,
     "district_num":"36",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"4836",
+    "name":"TX Congressional District 36",
     "ocd_id":"ocd-division/country:us/state:tx/cd:36",
     "start_date":"2013-01-03",
     "start_session":113,

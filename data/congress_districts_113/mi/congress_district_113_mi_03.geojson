@@ -1,12 +1,14 @@
 {
-  "id": "district_113_mi_03",
+  "id": "aclu/elections-api/congress_district:260",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:260",
     "area":6992056958.243137,
     "district_num":"03",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"2603",
+    "name":"MI Congressional District 3",
     "ocd_id":"ocd-division/country:us/state:mi/cd:3",
     "start_date":"2013-01-03",
     "start_session":113,

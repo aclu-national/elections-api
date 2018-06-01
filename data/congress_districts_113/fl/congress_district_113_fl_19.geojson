@@ -1,12 +1,14 @@
 {
-  "id": "district_113_fl_19",
+  "id": "aclu/elections-api/congress_district:164",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:164",
     "area":3554933879.1557,
     "district_num":"19",
     "end_date":"2019-01-03",
     "end_session":115,
     "geoid":"1219",
+    "name":"FL Congressional District 19",
     "ocd_id":"ocd-division/country:us/state:fl/cd:19",
     "start_date":"2013-01-03",
     "start_session":113,

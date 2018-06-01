@@ -17,9 +17,10 @@ conn = postgres_db.connect()
 cur = conn.cursor()
 
 cur.execute("DROP TABLE IF EXISTS legislator_scores CASCADE")
+cur.execute("DROP TABLE IF EXISTS congress_legislator_scores CASCADE")
 cur.execute('''
-	CREATE TABLE legislator_scores (
-		bioguide VARCHAR(10),
+	CREATE TABLE congress_legislator_scores (
+		aclu_id VARCHAR(255),
 		category VARCHAR(255),
 		subcategory VARCHAR(255),
 		position VARCHAR(255),
@@ -29,8 +30,8 @@ cur.execute('''
 ''')
 
 legislator_score_insert_sql = '''
-	INSERT INTO legislator_scores (
-		bioguide,
+	INSERT INTO congress_legislator_scores (
+		aclu_id,
 		category,
 		subcategory,
 		position,
@@ -43,17 +44,17 @@ reps = {}
 sens = {}
 
 cur.execute('''
-	SELECT lt.bioguide, lt.state, lt.district_num, lt.type, l.last_name
-	FROM legislator_terms AS lt,
-	     legislators AS l
+	SELECT lt.aclu_id, lt.state, lt.district_num, lt.type, l.last_name
+	FROM congress_legislator_terms AS lt,
+	     congress_legislators AS l
 	WHERE lt.end_date >= CURRENT_DATE
-	  AND lt.bioguide = l.bioguide
+	  AND lt.aclu_id = l.aclu_id
 ''')
 
 rs = cur.fetchall()
 if rs:
 	for row in rs:
-		bioguide = row[0]
+		aclu_id = row[0]
 		state = row[1].upper()
 		district_num = row[2]
 		type = row[3]
@@ -65,12 +66,12 @@ if rs:
 			else:
 				district_num = str(district_num)
 			state_district = "%s-%s" % (state, district_num)
-			reps[state_district] = bioguide
+			reps[state_district] = aclu_id
 		else:
 			if not state in sens:
 				sens[state] = []
 			sens[state].append({
-				'bioguide': bioguide,
+				'aclu_id': aclu_id,
 				'last_name': row[4]
 			})
 
@@ -104,14 +105,14 @@ with open(rep_scores_csv, 'rb') as csvfile:
 			if state_district in reps:
 				col_num = 0
 				for col in row:
-					bioguide = reps[state_district]
+					aclu_id = reps[state_district]
 					category = categories[col_num]
 					subcategory = subcategories[col_num]
 					position = aclu_position[col_num]
 					name = headers[col_num]
 					value = row[col_num]
 					values = [
-						bioguide,
+						aclu_id,
 						category,
 						subcategory,
 						position,
@@ -158,9 +159,9 @@ with open(sen_scores_csv, 'rb') as csvfile:
 			lname1 = strip_accents(sens[state][1]["last_name"])
 
 			if name.find(lname0) != -1:
-				bioguide = sens[state][0]["bioguide"]
+				aclu_id = sens[state][0]["aclu_id"]
 			elif name.find(lname1) != -1:
-				bioguide = sens[state][1]["bioguide"]
+				aclu_id = sens[state][1]["aclu_id"]
 			else:
 				print "COULD NOT FIND %s" % name
 				continue
@@ -173,7 +174,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				name = headers[col_num]
 				value = row[col_num]
 				values = [
-					bioguide,
+					aclu_id,
 					category,
 					subcategory,
 					position,

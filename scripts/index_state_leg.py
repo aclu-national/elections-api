@@ -15,6 +15,7 @@ cur.execute('''
 	CREATE TABLE state_leg (
 		id SERIAL PRIMARY KEY,
 		geoid VARCHAR(255),
+		ocd_id VARCHAR(255),
 		name VARCHAR(255),
 		state CHAR(2),
 		chamber VARCHAR(10),
@@ -29,6 +30,7 @@ conn.commit()
 insert_sql = '''
 	INSERT INTO state_leg (
 		geoid,
+		ocd_id,
 		name,
 		state,
 		chamber,
@@ -36,7 +38,7 @@ insert_sql = '''
 		area_land,
 		area_water,
 		boundary
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 cur = conn.cursor()
@@ -62,6 +64,7 @@ for filename in files:
 		feature = json.load(geojson)
 
 	geoid = feature["properties"]["geoid"]
+	ocd_id = feature["properties"]["ocd_id"]
 	name = feature["properties"]["name"]
 	state = feature["properties"]["state"]
 	chamber = feature["properties"]["chamber"]
@@ -71,8 +74,9 @@ for filename in files:
 	geometry = feature["geometry"]
 	boundary = json.dumps(geometry)
 
-	state = [
+	state_leg = [
 		geoid,
+		ocd_id,
 		name,
 		state,
 		chamber,
@@ -81,7 +85,8 @@ for filename in files:
 		area_water,
 		boundary
 	]
-	cur.execute(insert_sql, state)
+	state_leg = tuple(state_leg)
+	cur.execute(insert_sql, state_leg)
 	conn.commit()
 
 print("Indexing postgis geometry")

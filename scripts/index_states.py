@@ -15,6 +15,7 @@ cur.execute('''
 	CREATE TABLE states (
 		id SERIAL PRIMARY KEY,
 		geoid VARCHAR(255),
+		ocd_id VARCHAR(255),
 		name VARCHAR(255),
 		state CHAR(2),
 		area_land BIGINT,
@@ -27,12 +28,13 @@ conn.commit()
 insert_sql = '''
 	INSERT INTO states (
 		geoid,
+		ocd_id,
 		name,
 		state,
 		area_land,
 		area_water,
 		boundary
-	) VALUES (%s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s)
 '''
 
 cur = conn.cursor()
@@ -60,6 +62,7 @@ for filename in files:
 		feature = json.load(geojson)
 
 	geoid = feature["properties"]["geoid"]
+	ocd_id = feature["properties"]["ocd_id"]
 	name = feature["properties"]["name"]
 	state = feature["properties"]["state"]
 	area_land = int(feature["properties"]["area_land"])
@@ -69,12 +72,14 @@ for filename in files:
 
 	state = [
 		geoid,
+		ocd_id,
 		name,
 		state,
 		area_land,
 		area_water,
 		boundary
 	]
+	state = tuple(state)
 	cur.execute(insert_sql, state)
 	conn.commit()
 

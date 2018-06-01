@@ -15,6 +15,7 @@ cur.execute('''
 	CREATE TABLE districts (
 		id SERIAL PRIMARY KEY,
 		geoid VARCHAR(255),
+		ocd_id VARCHAR(255),
 		name VARCHAR(255),
 		state CHAR(2),
 		start_session INTEGER,
@@ -30,6 +31,7 @@ conn.commit()
 insert_sql = '''
 	INSERT INTO districts (
 		geoid,
+		ocd_id,
 		name,
 		state,
 		start_session,
@@ -37,7 +39,7 @@ insert_sql = '''
 		district_num,
 		boundary,
 		area
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 directories = []
@@ -75,6 +77,7 @@ for dir in directories:
 			feature = json.load(geojson)
 
 		geoid = feature["properties"]["geoid"]
+		ocd_id = feature["properties"]["ocd_id"]
 		name = feature["id"]
 		state = feature["properties"]["state"]
 		start_session = int(feature["properties"]["start_session"])
@@ -86,6 +89,7 @@ for dir in directories:
 
 		district = [
 			geoid,
+			ocd_id,
 			name,
 			state,
 			start_session,

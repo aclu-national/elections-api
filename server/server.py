@@ -38,7 +38,7 @@ def get_state_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, name, state, area_land, area_water
+		SELECT id, geoid, ocd_id, name, state, area_land, area_water
 		FROM states
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 	'''.format(lat=lat, lng=lng))
@@ -65,7 +65,7 @@ def get_state_by_abbrev(abbrev):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, name, state, area_land, area_water
+		SELECT id, geoid, ocd_id, name, state, area_land, area_water
 		FROM states
 		WHERE state = '{state}'
 	'''.format(state=abbrev))
@@ -79,10 +79,11 @@ def get_state_by_abbrev(abbrev):
 			state = {
 				'id': row[0],
 				'geoid': row[1],
-				'name': row[2],
-				'state': row[3],
-				'area_land': row[4],
-				'area_water': row[5]
+				'ocd_id': row[2],
+				'name': row[3],
+				'state': row[4],
+				'area_land': row[5],
+				'area_water': row[6]
 			}
 
 	cur.close()
@@ -90,7 +91,7 @@ def get_state_by_abbrev(abbrev):
 
 def get_district_by_coords(lat, lng, session_num=115):
 
-	columns = 'id, geoid, name, start_session, end_session, state, district_num, area'
+	columns = 'id, geoid, ocd_id, name, start_session, end_session, state, district_num, area'
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT {columns}
@@ -109,12 +110,13 @@ def get_district_by_coords(lat, lng, session_num=115):
 
 			id = row[0]
 			geoid = row[1]
-			name = row[2]
-			start_session = row[3]
-			end_session = row[4]
-			state = row[5]
-			district_num = row[6]
-			area = row[7]
+			ocd_id = row[2]
+			name = row[3]
+			start_session = row[4]
+			end_session = row[5]
+			state = row[6]
+			district_num = row[7]
+			area = row[8]
 
 			at_large = (district_num == 0)
 			non_voting = (district_num == 98)
@@ -122,6 +124,7 @@ def get_district_by_coords(lat, lng, session_num=115):
 			district = {
 				'id': id,
 				'geoid': geoid,
+				'ocd_id': ocd_id,
 				'name': name,
 				'start_session': start_session,
 				'end_session': end_session,
@@ -141,7 +144,7 @@ def get_district_by_id(id):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, name, start_session, end_session, state, district_num, area
+		SELECT id, geoid, ocd_id, name, start_session, end_session, state, district_num, area
 		FROM districts
 		WHERE id = {id}
 	'''.format(id=id))
@@ -154,12 +157,13 @@ def get_district_by_id(id):
 
 			id = row[0]
 			geoid = row[1]
-			name = row[2]
-			start_session = row[3]
-			end_session = row[4]
-			state = row[5]
-			district_num = row[6]
-			area = row[7]
+			ocd_id = row[2]
+			name = row[3]
+			start_session = row[4]
+			end_session = row[5]
+			state = row[6]
+			district_num = row[7]
+			area = row[8]
 
 			at_large = (district_num == 0)
 			non_voting = (district_num == 98)
@@ -167,6 +171,7 @@ def get_district_by_id(id):
 			district = {
 				'id': id,
 				'geoid': geoid,
+				'ocd_id': ocd_id,
 				'name': name,
 				'start_session': start_session,
 				'end_session': end_session,
@@ -186,7 +191,7 @@ def get_county_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, name, state, area_land, area_water
+		SELECT id, geoid, ocd_id, name, state, area_land, area_water
 		FROM counties
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 	'''.format(lat=lat, lng=lng))
@@ -200,10 +205,11 @@ def get_county_by_coords(lat, lng):
 			county = {
 				'id': row[0],
 				'geoid': row[1],
-				'name': row[2],
-				'state': row[3],
-				'area_land': row[4],
-				'area_water': row[5]
+				'ocd_id': row[2],
+				'name': row[3],
+				'state': row[4],
+				'area_land': row[5],
+				'area_water': row[6]
 			}
 
 	cur.close()
@@ -213,27 +219,30 @@ def get_state_legs_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, name, state, chamber, district_num, area_land, area_water
+		SELECT id, geoid, ocd_id, name, state, chamber, district_num, area_land, area_water
 		FROM state_leg
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 	'''.format(lat=lat, lng=lng))
 
 	rs = cur.fetchall()
-	state_legs = []
+	state_legs = {}
 
 	if rs:
 		for row in rs:
 
-			state_legs.append({
+			chamber = row[5]
+
+			state_legs[chamber] = {
 				'id': row[0],
 				'geoid': row[1],
-				'name': row[2],
-				'state': row[3],
-				'chamber': row[4],
-				'district_num': row[5],
-				'area_land': row[6],
-				'area_water': row[7]
-			})
+				'ocd_id': row[2],
+				'name': row[3],
+				'state': row[4],
+				'chamber': chamber,
+				'district_num': row[6],
+				'area_land': row[7],
+				'area_water': row[8]
+			}
 
 	cur.close()
 	return state_legs

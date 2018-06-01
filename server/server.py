@@ -20,7 +20,7 @@ def setup_sessions():
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT id, start_date, end_date
-		FROM sessions
+		FROM congress_sessions
 		ORDER BY id DESC
 	''')
 
@@ -38,7 +38,7 @@ def get_state_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, ocd_id, name, state, area_land, area_water
+		SELECT aclu_id, geoid, ocd_id, name, state, area_land, area_water
 		FROM states
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 	'''.format(lat=lat, lng=lng))
@@ -50,7 +50,7 @@ def get_state_by_coords(lat, lng):
 		for row in rs:
 
 			state = {
-				'id': row[0],
+				'aclu_id': row[0],
 				'name': row[1],
 				'state': row[2],
 				'area_land': row[3],
@@ -65,7 +65,7 @@ def get_state_by_abbrev(abbrev):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, ocd_id, name, state, area_land, area_water
+		SELECT aclu_id, geoid, ocd_id, name, state, area_land, area_water
 		FROM states
 		WHERE state = '{state}'
 	'''.format(state=abbrev))
@@ -77,7 +77,7 @@ def get_state_by_abbrev(abbrev):
 		for row in rs:
 
 			state = {
-				'id': row[0],
+				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
 				'name': row[3],
@@ -91,11 +91,11 @@ def get_state_by_abbrev(abbrev):
 
 def get_district_by_coords(lat, lng, session_num=115):
 
-	columns = 'id, geoid, ocd_id, name, start_session, end_session, state, district_num, area'
+	columns = 'aclu_id, geoid, ocd_id, name, start_session, end_session, state, district_num, area'
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT {columns}
-		FROM districts
+		FROM congress_districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		  AND (district_num > 0 OR at_large_only = 'Y')
 		  AND start_session <= {session_num}
@@ -108,7 +108,7 @@ def get_district_by_coords(lat, lng, session_num=115):
 	if rs:
 		for row in rs:
 
-			id = row[0]
+			aclu_id = row[0]
 			geoid = row[1]
 			ocd_id = row[2]
 			name = row[3]
@@ -122,7 +122,7 @@ def get_district_by_coords(lat, lng, session_num=115):
 			non_voting = (district_num == 98)
 
 			district = {
-				'id': id,
+				'aclu_id': aclu_id,
 				'geoid': geoid,
 				'ocd_id': ocd_id,
 				'name': name,
@@ -144,8 +144,8 @@ def get_district_by_id(id):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, ocd_id, name, start_session, end_session, state, district_num, area
-		FROM districts
+		SELECT aclu_id, geoid, ocd_id, name, start_session, end_session, state, district_num, area
+		FROM congress_districts
 		WHERE id = {id}
 	'''.format(id=id))
 
@@ -155,7 +155,7 @@ def get_district_by_id(id):
 	if rs:
 		for row in rs:
 
-			id = row[0]
+			aclu_id = row[0]
 			geoid = row[1]
 			ocd_id = row[2]
 			name = row[3]
@@ -169,7 +169,7 @@ def get_district_by_id(id):
 			non_voting = (district_num == 98)
 
 			district = {
-				'id': id,
+				'aclu_id': aclu_id,
 				'geoid': geoid,
 				'ocd_id': ocd_id,
 				'name': name,

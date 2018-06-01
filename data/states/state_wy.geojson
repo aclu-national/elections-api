@@ -1,7 +1,8 @@
 {
-  "id": "state_wy.geojson",
+  "id": "aclu/elections-api/state:56",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:56",
     "area_land":251465641446,
     "area_water":1860628076,
     "geoid":"56",

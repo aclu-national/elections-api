@@ -1,7 +1,8 @@
 {
-  "id": "state_ca.geojson",
+  "id": "aclu/elections-api/state:6",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:6",
     "area_land":403483182192,
     "area_water":20484637928,
     "geoid":"06",

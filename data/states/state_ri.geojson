@@ -1,7 +1,8 @@
 {
-  "id": "state_ri.geojson",
+  "id": "aclu/elections-api/state:44",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:44",
     "area_land":2677997539,
     "area_water":1323452846,
     "geoid":"44",

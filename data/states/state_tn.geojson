@@ -1,7 +1,8 @@
 {
-  "id": "state_tn.geojson",
+  "id": "aclu/elections-api/state:47",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:47",
     "area_land":106798015774,
     "area_water":2354836197,
     "geoid":"47",

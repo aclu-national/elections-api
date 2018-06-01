@@ -1,7 +1,8 @@
 {
-  "id": "state_nv.geojson",
+  "id": "aclu/elections-api/state:37",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:37",
     "area_land":284329327067,
     "area_water":2047350803,
     "geoid":"32",

@@ -1,7 +1,8 @@
 {
-  "id": "state_nc.geojson",
+  "id": "aclu/elections-api/state:31",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:31",
     "area_land":125919712692,
     "area_water":13470113896,
     "geoid":"37",

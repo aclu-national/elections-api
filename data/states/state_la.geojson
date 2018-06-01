@@ -1,7 +1,8 @@
 {
-  "id": "state_la.geojson",
+  "id": "aclu/elections-api/state:21",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:21",
     "area_land":111904803121,
     "area_water":23746413153,
     "geoid":"22",

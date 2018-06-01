@@ -1,7 +1,8 @@
 {
-  "id": "state_oh.geojson",
+  "id": "aclu/elections-api/state:39",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:39",
     "area_land":105833282399,
     "area_water":10264451012,
     "geoid":"39",

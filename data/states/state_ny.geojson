@@ -1,7 +1,8 @@
 {
-  "id": "state_ny.geojson",
+  "id": "aclu/elections-api/state:38",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:38",
     "area_land":122048992746,
     "area_water":19247151848,
     "geoid":"36",

@@ -1,7 +1,8 @@
 {
-  "id": "state_tx.geojson",
+  "id": "aclu/elections-api/state:48",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:48",
     "area_land":676641930188,
     "area_water":19017521093,
     "geoid":"48",

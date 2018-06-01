@@ -1,7 +1,8 @@
 {
-  "id": "state_ia.geojson",
+  "id": "aclu/elections-api/state:15",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:15",
     "area_land":144664158135,
     "area_water":1081293682,
     "geoid":"19",

@@ -1,7 +1,8 @@
 {
-  "id": "state_ky.geojson",
+  "id": "aclu/elections-api/state:20",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:20",
     "area_land":102266092821,
     "area_water":2388731561,
     "geoid":"21",

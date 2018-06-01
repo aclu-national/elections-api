@@ -1,7 +1,8 @@
 {
-  "id": "state_mi.geojson",
+  "id": "aclu/elections-api/state:25",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:25",
     "area_land":146488062160,
     "area_water":103998746281,
     "geoid":"26",

@@ -1,7 +1,8 @@
 {
-  "id": "state_ut.geojson",
+  "id": "aclu/elections-api/state:49",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:49",
     "area_land":212884846341,
     "area_water":7000199770,
     "geoid":"49",

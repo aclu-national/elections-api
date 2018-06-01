@@ -1,7 +1,8 @@
 {
-  "id": "state_wi.geojson",
+  "id": "aclu/elections-api/state:54",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:54",
     "area_land":140275464079,
     "area_water":29359527964,
     "geoid":"55",

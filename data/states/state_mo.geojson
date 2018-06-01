@@ -1,7 +1,8 @@
 {
-  "id": "state_mo.geojson",
+  "id": "aclu/elections-api/state:27",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:27",
     "area_land":178052037005,
     "area_water":2488190402,
     "geoid":"29",

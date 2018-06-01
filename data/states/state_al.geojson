@@ -1,7 +1,8 @@
 {
-  "id": "state_al.geojson",
+  "id": "aclu/elections-api/state:1",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:1",
     "area_land":131174431216,
     "area_water":4592944701,
     "geoid":"01",

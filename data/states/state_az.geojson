@@ -1,7 +1,8 @@
 {
-  "id": "state_az.geojson",
+  "id": "aclu/elections-api/state:5",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:5",
     "area_land":294198661567,
     "area_water":1027245114,
     "geoid":"04",

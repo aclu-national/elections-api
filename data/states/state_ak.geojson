@@ -1,7 +1,8 @@
 {
-  "id": "state_ak.geojson",
+  "id": "aclu/elections-api/state:0",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:0",
     "area_land":1478588231566,
     "area_water":277723861311,
     "geoid":"02",

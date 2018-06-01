@@ -1,7 +1,8 @@
 {
-  "id": "state_fl.geojson",
+  "id": "aclu/elections-api/state:11",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:11",
     "area_land":138911437206,
     "area_water":31398800291,
     "geoid":"12",

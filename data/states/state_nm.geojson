@@ -1,7 +1,8 @@
 {
-  "id": "state_nm.geojson",
+  "id": "aclu/elections-api/state:36",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:36",
     "area_land":314191415563,
     "area_water":733669653,
     "geoid":"35",

@@ -1,7 +1,8 @@
 {
-  "id": "state_ma.geojson",
+  "id": "aclu/elections-api/state:22",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:22",
     "area_land":20204287539,
     "area_water":7130763257,
     "geoid":"25",

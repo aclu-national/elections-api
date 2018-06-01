@@ -1,7 +1,8 @@
 {
-  "id": "state_il.geojson",
+  "id": "aclu/elections-api/state:17",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:17",
     "area_land":143784114293,
     "area_water":6211277447,
     "geoid":"17",

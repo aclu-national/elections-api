@@ -1,7 +1,8 @@
 {
-  "id": "state_nh.geojson",
+  "id": "aclu/elections-api/state:34",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state:34",
     "area_land":23187445452,
     "area_water":1028643155,
     "geoid":"33",

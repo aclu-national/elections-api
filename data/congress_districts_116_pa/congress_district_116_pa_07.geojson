@@ -1,12 +1,14 @@
 {
-  "id": "districts_116_pa_07",
+  "id": "aclu/elections-api/congress_district:504",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:504",
     "area":2252033820.402943,
     "district_num":"07",
     "end_date":"2021-01-03",
     "end_session":116,
     "geoid":"4207",
+    "name":"PA Congressional District 7",
     "ocd_id":"ocd-division/country:us/state:pa/cd:7",
     "start_date":"2019-01-03",
     "start_session":116,

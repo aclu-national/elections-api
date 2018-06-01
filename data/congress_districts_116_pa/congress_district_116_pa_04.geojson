@@ -1,12 +1,14 @@
 {
-  "id": "districts_116_pa_04",
+  "id": "aclu/elections-api/congress_district:501",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:501",
     "area":1248072487.918704,
     "district_num":"04",
     "end_date":"2021-01-03",
     "end_session":116,
     "geoid":"4204",
+    "name":"PA Congressional District 4",
     "ocd_id":"ocd-division/country:us/state:pa/cd:4",
     "start_date":"2019-01-03",
     "start_session":116,

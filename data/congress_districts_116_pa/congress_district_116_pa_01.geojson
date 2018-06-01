@@ -1,12 +1,14 @@
 {
-  "id": "districts_116_pa_01",
+  "id": "aclu/elections-api/congress_district:498",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:498",
     "area":1700782354.597938,
     "district_num":"01",
     "end_date":"2021-01-03",
     "end_session":116,
     "geoid":"4201",
+    "name":"PA Congressional District 1",
     "ocd_id":"ocd-division/country:us/state:pa/cd:1",
     "start_date":"2019-01-03",
     "start_session":116,

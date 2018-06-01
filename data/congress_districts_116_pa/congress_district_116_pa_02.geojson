@@ -1,12 +1,14 @@
 {
-  "id": "districts_116_pa_02",
+  "id": "aclu/elections-api/congress_district:499",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:499",
     "area":171182759.724313,
     "district_num":"02",
     "end_date":"2021-01-03",
     "end_session":116,
     "geoid":"4202",
+    "name":"PA Congressional District 2",
     "ocd_id":"ocd-division/country:us/state:pa/cd:2",
     "start_date":"2019-01-03",
     "start_session":116,

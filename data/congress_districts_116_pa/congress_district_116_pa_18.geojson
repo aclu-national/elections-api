@@ -1,12 +1,14 @@
 {
-  "id": "districts_116_pa_18",
+  "id": "aclu/elections-api/congress_district:513",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/congress_district:513",
     "area":778452567.654197,
     "district_num":"18",
     "end_date":"2021-01-03",
     "end_session":116,
     "geoid":"4218",
+    "name":"PA Congressional District 18",
     "ocd_id":"ocd-division/country:us/state:pa/cd:18",
     "start_date":"2019-01-03",
     "start_session":116,

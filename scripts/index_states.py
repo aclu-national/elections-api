@@ -1,7 +1,7 @@
 #!/bin/env python
 
 import os, sys, psycopg2, re, json
-import postgres_db
+import postgres_db, aclu_id
 
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
@@ -13,7 +13,7 @@ cur = conn.cursor()
 cur.execute("DROP TABLE IF EXISTS states CASCADE")
 cur.execute('''
 	CREATE TABLE states (
-		id SERIAL PRIMARY KEY,
+		aclu_id VARCHAR(255) PRIMARY KEY,
 		geoid VARCHAR(255),
 		ocd_id VARCHAR(255),
 		name VARCHAR(255),
@@ -27,6 +27,7 @@ conn.commit()
 
 insert_sql = '''
 	INSERT INTO states (
+		aclu_id,
 		geoid,
 		ocd_id,
 		name,
@@ -34,7 +35,7 @@ insert_sql = '''
 		area_land,
 		area_water,
 		boundary
-	) VALUES (%s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 cur = conn.cursor()
@@ -61,6 +62,7 @@ for filename in files:
 	with open(path) as geojson:
 		feature = json.load(geojson)
 
+	aclu_id = feature["properties"]["aclu_id"]
 	geoid = feature["properties"]["geoid"]
 	ocd_id = feature["properties"]["ocd_id"]
 	name = feature["properties"]["name"]
@@ -71,6 +73,7 @@ for filename in files:
 	boundary = json.dumps(geometry)
 
 	state = [
+		aclu_id,
 		geoid,
 		ocd_id,
 		name,

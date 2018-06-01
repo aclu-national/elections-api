@@ -1,0 +1,37 @@
+{
+  "bio": {
+    "birthday": "1984-06-27", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:1048", 
+    "ballotpedia": "Conor Lamb", 
+    "bioguide": "L000588", 
+    "fec": [
+      "H8PA18181"
+    ], 
+    "govtrack": 412744, 
+    "opensecrets": "N00041870", 
+    "wikidata": "Q43387164", 
+    "wikipedia": "Conor Lamb"
+  }, 
+  "name": {
+    "first": "Conor", 
+    "last": "Lamb", 
+    "official_full": "Conor Lamb"
+  }, 
+  "terms": [
+    {
+      "address": "2332 Rayburn House Office Building; Washington DC 20515-3818", 
+      "district": 18, 
+      "end": "2019-01-03", 
+      "office": "2332 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2301", 
+      "start": "2018-04-12", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://lamb.house.gov/"
+    }
+  ]
+}

@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"19003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:3",
     "state":"ia"
 },
   "bbox": [

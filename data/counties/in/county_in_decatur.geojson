@@ -6,6 +6,7 @@
     "area_water":1955470,
     "geoid":"18031",
     "name":"Decatur",
+    "ocd_id":"ocd-division/country:us/state:in/county:decatur",
     "state":"in"
 },
   "bbox": [

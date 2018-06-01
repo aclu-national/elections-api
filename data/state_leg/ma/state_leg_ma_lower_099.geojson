@@ -8,6 +8,7 @@
     "district_num":"099",
     "geoid":"25099",
     "name":"17th Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:99",
     "state":"ma"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"119",
     "geoid":"13119",
     "name":"State House District 119",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:119",
     "state":"ga"
 },
   "bbox": [

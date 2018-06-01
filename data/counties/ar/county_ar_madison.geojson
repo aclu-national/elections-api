@@ -6,6 +6,7 @@
     "area_water":7320899,
     "geoid":"05087",
     "name":"Madison",
+    "ocd_id":"ocd-division/country:us/state:ar/county:madison",
     "state":"ar"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3644220,
     "geoid":"46067",
     "name":"Hutchinson",
+    "ocd_id":"ocd-division/country:us/state:sd/county:hutchinson",
     "state":"sd"
 },
   "bbox": [

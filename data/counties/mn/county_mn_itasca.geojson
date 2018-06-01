@@ -6,6 +6,7 @@
     "area_water":675388758,
     "geoid":"27061",
     "name":"Itasca",
+    "ocd_id":"ocd-division/country:us/state:mn/county:itasca",
     "state":"mn"
 },
   "bbox": [

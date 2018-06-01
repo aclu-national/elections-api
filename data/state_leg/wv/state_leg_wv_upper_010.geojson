@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"54010",
     "name":"State Senate District 10",
+    "ocd_id":"ocd-division/country:us/state:wv/sldu:10",
     "state":"wv"
 },
   "bbox": [

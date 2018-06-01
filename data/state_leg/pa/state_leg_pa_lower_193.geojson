@@ -8,6 +8,7 @@
     "district_num":"193",
     "geoid":"42193",
     "name":"State House District 193",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:193",
     "state":"pa"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"20048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:48",
     "state":"ks"
 },
   "bbox": [

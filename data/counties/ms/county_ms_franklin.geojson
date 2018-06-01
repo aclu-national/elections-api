@@ -6,6 +6,7 @@
     "area_water":7250805,
     "geoid":"28037",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ms/county:franklin",
     "state":"ms"
 },
   "bbox": [

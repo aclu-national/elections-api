@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"18044",
     "name":"State Senate District 44",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:44",
     "state":"in"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":89336,
     "geoid":"51720",
     "name":"Norton",
+    "ocd_id":"ocd-division/country:us/state:va/county:norton",
     "state":"va"
 },
   "bbox": [

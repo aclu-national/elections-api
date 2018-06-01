@@ -6,6 +6,7 @@
     "area_water":4639329,
     "geoid":"42119",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:pa/county:union",
     "state":"pa"
 },
   "bbox": [

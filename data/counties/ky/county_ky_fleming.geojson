@@ -6,6 +6,7 @@
     "area_water":7185948,
     "geoid":"21069",
     "name":"Fleming",
+    "ocd_id":"ocd-division/country:us/state:ky/county:fleming",
     "state":"ky"
 },
   "bbox": [

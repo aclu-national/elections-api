@@ -8,6 +8,7 @@
     "district_num":"CA4",
     "geoid":"50CA4",
     "name":"Caledonia-4 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:CA4",
     "state":"vt"
 },
   "bbox": [

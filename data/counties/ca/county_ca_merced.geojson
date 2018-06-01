@@ -6,6 +6,7 @@
     "area_water":112509475,
     "geoid":"06047",
     "name":"Merced",
+    "ocd_id":"ocd-division/country:us/state:ca/county:merced",
     "state":"ca"
 },
   "bbox": [

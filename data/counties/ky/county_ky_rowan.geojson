@@ -6,6 +6,7 @@
     "area_water":16699596,
     "geoid":"21205",
     "name":"Rowan",
+    "ocd_id":"ocd-division/country:us/state:ky/county:rowan",
     "state":"ky"
 },
   "bbox": [

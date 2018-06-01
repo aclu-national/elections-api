@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"13004",
     "name":"State House District 4",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:4",
     "state":"ga"
 },
   "bbox": [

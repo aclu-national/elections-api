@@ -6,6 +6,7 @@
     "area_water":1070269,
     "geoid":"51510",
     "name":"Alexandria",
+    "ocd_id":"ocd-division/country:us/state:va/county:alexandria",
     "state":"va"
 },
   "bbox": [

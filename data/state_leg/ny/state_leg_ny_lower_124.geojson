@@ -8,6 +8,7 @@
     "district_num":"124",
     "geoid":"36124",
     "name":"Assembly District 124",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:124",
     "state":"ny"
 },
   "bbox": [

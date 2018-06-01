@@ -6,6 +6,7 @@
     "area_water":60509234,
     "geoid":"53021",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:wa/county:franklin",
     "state":"wa"
 },
   "bbox": [

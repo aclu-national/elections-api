@@ -6,6 +6,7 @@
     "area_water":7519824,
     "geoid":"39105",
     "name":"Meigs",
+    "ocd_id":"ocd-division/country:us/state:oh/county:meigs",
     "state":"oh"
 },
   "bbox": [

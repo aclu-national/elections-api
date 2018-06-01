@@ -6,6 +6,7 @@
     "area_water":318578493,
     "geoid":"12093",
     "name":"Okeechobee",
+    "ocd_id":"ocd-division/country:us/state:fl/county:okeechobee",
     "state":"fl"
 },
   "bbox": [

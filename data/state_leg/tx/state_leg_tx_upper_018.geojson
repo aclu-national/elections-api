@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"48018",
     "name":"State Senate District 18",
+    "ocd_id":"ocd-division/country:us/state:tx/sldu:18",
     "state":"tx"
 },
   "bbox": [

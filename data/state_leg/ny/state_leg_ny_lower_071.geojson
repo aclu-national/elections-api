@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"36071",
     "name":"Assembly District 71",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:71",
     "state":"ny"
 },
   "bbox": [

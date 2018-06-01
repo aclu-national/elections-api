@@ -8,6 +8,7 @@
     "district_num":"065",
     "geoid":"55065",
     "name":"Assembly District 65",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:65",
     "state":"wi"
 },
   "bbox": [

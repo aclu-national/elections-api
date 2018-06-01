@@ -6,6 +6,7 @@
     "area_water":9687703,
     "geoid":"51061",
     "name":"Fauquier",
+    "ocd_id":"ocd-division/country:us/state:va/county:fauquier",
     "state":"va"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":4382648,
     "geoid":"46097",
     "name":"Miner",
+    "ocd_id":"ocd-division/country:us/state:sd/county:miner",
     "state":"sd"
 },
   "bbox": [

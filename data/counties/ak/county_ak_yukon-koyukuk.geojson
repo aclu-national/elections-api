@@ -6,6 +6,7 @@
     "area_water":5953180597,
     "geoid":"02290",
     "name":"Yukon-Koyukuk",
+    "ocd_id":"ocd-division/country:us/state:ak/county:yukon_koyukuk",
     "state":"ak"
 },
   "bbox": [

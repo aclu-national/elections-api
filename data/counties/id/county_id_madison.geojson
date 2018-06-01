@@ -6,6 +6,7 @@
     "area_water":10500827,
     "geoid":"16065",
     "name":"Madison",
+    "ocd_id":"ocd-division/country:us/state:id/county:madison",
     "state":"id"
 },
   "bbox": [

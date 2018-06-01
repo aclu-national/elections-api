@@ -6,6 +6,7 @@
     "area_water":645644841,
     "geoid":"78010",
     "name":"St. Croix",
+    "ocd_id":"ocd-division/country:us/state:vi/county:st_croix",
     "state":"vi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"14B",
     "geoid":"2714B",
     "name":"State House District 14B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:14B",
     "state":"mn"
 },
   "bbox": [

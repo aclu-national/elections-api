@@ -6,6 +6,7 @@
     "area_water":8220933,
     "geoid":"27127",
     "name":"Redwood",
+    "ocd_id":"ocd-division/country:us/state:mn/county:redwood",
     "state":"mn"
 },
   "bbox": [

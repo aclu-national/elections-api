@@ -8,6 +8,7 @@
     "district_num":"090",
     "geoid":"18090",
     "name":"State House District 90",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:90",
     "state":"in"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":282998978,
     "geoid":"27095",
     "name":"Mille Lacs",
+    "ocd_id":"ocd-division/country:us/state:mn/county:mille_lacs",
     "state":"mn"
 },
   "bbox": [

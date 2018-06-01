@@ -6,6 +6,7 @@
     "area_water":11195137,
     "geoid":"29023",
     "name":"Butler",
+    "ocd_id":"ocd-division/country:us/state:mo/county:butler",
     "state":"mo"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"13033",
     "name":"State House District 33",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:33",
     "state":"ga"
 },
   "bbox": [

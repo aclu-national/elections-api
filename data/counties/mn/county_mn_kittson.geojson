@@ -6,6 +6,7 @@
     "area_water":12411766,
     "geoid":"27069",
     "name":"Kittson",
+    "ocd_id":"ocd-division/country:us/state:mn/county:kittson",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":67286710,
     "geoid":"21231",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:ky/county:wayne",
     "state":"ky"
 },
   "bbox": [

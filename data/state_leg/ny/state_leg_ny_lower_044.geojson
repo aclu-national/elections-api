@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"36044",
     "name":"Assembly District 44",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:44",
     "state":"ny"
 },
   "bbox": [

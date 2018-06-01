@@ -6,6 +6,7 @@
     "area_water":899019054,
     "geoid":"45013",
     "name":"Beaufort",
+    "ocd_id":"ocd-division/country:us/state:sc/county:beaufort",
     "state":"sc"
 },
   "bbox": [

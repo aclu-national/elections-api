@@ -6,6 +6,7 @@
     "area_water":82763611,
     "geoid":"13285",
     "name":"Troup",
+    "ocd_id":"ocd-division/country:us/state:ga/county:troup",
     "state":"ga"
 },
   "bbox": [

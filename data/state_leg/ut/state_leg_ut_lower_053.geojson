@@ -8,6 +8,7 @@
     "district_num":"053",
     "geoid":"49053",
     "name":"State House District 53",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:53",
     "state":"ut"
 },
   "bbox": [

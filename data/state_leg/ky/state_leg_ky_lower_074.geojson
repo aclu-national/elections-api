@@ -8,6 +8,7 @@
     "district_num":"074",
     "geoid":"21074",
     "name":"State House District 74",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:74",
     "state":"ky"
 },
   "bbox": [

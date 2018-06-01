@@ -6,6 +6,7 @@
     "area_water":16933522,
     "geoid":"37083",
     "name":"Halifax",
+    "ocd_id":"ocd-division/country:us/state:nc/county:halifax",
     "state":"nc"
 },
   "bbox": [

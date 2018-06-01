@@ -8,6 +8,7 @@
     "district_num":"601",
     "geoid":"33601",
     "name":"State House District Merrimack County No. 1",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:601",
     "state":"nh"
 },
   "bbox": [

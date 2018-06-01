@@ -6,6 +6,7 @@
     "area_water":6617028,
     "geoid":"42113",
     "name":"Sullivan",
+    "ocd_id":"ocd-division/country:us/state:pa/county:sullivan",
     "state":"pa"
 },
   "bbox": [

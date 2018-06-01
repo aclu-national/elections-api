@@ -6,6 +6,7 @@
     "area_water":2599432,
     "geoid":"28129",
     "name":"Smith",
+    "ocd_id":"ocd-division/country:us/state:ms/county:smith",
     "state":"ms"
 },
   "bbox": [

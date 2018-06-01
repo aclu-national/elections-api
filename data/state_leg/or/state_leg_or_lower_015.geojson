@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"41015",
     "name":"State House District 15",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:15",
     "state":"or"
 },
   "bbox": [

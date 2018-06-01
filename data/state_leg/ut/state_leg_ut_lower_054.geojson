@@ -8,6 +8,7 @@
     "district_num":"054",
     "geoid":"49054",
     "name":"State House District 54",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:54",
     "state":"ut"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2245301,
     "geoid":"48173",
     "name":"Glasscock",
+    "ocd_id":"ocd-division/country:us/state:tx/county:glasscock",
     "state":"tx"
 },
   "bbox": [

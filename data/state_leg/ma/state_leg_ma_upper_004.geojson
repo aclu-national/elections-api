@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"25004",
     "name":"Berkshire, Hampshire, Franklin & Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:4",
     "state":"ma"
 },
   "bbox": [

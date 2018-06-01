@@ -8,6 +8,7 @@
     "district_num":"175",
     "geoid":"42175",
     "name":"State House District 175",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:175",
     "state":"pa"
 },
   "bbox": [

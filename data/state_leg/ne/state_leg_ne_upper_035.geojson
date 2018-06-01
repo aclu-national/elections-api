@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"31035",
     "name":"State Senate District 35",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:35",
     "state":"ne"
 },
   "bbox": [

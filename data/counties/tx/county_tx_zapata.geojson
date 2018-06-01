@@ -6,6 +6,7 @@
     "area_water":154370982,
     "geoid":"48505",
     "name":"Zapata",
+    "ocd_id":"ocd-division/country:us/state:tx/county:zapata",
     "state":"tx"
 },
   "bbox": [

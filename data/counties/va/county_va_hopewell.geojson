@@ -6,6 +6,7 @@
     "area_water":1324529,
     "geoid":"51670",
     "name":"Hopewell",
+    "ocd_id":"ocd-division/country:us/state:va/county:hopewell",
     "state":"va"
 },
   "bbox": [

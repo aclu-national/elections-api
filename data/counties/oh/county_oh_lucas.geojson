@@ -6,6 +6,7 @@
     "area_water":660199684,
     "geoid":"39095",
     "name":"Lucas",
+    "ocd_id":"ocd-division/country:us/state:oh/county:lucas",
     "state":"oh"
 },
   "bbox": [

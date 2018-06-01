@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"40046",
     "name":"State Senate District 46",
+    "ocd_id":"ocd-division/country:us/state:ok/sldu:46",
     "state":"ok"
 },
   "bbox": [

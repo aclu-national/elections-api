@@ -8,6 +8,7 @@
     "district_num":"101",
     "geoid":"22101",
     "name":"State House District 101",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:101",
     "state":"la"
 },
   "bbox": [

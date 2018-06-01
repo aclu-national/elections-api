@@ -8,6 +8,7 @@
     "district_num":"211",
     "geoid":"25211",
     "name":"9th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:211",
     "state":"ma"
 },
   "bbox": [

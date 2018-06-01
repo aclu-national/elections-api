@@ -6,6 +6,7 @@
     "area_water":5449745,
     "geoid":"51145",
     "name":"Powhatan",
+    "ocd_id":"ocd-division/country:us/state:va/county:powhatan",
     "state":"va"
 },
   "bbox": [

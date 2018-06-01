@@ -6,6 +6,7 @@
     "area_water":29602238,
     "geoid":"22121",
     "name":"West Baton Rouge",
+    "ocd_id":"ocd-division/country:us/state:la/county:west_baton_rouge",
     "state":"la"
 },
   "bbox": [

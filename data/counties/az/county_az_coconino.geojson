@@ -6,6 +6,7 @@
     "area_water":110085803,
     "geoid":"04005",
     "name":"Coconino",
+    "ocd_id":"ocd-division/country:us/state:az/county:coconino",
     "state":"az"
 },
   "bbox": [

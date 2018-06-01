@@ -8,6 +8,7 @@
     "district_num":"073",
     "geoid":"06073",
     "name":"Assembly District 73",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:73",
     "state":"ca"
 },
   "bbox": [

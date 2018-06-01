@@ -6,6 +6,7 @@
     "area_water":7740249,
     "geoid":"41003",
     "name":"Benton",
+    "ocd_id":"ocd-division/country:us/state:or/county:benton",
     "state":"or"
 },
   "bbox": [

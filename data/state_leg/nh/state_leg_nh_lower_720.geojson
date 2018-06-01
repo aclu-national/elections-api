@@ -8,6 +8,7 @@
     "district_num":"720",
     "geoid":"33720",
     "name":"State House District Rockingham County No. 20",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:720",
     "state":"nh"
 },
   "bbox": [

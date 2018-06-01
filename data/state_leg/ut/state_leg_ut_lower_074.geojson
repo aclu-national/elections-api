@@ -8,6 +8,7 @@
     "district_num":"074",
     "geoid":"49074",
     "name":"State House District 74",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:74",
     "state":"ut"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"72003",
     "name":"State Senate District III",
+    "ocd_id":"ocd-division/country:us/state:pr/sldu:3",
     "state":"pr"
 },
   "bbox": [

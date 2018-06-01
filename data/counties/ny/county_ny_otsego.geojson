@@ -6,6 +6,7 @@
     "area_water":36339122,
     "geoid":"36077",
     "name":"Otsego",
+    "ocd_id":"ocd-division/country:us/state:ny/county:otsego",
     "state":"ny"
 },
   "bbox": [

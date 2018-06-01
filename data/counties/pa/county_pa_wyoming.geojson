@@ -6,6 +6,7 @@
     "area_water":20034376,
     "geoid":"42131",
     "name":"Wyoming",
+    "ocd_id":"ocd-division/country:us/state:pa/county:wyoming",
     "state":"pa"
 },
   "bbox": [

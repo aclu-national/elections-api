@@ -8,6 +8,7 @@
     "district_num":"093",
     "geoid":"20093",
     "name":"State House District 93",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:93",
     "state":"ks"
 },
   "bbox": [

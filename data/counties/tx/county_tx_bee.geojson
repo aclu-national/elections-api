@@ -6,6 +6,7 @@
     "area_water":246409,
     "geoid":"48025",
     "name":"Bee",
+    "ocd_id":"ocd-division/country:us/state:tx/county:bee",
     "state":"tx"
 },
   "bbox": [

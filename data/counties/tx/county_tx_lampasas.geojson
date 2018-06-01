@@ -6,6 +6,7 @@
     "area_water":2833490,
     "geoid":"48281",
     "name":"Lampasas",
+    "ocd_id":"ocd-division/country:us/state:tx/county:lampasas",
     "state":"tx"
 },
   "bbox": [

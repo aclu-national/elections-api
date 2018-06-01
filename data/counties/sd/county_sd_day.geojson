@@ -6,6 +6,7 @@
     "area_water":163751130,
     "geoid":"46037",
     "name":"Day",
+    "ocd_id":"ocd-division/country:us/state:sd/county:day",
     "state":"sd"
 },
   "bbox": [

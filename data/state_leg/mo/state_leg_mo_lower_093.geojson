@@ -8,6 +8,7 @@
     "district_num":"093",
     "geoid":"29093",
     "name":"State House District 93",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:93",
     "state":"mo"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"124",
     "geoid":"23124",
     "name":"State House District 124",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:124",
     "state":"me"
 },
   "bbox": [

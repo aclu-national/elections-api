@@ -8,6 +8,7 @@
     "district_num":"058",
     "geoid":"06058",
     "name":"Assembly District 58",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:58",
     "state":"ca"
 },
   "bbox": [

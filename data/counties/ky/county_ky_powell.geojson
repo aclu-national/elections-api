@@ -6,6 +6,7 @@
     "area_water":2956914,
     "geoid":"21197",
     "name":"Powell",
+    "ocd_id":"ocd-division/country:us/state:ky/county:powell",
     "state":"ky"
 },
   "bbox": [

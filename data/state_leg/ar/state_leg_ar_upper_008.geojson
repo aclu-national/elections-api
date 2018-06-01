@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"05008",
     "name":"State Senate District 8",
+    "ocd_id":"ocd-division/country:us/state:ar/sldu:8",
     "state":"ar"
 },
   "bbox": [

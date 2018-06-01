@@ -6,6 +6,7 @@
     "area_water":47038989,
     "geoid":"48497",
     "name":"Wise",
+    "ocd_id":"ocd-division/country:us/state:tx/county:wise",
     "state":"tx"
 },
   "bbox": [

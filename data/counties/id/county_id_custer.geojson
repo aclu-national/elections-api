@@ -6,6 +6,7 @@
     "area_water":42566923,
     "geoid":"16037",
     "name":"Custer",
+    "ocd_id":"ocd-division/country:us/state:id/county:custer",
     "state":"id"
 },
   "bbox": [

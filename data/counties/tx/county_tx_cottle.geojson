@@ -6,6 +6,7 @@
     "area_water":2723996,
     "geoid":"48101",
     "name":"Cottle",
+    "ocd_id":"ocd-division/country:us/state:tx/county:cottle",
     "state":"tx"
 },
   "bbox": [

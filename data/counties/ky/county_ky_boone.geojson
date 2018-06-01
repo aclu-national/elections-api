@@ -6,6 +6,7 @@
     "area_water":26558591,
     "geoid":"21015",
     "name":"Boone",
+    "ocd_id":"ocd-division/country:us/state:ky/county:boone",
     "state":"ky"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":548248,
     "geoid":"20181",
     "name":"Sherman",
+    "ocd_id":"ocd-division/country:us/state:ks/county:sherman",
     "state":"ks"
 },
   "bbox": [

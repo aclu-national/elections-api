@@ -6,6 +6,7 @@
     "area_water":116470919,
     "geoid":"48085",
     "name":"Collin",
+    "ocd_id":"ocd-division/country:us/state:tx/county:collin",
     "state":"tx"
 },
   "bbox": [

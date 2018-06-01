@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"36106",
     "name":"Assembly District 106",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:106",
     "state":"ny"
 },
   "bbox": [

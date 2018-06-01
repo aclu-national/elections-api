@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"36013",
     "name":"Assembly District 13",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:13",
     "state":"ny"
 },
   "bbox": [

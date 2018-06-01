@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"06021",
     "name":"Assembly District 21",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:21",
     "state":"ca"
 },
   "bbox": [

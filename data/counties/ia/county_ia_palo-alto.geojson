@@ -6,6 +6,7 @@
     "area_water":14437623,
     "geoid":"19147",
     "name":"Palo Alto",
+    "ocd_id":"ocd-division/country:us/state:ia/county:palo_alto",
     "state":"ia"
 },
   "bbox": [

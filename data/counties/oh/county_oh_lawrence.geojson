@@ -6,6 +6,7 @@
     "area_water":10110033,
     "geoid":"39087",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:oh/county:lawrence",
     "state":"oh"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"21063",
     "name":"State House District 63",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:63",
     "state":"ky"
 },
   "bbox": [

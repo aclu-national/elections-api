@@ -6,6 +6,7 @@
     "area_water":322409,
     "geoid":"51520",
     "name":"Bristol",
+    "ocd_id":"ocd-division/country:us/state:va/county:bristol",
     "state":"va"
 },
   "bbox": [

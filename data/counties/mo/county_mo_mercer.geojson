@@ -6,6 +6,7 @@
     "area_water":3302140,
     "geoid":"29129",
     "name":"Mercer",
+    "ocd_id":"ocd-division/country:us/state:mo/county:mercer",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5453080,
     "geoid":"06031",
     "name":"Kings",
+    "ocd_id":"ocd-division/country:us/state:ca/county:kings",
     "state":"ca"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"02032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:ak/sldl:32",
     "state":"ak"
 },
   "bbox": [

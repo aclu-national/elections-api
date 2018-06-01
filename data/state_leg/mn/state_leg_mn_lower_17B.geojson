@@ -8,6 +8,7 @@
     "district_num":"17B",
     "geoid":"2717B",
     "name":"State House District 17B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:17B",
     "state":"mn"
 },
   "bbox": [

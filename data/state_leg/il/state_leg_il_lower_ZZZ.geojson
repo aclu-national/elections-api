@@ -8,6 +8,7 @@
     "district_num":"ZZZ",
     "geoid":"17ZZZ",
     "name":"State House Districts not defined",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:ZZZ",
     "state":"il"
 },
   "bbox": [

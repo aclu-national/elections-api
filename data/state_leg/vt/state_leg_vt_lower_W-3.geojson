@@ -8,6 +8,7 @@
     "district_num":"W-3",
     "geoid":"50W-3",
     "name":"Windham-3 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:W-3",
     "state":"vt"
 },
   "bbox": [

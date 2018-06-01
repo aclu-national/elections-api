@@ -6,6 +6,7 @@
     "area_water":38556769,
     "geoid":"22033",
     "name":"East Baton Rouge",
+    "ocd_id":"ocd-division/country:us/state:la/county:east_baton_rouge",
     "state":"la"
 },
   "bbox": [

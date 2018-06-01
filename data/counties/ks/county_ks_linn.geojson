@@ -6,6 +6,7 @@
     "area_water":31974029,
     "geoid":"20107",
     "name":"Linn",
+    "ocd_id":"ocd-division/country:us/state:ks/county:linn",
     "state":"ks"
 },
   "bbox": [

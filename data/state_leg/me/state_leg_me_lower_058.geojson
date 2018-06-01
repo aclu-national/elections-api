@@ -8,6 +8,7 @@
     "district_num":"058",
     "geoid":"23058",
     "name":"State House District 58",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:58",
     "state":"me"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2386193,
     "geoid":"18067",
     "name":"Howard",
+    "ocd_id":"ocd-division/country:us/state:in/county:howard",
     "state":"in"
 },
   "bbox": [

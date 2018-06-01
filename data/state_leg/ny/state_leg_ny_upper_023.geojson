@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"36023",
     "name":"State Senate District 23",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:23",
     "state":"ny"
 },
   "bbox": [

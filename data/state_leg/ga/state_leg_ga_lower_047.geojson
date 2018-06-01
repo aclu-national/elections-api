@@ -8,6 +8,7 @@
     "district_num":"047",
     "geoid":"13047",
     "name":"State House District 47",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:47",
     "state":"ga"
 },
   "bbox": [

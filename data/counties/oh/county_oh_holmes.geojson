@@ -6,6 +6,7 @@
     "area_water":3745075,
     "geoid":"39075",
     "name":"Holmes",
+    "ocd_id":"ocd-division/country:us/state:oh/county:holmes",
     "state":"oh"
 },
   "bbox": [

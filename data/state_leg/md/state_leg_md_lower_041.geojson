@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"24041",
     "name":"State Legislative District 41",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:41",
     "state":"md"
 },
   "bbox": [

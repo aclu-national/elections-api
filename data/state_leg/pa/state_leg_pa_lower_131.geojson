@@ -8,6 +8,7 @@
     "district_num":"131",
     "geoid":"42131",
     "name":"State House District 131",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:131",
     "state":"pa"
 },
   "bbox": [

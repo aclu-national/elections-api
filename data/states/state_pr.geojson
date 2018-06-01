@@ -6,6 +6,7 @@
     "area_water":4922543816,
     "geoid":"72",
     "name":"Puerto Rico",
+    "ocd_id":"ocd-division/country:us/state:pr",
     "state":"pr"
 },
   "bbox": [

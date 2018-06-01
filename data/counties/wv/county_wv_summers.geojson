@@ -6,6 +6,7 @@
     "area_water":18506801,
     "geoid":"54089",
     "name":"Summers",
+    "ocd_id":"ocd-division/country:us/state:wv/county:summers",
     "state":"wv"
 },
   "bbox": [

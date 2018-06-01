@@ -6,6 +6,7 @@
     "area_water":12818644,
     "geoid":"42047",
     "name":"Elk",
+    "ocd_id":"ocd-division/country:us/state:pa/county:elk",
     "state":"pa"
 },
   "bbox": [

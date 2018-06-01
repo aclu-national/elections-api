@@ -6,6 +6,7 @@
     "area_water":1625260,
     "geoid":"72153",
     "name":"Yauco",
+    "ocd_id":"ocd-division/country:us/state:pr/county:yauco",
     "state":"pr"
 },
   "bbox": [

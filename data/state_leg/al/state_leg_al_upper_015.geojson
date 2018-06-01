@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"01015",
     "name":"State Senate District 15",
+    "ocd_id":"ocd-division/country:us/state:al/sldu:15",
     "state":"al"
 },
   "bbox": [

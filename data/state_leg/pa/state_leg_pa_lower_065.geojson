@@ -8,6 +8,7 @@
     "district_num":"065",
     "geoid":"42065",
     "name":"State House District 65",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:65",
     "state":"pa"
 },
   "bbox": [

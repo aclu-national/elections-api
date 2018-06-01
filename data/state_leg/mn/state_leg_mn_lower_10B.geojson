@@ -8,6 +8,7 @@
     "district_num":"10B",
     "geoid":"2710B",
     "name":"State House District 10B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:10B",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":17448075,
     "geoid":"22127",
     "name":"Winn",
+    "ocd_id":"ocd-division/country:us/state:la/county:winn",
     "state":"la"
 },
   "bbox": [

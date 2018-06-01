@@ -6,6 +6,7 @@
     "area_water":13470113896,
     "geoid":"37",
     "name":"North Carolina",
+    "ocd_id":"ocd-division/country:us/state:nc",
     "state":"nc"
 },
   "bbox": [

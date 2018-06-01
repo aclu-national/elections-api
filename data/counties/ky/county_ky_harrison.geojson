@@ -6,6 +6,7 @@
     "area_water":9057368,
     "geoid":"21097",
     "name":"Harrison",
+    "ocd_id":"ocd-division/country:us/state:ky/county:harrison",
     "state":"ky"
 },
   "bbox": [

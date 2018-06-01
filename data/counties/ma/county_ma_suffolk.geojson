@@ -6,6 +6,7 @@
     "area_water":160479920,
     "geoid":"25025",
     "name":"Suffolk",
+    "ocd_id":"ocd-division/country:us/state:ma/county:suffolk",
     "state":"ma"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":69922923,
     "geoid":"48053",
     "name":"Burnet",
+    "ocd_id":"ocd-division/country:us/state:tx/county:burnet",
     "state":"tx"
 },
   "bbox": [

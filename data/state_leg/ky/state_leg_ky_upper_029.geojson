@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"21029",
     "name":"State Senate District 29",
+    "ocd_id":"ocd-division/country:us/state:ky/sldu:29",
     "state":"ky"
 },
   "bbox": [

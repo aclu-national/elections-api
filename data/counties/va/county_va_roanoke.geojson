@@ -6,6 +6,7 @@
     "area_water":1762701,
     "geoid":"51161",
     "name":"Roanoke",
+    "ocd_id":"ocd-division/country:us/state:va/county:roanoke",
     "state":"va"
 },
   "bbox": [

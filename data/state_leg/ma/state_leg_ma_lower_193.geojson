@@ -8,6 +8,7 @@
     "district_num":"193",
     "geoid":"25193",
     "name":"10th Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:193",
     "state":"ma"
 },
   "bbox": [

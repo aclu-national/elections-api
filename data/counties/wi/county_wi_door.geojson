@@ -6,6 +6,7 @@
     "area_water":4890604624,
     "geoid":"55029",
     "name":"Door",
+    "ocd_id":"ocd-division/country:us/state:wi/county:door",
     "state":"wi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"04013",
     "name":"State House District 13",
+    "ocd_id":"ocd-division/country:us/state:az/sldl:13",
     "state":"az"
 },
   "bbox": [

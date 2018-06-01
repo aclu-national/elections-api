@@ -6,6 +6,7 @@
     "area_water":81066532,
     "geoid":"31107",
     "name":"Knox",
+    "ocd_id":"ocd-division/country:us/state:ne/county:knox",
     "state":"ne"
 },
   "bbox": [

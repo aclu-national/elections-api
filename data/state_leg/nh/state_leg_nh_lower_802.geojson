@@ -8,6 +8,7 @@
     "district_num":"802",
     "geoid":"33802",
     "name":"State House District Strafford County No. 2",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:802",
     "state":"nh"
 },
   "bbox": [

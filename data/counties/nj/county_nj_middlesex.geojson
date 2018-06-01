@@ -6,6 +6,7 @@
     "area_water":35472648,
     "geoid":"34023",
     "name":"Middlesex",
+    "ocd_id":"ocd-division/country:us/state:nj/county:middlesex",
     "state":"nj"
 },
   "bbox": [

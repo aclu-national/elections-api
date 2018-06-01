@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"25018",
     "name":"Second Essex & Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:18",
     "state":"ma"
 },
   "bbox": [

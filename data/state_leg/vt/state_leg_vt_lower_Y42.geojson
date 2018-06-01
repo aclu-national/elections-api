@@ -8,6 +8,7 @@
     "district_num":"Y42",
     "geoid":"50Y42",
     "name":"Windsor-4-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:Y42",
     "state":"vt"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"05011",
     "name":"State Senate District 11",
+    "ocd_id":"ocd-division/country:us/state:ar/sldu:11",
     "state":"ar"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":18875138,
     "geoid":"21235",
     "name":"Whitley",
+    "ocd_id":"ocd-division/country:us/state:ky/county:whitley",
     "state":"ky"
 },
   "bbox": [

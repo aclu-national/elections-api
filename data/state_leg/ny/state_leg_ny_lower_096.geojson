@@ -8,6 +8,7 @@
     "district_num":"096",
     "geoid":"36096",
     "name":"Assembly District 96",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:96",
     "state":"ny"
 },
   "bbox": [

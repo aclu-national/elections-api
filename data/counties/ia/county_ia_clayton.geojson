@@ -6,6 +6,7 @@
     "area_water":36695627,
     "geoid":"19043",
     "name":"Clayton",
+    "ocd_id":"ocd-division/country:us/state:ia/county:clayton",
     "state":"ia"
 },
   "bbox": [

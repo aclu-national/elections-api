@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"12037",
     "name":"State Senate District 37",
+    "ocd_id":"ocd-division/country:us/state:fl/sldu:37",
     "state":"fl"
 },
   "bbox": [

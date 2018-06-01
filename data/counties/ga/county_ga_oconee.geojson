@@ -6,6 +6,7 @@
     "area_water":5305211,
     "geoid":"13219",
     "name":"Oconee",
+    "ocd_id":"ocd-division/country:us/state:ga/county:oconee",
     "state":"ga"
 },
   "bbox": [

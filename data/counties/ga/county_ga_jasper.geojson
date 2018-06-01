@@ -6,6 +6,7 @@
     "area_water":13732175,
     "geoid":"13159",
     "name":"Jasper",
+    "ocd_id":"ocd-division/country:us/state:ga/county:jasper",
     "state":"ga"
 },
   "bbox": [

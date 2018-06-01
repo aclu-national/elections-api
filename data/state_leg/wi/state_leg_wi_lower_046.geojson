@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"55046",
     "name":"Assembly District 46",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:46",
     "state":"wi"
 },
   "bbox": [

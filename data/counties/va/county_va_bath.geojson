@@ -6,6 +6,7 @@
     "area_water":14039993,
     "geoid":"51017",
     "name":"Bath",
+    "ocd_id":"ocd-division/country:us/state:va/county:bath",
     "state":"va"
 },
   "bbox": [

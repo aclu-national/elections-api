@@ -8,6 +8,7 @@
     "district_num":"168",
     "geoid":"13168",
     "name":"State House District 168",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:168",
     "state":"ga"
 },
   "bbox": [

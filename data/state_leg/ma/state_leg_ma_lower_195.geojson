@@ -8,6 +8,7 @@
     "district_num":"195",
     "geoid":"25195",
     "name":"12th Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:195",
     "state":"ma"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":34489285,
     "geoid":"01039",
     "name":"Covington",
+    "ocd_id":"ocd-division/country:us/state:al/county:covington",
     "state":"al"
 },
   "bbox": [

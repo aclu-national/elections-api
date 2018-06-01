@@ -6,6 +6,7 @@
     "area_water":393201898,
     "geoid":"12091",
     "name":"Okaloosa",
+    "ocd_id":"ocd-division/country:us/state:fl/county:okaloosa",
     "state":"fl"
 },
   "bbox": [

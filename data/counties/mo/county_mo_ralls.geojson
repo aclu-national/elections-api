@@ -6,6 +6,7 @@
     "area_water":36396585,
     "geoid":"29173",
     "name":"Ralls",
+    "ocd_id":"ocd-division/country:us/state:mo/county:ralls",
     "state":"mo"
 },
   "bbox": [

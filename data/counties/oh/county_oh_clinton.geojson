@@ -6,6 +6,7 @@
     "area_water":9351754,
     "geoid":"39027",
     "name":"Clinton",
+    "ocd_id":"ocd-division/country:us/state:oh/county:clinton",
     "state":"oh"
 },
   "bbox": [

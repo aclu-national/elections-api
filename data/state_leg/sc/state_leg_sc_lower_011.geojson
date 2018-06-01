@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"45011",
     "name":"State House District HD-011",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:11",
     "state":"sc"
 },
   "bbox": [

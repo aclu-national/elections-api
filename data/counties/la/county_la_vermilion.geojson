@@ -6,6 +6,7 @@
     "area_water":955343208,
     "geoid":"22113",
     "name":"Vermilion",
+    "ocd_id":"ocd-division/country:us/state:la/county:vermilion",
     "state":"la"
 },
   "bbox": [

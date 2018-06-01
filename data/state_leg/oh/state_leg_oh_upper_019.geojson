@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"39019",
     "name":"State Senate District 19",
+    "ocd_id":"ocd-division/country:us/state:oh/sldu:19",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":23502960,
     "geoid":"13145",
     "name":"Harris",
+    "ocd_id":"ocd-division/country:us/state:ga/county:harris",
     "state":"ga"
 },
   "bbox": [

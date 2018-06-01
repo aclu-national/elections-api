@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"25011",
     "name":"Second Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:11",
     "state":"ma"
 },
   "bbox": [

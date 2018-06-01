@@ -6,6 +6,7 @@
     "area_water":8156569,
     "geoid":"38035",
     "name":"Grand Forks",
+    "ocd_id":"ocd-division/country:us/state:nd/county:grand_forks",
     "state":"nd"
 },
   "bbox": [

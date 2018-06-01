@@ -6,6 +6,7 @@
     "area_water":698598,
     "geoid":"19191",
     "name":"Winneshiek",
+    "ocd_id":"ocd-division/country:us/state:ia/county:winneshiek",
     "state":"ia"
 },
   "bbox": [

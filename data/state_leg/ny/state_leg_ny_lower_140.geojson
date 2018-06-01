@@ -8,6 +8,7 @@
     "district_num":"140",
     "geoid":"36140",
     "name":"Assembly District 140",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:140",
     "state":"ny"
 },
   "bbox": [

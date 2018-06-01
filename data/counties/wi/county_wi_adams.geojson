@@ -6,6 +6,7 @@
     "area_water":108432130,
     "geoid":"55001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:wi/county:adams",
     "state":"wi"
 },
   "bbox": [

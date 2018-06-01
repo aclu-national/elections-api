@@ -6,6 +6,7 @@
     "area_water":35597678,
     "geoid":"51127",
     "name":"New Kent",
+    "ocd_id":"ocd-division/country:us/state:va/county:new_kent",
     "state":"va"
 },
   "bbox": [

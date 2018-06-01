@@ -6,6 +6,7 @@
     "area_water":60716111,
     "geoid":"19059",
     "name":"Dickinson",
+    "ocd_id":"ocd-division/country:us/state:ia/county:dickinson",
     "state":"ia"
 },
   "bbox": [

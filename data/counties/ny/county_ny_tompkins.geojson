@@ -6,6 +6,7 @@
     "area_water":43792937,
     "geoid":"36109",
     "name":"Tompkins",
+    "ocd_id":"ocd-division/country:us/state:ny/county:tompkins",
     "state":"ny"
 },
   "bbox": [

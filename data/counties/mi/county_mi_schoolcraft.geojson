@@ -6,6 +6,7 @@
     "area_water":1845664144,
     "geoid":"26153",
     "name":"Schoolcraft",
+    "ocd_id":"ocd-division/country:us/state:mi/county:schoolcraft",
     "state":"mi"
 },
   "bbox": [

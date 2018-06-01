@@ -6,6 +6,7 @@
     "area_water":855217016,
     "geoid":"39123",
     "name":"Ottawa",
+    "ocd_id":"ocd-division/country:us/state:oh/county:ottawa",
     "state":"oh"
 },
   "bbox": [

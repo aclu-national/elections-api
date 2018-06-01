@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"54060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:60",
     "state":"wv"
 },
   "bbox": [

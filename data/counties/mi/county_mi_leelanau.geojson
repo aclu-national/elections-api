@@ -6,6 +6,7 @@
     "area_water":5659140425,
     "geoid":"26089",
     "name":"Leelanau",
+    "ocd_id":"ocd-division/country:us/state:mi/county:leelanau",
     "state":"mi"
 },
   "bbox": [

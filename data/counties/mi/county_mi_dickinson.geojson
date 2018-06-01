@@ -6,6 +6,7 @@
     "area_water":40519954,
     "geoid":"26043",
     "name":"Dickinson",
+    "ocd_id":"ocd-division/country:us/state:mi/county:dickinson",
     "state":"mi"
 },
   "bbox": [

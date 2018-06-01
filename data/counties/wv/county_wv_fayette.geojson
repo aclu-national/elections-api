@@ -6,6 +6,7 @@
     "area_water":17505425,
     "geoid":"54019",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:wv/county:fayette",
     "state":"wv"
 },
   "bbox": [

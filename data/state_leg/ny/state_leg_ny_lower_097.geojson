@@ -8,6 +8,7 @@
     "district_num":"097",
     "geoid":"36097",
     "name":"Assembly District 97",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:97",
     "state":"ny"
 },
   "bbox": [

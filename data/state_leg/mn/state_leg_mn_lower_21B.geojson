@@ -8,6 +8,7 @@
     "district_num":"21B",
     "geoid":"2721B",
     "name":"State House District 21B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:21B",
     "state":"mn"
 },
   "bbox": [

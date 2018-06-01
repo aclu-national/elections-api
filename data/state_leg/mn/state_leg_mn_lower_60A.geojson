@@ -8,6 +8,7 @@
     "district_num":"60A",
     "geoid":"2760A",
     "name":"State House District 60A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:60A",
     "state":"mn"
 },
   "bbox": [

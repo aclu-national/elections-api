@@ -6,6 +6,7 @@
     "area_water":94636933,
     "geoid":"72071",
     "name":"Isabela",
+    "ocd_id":"ocd-division/country:us/state:pr/county:isabela",
     "state":"pr"
 },
   "bbox": [

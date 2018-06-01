@@ -6,6 +6,7 @@
     "area_water":544752776,
     "geoid":"41011",
     "name":"Coos",
+    "ocd_id":"ocd-division/country:us/state:or/county:coos",
     "state":"or"
 },
   "bbox": [

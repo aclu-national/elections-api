@@ -8,6 +8,7 @@
     "district_num":"F31",
     "geoid":"50F31",
     "name":"Franklin-3-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:F31",
     "state":"vt"
 },
   "bbox": [

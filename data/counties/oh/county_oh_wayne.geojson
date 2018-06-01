@@ -6,6 +6,7 @@
     "area_water":5055679,
     "geoid":"39169",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:oh/county:wayne",
     "state":"oh"
 },
   "bbox": [

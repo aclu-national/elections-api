@@ -6,6 +6,7 @@
     "area_water":1921424713,
     "geoid":"55061",
     "name":"Kewaunee",
+    "ocd_id":"ocd-division/country:us/state:wi/county:kewaunee",
     "state":"wi"
 },
   "bbox": [

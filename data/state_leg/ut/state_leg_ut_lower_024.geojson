@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"49024",
     "name":"State House District 24",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:24",
     "state":"ut"
 },
   "bbox": [

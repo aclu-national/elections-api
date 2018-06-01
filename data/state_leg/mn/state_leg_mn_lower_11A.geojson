@@ -8,6 +8,7 @@
     "district_num":"11A",
     "geoid":"2711A",
     "name":"State House District 11A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:11A",
     "state":"mn"
 },
   "bbox": [

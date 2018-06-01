@@ -6,6 +6,7 @@
     "area_water":59602530,
     "geoid":"32019",
     "name":"Lyon",
+    "ocd_id":"ocd-division/country:us/state:nv/county:lyon",
     "state":"nv"
 },
   "bbox": [

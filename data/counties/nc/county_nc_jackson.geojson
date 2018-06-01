@@ -6,6 +6,7 @@
     "area_water":9781460,
     "geoid":"37099",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:nc/county:jackson",
     "state":"nc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"070",
     "geoid":"25070",
     "name":"2nd Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:70",
     "state":"ma"
 },
   "bbox": [

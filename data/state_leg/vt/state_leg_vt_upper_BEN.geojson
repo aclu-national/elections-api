@@ -8,6 +8,7 @@
     "district_num":"BEN",
     "geoid":"50BEN",
     "name":"Bennington State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:BEN",
     "state":"vt"
 },
   "bbox": [

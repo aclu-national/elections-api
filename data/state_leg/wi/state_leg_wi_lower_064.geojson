@@ -8,6 +8,7 @@
     "district_num":"064",
     "geoid":"55064",
     "name":"Assembly District 64",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:64",
     "state":"wi"
 },
   "bbox": [

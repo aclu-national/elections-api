@@ -6,6 +6,7 @@
     "area_water":74935920,
     "geoid":"53071",
     "name":"Walla Walla",
+    "ocd_id":"ocd-division/country:us/state:wa/county:walla_walla",
     "state":"wa"
 },
   "bbox": [

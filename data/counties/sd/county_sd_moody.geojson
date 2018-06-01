@@ -6,6 +6,7 @@
     "area_water":3679400,
     "geoid":"46101",
     "name":"Moody",
+    "ocd_id":"ocd-division/country:us/state:sd/county:moody",
     "state":"sd"
 },
   "bbox": [

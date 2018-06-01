@@ -8,6 +8,7 @@
     "district_num":"168",
     "geoid":"25168",
     "name":"12th Norfolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:168",
     "state":"ma"
 },
   "bbox": [

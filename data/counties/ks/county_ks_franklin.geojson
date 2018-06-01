@@ -6,6 +6,7 @@
     "area_water":13920174,
     "geoid":"20059",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ks/county:franklin",
     "state":"ks"
 },
   "bbox": [

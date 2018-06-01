@@ -8,6 +8,7 @@
     "district_num":"140",
     "geoid":"42140",
     "name":"State House District 140",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:140",
     "state":"pa"
 },
   "bbox": [

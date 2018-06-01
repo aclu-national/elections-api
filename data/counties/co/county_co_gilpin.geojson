@@ -6,6 +6,7 @@
     "area_water":942056,
     "geoid":"08047",
     "name":"Gilpin",
+    "ocd_id":"ocd-division/country:us/state:co/county:gilpin",
     "state":"co"
 },
   "bbox": [

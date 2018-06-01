@@ -6,6 +6,7 @@
     "area_water":11459910,
     "geoid":"54073",
     "name":"Pleasants",
+    "ocd_id":"ocd-division/country:us/state:wv/county:pleasants",
     "state":"wv"
 },
   "bbox": [

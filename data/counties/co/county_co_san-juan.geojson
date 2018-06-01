@@ -6,6 +6,7 @@
     "area_water":2035929,
     "geoid":"08111",
     "name":"San Juan",
+    "ocd_id":"ocd-division/country:us/state:co/county:san_juan",
     "state":"co"
 },
   "bbox": [

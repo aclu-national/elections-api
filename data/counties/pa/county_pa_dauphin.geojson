@@ -6,6 +6,7 @@
     "area_water":85780786,
     "geoid":"42043",
     "name":"Dauphin",
+    "ocd_id":"ocd-division/country:us/state:pa/county:dauphin",
     "state":"pa"
 },
   "bbox": [

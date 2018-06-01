@@ -8,6 +8,7 @@
     "district_num":"142",
     "geoid":"13142",
     "name":"State House District 142",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:142",
     "state":"ga"
 },
   "bbox": [

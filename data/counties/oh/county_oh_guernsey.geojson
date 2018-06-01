@@ -6,6 +6,7 @@
     "area_water":15666075,
     "geoid":"39059",
     "name":"Guernsey",
+    "ocd_id":"ocd-division/country:us/state:oh/county:guernsey",
     "state":"oh"
 },
   "bbox": [

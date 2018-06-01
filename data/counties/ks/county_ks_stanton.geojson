@@ -6,6 +6,7 @@
     "area_water":178555,
     "geoid":"20187",
     "name":"Stanton",
+    "ocd_id":"ocd-division/country:us/state:ks/county:stanton",
     "state":"ks"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":20695904,
     "geoid":"55105",
     "name":"Rock",
+    "ocd_id":"ocd-division/country:us/state:wi/county:rock",
     "state":"wi"
 },
   "bbox": [

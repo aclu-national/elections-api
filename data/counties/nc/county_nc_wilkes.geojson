@@ -6,6 +6,7 @@
     "area_water":6862434,
     "geoid":"37193",
     "name":"Wilkes",
+    "ocd_id":"ocd-division/country:us/state:nc/county:wilkes",
     "state":"nc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":50642922,
     "geoid":"25003",
     "name":"Berkshire",
+    "ocd_id":"ocd-division/country:us/state:ma/county:berkshire",
     "state":"ma"
 },
   "bbox": [

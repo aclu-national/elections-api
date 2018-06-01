@@ -6,6 +6,7 @@
     "area_water":40128067,
     "geoid":"09003",
     "name":"Hartford",
+    "ocd_id":"ocd-division/country:us/state:ct/county:hartford",
     "state":"ct"
 },
   "bbox": [

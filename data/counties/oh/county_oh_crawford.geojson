@@ -6,6 +6,7 @@
     "area_water":2359515,
     "geoid":"39033",
     "name":"Crawford",
+    "ocd_id":"ocd-division/country:us/state:oh/county:crawford",
     "state":"oh"
 },
   "bbox": [

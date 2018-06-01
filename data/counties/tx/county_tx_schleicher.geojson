@@ -6,6 +6,7 @@
     "area_water":87401,
     "geoid":"48413",
     "name":"Schleicher",
+    "ocd_id":"ocd-division/country:us/state:tx/county:schleicher",
     "state":"tx"
 },
   "bbox": [

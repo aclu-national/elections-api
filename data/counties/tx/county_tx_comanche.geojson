@@ -6,6 +6,7 @@
     "area_water":25718009,
     "geoid":"48093",
     "name":"Comanche",
+    "ocd_id":"ocd-division/country:us/state:tx/county:comanche",
     "state":"tx"
 },
   "bbox": [

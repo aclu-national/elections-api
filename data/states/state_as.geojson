@@ -6,6 +6,7 @@
     "area_water":1307243753,
     "geoid":"60",
     "name":"American Samoa",
+    "ocd_id":"ocd-division/country:us/state:as",
     "state":"as"
 },
   "bbox": [

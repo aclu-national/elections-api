@@ -6,6 +6,7 @@
     "area_water":41883375,
     "geoid":"55115",
     "name":"Shawano",
+    "ocd_id":"ocd-division/country:us/state:wi/county:shawano",
     "state":"wi"
 },
   "bbox": [

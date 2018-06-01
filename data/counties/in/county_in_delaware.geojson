@@ -6,6 +6,7 @@
     "area_water":9857909,
     "geoid":"18035",
     "name":"Delaware",
+    "ocd_id":"ocd-division/country:us/state:in/county:delaware",
     "state":"in"
 },
   "bbox": [

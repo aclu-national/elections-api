@@ -6,6 +6,7 @@
     "area_water":3230651989,
     "geoid":"55003",
     "name":"Ashland",
+    "ocd_id":"ocd-division/country:us/state:wi/county:ashland",
     "state":"wi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5960710,
     "geoid":"47169",
     "name":"Trousdale",
+    "ocd_id":"ocd-division/country:us/state:tn/county:trousdale",
     "state":"tn"
 },
   "bbox": [

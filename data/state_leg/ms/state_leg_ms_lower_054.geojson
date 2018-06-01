@@ -8,6 +8,7 @@
     "district_num":"054",
     "geoid":"28054",
     "name":"State House District 54",
+    "ocd_id":"ocd-division/country:us/state:ms/sldl:54",
     "state":"ms"
 },
   "bbox": [

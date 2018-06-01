@@ -6,6 +6,7 @@
     "area_water":5629244,
     "geoid":"41033",
     "name":"Josephine",
+    "ocd_id":"ocd-division/country:us/state:or/county:josephine",
     "state":"or"
 },
   "bbox": [

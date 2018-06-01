@@ -8,6 +8,7 @@
     "district_num":"41B",
     "geoid":"2741B",
     "name":"State House District 41B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:41B",
     "state":"mn"
 },
   "bbox": [

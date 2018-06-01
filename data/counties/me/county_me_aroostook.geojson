@@ -6,6 +6,7 @@
     "area_water":405253238,
     "geoid":"23003",
     "name":"Aroostook",
+    "ocd_id":"ocd-division/country:us/state:me/county:aroostook",
     "state":"me"
 },
   "bbox": [

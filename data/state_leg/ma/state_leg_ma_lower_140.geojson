@@ -8,6 +8,7 @@
     "district_num":"140",
     "geoid":"25140",
     "name":"23rd Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:140",
     "state":"ma"
 },
   "bbox": [

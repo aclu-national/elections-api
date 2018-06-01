@@ -6,6 +6,7 @@
     "area_water":22050453,
     "geoid":"42129",
     "name":"Westmoreland",
+    "ocd_id":"ocd-division/country:us/state:pa/county:westmoreland",
     "state":"pa"
 },
   "bbox": [

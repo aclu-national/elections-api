@@ -8,6 +8,7 @@
     "district_num":"047",
     "geoid":"38047",
     "name":"State Senate District 47",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:47",
     "state":"nd"
 },
   "bbox": [

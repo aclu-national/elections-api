@@ -6,6 +6,7 @@
     "area_water":11701702,
     "geoid":"45021",
     "name":"Cherokee",
+    "ocd_id":"ocd-division/country:us/state:sc/county:cherokee",
     "state":"sc"
 },
   "bbox": [

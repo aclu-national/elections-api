@@ -6,6 +6,7 @@
     "area_water":8739522,
     "geoid":"48249",
     "name":"Jim Wells",
+    "ocd_id":"ocd-division/country:us/state:tx/county:jim_wells",
     "state":"tx"
 },
   "bbox": [

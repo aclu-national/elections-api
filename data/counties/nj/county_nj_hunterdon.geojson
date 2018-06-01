@@ -6,6 +6,7 @@
     "area_water":24800279,
     "geoid":"34019",
     "name":"Hunterdon",
+    "ocd_id":"ocd-division/country:us/state:nj/county:hunterdon",
     "state":"nj"
 },
   "bbox": [

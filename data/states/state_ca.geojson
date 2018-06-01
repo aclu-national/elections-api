@@ -6,6 +6,7 @@
     "area_water":20484637928,
     "geoid":"06",
     "name":"California",
+    "ocd_id":"ocd-division/country:us/state:ca",
     "state":"ca"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"054",
     "geoid":"55054",
     "name":"Assembly District 54",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:54",
     "state":"wi"
 },
   "bbox": [

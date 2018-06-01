@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"24004",
     "name":"State Legislative District 4",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:4",
     "state":"md"
 },
   "bbox": [

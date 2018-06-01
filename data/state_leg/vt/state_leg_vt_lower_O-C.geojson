@@ -8,6 +8,7 @@
     "district_num":"O-C",
     "geoid":"50O-C",
     "name":"Orange-Caledonia State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:O-C",
     "state":"vt"
 },
   "bbox": [

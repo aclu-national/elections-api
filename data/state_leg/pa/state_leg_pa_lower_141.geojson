@@ -8,6 +8,7 @@
     "district_num":"141",
     "geoid":"42141",
     "name":"State House District 141",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:141",
     "state":"pa"
 },
   "bbox": [

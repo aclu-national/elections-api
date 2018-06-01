@@ -6,6 +6,7 @@
     "area_water":37217197,
     "geoid":"48401",
     "name":"Rusk",
+    "ocd_id":"ocd-division/country:us/state:tx/county:rusk",
     "state":"tx"
 },
   "bbox": [

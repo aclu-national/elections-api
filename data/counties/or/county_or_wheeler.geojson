@@ -6,6 +6,7 @@
     "area_water":1241033,
     "geoid":"41069",
     "name":"Wheeler",
+    "ocd_id":"ocd-division/country:us/state:or/county:wheeler",
     "state":"or"
 },
   "bbox": [

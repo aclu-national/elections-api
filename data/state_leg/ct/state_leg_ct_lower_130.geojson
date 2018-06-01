@@ -8,6 +8,7 @@
     "district_num":"130",
     "geoid":"09130",
     "name":"State House District 130",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:130",
     "state":"ct"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"09018",
     "name":"State House District 18",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:18",
     "state":"ct"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"49039",
     "name":"State House District 39",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:39",
     "state":"ut"
 },
   "bbox": [

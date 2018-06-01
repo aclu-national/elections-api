@@ -6,6 +6,7 @@
     "area_water":68687366,
     "geoid":"01079",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:al/county:lawrence",
     "state":"al"
 },
   "bbox": [

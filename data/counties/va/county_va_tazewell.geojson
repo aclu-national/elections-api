@@ -6,6 +6,7 @@
     "area_water":2921369,
     "geoid":"51185",
     "name":"Tazewell",
+    "ocd_id":"ocd-division/country:us/state:va/county:tazewell",
     "state":"va"
 },
   "bbox": [

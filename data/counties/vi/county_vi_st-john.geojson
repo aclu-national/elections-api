@@ -6,6 +6,7 @@
     "area_water":186671948,
     "geoid":"78020",
     "name":"St. John",
+    "ocd_id":"ocd-division/country:us/state:vi/county:st_john",
     "state":"vi"
 },
   "bbox": [

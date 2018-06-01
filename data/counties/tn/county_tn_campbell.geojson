@@ -6,6 +6,7 @@
     "area_water":46494677,
     "geoid":"47013",
     "name":"Campbell",
+    "ocd_id":"ocd-division/country:us/state:tn/county:campbell",
     "state":"tn"
 },
   "bbox": [

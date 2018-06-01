@@ -6,6 +6,7 @@
     "area_water":80592292,
     "geoid":"48453",
     "name":"Travis",
+    "ocd_id":"ocd-division/country:us/state:tx/county:travis",
     "state":"tx"
 },
   "bbox": [

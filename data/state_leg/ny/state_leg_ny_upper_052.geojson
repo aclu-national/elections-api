@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"36052",
     "name":"State Senate District 52",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:52",
     "state":"ny"
 },
   "bbox": [

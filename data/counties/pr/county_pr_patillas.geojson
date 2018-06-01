@@ -6,6 +6,7 @@
     "area_water":74074554,
     "geoid":"72109",
     "name":"Patillas",
+    "ocd_id":"ocd-division/country:us/state:pr/county:patillas",
     "state":"pr"
 },
   "bbox": [

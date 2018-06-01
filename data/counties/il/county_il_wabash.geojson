@@ -6,6 +6,7 @@
     "area_water":11012015,
     "geoid":"17185",
     "name":"Wabash",
+    "ocd_id":"ocd-division/country:us/state:il/county:wabash",
     "state":"il"
 },
   "bbox": [

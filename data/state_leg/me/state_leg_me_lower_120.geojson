@@ -8,6 +8,7 @@
     "district_num":"120",
     "geoid":"23120",
     "name":"State House District 120",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:120",
     "state":"me"
 },
   "bbox": [

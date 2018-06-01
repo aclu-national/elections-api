@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"26035",
     "name":"State Senate District 35",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:35",
     "state":"mi"
 },
   "bbox": [

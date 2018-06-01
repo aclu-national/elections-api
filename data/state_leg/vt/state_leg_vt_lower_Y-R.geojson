@@ -8,6 +8,7 @@
     "district_num":"Y-R",
     "geoid":"50Y-R",
     "name":"Windsor-Rutland State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:Y-R",
     "state":"vt"
 },
   "bbox": [

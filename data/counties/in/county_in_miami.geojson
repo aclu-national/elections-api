@@ -6,6 +6,7 @@
     "area_water":9184624,
     "geoid":"18103",
     "name":"Miami",
+    "ocd_id":"ocd-division/country:us/state:in/county:miami",
     "state":"in"
 },
   "bbox": [

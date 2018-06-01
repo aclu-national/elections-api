@@ -6,6 +6,7 @@
     "area_water":7276755,
     "geoid":"45049",
     "name":"Hampton",
+    "ocd_id":"ocd-division/country:us/state:sc/county:hampton",
     "state":"sc"
 },
   "bbox": [

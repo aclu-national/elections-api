@@ -6,6 +6,7 @@
     "area_water":4709127,
     "geoid":"19195",
     "name":"Worth",
+    "ocd_id":"ocd-division/country:us/state:ia/county:worth",
     "state":"ia"
 },
   "bbox": [

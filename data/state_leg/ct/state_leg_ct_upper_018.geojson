@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"09018",
     "name":"State Senate District 18",
+    "ocd_id":"ocd-division/country:us/state:ct/sldu:18",
     "state":"ct"
 },
   "bbox": [

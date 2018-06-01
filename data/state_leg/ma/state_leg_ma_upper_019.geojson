@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"25019",
     "name":"First Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:19",
     "state":"ma"
 },
   "bbox": [

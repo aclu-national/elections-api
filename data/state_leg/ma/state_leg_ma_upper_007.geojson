@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"25007",
     "name":"First Hampden & Hampshire District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:7",
     "state":"ma"
 },
   "bbox": [

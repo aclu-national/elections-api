@@ -6,6 +6,7 @@
     "area_water":2345525,
     "geoid":"16061",
     "name":"Lewis",
+    "ocd_id":"ocd-division/country:us/state:id/county:lewis",
     "state":"id"
 },
   "bbox": [

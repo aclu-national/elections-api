@@ -6,6 +6,7 @@
     "area_water":70698246,
     "geoid":"28043",
     "name":"Grenada",
+    "ocd_id":"ocd-division/country:us/state:ms/county:grenada",
     "state":"ms"
 },
   "bbox": [

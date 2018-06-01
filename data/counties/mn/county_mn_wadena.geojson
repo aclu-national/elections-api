@@ -6,6 +6,7 @@
     "area_water":18038938,
     "geoid":"27159",
     "name":"Wadena",
+    "ocd_id":"ocd-division/country:us/state:mn/county:wadena",
     "state":"mn"
 },
   "bbox": [

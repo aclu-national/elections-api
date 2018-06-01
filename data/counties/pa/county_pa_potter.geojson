@@ -6,6 +6,7 @@
     "area_water":559779,
     "geoid":"42105",
     "name":"Potter",
+    "ocd_id":"ocd-division/country:us/state:pa/county:potter",
     "state":"pa"
 },
   "bbox": [

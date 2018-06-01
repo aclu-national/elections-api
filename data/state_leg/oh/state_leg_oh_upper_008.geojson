@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"39008",
     "name":"State Senate District 8",
+    "ocd_id":"ocd-division/country:us/state:oh/sldu:8",
     "state":"oh"
 },
   "bbox": [

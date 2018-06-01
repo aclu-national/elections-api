@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"04005",
     "name":"State House District 5",
+    "ocd_id":"ocd-division/country:us/state:az/sldl:5",
     "state":"az"
 },
   "bbox": [

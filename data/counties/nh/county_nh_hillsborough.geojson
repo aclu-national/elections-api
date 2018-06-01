@@ -6,6 +6,7 @@
     "area_water":41627731,
     "geoid":"33011",
     "name":"Hillsborough",
+    "ocd_id":"ocd-division/country:us/state:nh/county:hillsborough",
     "state":"nh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":34469349,
     "geoid":"13057",
     "name":"Cherokee",
+    "ocd_id":"ocd-division/country:us/state:ga/county:cherokee",
     "state":"ga"
 },
   "bbox": [

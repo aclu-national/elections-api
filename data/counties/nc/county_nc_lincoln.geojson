@@ -6,6 +6,7 @@
     "area_water":23377500,
     "geoid":"37109",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:nc/county:lincoln",
     "state":"nc"
 },
   "bbox": [

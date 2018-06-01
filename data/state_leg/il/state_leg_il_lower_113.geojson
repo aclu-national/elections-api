@@ -8,6 +8,7 @@
     "district_num":"113",
     "geoid":"17113",
     "name":"State House District 113",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:113",
     "state":"il"
 },
   "bbox": [

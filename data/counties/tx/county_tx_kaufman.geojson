@@ -6,6 +6,7 @@
     "area_water":69763126,
     "geoid":"48257",
     "name":"Kaufman",
+    "ocd_id":"ocd-division/country:us/state:tx/county:kaufman",
     "state":"tx"
 },
   "bbox": [

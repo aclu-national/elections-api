@@ -6,6 +6,7 @@
     "area_water":18750017,
     "geoid":"08057",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:co/county:jackson",
     "state":"co"
 },
   "bbox": [

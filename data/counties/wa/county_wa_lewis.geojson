@@ -6,6 +6,7 @@
     "area_water":86954130,
     "geoid":"53041",
     "name":"Lewis",
+    "ocd_id":"ocd-division/country:us/state:wa/county:lewis",
     "state":"wa"
 },
   "bbox": [

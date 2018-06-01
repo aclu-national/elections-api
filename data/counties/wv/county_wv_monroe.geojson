@@ -6,6 +6,7 @@
     "area_water":2297605,
     "geoid":"54063",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:wv/county:monroe",
     "state":"wv"
 },
   "bbox": [

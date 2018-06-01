@@ -6,6 +6,7 @@
     "area_water":829331,
     "geoid":"47049",
     "name":"Fentress",
+    "ocd_id":"ocd-division/country:us/state:tn/county:fentress",
     "state":"tn"
 },
   "bbox": [

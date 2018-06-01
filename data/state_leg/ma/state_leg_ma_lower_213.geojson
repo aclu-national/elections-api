@@ -8,6 +8,7 @@
     "district_num":"213",
     "geoid":"25213",
     "name":"11th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:213",
     "state":"ma"
 },
   "bbox": [

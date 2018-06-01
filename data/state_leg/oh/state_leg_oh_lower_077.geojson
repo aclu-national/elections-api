@@ -8,6 +8,7 @@
     "district_num":"077",
     "geoid":"39077",
     "name":"State House District 77",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:77",
     "state":"oh"
 },
   "bbox": [

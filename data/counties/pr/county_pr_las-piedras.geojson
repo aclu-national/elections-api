@@ -6,6 +6,7 @@
     "area_water":32509,
     "geoid":"72085",
     "name":"Las Piedras",
+    "ocd_id":"ocd-division/country:us/state:pr/county:las_piedras",
     "state":"pr"
 },
   "bbox": [

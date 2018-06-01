@@ -6,6 +6,7 @@
     "area_water":12619739,
     "geoid":"31037",
     "name":"Colfax",
+    "ocd_id":"ocd-division/country:us/state:ne/county:colfax",
     "state":"ne"
 },
   "bbox": [

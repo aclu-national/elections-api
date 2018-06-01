@@ -8,6 +8,7 @@
     "district_num":"F-4",
     "geoid":"50F-4",
     "name":"Franklin-4 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:F-4",
     "state":"vt"
 },
   "bbox": [

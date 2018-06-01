@@ -6,6 +6,7 @@
     "area_water":105764468,
     "geoid":"15005",
     "name":"Kalawao",
+    "ocd_id":"ocd-division/country:us/state:hi/county:kalawao",
     "state":"hi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2386193,
     "geoid":"22123",
     "name":"West Carroll",
+    "ocd_id":"ocd-division/country:us/state:la/county:west_carroll",
     "state":"la"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":25991759519,
     "geoid":"02164",
     "name":"Lake and Peninsula",
+    "ocd_id":"ocd-division/country:us/state:ak/county:lake_and_peninsula",
     "state":"ak"
 },
   "bbox": [

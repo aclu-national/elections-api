@@ -6,6 +6,7 @@
     "area_water":83441579,
     "geoid":"16043",
     "name":"Fremont",
+    "ocd_id":"ocd-division/country:us/state:id/county:fremont",
     "state":"id"
 },
   "bbox": [

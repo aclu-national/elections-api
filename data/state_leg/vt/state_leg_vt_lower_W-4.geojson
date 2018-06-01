@@ -8,6 +8,7 @@
     "district_num":"W-4",
     "geoid":"50W-4",
     "name":"Windham-4 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:W-4",
     "state":"vt"
 },
   "bbox": [

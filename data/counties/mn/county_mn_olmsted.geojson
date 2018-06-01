@@ -6,6 +6,7 @@
     "area_water":3505507,
     "geoid":"27109",
     "name":"Olmsted",
+    "ocd_id":"ocd-division/country:us/state:mn/county:olmsted",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":129002560,
     "geoid":"27071",
     "name":"Koochiching",
+    "ocd_id":"ocd-division/country:us/state:mn/county:koochiching",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":33027800,
     "geoid":"37017",
     "name":"Bladen",
+    "ocd_id":"ocd-division/country:us/state:nc/county:bladen",
     "state":"nc"
 },
   "bbox": [

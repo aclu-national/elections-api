@@ -6,6 +6,7 @@
     "area_water":149190,
     "geoid":"51660",
     "name":"Harrisonburg",
+    "ocd_id":"ocd-division/country:us/state:va/county:harrisonburg",
     "state":"va"
 },
   "bbox": [

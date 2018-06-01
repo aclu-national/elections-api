@@ -6,6 +6,7 @@
     "area_water":39248969,
     "geoid":"45091",
     "name":"York",
+    "ocd_id":"ocd-division/country:us/state:sc/county:york",
     "state":"sc"
 },
   "bbox": [

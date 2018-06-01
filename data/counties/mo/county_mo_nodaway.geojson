@@ -6,6 +6,7 @@
     "area_water":2361588,
     "geoid":"29147",
     "name":"Nodaway",
+    "ocd_id":"ocd-division/country:us/state:mo/county:nodaway",
     "state":"mo"
 },
   "bbox": [

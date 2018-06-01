@@ -6,6 +6,7 @@
     "area_water":3268209,
     "geoid":"48417",
     "name":"Shackelford",
+    "ocd_id":"ocd-division/country:us/state:tx/county:shackelford",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"44032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:32",
     "state":"ri"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":21847164,
     "geoid":"39067",
     "name":"Harrison",
+    "ocd_id":"ocd-division/country:us/state:oh/county:harrison",
     "state":"oh"
 },
   "bbox": [

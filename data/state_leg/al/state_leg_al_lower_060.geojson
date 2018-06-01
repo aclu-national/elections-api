@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"01060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:60",
     "state":"al"
 },
   "bbox": [

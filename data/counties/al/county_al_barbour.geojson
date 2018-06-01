@@ -6,6 +6,7 @@
     "area_water":50538698,
     "geoid":"01005",
     "name":"Barbour",
+    "ocd_id":"ocd-division/country:us/state:al/county:barbour",
     "state":"al"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"39049",
     "name":"State House District 49",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:49",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3604155,
     "geoid":"20033",
     "name":"Comanche",
+    "ocd_id":"ocd-division/country:us/state:ks/county:comanche",
     "state":"ks"
 },
   "bbox": [

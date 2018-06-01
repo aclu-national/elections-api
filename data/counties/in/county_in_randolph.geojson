@@ -6,6 +6,7 @@
     "area_water":2420286,
     "geoid":"18135",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:in/county:randolph",
     "state":"in"
 },
   "bbox": [

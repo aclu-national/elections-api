@@ -6,6 +6,7 @@
     "area_water":23721835,
     "geoid":"01085",
     "name":"Lowndes",
+    "ocd_id":"ocd-division/country:us/state:al/county:lowndes",
     "state":"al"
 },
   "bbox": [

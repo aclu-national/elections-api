@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"48003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:3",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1600679,
     "geoid":"01075",
     "name":"Lamar",
+    "ocd_id":"ocd-division/country:us/state:al/county:lamar",
     "state":"al"
 },
   "bbox": [

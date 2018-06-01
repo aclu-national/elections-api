@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"06030",
     "name":"Assembly District 30",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:30",
     "state":"ca"
 },
   "bbox": [

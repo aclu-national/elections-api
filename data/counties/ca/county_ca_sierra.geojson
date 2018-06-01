@@ -6,6 +6,7 @@
     "area_water":23299110,
     "geoid":"06091",
     "name":"Sierra",
+    "ocd_id":"ocd-division/country:us/state:ca/county:sierra",
     "state":"ca"
 },
   "bbox": [

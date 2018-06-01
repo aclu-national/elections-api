@@ -8,6 +8,7 @@
     "district_num":"054",
     "geoid":"42054",
     "name":"State House District 54",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:54",
     "state":"pa"
 },
   "bbox": [

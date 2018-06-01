@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"20081",
     "name":"State House District 81",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:81",
     "state":"ks"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":196726220,
     "geoid":"60050",
     "name":"Western",
+    "ocd_id":"ocd-division/country:us/state:as/county:western",
     "state":"as"
 },
   "bbox": [

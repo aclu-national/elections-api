@@ -6,6 +6,7 @@
     "area_water":19778906,
     "geoid":"40133",
     "name":"Seminole",
+    "ocd_id":"ocd-division/country:us/state:ok/county:seminole",
     "state":"ok"
 },
   "bbox": [

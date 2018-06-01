@@ -6,6 +6,7 @@
     "area_water":15397684,
     "geoid":"31157",
     "name":"Scotts Bluff",
+    "ocd_id":"ocd-division/country:us/state:ne/county:scotts_bluff",
     "state":"ne"
 },
   "bbox": [

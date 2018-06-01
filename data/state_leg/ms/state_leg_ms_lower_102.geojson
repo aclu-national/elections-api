@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"28102",
     "name":"State House District 102",
+    "ocd_id":"ocd-division/country:us/state:ms/sldl:102",
     "state":"ms"
 },
   "bbox": [

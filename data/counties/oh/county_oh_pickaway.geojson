@@ -6,6 +6,7 @@
     "area_water":13998877,
     "geoid":"39129",
     "name":"Pickaway",
+    "ocd_id":"ocd-division/country:us/state:oh/county:pickaway",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12497709,
     "geoid":"13067",
     "name":"Cobb",
+    "ocd_id":"ocd-division/country:us/state:ga/county:cobb",
     "state":"ga"
 },
   "bbox": [

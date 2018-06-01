@@ -6,6 +6,7 @@
     "area_water":80027136,
     "geoid":"01033",
     "name":"Colbert",
+    "ocd_id":"ocd-division/country:us/state:al/county:colbert",
     "state":"al"
 },
   "bbox": [

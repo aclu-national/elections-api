@@ -6,6 +6,7 @@
     "area_water":25185424,
     "geoid":"36007",
     "name":"Broome",
+    "ocd_id":"ocd-division/country:us/state:ny/county:broome",
     "state":"ny"
 },
   "bbox": [

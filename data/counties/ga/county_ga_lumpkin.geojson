@@ -6,6 +6,7 @@
     "area_water":3280165,
     "geoid":"13187",
     "name":"Lumpkin",
+    "ocd_id":"ocd-division/country:us/state:ga/county:lumpkin",
     "state":"ga"
 },
   "bbox": [

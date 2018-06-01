@@ -6,6 +6,7 @@
     "area_water":22086063,
     "geoid":"42101",
     "name":"Philadelphia",
+    "ocd_id":"ocd-division/country:us/state:pa/county:philadelphia",
     "state":"pa"
 },
   "bbox": [

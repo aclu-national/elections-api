@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"49032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:32",
     "state":"ut"
 },
   "bbox": [

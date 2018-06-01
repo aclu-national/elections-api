@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"17029",
     "name":"State House District 29",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:29",
     "state":"il"
 },
   "bbox": [

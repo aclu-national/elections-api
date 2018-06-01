@@ -6,6 +6,7 @@
     "area_water":179149824,
     "geoid":"06093",
     "name":"Siskiyou",
+    "ocd_id":"ocd-division/country:us/state:ca/county:siskiyou",
     "state":"ca"
 },
   "bbox": [

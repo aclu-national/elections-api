@@ -8,6 +8,7 @@
     "district_num":"086",
     "geoid":"36086",
     "name":"Assembly District 86",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:86",
     "state":"ny"
 },
   "bbox": [

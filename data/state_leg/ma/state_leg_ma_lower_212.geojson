@@ -8,6 +8,7 @@
     "district_num":"212",
     "geoid":"25212",
     "name":"10th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:212",
     "state":"ma"
 },
   "bbox": [

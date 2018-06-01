@@ -6,6 +6,7 @@
     "area_water":35709172,
     "geoid":"45055",
     "name":"Kershaw",
+    "ocd_id":"ocd-division/country:us/state:sc/county:kershaw",
     "state":"sc"
 },
   "bbox": [

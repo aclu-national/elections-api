@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"44025",
     "name":"State House District 25",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:25",
     "state":"ri"
 },
   "bbox": [

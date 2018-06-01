@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"56002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:wy/sldl:2",
     "state":"wy"
 },
   "bbox": [

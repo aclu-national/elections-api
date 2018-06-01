@@ -6,6 +6,7 @@
     "area_water":22938677,
     "geoid":"26059",
     "name":"Hillsdale",
+    "ocd_id":"ocd-division/country:us/state:mi/county:hillsdale",
     "state":"mi"
 },
   "bbox": [

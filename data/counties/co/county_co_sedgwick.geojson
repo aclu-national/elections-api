@@ -6,6 +6,7 @@
     "area_water":3530746,
     "geoid":"08115",
     "name":"Sedgwick",
+    "ocd_id":"ocd-division/country:us/state:co/county:sedgwick",
     "state":"co"
 },
   "bbox": [

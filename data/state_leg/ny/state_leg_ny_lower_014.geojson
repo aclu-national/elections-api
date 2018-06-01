@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"36014",
     "name":"Assembly District 14",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:14",
     "state":"ny"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"34024",
     "name":"General Assembly District 24",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:24",
     "state":"nj"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"114",
     "geoid":"20114",
     "name":"State House District 114",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:114",
     "state":"ks"
 },
   "bbox": [

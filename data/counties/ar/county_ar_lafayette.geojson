@@ -6,6 +6,7 @@
     "area_water":43469442,
     "geoid":"05073",
     "name":"Lafayette",
+    "ocd_id":"ocd-division/country:us/state:ar/county:lafayette",
     "state":"ar"
 },
   "bbox": [

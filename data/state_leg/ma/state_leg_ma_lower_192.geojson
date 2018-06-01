@@ -8,6 +8,7 @@
     "district_num":"192",
     "geoid":"25192",
     "name":"9th Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:192",
     "state":"ma"
 },
   "bbox": [

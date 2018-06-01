@@ -6,6 +6,7 @@
     "area_water":43973314,
     "geoid":"17057",
     "name":"Fulton",
+    "ocd_id":"ocd-division/country:us/state:il/county:fulton",
     "state":"il"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"16011",
     "name":"State Senate District 11",
+    "ocd_id":"ocd-division/country:us/state:id/sldu:11",
     "state":"id"
 },
   "bbox": [

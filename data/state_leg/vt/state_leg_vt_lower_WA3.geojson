@@ -8,6 +8,7 @@
     "district_num":"WA3",
     "geoid":"50WA3",
     "name":"Washington-3 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WA3",
     "state":"vt"
 },
   "bbox": [

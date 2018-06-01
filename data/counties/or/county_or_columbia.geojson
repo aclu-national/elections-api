@@ -6,6 +6,7 @@
     "area_water":80260317,
     "geoid":"41009",
     "name":"Columbia",
+    "ocd_id":"ocd-division/country:us/state:or/county:columbia",
     "state":"or"
 },
   "bbox": [

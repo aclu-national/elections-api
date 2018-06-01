@@ -6,6 +6,7 @@
     "area_water":1522790,
     "geoid":"19135",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:ia/county:monroe",
     "state":"ia"
 },
   "bbox": [

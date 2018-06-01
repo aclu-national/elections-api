@@ -6,6 +6,7 @@
     "area_water":8862741,
     "geoid":"13183",
     "name":"Long",
+    "ocd_id":"ocd-division/country:us/state:ga/county:long",
     "state":"ga"
 },
   "bbox": [

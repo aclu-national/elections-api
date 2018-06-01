@@ -8,6 +8,7 @@
     "district_num":"172",
     "geoid":"13172",
     "name":"State House District 172",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:172",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":50957689,
     "geoid":"40037",
     "name":"Creek",
+    "ocd_id":"ocd-division/country:us/state:ok/county:creek",
     "state":"ok"
 },
   "bbox": [

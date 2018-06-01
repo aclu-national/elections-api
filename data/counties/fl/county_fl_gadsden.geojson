@@ -6,6 +6,7 @@
     "area_water":31687293,
     "geoid":"12039",
     "name":"Gadsden",
+    "ocd_id":"ocd-division/country:us/state:fl/county:gadsden",
     "state":"fl"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":188852161,
     "geoid":"06033",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:ca/county:lake",
     "state":"ca"
 },
   "bbox": [

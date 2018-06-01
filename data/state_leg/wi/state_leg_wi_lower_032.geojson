@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"55032",
     "name":"Assembly District 32",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:32",
     "state":"wi"
 },
   "bbox": [

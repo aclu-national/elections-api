@@ -6,6 +6,7 @@
     "area_water":92565,
     "geoid":"48247",
     "name":"Jim Hogg",
+    "ocd_id":"ocd-division/country:us/state:tx/county:jim_hogg",
     "state":"tx"
 },
   "bbox": [

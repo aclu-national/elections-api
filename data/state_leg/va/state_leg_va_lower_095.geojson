@@ -8,6 +8,7 @@
     "district_num":"095",
     "geoid":"51095",
     "name":"State House District 95",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:95",
     "state":"va"
 },
   "bbox": [

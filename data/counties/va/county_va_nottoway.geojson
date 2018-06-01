@@ -6,6 +6,7 @@
     "area_water":4297829,
     "geoid":"51135",
     "name":"Nottoway",
+    "ocd_id":"ocd-division/country:us/state:va/county:nottoway",
     "state":"va"
 },
   "bbox": [

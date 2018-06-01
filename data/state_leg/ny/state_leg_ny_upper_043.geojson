@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"36043",
     "name":"State Senate District 43",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:43",
     "state":"ny"
 },
   "bbox": [

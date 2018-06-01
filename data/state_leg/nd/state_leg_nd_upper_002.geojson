@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"38002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:2",
     "state":"nd"
 },
   "bbox": [

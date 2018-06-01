@@ -6,6 +6,7 @@
     "area_water":47279033,
     "geoid":"05115",
     "name":"Pope",
+    "ocd_id":"ocd-division/country:us/state:ar/county:pope",
     "state":"ar"
 },
   "bbox": [

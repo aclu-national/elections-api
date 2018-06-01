@@ -8,6 +8,7 @@
     "district_num":"107",
     "geoid":"25107",
     "name":"6th Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:107",
     "state":"ma"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"054",
     "geoid":"47054",
     "name":"State House District 54",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:54",
     "state":"tn"
 },
   "bbox": [

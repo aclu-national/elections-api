@@ -6,6 +6,7 @@
     "area_water":518918118,
     "geoid":"37019",
     "name":"Brunswick",
+    "ocd_id":"ocd-division/country:us/state:nc/county:brunswick",
     "state":"nc"
 },
   "bbox": [

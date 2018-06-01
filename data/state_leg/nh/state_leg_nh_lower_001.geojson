@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"33001",
     "name":"State House District Belknap County No. 1",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:1",
     "state":"nh"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"118",
     "geoid":"36118",
     "name":"Assembly District 118",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:118",
     "state":"ny"
 },
   "bbox": [

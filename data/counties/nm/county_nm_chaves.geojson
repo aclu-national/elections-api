@@ -6,6 +6,7 @@
     "area_water":20545303,
     "geoid":"35005",
     "name":"Chaves",
+    "ocd_id":"ocd-division/country:us/state:nm/county:chaves",
     "state":"nm"
 },
   "bbox": [

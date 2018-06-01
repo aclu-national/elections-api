@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"25026",
     "name":"Middlesex & Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:26",
     "state":"ma"
 },
   "bbox": [

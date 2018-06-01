@@ -8,6 +8,7 @@
     "district_num":"510",
     "geoid":"33510",
     "name":"State House District Hillsborough County No. 10",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:510",
     "state":"nh"
 },
   "bbox": [

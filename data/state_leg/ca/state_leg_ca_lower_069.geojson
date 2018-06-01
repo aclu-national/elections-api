@@ -8,6 +8,7 @@
     "district_num":"069",
     "geoid":"06069",
     "name":"Assembly District 69",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:69",
     "state":"ca"
 },
   "bbox": [

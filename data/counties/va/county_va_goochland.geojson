@@ -6,6 +6,7 @@
     "area_water":21963164,
     "geoid":"51075",
     "name":"Goochland",
+    "ocd_id":"ocd-division/country:us/state:va/county:goochland",
     "state":"va"
 },
   "bbox": [

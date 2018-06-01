@@ -6,6 +6,7 @@
     "area_water":6755317,
     "geoid":"51183",
     "name":"Sussex",
+    "ocd_id":"ocd-division/country:us/state:va/county:sussex",
     "state":"va"
 },
   "bbox": [

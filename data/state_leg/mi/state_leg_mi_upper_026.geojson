@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"26026",
     "name":"State Senate District 26",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:26",
     "state":"mi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"51048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:48",
     "state":"va"
 },
   "bbox": [

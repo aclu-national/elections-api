@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"18002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:2",
     "state":"in"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"32031",
     "name":"Assembly District 31",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:31",
     "state":"nv"
 },
   "bbox": [

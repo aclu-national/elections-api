@@ -8,6 +8,7 @@
     "district_num":"05A",
     "geoid":"2705A",
     "name":"State House District 5A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:5",
     "state":"mn"
 },
   "bbox": [

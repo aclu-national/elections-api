@@ -6,6 +6,7 @@
     "area_water":14280096,
     "geoid":"19071",
     "name":"Fremont",
+    "ocd_id":"ocd-division/country:us/state:ia/county:fremont",
     "state":"ia"
 },
   "bbox": [

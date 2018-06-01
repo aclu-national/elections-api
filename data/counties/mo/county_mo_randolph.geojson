@@ -6,6 +6,7 @@
     "area_water":13254193,
     "geoid":"29175",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:mo/county:randolph",
     "state":"mo"
 },
   "bbox": [

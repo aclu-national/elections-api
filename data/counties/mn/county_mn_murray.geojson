@@ -6,6 +6,7 @@
     "area_water":38338284,
     "geoid":"27101",
     "name":"Murray",
+    "ocd_id":"ocd-division/country:us/state:mn/county:murray",
     "state":"mn"
 },
   "bbox": [

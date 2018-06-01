@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"32040",
     "name":"Assembly District 40",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:40",
     "state":"nv"
 },
   "bbox": [

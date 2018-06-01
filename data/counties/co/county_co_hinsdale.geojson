@@ -6,6 +6,7 @@
     "area_water":15324686,
     "geoid":"08053",
     "name":"Hinsdale",
+    "ocd_id":"ocd-division/country:us/state:co/county:hinsdale",
     "state":"co"
 },
   "bbox": [

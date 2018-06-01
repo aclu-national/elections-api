@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"41019",
     "name":"State House District 19",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:19",
     "state":"or"
 },
   "bbox": [

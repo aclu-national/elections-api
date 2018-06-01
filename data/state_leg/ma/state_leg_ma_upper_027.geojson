@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"25027",
     "name":"First Suffolk & Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:27",
     "state":"ma"
 },
   "bbox": [

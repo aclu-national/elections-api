@@ -6,6 +6,7 @@
     "area_water":19490893,
     "geoid":"21003",
     "name":"Allen",
+    "ocd_id":"ocd-division/country:us/state:ky/county:allen",
     "state":"ky"
 },
   "bbox": [

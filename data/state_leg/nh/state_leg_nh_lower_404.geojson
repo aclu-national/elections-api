@@ -8,6 +8,7 @@
     "district_num":"404",
     "geoid":"33404",
     "name":"State House District Grafton County No. 4",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:404",
     "state":"nh"
 },
   "bbox": [

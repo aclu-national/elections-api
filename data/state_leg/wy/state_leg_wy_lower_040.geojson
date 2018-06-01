@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"56040",
     "name":"State House District 40",
+    "ocd_id":"ocd-division/country:us/state:wy/sldl:40",
     "state":"wy"
 },
   "bbox": [

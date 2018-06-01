@@ -8,6 +8,7 @@
     "district_num":"198",
     "geoid":"42198",
     "name":"State House District 198",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:198",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":22688556,
     "geoid":"06113",
     "name":"Yolo",
+    "ocd_id":"ocd-division/country:us/state:ca/county:yolo",
     "state":"ca"
 },
   "bbox": [

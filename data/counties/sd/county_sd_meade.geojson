@@ -6,6 +6,7 @@
     "area_water":30712698,
     "geoid":"46093",
     "name":"Meade",
+    "ocd_id":"ocd-division/country:us/state:sd/county:meade",
     "state":"sd"
 },
   "bbox": [

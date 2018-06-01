@@ -6,6 +6,7 @@
     "area_water":5639297,
     "geoid":"21115",
     "name":"Johnson",
+    "ocd_id":"ocd-division/country:us/state:ky/county:johnson",
     "state":"ky"
 },
   "bbox": [

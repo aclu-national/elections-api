@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"26018",
     "name":"State Senate District 18",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:18",
     "state":"mi"
 },
   "bbox": [

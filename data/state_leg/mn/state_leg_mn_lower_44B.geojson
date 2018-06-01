@@ -8,6 +8,7 @@
     "district_num":"44B",
     "geoid":"2744B",
     "name":"State House District 44B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:44B",
     "state":"mn"
 },
   "bbox": [

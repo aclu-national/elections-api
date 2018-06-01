@@ -8,6 +8,7 @@
     "district_num":"108",
     "geoid":"13108",
     "name":"State House District 108",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:108",
     "state":"ga"
 },
   "bbox": [

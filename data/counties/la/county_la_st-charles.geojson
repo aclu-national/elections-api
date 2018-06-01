@@ -6,6 +6,7 @@
     "area_water":308712052,
     "geoid":"22089",
     "name":"St. Charles",
+    "ocd_id":"ocd-division/country:us/state:la/county:st_charles",
     "state":"la"
 },
   "bbox": [

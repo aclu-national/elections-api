@@ -6,6 +6,7 @@
     "area_water":3884267,
     "geoid":"20183",
     "name":"Smith",
+    "ocd_id":"ocd-division/country:us/state:ks/county:smith",
     "state":"ks"
 },
   "bbox": [

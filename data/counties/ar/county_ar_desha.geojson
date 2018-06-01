@@ -6,6 +6,7 @@
     "area_water":133085432,
     "geoid":"05041",
     "name":"Desha",
+    "ocd_id":"ocd-division/country:us/state:ar/county:desha",
     "state":"ar"
 },
   "bbox": [

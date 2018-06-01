@@ -6,6 +6,7 @@
     "area_water":5259447,
     "geoid":"40059",
     "name":"Harper",
+    "ocd_id":"ocd-division/country:us/state:ok/county:harper",
     "state":"ok"
 },
   "bbox": [

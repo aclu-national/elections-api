@@ -8,6 +8,7 @@
     "district_num":"067",
     "geoid":"36067",
     "name":"Assembly District 67",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:67",
     "state":"ny"
 },
   "bbox": [

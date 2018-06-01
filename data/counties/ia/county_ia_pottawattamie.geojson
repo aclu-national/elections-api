@@ -6,6 +6,7 @@
     "area_water":22261204,
     "geoid":"19155",
     "name":"Pottawattamie",
+    "ocd_id":"ocd-division/country:us/state:ia/county:pottawattamie",
     "state":"ia"
 },
   "bbox": [

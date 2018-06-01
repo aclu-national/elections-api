@@ -6,6 +6,7 @@
     "area_water":4812706,
     "geoid":"17171",
     "name":"Scott",
+    "ocd_id":"ocd-division/country:us/state:il/county:scott",
     "state":"il"
 },
   "bbox": [

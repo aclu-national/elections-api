@@ -8,6 +8,7 @@
     "district_num":"118",
     "geoid":"23118",
     "name":"State House District 118",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:118",
     "state":"me"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":17862718,
     "geoid":"19013",
     "name":"Black Hawk",
+    "ocd_id":"ocd-division/country:us/state:ia/county:black_hawk",
     "state":"ia"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"55063",
     "name":"Assembly District 63",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:63",
     "state":"wi"
 },
   "bbox": [

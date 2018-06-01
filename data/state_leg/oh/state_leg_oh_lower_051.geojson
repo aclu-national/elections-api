@@ -8,6 +8,7 @@
     "district_num":"051",
     "geoid":"39051",
     "name":"State House District 51",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:51",
     "state":"oh"
 },
   "bbox": [

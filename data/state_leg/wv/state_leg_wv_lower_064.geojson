@@ -8,6 +8,7 @@
     "district_num":"064",
     "geoid":"54064",
     "name":"State House District 64",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:64",
     "state":"wv"
 },
   "bbox": [

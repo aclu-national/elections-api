@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"33024",
     "name":"State Senate District 24",
+    "ocd_id":"ocd-division/country:us/state:nh/sldu:24",
     "state":"nh"
 },
   "bbox": [

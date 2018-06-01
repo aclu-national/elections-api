@@ -6,6 +6,7 @@
     "area_water":75642166,
     "geoid":"21139",
     "name":"Livingston",
+    "ocd_id":"ocd-division/country:us/state:ky/county:livingston",
     "state":"ky"
 },
   "bbox": [

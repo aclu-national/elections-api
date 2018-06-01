@@ -8,6 +8,7 @@
     "district_num":"170",
     "geoid":"25170",
     "name":"14th Norfolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:170",
     "state":"ma"
 },
   "bbox": [

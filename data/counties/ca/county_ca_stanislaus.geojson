@@ -6,6 +6,7 @@
     "area_water":46384540,
     "geoid":"06099",
     "name":"Stanislaus",
+    "ocd_id":"ocd-division/country:us/state:ca/county:stanislaus",
     "state":"ca"
 },
   "bbox": [

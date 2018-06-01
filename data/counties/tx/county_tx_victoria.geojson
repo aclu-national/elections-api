@@ -6,6 +6,7 @@
     "area_water":17425945,
     "geoid":"48469",
     "name":"Victoria",
+    "ocd_id":"ocd-division/country:us/state:tx/county:victoria",
     "state":"tx"
 },
   "bbox": [

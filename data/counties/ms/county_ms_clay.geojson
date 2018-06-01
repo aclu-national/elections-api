@@ -6,6 +6,7 @@
     "area_water":15393112,
     "geoid":"28025",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:ms/county:clay",
     "state":"ms"
 },
   "bbox": [

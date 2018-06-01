@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"37045",
     "name":"State Senate District 45",
+    "ocd_id":"ocd-division/country:us/state:nc/sldu:45",
     "state":"nc"
 },
   "bbox": [

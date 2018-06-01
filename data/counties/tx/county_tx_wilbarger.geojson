@@ -6,6 +6,7 @@
     "area_water":18196245,
     "geoid":"48487",
     "name":"Wilbarger",
+    "ocd_id":"ocd-division/country:us/state:tx/county:wilbarger",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"40029",
     "name":"State House District 29",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:29",
     "state":"ok"
 },
   "bbox": [

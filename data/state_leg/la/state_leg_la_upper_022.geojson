@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"22022",
     "name":"State Senate District 22",
+    "ocd_id":"ocd-division/country:us/state:la/sldu:22",
     "state":"la"
 },
   "bbox": [

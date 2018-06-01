@@ -8,6 +8,7 @@
     "district_num":"105",
     "geoid":"09105",
     "name":"State House District 105",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:105",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3978619,
     "geoid":"54075",
     "name":"Pocahontas",
+    "ocd_id":"ocd-division/country:us/state:wv/county:pocahontas",
     "state":"wv"
 },
   "bbox": [

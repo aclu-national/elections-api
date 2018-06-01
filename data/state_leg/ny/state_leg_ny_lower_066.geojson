@@ -8,6 +8,7 @@
     "district_num":"066",
     "geoid":"36066",
     "name":"Assembly District 66",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:66",
     "state":"ny"
 },
   "bbox": [

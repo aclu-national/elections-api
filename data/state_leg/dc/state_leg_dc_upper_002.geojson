@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"11002",
     "name":"Ward 2",
+    "ocd_id":"ocd-division/country:us/state:dc/sldu:2",
     "state":"dc"
 },
   "bbox": [

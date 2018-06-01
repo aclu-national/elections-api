@@ -8,6 +8,7 @@
     "district_num":"078",
     "geoid":"36078",
     "name":"Assembly District 78",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:78",
     "state":"ny"
 },
   "bbox": [

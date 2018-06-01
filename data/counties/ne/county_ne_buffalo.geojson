@@ -6,6 +6,7 @@
     "area_water":18927907,
     "geoid":"31019",
     "name":"Buffalo",
+    "ocd_id":"ocd-division/country:us/state:ne/county:buffalo",
     "state":"ne"
 },
   "bbox": [

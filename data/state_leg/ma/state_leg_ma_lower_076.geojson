@@ -8,6 +8,7 @@
     "district_num":"076",
     "geoid":"25076",
     "name":"8th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:76",
     "state":"ma"
 },
   "bbox": [

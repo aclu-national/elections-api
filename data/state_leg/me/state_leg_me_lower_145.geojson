@@ -8,6 +8,7 @@
     "district_num":"145",
     "geoid":"23145",
     "name":"State House District 145",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:145",
     "state":"me"
 },
   "bbox": [

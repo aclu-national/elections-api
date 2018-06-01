@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"33005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:nh/sldu:5",
     "state":"nh"
 },
   "bbox": [

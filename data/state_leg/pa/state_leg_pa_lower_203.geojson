@@ -8,6 +8,7 @@
     "district_num":"203",
     "geoid":"42203",
     "name":"State House District 203",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:203",
     "state":"pa"
 },
   "bbox": [

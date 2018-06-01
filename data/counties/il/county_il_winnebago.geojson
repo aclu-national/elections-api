@@ -6,6 +6,7 @@
     "area_water":15107670,
     "geoid":"17201",
     "name":"Winnebago",
+    "ocd_id":"ocd-division/country:us/state:il/county:winnebago",
     "state":"il"
 },
   "bbox": [

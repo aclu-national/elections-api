@@ -8,6 +8,7 @@
     "district_num":"077",
     "geoid":"13077",
     "name":"State House District 77",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:77",
     "state":"ga"
 },
   "bbox": [

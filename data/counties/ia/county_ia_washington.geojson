@@ -6,6 +6,7 @@
     "area_water":5353677,
     "geoid":"19183",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ia/county:washington",
     "state":"ia"
 },
   "bbox": [

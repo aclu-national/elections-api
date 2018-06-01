@@ -8,6 +8,7 @@
     "district_num":"49A",
     "geoid":"2749A",
     "name":"State House District 49A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:49A",
     "state":"mn"
 },
   "bbox": [

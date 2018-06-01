@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"13102",
     "name":"State House District 102",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:102",
     "state":"ga"
 },
   "bbox": [

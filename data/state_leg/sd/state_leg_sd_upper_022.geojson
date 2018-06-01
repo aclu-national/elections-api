@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"46022",
     "name":"State Senate District 22",
+    "ocd_id":"ocd-division/country:us/state:sd/sldu:22",
     "state":"sd"
 },
   "bbox": [

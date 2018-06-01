@@ -6,6 +6,7 @@
     "area_water":5253864,
     "geoid":"42059",
     "name":"Greene",
+    "ocd_id":"ocd-division/country:us/state:pa/county:greene",
     "state":"pa"
 },
   "bbox": [

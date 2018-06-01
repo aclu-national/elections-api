@@ -8,6 +8,7 @@
     "district_num":"125",
     "geoid":"36125",
     "name":"Assembly District 125",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:125",
     "state":"ny"
 },
   "bbox": [

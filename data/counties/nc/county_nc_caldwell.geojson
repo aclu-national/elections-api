@@ -6,6 +6,7 @@
     "area_water":7038401,
     "geoid":"37027",
     "name":"Caldwell",
+    "ocd_id":"ocd-division/country:us/state:nc/county:caldwell",
     "state":"nc"
 },
   "bbox": [

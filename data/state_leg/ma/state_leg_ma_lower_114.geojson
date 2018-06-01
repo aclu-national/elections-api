@@ -8,6 +8,7 @@
     "district_num":"114",
     "geoid":"25114",
     "name":"18th Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:114",
     "state":"ma"
 },
   "bbox": [

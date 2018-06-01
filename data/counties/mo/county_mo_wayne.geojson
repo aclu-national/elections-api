@@ -6,6 +6,7 @@
     "area_water":38558983,
     "geoid":"29223",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:mo/county:wayne",
     "state":"mo"
 },
   "bbox": [

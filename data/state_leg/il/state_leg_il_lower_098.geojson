@@ -8,6 +8,7 @@
     "district_num":"098",
     "geoid":"17098",
     "name":"State House District 98",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:98",
     "state":"il"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"100",
     "geoid":"17100",
     "name":"State House District 100",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:100",
     "state":"il"
 },
   "bbox": [

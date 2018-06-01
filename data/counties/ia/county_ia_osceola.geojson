@@ -6,6 +6,7 @@
     "area_water":1835265,
     "geoid":"19143",
     "name":"Osceola",
+    "ocd_id":"ocd-division/country:us/state:ia/county:osceola",
     "state":"ia"
 },
   "bbox": [

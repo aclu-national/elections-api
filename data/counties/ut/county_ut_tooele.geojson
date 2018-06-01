@@ -6,6 +6,7 @@
     "area_water":891043654,
     "geoid":"49045",
     "name":"Tooele",
+    "ocd_id":"ocd-division/country:us/state:ut/county:tooele",
     "state":"ut"
 },
   "bbox": [

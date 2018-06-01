@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"34026",
     "name":"General Assembly District 26",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:26",
     "state":"nj"
 },
   "bbox": [

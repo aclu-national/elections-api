@@ -6,6 +6,7 @@
     "area_water":4068657,
     "geoid":"48045",
     "name":"Briscoe",
+    "ocd_id":"ocd-division/country:us/state:tx/county:briscoe",
     "state":"tx"
 },
   "bbox": [

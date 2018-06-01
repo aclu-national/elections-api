@@ -8,6 +8,7 @@
     "district_num":"053",
     "geoid":"26053",
     "name":"State House District 53",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:53",
     "state":"mi"
 },
   "bbox": [

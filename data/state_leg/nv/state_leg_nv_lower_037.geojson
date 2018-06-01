@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"32037",
     "name":"Assembly District 37",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:37",
     "state":"nv"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":11321806,
     "geoid":"42065",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:pa/county:jefferson",
     "state":"pa"
 },
   "bbox": [

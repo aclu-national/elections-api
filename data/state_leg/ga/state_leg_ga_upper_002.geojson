@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"13002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:ga/sldu:2",
     "state":"ga"
 },
   "bbox": [

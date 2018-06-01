@@ -8,6 +8,7 @@
     "district_num":"145",
     "geoid":"42145",
     "name":"State House District 145",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:145",
     "state":"pa"
 },
   "bbox": [

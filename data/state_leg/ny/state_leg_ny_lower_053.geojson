@@ -8,6 +8,7 @@
     "district_num":"053",
     "geoid":"36053",
     "name":"Assembly District 53",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:53",
     "state":"ny"
 },
   "bbox": [

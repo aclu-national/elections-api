@@ -8,6 +8,7 @@
     "district_num":"064",
     "geoid":"36064",
     "name":"Assembly District 64",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:64",
     "state":"ny"
 },
   "bbox": [

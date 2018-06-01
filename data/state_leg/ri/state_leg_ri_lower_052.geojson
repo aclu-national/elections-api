@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"44052",
     "name":"State House District 52",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:52",
     "state":"ri"
 },
   "bbox": [

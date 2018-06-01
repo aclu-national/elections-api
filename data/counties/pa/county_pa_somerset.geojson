@@ -6,6 +6,7 @@
     "area_water":17002839,
     "geoid":"42111",
     "name":"Somerset",
+    "ocd_id":"ocd-division/country:us/state:pa/county:somerset",
     "state":"pa"
 },
   "bbox": [

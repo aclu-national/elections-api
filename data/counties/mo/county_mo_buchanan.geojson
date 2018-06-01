@@ -6,6 +6,7 @@
     "area_water":17211398,
     "geoid":"29021",
     "name":"Buchanan",
+    "ocd_id":"ocd-division/country:us/state:mo/county:buchanan",
     "state":"mo"
 },
   "bbox": [

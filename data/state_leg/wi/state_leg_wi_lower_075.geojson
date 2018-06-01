@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"55075",
     "name":"Assembly District 75",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:75",
     "state":"wi"
 },
   "bbox": [

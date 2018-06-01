@@ -6,6 +6,7 @@
     "area_water":12377029,
     "geoid":"13309",
     "name":"Wheeler",
+    "ocd_id":"ocd-division/country:us/state:ga/county:wheeler",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3638887,
     "geoid":"39021",
     "name":"Champaign",
+    "ocd_id":"ocd-division/country:us/state:oh/county:champaign",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":37865613,
     "geoid":"33019",
     "name":"Sullivan",
+    "ocd_id":"ocd-division/country:us/state:nh/county:sullivan",
     "state":"nh"
 },
   "bbox": [

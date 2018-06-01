@@ -6,6 +6,7 @@
     "area_water":25718180,
     "geoid":"48341",
     "name":"Moore",
+    "ocd_id":"ocd-division/country:us/state:tx/county:moore",
     "state":"tx"
 },
   "bbox": [

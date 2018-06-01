@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"18015",
     "name":"State House District 15",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:15",
     "state":"in"
 },
   "bbox": [

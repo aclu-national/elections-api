@@ -6,6 +6,7 @@
     "area_water":11341981,
     "geoid":"29169",
     "name":"Pulaski",
+    "ocd_id":"ocd-division/country:us/state:mo/county:pulaski",
     "state":"mo"
 },
   "bbox": [

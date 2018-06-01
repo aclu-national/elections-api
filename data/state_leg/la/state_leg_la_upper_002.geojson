@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"22002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:la/sldu:2",
     "state":"la"
 },
   "bbox": [

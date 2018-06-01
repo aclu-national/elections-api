@@ -8,6 +8,7 @@
     "district_num":"64A",
     "geoid":"2764A",
     "name":"State House District 64A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:64A",
     "state":"mn"
 },
   "bbox": [

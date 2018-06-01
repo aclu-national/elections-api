@@ -6,6 +6,7 @@
     "area_water":12079759,
     "geoid":"40029",
     "name":"Coal",
+    "ocd_id":"ocd-division/country:us/state:ok/county:coal",
     "state":"ok"
 },
   "bbox": [

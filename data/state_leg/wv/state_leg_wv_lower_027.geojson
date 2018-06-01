@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"54027",
     "name":"State House District 27",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:27",
     "state":"wv"
 },
   "bbox": [

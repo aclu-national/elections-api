@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"39037",
     "name":"State House District 37",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:37",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":13152108,
     "geoid":"16053",
     "name":"Jerome",
+    "ocd_id":"ocd-division/country:us/state:id/county:jerome",
     "state":"id"
 },
   "bbox": [

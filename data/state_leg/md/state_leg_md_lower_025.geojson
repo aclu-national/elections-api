@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"24025",
     "name":"State Legislative District 25",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:25",
     "state":"md"
 },
   "bbox": [

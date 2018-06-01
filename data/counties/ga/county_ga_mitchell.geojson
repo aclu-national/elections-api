@@ -6,6 +6,7 @@
     "area_water":4454719,
     "geoid":"13205",
     "name":"Mitchell",
+    "ocd_id":"ocd-division/country:us/state:ga/county:mitchell",
     "state":"ga"
 },
   "bbox": [

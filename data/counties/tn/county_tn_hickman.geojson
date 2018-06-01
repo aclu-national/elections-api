@@ -6,6 +6,7 @@
     "area_water":373710,
     "geoid":"47081",
     "name":"Hickman",
+    "ocd_id":"ocd-division/country:us/state:tn/county:hickman",
     "state":"tn"
 },
   "bbox": [

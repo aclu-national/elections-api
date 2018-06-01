@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"24018",
     "name":"State Legislative District 18",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:18",
     "state":"md"
 },
   "bbox": [

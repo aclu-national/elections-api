@@ -6,6 +6,7 @@
     "area_water":2913502,
     "geoid":"29091",
     "name":"Howell",
+    "ocd_id":"ocd-division/country:us/state:mo/county:howell",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3926557,
     "geoid":"48117",
     "name":"Deaf Smith",
+    "ocd_id":"ocd-division/country:us/state:tx/county:deaf_smith",
     "state":"tx"
 },
   "bbox": [

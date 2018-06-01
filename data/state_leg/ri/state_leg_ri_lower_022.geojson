@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"44022",
     "name":"State House District 22",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:22",
     "state":"ri"
 },
   "bbox": [

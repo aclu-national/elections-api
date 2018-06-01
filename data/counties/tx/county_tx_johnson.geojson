@@ -6,6 +6,7 @@
     "area_water":25002941,
     "geoid":"48251",
     "name":"Johnson",
+    "ocd_id":"ocd-division/country:us/state:tx/county:johnson",
     "state":"tx"
 },
   "bbox": [

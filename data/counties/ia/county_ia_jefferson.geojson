@@ -6,6 +6,7 @@
     "area_water":3524824,
     "geoid":"19101",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:ia/county:jefferson",
     "state":"ia"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5857862,
     "geoid":"21213",
     "name":"Simpson",
+    "ocd_id":"ocd-division/country:us/state:ky/county:simpson",
     "state":"ky"
 },
   "bbox": [

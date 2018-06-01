@@ -6,6 +6,7 @@
     "area_water":10829143,
     "geoid":"19179",
     "name":"Wapello",
+    "ocd_id":"ocd-division/country:us/state:ia/county:wapello",
     "state":"ia"
 },
   "bbox": [

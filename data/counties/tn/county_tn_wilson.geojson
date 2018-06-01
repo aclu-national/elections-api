@@ -6,6 +6,7 @@
     "area_water":32002365,
     "geoid":"47189",
     "name":"Wilson",
+    "ocd_id":"ocd-division/country:us/state:tn/county:wilson",
     "state":"tn"
 },
   "bbox": [

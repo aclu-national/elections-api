@@ -6,6 +6,7 @@
     "area_water":667359,
     "geoid":"54083",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:wv/county:randolph",
     "state":"wv"
 },
   "bbox": [

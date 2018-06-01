@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"45012",
     "name":"State Senate District 12",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:12",
     "state":"sc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12600384,
     "geoid":"36093",
     "name":"Schenectady",
+    "ocd_id":"ocd-division/country:us/state:ny/county:schenectady",
     "state":"ny"
 },
   "bbox": [

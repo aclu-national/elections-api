@@ -6,6 +6,7 @@
     "area_water":4520751,
     "geoid":"48329",
     "name":"Midland",
+    "ocd_id":"ocd-division/country:us/state:tx/county:midland",
     "state":"tx"
 },
   "bbox": [

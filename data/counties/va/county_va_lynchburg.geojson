@@ -6,6 +6,7 @@
     "area_water":1428787,
     "geoid":"51680",
     "name":"Lynchburg",
+    "ocd_id":"ocd-division/country:us/state:va/county:lynchburg",
     "state":"va"
 },
   "bbox": [

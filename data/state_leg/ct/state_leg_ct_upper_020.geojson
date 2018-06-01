@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"09020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:ct/sldu:20",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":6177826,
     "geoid":"37127",
     "name":"Nash",
+    "ocd_id":"ocd-division/country:us/state:nc/county:nash",
     "state":"nc"
 },
   "bbox": [

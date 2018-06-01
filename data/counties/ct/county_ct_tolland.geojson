@@ -6,6 +6,7 @@
     "area_water":17549693,
     "geoid":"09013",
     "name":"Tolland",
+    "ocd_id":"ocd-division/country:us/state:ct/county:tolland",
     "state":"ct"
 },
   "bbox": [

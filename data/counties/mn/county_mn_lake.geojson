@@ -6,6 +6,7 @@
     "area_water":2282651295,
     "geoid":"27075",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:mn/county:lake",
     "state":"mn"
 },
   "bbox": [

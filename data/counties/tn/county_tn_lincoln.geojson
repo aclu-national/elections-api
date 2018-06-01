@@ -6,6 +6,7 @@
     "area_water":971039,
     "geoid":"47103",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:tn/county:lincoln",
     "state":"tn"
 },
   "bbox": [

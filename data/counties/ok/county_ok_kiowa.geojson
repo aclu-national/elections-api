@@ -6,6 +6,7 @@
     "area_water":40296743,
     "geoid":"40075",
     "name":"Kiowa",
+    "ocd_id":"ocd-division/country:us/state:ok/county:kiowa",
     "state":"ok"
 },
   "bbox": [

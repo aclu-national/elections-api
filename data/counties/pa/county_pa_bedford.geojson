@@ -6,6 +6,7 @@
     "area_water":11935889,
     "geoid":"42009",
     "name":"Bedford",
+    "ocd_id":"ocd-division/country:us/state:pa/county:bedford",
     "state":"pa"
 },
   "bbox": [

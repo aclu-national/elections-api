@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"18029",
     "name":"State Senate District 29",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:29",
     "state":"in"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":4763611,
     "geoid":"21051",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:ky/county:clay",
     "state":"ky"
 },
   "bbox": [

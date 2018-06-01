@@ -6,6 +6,7 @@
     "area_water":111697132,
     "geoid":"51710",
     "name":"Norfolk",
+    "ocd_id":"ocd-division/country:us/state:va/county:norfolk",
     "state":"va"
 },
   "bbox": [

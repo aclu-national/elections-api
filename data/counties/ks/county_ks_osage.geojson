@@ -6,6 +6,7 @@
     "area_water":37107132,
     "geoid":"20139",
     "name":"Osage",
+    "ocd_id":"ocd-division/country:us/state:ks/county:osage",
     "state":"ks"
 },
   "bbox": [

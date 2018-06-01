@@ -8,6 +8,7 @@
     "district_num":"078",
     "geoid":"40078",
     "name":"State House District 78",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:78",
     "state":"ok"
 },
   "bbox": [

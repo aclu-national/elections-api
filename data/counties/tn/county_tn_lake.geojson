@@ -6,6 +6,7 @@
     "area_water":72799687,
     "geoid":"47095",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:tn/county:lake",
     "state":"tn"
 },
   "bbox": [

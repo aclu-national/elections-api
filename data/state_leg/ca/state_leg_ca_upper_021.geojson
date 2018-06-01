@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"06021",
     "name":"State Senate District 21",
+    "ocd_id":"ocd-division/country:us/state:ca/sldu:21",
     "state":"ca"
 },
   "bbox": [

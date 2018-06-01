@@ -6,6 +6,7 @@
     "area_water":79114523,
     "geoid":"49051",
     "name":"Wasatch",
+    "ocd_id":"ocd-division/country:us/state:ut/county:wasatch",
     "state":"ut"
 },
   "bbox": [

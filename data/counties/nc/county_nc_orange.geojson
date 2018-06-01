@@ -6,6 +6,7 @@
     "area_water":8876665,
     "geoid":"37135",
     "name":"Orange",
+    "ocd_id":"ocd-division/country:us/state:nc/county:orange",
     "state":"nc"
 },
   "bbox": [

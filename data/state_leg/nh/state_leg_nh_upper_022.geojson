@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"33022",
     "name":"State Senate District 22",
+    "ocd_id":"ocd-division/country:us/state:nh/sldu:22",
     "state":"nh"
 },
   "bbox": [

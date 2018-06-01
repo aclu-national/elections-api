@@ -6,6 +6,7 @@
     "area_water":65700367,
     "geoid":"38013",
     "name":"Burke",
+    "ocd_id":"ocd-division/country:us/state:nd/county:burke",
     "state":"nd"
 },
   "bbox": [

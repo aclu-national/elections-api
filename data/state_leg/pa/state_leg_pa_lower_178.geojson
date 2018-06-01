@@ -8,6 +8,7 @@
     "district_num":"178",
     "geoid":"42178",
     "name":"State House District 178",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:178",
     "state":"pa"
 },
   "bbox": [

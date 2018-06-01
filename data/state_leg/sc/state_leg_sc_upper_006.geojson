@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"45006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:6",
     "state":"sc"
 },
   "bbox": [

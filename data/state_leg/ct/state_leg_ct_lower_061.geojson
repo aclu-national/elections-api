@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"09061",
     "name":"State House District 61",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:61",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12924074,
     "geoid":"39089",
     "name":"Licking",
+    "ocd_id":"ocd-division/country:us/state:oh/county:licking",
     "state":"oh"
 },
   "bbox": [

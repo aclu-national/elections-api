@@ -6,6 +6,7 @@
     "area_water":13696237,
     "geoid":"42021",
     "name":"Cambria",
+    "ocd_id":"ocd-division/country:us/state:pa/county:cambria",
     "state":"pa"
 },
   "bbox": [

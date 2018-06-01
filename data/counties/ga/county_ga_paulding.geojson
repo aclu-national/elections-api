@@ -6,6 +6,7 @@
     "area_water":5309332,
     "geoid":"13223",
     "name":"Paulding",
+    "ocd_id":"ocd-division/country:us/state:ga/county:paulding",
     "state":"ga"
 },
   "bbox": [

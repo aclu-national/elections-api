@@ -6,6 +6,7 @@
     "area_water":72317570,
     "geoid":"32005",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:nv/county:douglas",
     "state":"nv"
 },
   "bbox": [

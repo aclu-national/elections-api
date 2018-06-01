@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"22008",
     "name":"State Senate District 8",
+    "ocd_id":"ocd-division/country:us/state:la/sldu:8",
     "state":"la"
 },
   "bbox": [

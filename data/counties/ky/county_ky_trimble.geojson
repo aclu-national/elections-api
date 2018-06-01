@@ -6,6 +6,7 @@
     "area_water":11833388,
     "geoid":"21223",
     "name":"Trimble",
+    "ocd_id":"ocd-division/country:us/state:ky/county:trimble",
     "state":"ky"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"24043",
     "name":"State Legislative District 43",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:43",
     "state":"md"
 },
   "bbox": [

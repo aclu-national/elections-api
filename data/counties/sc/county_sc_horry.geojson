@@ -6,6 +6,7 @@
     "area_water":313208767,
     "geoid":"45051",
     "name":"Horry",
+    "ocd_id":"ocd-division/country:us/state:sc/county:horry",
     "state":"sc"
 },
   "bbox": [

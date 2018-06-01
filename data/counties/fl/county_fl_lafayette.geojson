@@ -6,6 +6,7 @@
     "area_water":11745118,
     "geoid":"12067",
     "name":"Lafayette",
+    "ocd_id":"ocd-division/country:us/state:fl/county:lafayette",
     "state":"fl"
 },
   "bbox": [

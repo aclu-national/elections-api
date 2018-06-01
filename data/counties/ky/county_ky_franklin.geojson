@@ -6,6 +6,7 @@
     "area_water":11025563,
     "geoid":"21073",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ky/county:franklin",
     "state":"ky"
 },
   "bbox": [

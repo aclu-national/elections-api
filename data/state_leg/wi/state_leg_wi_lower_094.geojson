@@ -8,6 +8,7 @@
     "district_num":"094",
     "geoid":"55094",
     "name":"Assembly District 94",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:94",
     "state":"wi"
 },
   "bbox": [

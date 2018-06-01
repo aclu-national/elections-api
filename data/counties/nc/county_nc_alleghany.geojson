@@ -6,6 +6,7 @@
     "area_water":3715040,
     "geoid":"37005",
     "name":"Alleghany",
+    "ocd_id":"ocd-division/country:us/state:nc/county:alleghany",
     "state":"nc"
 },
   "bbox": [

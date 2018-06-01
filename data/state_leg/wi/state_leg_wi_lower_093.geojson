@@ -8,6 +8,7 @@
     "district_num":"093",
     "geoid":"55093",
     "name":"Assembly District 93",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:93",
     "state":"wi"
 },
   "bbox": [

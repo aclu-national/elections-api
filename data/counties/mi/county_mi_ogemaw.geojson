@@ -6,6 +6,7 @@
     "area_water":29682543,
     "geoid":"26129",
     "name":"Ogemaw",
+    "ocd_id":"ocd-division/country:us/state:mi/county:ogemaw",
     "state":"mi"
 },
   "bbox": [

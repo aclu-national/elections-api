@@ -6,6 +6,7 @@
     "area_water":6898508,
     "geoid":"46087",
     "name":"McCook",
+    "ocd_id":"ocd-division/country:us/state:sd/county:mccook",
     "state":"sd"
 },
   "bbox": [

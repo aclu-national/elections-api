@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"51013",
     "name":"State Senate District 13",
+    "ocd_id":"ocd-division/country:us/state:va/sldu:13",
     "state":"va"
 },
   "bbox": [

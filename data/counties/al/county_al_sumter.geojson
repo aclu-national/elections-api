@@ -6,6 +6,7 @@
     "area_water":24634883,
     "geoid":"01119",
     "name":"Sumter",
+    "ocd_id":"ocd-division/country:us/state:al/county:sumter",
     "state":"al"
 },
   "bbox": [

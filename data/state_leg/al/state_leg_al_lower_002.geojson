@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"01002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:2",
     "state":"al"
 },
   "bbox": [

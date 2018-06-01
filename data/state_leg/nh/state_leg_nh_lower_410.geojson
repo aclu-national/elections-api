@@ -8,6 +8,7 @@
     "district_num":"410",
     "geoid":"33410",
     "name":"State House District Grafton County No. 10",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:410",
     "state":"nh"
 },
   "bbox": [

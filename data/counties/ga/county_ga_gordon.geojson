@@ -6,6 +6,7 @@
     "area_water":5729801,
     "geoid":"13129",
     "name":"Gordon",
+    "ocd_id":"ocd-division/country:us/state:ga/county:gordon",
     "state":"ga"
 },
   "bbox": [

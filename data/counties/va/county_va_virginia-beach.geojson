@@ -6,6 +6,7 @@
     "area_water":654692027,
     "geoid":"51810",
     "name":"Virginia Beach",
+    "ocd_id":"ocd-division/country:us/state:va/county:virginia_beach",
     "state":"va"
 },
   "bbox": [

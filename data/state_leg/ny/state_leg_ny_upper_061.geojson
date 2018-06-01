@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"36061",
     "name":"State Senate District 61",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:61",
     "state":"ny"
 },
   "bbox": [

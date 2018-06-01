@@ -6,6 +6,7 @@
     "area_water":3558463,
     "geoid":"31003",
     "name":"Antelope",
+    "ocd_id":"ocd-division/country:us/state:ne/county:antelope",
     "state":"ne"
 },
   "bbox": [

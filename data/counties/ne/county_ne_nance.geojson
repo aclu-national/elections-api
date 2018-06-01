@@ -6,6 +6,7 @@
     "area_water":17085923,
     "geoid":"31125",
     "name":"Nance",
+    "ocd_id":"ocd-division/country:us/state:ne/county:nance",
     "state":"ne"
 },
   "bbox": [

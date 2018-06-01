@@ -6,6 +6,7 @@
     "area_water":1448446,
     "geoid":"31105",
     "name":"Kimball",
+    "ocd_id":"ocd-division/country:us/state:ne/county:kimball",
     "state":"ne"
 },
   "bbox": [

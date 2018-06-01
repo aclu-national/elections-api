@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"54061",
     "name":"State House District 61",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:61",
     "state":"wv"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":81219897,
     "geoid":"55073",
     "name":"Marathon",
+    "ocd_id":"ocd-division/country:us/state:wi/county:marathon",
     "state":"wi"
 },
   "bbox": [

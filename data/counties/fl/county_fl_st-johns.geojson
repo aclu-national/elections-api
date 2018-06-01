@@ -6,6 +6,7 @@
     "area_water":571962027,
     "geoid":"12109",
     "name":"St. Johns",
+    "ocd_id":"ocd-division/country:us/state:fl/county:st_johns",
     "state":"fl"
 },
   "bbox": [

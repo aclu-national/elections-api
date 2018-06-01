@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"36004",
     "name":"State Senate District 4",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:4",
     "state":"ny"
 },
   "bbox": [

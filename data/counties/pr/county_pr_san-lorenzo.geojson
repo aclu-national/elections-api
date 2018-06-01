@@ -6,6 +6,7 @@
     "area_water":256425,
     "geoid":"72129",
     "name":"San Lorenzo",
+    "ocd_id":"ocd-division/country:us/state:pr/county:san_lorenzo",
     "state":"pr"
 },
   "bbox": [

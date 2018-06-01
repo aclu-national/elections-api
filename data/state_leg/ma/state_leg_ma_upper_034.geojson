@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"25034",
     "name":"Plymouth & Norfolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:34",
     "state":"ma"
 },
   "bbox": [

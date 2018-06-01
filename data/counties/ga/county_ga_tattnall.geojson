@@ -6,6 +6,7 @@
     "area_water":22837730,
     "geoid":"13267",
     "name":"Tattnall",
+    "ocd_id":"ocd-division/country:us/state:ga/county:tattnall",
     "state":"ga"
 },
   "bbox": [

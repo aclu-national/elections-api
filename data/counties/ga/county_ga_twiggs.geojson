@@ -6,6 +6,7 @@
     "area_water":10914123,
     "geoid":"13289",
     "name":"Twiggs",
+    "ocd_id":"ocd-division/country:us/state:ga/county:twiggs",
     "state":"ga"
 },
   "bbox": [

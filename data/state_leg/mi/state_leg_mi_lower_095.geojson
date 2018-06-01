@@ -8,6 +8,7 @@
     "district_num":"095",
     "geoid":"26095",
     "name":"State House District 95",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:95",
     "state":"mi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":56325882,
     "geoid":"35015",
     "name":"Eddy",
+    "ocd_id":"ocd-division/country:us/state:nm/county:eddy",
     "state":"nm"
 },
   "bbox": [

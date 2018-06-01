@@ -6,6 +6,7 @@
     "area_water":5443740,
     "geoid":"48141",
     "name":"El Paso",
+    "ocd_id":"ocd-division/country:us/state:tx/county:el_paso",
     "state":"tx"
 },
   "bbox": [

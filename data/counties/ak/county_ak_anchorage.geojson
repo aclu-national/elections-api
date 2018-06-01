@@ -6,6 +6,7 @@
     "area_water":615526050,
     "geoid":"02020",
     "name":"Anchorage",
+    "ocd_id":"ocd-division/country:us/state:ak/county:anchorage",
     "state":"ak"
 },
   "bbox": [

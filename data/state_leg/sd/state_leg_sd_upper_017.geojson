@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"46017",
     "name":"State Senate District 17",
+    "ocd_id":"ocd-division/country:us/state:sd/sldu:17",
     "state":"sd"
 },
   "bbox": [

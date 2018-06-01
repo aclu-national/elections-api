@@ -6,6 +6,7 @@
     "area_water":1695980,
     "geoid":"48103",
     "name":"Crane",
+    "ocd_id":"ocd-division/country:us/state:tx/county:crane",
     "state":"tx"
 },
   "bbox": [

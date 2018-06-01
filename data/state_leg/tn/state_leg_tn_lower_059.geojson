@@ -8,6 +8,7 @@
     "district_num":"059",
     "geoid":"47059",
     "name":"State House District 59",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:59",
     "state":"tn"
 },
   "bbox": [

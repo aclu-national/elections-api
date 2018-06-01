@@ -6,6 +6,7 @@
     "area_water":5839706,
     "geoid":"54105",
     "name":"Wirt",
+    "ocd_id":"ocd-division/country:us/state:wv/county:wirt",
     "state":"wv"
 },
   "bbox": [

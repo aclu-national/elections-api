@@ -6,6 +6,7 @@
     "area_water":19123262,
     "geoid":"18027",
     "name":"Daviess",
+    "ocd_id":"ocd-division/country:us/state:in/county:daviess",
     "state":"in"
 },
   "bbox": [

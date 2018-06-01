@@ -6,6 +6,7 @@
     "area_water":20847063,
     "geoid":"48147",
     "name":"Fannin",
+    "ocd_id":"ocd-division/country:us/state:tx/county:fannin",
     "state":"tx"
 },
   "bbox": [

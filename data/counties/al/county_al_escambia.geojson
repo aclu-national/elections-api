@@ -6,6 +6,7 @@
     "area_water":20797758,
     "geoid":"01053",
     "name":"Escambia",
+    "ocd_id":"ocd-division/country:us/state:al/county:escambia",
     "state":"al"
 },
   "bbox": [

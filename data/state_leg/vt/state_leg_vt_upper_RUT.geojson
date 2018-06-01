@@ -8,6 +8,7 @@
     "district_num":"RUT",
     "geoid":"50RUT",
     "name":"Rutland State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:RUT",
     "state":"vt"
 },
   "bbox": [

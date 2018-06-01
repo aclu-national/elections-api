@@ -6,6 +6,7 @@
     "area_water":23372072,
     "geoid":"55121",
     "name":"Trempealeau",
+    "ocd_id":"ocd-division/country:us/state:wi/county:trempealeau",
     "state":"wi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":19186958,
     "geoid":"48063",
     "name":"Camp",
+    "ocd_id":"ocd-division/country:us/state:tx/county:camp",
     "state":"tx"
 },
   "bbox": [

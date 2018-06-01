@@ -6,6 +6,7 @@
     "area_water":2228678,
     "geoid":"47099",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:tn/county:lawrence",
     "state":"tn"
 },
   "bbox": [

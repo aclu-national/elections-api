@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"24039",
     "name":"State Legislative District 39",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:39",
     "state":"md"
 },
   "bbox": [

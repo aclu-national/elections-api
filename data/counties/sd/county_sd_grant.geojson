@@ -6,6 +6,7 @@
     "area_water":15753610,
     "geoid":"46051",
     "name":"Grant",
+    "ocd_id":"ocd-division/country:us/state:sd/county:grant",
     "state":"sd"
 },
   "bbox": [

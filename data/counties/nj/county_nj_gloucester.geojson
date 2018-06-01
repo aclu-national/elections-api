@@ -6,6 +6,7 @@
     "area_water":38373885,
     "geoid":"34015",
     "name":"Gloucester",
+    "ocd_id":"ocd-division/country:us/state:nj/county:gloucester",
     "state":"nj"
 },
   "bbox": [

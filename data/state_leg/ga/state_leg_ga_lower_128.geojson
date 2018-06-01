@@ -8,6 +8,7 @@
     "district_num":"128",
     "geoid":"13128",
     "name":"State House District 128",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:128",
     "state":"ga"
 },
   "bbox": [

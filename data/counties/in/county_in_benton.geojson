@@ -6,6 +6,7 @@
     "area_water":236033,
     "geoid":"18007",
     "name":"Benton",
+    "ocd_id":"ocd-division/country:us/state:in/county:benton",
     "state":"in"
 },
   "bbox": [

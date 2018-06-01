@@ -6,6 +6,7 @@
     "area_water":4149819,
     "geoid":"18145",
     "name":"Shelby",
+    "ocd_id":"ocd-division/country:us/state:in/county:shelby",
     "state":"in"
 },
   "bbox": [

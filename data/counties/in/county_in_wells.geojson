@@ -6,6 +6,7 @@
     "area_water":5596377,
     "geoid":"18179",
     "name":"Wells",
+    "ocd_id":"ocd-division/country:us/state:in/county:wells",
     "state":"in"
 },
   "bbox": [

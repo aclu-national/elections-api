@@ -8,6 +8,7 @@
     "district_num":"090",
     "geoid":"20090",
     "name":"State House District 90",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:90",
     "state":"ks"
 },
   "bbox": [

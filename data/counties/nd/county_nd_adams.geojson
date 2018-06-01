@@ -6,6 +6,7 @@
     "area_water":2833854,
     "geoid":"38001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:nd/county:adams",
     "state":"nd"
 },
   "bbox": [

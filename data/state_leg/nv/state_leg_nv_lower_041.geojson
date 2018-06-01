@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"32041",
     "name":"Assembly District 41",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:41",
     "state":"nv"
 },
   "bbox": [

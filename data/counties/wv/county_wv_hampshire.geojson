@@ -6,6 +6,7 @@
     "area_water":10922070,
     "geoid":"54027",
     "name":"Hampshire",
+    "ocd_id":"ocd-division/country:us/state:wv/county:hampshire",
     "state":"wv"
 },
   "bbox": [

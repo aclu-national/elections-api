@@ -6,6 +6,7 @@
     "area_water":177058013,
     "geoid":"16085",
     "name":"Valley",
+    "ocd_id":"ocd-division/country:us/state:id/county:valley",
     "state":"id"
 },
   "bbox": [

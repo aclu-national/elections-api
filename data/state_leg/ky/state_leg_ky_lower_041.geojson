@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"21041",
     "name":"State House District 41",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:41",
     "state":"ky"
 },
   "bbox": [

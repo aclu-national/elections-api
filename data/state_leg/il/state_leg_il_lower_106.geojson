@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"17106",
     "name":"State House District 106",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:106",
     "state":"il"
 },
   "bbox": [

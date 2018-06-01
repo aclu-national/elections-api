@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"42011",
     "name":"State House District 11",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:11",
     "state":"pa"
 },
   "bbox": [

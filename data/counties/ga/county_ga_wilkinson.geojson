@@ -6,6 +6,7 @@
     "area_water":12003359,
     "geoid":"13319",
     "name":"Wilkinson",
+    "ocd_id":"ocd-division/country:us/state:ga/county:wilkinson",
     "state":"ga"
 },
   "bbox": [

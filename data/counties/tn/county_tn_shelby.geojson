@@ -6,6 +6,7 @@
     "area_water":55485268,
     "geoid":"47157",
     "name":"Shelby",
+    "ocd_id":"ocd-division/country:us/state:tn/county:shelby",
     "state":"tn"
 },
   "bbox": [

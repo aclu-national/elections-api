@@ -6,6 +6,7 @@
     "area_water":24422161,
     "geoid":"27043",
     "name":"Faribault",
+    "ocd_id":"ocd-division/country:us/state:mn/county:faribault",
     "state":"mn"
 },
   "bbox": [

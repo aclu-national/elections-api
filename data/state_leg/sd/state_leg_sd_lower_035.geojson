@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"46035",
     "name":"State House District 35",
+    "ocd_id":"ocd-division/country:us/state:sd/sldl:35",
     "state":"sd"
 },
   "bbox": [

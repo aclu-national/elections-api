@@ -6,6 +6,7 @@
     "area_water":41765990,
     "geoid":"05045",
     "name":"Faulkner",
+    "ocd_id":"ocd-division/country:us/state:ar/county:faulkner",
     "state":"ar"
 },
   "bbox": [

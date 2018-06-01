@@ -6,6 +6,7 @@
     "area_water":6712353,
     "geoid":"28131",
     "name":"Stone",
+    "ocd_id":"ocd-division/country:us/state:ms/county:stone",
     "state":"ms"
 },
   "bbox": [

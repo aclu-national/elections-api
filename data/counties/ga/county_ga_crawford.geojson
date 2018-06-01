@@ -6,6 +6,7 @@
     "area_water":3988980,
     "geoid":"13079",
     "name":"Crawford",
+    "ocd_id":"ocd-division/country:us/state:ga/county:crawford",
     "state":"ga"
 },
   "bbox": [

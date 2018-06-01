@@ -6,6 +6,7 @@
     "area_water":68888617,
     "geoid":"40117",
     "name":"Pawnee",
+    "ocd_id":"ocd-division/country:us/state:ok/county:pawnee",
     "state":"ok"
 },
   "bbox": [

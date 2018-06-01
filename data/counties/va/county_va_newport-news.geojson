@@ -6,6 +6,7 @@
     "area_water":131011289,
     "geoid":"51700",
     "name":"Newport News",
+    "ocd_id":"ocd-division/country:us/state:va/county:newport_news",
     "state":"va"
 },
   "bbox": [

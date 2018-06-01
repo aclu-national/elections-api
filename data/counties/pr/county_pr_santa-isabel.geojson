@@ -6,6 +6,7 @@
     "area_water":111140897,
     "geoid":"72133",
     "name":"Santa Isabel",
+    "ocd_id":"ocd-division/country:us/state:pr/county:santa_isabel",
     "state":"pr"
 },
   "bbox": [

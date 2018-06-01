@@ -6,6 +6,7 @@
     "area_water":711449254,
     "geoid":"12005",
     "name":"Bay",
+    "ocd_id":"ocd-division/country:us/state:fl/county:bay",
     "state":"fl"
 },
   "bbox": [

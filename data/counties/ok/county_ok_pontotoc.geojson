@@ -6,6 +6,7 @@
     "area_water":12421415,
     "geoid":"40123",
     "name":"Pontotoc",
+    "ocd_id":"ocd-division/country:us/state:ok/county:pontotoc",
     "state":"ok"
 },
   "bbox": [

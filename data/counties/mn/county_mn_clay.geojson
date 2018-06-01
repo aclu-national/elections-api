@@ -6,6 +6,7 @@
     "area_water":19306174,
     "geoid":"27027",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:mn/county:clay",
     "state":"mn"
 },
   "bbox": [

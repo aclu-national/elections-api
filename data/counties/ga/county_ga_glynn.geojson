@@ -6,6 +6,7 @@
     "area_water":429423812,
     "geoid":"13127",
     "name":"Glynn",
+    "ocd_id":"ocd-division/country:us/state:ga/county:glynn",
     "state":"ga"
 },
   "bbox": [

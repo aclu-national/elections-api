@@ -6,6 +6,7 @@
     "area_water":2216011,
     "geoid":"29197",
     "name":"Schuyler",
+    "ocd_id":"ocd-division/country:us/state:mo/county:schuyler",
     "state":"mo"
 },
   "bbox": [

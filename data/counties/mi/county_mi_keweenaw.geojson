@@ -6,6 +6,7 @@
     "area_water":14053673397,
     "geoid":"26083",
     "name":"Keweenaw",
+    "ocd_id":"ocd-division/country:us/state:mi/county:keweenaw",
     "state":"mi"
 },
   "bbox": [

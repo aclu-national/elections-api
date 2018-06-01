@@ -6,6 +6,7 @@
     "area_water":1791496,
     "geoid":"28065",
     "name":"Jefferson Davis",
+    "ocd_id":"ocd-division/country:us/state:ms/county:jefferson_davis",
     "state":"ms"
 },
   "bbox": [

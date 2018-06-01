@@ -6,6 +6,7 @@
     "area_water":2028358,
     "geoid":"31171",
     "name":"Thomas",
+    "ocd_id":"ocd-division/country:us/state:ne/county:thomas",
     "state":"ne"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"51002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:2",
     "state":"va"
 },
   "bbox": [

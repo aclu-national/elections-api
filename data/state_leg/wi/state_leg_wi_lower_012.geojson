@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"55012",
     "name":"Assembly District 12",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:12",
     "state":"wi"
 },
   "bbox": [

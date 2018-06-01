@@ -8,6 +8,7 @@
     "district_num":"079",
     "geoid":"40079",
     "name":"State House District 79",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:79",
     "state":"ok"
 },
   "bbox": [

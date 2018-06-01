@@ -6,6 +6,7 @@
     "area_water":387514585,
     "geoid":"12081",
     "name":"Manatee",
+    "ocd_id":"ocd-division/country:us/state:fl/county:manatee",
     "state":"fl"
 },
   "bbox": [

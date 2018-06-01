@@ -6,6 +6,7 @@
     "area_water":50572294,
     "geoid":"42097",
     "name":"Northumberland",
+    "ocd_id":"ocd-division/country:us/state:pa/county:northumberland",
     "state":"pa"
 },
   "bbox": [

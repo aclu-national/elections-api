@@ -8,6 +8,7 @@
     "district_num":"902",
     "geoid":"33902",
     "name":"State House District Sullivan County No. 2",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:902",
     "state":"nh"
 },
   "bbox": [

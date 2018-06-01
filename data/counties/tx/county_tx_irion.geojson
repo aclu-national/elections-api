@@ -6,6 +6,7 @@
     "area_water":176317,
     "geoid":"48235",
     "name":"Irion",
+    "ocd_id":"ocd-division/country:us/state:tx/county:irion",
     "state":"tx"
 },
   "bbox": [

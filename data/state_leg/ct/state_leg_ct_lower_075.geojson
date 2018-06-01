@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"09075",
     "name":"State House District 75",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:75",
     "state":"ct"
 },
   "bbox": [

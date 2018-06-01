@@ -6,6 +6,7 @@
     "area_water":3481943,
     "geoid":"31139",
     "name":"Pierce",
+    "ocd_id":"ocd-division/country:us/state:ne/county:pierce",
     "state":"ne"
 },
   "bbox": [

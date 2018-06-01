@@ -6,6 +6,7 @@
     "area_water":38126891,
     "geoid":"36115",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ny/county:washington",
     "state":"ny"
 },
   "bbox": [

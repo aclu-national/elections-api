@@ -6,6 +6,7 @@
     "area_water":46860048,
     "geoid":"41029",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:or/county:jackson",
     "state":"or"
 },
   "bbox": [

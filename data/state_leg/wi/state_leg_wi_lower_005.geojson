@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"55005",
     "name":"Assembly District 5",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:5",
     "state":"wi"
 },
   "bbox": [

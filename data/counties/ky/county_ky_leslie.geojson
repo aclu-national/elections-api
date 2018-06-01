@@ -6,6 +6,7 @@
     "area_water":9230600,
     "geoid":"21131",
     "name":"Leslie",
+    "ocd_id":"ocd-division/country:us/state:ky/county:leslie",
     "state":"ky"
 },
   "bbox": [

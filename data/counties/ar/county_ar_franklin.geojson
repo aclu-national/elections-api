@@ -6,6 +6,7 @@
     "area_water":27936032,
     "geoid":"05047",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ar/county:franklin",
     "state":"ar"
 },
   "bbox": [

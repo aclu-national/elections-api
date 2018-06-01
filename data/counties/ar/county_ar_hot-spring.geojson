@@ -6,6 +6,7 @@
     "area_water":18038347,
     "geoid":"05059",
     "name":"Hot Spring",
+    "ocd_id":"ocd-division/country:us/state:ar/county:hot_spring",
     "state":"ar"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":166246301,
     "geoid":"56037",
     "name":"Sweetwater",
+    "ocd_id":"ocd-division/country:us/state:wy/county:sweetwater",
     "state":"wy"
 },
   "bbox": [

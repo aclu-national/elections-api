@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"34027",
     "name":"General Assembly District 27",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:27",
     "state":"nj"
 },
   "bbox": [

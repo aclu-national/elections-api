@@ -6,6 +6,7 @@
     "area_water":1051790,
     "geoid":"72001",
     "name":"Adjuntas",
+    "ocd_id":"ocd-division/country:us/state:pr/county:adjuntas",
     "state":"pr"
 },
   "bbox": [

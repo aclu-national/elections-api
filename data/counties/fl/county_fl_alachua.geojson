@@ -6,6 +6,7 @@
     "area_water":242801104,
     "geoid":"12001",
     "name":"Alachua",
+    "ocd_id":"ocd-division/country:us/state:fl/county:alachua",
     "state":"fl"
 },
   "bbox": [

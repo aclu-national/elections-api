@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"53027",
     "name":"State House District 27",
+    "ocd_id":"ocd-division/country:us/state:wa/sldl:27",
     "state":"wa"
 },
   "bbox": [

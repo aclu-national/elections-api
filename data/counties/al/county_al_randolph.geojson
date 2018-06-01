@@ -6,6 +6,7 @@
     "area_water":9285420,
     "geoid":"01111",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:al/county:randolph",
     "state":"al"
 },
   "bbox": [

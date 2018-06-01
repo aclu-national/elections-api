@@ -6,6 +6,7 @@
     "area_water":81216907,
     "geoid":"51181",
     "name":"Surry",
+    "ocd_id":"ocd-division/country:us/state:va/county:surry",
     "state":"va"
 },
   "bbox": [

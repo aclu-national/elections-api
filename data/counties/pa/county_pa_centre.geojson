@@ -6,6 +6,7 @@
     "area_water":8187277,
     "geoid":"42027",
     "name":"Centre",
+    "ocd_id":"ocd-division/country:us/state:pa/county:centre",
     "state":"pa"
 },
   "bbox": [

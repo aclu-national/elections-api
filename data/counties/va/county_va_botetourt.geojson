@@ -6,6 +6,7 @@
     "area_water":12133615,
     "geoid":"51023",
     "name":"Botetourt",
+    "ocd_id":"ocd-division/country:us/state:va/county:botetourt",
     "state":"va"
 },
   "bbox": [

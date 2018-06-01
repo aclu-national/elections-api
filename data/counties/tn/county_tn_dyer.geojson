@@ -6,6 +6,7 @@
     "area_water":36772010,
     "geoid":"47045",
     "name":"Dyer",
+    "ocd_id":"ocd-division/country:us/state:tn/county:dyer",
     "state":"tn"
 },
   "bbox": [

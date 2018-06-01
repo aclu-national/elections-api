@@ -6,6 +6,7 @@
     "area_water":86141064,
     "geoid":"48363",
     "name":"Palo Pinto",
+    "ocd_id":"ocd-division/country:us/state:tx/county:palo_pinto",
     "state":"tx"
 },
   "bbox": [

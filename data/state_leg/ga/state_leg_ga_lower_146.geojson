@@ -8,6 +8,7 @@
     "district_num":"146",
     "geoid":"13146",
     "name":"State House District 146",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:146",
     "state":"ga"
 },
   "bbox": [

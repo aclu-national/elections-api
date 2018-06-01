@@ -8,6 +8,7 @@
     "district_num":"147",
     "geoid":"29147",
     "name":"State House District 147",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:147",
     "state":"mo"
 },
   "bbox": [

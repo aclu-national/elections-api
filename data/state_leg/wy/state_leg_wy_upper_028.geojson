@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"56028",
     "name":"State Senate District 28",
+    "ocd_id":"ocd-division/country:us/state:wy/sldu:28",
     "state":"wy"
 },
   "bbox": [

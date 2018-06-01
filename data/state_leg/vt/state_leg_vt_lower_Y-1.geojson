@@ -8,6 +8,7 @@
     "district_num":"Y-1",
     "geoid":"50Y-1",
     "name":"Windsor-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:Y-1",
     "state":"vt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":10943099,
     "geoid":"21229",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ky/county:washington",
     "state":"ky"
 },
   "bbox": [

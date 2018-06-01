@@ -6,6 +6,7 @@
     "area_water":133711607,
     "geoid":"53067",
     "name":"Thurston",
+    "ocd_id":"ocd-division/country:us/state:wa/county:thurston",
     "state":"wa"
 },
   "bbox": [

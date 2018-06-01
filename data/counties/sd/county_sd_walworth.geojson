@@ -6,6 +6,7 @@
     "area_water":93215243,
     "geoid":"46129",
     "name":"Walworth",
+    "ocd_id":"ocd-division/country:us/state:sd/county:walworth",
     "state":"sd"
 },
   "bbox": [

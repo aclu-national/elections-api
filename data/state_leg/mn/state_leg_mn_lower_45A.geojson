@@ -8,6 +8,7 @@
     "district_num":"45A",
     "geoid":"2745A",
     "name":"State House District 45A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:45A",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1872668,
     "geoid":"31165",
     "name":"Sioux",
+    "ocd_id":"ocd-division/country:us/state:ne/county:sioux",
     "state":"ne"
 },
   "bbox": [

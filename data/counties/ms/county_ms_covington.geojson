@@ -6,6 +6,7 @@
     "area_water":2937796,
     "geoid":"28031",
     "name":"Covington",
+    "ocd_id":"ocd-division/country:us/state:ms/county:covington",
     "state":"ms"
 },
   "bbox": [

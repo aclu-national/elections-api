@@ -8,6 +8,7 @@
     "district_num":"205",
     "geoid":"33205",
     "name":"State House District Cheshire County No. 5",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:205",
     "state":"nh"
 },
   "bbox": [

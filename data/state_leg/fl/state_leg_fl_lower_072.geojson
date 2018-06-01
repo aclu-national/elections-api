@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"12072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:72",
     "state":"fl"
 },
   "bbox": [

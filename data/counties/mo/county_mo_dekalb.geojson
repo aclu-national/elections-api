@@ -6,6 +6,7 @@
     "area_water":11561078,
     "geoid":"29063",
     "name":"DeKalb",
+    "ocd_id":"ocd-division/country:us/state:mo/county:dekalb",
     "state":"mo"
 },
   "bbox": [

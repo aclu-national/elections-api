@@ -8,6 +8,7 @@
     "district_num":"097",
     "geoid":"42097",
     "name":"State House District 97",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:97",
     "state":"pa"
 },
   "bbox": [

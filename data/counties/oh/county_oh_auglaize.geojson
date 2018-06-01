@@ -6,6 +6,7 @@
     "area_water":1345186,
     "geoid":"39011",
     "name":"Auglaize",
+    "ocd_id":"ocd-division/country:us/state:oh/county:auglaize",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":21491164,
     "geoid":"01081",
     "name":"Lee",
+    "ocd_id":"ocd-division/country:us/state:al/county:lee",
     "state":"al"
 },
   "bbox": [

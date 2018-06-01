@@ -6,6 +6,7 @@
     "area_water":5754986,
     "geoid":"28029",
     "name":"Copiah",
+    "ocd_id":"ocd-division/country:us/state:ms/county:copiah",
     "state":"ms"
 },
   "bbox": [

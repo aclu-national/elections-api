@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"24040",
     "name":"State Senate District 40",
+    "ocd_id":"ocd-division/country:us/state:md/sldu:40",
     "state":"md"
 },
   "bbox": [

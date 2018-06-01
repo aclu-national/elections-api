@@ -8,6 +8,7 @@
     "district_num":"C64",
     "geoid":"50C64",
     "name":"Chittenden-6-4 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C64",
     "state":"vt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":23189052,
     "geoid":"21183",
     "name":"Ohio",
+    "ocd_id":"ocd-division/country:us/state:ky/county:ohio",
     "state":"ky"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"CGI",
     "geoid":"50CGI",
     "name":"Grand-Isle-Chittenden State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:CGI",
     "state":"vt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":18528245,
     "geoid":"29045",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:mo/county:clark",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":6195045325,
     "geoid":"41",
     "name":"Oregon",
+    "ocd_id":"ocd-division/country:us/state:or",
     "state":"or"
 },
   "bbox": [

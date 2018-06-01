@@ -6,6 +6,7 @@
     "area_water":66861670,
     "geoid":"36087",
     "name":"Rockland",
+    "ocd_id":"ocd-division/country:us/state:ny/county:rockland",
     "state":"ny"
 },
   "bbox": [

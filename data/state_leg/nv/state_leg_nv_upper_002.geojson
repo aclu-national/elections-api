@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"32002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:nv/sldu:2",
     "state":"nv"
 },
   "bbox": [

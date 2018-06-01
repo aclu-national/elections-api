@@ -6,6 +6,7 @@
     "area_water":5643844,
     "geoid":"13207",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:ga/county:monroe",
     "state":"ga"
 },
   "bbox": [

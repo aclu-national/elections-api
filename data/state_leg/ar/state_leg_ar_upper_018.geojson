@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"05018",
     "name":"State Senate District 18",
+    "ocd_id":"ocd-division/country:us/state:ar/sldu:18",
     "state":"ar"
 },
   "bbox": [

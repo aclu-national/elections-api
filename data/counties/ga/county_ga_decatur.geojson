@@ -6,6 +6,7 @@
     "area_water":67329727,
     "geoid":"13087",
     "name":"Decatur",
+    "ocd_id":"ocd-division/country:us/state:ga/county:decatur",
     "state":"ga"
 },
   "bbox": [

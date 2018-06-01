@@ -6,6 +6,7 @@
     "area_water":3172680,
     "geoid":"17065",
     "name":"Hamilton",
+    "ocd_id":"ocd-division/country:us/state:il/county:hamilton",
     "state":"il"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":68555510,
     "geoid":"16039",
     "name":"Elmore",
+    "ocd_id":"ocd-division/country:us/state:id/county:elmore",
     "state":"id"
 },
   "bbox": [

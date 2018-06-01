@@ -6,6 +6,7 @@
     "area_water":6980371026,
     "geoid":"24",
     "name":"Maryland",
+    "ocd_id":"ocd-division/country:us/state:md",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":156421850,
     "geoid":"26143",
     "name":"Roscommon",
+    "ocd_id":"ocd-division/country:us/state:mi/county:roscommon",
     "state":"mi"
 },
   "bbox": [

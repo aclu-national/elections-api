@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"49024",
     "name":"State Senate District 24",
+    "ocd_id":"ocd-division/country:us/state:ut/sldu:24",
     "state":"ut"
 },
   "bbox": [

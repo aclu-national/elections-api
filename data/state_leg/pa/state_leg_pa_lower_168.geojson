@@ -8,6 +8,7 @@
     "district_num":"168",
     "geoid":"42168",
     "name":"State House District 168",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:168",
     "state":"pa"
 },
   "bbox": [

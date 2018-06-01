@@ -6,6 +6,7 @@
     "area_water":46852821,
     "geoid":"13029",
     "name":"Bryan",
+    "ocd_id":"ocd-division/country:us/state:ga/county:bryan",
     "state":"ga"
 },
   "bbox": [

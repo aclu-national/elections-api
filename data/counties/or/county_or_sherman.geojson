@@ -6,6 +6,7 @@
     "area_water":19617470,
     "geoid":"41055",
     "name":"Sherman",
+    "ocd_id":"ocd-division/country:us/state:or/county:sherman",
     "state":"or"
 },
   "bbox": [

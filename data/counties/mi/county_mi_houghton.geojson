@@ -6,6 +6,7 @@
     "area_water":1275355802,
     "geoid":"26061",
     "name":"Houghton",
+    "ocd_id":"ocd-division/country:us/state:mi/county:houghton",
     "state":"mi"
 },
   "bbox": [

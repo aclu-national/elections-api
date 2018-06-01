@@ -8,6 +8,7 @@
     "district_num":"038",
     "geoid":"34038",
     "name":"State Senate District 38",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:38",
     "state":"nj"
 },
   "bbox": [

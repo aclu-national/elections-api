@@ -6,6 +6,7 @@
     "area_water":19565477,
     "geoid":"31115",
     "name":"Loup",
+    "ocd_id":"ocd-division/country:us/state:ne/county:loup",
     "state":"ne"
 },
   "bbox": [

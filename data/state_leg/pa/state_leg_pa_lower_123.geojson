@@ -8,6 +8,7 @@
     "district_num":"123",
     "geoid":"42123",
     "name":"State House District 123",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:123",
     "state":"pa"
 },
   "bbox": [

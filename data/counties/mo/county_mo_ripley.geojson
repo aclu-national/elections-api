@@ -6,6 +6,7 @@
     "area_water":5443027,
     "geoid":"29181",
     "name":"Ripley",
+    "ocd_id":"ocd-division/country:us/state:mo/county:ripley",
     "state":"mo"
 },
   "bbox": [

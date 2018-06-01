@@ -6,6 +6,7 @@
     "area_water":96243697,
     "geoid":"46021",
     "name":"Campbell",
+    "ocd_id":"ocd-division/country:us/state:sd/county:campbell",
     "state":"sd"
 },
   "bbox": [

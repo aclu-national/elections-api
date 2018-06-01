@@ -6,6 +6,7 @@
     "area_water":458735963,
     "geoid":"12015",
     "name":"Charlotte",
+    "ocd_id":"ocd-division/country:us/state:fl/county:charlotte",
     "state":"fl"
 },
   "bbox": [

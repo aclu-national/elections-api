@@ -6,6 +6,7 @@
     "area_water":36635214,
     "geoid":"26051",
     "name":"Gladwin",
+    "ocd_id":"ocd-division/country:us/state:mi/county:gladwin",
     "state":"mi"
 },
   "bbox": [

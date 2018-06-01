@@ -6,6 +6,7 @@
     "area_water":34193433,
     "geoid":"55109",
     "name":"St. Croix",
+    "ocd_id":"ocd-division/country:us/state:wi/county:st_croix",
     "state":"wi"
 },
   "bbox": [

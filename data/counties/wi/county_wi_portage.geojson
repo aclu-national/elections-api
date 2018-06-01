@@ -6,6 +6,7 @@
     "area_water":56939082,
     "geoid":"55097",
     "name":"Portage",
+    "ocd_id":"ocd-division/country:us/state:wi/county:portage",
     "state":"wi"
 },
   "bbox": [

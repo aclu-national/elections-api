@@ -6,6 +6,7 @@
     "area_water":17143494,
     "geoid":"18047",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:in/county:franklin",
     "state":"in"
 },
   "bbox": [

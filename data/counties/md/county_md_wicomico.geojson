@@ -6,6 +6,7 @@
     "area_water":66797773,
     "geoid":"24045",
     "name":"Wicomico",
+    "ocd_id":"ocd-division/country:us/state:md/county:wicomico",
     "state":"md"
 },
   "bbox": [

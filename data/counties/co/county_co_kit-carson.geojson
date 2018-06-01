@@ -6,6 +6,7 @@
     "area_water":2251930,
     "geoid":"08063",
     "name":"Kit Carson",
+    "ocd_id":"ocd-division/country:us/state:co/county:kit_carson",
     "state":"co"
 },
   "bbox": [

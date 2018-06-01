@@ -6,6 +6,7 @@
     "area_water":16984489,
     "geoid":"39121",
     "name":"Noble",
+    "ocd_id":"ocd-division/country:us/state:oh/county:noble",
     "state":"oh"
 },
   "bbox": [

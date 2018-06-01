@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"38031",
     "name":"State House District 31",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:31",
     "state":"nd"
 },
   "bbox": [

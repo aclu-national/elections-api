@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"21042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:42",
     "state":"ky"
 },
   "bbox": [

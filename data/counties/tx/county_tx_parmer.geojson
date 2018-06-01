@@ -6,6 +6,7 @@
     "area_water":11355762,
     "geoid":"48369",
     "name":"Parmer",
+    "ocd_id":"ocd-division/country:us/state:tx/county:parmer",
     "state":"tx"
 },
   "bbox": [

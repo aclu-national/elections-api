@@ -8,6 +8,7 @@
     "district_num":"047",
     "geoid":"21047",
     "name":"State House District 47",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:47",
     "state":"ky"
 },
   "bbox": [

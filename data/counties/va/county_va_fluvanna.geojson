@@ -6,6 +6,7 @@
     "area_water":10746124,
     "geoid":"51065",
     "name":"Fluvanna",
+    "ocd_id":"ocd-division/country:us/state:va/county:fluvanna",
     "state":"va"
 },
   "bbox": [

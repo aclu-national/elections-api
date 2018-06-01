@@ -8,6 +8,7 @@
     "district_num":"067",
     "geoid":"21067",
     "name":"State House District 67",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:67",
     "state":"ky"
 },
   "bbox": [

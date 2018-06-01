@@ -6,6 +6,7 @@
     "area_water":654101087,
     "geoid":"27111",
     "name":"Otter Tail",
+    "ocd_id":"ocd-division/country:us/state:mn/county:otter_tail",
     "state":"mn"
 },
   "bbox": [

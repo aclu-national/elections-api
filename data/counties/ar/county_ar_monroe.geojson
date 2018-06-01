@@ -6,6 +6,7 @@
     "area_water":36694917,
     "geoid":"05095",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:ar/county:monroe",
     "state":"ar"
 },
   "bbox": [

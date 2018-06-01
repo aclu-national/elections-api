@@ -6,6 +6,7 @@
     "area_water":4548860,
     "geoid":"48197",
     "name":"Hardeman",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hardeman",
     "state":"tx"
 },
   "bbox": [

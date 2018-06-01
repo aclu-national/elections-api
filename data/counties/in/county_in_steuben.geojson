@@ -6,6 +6,7 @@
     "area_water":35458838,
     "geoid":"18151",
     "name":"Steuben",
+    "ocd_id":"ocd-division/country:us/state:in/county:steuben",
     "state":"in"
 },
   "bbox": [

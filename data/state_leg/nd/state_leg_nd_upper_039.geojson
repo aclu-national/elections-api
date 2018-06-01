@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"38039",
     "name":"State Senate District 39",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:39",
     "state":"nd"
 },
   "bbox": [

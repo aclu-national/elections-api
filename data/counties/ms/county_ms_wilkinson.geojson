@@ -6,6 +6,7 @@
     "area_water":25019144,
     "geoid":"28157",
     "name":"Wilkinson",
+    "ocd_id":"ocd-division/country:us/state:ms/county:wilkinson",
     "state":"ms"
 },
   "bbox": [

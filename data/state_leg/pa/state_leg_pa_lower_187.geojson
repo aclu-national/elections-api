@@ -8,6 +8,7 @@
     "district_num":"187",
     "geoid":"42187",
     "name":"State House District 187",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:187",
     "state":"pa"
 },
   "bbox": [

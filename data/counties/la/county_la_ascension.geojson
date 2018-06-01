@@ -6,6 +6,7 @@
     "area_water":33194065,
     "geoid":"22005",
     "name":"Ascension",
+    "ocd_id":"ocd-division/country:us/state:la/county:ascension",
     "state":"la"
 },
   "bbox": [

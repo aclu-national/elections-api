@@ -6,6 +6,7 @@
     "area_water":12470881,
     "geoid":"39139",
     "name":"Richland",
+    "ocd_id":"ocd-division/country:us/state:oh/county:richland",
     "state":"oh"
 },
   "bbox": [

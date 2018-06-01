@@ -6,6 +6,7 @@
     "area_water":5606074,
     "geoid":"42067",
     "name":"Juniata",
+    "ocd_id":"ocd-division/country:us/state:pa/county:juniata",
     "state":"pa"
 },
   "bbox": [

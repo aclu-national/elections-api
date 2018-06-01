@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"29014",
     "name":"State House District 14",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:14",
     "state":"mo"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"112",
     "geoid":"20112",
     "name":"State House District 112",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:112",
     "state":"ks"
 },
   "bbox": [

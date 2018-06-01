@@ -6,6 +6,7 @@
     "area_water":56254913,
     "geoid":"17157",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:il/county:randolph",
     "state":"il"
 },
   "bbox": [

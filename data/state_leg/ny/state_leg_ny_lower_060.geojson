@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"36060",
     "name":"Assembly District 60",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:60",
     "state":"ny"
 },
   "bbox": [

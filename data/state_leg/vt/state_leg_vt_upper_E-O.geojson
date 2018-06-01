@@ -8,6 +8,7 @@
     "district_num":"E-O",
     "geoid":"50E-O",
     "name":"Essex-Orleans State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:E-O",
     "state":"vt"
 },
   "bbox": [

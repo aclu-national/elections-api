@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"16012",
     "name":"State Senate District 12",
+    "ocd_id":"ocd-division/country:us/state:id/sldu:12",
     "state":"id"
 },
   "bbox": [

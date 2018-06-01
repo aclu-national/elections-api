@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"08016",
     "name":"State Senate District 16",
+    "ocd_id":"ocd-division/country:us/state:co/sldu:16",
     "state":"co"
 },
   "bbox": [

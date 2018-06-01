@@ -6,6 +6,7 @@
     "area_water":464309,
     "geoid":"48461",
     "name":"Upton",
+    "ocd_id":"ocd-division/country:us/state:tx/county:upton",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"29043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:43",
     "state":"mo"
 },
   "bbox": [

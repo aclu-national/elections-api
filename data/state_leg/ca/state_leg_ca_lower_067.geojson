@@ -8,6 +8,7 @@
     "district_num":"067",
     "geoid":"06067",
     "name":"Assembly District 67",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:67",
     "state":"ca"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"096",
     "geoid":"23096",
     "name":"State House District 96",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:96",
     "state":"me"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":41647897,
     "geoid":"41059",
     "name":"Umatilla",
+    "ocd_id":"ocd-division/country:us/state:or/county:umatilla",
     "state":"or"
 },
   "bbox": [

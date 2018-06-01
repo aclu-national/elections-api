@@ -6,6 +6,7 @@
     "area_water":18111565,
     "geoid":"08065",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:co/county:lake",
     "state":"co"
 },
   "bbox": [

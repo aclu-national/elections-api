@@ -8,6 +8,7 @@
     "district_num":"099",
     "geoid":"42099",
     "name":"State House District 99",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:99",
     "state":"pa"
 },
   "bbox": [

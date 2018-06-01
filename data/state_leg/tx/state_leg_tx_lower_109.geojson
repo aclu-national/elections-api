@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"48109",
     "name":"State House District 109",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:109",
     "state":"tx"
 },
   "bbox": [

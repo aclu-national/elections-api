@@ -8,6 +8,7 @@
     "district_num":"113",
     "geoid":"37113",
     "name":"State House District 113",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:113",
     "state":"nc"
 },
   "bbox": [

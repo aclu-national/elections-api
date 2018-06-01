@@ -6,6 +6,7 @@
     "area_water":100339826,
     "geoid":"12019",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:fl/county:clay",
     "state":"fl"
 },
   "bbox": [

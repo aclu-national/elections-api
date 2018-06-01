@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"13027",
     "name":"State House District 27",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:27",
     "state":"ga"
 },
   "bbox": [

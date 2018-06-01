@@ -8,6 +8,7 @@
     "district_num":"113",
     "geoid":"20113",
     "name":"State House District 113",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:113",
     "state":"ks"
 },
   "bbox": [

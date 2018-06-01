@@ -6,6 +6,7 @@
     "area_water":5436958,
     "geoid":"48415",
     "name":"Scurry",
+    "ocd_id":"ocd-division/country:us/state:tx/county:scurry",
     "state":"tx"
 },
   "bbox": [

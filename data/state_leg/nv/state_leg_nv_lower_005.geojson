@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"32005",
     "name":"Assembly District 5",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:5",
     "state":"nv"
 },
   "bbox": [

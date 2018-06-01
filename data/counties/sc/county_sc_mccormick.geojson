@@ -6,6 +6,7 @@
     "area_water":89983085,
     "geoid":"45065",
     "name":"McCormick",
+    "ocd_id":"ocd-division/country:us/state:sc/county:mccormick",
     "state":"sc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"LAM",
     "geoid":"50LAM",
     "name":"Lamoille State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:LAM",
     "state":"vt"
 },
   "bbox": [

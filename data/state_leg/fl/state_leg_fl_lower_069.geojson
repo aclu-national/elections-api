@@ -8,6 +8,7 @@
     "district_num":"069",
     "geoid":"12069",
     "name":"State House District 69",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:69",
     "state":"fl"
 },
   "bbox": [

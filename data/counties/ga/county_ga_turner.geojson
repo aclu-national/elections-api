@@ -6,6 +6,7 @@
     "area_water":11881239,
     "geoid":"13287",
     "name":"Turner",
+    "ocd_id":"ocd-division/country:us/state:ga/county:turner",
     "state":"ga"
 },
   "bbox": [

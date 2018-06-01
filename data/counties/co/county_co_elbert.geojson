@@ -6,6 +6,7 @@
     "area_water":442148,
     "geoid":"08039",
     "name":"Elbert",
+    "ocd_id":"ocd-division/country:us/state:co/county:elbert",
     "state":"co"
 },
   "bbox": [

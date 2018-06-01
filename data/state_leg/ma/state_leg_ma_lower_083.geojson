@@ -8,6 +8,7 @@
     "district_num":"083",
     "geoid":"25083",
     "name":"1st Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:83",
     "state":"ma"
 },
   "bbox": [

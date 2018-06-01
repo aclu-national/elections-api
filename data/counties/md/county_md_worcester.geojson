@@ -6,6 +6,7 @@
     "area_water":586845178,
     "geoid":"24047",
     "name":"Worcester",
+    "ocd_id":"ocd-division/country:us/state:md/county:worcester",
     "state":"md"
 },
   "bbox": [

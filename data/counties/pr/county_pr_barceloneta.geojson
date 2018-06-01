@@ -6,6 +6,7 @@
     "area_water":31649450,
     "geoid":"72017",
     "name":"Barceloneta",
+    "ocd_id":"ocd-division/country:us/state:pr/county:barceloneta",
     "state":"pr"
 },
   "bbox": [

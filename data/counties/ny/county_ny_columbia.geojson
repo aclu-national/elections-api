@@ -6,6 +6,7 @@
     "area_water":35063763,
     "geoid":"36021",
     "name":"Columbia",
+    "ocd_id":"ocd-division/country:us/state:ny/county:columbia",
     "state":"ny"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":61715041,
     "geoid":"17161",
     "name":"Rock Island",
+    "ocd_id":"ocd-division/country:us/state:il/county:rock_island",
     "state":"il"
 },
   "bbox": [

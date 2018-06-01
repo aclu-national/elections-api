@@ -6,6 +6,7 @@
     "area_water":10511619,
     "geoid":"17169",
     "name":"Schuyler",
+    "ocd_id":"ocd-division/country:us/state:il/county:schuyler",
     "state":"il"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":15627712,
     "geoid":"21211",
     "name":"Shelby",
+    "ocd_id":"ocd-division/country:us/state:ky/county:shelby",
     "state":"ky"
 },
   "bbox": [

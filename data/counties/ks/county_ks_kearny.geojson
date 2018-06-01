@@ -6,6 +6,7 @@
     "area_water":1133601,
     "geoid":"20093",
     "name":"Kearny",
+    "ocd_id":"ocd-division/country:us/state:ks/county:kearny",
     "state":"ks"
 },
   "bbox": [

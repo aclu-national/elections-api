@@ -8,6 +8,7 @@
     "district_num":"162",
     "geoid":"42162",
     "name":"State House District 162",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:162",
     "state":"pa"
 },
   "bbox": [

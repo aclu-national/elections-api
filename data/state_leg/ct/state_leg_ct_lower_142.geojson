@@ -8,6 +8,7 @@
     "district_num":"142",
     "geoid":"09142",
     "name":"State House District 142",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:142",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":38050433,
     "geoid":"29013",
     "name":"Bates",
+    "ocd_id":"ocd-division/country:us/state:mo/county:bates",
     "state":"mo"
 },
   "bbox": [

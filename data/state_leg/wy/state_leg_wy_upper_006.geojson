@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"56006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:wy/sldu:6",
     "state":"wy"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":29350862,
     "geoid":"45017",
     "name":"Calhoun",
+    "ocd_id":"ocd-division/country:us/state:sc/county:calhoun",
     "state":"sc"
 },
   "bbox": [

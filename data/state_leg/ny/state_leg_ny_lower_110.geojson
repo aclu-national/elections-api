@@ -8,6 +8,7 @@
     "district_num":"110",
     "geoid":"36110",
     "name":"Assembly District 110",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:110",
     "state":"ny"
 },
   "bbox": [

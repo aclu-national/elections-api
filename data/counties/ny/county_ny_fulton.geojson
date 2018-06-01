@@ -6,6 +6,7 @@
     "area_water":96916405,
     "geoid":"36035",
     "name":"Fulton",
+    "ocd_id":"ocd-division/country:us/state:ny/county:fulton",
     "state":"ny"
 },
   "bbox": [

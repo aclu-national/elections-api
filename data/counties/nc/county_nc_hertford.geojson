@@ -6,6 +6,7 @@
     "area_water":18740844,
     "geoid":"37091",
     "name":"Hertford",
+    "ocd_id":"ocd-division/country:us/state:nc/county:hertford",
     "state":"nc"
 },
   "bbox": [

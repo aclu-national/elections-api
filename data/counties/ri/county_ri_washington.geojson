@@ -6,6 +6,7 @@
     "area_water":604771644,
     "geoid":"44009",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ri/county:washington",
     "state":"ri"
 },
   "bbox": [

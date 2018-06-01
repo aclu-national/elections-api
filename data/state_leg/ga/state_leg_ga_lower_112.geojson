@@ -8,6 +8,7 @@
     "district_num":"112",
     "geoid":"13112",
     "name":"State House District 112",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:112",
     "state":"ga"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"04015",
     "name":"State House District 15",
+    "ocd_id":"ocd-division/country:us/state:az/sldl:15",
     "state":"az"
 },
   "bbox": [

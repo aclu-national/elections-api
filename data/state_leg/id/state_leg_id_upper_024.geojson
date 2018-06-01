@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"16024",
     "name":"State Senate District 24",
+    "ocd_id":"ocd-division/country:us/state:id/sldu:24",
     "state":"id"
 },
   "bbox": [

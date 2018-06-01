@@ -8,6 +8,7 @@
     "district_num":"160",
     "geoid":"13160",
     "name":"State House District 160",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:160",
     "state":"ga"
 },
   "bbox": [

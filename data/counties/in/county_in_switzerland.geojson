@@ -6,6 +6,7 @@
     "area_water":7193732,
     "geoid":"18155",
     "name":"Switzerland",
+    "ocd_id":"ocd-division/country:us/state:in/county:switzerland",
     "state":"in"
 },
   "bbox": [

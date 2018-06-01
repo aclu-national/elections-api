@@ -8,6 +8,7 @@
     "district_num":"WA4",
     "geoid":"50WA4",
     "name":"Washington-4 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WA4",
     "state":"vt"
 },
   "bbox": [

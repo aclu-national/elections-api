@@ -6,6 +6,7 @@
     "area_water":2628056,
     "geoid":"18059",
     "name":"Hancock",
+    "ocd_id":"ocd-division/country:us/state:in/county:hancock",
     "state":"in"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"29B",
     "geoid":"2429B",
     "name":"State Legislative Subdistrict 29B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:29B",
     "state":"md"
 },
   "bbox": [

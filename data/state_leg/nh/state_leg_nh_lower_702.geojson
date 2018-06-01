@@ -8,6 +8,7 @@
     "district_num":"702",
     "geoid":"33702",
     "name":"State House District Rockingham County No. 2",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:702",
     "state":"nh"
 },
   "bbox": [

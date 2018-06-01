@@ -8,6 +8,7 @@
     "district_num":"067",
     "geoid":"19067",
     "name":"State House District 67",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:67",
     "state":"ia"
 },
   "bbox": [

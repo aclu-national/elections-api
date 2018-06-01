@@ -8,6 +8,7 @@
     "district_num":"C72",
     "geoid":"50C72",
     "name":"Chittenden-7-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C72",
     "state":"vt"
 },
   "bbox": [

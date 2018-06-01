@@ -6,6 +6,7 @@
     "area_water":175375756,
     "geoid":"10003",
     "name":"New Castle",
+    "ocd_id":"ocd-division/country:us/state:de/county:new_castle",
     "state":"de"
 },
   "bbox": [

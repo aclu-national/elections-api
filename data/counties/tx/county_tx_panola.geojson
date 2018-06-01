@@ -6,6 +6,7 @@
     "area_water":25810622,
     "geoid":"48365",
     "name":"Panola",
+    "ocd_id":"ocd-division/country:us/state:tx/county:panola",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"45014",
     "name":"State Senate District 14",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:14",
     "state":"sc"
 },
   "bbox": [

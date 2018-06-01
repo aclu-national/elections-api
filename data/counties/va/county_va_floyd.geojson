@@ -6,6 +6,7 @@
     "area_water":2190750,
     "geoid":"51063",
     "name":"Floyd",
+    "ocd_id":"ocd-division/country:us/state:va/county:floyd",
     "state":"va"
 },
   "bbox": [

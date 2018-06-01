@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"20004",
     "name":"State Senate District 4",
+    "ocd_id":"ocd-division/country:us/state:ks/sldu:4",
     "state":"ks"
 },
   "bbox": [

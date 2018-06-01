@@ -6,6 +6,7 @@
     "area_water":15229160,
     "geoid":"31079",
     "name":"Hall",
+    "ocd_id":"ocd-division/country:us/state:ne/county:hall",
     "state":"ne"
 },
   "bbox": [

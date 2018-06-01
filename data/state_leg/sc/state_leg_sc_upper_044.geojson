@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"45044",
     "name":"State Senate District 44",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:44",
     "state":"sc"
 },
   "bbox": [

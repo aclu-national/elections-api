@@ -6,6 +6,7 @@
     "area_water":30094812,
     "geoid":"08101",
     "name":"Pueblo",
+    "ocd_id":"ocd-division/country:us/state:co/county:pueblo",
     "state":"co"
 },
   "bbox": [

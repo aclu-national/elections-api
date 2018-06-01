@@ -6,6 +6,7 @@
     "area_water":215909963,
     "geoid":"24005",
     "name":"Baltimore",
+    "ocd_id":"ocd-division/country:us/state:md/county:baltimore",
     "state":"md"
 },
   "bbox": [

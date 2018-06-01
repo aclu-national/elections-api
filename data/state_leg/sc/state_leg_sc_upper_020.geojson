@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"45020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:20",
     "state":"sc"
 },
   "bbox": [

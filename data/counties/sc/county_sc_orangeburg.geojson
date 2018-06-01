@@ -6,6 +6,7 @@
     "area_water":56516003,
     "geoid":"45075",
     "name":"Orangeburg",
+    "ocd_id":"ocd-division/country:us/state:sc/county:orangeburg",
     "state":"sc"
 },
   "bbox": [

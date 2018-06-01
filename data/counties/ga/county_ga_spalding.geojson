@@ -6,6 +6,7 @@
     "area_water":9593612,
     "geoid":"13255",
     "name":"Spalding",
+    "ocd_id":"ocd-division/country:us/state:ga/county:spalding",
     "state":"ga"
 },
   "bbox": [

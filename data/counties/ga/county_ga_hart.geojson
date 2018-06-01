@@ -6,6 +6,7 @@
     "area_water":63583341,
     "geoid":"13147",
     "name":"Hart",
+    "ocd_id":"ocd-division/country:us/state:ga/county:hart",
     "state":"ga"
 },
   "bbox": [

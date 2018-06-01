@@ -6,6 +6,7 @@
     "area_water":18293044,
     "geoid":"05145",
     "name":"White",
+    "ocd_id":"ocd-division/country:us/state:ar/county:white",
     "state":"ar"
 },
   "bbox": [

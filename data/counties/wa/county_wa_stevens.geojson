@@ -6,6 +6,7 @@
     "area_water":163008888,
     "geoid":"53065",
     "name":"Stevens",
+    "ocd_id":"ocd-division/country:us/state:wa/county:stevens",
     "state":"wa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2585515,
     "geoid":"51021",
     "name":"Bland",
+    "ocd_id":"ocd-division/country:us/state:va/county:bland",
     "state":"va"
 },
   "bbox": [

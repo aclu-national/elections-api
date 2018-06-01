@@ -8,6 +8,7 @@
     "district_num":"135",
     "geoid":"09135",
     "name":"State House District 135",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:135",
     "state":"ct"
 },
   "bbox": [

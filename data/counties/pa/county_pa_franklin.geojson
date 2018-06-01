@@ -6,6 +6,7 @@
     "area_water":1544300,
     "geoid":"42055",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:pa/county:franklin",
     "state":"pa"
 },
   "bbox": [

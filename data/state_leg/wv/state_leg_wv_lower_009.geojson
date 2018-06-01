@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"54009",
     "name":"State House District 9",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:9",
     "state":"wv"
 },
   "bbox": [

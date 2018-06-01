@@ -6,6 +6,7 @@
     "area_water":1203586,
     "geoid":"31113",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:ne/county:logan",
     "state":"ne"
 },
   "bbox": [

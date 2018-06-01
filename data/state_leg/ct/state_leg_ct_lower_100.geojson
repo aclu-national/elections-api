@@ -8,6 +8,7 @@
     "district_num":"100",
     "geoid":"09100",
     "name":"State House District 100",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:100",
     "state":"ct"
 },
   "bbox": [

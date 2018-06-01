@@ -8,6 +8,7 @@
     "district_num":"085",
     "geoid":"36085",
     "name":"Assembly District 85",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:85",
     "state":"ny"
 },
   "bbox": [

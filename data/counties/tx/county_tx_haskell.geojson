@@ -6,6 +6,7 @@
     "area_water":18465208,
     "geoid":"48207",
     "name":"Haskell",
+    "ocd_id":"ocd-division/country:us/state:tx/county:haskell",
     "state":"tx"
 },
   "bbox": [

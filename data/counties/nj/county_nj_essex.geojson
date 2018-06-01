@@ -6,6 +6,7 @@
     "area_water":8636456,
     "geoid":"34013",
     "name":"Essex",
+    "ocd_id":"ocd-division/country:us/state:nj/county:essex",
     "state":"nj"
 },
   "bbox": [

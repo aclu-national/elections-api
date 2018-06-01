@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"44017",
     "name":"State House District 17",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:17",
     "state":"ri"
 },
   "bbox": [

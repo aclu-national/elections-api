@@ -6,6 +6,7 @@
     "area_water":16969239,
     "geoid":"56015",
     "name":"Goshen",
+    "ocd_id":"ocd-division/country:us/state:wy/county:goshen",
     "state":"wy"
 },
   "bbox": [

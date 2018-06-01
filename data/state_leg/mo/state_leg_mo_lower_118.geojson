@@ -8,6 +8,7 @@
     "district_num":"118",
     "geoid":"29118",
     "name":"State House District 118",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:118",
     "state":"mo"
 },
   "bbox": [

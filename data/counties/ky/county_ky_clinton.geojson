@@ -6,6 +6,7 @@
     "area_water":21164151,
     "geoid":"21053",
     "name":"Clinton",
+    "ocd_id":"ocd-division/country:us/state:ky/county:clinton",
     "state":"ky"
 },
   "bbox": [

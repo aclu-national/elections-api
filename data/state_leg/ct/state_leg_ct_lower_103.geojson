@@ -8,6 +8,7 @@
     "district_num":"103",
     "geoid":"09103",
     "name":"State House District 103",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:103",
     "state":"ct"
 },
   "bbox": [

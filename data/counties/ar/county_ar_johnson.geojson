@@ -6,6 +6,7 @@
     "area_water":59195663,
     "geoid":"05071",
     "name":"Johnson",
+    "ocd_id":"ocd-division/country:us/state:ar/county:johnson",
     "state":"ar"
 },
   "bbox": [

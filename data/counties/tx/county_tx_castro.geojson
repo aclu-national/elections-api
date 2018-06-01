@@ -6,6 +6,7 @@
     "area_water":12584396,
     "geoid":"48069",
     "name":"Castro",
+    "ocd_id":"ocd-division/country:us/state:tx/county:castro",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"49014",
     "name":"State House District 14",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:14",
     "state":"ut"
 },
   "bbox": [

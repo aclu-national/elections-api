@@ -6,6 +6,7 @@
     "area_water":139537,
     "geoid":"72101",
     "name":"Morovis",
+    "ocd_id":"ocd-division/country:us/state:pr/county:morovis",
     "state":"pr"
 },
   "bbox": [

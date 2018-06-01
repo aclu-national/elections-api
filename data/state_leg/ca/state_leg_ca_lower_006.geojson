@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"06006",
     "name":"Assembly District 6",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:6",
     "state":"ca"
 },
   "bbox": [

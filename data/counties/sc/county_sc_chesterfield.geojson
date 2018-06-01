@@ -6,6 +6,7 @@
     "area_water":17250030,
     "geoid":"45025",
     "name":"Chesterfield",
+    "ocd_id":"ocd-division/country:us/state:sc/county:chesterfield",
     "state":"sc"
 },
   "bbox": [

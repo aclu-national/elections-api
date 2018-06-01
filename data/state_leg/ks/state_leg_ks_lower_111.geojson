@@ -8,6 +8,7 @@
     "district_num":"111",
     "geoid":"20111",
     "name":"State House District 111",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:111",
     "state":"ks"
 },
   "bbox": [

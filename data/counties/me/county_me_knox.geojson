@@ -6,6 +6,7 @@
     "area_water":2017106965,
     "geoid":"23013",
     "name":"Knox",
+    "ocd_id":"ocd-division/country:us/state:me/county:knox",
     "state":"me"
 },
   "bbox": [

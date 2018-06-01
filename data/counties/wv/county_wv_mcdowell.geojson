@@ -6,6 +6,7 @@
     "area_water":3733285,
     "geoid":"54047",
     "name":"McDowell",
+    "ocd_id":"ocd-division/country:us/state:wv/county:mcdowell",
     "state":"wv"
 },
   "bbox": [

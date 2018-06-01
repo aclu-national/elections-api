@@ -6,6 +6,7 @@
     "area_water":9532926,
     "geoid":"05011",
     "name":"Bradley",
+    "ocd_id":"ocd-division/country:us/state:ar/county:bradley",
     "state":"ar"
 },
   "bbox": [

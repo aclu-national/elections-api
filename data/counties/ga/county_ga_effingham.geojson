@@ -6,6 +6,7 @@
     "area_water":13464072,
     "geoid":"13103",
     "name":"Effingham",
+    "ocd_id":"ocd-division/country:us/state:ga/county:effingham",
     "state":"ga"
 },
   "bbox": [

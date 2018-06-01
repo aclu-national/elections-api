@@ -6,6 +6,7 @@
     "area_water":9803106,
     "geoid":"13017",
     "name":"Ben Hill",
+    "ocd_id":"ocd-division/country:us/state:ga/county:ben_hill",
     "state":"ga"
 },
   "bbox": [

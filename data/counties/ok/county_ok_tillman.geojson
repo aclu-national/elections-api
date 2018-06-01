@@ -6,6 +6,7 @@
     "area_water":20894360,
     "geoid":"40141",
     "name":"Tillman",
+    "ocd_id":"ocd-division/country:us/state:ok/county:tillman",
     "state":"ok"
 },
   "bbox": [

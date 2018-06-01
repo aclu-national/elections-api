@@ -6,6 +6,7 @@
     "area_water":31797486,
     "geoid":"17195",
     "name":"Whiteside",
+    "ocd_id":"ocd-division/country:us/state:il/county:whiteside",
     "state":"il"
 },
   "bbox": [

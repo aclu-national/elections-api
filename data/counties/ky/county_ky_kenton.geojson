@@ -6,6 +6,7 @@
     "area_water":10577248,
     "geoid":"21117",
     "name":"Kenton",
+    "ocd_id":"ocd-division/country:us/state:ky/county:kenton",
     "state":"ky"
 },
   "bbox": [

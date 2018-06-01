@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"36033",
     "name":"Assembly District 33",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:33",
     "state":"ny"
 },
   "bbox": [

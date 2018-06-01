@@ -8,6 +8,7 @@
     "district_num":"50B",
     "geoid":"2750B",
     "name":"State House District 50B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:50B",
     "state":"mn"
 },
   "bbox": [

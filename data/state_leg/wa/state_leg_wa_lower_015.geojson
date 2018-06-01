@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"53015",
     "name":"State House District 15",
+    "ocd_id":"ocd-division/country:us/state:wa/sldl:15",
     "state":"wa"
 },
   "bbox": [

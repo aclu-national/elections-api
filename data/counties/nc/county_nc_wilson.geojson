@@ -6,6 +6,7 @@
     "area_water":14334531,
     "geoid":"37195",
     "name":"Wilson",
+    "ocd_id":"ocd-division/country:us/state:nc/county:wilson",
     "state":"nc"
 },
   "bbox": [

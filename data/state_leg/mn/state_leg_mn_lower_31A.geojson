@@ -8,6 +8,7 @@
     "district_num":"31A",
     "geoid":"2731A",
     "name":"State House District 31A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:31A",
     "state":"mn"
 },
   "bbox": [

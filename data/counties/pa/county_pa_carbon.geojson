@@ -6,6 +6,7 @@
     "area_water":15349904,
     "geoid":"42025",
     "name":"Carbon",
+    "ocd_id":"ocd-division/country:us/state:pa/county:carbon",
     "state":"pa"
 },
   "bbox": [

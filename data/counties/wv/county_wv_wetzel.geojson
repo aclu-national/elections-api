@@ -6,6 +6,7 @@
     "area_water":8458366,
     "geoid":"54103",
     "name":"Wetzel",
+    "ocd_id":"ocd-division/country:us/state:wv/county:wetzel",
     "state":"wv"
 },
   "bbox": [

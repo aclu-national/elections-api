@@ -6,6 +6,7 @@
     "area_water":4545513,
     "geoid":"45033",
     "name":"Dillon",
+    "ocd_id":"ocd-division/country:us/state:sc/county:dillon",
     "state":"sc"
 },
   "bbox": [

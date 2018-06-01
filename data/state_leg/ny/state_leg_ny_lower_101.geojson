@@ -8,6 +8,7 @@
     "district_num":"101",
     "geoid":"36101",
     "name":"Assembly District 101",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:101",
     "state":"ny"
 },
   "bbox": [

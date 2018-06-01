@@ -8,6 +8,7 @@
     "district_num":"058",
     "geoid":"01058",
     "name":"State House District 58",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:58",
     "state":"al"
 },
   "bbox": [

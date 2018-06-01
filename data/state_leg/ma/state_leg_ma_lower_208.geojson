@@ -8,6 +8,7 @@
     "district_num":"208",
     "geoid":"25208",
     "name":"6th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:208",
     "state":"ma"
 },
   "bbox": [

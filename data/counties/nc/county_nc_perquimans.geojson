@@ -6,6 +6,7 @@
     "area_water":211829497,
     "geoid":"37143",
     "name":"Perquimans",
+    "ocd_id":"ocd-division/country:us/state:nc/county:perquimans",
     "state":"nc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"721",
     "geoid":"33721",
     "name":"State House District Rockingham County No. 21",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:721",
     "state":"nh"
 },
   "bbox": [

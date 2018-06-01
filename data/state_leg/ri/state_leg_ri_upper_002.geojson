@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"44002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:ri/sldu:2",
     "state":"ri"
 },
   "bbox": [

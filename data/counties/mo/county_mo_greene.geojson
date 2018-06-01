@@ -6,6 +6,7 @@
     "area_water":6631777,
     "geoid":"29077",
     "name":"Greene",
+    "ocd_id":"ocd-division/country:us/state:mo/county:greene",
     "state":"mo"
 },
   "bbox": [

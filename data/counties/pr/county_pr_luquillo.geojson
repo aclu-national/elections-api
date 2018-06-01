@@ -6,6 +6,7 @@
     "area_water":53659423,
     "geoid":"72089",
     "name":"Luquillo",
+    "ocd_id":"ocd-division/country:us/state:pr/county:luquillo",
     "state":"pr"
 },
   "bbox": [

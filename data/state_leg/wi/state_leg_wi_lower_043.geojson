@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"55043",
     "name":"Assembly District 43",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:43",
     "state":"wi"
 },
   "bbox": [

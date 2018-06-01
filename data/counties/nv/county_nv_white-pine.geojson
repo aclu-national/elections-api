@@ -6,6 +6,7 @@
     "area_water":54678877,
     "geoid":"32033",
     "name":"White Pine",
+    "ocd_id":"ocd-division/country:us/state:nv/county:white_pine",
     "state":"nv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"C71",
     "geoid":"50C71",
     "name":"Chittenden-7-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C71",
     "state":"vt"
 },
   "bbox": [

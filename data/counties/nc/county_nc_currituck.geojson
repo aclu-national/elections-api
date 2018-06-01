@@ -6,6 +6,7 @@
     "area_water":685024028,
     "geoid":"37053",
     "name":"Currituck",
+    "ocd_id":"ocd-division/country:us/state:nc/county:currituck",
     "state":"nc"
 },
   "bbox": [

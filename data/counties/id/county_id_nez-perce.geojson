@@ -6,6 +6,7 @@
     "area_water":21339031,
     "geoid":"16069",
     "name":"Nez Perce",
+    "ocd_id":"ocd-division/country:us/state:id/county:nez_perce",
     "state":"id"
 },
   "bbox": [

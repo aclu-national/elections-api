@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"26032",
     "name":"State Senate District 32",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:32",
     "state":"mi"
 },
   "bbox": [

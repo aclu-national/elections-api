@@ -8,6 +8,7 @@
     "district_num":"142",
     "geoid":"23142",
     "name":"State House District 142",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:142",
     "state":"me"
 },
   "bbox": [

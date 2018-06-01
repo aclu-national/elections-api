@@ -6,6 +6,7 @@
     "area_water":8153115,
     "geoid":"41053",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:or/county:polk",
     "state":"or"
 },
   "bbox": [

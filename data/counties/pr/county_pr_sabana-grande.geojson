@@ -6,6 +6,7 @@
     "area_water":25323,
     "geoid":"72121",
     "name":"Sabana Grande",
+    "ocd_id":"ocd-division/country:us/state:pr/county:sabana_grande",
     "state":"pr"
 },
   "bbox": [

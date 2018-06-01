@@ -8,6 +8,7 @@
     "district_num":"ZZZ",
     "geoid":"39ZZZ",
     "name":"State Senate Districts not defined",
+    "ocd_id":"ocd-division/country:us/state:oh/sldu:ZZZ",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":815578711,
     "geoid":"06079",
     "name":"San Luis Obispo",
+    "ocd_id":"ocd-division/country:us/state:ca/county:san_luis_obispo",
     "state":"ca"
 },
   "bbox": [

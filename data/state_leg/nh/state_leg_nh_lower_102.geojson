@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"33102",
     "name":"State House District Carroll County No. 2",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:102",
     "state":"nh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":31025234,
     "geoid":"27155",
     "name":"Traverse",
+    "ocd_id":"ocd-division/country:us/state:mn/county:traverse",
     "state":"mn"
 },
   "bbox": [

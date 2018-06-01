@@ -8,6 +8,7 @@
     "district_num":"183",
     "geoid":"25183",
     "name":"12th Plymouth District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:183",
     "state":"ma"
 },
   "bbox": [

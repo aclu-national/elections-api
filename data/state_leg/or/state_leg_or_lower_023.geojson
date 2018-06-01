@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"41023",
     "name":"State House District 23",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:23",
     "state":"or"
 },
   "bbox": [

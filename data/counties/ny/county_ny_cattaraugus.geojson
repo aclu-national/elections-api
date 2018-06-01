@@ -6,6 +6,7 @@
     "area_water":36608250,
     "geoid":"36009",
     "name":"Cattaraugus",
+    "ocd_id":"ocd-division/country:us/state:ny/county:cattaraugus",
     "state":"ny"
 },
   "bbox": [

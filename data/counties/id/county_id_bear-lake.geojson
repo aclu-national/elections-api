@@ -6,6 +6,7 @@
     "area_water":191364283,
     "geoid":"16007",
     "name":"Bear Lake",
+    "ocd_id":"ocd-division/country:us/state:id/county:bear_lake",
     "state":"id"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"06042",
     "name":"Assembly District 42",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:42",
     "state":"ca"
 },
   "bbox": [

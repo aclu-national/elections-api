@@ -8,6 +8,7 @@
     "district_num":"ZZZ",
     "geoid":"26ZZZ",
     "name":"State Senate Districts not defined",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:ZZZ",
     "state":"mi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":8636823,
     "geoid":"21023",
     "name":"Bracken",
+    "ocd_id":"ocd-division/country:us/state:ky/county:bracken",
     "state":"ky"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12219587,
     "geoid":"48011",
     "name":"Armstrong",
+    "ocd_id":"ocd-division/country:us/state:tx/county:armstrong",
     "state":"tx"
 },
   "bbox": [

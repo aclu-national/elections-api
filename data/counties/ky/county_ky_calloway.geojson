@@ -6,6 +6,7 @@
     "area_water":66492945,
     "geoid":"21035",
     "name":"Calloway",
+    "ocd_id":"ocd-division/country:us/state:ky/county:calloway",
     "state":"ky"
 },
   "bbox": [

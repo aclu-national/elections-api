@@ -6,6 +6,7 @@
     "area_water":461117,
     "geoid":"18023",
     "name":"Clinton",
+    "ocd_id":"ocd-division/country:us/state:in/county:clinton",
     "state":"in"
 },
   "bbox": [

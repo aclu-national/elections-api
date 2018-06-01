@@ -6,6 +6,7 @@
     "area_water":2188873,
     "geoid":"31077",
     "name":"Greeley",
+    "ocd_id":"ocd-division/country:us/state:ne/county:greeley",
     "state":"ne"
 },
   "bbox": [

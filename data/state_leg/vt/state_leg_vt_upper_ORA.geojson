@@ -8,6 +8,7 @@
     "district_num":"ORA",
     "geoid":"50ORA",
     "name":"Orange State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:ORA",
     "state":"vt"
 },
   "bbox": [

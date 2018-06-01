@@ -8,6 +8,7 @@
     "district_num":"123",
     "geoid":"45123",
     "name":"State House District HD-123",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:123",
     "state":"sc"
 },
   "bbox": [

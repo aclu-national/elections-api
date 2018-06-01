@@ -6,6 +6,7 @@
     "area_water":150398853,
     "geoid":"22017",
     "name":"Caddo",
+    "ocd_id":"ocd-division/country:us/state:la/county:caddo",
     "state":"la"
 },
   "bbox": [

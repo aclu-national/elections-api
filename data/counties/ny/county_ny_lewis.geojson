@@ -6,6 +6,7 @@
     "area_water":39612943,
     "geoid":"36049",
     "name":"Lewis",
+    "ocd_id":"ocd-division/country:us/state:ny/county:lewis",
     "state":"ny"
 },
   "bbox": [

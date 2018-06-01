@@ -6,6 +6,7 @@
     "area_water":13070242,
     "geoid":"39023",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:oh/county:clark",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":10390938,
     "geoid":"39157",
     "name":"Tuscarawas",
+    "ocd_id":"ocd-division/country:us/state:oh/county:tuscarawas",
     "state":"oh"
 },
   "bbox": [

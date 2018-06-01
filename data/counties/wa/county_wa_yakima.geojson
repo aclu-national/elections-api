@@ -6,6 +6,7 @@
     "area_water":41168172,
     "geoid":"53077",
     "name":"Yakima",
+    "ocd_id":"ocd-division/country:us/state:wa/county:yakima",
     "state":"wa"
 },
   "bbox": [

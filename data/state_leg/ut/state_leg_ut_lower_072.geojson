@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"49072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:72",
     "state":"ut"
 },
   "bbox": [

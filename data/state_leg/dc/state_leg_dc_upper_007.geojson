@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"11007",
     "name":"Ward 7",
+    "ocd_id":"ocd-division/country:us/state:dc/sldu:7",
     "state":"dc"
 },
   "bbox": [

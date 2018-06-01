@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"53040",
     "name":"State Senate District 40",
+    "ocd_id":"ocd-division/country:us/state:wa/sldu:40",
     "state":"wa"
 },
   "bbox": [

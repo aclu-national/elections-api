@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"13106",
     "name":"State House District 106",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:106",
     "state":"ga"
 },
   "bbox": [

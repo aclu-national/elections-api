@@ -6,6 +6,7 @@
     "area_water":933480216,
     "geoid":"36075",
     "name":"Oswego",
+    "ocd_id":"ocd-division/country:us/state:ny/county:oswego",
     "state":"ny"
 },
   "bbox": [

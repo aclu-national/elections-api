@@ -6,6 +6,7 @@
     "area_water":75721265,
     "geoid":"46015",
     "name":"Brule",
+    "ocd_id":"ocd-division/country:us/state:sd/county:brule",
     "state":"sd"
 },
   "bbox": [

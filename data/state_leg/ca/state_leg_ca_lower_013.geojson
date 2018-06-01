@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"06013",
     "name":"Assembly District 13",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:13",
     "state":"ca"
 },
   "bbox": [

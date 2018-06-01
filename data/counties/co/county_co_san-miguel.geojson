@@ -6,6 +6,7 @@
     "area_water":5204095,
     "geoid":"08113",
     "name":"San Miguel",
+    "ocd_id":"ocd-division/country:us/state:co/county:san_miguel",
     "state":"co"
 },
   "bbox": [

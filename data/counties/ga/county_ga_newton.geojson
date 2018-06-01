@@ -6,6 +6,7 @@
     "area_water":14261429,
     "geoid":"13217",
     "name":"Newton",
+    "ocd_id":"ocd-division/country:us/state:ga/county:newton",
     "state":"ga"
 },
   "bbox": [

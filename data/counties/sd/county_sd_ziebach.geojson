@@ -6,6 +6,7 @@
     "area_water":24212303,
     "geoid":"46137",
     "name":"Ziebach",
+    "ocd_id":"ocd-division/country:us/state:sd/county:ziebach",
     "state":"sd"
 },
   "bbox": [

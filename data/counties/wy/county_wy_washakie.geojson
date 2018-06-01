@@ -6,6 +6,7 @@
     "area_water":10455585,
     "geoid":"56043",
     "name":"Washakie",
+    "ocd_id":"ocd-division/country:us/state:wy/county:washakie",
     "state":"wy"
 },
   "bbox": [

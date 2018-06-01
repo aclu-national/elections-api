@@ -6,6 +6,7 @@
     "area_water":32210024,
     "geoid":"51550",
     "name":"Chesapeake",
+    "ocd_id":"ocd-division/country:us/state:va/county:chesapeake",
     "state":"va"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"25035",
     "name":"Second Plymouth & Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:35",
     "state":"ma"
 },
   "bbox": [

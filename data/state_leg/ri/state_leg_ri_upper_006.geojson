@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"44006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:ri/sldu:6",
     "state":"ri"
 },
   "bbox": [

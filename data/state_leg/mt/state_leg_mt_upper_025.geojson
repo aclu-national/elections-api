@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"30025",
     "name":"State Senate District 25",
+    "ocd_id":"ocd-division/country:us/state:mt/sldu:25",
     "state":"mt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":76956282,
     "geoid":"36027",
     "name":"Dutchess",
+    "ocd_id":"ocd-division/country:us/state:ny/county:dutchess",
     "state":"ny"
 },
   "bbox": [

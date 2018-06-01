@@ -6,6 +6,7 @@
     "area_water":79805895,
     "geoid":"55047",
     "name":"Green Lake",
+    "ocd_id":"ocd-division/country:us/state:wi/county:green_lake",
     "state":"wi"
 },
   "bbox": [

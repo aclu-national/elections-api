@@ -6,6 +6,7 @@
     "area_water":3502975,
     "geoid":"54057",
     "name":"Mineral",
+    "ocd_id":"ocd-division/country:us/state:wv/county:mineral",
     "state":"wv"
 },
   "bbox": [

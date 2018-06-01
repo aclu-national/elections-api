@@ -8,6 +8,7 @@
     "district_num":"51A",
     "geoid":"2751A",
     "name":"State House District 51A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:51A",
     "state":"mn"
 },
   "bbox": [

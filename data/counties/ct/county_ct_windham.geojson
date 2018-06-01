@@ -6,6 +6,7 @@
     "area_water":21706060,
     "geoid":"09015",
     "name":"Windham",
+    "ocd_id":"ocd-division/country:us/state:ct/county:windham",
     "state":"ct"
 },
   "bbox": [

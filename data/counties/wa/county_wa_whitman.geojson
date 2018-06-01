@@ -6,6 +6,7 @@
     "area_water":48281266,
     "geoid":"53075",
     "name":"Whitman",
+    "ocd_id":"ocd-division/country:us/state:wa/county:whitman",
     "state":"wa"
 },
   "bbox": [

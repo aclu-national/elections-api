@@ -6,6 +6,7 @@
     "area_water":75575386,
     "geoid":"23001",
     "name":"Androscoggin",
+    "ocd_id":"ocd-division/country:us/state:me/county:androscoggin",
     "state":"me"
 },
   "bbox": [

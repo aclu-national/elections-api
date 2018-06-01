@@ -6,6 +6,7 @@
     "area_water":58300656,
     "geoid":"29137",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:mo/county:monroe",
     "state":"mo"
 },
   "bbox": [

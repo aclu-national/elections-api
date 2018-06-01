@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"34005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:5",
     "state":"nj"
 },
   "bbox": [

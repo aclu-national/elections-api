@@ -6,6 +6,7 @@
     "area_water":1119442372,
     "geoid":"39093",
     "name":"Lorain",
+    "ocd_id":"ocd-division/country:us/state:oh/county:lorain",
     "state":"oh"
 },
   "bbox": [

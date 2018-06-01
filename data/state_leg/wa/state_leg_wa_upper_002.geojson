@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"53002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:wa/sldu:2",
     "state":"wa"
 },
   "bbox": [

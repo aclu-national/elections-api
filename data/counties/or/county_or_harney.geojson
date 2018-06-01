@@ -6,6 +6,7 @@
     "area_water":241568256,
     "geoid":"41025",
     "name":"Harney",
+    "ocd_id":"ocd-division/country:us/state:or/county:harney",
     "state":"or"
 },
   "bbox": [

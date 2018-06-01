@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"20030",
     "name":"State House District 30",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:30",
     "state":"ks"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"41007",
     "name":"State House District 7",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:7",
     "state":"or"
 },
   "bbox": [

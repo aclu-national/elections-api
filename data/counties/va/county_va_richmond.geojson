@@ -6,6 +6,7 @@
     "area_water":64392325,
     "geoid":"51159",
     "name":"Richmond",
+    "ocd_id":"ocd-division/country:us/state:va/county:richmond",
     "state":"va"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"37034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:34",
     "state":"nc"
 },
   "bbox": [

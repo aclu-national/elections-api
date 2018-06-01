@@ -6,6 +6,7 @@
     "area_water":761779246,
     "geoid":"26109",
     "name":"Menominee",
+    "ocd_id":"ocd-division/country:us/state:mi/county:menominee",
     "state":"mi"
 },
   "bbox": [

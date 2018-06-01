@@ -6,6 +6,7 @@
     "area_water":525134462,
     "geoid":"13051",
     "name":"Chatham",
+    "ocd_id":"ocd-division/country:us/state:ga/county:chatham",
     "state":"ga"
 },
   "bbox": [

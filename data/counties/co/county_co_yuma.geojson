@@ -6,6 +6,7 @@
     "area_water":11134666,
     "geoid":"08125",
     "name":"Yuma",
+    "ocd_id":"ocd-division/country:us/state:co/county:yuma",
     "state":"co"
 },
   "bbox": [

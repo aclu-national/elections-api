@@ -6,6 +6,7 @@
     "area_water":122256020,
     "geoid":"51093",
     "name":"Isle of Wight",
+    "ocd_id":"ocd-division/country:us/state:va/county:isle_of_wight",
     "state":"va"
 },
   "bbox": [

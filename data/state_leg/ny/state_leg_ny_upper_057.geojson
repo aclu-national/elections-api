@@ -8,6 +8,7 @@
     "district_num":"057",
     "geoid":"36057",
     "name":"State Senate District 57",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:57",
     "state":"ny"
 },
   "bbox": [

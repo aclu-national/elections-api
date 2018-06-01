@@ -6,6 +6,7 @@
     "area_water":68954671,
     "geoid":"27157",
     "name":"Wabasha",
+    "ocd_id":"ocd-division/country:us/state:mn/county:wabasha",
     "state":"mn"
 },
   "bbox": [

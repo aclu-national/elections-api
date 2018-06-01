@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"06032",
     "name":"State Senate District 32",
+    "ocd_id":"ocd-division/country:us/state:ca/sldu:32",
     "state":"ca"
 },
   "bbox": [

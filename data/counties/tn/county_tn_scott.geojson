@@ -6,6 +6,7 @@
     "area_water":2414254,
     "geoid":"47151",
     "name":"Scott",
+    "ocd_id":"ocd-division/country:us/state:tn/county:scott",
     "state":"tn"
 },
   "bbox": [

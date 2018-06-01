@@ -6,6 +6,7 @@
     "area_water":8491488,
     "geoid":"51005",
     "name":"Alleghany",
+    "ocd_id":"ocd-division/country:us/state:va/county:alleghany",
     "state":"va"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"A-R",
     "geoid":"50A-R",
     "name":"Addison-Rutland State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:A-R",
     "state":"vt"
 },
   "bbox": [

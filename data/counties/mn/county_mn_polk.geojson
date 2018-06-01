@@ -6,6 +6,7 @@
     "area_water":69169913,
     "geoid":"27119",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:mn/county:polk",
     "state":"mn"
 },
   "bbox": [

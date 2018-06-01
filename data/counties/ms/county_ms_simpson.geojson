@@ -6,6 +6,7 @@
     "area_water":3378529,
     "geoid":"28127",
     "name":"Simpson",
+    "ocd_id":"ocd-division/country:us/state:ms/county:simpson",
     "state":"ms"
 },
   "bbox": [

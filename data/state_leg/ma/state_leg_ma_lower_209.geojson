@@ -8,6 +8,7 @@
     "district_num":"209",
     "geoid":"25209",
     "name":"7th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:209",
     "state":"ma"
 },
   "bbox": [

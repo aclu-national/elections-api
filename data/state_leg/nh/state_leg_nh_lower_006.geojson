@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"33006",
     "name":"State House District Belknap County No. 6",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:6",
     "state":"nh"
 },
   "bbox": [

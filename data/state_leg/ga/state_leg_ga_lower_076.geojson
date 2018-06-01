@@ -8,6 +8,7 @@
     "district_num":"076",
     "geoid":"13076",
     "name":"State House District 76",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:76",
     "state":"ga"
 },
   "bbox": [

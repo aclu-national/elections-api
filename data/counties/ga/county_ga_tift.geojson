@@ -6,6 +6,7 @@
     "area_water":20498270,
     "geoid":"13277",
     "name":"Tift",
+    "ocd_id":"ocd-division/country:us/state:ga/county:tift",
     "state":"ga"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"133",
     "geoid":"09133",
     "name":"State House District 133",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:133",
     "state":"ct"
 },
   "bbox": [

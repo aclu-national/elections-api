@@ -6,6 +6,7 @@
     "area_water":29701774,
     "geoid":"37063",
     "name":"Durham",
+    "ocd_id":"ocd-division/country:us/state:nc/county:durham",
     "state":"nc"
 },
   "bbox": [

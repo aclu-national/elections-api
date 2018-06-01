@@ -6,6 +6,7 @@
     "area_water":1439673,
     "geoid":"12049",
     "name":"Hardee",
+    "ocd_id":"ocd-division/country:us/state:fl/county:hardee",
     "state":"fl"
 },
   "bbox": [

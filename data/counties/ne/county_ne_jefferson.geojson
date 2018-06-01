@@ -6,6 +6,7 @@
     "area_water":14232350,
     "geoid":"31095",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:ne/county:jefferson",
     "state":"ne"
 },
   "bbox": [

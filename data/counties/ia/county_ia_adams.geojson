@@ -6,6 +6,7 @@
     "area_water":5353407,
     "geoid":"19003",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:ia/county:adams",
     "state":"ia"
 },
   "bbox": [

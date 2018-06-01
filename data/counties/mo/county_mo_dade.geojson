@@ -6,6 +6,7 @@
     "area_water":42069988,
     "geoid":"29057",
     "name":"Dade",
+    "ocd_id":"ocd-division/country:us/state:mo/county:dade",
     "state":"mo"
 },
   "bbox": [

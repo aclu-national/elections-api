@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"09044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:44",
     "state":"ct"
 },
   "bbox": [

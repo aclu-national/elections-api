@@ -6,6 +6,7 @@
     "area_water":15831744,
     "geoid":"08107",
     "name":"Routt",
+    "ocd_id":"ocd-division/country:us/state:co/county:routt",
     "state":"co"
 },
   "bbox": [

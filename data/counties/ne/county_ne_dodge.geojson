@@ -6,6 +6,7 @@
     "area_water":35956200,
     "geoid":"31053",
     "name":"Dodge",
+    "ocd_id":"ocd-division/country:us/state:ne/county:dodge",
     "state":"ne"
 },
   "bbox": [

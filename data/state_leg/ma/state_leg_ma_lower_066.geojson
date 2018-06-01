@@ -8,6 +8,7 @@
     "district_num":"066",
     "geoid":"25066",
     "name":"2nd Berkshire District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:66",
     "state":"ma"
 },
   "bbox": [

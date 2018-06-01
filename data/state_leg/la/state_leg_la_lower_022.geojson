@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"22022",
     "name":"State House District 22",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:22",
     "state":"la"
 },
   "bbox": [

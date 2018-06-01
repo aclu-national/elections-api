@@ -6,6 +6,7 @@
     "area_water":17838300,
     "geoid":"29167",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:mo/county:polk",
     "state":"mo"
 },
   "bbox": [

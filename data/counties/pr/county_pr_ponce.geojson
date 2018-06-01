@@ -6,6 +6,7 @@
     "area_water":203748398,
     "geoid":"72113",
     "name":"Ponce",
+    "ocd_id":"ocd-division/country:us/state:pr/county:ponce",
     "state":"pr"
 },
   "bbox": [

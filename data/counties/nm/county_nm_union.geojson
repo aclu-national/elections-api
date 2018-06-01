@@ -6,6 +6,7 @@
     "area_water":18464199,
     "geoid":"35059",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:nm/county:union",
     "state":"nm"
 },
   "bbox": [

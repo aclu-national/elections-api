@@ -6,6 +6,7 @@
     "area_water":48310232,
     "geoid":"26087",
     "name":"Lapeer",
+    "ocd_id":"ocd-division/country:us/state:mi/county:lapeer",
     "state":"mi"
 },
   "bbox": [

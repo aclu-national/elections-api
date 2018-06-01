@@ -6,6 +6,7 @@
     "area_water":717927568,
     "geoid":"78030",
     "name":"St. Thomas",
+    "ocd_id":"ocd-division/country:us/state:vi/county:st_thomas",
     "state":"vi"
 },
   "bbox": [

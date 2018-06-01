@@ -6,6 +6,7 @@
     "area_water":105310997,
     "geoid":"06007",
     "name":"Butte",
+    "ocd_id":"ocd-division/country:us/state:ca/county:butte",
     "state":"ca"
 },
   "bbox": [

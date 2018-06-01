@@ -6,6 +6,7 @@
     "area_water":50710341,
     "geoid":"44003",
     "name":"Kent",
+    "ocd_id":"ocd-division/country:us/state:ri/county:kent",
     "state":"ri"
 },
   "bbox": [

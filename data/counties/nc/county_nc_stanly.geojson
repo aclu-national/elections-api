@@ -6,6 +6,7 @@
     "area_water":25242751,
     "geoid":"37167",
     "name":"Stanly",
+    "ocd_id":"ocd-division/country:us/state:nc/county:stanly",
     "state":"nc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"078",
     "geoid":"26078",
     "name":"State House District 78",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:78",
     "state":"mi"
 },
   "bbox": [

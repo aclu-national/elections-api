@@ -6,6 +6,7 @@
     "area_water":541041664,
     "geoid":"48273",
     "name":"Kleberg",
+    "ocd_id":"ocd-division/country:us/state:tx/county:kleberg",
     "state":"tx"
 },
   "bbox": [

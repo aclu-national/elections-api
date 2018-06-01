@@ -6,6 +6,7 @@
     "area_water":56453210,
     "geoid":"26075",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:mi/county:jackson",
     "state":"mi"
 },
   "bbox": [

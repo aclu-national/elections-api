@@ -6,6 +6,7 @@
     "area_water":20883162,
     "geoid":"18037",
     "name":"Dubois",
+    "ocd_id":"ocd-division/country:us/state:in/county:dubois",
     "state":"in"
 },
   "bbox": [

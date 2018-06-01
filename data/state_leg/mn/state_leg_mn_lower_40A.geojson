@@ -8,6 +8,7 @@
     "district_num":"40A",
     "geoid":"2740A",
     "name":"State House District 40A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:40A",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":225193562,
     "geoid":"06013",
     "name":"Contra Costa",
+    "ocd_id":"ocd-division/country:us/state:ca/county:contra_costa",
     "state":"ca"
 },
   "bbox": [

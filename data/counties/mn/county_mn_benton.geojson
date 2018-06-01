@@ -6,6 +6,7 @@
     "area_water":12286992,
     "geoid":"27009",
     "name":"Benton",
+    "ocd_id":"ocd-division/country:us/state:mn/county:benton",
     "state":"mn"
 },
   "bbox": [

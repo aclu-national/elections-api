@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"21032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:32",
     "state":"ky"
 },
   "bbox": [

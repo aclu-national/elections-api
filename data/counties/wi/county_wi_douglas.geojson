@@ -6,6 +6,7 @@
     "area_water":454636088,
     "geoid":"55031",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:wi/county:douglas",
     "state":"wi"
 },
   "bbox": [

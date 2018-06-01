@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"24046",
     "name":"State Senate District 46",
+    "ocd_id":"ocd-division/country:us/state:md/sldu:46",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":31869807,
     "geoid":"48323",
     "name":"Maverick",
+    "ocd_id":"ocd-division/country:us/state:tx/county:maverick",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"23A",
     "geoid":"2723A",
     "name":"State House District 23A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:23A",
     "state":"mn"
 },
   "bbox": [

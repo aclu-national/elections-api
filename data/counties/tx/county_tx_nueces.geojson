@@ -6,6 +6,7 @@
     "area_water":847262030,
     "geoid":"48355",
     "name":"Nueces",
+    "ocd_id":"ocd-division/country:us/state:tx/county:nueces",
     "state":"tx"
 },
   "bbox": [

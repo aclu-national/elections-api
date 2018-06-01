@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"23031",
     "name":"State Senate District 31",
+    "ocd_id":"ocd-division/country:us/state:me/sldu:31",
     "state":"me"
 },
   "bbox": [

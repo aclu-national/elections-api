@@ -8,6 +8,7 @@
     "district_num":"27B",
     "geoid":"2427B",
     "name":"State Legislative Subdistrict 27B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:27B",
     "state":"md"
 },
   "bbox": [

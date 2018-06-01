@@ -8,6 +8,7 @@
     "district_num":"127",
     "geoid":"13127",
     "name":"State House District 127",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:127",
     "state":"ga"
 },
   "bbox": [

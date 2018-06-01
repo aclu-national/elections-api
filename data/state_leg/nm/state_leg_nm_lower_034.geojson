@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"35034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:34",
     "state":"nm"
 },
   "bbox": [

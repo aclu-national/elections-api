@@ -6,6 +6,7 @@
     "area_water":4721397,
     "geoid":"06069",
     "name":"San Benito",
+    "ocd_id":"ocd-division/country:us/state:ca/county:san_benito",
     "state":"ca"
 },
   "bbox": [

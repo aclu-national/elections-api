@@ -8,6 +8,7 @@
     "district_num":"055",
     "geoid":"13055",
     "name":"State Senate District 55",
+    "ocd_id":"ocd-division/country:us/state:ga/sldu:55",
     "state":"ga"
 },
   "bbox": [

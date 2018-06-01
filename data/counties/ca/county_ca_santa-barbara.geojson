@@ -6,6 +6,7 @@
     "area_water":2729814515,
     "geoid":"06083",
     "name":"Santa Barbara",
+    "ocd_id":"ocd-division/country:us/state:ca/county:santa_barbara",
     "state":"ca"
 },
   "bbox": [

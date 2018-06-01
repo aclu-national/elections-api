@@ -6,6 +6,7 @@
     "area_water":6697190751,
     "geoid":"02158",
     "name":"Kusilvak",
+    "ocd_id":"ocd-division/country:us/state:ak/county:kusilvak",
     "state":"ak"
 },
   "bbox": [

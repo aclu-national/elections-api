@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"11008",
     "name":"Ward 8",
+    "ocd_id":"ocd-division/country:us/state:dc/sldu:8",
     "state":"dc"
 },
   "bbox": [

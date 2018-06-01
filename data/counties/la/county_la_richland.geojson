@@ -6,6 +6,7 @@
     "area_water":13551678,
     "geoid":"22083",
     "name":"Richland",
+    "ocd_id":"ocd-division/country:us/state:la/county:richland",
     "state":"la"
 },
   "bbox": [

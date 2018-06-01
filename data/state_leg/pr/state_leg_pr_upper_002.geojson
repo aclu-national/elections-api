@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"72002",
     "name":"State Senate District II",
+    "ocd_id":"ocd-division/country:us/state:pr/sldu:2",
     "state":"pr"
 },
   "bbox": [

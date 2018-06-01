@@ -6,6 +6,7 @@
     "area_water":140253641,
     "geoid":"40041",
     "name":"Delaware",
+    "ocd_id":"ocd-division/country:us/state:ok/county:delaware",
     "state":"ok"
 },
   "bbox": [

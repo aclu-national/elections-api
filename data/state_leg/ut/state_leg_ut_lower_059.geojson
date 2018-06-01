@@ -8,6 +8,7 @@
     "district_num":"059",
     "geoid":"49059",
     "name":"State House District 59",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:59",
     "state":"ut"
 },
   "bbox": [

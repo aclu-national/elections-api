@@ -6,6 +6,7 @@
     "area_water":552206400,
     "geoid":"72147",
     "name":"Vieques",
+    "ocd_id":"ocd-division/country:us/state:pr/county:vieques",
     "state":"pr"
 },
   "bbox": [

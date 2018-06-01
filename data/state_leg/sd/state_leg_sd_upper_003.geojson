@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"46003",
     "name":"State Senate District 3",
+    "ocd_id":"ocd-division/country:us/state:sd/sldu:3",
     "state":"sd"
 },
   "bbox": [

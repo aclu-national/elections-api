@@ -8,6 +8,7 @@
     "district_num":"085",
     "geoid":"37085",
     "name":"State House District 85",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:85",
     "state":"nc"
 },
   "bbox": [

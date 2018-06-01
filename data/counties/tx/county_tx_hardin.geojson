@@ -6,6 +6,7 @@
     "area_water":18042331,
     "geoid":"48199",
     "name":"Hardin",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hardin",
     "state":"tx"
 },
   "bbox": [

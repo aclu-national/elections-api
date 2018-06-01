@@ -6,6 +6,7 @@
     "area_water":74784989,
     "geoid":"51057",
     "name":"Essex",
+    "ocd_id":"ocd-division/country:us/state:va/county:essex",
     "state":"va"
 },
   "bbox": [

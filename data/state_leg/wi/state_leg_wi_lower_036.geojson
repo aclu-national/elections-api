@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"55036",
     "name":"Assembly District 36",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:36",
     "state":"wi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"051",
     "geoid":"36051",
     "name":"State Senate District 51",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:51",
     "state":"ny"
 },
   "bbox": [

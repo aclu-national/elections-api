@@ -6,6 +6,7 @@
     "area_water":22103380,
     "geoid":"31087",
     "name":"Hitchcock",
+    "ocd_id":"ocd-division/country:us/state:ne/county:hitchcock",
     "state":"ne"
 },
   "bbox": [

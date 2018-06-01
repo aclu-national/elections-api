@@ -6,6 +6,7 @@
     "area_water":838360,
     "geoid":"47007",
     "name":"Bledsoe",
+    "ocd_id":"ocd-division/country:us/state:tn/county:bledsoe",
     "state":"tn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"06005",
     "name":"Assembly District 5",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:5",
     "state":"ca"
 },
   "bbox": [

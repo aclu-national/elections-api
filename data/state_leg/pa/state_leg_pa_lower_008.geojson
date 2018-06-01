@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"42008",
     "name":"State House District 8",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:8",
     "state":"pa"
 },
   "bbox": [

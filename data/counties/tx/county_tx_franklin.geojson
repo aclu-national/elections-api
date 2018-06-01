@@ -6,6 +6,7 @@
     "area_water":26874743,
     "geoid":"48159",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:tx/county:franklin",
     "state":"tx"
 },
   "bbox": [

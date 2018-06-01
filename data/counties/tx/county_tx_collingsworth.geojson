@@ -6,6 +6,7 @@
     "area_water":2279193,
     "geoid":"48087",
     "name":"Collingsworth",
+    "ocd_id":"ocd-division/country:us/state:tx/county:collingsworth",
     "state":"tx"
 },
   "bbox": [

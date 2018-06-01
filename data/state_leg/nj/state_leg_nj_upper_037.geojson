@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"34037",
     "name":"State Senate District 37",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:37",
     "state":"nj"
 },
   "bbox": [

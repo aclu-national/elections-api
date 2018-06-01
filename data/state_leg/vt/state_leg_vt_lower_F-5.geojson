@@ -8,6 +8,7 @@
     "district_num":"F-5",
     "geoid":"50F-5",
     "name":"Franklin-5 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:F-5",
     "state":"vt"
 },
   "bbox": [

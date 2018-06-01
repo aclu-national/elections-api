@@ -6,6 +6,7 @@
     "area_water":1727921,
     "geoid":"42075",
     "name":"Lebanon",
+    "ocd_id":"ocd-division/country:us/state:pa/county:lebanon",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":11157422,
     "geoid":"40055",
     "name":"Greer",
+    "ocd_id":"ocd-division/country:us/state:ok/county:greer",
     "state":"ok"
 },
   "bbox": [

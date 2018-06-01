@@ -6,6 +6,7 @@
     "area_water":7654554,
     "geoid":"18163",
     "name":"Vanderburgh",
+    "ocd_id":"ocd-division/country:us/state:in/county:vanderburgh",
     "state":"in"
 },
   "bbox": [

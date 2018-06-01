@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"37071",
     "name":"State House District 71",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:71",
     "state":"nc"
 },
   "bbox": [

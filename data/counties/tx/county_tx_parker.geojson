@@ -6,6 +6,7 @@
     "area_water":17127713,
     "geoid":"48367",
     "name":"Parker",
+    "ocd_id":"ocd-division/country:us/state:tx/county:parker",
     "state":"tx"
 },
   "bbox": [

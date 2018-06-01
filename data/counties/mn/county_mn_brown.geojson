@@ -6,6 +6,7 @@
     "area_water":18584892,
     "geoid":"27015",
     "name":"Brown",
+    "ocd_id":"ocd-division/country:us/state:mn/county:brown",
     "state":"mn"
 },
   "bbox": [

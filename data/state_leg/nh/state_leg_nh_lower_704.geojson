@@ -8,6 +8,7 @@
     "district_num":"704",
     "geoid":"33704",
     "name":"State House District Rockingham County No. 4",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:704",
     "state":"nh"
 },
   "bbox": [

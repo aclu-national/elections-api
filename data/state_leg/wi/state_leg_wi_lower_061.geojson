@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"55061",
     "name":"Assembly District 61",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:61",
     "state":"wi"
 },
   "bbox": [

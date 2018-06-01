@@ -6,6 +6,7 @@
     "area_water":4621138,
     "geoid":"39051",
     "name":"Fulton",
+    "ocd_id":"ocd-division/country:us/state:oh/county:fulton",
     "state":"oh"
 },
   "bbox": [

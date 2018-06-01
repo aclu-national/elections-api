@@ -6,6 +6,7 @@
     "area_water":12499935,
     "geoid":"53001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:wa/county:adams",
     "state":"wa"
 },
   "bbox": [

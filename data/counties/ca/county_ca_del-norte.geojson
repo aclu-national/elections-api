@@ -6,6 +6,7 @@
     "area_water":578742645,
     "geoid":"06015",
     "name":"Del Norte",
+    "ocd_id":"ocd-division/country:us/state:ca/county:del_norte",
     "state":"ca"
 },
   "bbox": [

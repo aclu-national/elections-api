@@ -8,6 +8,7 @@
     "district_num":"058",
     "geoid":"05058",
     "name":"State House District 58",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:58",
     "state":"ar"
 },
   "bbox": [

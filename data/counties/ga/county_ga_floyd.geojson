@@ -6,6 +6,7 @@
     "area_water":22382107,
     "geoid":"13115",
     "name":"Floyd",
+    "ocd_id":"ocd-division/country:us/state:ga/county:floyd",
     "state":"ga"
 },
   "bbox": [

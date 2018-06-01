@@ -6,6 +6,7 @@
     "area_water":77812,
     "geoid":"72019",
     "name":"Barranquitas",
+    "ocd_id":"ocd-division/country:us/state:pr/county:barranquitas",
     "state":"pr"
 },
   "bbox": [

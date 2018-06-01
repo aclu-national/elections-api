@@ -6,6 +6,7 @@
     "area_water":31057914,
     "geoid":"06115",
     "name":"Yuba",
+    "ocd_id":"ocd-division/country:us/state:ca/county:yuba",
     "state":"ca"
 },
   "bbox": [

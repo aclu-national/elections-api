@@ -6,6 +6,7 @@
     "area_water":293755887,
     "geoid":"49037",
     "name":"San Juan",
+    "ocd_id":"ocd-division/country:us/state:ut/county:san_juan",
     "state":"ut"
 },
   "bbox": [

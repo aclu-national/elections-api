@@ -8,6 +8,7 @@
     "district_num":"30A",
     "geoid":"2730A",
     "name":"State House District 30A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:30A",
     "state":"mn"
 },
   "bbox": [

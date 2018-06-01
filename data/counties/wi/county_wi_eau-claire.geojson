@@ -6,6 +6,7 @@
     "area_water":18848535,
     "geoid":"55035",
     "name":"Eau Claire",
+    "ocd_id":"ocd-division/country:us/state:wi/county:eau_claire",
     "state":"wi"
 },
   "bbox": [

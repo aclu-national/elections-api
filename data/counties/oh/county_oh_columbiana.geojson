@@ -6,6 +6,7 @@
     "area_water":7255101,
     "geoid":"39029",
     "name":"Columbiana",
+    "ocd_id":"ocd-division/country:us/state:oh/county:columbiana",
     "state":"oh"
 },
   "bbox": [

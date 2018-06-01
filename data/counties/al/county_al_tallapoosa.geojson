@@ -6,6 +6,7 @@
     "area_water":128817905,
     "geoid":"01123",
     "name":"Tallapoosa",
+    "ocd_id":"ocd-division/country:us/state:al/county:tallapoosa",
     "state":"al"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":24693146,
     "geoid":"17173",
     "name":"Shelby",
+    "ocd_id":"ocd-division/country:us/state:il/county:shelby",
     "state":"il"
 },
   "bbox": [

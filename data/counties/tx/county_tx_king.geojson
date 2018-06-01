@@ -6,6 +6,7 @@
     "area_water":6398045,
     "geoid":"48269",
     "name":"King",
+    "ocd_id":"ocd-division/country:us/state:tx/county:king",
     "state":"tx"
 },
   "bbox": [

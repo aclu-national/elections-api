@@ -6,6 +6,7 @@
     "area_water":28510134,
     "geoid":"29047",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:mo/county:clay",
     "state":"mo"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"24028",
     "name":"State Legislative District 28",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:28",
     "state":"md"
 },
   "bbox": [

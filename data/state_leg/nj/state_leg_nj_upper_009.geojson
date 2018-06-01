@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"34009",
     "name":"State Senate District 9",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:9",
     "state":"nj"
 },
   "bbox": [

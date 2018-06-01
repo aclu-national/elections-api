@@ -6,6 +6,7 @@
     "area_water":16426880,
     "geoid":"28015",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:ms/county:carroll",
     "state":"ms"
 },
   "bbox": [

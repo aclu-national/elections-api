@@ -6,6 +6,7 @@
     "area_water":48674249,
     "geoid":"20045",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:ks/county:douglas",
     "state":"ks"
 },
   "bbox": [

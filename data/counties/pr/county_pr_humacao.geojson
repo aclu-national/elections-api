@@ -6,6 +6,7 @@
     "area_water":68988203,
     "geoid":"72069",
     "name":"Humacao",
+    "ocd_id":"ocd-division/country:us/state:pr/county:humacao",
     "state":"pr"
 },
   "bbox": [

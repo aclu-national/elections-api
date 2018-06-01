@@ -8,6 +8,7 @@
     "district_num":"152",
     "geoid":"13152",
     "name":"State House District 152",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:152",
     "state":"ga"
 },
   "bbox": [

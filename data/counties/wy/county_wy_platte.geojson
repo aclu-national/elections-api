@@ -6,6 +6,7 @@
     "area_water":69035953,
     "geoid":"56031",
     "name":"Platte",
+    "ocd_id":"ocd-division/country:us/state:wy/county:platte",
     "state":"wy"
 },
   "bbox": [

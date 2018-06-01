@@ -6,6 +6,7 @@
     "area_water":3203556,
     "geoid":"29055",
     "name":"Crawford",
+    "ocd_id":"ocd-division/country:us/state:mo/county:crawford",
     "state":"mo"
 },
   "bbox": [

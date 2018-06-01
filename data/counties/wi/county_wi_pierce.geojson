@@ -6,6 +6,7 @@
     "area_water":46825858,
     "geoid":"55093",
     "name":"Pierce",
+    "ocd_id":"ocd-division/country:us/state:wi/county:pierce",
     "state":"wi"
 },
   "bbox": [

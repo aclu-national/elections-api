@@ -6,6 +6,7 @@
     "area_water":621146261,
     "geoid":"32031",
     "name":"Washoe",
+    "ocd_id":"ocd-division/country:us/state:nv/county:washoe",
     "state":"nv"
 },
   "bbox": [

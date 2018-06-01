@@ -6,6 +6,7 @@
     "area_water":5769943,
     "geoid":"31127",
     "name":"Nemaha",
+    "ocd_id":"ocd-division/country:us/state:ne/county:nemaha",
     "state":"ne"
 },
   "bbox": [

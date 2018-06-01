@@ -6,6 +6,7 @@
     "area_water":7545524,
     "geoid":"54023",
     "name":"Grant",
+    "ocd_id":"ocd-division/country:us/state:wv/county:grant",
     "state":"wv"
 },
   "bbox": [

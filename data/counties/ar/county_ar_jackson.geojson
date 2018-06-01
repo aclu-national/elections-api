@@ -6,6 +6,7 @@
     "area_water":19623381,
     "geoid":"05067",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:ar/county:jackson",
     "state":"ar"
 },
   "bbox": [

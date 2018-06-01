@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"17080",
     "name":"State House District 80",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:80",
     "state":"il"
 },
   "bbox": [

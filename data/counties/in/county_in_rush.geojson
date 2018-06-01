@@ -6,6 +6,7 @@
     "area_water":872270,
     "geoid":"18139",
     "name":"Rush",
+    "ocd_id":"ocd-division/country:us/state:in/county:rush",
     "state":"in"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"WA2",
     "geoid":"50WA2",
     "name":"Washington-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WA2",
     "state":"vt"
 },
   "bbox": [

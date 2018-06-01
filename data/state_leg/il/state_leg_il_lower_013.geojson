@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"17013",
     "name":"State House District 13",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:13",
     "state":"il"
 },
   "bbox": [

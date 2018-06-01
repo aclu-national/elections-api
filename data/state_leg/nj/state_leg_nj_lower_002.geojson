@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"34002",
     "name":"General Assembly District 2",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:2",
     "state":"nj"
 },
   "bbox": [

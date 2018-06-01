@@ -6,6 +6,7 @@
     "area_water":6491586,
     "geoid":"41071",
     "name":"Yamhill",
+    "ocd_id":"ocd-division/country:us/state:or/county:yamhill",
     "state":"or"
 },
   "bbox": [

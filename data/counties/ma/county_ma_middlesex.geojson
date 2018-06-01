@@ -6,6 +6,7 @@
     "area_water":75814940,
     "geoid":"25017",
     "name":"Middlesex",
+    "ocd_id":"ocd-division/country:us/state:ma/county:middlesex",
     "state":"ma"
 },
   "bbox": [

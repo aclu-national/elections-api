@@ -8,6 +8,7 @@
     "district_num":"801",
     "geoid":"33801",
     "name":"State House District Strafford County No. 1",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:801",
     "state":"nh"
 },
   "bbox": [

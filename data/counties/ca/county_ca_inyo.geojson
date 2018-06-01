@@ -6,6 +6,7 @@
     "area_water":119088140,
     "geoid":"06027",
     "name":"Inyo",
+    "ocd_id":"ocd-division/country:us/state:ca/county:inyo",
     "state":"ca"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"72001",
     "name":"State Senate District I",
+    "ocd_id":"ocd-division/country:us/state:pr/sldu:1",
     "state":"pr"
 },
   "bbox": [

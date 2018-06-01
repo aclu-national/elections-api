@@ -6,6 +6,7 @@
     "area_water":7808224,
     "geoid":"39149",
     "name":"Shelby",
+    "ocd_id":"ocd-division/country:us/state:oh/county:shelby",
     "state":"oh"
 },
   "bbox": [

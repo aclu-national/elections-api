@@ -8,6 +8,7 @@
     "district_num":"01A",
     "geoid":"2401A",
     "name":"State Legislative Subdistrict 1A",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:1",
     "state":"md"
 },
   "bbox": [

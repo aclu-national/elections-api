@@ -6,6 +6,7 @@
     "area_water":99965171,
     "geoid":"01051",
     "name":"Elmore",
+    "ocd_id":"ocd-division/country:us/state:al/county:elmore",
     "state":"al"
 },
   "bbox": [

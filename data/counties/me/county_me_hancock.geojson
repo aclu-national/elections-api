@@ -6,6 +6,7 @@
     "area_water":1963056852,
     "geoid":"23009",
     "name":"Hancock",
+    "ocd_id":"ocd-division/country:us/state:me/county:hancock",
     "state":"me"
 },
   "bbox": [

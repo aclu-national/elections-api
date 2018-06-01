@@ -6,6 +6,7 @@
     "area_water":15346371,
     "geoid":"48427",
     "name":"Starr",
+    "ocd_id":"ocd-division/country:us/state:tx/county:starr",
     "state":"tx"
 },
   "bbox": [

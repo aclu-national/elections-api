@@ -6,6 +6,7 @@
     "area_water":1847843,
     "geoid":"13125",
     "name":"Glascock",
+    "ocd_id":"ocd-division/country:us/state:ga/county:glascock",
     "state":"ga"
 },
   "bbox": [

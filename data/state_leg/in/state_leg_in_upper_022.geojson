@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"18022",
     "name":"State Senate District 22",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:22",
     "state":"in"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":13124946,
     "geoid":"48271",
     "name":"Kinney",
+    "ocd_id":"ocd-division/country:us/state:tx/county:kinney",
     "state":"tx"
 },
   "bbox": [

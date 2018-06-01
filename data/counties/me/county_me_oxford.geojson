@@ -6,6 +6,7 @@
     "area_water":256039480,
     "geoid":"23017",
     "name":"Oxford",
+    "ocd_id":"ocd-division/country:us/state:me/county:oxford",
     "state":"me"
 },
   "bbox": [

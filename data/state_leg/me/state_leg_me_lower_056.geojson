@@ -8,6 +8,7 @@
     "district_num":"056",
     "geoid":"23056",
     "name":"State House District 56",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:56",
     "state":"me"
 },
   "bbox": [

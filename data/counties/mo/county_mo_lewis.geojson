@@ -6,6 +6,7 @@
     "area_water":14901556,
     "geoid":"29111",
     "name":"Lewis",
+    "ocd_id":"ocd-division/country:us/state:mo/county:lewis",
     "state":"mo"
 },
   "bbox": [

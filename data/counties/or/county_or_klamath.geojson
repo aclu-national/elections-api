@@ -6,6 +6,7 @@
     "area_water":503712593,
     "geoid":"41035",
     "name":"Klamath",
+    "ocd_id":"ocd-division/country:us/state:or/county:klamath",
     "state":"or"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2517004,
     "geoid":"13097",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:ga/county:douglas",
     "state":"ga"
 },
   "bbox": [

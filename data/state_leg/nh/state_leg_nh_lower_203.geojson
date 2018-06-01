@@ -8,6 +8,7 @@
     "district_num":"203",
     "geoid":"33203",
     "name":"State House District Cheshire County No. 3",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:203",
     "state":"nh"
 },
   "bbox": [

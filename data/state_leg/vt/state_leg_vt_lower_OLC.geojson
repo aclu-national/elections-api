@@ -8,6 +8,7 @@
     "district_num":"OLC",
     "geoid":"50OLC",
     "name":"Orleans-Caledonia State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:OLC",
     "state":"vt"
 },
   "bbox": [

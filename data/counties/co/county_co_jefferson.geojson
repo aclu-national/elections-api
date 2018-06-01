@@ -6,6 +6,7 @@
     "area_water":25428019,
     "geoid":"08059",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:co/county:jefferson",
     "state":"co"
 },
   "bbox": [

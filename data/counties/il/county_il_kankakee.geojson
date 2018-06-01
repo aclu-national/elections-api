@@ -6,6 +6,7 @@
     "area_water":12418602,
     "geoid":"17091",
     "name":"Kankakee",
+    "ocd_id":"ocd-division/country:us/state:il/county:kankakee",
     "state":"il"
 },
   "bbox": [

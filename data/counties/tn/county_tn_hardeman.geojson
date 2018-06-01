@@ -6,6 +6,7 @@
     "area_water":6829952,
     "geoid":"47069",
     "name":"Hardeman",
+    "ocd_id":"ocd-division/country:us/state:tn/county:hardeman",
     "state":"tn"
 },
   "bbox": [

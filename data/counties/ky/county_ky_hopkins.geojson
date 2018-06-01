@@ -6,6 +6,7 @@
     "area_water":32182700,
     "geoid":"21107",
     "name":"Hopkins",
+    "ocd_id":"ocd-division/country:us/state:ky/county:hopkins",
     "state":"ky"
 },
   "bbox": [

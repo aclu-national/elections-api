@@ -6,6 +6,7 @@
     "area_water":14069141,
     "geoid":"05031",
     "name":"Craighead",
+    "ocd_id":"ocd-division/country:us/state:ar/county:craighead",
     "state":"ar"
 },
   "bbox": [

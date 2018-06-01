@@ -6,6 +6,7 @@
     "area_water":2718248,
     "geoid":"01013",
     "name":"Butler",
+    "ocd_id":"ocd-division/country:us/state:al/county:butler",
     "state":"al"
 },
   "bbox": [

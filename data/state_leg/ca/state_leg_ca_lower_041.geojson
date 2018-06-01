@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"06041",
     "name":"Assembly District 41",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:41",
     "state":"ca"
 },
   "bbox": [

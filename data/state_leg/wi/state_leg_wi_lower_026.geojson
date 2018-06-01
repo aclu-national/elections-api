@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"55026",
     "name":"Assembly District 26",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:26",
     "state":"wi"
 },
   "bbox": [

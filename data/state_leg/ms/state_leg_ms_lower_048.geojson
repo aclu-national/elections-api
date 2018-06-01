@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"28048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:ms/sldl:48",
     "state":"ms"
 },
   "bbox": [

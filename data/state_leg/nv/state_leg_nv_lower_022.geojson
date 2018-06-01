@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"32022",
     "name":"Assembly District 22",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:22",
     "state":"nv"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":24997458,
     "geoid":"48459",
     "name":"Upshur",
+    "ocd_id":"ocd-division/country:us/state:tx/county:upshur",
     "state":"tx"
 },
   "bbox": [

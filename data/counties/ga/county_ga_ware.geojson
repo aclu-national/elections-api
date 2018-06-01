@@ -6,6 +6,7 @@
     "area_water":39076860,
     "geoid":"13299",
     "name":"Ware",
+    "ocd_id":"ocd-division/country:us/state:ga/county:ware",
     "state":"ga"
 },
   "bbox": [

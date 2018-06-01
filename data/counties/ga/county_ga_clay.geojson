@@ -6,6 +6,7 @@
     "area_water":56605066,
     "geoid":"13061",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:ga/county:clay",
     "state":"ga"
 },
   "bbox": [

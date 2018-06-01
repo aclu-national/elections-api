@@ -6,6 +6,7 @@
     "area_water":19105699,
     "geoid":"48021",
     "name":"Bastrop",
+    "ocd_id":"ocd-division/country:us/state:tx/county:bastrop",
     "state":"tx"
 },
   "bbox": [

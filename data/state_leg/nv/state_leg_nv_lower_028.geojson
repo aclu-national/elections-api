@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"32028",
     "name":"Assembly District 28",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:28",
     "state":"nv"
 },
   "bbox": [

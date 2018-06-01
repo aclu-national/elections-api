@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"55081",
     "name":"Assembly District 81",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:81",
     "state":"wi"
 },
   "bbox": [

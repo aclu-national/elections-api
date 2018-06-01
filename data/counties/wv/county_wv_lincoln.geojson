@@ -6,6 +6,7 @@
     "area_water":4023478,
     "geoid":"54043",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:wv/county:lincoln",
     "state":"wv"
 },
   "bbox": [

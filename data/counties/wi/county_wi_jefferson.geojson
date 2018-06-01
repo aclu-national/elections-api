@@ -6,6 +6,7 @@
     "area_water":68095317,
     "geoid":"55055",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:wi/county:jefferson",
     "state":"wi"
 },
   "bbox": [

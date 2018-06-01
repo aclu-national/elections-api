@@ -6,6 +6,7 @@
     "area_water":7133364,
     "geoid":"19173",
     "name":"Taylor",
+    "ocd_id":"ocd-division/country:us/state:ia/county:taylor",
     "state":"ia"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"36061",
     "name":"Assembly District 61",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:61",
     "state":"ny"
 },
   "bbox": [

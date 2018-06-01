@@ -8,6 +8,7 @@
     "district_num":"073",
     "geoid":"22073",
     "name":"State House District 73",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:73",
     "state":"la"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12085303,
     "geoid":"39053",
     "name":"Gallia",
+    "ocd_id":"ocd-division/country:us/state:oh/county:gallia",
     "state":"oh"
 },
   "bbox": [

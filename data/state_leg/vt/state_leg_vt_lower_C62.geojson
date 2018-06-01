@@ -8,6 +8,7 @@
     "district_num":"C62",
     "geoid":"50C62",
     "name":"Chittenden-6-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C62",
     "state":"vt"
 },
   "bbox": [

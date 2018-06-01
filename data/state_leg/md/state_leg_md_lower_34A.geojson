@@ -8,6 +8,7 @@
     "district_num":"34A",
     "geoid":"2434A",
     "name":"State Legislative Subdistrict 34A",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:34A",
     "state":"md"
 },
   "bbox": [

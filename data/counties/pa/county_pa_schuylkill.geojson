@@ -6,6 +6,7 @@
     "area_water":10834897,
     "geoid":"42107",
     "name":"Schuylkill",
+    "ocd_id":"ocd-division/country:us/state:pa/county:schuylkill",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1027245114,
     "geoid":"04",
     "name":"Arizona",
+    "ocd_id":"ocd-division/country:us/state:az",
     "state":"az"
 },
   "bbox": [

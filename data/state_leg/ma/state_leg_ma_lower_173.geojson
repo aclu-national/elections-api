@@ -8,6 +8,7 @@
     "district_num":"173",
     "geoid":"25173",
     "name":"2nd Plymouth District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:173",
     "state":"ma"
 },
   "bbox": [

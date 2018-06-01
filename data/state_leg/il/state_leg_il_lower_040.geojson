@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"17040",
     "name":"State House District 40",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:40",
     "state":"il"
 },
   "bbox": [

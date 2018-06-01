@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"19017",
     "name":"State House District 17",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:17",
     "state":"ia"
 },
   "bbox": [

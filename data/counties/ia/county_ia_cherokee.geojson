@@ -6,6 +6,7 @@
     "area_water":423160,
     "geoid":"19035",
     "name":"Cherokee",
+    "ocd_id":"ocd-division/country:us/state:ia/county:cherokee",
     "state":"ia"
 },
   "bbox": [

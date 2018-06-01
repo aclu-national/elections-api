@@ -6,6 +6,7 @@
     "area_water":88700776,
     "geoid":"47145",
     "name":"Roane",
+    "ocd_id":"ocd-division/country:us/state:tn/county:roane",
     "state":"tn"
 },
   "bbox": [

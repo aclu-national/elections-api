@@ -6,6 +6,7 @@
     "area_water":1592601,
     "geoid":"72139",
     "name":"Trujillo Alto",
+    "ocd_id":"ocd-division/country:us/state:pr/county:trujillo_alto",
     "state":"pr"
 },
   "bbox": [

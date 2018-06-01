@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"24036",
     "name":"State Legislative District 36",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:36",
     "state":"md"
 },
   "bbox": [

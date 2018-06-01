@@ -6,6 +6,7 @@
     "area_water":497909625,
     "geoid":"53033",
     "name":"King",
+    "ocd_id":"ocd-division/country:us/state:wa/county:king",
     "state":"wa"
 },
   "bbox": [

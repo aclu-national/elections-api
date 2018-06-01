@@ -6,6 +6,7 @@
     "area_water":3368847813,
     "geoid":"26063",
     "name":"Huron",
+    "ocd_id":"ocd-division/country:us/state:mi/county:huron",
     "state":"mi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"088",
     "geoid":"36088",
     "name":"Assembly District 88",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:88",
     "state":"ny"
 },
   "bbox": [

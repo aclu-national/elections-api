@@ -8,6 +8,7 @@
     "district_num":"115",
     "geoid":"17115",
     "name":"State House District 115",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:115",
     "state":"il"
 },
   "bbox": [

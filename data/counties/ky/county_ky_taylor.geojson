@@ -6,6 +6,7 @@
     "area_water":27162461,
     "geoid":"21217",
     "name":"Taylor",
+    "ocd_id":"ocd-division/country:us/state:ky/county:taylor",
     "state":"ky"
 },
   "bbox": [

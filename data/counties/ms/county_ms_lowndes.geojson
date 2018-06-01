@@ -6,6 +6,7 @@
     "area_water":28560499,
     "geoid":"28087",
     "name":"Lowndes",
+    "ocd_id":"ocd-division/country:us/state:ms/county:lowndes",
     "state":"ms"
 },
   "bbox": [

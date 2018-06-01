@@ -6,6 +6,7 @@
     "area_water":446119,
     "geoid":"48219",
     "name":"Hockley",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hockley",
     "state":"tx"
 },
   "bbox": [

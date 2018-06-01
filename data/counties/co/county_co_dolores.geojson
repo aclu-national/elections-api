@@ -6,6 +6,7 @@
     "area_water":2716141,
     "geoid":"08033",
     "name":"Dolores",
+    "ocd_id":"ocd-division/country:us/state:co/county:dolores",
     "state":"co"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"146",
     "geoid":"36146",
     "name":"Assembly District 146",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:146",
     "state":"ny"
 },
   "bbox": [

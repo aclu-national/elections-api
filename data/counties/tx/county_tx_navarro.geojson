@@ -6,6 +6,7 @@
     "area_water":197626095,
     "geoid":"48349",
     "name":"Navarro",
+    "ocd_id":"ocd-division/country:us/state:tx/county:navarro",
     "state":"tx"
 },
   "bbox": [

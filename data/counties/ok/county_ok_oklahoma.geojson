@@ -6,6 +6,7 @@
     "area_water":24730011,
     "geoid":"40109",
     "name":"Oklahoma",
+    "ocd_id":"ocd-division/country:us/state:ok/county:oklahoma",
     "state":"ok"
 },
   "bbox": [

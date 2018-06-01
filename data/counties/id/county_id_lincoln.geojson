@@ -6,6 +6,7 @@
     "area_water":11606076,
     "geoid":"16063",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:id/county:lincoln",
     "state":"id"
 },
   "bbox": [

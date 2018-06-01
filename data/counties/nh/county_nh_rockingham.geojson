@@ -6,6 +6,7 @@
     "area_water":259322531,
     "geoid":"33015",
     "name":"Rockingham",
+    "ocd_id":"ocd-division/country:us/state:nh/county:rockingham",
     "state":"nh"
 },
   "bbox": [

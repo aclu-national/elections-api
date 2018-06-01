@@ -6,6 +6,7 @@
     "area_water":437170621,
     "geoid":"13039",
     "name":"Camden",
+    "ocd_id":"ocd-division/country:us/state:ga/county:camden",
     "state":"ga"
 },
   "bbox": [

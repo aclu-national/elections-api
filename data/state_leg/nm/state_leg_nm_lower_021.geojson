@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"35021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:21",
     "state":"nm"
 },
   "bbox": [

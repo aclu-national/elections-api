@@ -6,6 +6,7 @@
     "area_water":13683945,
     "geoid":"18121",
     "name":"Parke",
+    "ocd_id":"ocd-division/country:us/state:in/county:parke",
     "state":"in"
 },
   "bbox": [

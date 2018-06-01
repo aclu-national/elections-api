@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"06048",
     "name":"Assembly District 48",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:48",
     "state":"ca"
 },
   "bbox": [

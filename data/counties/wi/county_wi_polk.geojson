@@ -6,6 +6,7 @@
     "area_water":109704318,
     "geoid":"55095",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:wi/county:polk",
     "state":"wi"
 },
   "bbox": [

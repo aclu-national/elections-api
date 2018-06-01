@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"55042",
     "name":"Assembly District 42",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:42",
     "state":"wi"
 },
   "bbox": [

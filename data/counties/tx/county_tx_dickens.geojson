@@ -6,6 +6,7 @@
     "area_water":9057848,
     "geoid":"48125",
     "name":"Dickens",
+    "ocd_id":"ocd-division/country:us/state:tx/county:dickens",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":969654879,
     "geoid":"39043",
     "name":"Erie",
+    "ocd_id":"ocd-division/country:us/state:oh/county:erie",
     "state":"oh"
 },
   "bbox": [

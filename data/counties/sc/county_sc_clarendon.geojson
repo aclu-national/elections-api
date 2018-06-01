@@ -6,6 +6,7 @@
     "area_water":229790157,
     "geoid":"45027",
     "name":"Clarendon",
+    "ocd_id":"ocd-division/country:us/state:sc/county:clarendon",
     "state":"sc"
 },
   "bbox": [

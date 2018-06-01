@@ -6,6 +6,7 @@
     "area_water":16061122,
     "geoid":"20049",
     "name":"Elk",
+    "ocd_id":"ocd-division/country:us/state:ks/county:elk",
     "state":"ks"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":55217124,
     "geoid":"55127",
     "name":"Walworth",
+    "ocd_id":"ocd-division/country:us/state:wi/county:walworth",
     "state":"wi"
 },
   "bbox": [

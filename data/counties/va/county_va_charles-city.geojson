@@ -6,6 +6,7 @@
     "area_water":55492133,
     "geoid":"51036",
     "name":"Charles City",
+    "ocd_id":"ocd-division/country:us/state:va/county:charles_city",
     "state":"va"
 },
   "bbox": [

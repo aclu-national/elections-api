@@ -6,6 +6,7 @@
     "area_water":30255242,
     "geoid":"27081",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:mn/county:lincoln",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"24037",
     "name":"State Senate District 37",
+    "ocd_id":"ocd-division/country:us/state:md/sldu:37",
     "state":"md"
 },
   "bbox": [

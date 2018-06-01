@@ -6,6 +6,7 @@
     "area_water":12643194,
     "geoid":"45067",
     "name":"Marion",
+    "ocd_id":"ocd-division/country:us/state:sc/county:marion",
     "state":"sc"
 },
   "bbox": [

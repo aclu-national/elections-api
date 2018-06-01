@@ -6,6 +6,7 @@
     "area_water":245369,
     "geoid":"20063",
     "name":"Gove",
+    "ocd_id":"ocd-division/country:us/state:ks/county:gove",
     "state":"ks"
 },
   "bbox": [

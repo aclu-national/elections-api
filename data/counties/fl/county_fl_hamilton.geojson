@@ -6,6 +6,7 @@
     "area_water":13659798,
     "geoid":"12047",
     "name":"Hamilton",
+    "ocd_id":"ocd-division/country:us/state:fl/county:hamilton",
     "state":"fl"
 },
   "bbox": [

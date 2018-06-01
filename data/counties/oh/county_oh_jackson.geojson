@@ -6,6 +6,7 @@
     "area_water":3167846,
     "geoid":"39079",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:oh/county:jackson",
     "state":"oh"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"098",
     "geoid":"55098",
     "name":"Assembly District 98",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:98",
     "state":"wi"
 },
   "bbox": [

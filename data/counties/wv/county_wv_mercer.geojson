@@ -6,6 +6,7 @@
     "area_water":4434929,
     "geoid":"54055",
     "name":"Mercer",
+    "ocd_id":"ocd-division/country:us/state:wv/county:mercer",
     "state":"wv"
 },
   "bbox": [

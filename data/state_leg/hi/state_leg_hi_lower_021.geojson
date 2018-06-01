@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"15021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:hi/sldl:21",
     "state":"hi"
 },
   "bbox": [

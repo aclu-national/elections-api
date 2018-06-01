@@ -8,6 +8,7 @@
     "district_num":"903",
     "geoid":"33903",
     "name":"State House District Sullivan County No. 3",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:903",
     "state":"nh"
 },
   "bbox": [

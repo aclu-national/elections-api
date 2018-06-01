@@ -6,6 +6,7 @@
     "area_water":8599890,
     "geoid":"28073",
     "name":"Lamar",
+    "ocd_id":"ocd-division/country:us/state:ms/county:lamar",
     "state":"ms"
 },
   "bbox": [

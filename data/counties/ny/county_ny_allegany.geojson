@@ -6,6 +6,7 @@
     "area_water":13153776,
     "geoid":"36003",
     "name":"Allegany",
+    "ocd_id":"ocd-division/country:us/state:ny/county:allegany",
     "state":"ny"
 },
   "bbox": [

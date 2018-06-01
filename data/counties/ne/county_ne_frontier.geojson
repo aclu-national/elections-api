@@ -6,6 +6,7 @@
     "area_water":14212842,
     "geoid":"31063",
     "name":"Frontier",
+    "ocd_id":"ocd-division/country:us/state:ne/county:frontier",
     "state":"ne"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":4852361,
     "geoid":"31133",
     "name":"Pawnee",
+    "ocd_id":"ocd-division/country:us/state:ne/county:pawnee",
     "state":"ne"
 },
   "bbox": [

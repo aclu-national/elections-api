@@ -6,6 +6,7 @@
     "area_water":17350705,
     "geoid":"39061",
     "name":"Hamilton",
+    "ocd_id":"ocd-division/country:us/state:oh/county:hamilton",
     "state":"oh"
 },
   "bbox": [

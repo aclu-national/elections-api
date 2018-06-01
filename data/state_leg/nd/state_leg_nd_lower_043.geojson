@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"38043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:43",
     "state":"nd"
 },
   "bbox": [

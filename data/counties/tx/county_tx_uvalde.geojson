@@ -6,6 +6,7 @@
     "area_water":17320583,
     "geoid":"48463",
     "name":"Uvalde",
+    "ocd_id":"ocd-division/country:us/state:tx/county:uvalde",
     "state":"tx"
 },
   "bbox": [

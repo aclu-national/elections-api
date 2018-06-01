@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"55034",
     "name":"Assembly District 34",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:34",
     "state":"wi"
 },
   "bbox": [

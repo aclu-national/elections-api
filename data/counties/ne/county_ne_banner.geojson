@@ -6,6 +6,7 @@
     "area_water":397069,
     "geoid":"31007",
     "name":"Banner",
+    "ocd_id":"ocd-division/country:us/state:ne/county:banner",
     "state":"ne"
 },
   "bbox": [

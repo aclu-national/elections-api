@@ -6,6 +6,7 @@
     "area_water":539090851,
     "geoid":"69100",
     "name":"Rota",
+    "ocd_id":"ocd-division/country:us/state:mp/county:rota",
     "state":"mp"
 },
   "bbox": [

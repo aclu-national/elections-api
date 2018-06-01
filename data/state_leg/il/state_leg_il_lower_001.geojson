@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"17001",
     "name":"State House District 1",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:1",
     "state":"il"
 },
   "bbox": [

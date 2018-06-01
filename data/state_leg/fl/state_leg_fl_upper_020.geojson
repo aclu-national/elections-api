@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"12020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:fl/sldu:20",
     "state":"fl"
 },
   "bbox": [

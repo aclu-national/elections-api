@@ -6,6 +6,7 @@
     "area_water":181754413,
     "geoid":"51073",
     "name":"Gloucester",
+    "ocd_id":"ocd-division/country:us/state:va/county:gloucester",
     "state":"va"
 },
   "bbox": [

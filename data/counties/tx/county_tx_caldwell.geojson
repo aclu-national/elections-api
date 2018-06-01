@@ -6,6 +6,7 @@
     "area_water":4972802,
     "geoid":"48055",
     "name":"Caldwell",
+    "ocd_id":"ocd-division/country:us/state:tx/county:caldwell",
     "state":"tx"
 },
   "bbox": [

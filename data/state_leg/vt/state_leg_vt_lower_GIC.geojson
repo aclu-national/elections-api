@@ -8,6 +8,7 @@
     "district_num":"GIC",
     "geoid":"50GIC",
     "name":"Grand-Isle-Chittenden State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:GIC",
     "state":"vt"
 },
   "bbox": [

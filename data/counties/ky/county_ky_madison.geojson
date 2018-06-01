@@ -6,6 +6,7 @@
     "area_water":15425953,
     "geoid":"21151",
     "name":"Madison",
+    "ocd_id":"ocd-division/country:us/state:ky/county:madison",
     "state":"ky"
 },
   "bbox": [

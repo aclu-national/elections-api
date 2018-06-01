@@ -6,6 +6,7 @@
     "area_water":29359527964,
     "geoid":"55",
     "name":"Wisconsin",
+    "ocd_id":"ocd-division/country:us/state:wi",
     "state":"wi"
 },
   "bbox": [

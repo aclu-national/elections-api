@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"29052",
     "name":"State House District 52",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:52",
     "state":"mo"
 },
   "bbox": [

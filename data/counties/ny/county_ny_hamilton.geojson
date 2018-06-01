@@ -6,6 +6,7 @@
     "area_water":234205889,
     "geoid":"36041",
     "name":"Hamilton",
+    "ocd_id":"ocd-division/country:us/state:ny/county:hamilton",
     "state":"ny"
 },
   "bbox": [

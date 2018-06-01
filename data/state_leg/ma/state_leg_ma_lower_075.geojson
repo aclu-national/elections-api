@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"25075",
     "name":"7th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:75",
     "state":"ma"
 },
   "bbox": [

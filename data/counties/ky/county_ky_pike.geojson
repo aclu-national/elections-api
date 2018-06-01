@@ -6,6 +6,7 @@
     "area_water":4756763,
     "geoid":"21195",
     "name":"Pike",
+    "ocd_id":"ocd-division/country:us/state:ky/county:pike",
     "state":"ky"
 },
   "bbox": [

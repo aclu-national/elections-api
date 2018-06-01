@@ -6,6 +6,7 @@
     "area_water":85610784,
     "geoid":"49017",
     "name":"Garfield",
+    "ocd_id":"ocd-division/country:us/state:ut/county:garfield",
     "state":"ut"
 },
   "bbox": [

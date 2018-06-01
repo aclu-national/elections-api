@@ -6,6 +6,7 @@
     "area_water":64310266,
     "geoid":"04013",
     "name":"Maricopa",
+    "ocd_id":"ocd-division/country:us/state:az/county:maricopa",
     "state":"az"
 },
   "bbox": [

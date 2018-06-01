@@ -6,6 +6,7 @@
     "area_water":16090912,
     "geoid":"28137",
     "name":"Tate",
+    "ocd_id":"ocd-division/country:us/state:ms/county:tate",
     "state":"ms"
 },
   "bbox": [

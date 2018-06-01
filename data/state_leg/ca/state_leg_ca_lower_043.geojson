@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"06043",
     "name":"Assembly District 43",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:43",
     "state":"ca"
 },
   "bbox": [

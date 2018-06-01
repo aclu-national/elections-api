@@ -6,6 +6,7 @@
     "area_water":28821288,
     "geoid":"48457",
     "name":"Tyler",
+    "ocd_id":"ocd-division/country:us/state:tx/county:tyler",
     "state":"tx"
 },
   "bbox": [

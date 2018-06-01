@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"18031",
     "name":"State Senate District 31",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:31",
     "state":"in"
 },
   "bbox": [

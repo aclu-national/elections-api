@@ -6,6 +6,7 @@
     "area_water":9938846,
     "geoid":"39141",
     "name":"Ross",
+    "ocd_id":"ocd-division/country:us/state:oh/county:ross",
     "state":"oh"
 },
   "bbox": [

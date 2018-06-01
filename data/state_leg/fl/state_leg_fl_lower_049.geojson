@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"12049",
     "name":"State House District 49",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:49",
     "state":"fl"
 },
   "bbox": [

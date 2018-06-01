@@ -6,6 +6,7 @@
     "area_water":346846,
     "geoid":"48393",
     "name":"Roberts",
+    "ocd_id":"ocd-division/country:us/state:tx/county:roberts",
     "state":"tx"
 },
   "bbox": [

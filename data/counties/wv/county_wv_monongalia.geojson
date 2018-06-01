@@ -6,6 +6,7 @@
     "area_water":15051916,
     "geoid":"54061",
     "name":"Monongalia",
+    "ocd_id":"ocd-division/country:us/state:wv/county:monongalia",
     "state":"wv"
 },
   "bbox": [

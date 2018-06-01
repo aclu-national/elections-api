@@ -6,6 +6,7 @@
     "area_water":126242806,
     "geoid":"05119",
     "name":"Pulaski",
+    "ocd_id":"ocd-division/country:us/state:ar/county:pulaski",
     "state":"ar"
 },
   "bbox": [

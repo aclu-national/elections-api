@@ -6,6 +6,7 @@
     "area_water":12758799,
     "geoid":"48331",
     "name":"Milam",
+    "ocd_id":"ocd-division/country:us/state:tx/county:milam",
     "state":"tx"
 },
   "bbox": [

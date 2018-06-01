@@ -6,6 +6,7 @@
     "area_water":1248708387,
     "geoid":"55059",
     "name":"Kenosha",
+    "ocd_id":"ocd-division/country:us/state:wi/county:kenosha",
     "state":"wi"
 },
   "bbox": [

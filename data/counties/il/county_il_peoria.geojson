@@ -6,6 +6,7 @@
     "area_water":30706228,
     "geoid":"17143",
     "name":"Peoria",
+    "ocd_id":"ocd-division/country:us/state:il/county:peoria",
     "state":"il"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"B-3",
     "geoid":"50B-3",
     "name":"Bennington-3 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:B-3",
     "state":"vt"
 },
   "bbox": [

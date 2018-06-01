@@ -6,6 +6,7 @@
     "area_water":12632461,
     "geoid":"20041",
     "name":"Dickinson",
+    "ocd_id":"ocd-division/country:us/state:ks/county:dickinson",
     "state":"ks"
 },
   "bbox": [

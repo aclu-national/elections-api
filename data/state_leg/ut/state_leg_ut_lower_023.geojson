@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"49023",
     "name":"State House District 23",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:23",
     "state":"ut"
 },
   "bbox": [

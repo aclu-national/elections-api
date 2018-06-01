@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"19060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:60",
     "state":"ia"
 },
   "bbox": [

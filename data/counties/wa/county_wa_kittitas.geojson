@@ -6,6 +6,7 @@
     "area_water":92436005,
     "geoid":"53037",
     "name":"Kittitas",
+    "ocd_id":"ocd-division/country:us/state:wa/county:kittitas",
     "state":"wa"
 },
   "bbox": [

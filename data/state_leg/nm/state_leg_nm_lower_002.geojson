@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"35002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:2",
     "state":"nm"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"18040",
     "name":"State House District 40",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:40",
     "state":"in"
 },
   "bbox": [

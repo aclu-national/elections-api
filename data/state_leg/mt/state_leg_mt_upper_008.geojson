@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"30008",
     "name":"State Senate District 8",
+    "ocd_id":"ocd-division/country:us/state:mt/sldu:8",
     "state":"mt"
 },
   "bbox": [

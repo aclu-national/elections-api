@@ -6,6 +6,7 @@
     "area_water":8700791,
     "geoid":"48179",
     "name":"Gray",
+    "ocd_id":"ocd-division/country:us/state:tx/county:gray",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"06015",
     "name":"Assembly District 15",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:15",
     "state":"ca"
 },
   "bbox": [

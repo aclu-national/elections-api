@@ -6,6 +6,7 @@
     "area_water":6959140,
     "geoid":"47011",
     "name":"Bradley",
+    "ocd_id":"ocd-division/country:us/state:tn/county:bradley",
     "state":"tn"
 },
   "bbox": [

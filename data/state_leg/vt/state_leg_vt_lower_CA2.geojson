@@ -8,6 +8,7 @@
     "district_num":"CA2",
     "geoid":"50CA2",
     "name":"Caledonia-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:CA2",
     "state":"vt"
 },
   "bbox": [

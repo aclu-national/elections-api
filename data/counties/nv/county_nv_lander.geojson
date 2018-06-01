@@ -6,6 +6,7 @@
     "area_water":76104322,
     "geoid":"32015",
     "name":"Lander",
+    "ocd_id":"ocd-division/country:us/state:nv/county:lander",
     "state":"nv"
 },
   "bbox": [

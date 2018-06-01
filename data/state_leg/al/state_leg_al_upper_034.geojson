@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"01034",
     "name":"State Senate District 34",
+    "ocd_id":"ocd-division/country:us/state:al/sldu:34",
     "state":"al"
 },
   "bbox": [

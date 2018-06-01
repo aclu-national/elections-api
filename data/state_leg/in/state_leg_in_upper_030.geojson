@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"18030",
     "name":"State Senate District 30",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:30",
     "state":"in"
 },
   "bbox": [

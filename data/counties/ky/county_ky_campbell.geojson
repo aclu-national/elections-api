@@ -6,6 +6,7 @@
     "area_water":20930398,
     "geoid":"21037",
     "name":"Campbell",
+    "ocd_id":"ocd-division/country:us/state:ky/county:campbell",
     "state":"ky"
 },
   "bbox": [

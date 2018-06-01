@@ -6,6 +6,7 @@
     "area_water":214237435,
     "geoid":"50007",
     "name":"Chittenden",
+    "ocd_id":"ocd-division/country:us/state:vt/county:chittenden",
     "state":"vt"
 },
   "bbox": [

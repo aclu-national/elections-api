@@ -8,6 +8,7 @@
     "district_num":"124",
     "geoid":"45124",
     "name":"State House District HD-124",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:124",
     "state":"sc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1847609,
     "geoid":"08003",
     "name":"Alamosa",
+    "ocd_id":"ocd-division/country:us/state:co/county:alamosa",
     "state":"co"
 },
   "bbox": [

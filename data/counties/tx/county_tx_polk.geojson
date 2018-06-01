@@ -6,6 +6,7 @@
     "area_water":136271619,
     "geoid":"48373",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:tx/county:polk",
     "state":"tx"
 },
   "bbox": [

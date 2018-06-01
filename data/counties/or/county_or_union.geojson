@@ -6,6 +6,7 @@
     "area_water":4989941,
     "geoid":"41061",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:or/county:union",
     "state":"or"
 },
   "bbox": [

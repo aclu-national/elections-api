@@ -6,6 +6,7 @@
     "area_water":7133386423,
     "geoid":"12087",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:fl/county:monroe",
     "state":"fl"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":28683328,
     "geoid":"50009",
     "name":"Essex",
+    "ocd_id":"ocd-division/country:us/state:vt/county:essex",
     "state":"vt"
 },
   "bbox": [

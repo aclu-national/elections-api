@@ -8,6 +8,7 @@
     "district_num":"062",
     "geoid":"13062",
     "name":"State House District 62",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:62",
     "state":"ga"
 },
   "bbox": [

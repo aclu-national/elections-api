@@ -8,6 +8,7 @@
     "district_num":"305",
     "geoid":"33305",
     "name":"State House District Coos County No. 5",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:305",
     "state":"nh"
 },
   "bbox": [

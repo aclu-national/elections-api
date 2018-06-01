@@ -6,6 +6,7 @@
     "area_water":292317315,
     "geoid":"50013",
     "name":"Grand Isle",
+    "ocd_id":"ocd-division/country:us/state:vt/county:grand_isle",
     "state":"vt"
 },
   "bbox": [

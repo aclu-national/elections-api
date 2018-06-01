@@ -6,6 +6,7 @@
     "area_water":865801424,
     "geoid":"12103",
     "name":"Pinellas",
+    "ocd_id":"ocd-division/country:us/state:fl/county:pinellas",
     "state":"fl"
 },
   "bbox": [

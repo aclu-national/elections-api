@@ -6,6 +6,7 @@
     "area_water":30113787,
     "geoid":"20173",
     "name":"Sedgwick",
+    "ocd_id":"ocd-division/country:us/state:ks/county:sedgwick",
     "state":"ks"
 },
   "bbox": [

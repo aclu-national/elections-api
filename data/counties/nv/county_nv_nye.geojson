@@ -6,6 +6,7 @@
     "area_water":43207981,
     "geoid":"32023",
     "name":"Nye",
+    "ocd_id":"ocd-division/country:us/state:nv/county:nye",
     "state":"nv"
 },
   "bbox": [

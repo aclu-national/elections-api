@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"16009",
     "name":"State Senate District 9",
+    "ocd_id":"ocd-division/country:us/state:id/sldu:9",
     "state":"id"
 },
   "bbox": [

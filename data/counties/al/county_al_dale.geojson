@@ -6,6 +6,7 @@
     "area_water":4016457,
     "geoid":"01045",
     "name":"Dale",
+    "ocd_id":"ocd-division/country:us/state:al/county:dale",
     "state":"al"
 },
   "bbox": [

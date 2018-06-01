@@ -6,6 +6,7 @@
     "area_water":18138022,
     "geoid":"28095",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:ms/county:monroe",
     "state":"ms"
 },
   "bbox": [

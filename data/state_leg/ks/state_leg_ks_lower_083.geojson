@@ -8,6 +8,7 @@
     "district_num":"083",
     "geoid":"20083",
     "name":"State House District 83",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:83",
     "state":"ks"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2370320,
     "geoid":"16057",
     "name":"Latah",
+    "ocd_id":"ocd-division/country:us/state:id/county:latah",
     "state":"id"
 },
   "bbox": [

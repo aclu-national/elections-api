@@ -6,6 +6,7 @@
     "area_water":2124389418,
     "geoid":"26041",
     "name":"Delta",
+    "ocd_id":"ocd-division/country:us/state:mi/county:delta",
     "state":"mi"
 },
   "bbox": [

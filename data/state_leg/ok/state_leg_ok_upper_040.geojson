@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"40040",
     "name":"State Senate District 40",
+    "ocd_id":"ocd-division/country:us/state:ok/sldu:40",
     "state":"ok"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"146",
     "geoid":"09146",
     "name":"State House District 146",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:146",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":41831844,
     "geoid":"05133",
     "name":"Sevier",
+    "ocd_id":"ocd-division/country:us/state:ar/county:sevier",
     "state":"ar"
 },
   "bbox": [

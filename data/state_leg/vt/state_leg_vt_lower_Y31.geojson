@@ -8,6 +8,7 @@
     "district_num":"Y31",
     "geoid":"50Y31",
     "name":"Windsor-3-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:Y31",
     "state":"vt"
 },
   "bbox": [

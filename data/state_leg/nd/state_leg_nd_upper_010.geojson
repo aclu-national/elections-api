@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"38010",
     "name":"State Senate District 10",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:10",
     "state":"nd"
 },
   "bbox": [

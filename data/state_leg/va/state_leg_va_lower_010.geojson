@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"51010",
     "name":"State House District 10",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:10",
     "state":"va"
 },
   "bbox": [

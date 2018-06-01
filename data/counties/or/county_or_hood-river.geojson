@@ -6,6 +6,7 @@
     "area_water":29040461,
     "geoid":"41027",
     "name":"Hood River",
+    "ocd_id":"ocd-division/country:us/state:or/county:hood_river",
     "state":"or"
 },
   "bbox": [

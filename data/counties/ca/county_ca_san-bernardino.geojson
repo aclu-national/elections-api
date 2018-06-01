@@ -6,6 +6,7 @@
     "area_water":123845007,
     "geoid":"06071",
     "name":"San Bernardino",
+    "ocd_id":"ocd-division/country:us/state:ca/county:san_bernardino",
     "state":"ca"
 },
   "bbox": [

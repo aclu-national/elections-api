@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"21034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:34",
     "state":"ky"
 },
   "bbox": [

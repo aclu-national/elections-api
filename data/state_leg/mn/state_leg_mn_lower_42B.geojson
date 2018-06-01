@@ -8,6 +8,7 @@
     "district_num":"42B",
     "geoid":"2742B",
     "name":"State House District 42B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:42B",
     "state":"mn"
 },
   "bbox": [

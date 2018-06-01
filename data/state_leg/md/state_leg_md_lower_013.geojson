@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"24013",
     "name":"State Legislative District 13",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:13",
     "state":"md"
 },
   "bbox": [

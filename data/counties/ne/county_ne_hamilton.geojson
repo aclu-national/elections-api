@@ -6,6 +6,7 @@
     "area_water":7360265,
     "geoid":"31081",
     "name":"Hamilton",
+    "ocd_id":"ocd-division/country:us/state:ne/county:hamilton",
     "state":"ne"
 },
   "bbox": [

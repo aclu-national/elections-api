@@ -6,6 +6,7 @@
     "area_water":36174540,
     "geoid":"54053",
     "name":"Mason",
+    "ocd_id":"ocd-division/country:us/state:wv/county:mason",
     "state":"wv"
 },
   "bbox": [

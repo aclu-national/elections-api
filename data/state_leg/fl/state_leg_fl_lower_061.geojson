@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"12061",
     "name":"State House District 61",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:61",
     "state":"fl"
 },
   "bbox": [

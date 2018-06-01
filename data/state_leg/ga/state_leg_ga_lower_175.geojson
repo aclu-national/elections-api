@@ -8,6 +8,7 @@
     "district_num":"175",
     "geoid":"13175",
     "name":"State House District 175",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:175",
     "state":"ga"
 },
   "bbox": [

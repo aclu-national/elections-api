@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"12034",
     "name":"State Senate District 34",
+    "ocd_id":"ocd-division/country:us/state:fl/sldu:34",
     "state":"fl"
 },
   "bbox": [

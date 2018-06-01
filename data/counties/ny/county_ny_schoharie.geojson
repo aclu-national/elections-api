@@ -6,6 +6,7 @@
     "area_water":11676949,
     "geoid":"36095",
     "name":"Schoharie",
+    "ocd_id":"ocd-division/country:us/state:ny/county:schoharie",
     "state":"ny"
 },
   "bbox": [

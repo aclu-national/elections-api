@@ -6,6 +6,7 @@
     "area_water":29257527,
     "geoid":"37039",
     "name":"Cherokee",
+    "ocd_id":"ocd-division/country:us/state:nc/county:cherokee",
     "state":"nc"
 },
   "bbox": [

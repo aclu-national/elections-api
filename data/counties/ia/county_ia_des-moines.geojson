@@ -6,6 +6,7 @@
     "area_water":35342793,
     "geoid":"19057",
     "name":"Des Moines",
+    "ocd_id":"ocd-division/country:us/state:ia/county:des_moines",
     "state":"ia"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":9855192,
     "geoid":"37191",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:nc/county:wayne",
     "state":"nc"
 },
   "bbox": [

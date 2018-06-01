@@ -6,6 +6,7 @@
     "area_water":2413877536,
     "geoid":"53009",
     "name":"Clallam",
+    "ocd_id":"ocd-division/country:us/state:wa/county:clallam",
     "state":"wa"
 },
   "bbox": [

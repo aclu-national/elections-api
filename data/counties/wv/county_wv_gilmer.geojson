@@ -6,6 +6,7 @@
     "area_water":4082111,
     "geoid":"54021",
     "name":"Gilmer",
+    "ocd_id":"ocd-division/country:us/state:wv/county:gilmer",
     "state":"wv"
 },
   "bbox": [

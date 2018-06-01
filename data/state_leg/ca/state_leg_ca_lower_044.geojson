@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"06044",
     "name":"Assembly District 44",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:44",
     "state":"ca"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"20043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:43",
     "state":"ks"
 },
   "bbox": [

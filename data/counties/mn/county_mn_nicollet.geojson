@@ -6,6 +6,7 @@
     "area_water":47467472,
     "geoid":"27103",
     "name":"Nicollet",
+    "ocd_id":"ocd-division/country:us/state:mn/county:nicollet",
     "state":"mn"
 },
   "bbox": [

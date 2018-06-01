@@ -6,6 +6,7 @@
     "area_water":19038372,
     "geoid":"55078",
     "name":"Menominee",
+    "ocd_id":"ocd-division/country:us/state:wi/county:menominee",
     "state":"wi"
 },
   "bbox": [

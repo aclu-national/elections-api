@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"08034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:34",
     "state":"co"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":46914718,
     "geoid":"41021",
     "name":"Gilliam",
+    "ocd_id":"ocd-division/country:us/state:or/county:gilliam",
     "state":"or"
 },
   "bbox": [

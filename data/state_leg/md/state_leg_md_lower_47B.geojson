@@ -8,6 +8,7 @@
     "district_num":"47B",
     "geoid":"2447B",
     "name":"State Legislative Subdistrict 47B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:47B",
     "state":"md"
 },
   "bbox": [

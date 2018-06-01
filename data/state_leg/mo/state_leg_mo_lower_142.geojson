@@ -8,6 +8,7 @@
     "district_num":"142",
     "geoid":"29142",
     "name":"State House District 142",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:142",
     "state":"mo"
 },
   "bbox": [

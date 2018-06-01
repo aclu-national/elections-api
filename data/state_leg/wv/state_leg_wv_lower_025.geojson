@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"54025",
     "name":"State House District 25",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:25",
     "state":"wv"
 },
   "bbox": [

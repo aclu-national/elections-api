@@ -8,6 +8,7 @@
     "district_num":"22B",
     "geoid":"2722B",
     "name":"State House District 22B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:22B",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":53167480,
     "geoid":"21225",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:ky/county:union",
     "state":"ky"
 },
   "bbox": [

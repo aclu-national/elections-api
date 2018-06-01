@@ -6,6 +6,7 @@
     "area_water":2488190402,
     "geoid":"29",
     "name":"Missouri",
+    "ocd_id":"ocd-division/country:us/state:mo",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":14109855,
     "geoid":"16059",
     "name":"Lemhi",
+    "ocd_id":"ocd-division/country:us/state:id/county:lemhi",
     "state":"id"
 },
   "bbox": [

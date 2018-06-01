@@ -8,6 +8,7 @@
     "district_num":"149",
     "geoid":"09149",
     "name":"State House District 149",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:149",
     "state":"ct"
 },
   "bbox": [

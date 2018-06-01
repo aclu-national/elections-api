@@ -6,6 +6,7 @@
     "area_water":12540408,
     "geoid":"13025",
     "name":"Brantley",
+    "ocd_id":"ocd-division/country:us/state:ga/county:brantley",
     "state":"ga"
 },
   "bbox": [

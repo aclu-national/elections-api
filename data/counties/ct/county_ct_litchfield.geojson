@@ -6,6 +6,7 @@
     "area_water":62393362,
     "geoid":"09005",
     "name":"Litchfield",
+    "ocd_id":"ocd-division/country:us/state:ct/county:litchfield",
     "state":"ct"
 },
   "bbox": [

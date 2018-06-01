@@ -6,6 +6,7 @@
     "area_water":404682,
     "geoid":"54087",
     "name":"Roane",
+    "ocd_id":"ocd-division/country:us/state:wv/county:roane",
     "state":"wv"
 },
   "bbox": [

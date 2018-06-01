@@ -6,6 +6,7 @@
     "area_water":63715775,
     "geoid":"47041",
     "name":"DeKalb",
+    "ocd_id":"ocd-division/country:us/state:tn/county:dekalb",
     "state":"tn"
 },
   "bbox": [

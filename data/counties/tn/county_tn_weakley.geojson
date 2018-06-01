@@ -6,6 +6,7 @@
     "area_water":3707115,
     "geoid":"47183",
     "name":"Weakley",
+    "ocd_id":"ocd-division/country:us/state:tn/county:weakley",
     "state":"tn"
 },
   "bbox": [

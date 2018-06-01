@@ -8,6 +8,7 @@
     "district_num":"143",
     "geoid":"09143",
     "name":"State House District 143",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:143",
     "state":"ct"
 },
   "bbox": [

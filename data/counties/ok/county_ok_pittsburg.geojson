@@ -6,6 +6,7 @@
     "area_water":187439435,
     "geoid":"40121",
     "name":"Pittsburg",
+    "ocd_id":"ocd-division/country:us/state:ok/county:pittsburg",
     "state":"ok"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2393355752,
     "geoid":"16",
     "name":"Idaho",
+    "ocd_id":"ocd-division/country:us/state:id",
     "state":"id"
 },
   "bbox": [

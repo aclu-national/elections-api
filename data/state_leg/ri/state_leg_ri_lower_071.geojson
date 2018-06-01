@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"44071",
     "name":"State House District 71",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:71",
     "state":"ri"
 },
   "bbox": [

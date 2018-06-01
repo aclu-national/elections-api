@@ -6,6 +6,7 @@
     "area_water":11233315,
     "geoid":"51071",
     "name":"Giles",
+    "ocd_id":"ocd-division/country:us/state:va/county:giles",
     "state":"va"
 },
   "bbox": [

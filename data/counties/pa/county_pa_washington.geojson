@@ -6,6 +6,7 @@
     "area_water":10147672,
     "geoid":"42125",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:pa/county:washington",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":164903351,
     "geoid":"49035",
     "name":"Salt Lake",
+    "ocd_id":"ocd-division/country:us/state:ut/county:salt_lake",
     "state":"ut"
 },
   "bbox": [

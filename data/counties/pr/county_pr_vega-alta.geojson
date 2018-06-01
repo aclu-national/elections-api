@@ -6,6 +6,7 @@
     "area_water":25307600,
     "geoid":"72143",
     "name":"Vega Alta",
+    "ocd_id":"ocd-division/country:us/state:pr/county:vega_alta",
     "state":"pr"
 },
   "bbox": [

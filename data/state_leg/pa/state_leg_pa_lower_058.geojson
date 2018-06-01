@@ -8,6 +8,7 @@
     "district_num":"058",
     "geoid":"42058",
     "name":"State House District 58",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:58",
     "state":"pa"
 },
   "bbox": [

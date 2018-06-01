@@ -6,6 +6,7 @@
     "area_water":94243008,
     "geoid":"12063",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:fl/county:jackson",
     "state":"fl"
 },
   "bbox": [

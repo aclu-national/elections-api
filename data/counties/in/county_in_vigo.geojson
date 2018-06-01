@@ -6,6 +6,7 @@
     "area_water":18068475,
     "geoid":"18167",
     "name":"Vigo",
+    "ocd_id":"ocd-division/country:us/state:in/county:vigo",
     "state":"in"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"19032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:32",
     "state":"ia"
 },
   "bbox": [

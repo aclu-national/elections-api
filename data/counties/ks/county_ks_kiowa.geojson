@@ -6,6 +6,7 @@
     "area_water":596764,
     "geoid":"20097",
     "name":"Kiowa",
+    "ocd_id":"ocd-division/country:us/state:ks/county:kiowa",
     "state":"ks"
 },
   "bbox": [

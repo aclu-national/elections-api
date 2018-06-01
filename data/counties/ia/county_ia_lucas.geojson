@@ -6,6 +6,7 @@
     "area_water":9852833,
     "geoid":"19117",
     "name":"Lucas",
+    "ocd_id":"ocd-division/country:us/state:ia/county:lucas",
     "state":"ia"
 },
   "bbox": [

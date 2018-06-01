@@ -6,6 +6,7 @@
     "area_water":6950848,
     "geoid":"08035",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:co/county:douglas",
     "state":"co"
 },
   "bbox": [

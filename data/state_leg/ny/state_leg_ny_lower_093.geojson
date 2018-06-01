@@ -8,6 +8,7 @@
     "district_num":"093",
     "geoid":"36093",
     "name":"Assembly District 93",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:93",
     "state":"ny"
 },
   "bbox": [

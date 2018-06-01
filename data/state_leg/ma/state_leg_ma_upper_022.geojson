@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"25022",
     "name":"Third Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:22",
     "state":"ma"
 },
   "bbox": [

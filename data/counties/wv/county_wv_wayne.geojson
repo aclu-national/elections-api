@@ -6,6 +6,7 @@
     "area_water":15860720,
     "geoid":"54099",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:wv/county:wayne",
     "state":"wv"
 },
   "bbox": [

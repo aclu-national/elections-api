@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"44036",
     "name":"State Senate District 36",
+    "ocd_id":"ocd-division/country:us/state:ri/sldu:36",
     "state":"ri"
 },
   "bbox": [

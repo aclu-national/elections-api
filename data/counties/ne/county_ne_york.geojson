@@ -6,6 +6,7 @@
     "area_water":8595507,
     "geoid":"31185",
     "name":"York",
+    "ocd_id":"ocd-division/country:us/state:ne/county:york",
     "state":"ne"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"22060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:60",
     "state":"la"
 },
   "bbox": [

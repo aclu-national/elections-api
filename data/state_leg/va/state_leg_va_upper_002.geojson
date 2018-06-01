@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"51002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:va/sldu:2",
     "state":"va"
 },
   "bbox": [

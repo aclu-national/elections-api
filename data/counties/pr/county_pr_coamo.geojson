@@ -6,6 +6,7 @@
     "area_water":38061,
     "geoid":"72043",
     "name":"Coamo",
+    "ocd_id":"ocd-division/country:us/state:pr/county:coamo",
     "state":"pr"
 },
   "bbox": [

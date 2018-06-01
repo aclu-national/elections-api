@@ -6,6 +6,7 @@
     "area_water":13491054,
     "geoid":"47155",
     "name":"Sevier",
+    "ocd_id":"ocd-division/country:us/state:tn/county:sevier",
     "state":"tn"
 },
   "bbox": [

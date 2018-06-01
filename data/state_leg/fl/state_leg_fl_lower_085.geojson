@@ -8,6 +8,7 @@
     "district_num":"085",
     "geoid":"12085",
     "name":"State House District 85",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:85",
     "state":"fl"
 },
   "bbox": [

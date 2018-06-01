@@ -6,6 +6,7 @@
     "area_water":40159474,
     "geoid":"26145",
     "name":"Saginaw",
+    "ocd_id":"ocd-division/country:us/state:mi/county:saginaw",
     "state":"mi"
 },
   "bbox": [

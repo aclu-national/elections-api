@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"37082",
     "name":"State House District 82",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:82",
     "state":"nc"
 },
   "bbox": [

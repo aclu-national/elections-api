@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"05014",
     "name":"State House District 14",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:14",
     "state":"ar"
 },
   "bbox": [

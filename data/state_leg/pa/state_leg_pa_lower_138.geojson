@@ -8,6 +8,7 @@
     "district_num":"138",
     "geoid":"42138",
     "name":"State House District 138",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:138",
     "state":"pa"
 },
   "bbox": [

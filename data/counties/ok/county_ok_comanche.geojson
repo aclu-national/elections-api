@@ -6,6 +6,7 @@
     "area_water":37331078,
     "geoid":"40031",
     "name":"Comanche",
+    "ocd_id":"ocd-division/country:us/state:ok/county:comanche",
     "state":"ok"
 },
   "bbox": [

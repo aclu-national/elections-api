@@ -8,6 +8,7 @@
     "district_num":"31B",
     "geoid":"2731B",
     "name":"State House District 31B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:31B",
     "state":"mn"
 },
   "bbox": [

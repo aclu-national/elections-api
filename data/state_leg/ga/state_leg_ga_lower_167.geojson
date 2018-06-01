@@ -8,6 +8,7 @@
     "district_num":"167",
     "geoid":"13167",
     "name":"State House District 167",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:167",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3581125,
     "geoid":"38073",
     "name":"Ransom",
+    "ocd_id":"ocd-division/country:us/state:nd/county:ransom",
     "state":"nd"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"088",
     "geoid":"39088",
     "name":"State House District 88",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:88",
     "state":"oh"
 },
   "bbox": [

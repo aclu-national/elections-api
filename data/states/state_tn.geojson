@@ -6,6 +6,7 @@
     "area_water":2354836197,
     "geoid":"47",
     "name":"Tennessee",
+    "ocd_id":"ocd-division/country:us/state:tn",
     "state":"tn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":7534491,
     "geoid":"17183",
     "name":"Vermilion",
+    "ocd_id":"ocd-division/country:us/state:il/county:vermilion",
     "state":"il"
 },
   "bbox": [

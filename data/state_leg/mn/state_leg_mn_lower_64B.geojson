@@ -8,6 +8,7 @@
     "district_num":"64B",
     "geoid":"2764B",
     "name":"State House District 64B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:64B",
     "state":"mn"
 },
   "bbox": [

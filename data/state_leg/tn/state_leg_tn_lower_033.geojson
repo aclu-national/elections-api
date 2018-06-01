@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"47033",
     "name":"State House District 33",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:33",
     "state":"tn"
 },
   "bbox": [

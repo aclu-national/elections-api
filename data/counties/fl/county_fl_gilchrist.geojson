@@ -6,6 +6,7 @@
     "area_water":14362154,
     "geoid":"12041",
     "name":"Gilchrist",
+    "ocd_id":"ocd-division/country:us/state:fl/county:gilchrist",
     "state":"fl"
 },
   "bbox": [

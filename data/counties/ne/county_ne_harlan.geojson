@@ -6,6 +6,7 @@
     "area_water":53339808,
     "geoid":"31083",
     "name":"Harlan",
+    "ocd_id":"ocd-division/country:us/state:ne/county:harlan",
     "state":"ne"
 },
   "bbox": [

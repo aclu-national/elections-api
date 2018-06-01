@@ -6,6 +6,7 @@
     "area_water":73093229,
     "geoid":"08011",
     "name":"Bent",
+    "ocd_id":"ocd-division/country:us/state:co/county:bent",
     "state":"co"
 },
   "bbox": [

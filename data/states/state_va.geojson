@@ -6,6 +6,7 @@
     "area_water":8532012665,
     "geoid":"51",
     "name":"Virginia",
+    "ocd_id":"ocd-division/country:us/state:va",
     "state":"va"
 },
   "bbox": [

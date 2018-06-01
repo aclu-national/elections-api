@@ -6,6 +6,7 @@
     "area_water":27882017,
     "geoid":"21105",
     "name":"Hickman",
+    "ocd_id":"ocd-division/country:us/state:ky/county:hickman",
     "state":"ky"
 },
   "bbox": [

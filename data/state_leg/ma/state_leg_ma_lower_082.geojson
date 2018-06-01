@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"25082",
     "name":"14th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:82",
     "state":"ma"
 },
   "bbox": [

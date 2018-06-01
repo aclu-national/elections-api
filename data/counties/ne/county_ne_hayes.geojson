@@ -6,6 +6,7 @@
     "area_water":570786,
     "geoid":"31085",
     "name":"Hayes",
+    "ocd_id":"ocd-division/country:us/state:ne/county:hayes",
     "state":"ne"
 },
   "bbox": [

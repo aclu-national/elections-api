@@ -6,6 +6,7 @@
     "area_water":10596946,
     "geoid":"48135",
     "name":"Ector",
+    "ocd_id":"ocd-division/country:us/state:tx/county:ector",
     "state":"tx"
 },
   "bbox": [

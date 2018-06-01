@@ -6,6 +6,7 @@
     "area_water":35055663,
     "geoid":"36101",
     "name":"Steuben",
+    "ocd_id":"ocd-division/country:us/state:ny/county:steuben",
     "state":"ny"
 },
   "bbox": [

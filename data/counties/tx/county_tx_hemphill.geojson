@@ -6,6 +6,7 @@
     "area_water":15205585,
     "geoid":"48211",
     "name":"Hemphill",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hemphill",
     "state":"tx"
 },
   "bbox": [

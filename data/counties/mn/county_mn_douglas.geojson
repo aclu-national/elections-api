@@ -6,6 +6,7 @@
     "area_water":215604217,
     "geoid":"27041",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:mn/county:douglas",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"24006",
     "name":"State Legislative District 6",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:6",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":17119867,
     "geoid":"29165",
     "name":"Platte",
+    "ocd_id":"ocd-division/country:us/state:mo/county:platte",
     "state":"mo"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"152",
     "geoid":"42152",
     "name":"State House District 152",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:152",
     "state":"pa"
 },
   "bbox": [

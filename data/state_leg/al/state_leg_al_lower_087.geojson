@@ -8,6 +8,7 @@
     "district_num":"087",
     "geoid":"01087",
     "name":"State House District 87",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:87",
     "state":"al"
 },
   "bbox": [

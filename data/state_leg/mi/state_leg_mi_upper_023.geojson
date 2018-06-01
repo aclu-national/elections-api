@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"26023",
     "name":"State Senate District 23",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:23",
     "state":"mi"
 },
   "bbox": [

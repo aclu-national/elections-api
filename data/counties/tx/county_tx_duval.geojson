@@ -6,6 +6,7 @@
     "area_water":5478267,
     "geoid":"48131",
     "name":"Duval",
+    "ocd_id":"ocd-division/country:us/state:tx/county:duval",
     "state":"tx"
 },
   "bbox": [

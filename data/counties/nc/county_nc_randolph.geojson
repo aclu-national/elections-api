@@ -6,6 +6,7 @@
     "area_water":19822770,
     "geoid":"37151",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:nc/county:randolph",
     "state":"nc"
 },
   "bbox": [

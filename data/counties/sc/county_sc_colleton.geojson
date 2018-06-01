@@ -6,6 +6,7 @@
     "area_water":198896760,
     "geoid":"45029",
     "name":"Colleton",
+    "ocd_id":"ocd-division/country:us/state:sc/county:colleton",
     "state":"sc"
 },
   "bbox": [

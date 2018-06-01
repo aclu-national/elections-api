@@ -6,6 +6,7 @@
     "area_water":40784329,
     "geoid":"19115",
     "name":"Louisa",
+    "ocd_id":"ocd-division/country:us/state:ia/county:louisa",
     "state":"ia"
 },
   "bbox": [

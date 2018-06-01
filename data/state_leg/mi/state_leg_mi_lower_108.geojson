@@ -8,6 +8,7 @@
     "district_num":"108",
     "geoid":"26108",
     "name":"State House District 108",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:108",
     "state":"mi"
 },
   "bbox": [

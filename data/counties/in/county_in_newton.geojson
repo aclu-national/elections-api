@@ -6,6 +6,7 @@
     "area_water":4349506,
     "geoid":"18111",
     "name":"Newton",
+    "ocd_id":"ocd-division/country:us/state:in/county:newton",
     "state":"in"
 },
   "bbox": [

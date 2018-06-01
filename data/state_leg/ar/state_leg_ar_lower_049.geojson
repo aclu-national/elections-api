@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"05049",
     "name":"State House District 49",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:49",
     "state":"ar"
 },
   "bbox": [

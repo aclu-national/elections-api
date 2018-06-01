@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"32009",
     "name":"State Senate District 9",
+    "ocd_id":"ocd-division/country:us/state:nv/sldu:9",
     "state":"nv"
 },
   "bbox": [

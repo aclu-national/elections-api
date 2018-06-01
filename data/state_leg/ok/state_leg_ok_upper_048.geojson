@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"40048",
     "name":"State Senate District 48",
+    "ocd_id":"ocd-division/country:us/state:ok/sldu:48",
     "state":"ok"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":27514921,
     "geoid":"05079",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:ar/county:lincoln",
     "state":"ar"
 },
   "bbox": [

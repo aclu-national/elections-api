@@ -6,6 +6,7 @@
     "area_water":2597996,
     "geoid":"19001",
     "name":"Adair",
+    "ocd_id":"ocd-division/country:us/state:ia/county:adair",
     "state":"ia"
 },
   "bbox": [

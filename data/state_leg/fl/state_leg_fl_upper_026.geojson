@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"12026",
     "name":"State Senate District 26",
+    "ocd_id":"ocd-division/country:us/state:fl/sldu:26",
     "state":"fl"
 },
   "bbox": [

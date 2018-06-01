@@ -6,6 +6,7 @@
     "area_water":1323452846,
     "geoid":"44",
     "name":"Rhode Island",
+    "ocd_id":"ocd-division/country:us/state:ri",
     "state":"ri"
 },
   "bbox": [

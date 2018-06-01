@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"29080",
     "name":"State House District 80",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:80",
     "state":"mo"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"47005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:tn/sldu:5",
     "state":"tn"
 },
   "bbox": [

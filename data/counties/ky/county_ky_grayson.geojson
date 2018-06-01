@@ -6,6 +6,7 @@
     "area_water":31853979,
     "geoid":"21085",
     "name":"Grayson",
+    "ocd_id":"ocd-division/country:us/state:ky/county:grayson",
     "state":"ky"
 },
   "bbox": [

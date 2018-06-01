@@ -6,6 +6,7 @@
     "area_water":1379206478,
     "geoid":"12086",
     "name":"Miami-Dade",
+    "ocd_id":"ocd-division/country:us/state:fl/county:miami_dade",
     "state":"fl"
 },
   "bbox": [

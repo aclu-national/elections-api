@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"31049",
     "name":"State Senate District 49",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:49",
     "state":"ne"
 },
   "bbox": [

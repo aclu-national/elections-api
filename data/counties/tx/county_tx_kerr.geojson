@@ -6,6 +6,7 @@
     "area_water":10246419,
     "geoid":"48265",
     "name":"Kerr",
+    "ocd_id":"ocd-division/country:us/state:tx/county:kerr",
     "state":"tx"
 },
   "bbox": [

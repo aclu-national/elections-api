@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"48102",
     "name":"State House District 102",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:102",
     "state":"tx"
 },
   "bbox": [

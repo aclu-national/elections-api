@@ -8,6 +8,7 @@
     "district_num":"070",
     "geoid":"18070",
     "name":"State House District 70",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:70",
     "state":"in"
 },
   "bbox": [

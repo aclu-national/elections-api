@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"24008",
     "name":"State Legislative District 8",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:8",
     "state":"md"
 },
   "bbox": [

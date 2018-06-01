@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"06046",
     "name":"Assembly District 46",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:46",
     "state":"ca"
 },
   "bbox": [

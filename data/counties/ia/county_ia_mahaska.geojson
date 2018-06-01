@@ -6,6 +6,7 @@
     "area_water":6564804,
     "geoid":"19123",
     "name":"Mahaska",
+    "ocd_id":"ocd-division/country:us/state:ia/county:mahaska",
     "state":"ia"
 },
   "bbox": [

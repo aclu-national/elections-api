@@ -6,6 +6,7 @@
     "area_water":611960906,
     "geoid":"48245",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:tx/county:jefferson",
     "state":"tx"
 },
   "bbox": [

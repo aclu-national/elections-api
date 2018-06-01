@@ -6,6 +6,7 @@
     "area_water":12132094,
     "geoid":"47149",
     "name":"Rutherford",
+    "ocd_id":"ocd-division/country:us/state:tn/county:rutherford",
     "state":"tn"
 },
   "bbox": [

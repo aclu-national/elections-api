@@ -6,6 +6,7 @@
     "area_water":5480741,
     "geoid":"21013",
     "name":"Bell",
+    "ocd_id":"ocd-division/country:us/state:ky/county:bell",
     "state":"ky"
 },
   "bbox": [

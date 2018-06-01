@@ -6,6 +6,7 @@
     "area_water":13955950,
     "geoid":"46027",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:sd/county:clay",
     "state":"sd"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"42043",
     "name":"State Senate District 43",
+    "ocd_id":"ocd-division/country:us/state:pa/sldu:43",
     "state":"pa"
 },
   "bbox": [

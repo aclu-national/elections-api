@@ -6,6 +6,7 @@
     "area_water":19323570,
     "geoid":"27105",
     "name":"Nobles",
+    "ocd_id":"ocd-division/country:us/state:mn/county:nobles",
     "state":"mn"
 },
   "bbox": [

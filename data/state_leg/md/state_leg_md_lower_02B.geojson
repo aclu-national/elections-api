@@ -8,6 +8,7 @@
     "district_num":"02B",
     "geoid":"2402B",
     "name":"State Legislative Subdistrict 2B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:2",
     "state":"md"
 },
   "bbox": [

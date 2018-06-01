@@ -6,6 +6,7 @@
     "area_water":18703959,
     "geoid":"05147",
     "name":"Woodruff",
+    "ocd_id":"ocd-division/country:us/state:ar/county:woodruff",
     "state":"ar"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"29005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:mo/sldu:5",
     "state":"mo"
 },
   "bbox": [

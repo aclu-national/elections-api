@@ -8,6 +8,7 @@
     "district_num":"047",
     "geoid":"28047",
     "name":"State House District 47",
+    "ocd_id":"ocd-division/country:us/state:ms/sldl:47",
     "state":"ms"
 },
   "bbox": [

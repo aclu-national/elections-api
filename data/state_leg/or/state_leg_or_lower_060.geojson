@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"41060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:60",
     "state":"or"
 },
   "bbox": [

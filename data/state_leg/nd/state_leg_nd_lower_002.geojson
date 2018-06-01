@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"38002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:2",
     "state":"nd"
 },
   "bbox": [

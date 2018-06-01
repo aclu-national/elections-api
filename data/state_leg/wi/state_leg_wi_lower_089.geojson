@@ -8,6 +8,7 @@
     "district_num":"089",
     "geoid":"55089",
     "name":"Assembly District 89",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:89",
     "state":"wi"
 },
   "bbox": [

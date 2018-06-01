@@ -6,6 +6,7 @@
     "area_water":495578435,
     "geoid":"12017",
     "name":"Citrus",
+    "ocd_id":"ocd-division/country:us/state:fl/county:citrus",
     "state":"fl"
 },
   "bbox": [

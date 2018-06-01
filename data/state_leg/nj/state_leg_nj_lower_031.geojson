@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"34031",
     "name":"General Assembly District 31",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:31",
     "state":"nj"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":822557348,
     "geoid":"06073",
     "name":"San Diego",
+    "ocd_id":"ocd-division/country:us/state:ca/county:san_diego",
     "state":"ca"
 },
   "bbox": [

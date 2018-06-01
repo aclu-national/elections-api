@@ -6,6 +6,7 @@
     "area_water":5437237,
     "geoid":"54071",
     "name":"Pendleton",
+    "ocd_id":"ocd-division/country:us/state:wv/county:pendleton",
     "state":"wv"
 },
   "bbox": [

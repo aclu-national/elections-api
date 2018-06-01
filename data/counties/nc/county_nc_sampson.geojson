@@ -6,6 +6,7 @@
     "area_water":4923826,
     "geoid":"37163",
     "name":"Sampson",
+    "ocd_id":"ocd-division/country:us/state:nc/county:sampson",
     "state":"nc"
 },
   "bbox": [

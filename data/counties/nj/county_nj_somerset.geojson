@@ -6,6 +6,7 @@
     "area_water":8009303,
     "geoid":"34035",
     "name":"Somerset",
+    "ocd_id":"ocd-division/country:us/state:nj/county:somerset",
     "state":"nj"
 },
   "bbox": [

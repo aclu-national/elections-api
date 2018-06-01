@@ -6,6 +6,7 @@
     "area_water":306053086,
     "geoid":"12011",
     "name":"Broward",
+    "ocd_id":"ocd-division/country:us/state:fl/county:broward",
     "state":"fl"
 },
   "bbox": [

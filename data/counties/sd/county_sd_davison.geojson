@@ -6,6 +6,7 @@
     "area_water":3675453,
     "geoid":"46035",
     "name":"Davison",
+    "ocd_id":"ocd-division/country:us/state:sd/county:davison",
     "state":"sd"
 },
   "bbox": [

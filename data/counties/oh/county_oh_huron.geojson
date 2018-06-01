@@ -6,6 +6,7 @@
     "area_water":8615925,
     "geoid":"39077",
     "name":"Huron",
+    "ocd_id":"ocd-division/country:us/state:oh/county:huron",
     "state":"oh"
 },
   "bbox": [

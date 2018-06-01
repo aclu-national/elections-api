@@ -6,6 +6,7 @@
     "area_water":13609414,
     "geoid":"20037",
     "name":"Crawford",
+    "ocd_id":"ocd-division/country:us/state:ks/county:crawford",
     "state":"ks"
 },
   "bbox": [

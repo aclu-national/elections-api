@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"20034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:34",
     "state":"ks"
 },
   "bbox": [

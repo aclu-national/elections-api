@@ -6,6 +6,7 @@
     "area_water":7000199770,
     "geoid":"49",
     "name":"Utah",
+    "ocd_id":"ocd-division/country:us/state:ut",
     "state":"ut"
 },
   "bbox": [

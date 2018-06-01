@@ -6,6 +6,7 @@
     "area_water":36610530,
     "geoid":"39041",
     "name":"Delaware",
+    "ocd_id":"ocd-division/country:us/state:oh/county:delaware",
     "state":"oh"
 },
   "bbox": [

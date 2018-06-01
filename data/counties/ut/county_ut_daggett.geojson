@@ -6,6 +6,7 @@
     "area_water":61230035,
     "geoid":"49009",
     "name":"Daggett",
+    "ocd_id":"ocd-division/country:us/state:ut/county:daggett",
     "state":"ut"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5760770,
     "geoid":"19011",
     "name":"Benton",
+    "ocd_id":"ocd-division/country:us/state:ia/county:benton",
     "state":"ia"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":10978000,
     "geoid":"38087",
     "name":"Slope",
+    "ocd_id":"ocd-division/country:us/state:nd/county:slope",
     "state":"nd"
 },
   "bbox": [

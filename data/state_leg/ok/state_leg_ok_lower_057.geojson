@@ -8,6 +8,7 @@
     "district_num":"057",
     "geoid":"40057",
     "name":"State House District 57",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:57",
     "state":"ok"
 },
   "bbox": [

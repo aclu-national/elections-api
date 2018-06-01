@@ -6,6 +6,7 @@
     "area_water":30717815,
     "geoid":"29095",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:mo/county:jackson",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5930177,
     "geoid":"05101",
     "name":"Newton",
+    "ocd_id":"ocd-division/country:us/state:ar/county:newton",
     "state":"ar"
 },
   "bbox": [

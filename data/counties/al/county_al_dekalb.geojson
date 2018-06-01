@@ -6,6 +6,7 @@
     "area_water":4121538,
     "geoid":"01049",
     "name":"DeKalb",
+    "ocd_id":"ocd-division/country:us/state:al/county:dekalb",
     "state":"al"
 },
   "bbox": [

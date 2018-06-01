@@ -6,6 +6,7 @@
     "area_water":708705,
     "geoid":"17175",
     "name":"Stark",
+    "ocd_id":"ocd-division/country:us/state:il/county:stark",
     "state":"il"
 },
   "bbox": [

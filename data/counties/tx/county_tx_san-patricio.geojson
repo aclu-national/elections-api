@@ -6,6 +6,7 @@
     "area_water":37577388,
     "geoid":"48409",
     "name":"San Patricio",
+    "ocd_id":"ocd-division/country:us/state:tx/county:san_patricio",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":21045380,
     "geoid":"39055",
     "name":"Geauga",
+    "ocd_id":"ocd-division/country:us/state:oh/county:geauga",
     "state":"oh"
 },
   "bbox": [

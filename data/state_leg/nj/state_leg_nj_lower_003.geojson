@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"34003",
     "name":"General Assembly District 3",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:3",
     "state":"nj"
 },
   "bbox": [

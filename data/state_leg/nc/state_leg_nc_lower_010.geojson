@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"37010",
     "name":"State House District 10",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:10",
     "state":"nc"
 },
   "bbox": [

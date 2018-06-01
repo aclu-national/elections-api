@@ -6,6 +6,7 @@
     "area_water":6566402,
     "geoid":"18119",
     "name":"Owen",
+    "ocd_id":"ocd-division/country:us/state:in/county:owen",
     "state":"in"
 },
   "bbox": [

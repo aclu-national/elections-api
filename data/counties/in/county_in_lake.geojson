@@ -6,6 +6,7 @@
     "area_water":330971523,
     "geoid":"18089",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:in/county:lake",
     "state":"in"
 },
   "bbox": [

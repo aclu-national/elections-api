@@ -6,6 +6,7 @@
     "area_water":24080933,
     "geoid":"46047",
     "name":"Fall River",
+    "ocd_id":"ocd-division/country:us/state:sd/county:fall_river",
     "state":"sd"
 },
   "bbox": [

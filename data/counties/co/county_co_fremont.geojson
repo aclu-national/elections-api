@@ -6,6 +6,7 @@
     "area_water":2235374,
     "geoid":"08043",
     "name":"Fremont",
+    "ocd_id":"ocd-division/country:us/state:co/county:fremont",
     "state":"co"
 },
   "bbox": [

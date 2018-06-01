@@ -8,6 +8,7 @@
     "district_num":"055",
     "geoid":"56055",
     "name":"State House District 55",
+    "ocd_id":"ocd-division/country:us/state:wy/sldl:55",
     "state":"wy"
 },
   "bbox": [

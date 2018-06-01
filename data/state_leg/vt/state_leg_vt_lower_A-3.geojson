@@ -8,6 +8,7 @@
     "district_num":"A-3",
     "geoid":"50A-3",
     "name":"Addison-3 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:A-3",
     "state":"vt"
 },
   "bbox": [

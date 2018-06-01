@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"72005",
     "name":"State Senate District V",
+    "ocd_id":"ocd-division/country:us/state:pr/sldu:5",
     "state":"pr"
 },
   "bbox": [

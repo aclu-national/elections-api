@@ -6,6 +6,7 @@
     "area_water":95089229,
     "geoid":"51095",
     "name":"James City",
+    "ocd_id":"ocd-division/country:us/state:va/county:james_city",
     "state":"va"
 },
   "bbox": [

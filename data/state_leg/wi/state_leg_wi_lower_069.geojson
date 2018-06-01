@@ -8,6 +8,7 @@
     "district_num":"069",
     "geoid":"55069",
     "name":"Assembly District 69",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:69",
     "state":"wi"
 },
   "bbox": [

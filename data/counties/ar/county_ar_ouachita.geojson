@@ -6,6 +6,7 @@
     "area_water":18050431,
     "geoid":"05103",
     "name":"Ouachita",
+    "ocd_id":"ocd-division/country:us/state:ar/county:ouachita",
     "state":"ar"
 },
   "bbox": [

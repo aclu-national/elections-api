@@ -6,6 +6,7 @@
     "area_water":30527401,
     "geoid":"51083",
     "name":"Halifax",
+    "ocd_id":"ocd-division/country:us/state:va/county:halifax",
     "state":"va"
 },
   "bbox": [

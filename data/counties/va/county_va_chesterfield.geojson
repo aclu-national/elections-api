@@ -6,6 +6,7 @@
     "area_water":35123317,
     "geoid":"51041",
     "name":"Chesterfield",
+    "ocd_id":"ocd-division/country:us/state:va/county:chesterfield",
     "state":"va"
 },
   "bbox": [

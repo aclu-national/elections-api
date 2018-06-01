@@ -6,6 +6,7 @@
     "area_water":46525649,
     "geoid":"25015",
     "name":"Hampshire",
+    "ocd_id":"ocd-division/country:us/state:ma/county:hampshire",
     "state":"ma"
 },
   "bbox": [

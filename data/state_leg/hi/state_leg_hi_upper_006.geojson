@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"15006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:hi/sldu:6",
     "state":"hi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"42009",
     "name":"State Senate District 9",
+    "ocd_id":"ocd-division/country:us/state:pa/sldu:9",
     "state":"pa"
 },
   "bbox": [

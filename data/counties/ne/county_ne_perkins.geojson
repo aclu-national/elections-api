@@ -6,6 +6,7 @@
     "area_water":2840176,
     "geoid":"31135",
     "name":"Perkins",
+    "ocd_id":"ocd-division/country:us/state:ne/county:perkins",
     "state":"ne"
 },
   "bbox": [

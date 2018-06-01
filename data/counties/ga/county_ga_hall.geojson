@@ -6,6 +6,7 @@
     "area_water":94061469,
     "geoid":"13139",
     "name":"Hall",
+    "ocd_id":"ocd-division/country:us/state:ga/county:hall",
     "state":"ga"
 },
   "bbox": [

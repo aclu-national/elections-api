@@ -6,6 +6,7 @@
     "area_water":14842439,
     "geoid":"40125",
     "name":"Pottawatomie",
+    "ocd_id":"ocd-division/country:us/state:ok/county:pottawatomie",
     "state":"ok"
 },
   "bbox": [

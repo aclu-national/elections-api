@@ -6,6 +6,7 @@
     "area_water":28676624,
     "geoid":"46135",
     "name":"Yankton",
+    "ocd_id":"ocd-division/country:us/state:sd/county:yankton",
     "state":"sd"
 },
   "bbox": [

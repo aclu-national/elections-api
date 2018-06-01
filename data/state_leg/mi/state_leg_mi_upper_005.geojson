@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"26005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:5",
     "state":"mi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"094",
     "geoid":"05094",
     "name":"State House District 94",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:94",
     "state":"ar"
 },
   "bbox": [

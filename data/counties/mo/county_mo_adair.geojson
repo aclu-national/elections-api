@@ -6,6 +6,7 @@
     "area_water":5468507,
     "geoid":"29001",
     "name":"Adair",
+    "ocd_id":"ocd-division/country:us/state:mo/county:adair",
     "state":"mo"
 },
   "bbox": [

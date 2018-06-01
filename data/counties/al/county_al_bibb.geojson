@@ -6,6 +6,7 @@
     "area_water":9603798,
     "geoid":"01007",
     "name":"Bibb",
+    "ocd_id":"ocd-division/country:us/state:al/county:bibb",
     "state":"al"
 },
   "bbox": [

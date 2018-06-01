@@ -8,6 +8,7 @@
     "district_num":"CHI",
     "geoid":"50CHI",
     "name":"Chittenden State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:CHI",
     "state":"vt"
 },
   "bbox": [

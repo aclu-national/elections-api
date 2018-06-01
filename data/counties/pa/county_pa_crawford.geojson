@@ -6,6 +6,7 @@
     "area_water":65303124,
     "geoid":"42039",
     "name":"Crawford",
+    "ocd_id":"ocd-division/country:us/state:pa/county:crawford",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12768607553,
     "geoid":"02050",
     "name":"Bethel",
+    "ocd_id":"ocd-division/country:us/state:ak/county:bethel",
     "state":"ak"
 },
   "bbox": [

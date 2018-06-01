@@ -6,6 +6,7 @@
     "area_water":25260282,
     "geoid":"18129",
     "name":"Posey",
+    "ocd_id":"ocd-division/country:us/state:in/county:posey",
     "state":"in"
 },
   "bbox": [

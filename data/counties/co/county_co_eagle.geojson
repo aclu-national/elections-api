@@ -6,6 +6,7 @@
     "area_water":18920534,
     "geoid":"08037",
     "name":"Eagle",
+    "ocd_id":"ocd-division/country:us/state:co/county:eagle",
     "state":"co"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":119702920,
     "geoid":"01019",
     "name":"Cherokee",
+    "ocd_id":"ocd-division/country:us/state:al/county:cherokee",
     "state":"al"
 },
   "bbox": [

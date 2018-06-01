@@ -8,6 +8,7 @@
     "district_num":"OR2",
     "geoid":"50OR2",
     "name":"Orange-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:OR2",
     "state":"vt"
 },
   "bbox": [

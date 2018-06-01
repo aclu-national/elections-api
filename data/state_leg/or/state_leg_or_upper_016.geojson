@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"41016",
     "name":"State Senate District 16",
+    "ocd_id":"ocd-division/country:us/state:or/sldu:16",
     "state":"or"
 },
   "bbox": [

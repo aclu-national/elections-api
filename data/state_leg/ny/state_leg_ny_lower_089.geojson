@@ -8,6 +8,7 @@
     "district_num":"089",
     "geoid":"36089",
     "name":"Assembly District 89",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:89",
     "state":"ny"
 },
   "bbox": [

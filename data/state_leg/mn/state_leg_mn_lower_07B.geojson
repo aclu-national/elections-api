@@ -8,6 +8,7 @@
     "district_num":"07B",
     "geoid":"2707B",
     "name":"State House District 7B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:7",
     "state":"mn"
 },
   "bbox": [

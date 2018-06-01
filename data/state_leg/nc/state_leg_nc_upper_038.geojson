@@ -8,6 +8,7 @@
     "district_num":"038",
     "geoid":"37038",
     "name":"State Senate District 38",
+    "ocd_id":"ocd-division/country:us/state:nc/sldu:38",
     "state":"nc"
 },
   "bbox": [

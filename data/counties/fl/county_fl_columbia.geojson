@@ -6,6 +6,7 @@
     "area_water":9773963,
     "geoid":"12023",
     "name":"Columbia",
+    "ocd_id":"ocd-division/country:us/state:fl/county:columbia",
     "state":"fl"
 },
   "bbox": [

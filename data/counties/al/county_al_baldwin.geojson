@@ -6,6 +6,7 @@
     "area_water":1133109409,
     "geoid":"01003",
     "name":"Baldwin",
+    "ocd_id":"ocd-division/country:us/state:al/county:baldwin",
     "state":"al"
 },
   "bbox": [

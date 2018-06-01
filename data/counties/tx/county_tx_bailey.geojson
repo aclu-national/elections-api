@@ -6,6 +6,7 @@
     "area_water":1775275,
     "geoid":"48017",
     "name":"Bailey",
+    "ocd_id":"ocd-division/country:us/state:tx/county:bailey",
     "state":"tx"
 },
   "bbox": [

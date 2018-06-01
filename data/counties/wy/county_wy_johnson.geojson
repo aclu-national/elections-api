@@ -6,6 +6,7 @@
     "area_water":52947545,
     "geoid":"56019",
     "name":"Johnson",
+    "ocd_id":"ocd-division/country:us/state:wy/county:johnson",
     "state":"wy"
 },
   "bbox": [

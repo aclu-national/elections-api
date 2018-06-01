@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"47063",
     "name":"State House District 63",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:63",
     "state":"tn"
 },
   "bbox": [

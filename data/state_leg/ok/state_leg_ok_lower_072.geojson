@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"40072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:72",
     "state":"ok"
 },
   "bbox": [

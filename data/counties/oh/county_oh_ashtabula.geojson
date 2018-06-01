@@ -6,6 +6,7 @@
     "area_water":1724498213,
     "geoid":"39007",
     "name":"Ashtabula",
+    "ocd_id":"ocd-division/country:us/state:oh/county:ashtabula",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":120315319,
     "geoid":"05017",
     "name":"Chicot",
+    "ocd_id":"ocd-division/country:us/state:ar/county:chicot",
     "state":"ar"
 },
   "bbox": [

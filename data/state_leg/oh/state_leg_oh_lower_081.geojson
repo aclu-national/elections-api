@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"39081",
     "name":"State House District 81",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:81",
     "state":"oh"
 },
   "bbox": [

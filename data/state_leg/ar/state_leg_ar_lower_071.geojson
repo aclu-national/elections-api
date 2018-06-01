@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"05071",
     "name":"State House District 71",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:71",
     "state":"ar"
 },
   "bbox": [

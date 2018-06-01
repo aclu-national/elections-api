@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"24014",
     "name":"State Legislative District 14",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:14",
     "state":"md"
 },
   "bbox": [

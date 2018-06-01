@@ -8,6 +8,7 @@
     "district_num":"LM1",
     "geoid":"50LM1",
     "name":"Lamoille-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:LM1",
     "state":"vt"
 },
   "bbox": [

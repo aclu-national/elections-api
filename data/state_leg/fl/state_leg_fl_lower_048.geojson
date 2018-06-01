@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"12048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:48",
     "state":"fl"
 },
   "bbox": [

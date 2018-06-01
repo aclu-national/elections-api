@@ -8,6 +8,7 @@
     "district_num":"26A",
     "geoid":"4626A",
     "name":"State House District 26A",
+    "ocd_id":"ocd-division/country:us/state:sd/sldl:26A",
     "state":"sd"
 },
   "bbox": [

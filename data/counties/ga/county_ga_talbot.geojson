@@ -6,6 +6,7 @@
     "area_water":8766849,
     "geoid":"13263",
     "name":"Talbot",
+    "ocd_id":"ocd-division/country:us/state:ga/county:talbot",
     "state":"ga"
 },
   "bbox": [

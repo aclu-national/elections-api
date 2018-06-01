@@ -6,6 +6,7 @@
     "area_water":164384696,
     "geoid":"46119",
     "name":"Sully",
+    "ocd_id":"ocd-division/country:us/state:sd/county:sully",
     "state":"sd"
 },
   "bbox": [

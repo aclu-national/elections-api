@@ -6,6 +6,7 @@
     "area_water":43387485,
     "geoid":"05019",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:ar/county:clark",
     "state":"ar"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"48A",
     "geoid":"2748A",
     "name":"State House District 48A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:48A",
     "state":"mn"
 },
   "bbox": [

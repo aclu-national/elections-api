@@ -8,6 +8,7 @@
     "district_num":"128",
     "geoid":"42128",
     "name":"State House District 128",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:128",
     "state":"pa"
 },
   "bbox": [

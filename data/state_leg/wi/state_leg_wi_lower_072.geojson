@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"55072",
     "name":"Assembly District 72",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:72",
     "state":"wi"
 },
   "bbox": [

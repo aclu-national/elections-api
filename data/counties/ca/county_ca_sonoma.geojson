@@ -6,6 +6,7 @@
     "area_water":497495823,
     "geoid":"06097",
     "name":"Sonoma",
+    "ocd_id":"ocd-division/country:us/state:ca/county:sonoma",
     "state":"ca"
 },
   "bbox": [

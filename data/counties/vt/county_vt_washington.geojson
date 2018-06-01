@@ -6,6 +6,7 @@
     "area_water":21184426,
     "geoid":"50023",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:vt/county:washington",
     "state":"vt"
 },
   "bbox": [

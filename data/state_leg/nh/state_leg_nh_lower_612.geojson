@@ -8,6 +8,7 @@
     "district_num":"612",
     "geoid":"33612",
     "name":"State House District Merrimack County No. 12",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:612",
     "state":"nh"
 },
   "bbox": [

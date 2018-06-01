@@ -6,6 +6,7 @@
     "area_water":556134,
     "geoid":"48109",
     "name":"Culberson",
+    "ocd_id":"ocd-division/country:us/state:tx/county:culberson",
     "state":"tx"
 },
   "bbox": [

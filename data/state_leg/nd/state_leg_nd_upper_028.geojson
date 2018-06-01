@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"38028",
     "name":"State Senate District 28",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:28",
     "state":"nd"
 },
   "bbox": [

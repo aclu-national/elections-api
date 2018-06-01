@@ -6,6 +6,7 @@
     "area_water":4592944701,
     "geoid":"01",
     "name":"Alabama",
+    "ocd_id":"ocd-division/country:us/state:al",
     "state":"al"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"06010",
     "name":"Assembly District 10",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:10",
     "state":"ca"
 },
   "bbox": [

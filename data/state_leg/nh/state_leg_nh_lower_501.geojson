@@ -8,6 +8,7 @@
     "district_num":"501",
     "geoid":"33501",
     "name":"State House District Hillsborough County No. 1",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:501",
     "state":"nh"
 },
   "bbox": [

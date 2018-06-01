@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"51001",
     "name":"State Senate District 1",
+    "ocd_id":"ocd-division/country:us/state:va/sldu:1",
     "state":"va"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"088",
     "geoid":"13088",
     "name":"State House District 88",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:88",
     "state":"ga"
 },
   "bbox": [

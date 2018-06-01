@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"25037",
     "name":"First Bristol & Plymouth District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:37",
     "state":"ma"
 },
   "bbox": [

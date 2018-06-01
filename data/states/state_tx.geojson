@@ -6,6 +6,7 @@
     "area_water":19017521093,
     "geoid":"48",
     "name":"Texas",
+    "ocd_id":"ocd-division/country:us/state:tx",
     "state":"tx"
 },
   "bbox": [

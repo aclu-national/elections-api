@@ -6,6 +6,7 @@
     "area_water":43719396,
     "geoid":"37047",
     "name":"Columbus",
+    "ocd_id":"ocd-division/country:us/state:nc/county:columbus",
     "state":"nc"
 },
   "bbox": [

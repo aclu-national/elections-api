@@ -6,6 +6,7 @@
     "area_water":11266164,
     "geoid":"39003",
     "name":"Allen",
+    "ocd_id":"ocd-division/country:us/state:oh/county:allen",
     "state":"oh"
 },
   "bbox": [

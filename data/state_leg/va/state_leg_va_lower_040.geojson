@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"51040",
     "name":"State House District 40",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:40",
     "state":"va"
 },
   "bbox": [

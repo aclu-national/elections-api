@@ -6,6 +6,7 @@
     "area_water":4789586,
     "geoid":"05055",
     "name":"Greene",
+    "ocd_id":"ocd-division/country:us/state:ar/county:greene",
     "state":"ar"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2341447,
     "geoid":"47053",
     "name":"Gibson",
+    "ocd_id":"ocd-division/country:us/state:tn/county:gibson",
     "state":"tn"
 },
   "bbox": [

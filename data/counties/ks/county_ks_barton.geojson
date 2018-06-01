@@ -6,6 +6,7 @@
     "area_water":13913626,
     "geoid":"20009",
     "name":"Barton",
+    "ocd_id":"ocd-division/country:us/state:ks/county:barton",
     "state":"ks"
 },
   "bbox": [

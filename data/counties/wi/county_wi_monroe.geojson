@@ -6,6 +6,7 @@
     "area_water":18589237,
     "geoid":"55081",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:wi/county:monroe",
     "state":"wi"
 },
   "bbox": [

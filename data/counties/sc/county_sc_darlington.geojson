@@ -6,6 +6,7 @@
     "area_water":14647308,
     "geoid":"45031",
     "name":"Darlington",
+    "ocd_id":"ocd-division/country:us/state:sc/county:darlington",
     "state":"sc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"34029",
     "name":"General Assembly District 29",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:29",
     "state":"nj"
 },
   "bbox": [

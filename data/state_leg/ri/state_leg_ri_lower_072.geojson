@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"44072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:72",
     "state":"ri"
 },
   "bbox": [

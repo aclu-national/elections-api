@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"20106",
     "name":"State House District 106",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:106",
     "state":"ks"
 },
   "bbox": [

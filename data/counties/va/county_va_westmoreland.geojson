@@ -6,6 +6,7 @@
     "area_water":61106324,
     "geoid":"51193",
     "name":"Westmoreland",
+    "ocd_id":"ocd-division/country:us/state:va/county:westmoreland",
     "state":"va"
 },
   "bbox": [

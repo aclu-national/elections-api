@@ -6,6 +6,7 @@
     "area_water":745420669,
     "geoid":"06049",
     "name":"Modoc",
+    "ocd_id":"ocd-division/country:us/state:ca/county:modoc",
     "state":"ca"
 },
   "bbox": [

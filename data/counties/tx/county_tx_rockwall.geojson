@@ -6,6 +6,7 @@
     "area_water":56076769,
     "geoid":"48397",
     "name":"Rockwall",
+    "ocd_id":"ocd-division/country:us/state:tx/county:rockwall",
     "state":"tx"
 },
   "bbox": [

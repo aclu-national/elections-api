@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"41011",
     "name":"State House District 11",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:11",
     "state":"or"
 },
   "bbox": [

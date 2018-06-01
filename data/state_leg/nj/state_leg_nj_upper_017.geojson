@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"34017",
     "name":"State Senate District 17",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:17",
     "state":"nj"
 },
   "bbox": [

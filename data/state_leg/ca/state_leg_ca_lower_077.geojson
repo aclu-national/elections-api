@@ -8,6 +8,7 @@
     "district_num":"077",
     "geoid":"06077",
     "name":"Assembly District 77",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:77",
     "state":"ca"
 },
   "bbox": [

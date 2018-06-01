@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"18004",
     "name":"State Senate District 4",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:4",
     "state":"in"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"069",
     "geoid":"36069",
     "name":"Assembly District 69",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:69",
     "state":"ny"
 },
   "bbox": [

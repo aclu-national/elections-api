@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"55023",
     "name":"Assembly District 23",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:23",
     "state":"wi"
 },
   "bbox": [

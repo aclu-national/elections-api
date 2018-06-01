@@ -8,6 +8,7 @@
     "district_num":"111",
     "geoid":"42111",
     "name":"State House District 111",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:111",
     "state":"pa"
 },
   "bbox": [

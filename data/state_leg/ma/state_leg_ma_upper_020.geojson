@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"25020",
     "name":"First Essex & Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:20",
     "state":"ma"
 },
   "bbox": [

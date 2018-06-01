@@ -6,6 +6,7 @@
     "area_water":10718576,
     "geoid":"39083",
     "name":"Knox",
+    "ocd_id":"ocd-division/country:us/state:oh/county:knox",
     "state":"oh"
 },
   "bbox": [

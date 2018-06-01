@@ -6,6 +6,7 @@
     "area_water":371063373,
     "geoid":"37133",
     "name":"Onslow",
+    "ocd_id":"ocd-division/country:us/state:nc/county:onslow",
     "state":"nc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":10818164,
     "geoid":"48031",
     "name":"Blanco",
+    "ocd_id":"ocd-division/country:us/state:tx/county:blanco",
     "state":"tx"
 },
   "bbox": [

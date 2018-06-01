@@ -6,6 +6,7 @@
     "area_water":559601970,
     "geoid":"12069",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:fl/county:lake",
     "state":"fl"
 },
   "bbox": [

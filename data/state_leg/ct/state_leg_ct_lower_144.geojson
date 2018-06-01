@@ -8,6 +8,7 @@
     "district_num":"144",
     "geoid":"09144",
     "name":"State House District 144",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:144",
     "state":"ct"
 },
   "bbox": [

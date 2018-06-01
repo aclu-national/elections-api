@@ -6,6 +6,7 @@
     "area_water":6364651,
     "geoid":"51069",
     "name":"Frederick",
+    "ocd_id":"ocd-division/country:us/state:va/county:frederick",
     "state":"va"
 },
   "bbox": [

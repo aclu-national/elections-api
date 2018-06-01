@@ -6,6 +6,7 @@
     "area_water":11275706,
     "geoid":"53003",
     "name":"Asotin",
+    "ocd_id":"ocd-division/country:us/state:wa/county:asotin",
     "state":"wa"
 },
   "bbox": [

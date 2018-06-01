@@ -6,6 +6,7 @@
     "area_water":70496339,
     "geoid":"22015",
     "name":"Bossier",
+    "ocd_id":"ocd-division/country:us/state:la/county:bossier",
     "state":"la"
 },
   "bbox": [

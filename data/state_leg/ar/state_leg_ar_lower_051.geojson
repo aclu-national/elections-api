@@ -8,6 +8,7 @@
     "district_num":"051",
     "geoid":"05051",
     "name":"State House District 51",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:51",
     "state":"ar"
 },
   "bbox": [

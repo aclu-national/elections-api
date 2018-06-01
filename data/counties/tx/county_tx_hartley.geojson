@@ -6,6 +6,7 @@
     "area_water":3023182,
     "geoid":"48205",
     "name":"Hartley",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hartley",
     "state":"tx"
 },
   "bbox": [

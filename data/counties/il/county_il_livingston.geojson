@@ -6,6 +6,7 @@
     "area_water":4401361,
     "geoid":"17105",
     "name":"Livingston",
+    "ocd_id":"ocd-division/country:us/state:il/county:livingston",
     "state":"il"
 },
   "bbox": [

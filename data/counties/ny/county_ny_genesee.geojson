@@ -6,6 +6,7 @@
     "area_water":6142605,
     "geoid":"36037",
     "name":"Genesee",
+    "ocd_id":"ocd-division/country:us/state:ny/county:genesee",
     "state":"ny"
 },
   "bbox": [

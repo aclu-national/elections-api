@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"36034",
     "name":"Assembly District 34",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:34",
     "state":"ny"
 },
   "bbox": [

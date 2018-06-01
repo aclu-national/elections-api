@@ -6,6 +6,7 @@
     "area_water":22829398,
     "geoid":"40147",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ok/county:washington",
     "state":"ok"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":39160685,
     "geoid":"16031",
     "name":"Cassia",
+    "ocd_id":"ocd-division/country:us/state:id/county:cassia",
     "state":"id"
 },
   "bbox": [

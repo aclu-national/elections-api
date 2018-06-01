@@ -6,6 +6,7 @@
     "area_water":387344307,
     "geoid":"04015",
     "name":"Mohave",
+    "ocd_id":"ocd-division/country:us/state:az/county:mohave",
     "state":"az"
 },
   "bbox": [

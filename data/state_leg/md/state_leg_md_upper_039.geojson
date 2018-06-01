@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"24039",
     "name":"State Senate District 39",
+    "ocd_id":"ocd-division/country:us/state:md/sldu:39",
     "state":"md"
 },
   "bbox": [

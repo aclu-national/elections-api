@@ -6,6 +6,7 @@
     "area_water":44122247,
     "geoid":"21111",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:ky/county:jefferson",
     "state":"ky"
 },
   "bbox": [

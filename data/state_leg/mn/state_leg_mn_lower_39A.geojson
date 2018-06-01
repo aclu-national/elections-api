@@ -8,6 +8,7 @@
     "district_num":"39A",
     "geoid":"2739A",
     "name":"State House District 39A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:39A",
     "state":"mn"
 },
   "bbox": [

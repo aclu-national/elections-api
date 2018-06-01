@@ -6,6 +6,7 @@
     "area_water":1139487496,
     "geoid":"36013",
     "name":"Chautauqua",
+    "ocd_id":"ocd-division/country:us/state:ny/county:chautauqua",
     "state":"ny"
 },
   "bbox": [

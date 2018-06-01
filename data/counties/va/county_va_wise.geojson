@@ -6,6 +6,7 @@
     "area_water":5284456,
     "geoid":"51195",
     "name":"Wise",
+    "ocd_id":"ocd-division/country:us/state:va/county:wise",
     "state":"va"
 },
   "bbox": [

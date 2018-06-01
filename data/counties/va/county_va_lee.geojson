@@ -6,6 +6,7 @@
     "area_water":4896872,
     "geoid":"51105",
     "name":"Lee",
+    "ocd_id":"ocd-division/country:us/state:va/county:lee",
     "state":"va"
 },
   "bbox": [

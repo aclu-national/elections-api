@@ -8,6 +8,7 @@
     "district_num":"ZZZ",
     "geoid":"72ZZZ",
     "name":"State House Districts not defined",
+    "ocd_id":"ocd-division/country:us/state:pr/sldl:ZZZ",
     "state":"pr"
 },
   "bbox": [

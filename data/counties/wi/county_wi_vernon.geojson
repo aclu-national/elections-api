@@ -6,6 +6,7 @@
     "area_water":64289523,
     "geoid":"55123",
     "name":"Vernon",
+    "ocd_id":"ocd-division/country:us/state:wi/county:vernon",
     "state":"wi"
 },
   "bbox": [

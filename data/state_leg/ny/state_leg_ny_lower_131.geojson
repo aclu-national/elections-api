@@ -8,6 +8,7 @@
     "district_num":"131",
     "geoid":"36131",
     "name":"Assembly District 131",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:131",
     "state":"ny"
 },
   "bbox": [

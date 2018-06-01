@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"19010",
     "name":"State Senate District 10",
+    "ocd_id":"ocd-division/country:us/state:ia/sldu:10",
     "state":"ia"
 },
   "bbox": [

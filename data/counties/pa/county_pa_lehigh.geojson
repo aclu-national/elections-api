@@ -6,6 +6,7 @@
     "area_water":7898528,
     "geoid":"42077",
     "name":"Lehigh",
+    "ocd_id":"ocd-division/country:us/state:pa/county:lehigh",
     "state":"pa"
 },
   "bbox": [

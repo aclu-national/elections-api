@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"42005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:pa/sldu:5",
     "state":"pa"
 },
   "bbox": [

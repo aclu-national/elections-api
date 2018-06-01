@@ -8,6 +8,7 @@
     "district_num":"09A",
     "geoid":"2409A",
     "name":"State Legislative Subdistrict 9A",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:9",
     "state":"md"
 },
   "bbox": [

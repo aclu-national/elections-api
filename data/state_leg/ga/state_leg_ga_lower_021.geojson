@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"13021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:21",
     "state":"ga"
 },
   "bbox": [

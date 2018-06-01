@@ -6,6 +6,7 @@
     "area_water":6227994,
     "geoid":"48183",
     "name":"Gregg",
+    "ocd_id":"ocd-division/country:us/state:tx/county:gregg",
     "state":"tx"
 },
   "bbox": [

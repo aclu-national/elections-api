@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"06023",
     "name":"Assembly District 23",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:23",
     "state":"ca"
 },
   "bbox": [

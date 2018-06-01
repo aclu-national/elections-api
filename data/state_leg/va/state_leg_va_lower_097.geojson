@@ -8,6 +8,7 @@
     "district_num":"097",
     "geoid":"51097",
     "name":"State House District 97",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:97",
     "state":"va"
 },
   "bbox": [

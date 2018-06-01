@@ -6,6 +6,7 @@
     "area_water":301808,
     "geoid":"08095",
     "name":"Phillips",
+    "ocd_id":"ocd-division/country:us/state:co/county:phillips",
     "state":"co"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":78682797,
     "geoid":"01125",
     "name":"Tuscaloosa",
+    "ocd_id":"ocd-division/country:us/state:al/county:tuscaloosa",
     "state":"al"
 },
   "bbox": [

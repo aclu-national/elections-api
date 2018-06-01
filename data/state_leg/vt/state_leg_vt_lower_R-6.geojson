@@ -8,6 +8,7 @@
     "district_num":"R-6",
     "geoid":"50R-6",
     "name":"Rutland-6 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:R-6",
     "state":"vt"
 },
   "bbox": [

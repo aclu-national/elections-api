@@ -6,6 +6,7 @@
     "area_water":107303299,
     "geoid":"50001",
     "name":"Addison",
+    "ocd_id":"ocd-division/country:us/state:vt/county:addison",
     "state":"vt"
 },
   "bbox": [

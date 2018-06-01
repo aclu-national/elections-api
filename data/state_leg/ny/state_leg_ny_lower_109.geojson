@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"36109",
     "name":"Assembly District 109",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:109",
     "state":"ny"
 },
   "bbox": [

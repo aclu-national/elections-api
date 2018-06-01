@@ -6,6 +6,7 @@
     "area_water":624206,
     "geoid":"48475",
     "name":"Ward",
+    "ocd_id":"ocd-division/country:us/state:tx/county:ward",
     "state":"tx"
 },
   "bbox": [

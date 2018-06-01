@@ -6,6 +6,7 @@
     "area_water":18213565,
     "geoid":"40077",
     "name":"Latimer",
+    "ocd_id":"ocd-division/country:us/state:ok/county:latimer",
     "state":"ok"
 },
   "bbox": [

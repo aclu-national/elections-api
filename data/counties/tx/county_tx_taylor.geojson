@@ -6,6 +6,7 @@
     "area_water":9721167,
     "geoid":"48441",
     "name":"Taylor",
+    "ocd_id":"ocd-division/country:us/state:tx/county:taylor",
     "state":"tx"
 },
   "bbox": [

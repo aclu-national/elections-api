@@ -8,6 +8,7 @@
     "district_num":"182",
     "geoid":"42182",
     "name":"State House District 182",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:182",
     "state":"pa"
 },
   "bbox": [

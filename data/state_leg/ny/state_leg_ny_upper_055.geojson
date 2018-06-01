@@ -8,6 +8,7 @@
     "district_num":"055",
     "geoid":"36055",
     "name":"State Senate District 55",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:55",
     "state":"ny"
 },
   "bbox": [

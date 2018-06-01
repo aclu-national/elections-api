@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"54035",
     "name":"State House District 35",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:35",
     "state":"wv"
 },
   "bbox": [

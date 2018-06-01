@@ -8,6 +8,7 @@
     "district_num":"123",
     "geoid":"36123",
     "name":"Assembly District 123",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:123",
     "state":"ny"
 },
   "bbox": [

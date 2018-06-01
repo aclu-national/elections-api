@@ -6,6 +6,7 @@
     "area_water":35372110,
     "geoid":"05057",
     "name":"Hempstead",
+    "ocd_id":"ocd-division/country:us/state:ar/county:hempstead",
     "state":"ar"
 },
   "bbox": [

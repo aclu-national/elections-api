@@ -6,6 +6,7 @@
     "area_water":7123457,
     "geoid":"21087",
     "name":"Green",
+    "ocd_id":"ocd-division/country:us/state:ky/county:green",
     "state":"ky"
 },
   "bbox": [

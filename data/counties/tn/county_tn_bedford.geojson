@@ -6,6 +6,7 @@
     "area_water":2980756,
     "geoid":"47003",
     "name":"Bedford",
+    "ocd_id":"ocd-division/country:us/state:tn/county:bedford",
     "state":"tn"
 },
   "bbox": [

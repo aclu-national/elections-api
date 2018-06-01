@@ -6,6 +6,7 @@
     "area_water":108725240,
     "geoid":"45007",
     "name":"Anderson",
+    "ocd_id":"ocd-division/country:us/state:sc/county:anderson",
     "state":"sc"
 },
   "bbox": [

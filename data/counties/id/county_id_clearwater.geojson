@@ -6,6 +6,7 @@
     "area_water":79605439,
     "geoid":"16035",
     "name":"Clearwater",
+    "ocd_id":"ocd-division/country:us/state:id/county:clearwater",
     "state":"id"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"34040",
     "name":"General Assembly District 40",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:40",
     "state":"nj"
 },
   "bbox": [

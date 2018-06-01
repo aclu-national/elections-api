@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"15043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:hi/sldl:43",
     "state":"hi"
 },
   "bbox": [

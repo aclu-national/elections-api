@@ -6,6 +6,7 @@
     "area_water":22117950,
     "geoid":"47029",
     "name":"Cocke",
+    "ocd_id":"ocd-division/country:us/state:tn/county:cocke",
     "state":"tn"
 },
   "bbox": [

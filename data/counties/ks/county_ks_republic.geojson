@@ -6,6 +6,7 @@
     "area_water":7969708,
     "geoid":"20157",
     "name":"Republic",
+    "ocd_id":"ocd-division/country:us/state:ks/county:republic",
     "state":"ks"
 },
   "bbox": [

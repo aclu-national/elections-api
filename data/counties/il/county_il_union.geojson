@@ -6,6 +6,7 @@
     "area_water":22502264,
     "geoid":"17181",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:il/county:union",
     "state":"il"
 },
   "bbox": [

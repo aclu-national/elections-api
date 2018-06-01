@@ -6,6 +6,7 @@
     "area_water":2388731561,
     "geoid":"21",
     "name":"Kentucky",
+    "ocd_id":"ocd-division/country:us/state:ky",
     "state":"ky"
 },
   "bbox": [

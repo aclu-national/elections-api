@@ -6,6 +6,7 @@
     "area_water":4237459,
     "geoid":"18137",
     "name":"Ripley",
+    "ocd_id":"ocd-division/country:us/state:in/county:ripley",
     "state":"in"
 },
   "bbox": [

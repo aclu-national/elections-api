@@ -8,6 +8,7 @@
     "district_num":"ZZZ",
     "geoid":"25ZZZ",
     "name":"State House Districts not defined",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:ZZZ",
     "state":"ma"
 },
   "bbox": [

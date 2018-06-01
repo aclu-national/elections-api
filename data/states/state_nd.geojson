@@ -6,6 +6,7 @@
     "area_water":4400396641,
     "geoid":"38",
     "name":"North Dakota",
+    "ocd_id":"ocd-division/country:us/state:nd",
     "state":"nd"
 },
   "bbox": [

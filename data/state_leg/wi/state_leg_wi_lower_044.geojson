@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"55044",
     "name":"Assembly District 44",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:44",
     "state":"wi"
 },
   "bbox": [

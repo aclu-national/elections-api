@@ -6,6 +6,7 @@
     "area_water":3397554419,
     "geoid":"42",
     "name":"Pennsylvania",
+    "ocd_id":"ocd-division/country:us/state:pa",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":130329995,
     "geoid":"22029",
     "name":"Concordia",
+    "ocd_id":"ocd-division/country:us/state:la/county:concordia",
     "state":"la"
 },
   "bbox": [

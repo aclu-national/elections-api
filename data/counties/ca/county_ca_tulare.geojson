@@ -6,6 +6,7 @@
     "area_water":37259234,
     "geoid":"06107",
     "name":"Tulare",
+    "ocd_id":"ocd-division/country:us/state:ca/county:tulare",
     "state":"ca"
 },
   "bbox": [

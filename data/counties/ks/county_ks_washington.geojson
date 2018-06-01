@@ -6,6 +6,7 @@
     "area_water":10139803,
     "geoid":"20201",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ks/county:washington",
     "state":"ks"
 },
   "bbox": [

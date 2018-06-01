@@ -6,6 +6,7 @@
     "area_water":402899,
     "geoid":"72107",
     "name":"Orocovis",
+    "ocd_id":"ocd-division/country:us/state:pr/county:orocovis",
     "state":"pr"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"076",
     "geoid":"09076",
     "name":"State House District 76",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:76",
     "state":"ct"
 },
   "bbox": [

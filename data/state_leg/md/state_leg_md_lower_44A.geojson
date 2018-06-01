@@ -8,6 +8,7 @@
     "district_num":"44A",
     "geoid":"2444A",
     "name":"State Legislative Subdistrict 44A",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:44A",
     "state":"md"
 },
   "bbox": [

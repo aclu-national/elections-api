@@ -6,6 +6,7 @@
     "area_water":20644021,
     "geoid":"42051",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:pa/county:fayette",
     "state":"pa"
 },
   "bbox": [

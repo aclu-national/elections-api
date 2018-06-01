@@ -6,6 +6,7 @@
     "area_water":17751408,
     "geoid":"29151",
     "name":"Osage",
+    "ocd_id":"ocd-division/country:us/state:mo/county:osage",
     "state":"mo"
 },
   "bbox": [

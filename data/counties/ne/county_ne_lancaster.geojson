@@ -6,6 +6,7 @@
     "area_water":22867561,
     "geoid":"31109",
     "name":"Lancaster",
+    "ocd_id":"ocd-division/country:us/state:ne/county:lancaster",
     "state":"ne"
 },
   "bbox": [

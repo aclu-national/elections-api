@@ -8,6 +8,7 @@
     "district_num":"180",
     "geoid":"25180",
     "name":"9th Plymouth District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:180",
     "state":"ma"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"35026",
     "name":"State House District 26",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:26",
     "state":"nm"
 },
   "bbox": [

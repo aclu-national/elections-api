@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"45006",
     "name":"State House District HD-006",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:6",
     "state":"sc"
 },
   "bbox": [

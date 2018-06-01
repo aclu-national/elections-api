@@ -8,6 +8,7 @@
     "district_num":"090",
     "geoid":"42090",
     "name":"State House District 90",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:90",
     "state":"pa"
 },
   "bbox": [

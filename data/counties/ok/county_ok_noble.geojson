@@ -6,6 +6,7 @@
     "area_water":27552185,
     "geoid":"40103",
     "name":"Noble",
+    "ocd_id":"ocd-division/country:us/state:ok/county:noble",
     "state":"ok"
 },
   "bbox": [

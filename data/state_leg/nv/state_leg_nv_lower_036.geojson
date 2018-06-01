@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"32036",
     "name":"Assembly District 36",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:36",
     "state":"nv"
 },
   "bbox": [

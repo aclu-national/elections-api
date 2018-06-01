@@ -6,6 +6,7 @@
     "area_water":8190594,
     "geoid":"35009",
     "name":"Curry",
+    "ocd_id":"ocd-division/country:us/state:nm/county:curry",
     "state":"nm"
 },
   "bbox": [

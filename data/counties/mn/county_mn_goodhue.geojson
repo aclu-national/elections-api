@@ -6,6 +6,7 @@
     "area_water":61007223,
     "geoid":"27049",
     "name":"Goodhue",
+    "ocd_id":"ocd-division/country:us/state:mn/county:goodhue",
     "state":"mn"
 },
   "bbox": [

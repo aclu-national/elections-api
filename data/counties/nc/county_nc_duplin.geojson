@@ -6,6 +6,7 @@
     "area_water":14193280,
     "geoid":"37061",
     "name":"Duplin",
+    "ocd_id":"ocd-division/country:us/state:nc/county:duplin",
     "state":"nc"
 },
   "bbox": [

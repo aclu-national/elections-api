@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"21006",
     "name":"State House District 6",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:6",
     "state":"ky"
 },
   "bbox": [

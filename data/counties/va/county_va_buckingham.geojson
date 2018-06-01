@@ -6,6 +6,7 @@
     "area_water":9895206,
     "geoid":"51029",
     "name":"Buckingham",
+    "ocd_id":"ocd-division/country:us/state:va/county:buckingham",
     "state":"va"
 },
   "bbox": [

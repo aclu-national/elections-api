@@ -8,6 +8,7 @@
     "district_num":"190",
     "geoid":"42190",
     "name":"State House District 190",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:190",
     "state":"pa"
 },
   "bbox": [

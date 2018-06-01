@@ -6,6 +6,7 @@
     "area_water":1548341,
     "geoid":"48195",
     "name":"Hansford",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hansford",
     "state":"tx"
 },
   "bbox": [

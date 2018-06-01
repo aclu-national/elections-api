@@ -6,6 +6,7 @@
     "area_water":206206,
     "geoid":"48243",
     "name":"Jeff Davis",
+    "ocd_id":"ocd-division/country:us/state:tx/county:jeff_davis",
     "state":"tx"
 },
   "bbox": [

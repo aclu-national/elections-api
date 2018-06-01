@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"26013",
     "name":"State Senate District 13",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:13",
     "state":"mi"
 },
   "bbox": [

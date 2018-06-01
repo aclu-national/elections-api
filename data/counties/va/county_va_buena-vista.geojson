@@ -6,6 +6,7 @@
     "area_water":219579,
     "geoid":"51530",
     "name":"Buena Vista",
+    "ocd_id":"ocd-division/country:us/state:va/county:buena_vista",
     "state":"va"
 },
   "bbox": [

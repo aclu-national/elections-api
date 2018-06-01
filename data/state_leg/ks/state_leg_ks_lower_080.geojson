@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"20080",
     "name":"State House District 80",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:80",
     "state":"ks"
 },
   "bbox": [

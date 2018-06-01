@@ -6,6 +6,7 @@
     "area_water":300569614,
     "geoid":"23023",
     "name":"Sagadahoc",
+    "ocd_id":"ocd-division/country:us/state:me/county:sagadahoc",
     "state":"me"
 },
   "bbox": [

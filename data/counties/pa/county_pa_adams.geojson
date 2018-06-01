@@ -6,6 +6,7 @@
     "area_water":7887889,
     "geoid":"42001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:pa/county:adams",
     "state":"pa"
 },
   "bbox": [

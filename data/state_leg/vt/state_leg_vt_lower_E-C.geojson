@@ -8,6 +8,7 @@
     "district_num":"E-C",
     "geoid":"50E-C",
     "name":"Essex-Caledonia State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:E-C",
     "state":"vt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1080049539,
     "geoid":"23021",
     "name":"Piscataquis",
+    "ocd_id":"ocd-division/country:us/state:me/county:piscataquis",
     "state":"me"
 },
   "bbox": [

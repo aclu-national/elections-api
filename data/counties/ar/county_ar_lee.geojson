@@ -6,6 +6,7 @@
     "area_water":43720910,
     "geoid":"05077",
     "name":"Lee",
+    "ocd_id":"ocd-division/country:us/state:ar/county:lee",
     "state":"ar"
 },
   "bbox": [

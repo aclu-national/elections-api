@@ -6,6 +6,7 @@
     "area_water":67432622,
     "geoid":"05035",
     "name":"Crittenden",
+    "ocd_id":"ocd-division/country:us/state:ar/county:crittenden",
     "state":"ar"
 },
   "bbox": [

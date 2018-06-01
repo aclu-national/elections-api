@@ -6,6 +6,7 @@
     "area_water":3982230,
     "geoid":"72141",
     "name":"Utuado",
+    "ocd_id":"ocd-division/country:us/state:pr/county:utuado",
     "state":"pr"
 },
   "bbox": [

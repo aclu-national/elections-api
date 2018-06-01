@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"22034",
     "name":"State Senate District 34",
+    "ocd_id":"ocd-division/country:us/state:la/sldu:34",
     "state":"la"
 },
   "bbox": [

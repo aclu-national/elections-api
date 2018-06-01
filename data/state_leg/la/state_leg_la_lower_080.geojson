@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"22080",
     "name":"State House District 80",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:80",
     "state":"la"
 },
   "bbox": [

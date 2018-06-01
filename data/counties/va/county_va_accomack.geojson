@@ -6,6 +6,7 @@
     "area_water":2229242744,
     "geoid":"51001",
     "name":"Accomack",
+    "ocd_id":"ocd-division/country:us/state:va/county:accomack",
     "state":"va"
 },
   "bbox": [

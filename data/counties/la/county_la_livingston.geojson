@@ -6,6 +6,7 @@
     "area_water":112119167,
     "geoid":"22063",
     "name":"Livingston",
+    "ocd_id":"ocd-division/country:us/state:la/county:livingston",
     "state":"la"
 },
   "bbox": [

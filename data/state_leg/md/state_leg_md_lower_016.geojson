@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"24016",
     "name":"State Legislative District 16",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:16",
     "state":"md"
 },
   "bbox": [

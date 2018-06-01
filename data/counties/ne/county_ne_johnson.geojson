@@ -6,6 +6,7 @@
     "area_water":1766531,
     "geoid":"31097",
     "name":"Johnson",
+    "ocd_id":"ocd-division/country:us/state:ne/county:johnson",
     "state":"ne"
 },
   "bbox": [

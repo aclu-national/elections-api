@@ -6,6 +6,7 @@
     "area_water":49413697,
     "geoid":"21163",
     "name":"Meade",
+    "ocd_id":"ocd-division/country:us/state:ky/county:meade",
     "state":"ky"
 },
   "bbox": [

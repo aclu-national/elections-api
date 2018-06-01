@@ -6,6 +6,7 @@
     "area_water":61132194,
     "geoid":"45039",
     "name":"Fairfield",
+    "ocd_id":"ocd-division/country:us/state:sc/county:fairfield",
     "state":"sc"
 },
   "bbox": [

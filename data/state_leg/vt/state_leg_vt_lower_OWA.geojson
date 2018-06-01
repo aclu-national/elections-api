@@ -8,6 +8,7 @@
     "district_num":"OWA",
     "geoid":"50OWA",
     "name":"Orange-Washington-Addison State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:OWA",
     "state":"vt"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"48026",
     "name":"State House District 26",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:26",
     "state":"tx"
 },
   "bbox": [

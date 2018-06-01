@@ -6,6 +6,7 @@
     "area_water":18266225,
     "geoid":"42037",
     "name":"Columbia",
+    "ocd_id":"ocd-division/country:us/state:pa/county:columbia",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":19739775,
     "geoid":"29186",
     "name":"Ste. Genevieve",
+    "ocd_id":"ocd-division/country:us/state:mo/county:ste_genevieve",
     "state":"mo"
 },
   "bbox": [

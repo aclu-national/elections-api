@@ -8,6 +8,7 @@
     "district_num":"WA1",
     "geoid":"50WA1",
     "name":"Washington-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WA1",
     "state":"vt"
 },
   "bbox": [

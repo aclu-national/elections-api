@@ -6,6 +6,7 @@
     "area_water":0,
     "geoid":"20071",
     "name":"Greeley",
+    "ocd_id":"ocd-division/country:us/state:ks/county:greeley",
     "state":"ks"
 },
   "bbox": [

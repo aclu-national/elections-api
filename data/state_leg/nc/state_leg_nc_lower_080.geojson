@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"37080",
     "name":"State House District 80",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:80",
     "state":"nc"
 },
   "bbox": [

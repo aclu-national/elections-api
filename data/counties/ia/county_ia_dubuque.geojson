@@ -6,6 +6,7 @@
     "area_water":21138790,
     "geoid":"19061",
     "name":"Dubuque",
+    "ocd_id":"ocd-division/country:us/state:ia/county:dubuque",
     "state":"ia"
 },
   "bbox": [

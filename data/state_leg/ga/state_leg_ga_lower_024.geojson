@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"13024",
     "name":"State House District 24",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:24",
     "state":"ga"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"55052",
     "name":"Assembly District 52",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:52",
     "state":"wi"
 },
   "bbox": [

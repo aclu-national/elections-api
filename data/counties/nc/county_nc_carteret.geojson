@@ -6,6 +6,7 @@
     "area_water":2131001182,
     "geoid":"37031",
     "name":"Carteret",
+    "ocd_id":"ocd-division/country:us/state:nc/county:carteret",
     "state":"nc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1539541677,
     "geoid":"18",
     "name":"Indiana",
+    "ocd_id":"ocd-division/country:us/state:in",
     "state":"in"
 },
   "bbox": [

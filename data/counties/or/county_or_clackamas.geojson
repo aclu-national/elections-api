@@ -6,6 +6,7 @@
     "area_water":31834351,
     "geoid":"41005",
     "name":"Clackamas",
+    "ocd_id":"ocd-division/country:us/state:or/county:clackamas",
     "state":"or"
 },
   "bbox": [

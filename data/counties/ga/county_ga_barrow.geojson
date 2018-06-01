@@ -6,6 +6,7 @@
     "area_water":5707989,
     "geoid":"13013",
     "name":"Barrow",
+    "ocd_id":"ocd-division/country:us/state:ga/county:barrow",
     "state":"ga"
 },
   "bbox": [

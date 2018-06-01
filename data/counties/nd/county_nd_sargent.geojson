@@ -6,6 +6,7 @@
     "area_water":21728402,
     "geoid":"38081",
     "name":"Sargent",
+    "ocd_id":"ocd-division/country:us/state:nd/county:sargent",
     "state":"nd"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"38044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:44",
     "state":"nd"
 },
   "bbox": [

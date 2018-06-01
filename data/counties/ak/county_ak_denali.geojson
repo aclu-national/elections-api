@@ -6,6 +6,7 @@
     "area_water":66068878,
     "geoid":"02068",
     "name":"Denali",
+    "ocd_id":"ocd-division/country:us/state:ak/county:denali",
     "state":"ak"
 },
   "bbox": [

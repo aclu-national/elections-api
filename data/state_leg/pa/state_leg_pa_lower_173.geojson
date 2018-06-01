@@ -8,6 +8,7 @@
     "district_num":"173",
     "geoid":"42173",
     "name":"State House District 173",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:173",
     "state":"pa"
 },
   "bbox": [

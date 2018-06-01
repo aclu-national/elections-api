@@ -8,6 +8,7 @@
     "district_num":"C65",
     "geoid":"50C65",
     "name":"Chittenden-6-5 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C65",
     "state":"vt"
 },
   "bbox": [

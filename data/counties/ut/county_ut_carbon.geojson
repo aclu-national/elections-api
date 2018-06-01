@@ -6,6 +6,7 @@
     "area_water":15844443,
     "geoid":"49007",
     "name":"Carbon",
+    "ocd_id":"ocd-division/country:us/state:ut/county:carbon",
     "state":"ut"
 },
   "bbox": [

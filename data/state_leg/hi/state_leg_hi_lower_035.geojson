@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"15035",
     "name":"State House District 35",
+    "ocd_id":"ocd-division/country:us/state:hi/sldl:35",
     "state":"hi"
 },
   "bbox": [

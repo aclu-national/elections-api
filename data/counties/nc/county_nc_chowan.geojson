@@ -6,6 +6,7 @@
     "area_water":157966162,
     "geoid":"37041",
     "name":"Chowan",
+    "ocd_id":"ocd-division/country:us/state:nc/county:chowan",
     "state":"nc"
 },
   "bbox": [

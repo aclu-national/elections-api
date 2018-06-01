@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"01012",
     "name":"State House District 12",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:12",
     "state":"al"
 },
   "bbox": [

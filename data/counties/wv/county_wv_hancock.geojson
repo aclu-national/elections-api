@@ -6,6 +6,7 @@
     "area_water":13879326,
     "geoid":"54029",
     "name":"Hancock",
+    "ocd_id":"ocd-division/country:us/state:wv/county:hancock",
     "state":"wv"
 },
   "bbox": [

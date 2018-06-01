@@ -6,6 +6,7 @@
     "area_water":733669653,
     "geoid":"35",
     "name":"New Mexico",
+    "ocd_id":"ocd-division/country:us/state:nm",
     "state":"nm"
 },
   "bbox": [

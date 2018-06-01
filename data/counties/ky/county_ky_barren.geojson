@@ -6,6 +6,7 @@
     "area_water":32260040,
     "geoid":"21009",
     "name":"Barren",
+    "ocd_id":"ocd-division/country:us/state:ky/county:barren",
     "state":"ky"
 },
   "bbox": [

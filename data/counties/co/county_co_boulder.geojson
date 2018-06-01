@@ -6,6 +6,7 @@
     "area_water":36521204,
     "geoid":"08013",
     "name":"Boulder",
+    "ocd_id":"ocd-division/country:us/state:co/county:boulder",
     "state":"co"
 },
   "bbox": [

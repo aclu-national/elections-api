@@ -6,6 +6,7 @@
     "area_water":65273640,
     "geoid":"28001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:ms/county:adams",
     "state":"ms"
 },
   "bbox": [

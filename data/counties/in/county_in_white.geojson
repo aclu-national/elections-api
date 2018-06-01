@@ -6,6 +6,7 @@
     "area_water":9203227,
     "geoid":"18181",
     "name":"White",
+    "ocd_id":"ocd-division/country:us/state:in/county:white",
     "state":"in"
 },
   "bbox": [

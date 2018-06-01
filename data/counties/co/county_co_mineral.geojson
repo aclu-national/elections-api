@@ -6,6 +6,7 @@
     "area_water":5222161,
     "geoid":"08079",
     "name":"Mineral",
+    "ocd_id":"ocd-division/country:us/state:co/county:mineral",
     "state":"co"
 },
   "bbox": [

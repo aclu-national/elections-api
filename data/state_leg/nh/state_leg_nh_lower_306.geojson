@@ -8,6 +8,7 @@
     "district_num":"306",
     "geoid":"33306",
     "name":"State House District Coos County No. 6",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:306",
     "state":"nh"
 },
   "bbox": [

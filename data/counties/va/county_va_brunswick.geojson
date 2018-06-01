@@ -6,6 +6,7 @@
     "area_water":8387116,
     "geoid":"51025",
     "name":"Brunswick",
+    "ocd_id":"ocd-division/country:us/state:va/county:brunswick",
     "state":"va"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"45109",
     "name":"State House District HD-109",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:109",
     "state":"sc"
 },
   "bbox": [

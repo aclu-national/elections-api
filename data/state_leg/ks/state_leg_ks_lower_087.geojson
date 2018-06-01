@@ -8,6 +8,7 @@
     "district_num":"087",
     "geoid":"20087",
     "name":"State House District 87",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:87",
     "state":"ks"
 },
   "bbox": [

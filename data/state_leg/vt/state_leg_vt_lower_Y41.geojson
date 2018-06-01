@@ -8,6 +8,7 @@
     "district_num":"Y41",
     "geoid":"50Y41",
     "name":"Windsor-4-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:Y41",
     "state":"vt"
 },
   "bbox": [

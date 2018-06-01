@@ -6,6 +6,7 @@
     "area_water":7586186,
     "geoid":"48447",
     "name":"Throckmorton",
+    "ocd_id":"ocd-division/country:us/state:tx/county:throckmorton",
     "state":"tx"
 },
   "bbox": [

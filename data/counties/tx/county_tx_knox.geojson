@@ -6,6 +6,7 @@
     "area_water":12577261,
     "geoid":"48275",
     "name":"Knox",
+    "ocd_id":"ocd-division/country:us/state:tx/county:knox",
     "state":"tx"
 },
   "bbox": [

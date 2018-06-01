@@ -8,6 +8,7 @@
     "district_num":"49B",
     "geoid":"2749B",
     "name":"State House District 49B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:49B",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2142395,
     "geoid":"51157",
     "name":"Rappahannock",
+    "ocd_id":"ocd-division/country:us/state:va/county:rappahannock",
     "state":"va"
 },
   "bbox": [

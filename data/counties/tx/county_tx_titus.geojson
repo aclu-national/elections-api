@@ -6,6 +6,7 @@
     "area_water":50727822,
     "geoid":"48449",
     "name":"Titus",
+    "ocd_id":"ocd-division/country:us/state:tx/county:titus",
     "state":"tx"
 },
   "bbox": [

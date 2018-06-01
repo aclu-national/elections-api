@@ -6,6 +6,7 @@
     "area_water":27700320,
     "geoid":"30027",
     "name":"Fergus",
+    "ocd_id":"ocd-division/country:us/state:mt/county:fergus",
     "state":"mt"
 },
   "bbox": [

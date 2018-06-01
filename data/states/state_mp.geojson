@@ -6,6 +6,7 @@
     "area_water":4644260632,
     "geoid":"69",
     "name":"Commonwealth of the Northern Mariana Islands",
+    "ocd_id":"ocd-division/country:us/state:mp",
     "state":"mp"
 },
   "bbox": [

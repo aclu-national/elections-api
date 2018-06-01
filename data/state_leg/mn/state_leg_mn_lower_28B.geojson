@@ -8,6 +8,7 @@
     "district_num":"28B",
     "geoid":"2728B",
     "name":"State House District 28B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:28B",
     "state":"mn"
 },
   "bbox": [

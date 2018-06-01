@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"31032",
     "name":"State Senate District 32",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:32",
     "state":"ne"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"502",
     "geoid":"33502",
     "name":"State House District Hillsborough County No. 2",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:502",
     "state":"nh"
 },
   "bbox": [

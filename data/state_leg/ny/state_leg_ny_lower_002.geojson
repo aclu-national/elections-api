@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"36002",
     "name":"Assembly District 2",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:2",
     "state":"ny"
 },
   "bbox": [

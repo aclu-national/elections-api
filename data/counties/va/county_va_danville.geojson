@@ -6,6 +6,7 @@
     "area_water":2434869,
     "geoid":"51590",
     "name":"Danville",
+    "ocd_id":"ocd-division/country:us/state:va/county:danville",
     "state":"va"
 },
   "bbox": [

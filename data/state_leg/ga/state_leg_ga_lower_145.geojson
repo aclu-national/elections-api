@@ -8,6 +8,7 @@
     "district_num":"145",
     "geoid":"13145",
     "name":"State House District 145",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:145",
     "state":"ga"
 },
   "bbox": [

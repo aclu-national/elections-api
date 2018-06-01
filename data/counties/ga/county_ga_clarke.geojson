@@ -6,6 +6,7 @@
     "area_water":4715185,
     "geoid":"13059",
     "name":"Clarke",
+    "ocd_id":"ocd-division/country:us/state:ga/county:clarke",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":29125601,
     "geoid":"39049",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:oh/county:franklin",
     "state":"oh"
 },
   "bbox": [

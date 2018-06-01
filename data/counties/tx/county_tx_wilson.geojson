@@ -6,6 +6,7 @@
     "area_water":12111367,
     "geoid":"48493",
     "name":"Wilson",
+    "ocd_id":"ocd-division/country:us/state:tx/county:wilson",
     "state":"tx"
 },
   "bbox": [

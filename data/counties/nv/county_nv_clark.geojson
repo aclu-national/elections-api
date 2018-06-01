@@ -6,6 +6,7 @@
     "area_water":438376844,
     "geoid":"32003",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:nv/county:clark",
     "state":"nv"
 },
   "bbox": [

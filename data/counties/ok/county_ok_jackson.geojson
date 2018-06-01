@@ -6,6 +6,7 @@
     "area_water":4114419,
     "geoid":"40065",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:ok/county:jackson",
     "state":"ok"
 },
   "bbox": [

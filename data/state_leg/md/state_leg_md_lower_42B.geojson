@@ -8,6 +8,7 @@
     "district_num":"42B",
     "geoid":"2442B",
     "name":"State Legislative Subdistrict 42B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:42B",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3088046,
     "geoid":"04023",
     "name":"Santa Cruz",
+    "ocd_id":"ocd-division/country:us/state:az/county:santa_cruz",
     "state":"az"
 },
   "bbox": [

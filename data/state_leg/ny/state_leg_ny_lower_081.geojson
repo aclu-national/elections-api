@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"36081",
     "name":"Assembly District 81",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:81",
     "state":"ny"
 },
   "bbox": [

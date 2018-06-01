@@ -6,6 +6,7 @@
     "area_water":3930182746,
     "geoid":"28",
     "name":"Mississippi",
+    "ocd_id":"ocd-division/country:us/state:ms",
     "state":"ms"
 },
   "bbox": [

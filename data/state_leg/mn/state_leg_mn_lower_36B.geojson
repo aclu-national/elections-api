@@ -8,6 +8,7 @@
     "district_num":"36B",
     "geoid":"2736B",
     "name":"State House District 36B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:36B",
     "state":"mn"
 },
   "bbox": [

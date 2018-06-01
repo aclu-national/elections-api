@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"39023",
     "name":"State Senate District 23",
+    "ocd_id":"ocd-division/country:us/state:oh/sldu:23",
     "state":"oh"
 },
   "bbox": [

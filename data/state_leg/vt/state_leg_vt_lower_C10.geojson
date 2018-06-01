@@ -8,6 +8,7 @@
     "district_num":"C10",
     "geoid":"50C10",
     "name":"Chittenden-10 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C10",
     "state":"vt"
 },
   "bbox": [

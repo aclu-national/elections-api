@@ -6,6 +6,7 @@
     "area_water":62427887,
     "geoid":"20087",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:ks/county:jefferson",
     "state":"ks"
 },
   "bbox": [

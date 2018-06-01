@@ -8,6 +8,7 @@
     "district_num":"050",
     "geoid":"06050",
     "name":"Assembly District 50",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:50",
     "state":"ca"
 },
   "bbox": [

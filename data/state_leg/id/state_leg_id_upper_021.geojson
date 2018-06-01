@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"16021",
     "name":"State Senate District 21",
+    "ocd_id":"ocd-division/country:us/state:id/sldu:21",
     "state":"id"
 },
   "bbox": [

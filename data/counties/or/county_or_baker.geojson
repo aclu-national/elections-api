@@ -6,6 +6,7 @@
     "area_water":51832632,
     "geoid":"41001",
     "name":"Baker",
+    "ocd_id":"ocd-division/country:us/state:or/county:baker",
     "state":"or"
 },
   "bbox": [

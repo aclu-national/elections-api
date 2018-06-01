@@ -8,6 +8,7 @@
     "district_num":"F-1",
     "geoid":"50F-1",
     "name":"Franklin-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:F-1",
     "state":"vt"
 },
   "bbox": [

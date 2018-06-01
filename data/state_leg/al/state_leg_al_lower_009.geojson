@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"01009",
     "name":"State House District 9",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:9",
     "state":"al"
 },
   "bbox": [

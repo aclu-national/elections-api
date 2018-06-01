@@ -8,6 +8,7 @@
     "district_num":"803",
     "geoid":"33803",
     "name":"State House District Strafford County No. 3",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:803",
     "state":"nh"
 },
   "bbox": [

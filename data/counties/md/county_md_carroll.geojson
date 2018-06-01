@@ -6,6 +6,7 @@
     "area_water":13186154,
     "geoid":"24013",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:md/county:carroll",
     "state":"md"
 },
   "bbox": [

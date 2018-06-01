@@ -6,6 +6,7 @@
     "area_water":32985363,
     "geoid":"55053",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:wi/county:jackson",
     "state":"wi"
 },
   "bbox": [

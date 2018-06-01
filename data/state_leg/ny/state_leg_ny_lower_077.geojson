@@ -8,6 +8,7 @@
     "district_num":"077",
     "geoid":"36077",
     "name":"Assembly District 77",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:77",
     "state":"ny"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":44196979,
     "geoid":"32013",
     "name":"Humboldt",
+    "ocd_id":"ocd-division/country:us/state:nv/county:humboldt",
     "state":"nv"
 },
   "bbox": [

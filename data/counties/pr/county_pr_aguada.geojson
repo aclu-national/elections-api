@@ -6,6 +6,7 @@
     "area_water":38025989,
     "geoid":"72003",
     "name":"Aguada",
+    "ocd_id":"ocd-division/country:us/state:pr/county:aguada",
     "state":"pr"
 },
   "bbox": [

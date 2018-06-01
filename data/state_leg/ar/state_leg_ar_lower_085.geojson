@@ -8,6 +8,7 @@
     "district_num":"085",
     "geoid":"05085",
     "name":"State House District 85",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:85",
     "state":"ar"
 },
   "bbox": [

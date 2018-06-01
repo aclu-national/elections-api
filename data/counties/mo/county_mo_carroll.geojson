@@ -6,6 +6,7 @@
     "area_water":17533485,
     "geoid":"29033",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:mo/county:carroll",
     "state":"mo"
 },
   "bbox": [

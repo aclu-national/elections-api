@@ -6,6 +6,7 @@
     "area_water":11600781,
     "geoid":"21167",
     "name":"Mercer",
+    "ocd_id":"ocd-division/country:us/state:ky/county:mercer",
     "state":"ky"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"29060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:60",
     "state":"mo"
 },
   "bbox": [

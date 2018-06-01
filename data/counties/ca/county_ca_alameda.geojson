@@ -6,6 +6,7 @@
     "area_water":216916717,
     "geoid":"06001",
     "name":"Alameda",
+    "ocd_id":"ocd-division/country:us/state:ca/county:alameda",
     "state":"ca"
 },
   "bbox": [

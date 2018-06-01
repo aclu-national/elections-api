@@ -6,6 +6,7 @@
     "area_water":24056487,
     "geoid":"54039",
     "name":"Kanawha",
+    "ocd_id":"ocd-division/country:us/state:wv/county:kanawha",
     "state":"wv"
 },
   "bbox": [

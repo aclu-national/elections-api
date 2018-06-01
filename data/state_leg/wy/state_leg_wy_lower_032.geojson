@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"56032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:wy/sldl:32",
     "state":"wy"
 },
   "bbox": [

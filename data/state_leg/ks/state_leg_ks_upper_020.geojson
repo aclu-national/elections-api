@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"20020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:ks/sldu:20",
     "state":"ks"
 },
   "bbox": [

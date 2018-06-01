@@ -6,6 +6,7 @@
     "area_water":49947392,
     "geoid":"56023",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:wy/county:lincoln",
     "state":"wy"
 },
   "bbox": [

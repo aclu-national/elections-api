@@ -6,6 +6,7 @@
     "area_water":1550244357,
     "geoid":"78",
     "name":"United States Virgin Islands",
+    "ocd_id":"ocd-division/country:us/state:vi",
     "state":"vi"
 },
   "bbox": [

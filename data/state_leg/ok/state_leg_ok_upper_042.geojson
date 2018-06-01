@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"40042",
     "name":"State Senate District 42",
+    "ocd_id":"ocd-division/country:us/state:ok/sldu:42",
     "state":"ok"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1629508,
     "geoid":"37121",
     "name":"Mitchell",
+    "ocd_id":"ocd-division/country:us/state:nc/county:mitchell",
     "state":"nc"
 },
   "bbox": [

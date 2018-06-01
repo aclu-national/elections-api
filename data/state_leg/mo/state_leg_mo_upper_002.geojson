@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"29002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:mo/sldu:2",
     "state":"mo"
 },
   "bbox": [

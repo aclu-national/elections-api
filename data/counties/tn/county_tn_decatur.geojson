@@ -6,6 +6,7 @@
     "area_water":28503793,
     "geoid":"47039",
     "name":"Decatur",
+    "ocd_id":"ocd-division/country:us/state:tn/county:decatur",
     "state":"tn"
 },
   "bbox": [

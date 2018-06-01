@@ -6,6 +6,7 @@
     "area_water":73407949,
     "geoid":"06105",
     "name":"Trinity",
+    "ocd_id":"ocd-division/country:us/state:ca/county:trinity",
     "state":"ca"
 },
   "bbox": [

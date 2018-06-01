@@ -6,6 +6,7 @@
     "area_water":1157428261,
     "geoid":"53055",
     "name":"San Juan",
+    "ocd_id":"ocd-division/country:us/state:wa/county:san_juan",
     "state":"wa"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"129",
     "geoid":"36129",
     "name":"Assembly District 129",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:129",
     "state":"ny"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"08012",
     "name":"State House District 12",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:12",
     "state":"co"
 },
   "bbox": [

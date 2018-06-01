@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"24017",
     "name":"State Legislative District 17",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:17",
     "state":"md"
 },
   "bbox": [

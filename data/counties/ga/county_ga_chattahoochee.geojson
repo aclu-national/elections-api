@@ -6,6 +6,7 @@
     "area_water":6292704,
     "geoid":"13053",
     "name":"Chattahoochee",
+    "ocd_id":"ocd-division/country:us/state:ga/county:chattahoochee",
     "state":"ga"
 },
   "bbox": [

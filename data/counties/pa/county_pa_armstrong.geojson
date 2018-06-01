@@ -6,6 +6,7 @@
     "area_water":27625399,
     "geoid":"42005",
     "name":"Armstrong",
+    "ocd_id":"ocd-division/country:us/state:pa/county:armstrong",
     "state":"pa"
 },
   "bbox": [

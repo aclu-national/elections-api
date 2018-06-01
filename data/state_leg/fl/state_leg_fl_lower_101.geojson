@@ -8,6 +8,7 @@
     "district_num":"101",
     "geoid":"12101",
     "name":"State House District 101",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:101",
     "state":"fl"
 },
   "bbox": [

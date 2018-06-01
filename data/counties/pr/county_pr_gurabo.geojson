@@ -6,6 +6,7 @@
     "area_water":1101116,
     "geoid":"72063",
     "name":"Gurabo",
+    "ocd_id":"ocd-division/country:us/state:pr/county:gurabo",
     "state":"pr"
 },
   "bbox": [

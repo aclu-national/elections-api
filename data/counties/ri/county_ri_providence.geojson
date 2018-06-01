@@ -6,6 +6,7 @@
     "area_water":67639362,
     "geoid":"44007",
     "name":"Providence",
+    "ocd_id":"ocd-division/country:us/state:ri/county:providence",
     "state":"ri"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":7160607,
     "geoid":"29187",
     "name":"St. Francois",
+    "ocd_id":"ocd-division/country:us/state:mo/county:st_francois",
     "state":"mo"
 },
   "bbox": [

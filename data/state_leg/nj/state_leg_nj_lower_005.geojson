@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"34005",
     "name":"General Assembly District 5",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:5",
     "state":"nj"
 },
   "bbox": [

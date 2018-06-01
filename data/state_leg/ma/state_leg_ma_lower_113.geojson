@@ -8,6 +8,7 @@
     "district_num":"113",
     "geoid":"25113",
     "name":"12th Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:113",
     "state":"ma"
 },
   "bbox": [

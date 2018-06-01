@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"34036",
     "name":"State Senate District 36",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:36",
     "state":"nj"
 },
   "bbox": [

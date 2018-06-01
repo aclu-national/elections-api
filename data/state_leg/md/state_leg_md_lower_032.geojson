@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"24032",
     "name":"State Legislative District 32",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:32",
     "state":"md"
 },
   "bbox": [

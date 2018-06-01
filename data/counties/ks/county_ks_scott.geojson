@@ -6,6 +6,7 @@
     "area_water":306079,
     "geoid":"20171",
     "name":"Scott",
+    "ocd_id":"ocd-division/country:us/state:ks/county:scott",
     "state":"ks"
 },
   "bbox": [

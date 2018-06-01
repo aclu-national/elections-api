@@ -6,6 +6,7 @@
     "area_water":2893322,
     "geoid":"20075",
     "name":"Hamilton",
+    "ocd_id":"ocd-division/country:us/state:ks/county:hamilton",
     "state":"ks"
 },
   "bbox": [

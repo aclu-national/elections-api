@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"25013",
     "name":"First Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:13",
     "state":"ma"
 },
   "bbox": [

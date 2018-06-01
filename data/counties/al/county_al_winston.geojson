@@ -6,6 +6,7 @@
     "area_water":48922729,
     "geoid":"01133",
     "name":"Winston",
+    "ocd_id":"ocd-division/country:us/state:al/county:winston",
     "state":"al"
 },
   "bbox": [

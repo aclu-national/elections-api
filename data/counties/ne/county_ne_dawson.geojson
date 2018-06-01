@@ -6,6 +6,7 @@
     "area_water":16405784,
     "geoid":"31047",
     "name":"Dawson",
+    "ocd_id":"ocd-division/country:us/state:ne/county:dawson",
     "state":"ne"
 },
   "bbox": [

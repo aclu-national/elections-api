@@ -8,6 +8,7 @@
     "district_num":"192",
     "geoid":"42192",
     "name":"State House District 192",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:192",
     "state":"pa"
 },
   "bbox": [

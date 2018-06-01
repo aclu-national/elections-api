@@ -8,6 +8,7 @@
     "district_num":"053",
     "geoid":"09053",
     "name":"State House District 53",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:53",
     "state":"ct"
 },
   "bbox": [

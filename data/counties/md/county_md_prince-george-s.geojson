@@ -6,6 +6,7 @@
     "area_water":41892810,
     "geoid":"24033",
     "name":"Prince George's",
+    "ocd_id":"ocd-division/country:us/state:md/county:prince_george_s",
     "state":"md"
 },
   "bbox": [

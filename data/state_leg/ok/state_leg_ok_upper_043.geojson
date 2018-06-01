@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"40043",
     "name":"State Senate District 43",
+    "ocd_id":"ocd-division/country:us/state:ok/sldu:43",
     "state":"ok"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":18675956,
     "geoid":"11",
     "name":"District of Columbia",
+    "ocd_id":"ocd-division/country:us/state:dc",
     "state":"dc"
 },
   "bbox": [

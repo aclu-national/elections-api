@@ -6,6 +6,7 @@
     "area_water":41911545,
     "geoid":"48029",
     "name":"Bexar",
+    "ocd_id":"ocd-division/country:us/state:tx/county:bexar",
     "state":"tx"
 },
   "bbox": [

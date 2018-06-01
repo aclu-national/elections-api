@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"17003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:3",
     "state":"il"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3183217,
     "geoid":"17049",
     "name":"Effingham",
+    "ocd_id":"ocd-division/country:us/state:il/county:effingham",
     "state":"il"
 },
   "bbox": [

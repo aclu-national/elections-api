@@ -6,6 +6,7 @@
     "area_water":44403904,
     "geoid":"55067",
     "name":"Langlade",
+    "ocd_id":"ocd-division/country:us/state:wi/county:langlade",
     "state":"wi"
 },
   "bbox": [

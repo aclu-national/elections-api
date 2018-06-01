@@ -8,6 +8,7 @@
     "district_num":"CA3",
     "geoid":"50CA3",
     "name":"Caledonia-3 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:CA3",
     "state":"vt"
 },
   "bbox": [

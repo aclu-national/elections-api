@@ -6,6 +6,7 @@
     "area_water":224402177,
     "geoid":"13179",
     "name":"Liberty",
+    "ocd_id":"ocd-division/country:us/state:ga/county:liberty",
     "state":"ga"
 },
   "bbox": [

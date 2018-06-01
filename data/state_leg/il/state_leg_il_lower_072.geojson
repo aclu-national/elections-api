@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"17072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:72",
     "state":"il"
 },
   "bbox": [

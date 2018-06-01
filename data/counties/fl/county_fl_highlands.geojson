@@ -6,6 +6,7 @@
     "area_water":231653040,
     "geoid":"12055",
     "name":"Highlands",
+    "ocd_id":"ocd-division/country:us/state:fl/county:highlands",
     "state":"fl"
 },
   "bbox": [

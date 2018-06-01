@@ -6,6 +6,7 @@
     "area_water":97119865,
     "geoid":"04007",
     "name":"Gila",
+    "ocd_id":"ocd-division/country:us/state:az/county:gila",
     "state":"az"
 },
   "bbox": [

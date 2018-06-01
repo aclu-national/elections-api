@@ -6,6 +6,7 @@
     "area_water":9015222,
     "geoid":"51047",
     "name":"Culpeper",
+    "ocd_id":"ocd-division/country:us/state:va/county:culpeper",
     "state":"va"
 },
   "bbox": [

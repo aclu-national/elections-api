@@ -6,6 +6,7 @@
     "area_water":553462009,
     "geoid":"12105",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:fl/county:polk",
     "state":"fl"
 },
   "bbox": [

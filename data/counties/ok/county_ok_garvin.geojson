@@ -6,6 +6,7 @@
     "area_water":30111858,
     "geoid":"40049",
     "name":"Garvin",
+    "ocd_id":"ocd-division/country:us/state:ok/county:garvin",
     "state":"ok"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"54014",
     "name":"State Senate District 14",
+    "ocd_id":"ocd-division/country:us/state:wv/sldu:14",
     "state":"wv"
 },
   "bbox": [

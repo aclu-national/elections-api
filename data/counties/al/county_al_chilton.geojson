@@ -6,6 +6,7 @@
     "area_water":20590301,
     "geoid":"01021",
     "name":"Chilton",
+    "ocd_id":"ocd-division/country:us/state:al/county:chilton",
     "state":"al"
 },
   "bbox": [

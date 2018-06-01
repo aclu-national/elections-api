@@ -6,6 +6,7 @@
     "area_water":1428932,
     "geoid":"19069",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ia/county:franklin",
     "state":"ia"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"55003",
     "name":"State Senate District 3",
+    "ocd_id":"ocd-division/country:us/state:wi/sldu:3",
     "state":"wi"
 },
   "bbox": [

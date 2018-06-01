@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"24021",
     "name":"State Legislative District 21",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:21",
     "state":"md"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"172",
     "geoid":"42172",
     "name":"State House District 172",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:172",
     "state":"pa"
 },
   "bbox": [

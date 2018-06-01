@@ -6,6 +6,7 @@
     "area_water":56591279,
     "geoid":"38003",
     "name":"Barnes",
+    "ocd_id":"ocd-division/country:us/state:nd/county:barnes",
     "state":"nd"
 },
   "bbox": [

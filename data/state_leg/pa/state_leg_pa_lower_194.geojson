@@ -8,6 +8,7 @@
     "district_num":"194",
     "geoid":"42194",
     "name":"State House District 194",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:194",
     "state":"pa"
 },
   "bbox": [

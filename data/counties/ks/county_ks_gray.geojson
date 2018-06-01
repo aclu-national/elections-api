@@ -6,6 +6,7 @@
     "area_water":1113338,
     "geoid":"20069",
     "name":"Gray",
+    "ocd_id":"ocd-division/country:us/state:ks/county:gray",
     "state":"ks"
 },
   "bbox": [

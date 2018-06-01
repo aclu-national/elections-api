@@ -6,6 +6,7 @@
     "area_water":1401570,
     "geoid":"54065",
     "name":"Morgan",
+    "ocd_id":"ocd-division/country:us/state:wv/county:morgan",
     "state":"wv"
 },
   "bbox": [

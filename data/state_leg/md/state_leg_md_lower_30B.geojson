@@ -8,6 +8,7 @@
     "district_num":"30B",
     "geoid":"2430B",
     "name":"State Legislative Subdistrict 30B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:30B",
     "state":"md"
 },
   "bbox": [

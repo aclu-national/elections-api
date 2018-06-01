@@ -6,6 +6,7 @@
     "area_water":418753385,
     "geoid":"12113",
     "name":"Santa Rosa",
+    "ocd_id":"ocd-division/country:us/state:fl/county:santa_rosa",
     "state":"fl"
 },
   "bbox": [

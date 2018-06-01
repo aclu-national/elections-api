@@ -8,6 +8,7 @@
     "district_num":"52A",
     "geoid":"2752A",
     "name":"State House District 52A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:52A",
     "state":"mn"
 },
   "bbox": [

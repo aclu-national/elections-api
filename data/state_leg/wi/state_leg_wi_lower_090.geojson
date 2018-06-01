@@ -8,6 +8,7 @@
     "district_num":"090",
     "geoid":"55090",
     "name":"Assembly District 90",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:90",
     "state":"wi"
 },
   "bbox": [

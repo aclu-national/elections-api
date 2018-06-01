@@ -6,6 +6,7 @@
     "area_water":50995532,
     "geoid":"19005",
     "name":"Allamakee",
+    "ocd_id":"ocd-division/country:us/state:ia/county:allamakee",
     "state":"ia"
 },
   "bbox": [

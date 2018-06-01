@@ -6,6 +6,7 @@
     "area_water":4169719,
     "geoid":"48305",
     "name":"Lynn",
+    "ocd_id":"ocd-division/country:us/state:tx/county:lynn",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5298466,
     "geoid":"49001",
     "name":"Beaver",
+    "ocd_id":"ocd-division/country:us/state:ut/county:beaver",
     "state":"ut"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3717083,
     "geoid":"37065",
     "name":"Edgecombe",
+    "ocd_id":"ocd-division/country:us/state:nc/county:edgecombe",
     "state":"nc"
 },
   "bbox": [

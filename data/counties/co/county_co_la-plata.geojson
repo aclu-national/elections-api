@@ -6,6 +6,7 @@
     "area_water":25375721,
     "geoid":"08067",
     "name":"La Plata",
+    "ocd_id":"ocd-division/country:us/state:co/county:la_plata",
     "state":"co"
 },
   "bbox": [

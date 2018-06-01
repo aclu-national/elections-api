@@ -6,6 +6,7 @@
     "area_water":318053597,
     "geoid":"23027",
     "name":"Waldo",
+    "ocd_id":"ocd-division/country:us/state:me/county:waldo",
     "state":"me"
 },
   "bbox": [

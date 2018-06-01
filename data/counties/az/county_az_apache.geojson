@@ -6,6 +6,7 @@
     "area_water":54174161,
     "geoid":"04001",
     "name":"Apache",
+    "ocd_id":"ocd-division/country:us/state:az/county:apache",
     "state":"az"
 },
   "bbox": [

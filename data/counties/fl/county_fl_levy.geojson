@@ -6,6 +6,7 @@
     "area_water":762912636,
     "geoid":"12075",
     "name":"Levy",
+    "ocd_id":"ocd-division/country:us/state:fl/county:levy",
     "state":"fl"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":14488283,
     "geoid":"45069",
     "name":"Marlboro",
+    "ocd_id":"ocd-division/country:us/state:sc/county:marlboro",
     "state":"sc"
 },
   "bbox": [

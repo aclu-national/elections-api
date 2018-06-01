@@ -6,6 +6,7 @@
     "area_water":10205340,
     "geoid":"37045",
     "name":"Cleveland",
+    "ocd_id":"ocd-division/country:us/state:nc/county:cleveland",
     "state":"nc"
 },
   "bbox": [

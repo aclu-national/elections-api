@@ -6,6 +6,7 @@
     "area_water":4424610,
     "geoid":"54085",
     "name":"Ritchie",
+    "ocd_id":"ocd-division/country:us/state:wv/county:ritchie",
     "state":"wv"
 },
   "bbox": [

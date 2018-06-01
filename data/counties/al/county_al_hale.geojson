@@ -6,6 +6,7 @@
     "area_water":32423356,
     "geoid":"01065",
     "name":"Hale",
+    "ocd_id":"ocd-division/country:us/state:al/county:hale",
     "state":"al"
 },
   "bbox": [

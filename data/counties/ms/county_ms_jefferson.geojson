@@ -6,6 +6,7 @@
     "area_water":18988092,
     "geoid":"28063",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:ms/county:jefferson",
     "state":"ms"
 },
   "bbox": [

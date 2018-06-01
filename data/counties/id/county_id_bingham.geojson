@@ -6,6 +6,7 @@
     "area_water":68487087,
     "geoid":"16011",
     "name":"Bingham",
+    "ocd_id":"ocd-division/country:us/state:id/county:bingham",
     "state":"id"
 },
   "bbox": [

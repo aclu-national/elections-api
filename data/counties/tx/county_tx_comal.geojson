@@ -6,6 +6,7 @@
     "area_water":39800429,
     "geoid":"48091",
     "name":"Comal",
+    "ocd_id":"ocd-division/country:us/state:tx/county:comal",
     "state":"tx"
 },
   "bbox": [

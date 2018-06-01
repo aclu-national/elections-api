@@ -6,6 +6,7 @@
     "area_water":53067068,
     "geoid":"08051",
     "name":"Gunnison",
+    "ocd_id":"ocd-division/country:us/state:co/county:gunnison",
     "state":"co"
 },
   "bbox": [

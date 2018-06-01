@@ -6,6 +6,7 @@
     "area_water":709745135,
     "geoid":"48071",
     "name":"Chambers",
+    "ocd_id":"ocd-division/country:us/state:tx/county:chambers",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"06049",
     "name":"Assembly District 49",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:49",
     "state":"ca"
 },
   "bbox": [

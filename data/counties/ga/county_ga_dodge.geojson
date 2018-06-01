@@ -6,6 +6,7 @@
     "area_water":18687765,
     "geoid":"13091",
     "name":"Dodge",
+    "ocd_id":"ocd-division/country:us/state:ga/county:dodge",
     "state":"ga"
 },
   "bbox": [

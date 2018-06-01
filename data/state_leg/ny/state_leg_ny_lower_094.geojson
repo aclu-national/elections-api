@@ -8,6 +8,7 @@
     "district_num":"094",
     "geoid":"36094",
     "name":"Assembly District 94",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:94",
     "state":"ny"
 },
   "bbox": [

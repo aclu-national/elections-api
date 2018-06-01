@@ -6,6 +6,7 @@
     "area_water":206413,
     "geoid":"20047",
     "name":"Edwards",
+    "ocd_id":"ocd-division/country:us/state:ks/county:edwards",
     "state":"ks"
 },
   "bbox": [

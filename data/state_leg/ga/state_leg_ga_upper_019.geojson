@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"13019",
     "name":"State Senate District 19",
+    "ocd_id":"ocd-division/country:us/state:ga/sldu:19",
     "state":"ga"
 },
   "bbox": [

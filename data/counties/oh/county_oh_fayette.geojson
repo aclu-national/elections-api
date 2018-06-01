@@ -6,6 +6,7 @@
     "area_water":1694037,
     "geoid":"39047",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:oh/county:fayette",
     "state":"oh"
 },
   "bbox": [

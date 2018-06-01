@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"56012",
     "name":"State Senate District 12",
+    "ocd_id":"ocd-division/country:us/state:wy/sldu:12",
     "state":"wy"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":8248766,
     "geoid":"37147",
     "name":"Pitt",
+    "ocd_id":"ocd-division/country:us/state:nc/county:pitt",
     "state":"nc"
 },
   "bbox": [

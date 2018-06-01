@@ -6,6 +6,7 @@
     "area_water":1531168,
     "geoid":"37199",
     "name":"Yancey",
+    "ocd_id":"ocd-division/country:us/state:nc/county:yancey",
     "state":"nc"
 },
   "bbox": [

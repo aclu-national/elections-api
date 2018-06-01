@@ -6,6 +6,7 @@
     "area_water":9278537,
     "geoid":"13167",
     "name":"Johnson",
+    "ocd_id":"ocd-division/country:us/state:ga/county:johnson",
     "state":"ga"
 },
   "bbox": [

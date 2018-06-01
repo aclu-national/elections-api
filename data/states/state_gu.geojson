@@ -6,6 +6,7 @@
     "area_water":934334983,
     "geoid":"66",
     "name":"Guam",
+    "ocd_id":"ocd-division/country:us/state:gu",
     "state":"gu"
 },
   "bbox": [

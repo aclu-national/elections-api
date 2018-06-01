@@ -6,6 +6,7 @@
     "area_water":55030762,
     "geoid":"35045",
     "name":"San Juan",
+    "ocd_id":"ocd-division/country:us/state:nm/county:san_juan",
     "state":"nm"
 },
   "bbox": [

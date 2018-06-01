@@ -6,6 +6,7 @@
     "area_water":15930084,
     "geoid":"48399",
     "name":"Runnels",
+    "ocd_id":"ocd-division/country:us/state:tx/county:runnels",
     "state":"tx"
 },
   "bbox": [

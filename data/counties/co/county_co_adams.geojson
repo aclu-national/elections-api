@@ -6,6 +6,7 @@
     "area_water":41815517,
     "geoid":"08001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:co/county:adams",
     "state":"co"
 },
   "bbox": [

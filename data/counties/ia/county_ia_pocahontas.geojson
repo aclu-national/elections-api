@@ -6,6 +6,7 @@
     "area_water":3666530,
     "geoid":"19151",
     "name":"Pocahontas",
+    "ocd_id":"ocd-division/country:us/state:ia/county:pocahontas",
     "state":"ia"
 },
   "bbox": [

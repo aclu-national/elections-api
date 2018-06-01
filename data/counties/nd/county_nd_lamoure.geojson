@@ -6,6 +6,7 @@
     "area_water":12813378,
     "geoid":"38045",
     "name":"LaMoure",
+    "ocd_id":"ocd-division/country:us/state:nd/county:lamoure",
     "state":"nd"
 },
   "bbox": [

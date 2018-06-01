@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"44043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:43",
     "state":"ri"
 },
   "bbox": [

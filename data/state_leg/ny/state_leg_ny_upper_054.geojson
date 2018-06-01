@@ -8,6 +8,7 @@
     "district_num":"054",
     "geoid":"36054",
     "name":"State Senate District 54",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:54",
     "state":"ny"
 },
   "bbox": [

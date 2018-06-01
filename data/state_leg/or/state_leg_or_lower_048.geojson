@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"41048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:48",
     "state":"or"
 },
   "bbox": [

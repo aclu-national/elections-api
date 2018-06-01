@@ -6,6 +6,7 @@
     "area_water":2898572,
     "geoid":"21133",
     "name":"Letcher",
+    "ocd_id":"ocd-division/country:us/state:ky/county:letcher",
     "state":"ky"
 },
   "bbox": [

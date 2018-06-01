@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"37023",
     "name":"State House District 23",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:23",
     "state":"nc"
 },
   "bbox": [

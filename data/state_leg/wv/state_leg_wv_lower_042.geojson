@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"54042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:42",
     "state":"wv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"44048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:48",
     "state":"ri"
 },
   "bbox": [

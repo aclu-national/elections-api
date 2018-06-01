@@ -6,6 +6,7 @@
     "area_water":11192655,
     "geoid":"39019",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:oh/county:carroll",
     "state":"oh"
 },
   "bbox": [

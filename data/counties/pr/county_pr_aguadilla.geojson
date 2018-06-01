@@ -6,6 +6,7 @@
     "area_water":101131781,
     "geoid":"72005",
     "name":"Aguadilla",
+    "ocd_id":"ocd-division/country:us/state:pr/county:aguadilla",
     "state":"pr"
 },
   "bbox": [

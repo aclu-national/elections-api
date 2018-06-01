@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"23007",
     "name":"State House District 7",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:7",
     "state":"me"
 },
   "bbox": [

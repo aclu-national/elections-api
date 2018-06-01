@@ -6,6 +6,7 @@
     "area_water":52359814,
     "geoid":"28141",
     "name":"Tishomingo",
+    "ocd_id":"ocd-division/country:us/state:ms/county:tishomingo",
     "state":"ms"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"13072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:72",
     "state":"ga"
 },
   "bbox": [

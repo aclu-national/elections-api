@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"02031",
     "name":"State House District 31",
+    "ocd_id":"ocd-division/country:us/state:ak/sldl:31",
     "state":"ak"
 },
   "bbox": [

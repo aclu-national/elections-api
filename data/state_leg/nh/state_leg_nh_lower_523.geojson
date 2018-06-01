@@ -8,6 +8,7 @@
     "district_num":"523",
     "geoid":"33523",
     "name":"State House District Hillsborough County No. 23",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:523",
     "state":"nh"
 },
   "bbox": [

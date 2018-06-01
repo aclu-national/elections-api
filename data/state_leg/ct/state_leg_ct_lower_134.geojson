@@ -8,6 +8,7 @@
     "district_num":"134",
     "geoid":"09134",
     "name":"State House District 134",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:134",
     "state":"ct"
 },
   "bbox": [

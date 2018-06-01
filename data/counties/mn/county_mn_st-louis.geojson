@@ -6,6 +6,7 @@
     "area_water":1584976832,
     "geoid":"27137",
     "name":"St. Louis",
+    "ocd_id":"ocd-division/country:us/state:mn/county:st_louis",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":984295,
     "geoid":"08105",
     "name":"Rio Grande",
+    "ocd_id":"ocd-division/country:us/state:co/county:rio_grande",
     "state":"co"
 },
   "bbox": [

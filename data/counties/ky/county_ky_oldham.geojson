@@ -6,6 +6,7 @@
     "area_water":23831645,
     "geoid":"21185",
     "name":"Oldham",
+    "ocd_id":"ocd-division/country:us/state:ky/county:oldham",
     "state":"ky"
 },
   "bbox": [

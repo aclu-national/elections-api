@@ -6,6 +6,7 @@
     "area_water":403035529,
     "geoid":"12031",
     "name":"Duval",
+    "ocd_id":"ocd-division/country:us/state:fl/county:duval",
     "state":"fl"
 },
   "bbox": [

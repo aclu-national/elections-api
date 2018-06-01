@@ -6,6 +6,7 @@
     "area_water":24165972,
     "geoid":"42007",
     "name":"Beaver",
+    "ocd_id":"ocd-division/country:us/state:pa/county:beaver",
     "state":"pa"
 },
   "bbox": [

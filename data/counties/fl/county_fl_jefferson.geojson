@@ -6,6 +6,7 @@
     "area_water":99567329,
     "geoid":"12065",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:fl/county:jefferson",
     "state":"fl"
 },
   "bbox": [

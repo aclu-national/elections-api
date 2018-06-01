@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"20018",
     "name":"State Senate District 18",
+    "ocd_id":"ocd-division/country:us/state:ks/sldu:18",
     "state":"ks"
 },
   "bbox": [

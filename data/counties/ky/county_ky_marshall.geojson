@@ -6,6 +6,7 @@
     "area_water":100761088,
     "geoid":"21157",
     "name":"Marshall",
+    "ocd_id":"ocd-division/country:us/state:ky/county:marshall",
     "state":"ky"
 },
   "bbox": [

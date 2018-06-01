@@ -6,6 +6,7 @@
     "area_water":12561762,
     "geoid":"53013",
     "name":"Columbia",
+    "ocd_id":"ocd-division/country:us/state:wa/county:columbia",
     "state":"wa"
 },
   "bbox": [

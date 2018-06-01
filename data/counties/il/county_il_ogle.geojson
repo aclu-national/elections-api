@@ -6,6 +6,7 @@
     "area_water":11425029,
     "geoid":"17141",
     "name":"Ogle",
+    "ocd_id":"ocd-division/country:us/state:il/county:ogle",
     "state":"il"
 },
   "bbox": [

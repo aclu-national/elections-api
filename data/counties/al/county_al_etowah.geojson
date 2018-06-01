@@ -6,6 +6,7 @@
     "area_water":34559412,
     "geoid":"01055",
     "name":"Etowah",
+    "ocd_id":"ocd-division/country:us/state:al/county:etowah",
     "state":"al"
 },
   "bbox": [

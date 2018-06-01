@@ -6,6 +6,7 @@
     "area_water":19893064,
     "geoid":"29089",
     "name":"Howard",
+    "ocd_id":"ocd-division/country:us/state:mo/county:howard",
     "state":"mo"
 },
   "bbox": [

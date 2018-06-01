@@ -6,6 +6,7 @@
     "area_water":35390272145,
     "geoid":"02282",
     "name":"Yakutat",
+    "ocd_id":"ocd-division/country:us/state:ak/county:yakutat",
     "state":"ak"
 },
   "bbox": [

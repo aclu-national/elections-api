@@ -8,6 +8,7 @@
     "district_num":"051",
     "geoid":"09051",
     "name":"State House District 51",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:51",
     "state":"ct"
 },
   "bbox": [

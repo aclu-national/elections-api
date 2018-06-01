@@ -6,6 +6,7 @@
     "area_water":16777978,
     "geoid":"08029",
     "name":"Delta",
+    "ocd_id":"ocd-division/country:us/state:co/county:delta",
     "state":"co"
 },
   "bbox": [

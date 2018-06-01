@@ -6,6 +6,7 @@
     "area_water":86991036,
     "geoid":"48023",
     "name":"Baylor",
+    "ocd_id":"ocd-division/country:us/state:tx/county:baylor",
     "state":"tx"
 },
   "bbox": [

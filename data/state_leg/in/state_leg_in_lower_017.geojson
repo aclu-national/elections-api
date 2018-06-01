@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"18017",
     "name":"State House District 17",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:17",
     "state":"in"
 },
   "bbox": [

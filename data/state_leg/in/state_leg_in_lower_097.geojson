@@ -8,6 +8,7 @@
     "district_num":"097",
     "geoid":"18097",
     "name":"State House District 97",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:97",
     "state":"in"
 },
   "bbox": [

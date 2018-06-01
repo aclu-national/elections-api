@@ -6,6 +6,7 @@
     "area_water":17522231,
     "geoid":"26085",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:mi/county:lake",
     "state":"mi"
 },
   "bbox": [

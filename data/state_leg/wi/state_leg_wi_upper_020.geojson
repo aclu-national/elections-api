@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"55020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:wi/sldu:20",
     "state":"wi"
 },
   "bbox": [

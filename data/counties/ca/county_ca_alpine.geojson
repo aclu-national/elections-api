@@ -6,6 +6,7 @@
     "area_water":12557304,
     "geoid":"06003",
     "name":"Alpine",
+    "ocd_id":"ocd-division/country:us/state:ca/county:alpine",
     "state":"ca"
 },
   "bbox": [

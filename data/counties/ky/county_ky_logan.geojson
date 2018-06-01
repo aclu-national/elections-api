@@ -6,6 +6,7 @@
     "area_water":12688607,
     "geoid":"21141",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:ky/county:logan",
     "state":"ky"
 },
   "bbox": [

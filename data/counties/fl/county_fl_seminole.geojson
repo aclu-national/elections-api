@@ -6,6 +6,7 @@
     "area_water":92719341,
     "geoid":"12117",
     "name":"Seminole",
+    "ocd_id":"ocd-division/country:us/state:fl/county:seminole",
     "state":"fl"
 },
   "bbox": [

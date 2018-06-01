@@ -8,6 +8,7 @@
     "district_num":"120",
     "geoid":"09120",
     "name":"State House District 120",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:120",
     "state":"ct"
 },
   "bbox": [

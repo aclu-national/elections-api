@@ -8,6 +8,7 @@
     "district_num":"056",
     "geoid":"42056",
     "name":"State House District 56",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:56",
     "state":"pa"
 },
   "bbox": [

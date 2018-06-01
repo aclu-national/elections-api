@@ -6,6 +6,7 @@
     "area_water":485277,
     "geoid":"72081",
     "name":"Lares",
+    "ocd_id":"ocd-division/country:us/state:pr/county:lares",
     "state":"pr"
 },
   "bbox": [

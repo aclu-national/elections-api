@@ -6,6 +6,7 @@
     "area_water":2532275,
     "geoid":"48371",
     "name":"Pecos",
+    "ocd_id":"ocd-division/country:us/state:tx/county:pecos",
     "state":"tx"
 },
   "bbox": [

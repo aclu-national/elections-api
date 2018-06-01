@@ -6,6 +6,7 @@
     "area_water":8514740,
     "geoid":"48155",
     "name":"Foard",
+    "ocd_id":"ocd-division/country:us/state:tx/county:foard",
     "state":"tx"
 },
   "bbox": [

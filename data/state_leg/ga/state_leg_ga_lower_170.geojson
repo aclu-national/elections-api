@@ -8,6 +8,7 @@
     "district_num":"170",
     "geoid":"13170",
     "name":"State House District 170",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:170",
     "state":"ga"
 },
   "bbox": [

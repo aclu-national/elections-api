@@ -6,6 +6,7 @@
     "area_water":11924769,
     "geoid":"13317",
     "name":"Wilkes",
+    "ocd_id":"ocd-division/country:us/state:ga/county:wilkes",
     "state":"ga"
 },
   "bbox": [

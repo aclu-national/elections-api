@@ -6,6 +6,7 @@
     "area_water":15542061,
     "geoid":"13075",
     "name":"Cook",
+    "ocd_id":"ocd-division/country:us/state:ga/county:cook",
     "state":"ga"
 },
   "bbox": [

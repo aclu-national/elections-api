@@ -6,6 +6,7 @@
     "area_water":4604207636,
     "geoid":"22087",
     "name":"St. Bernard",
+    "ocd_id":"ocd-division/country:us/state:la/county:st_bernard",
     "state":"la"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"176",
     "geoid":"13176",
     "name":"State House District 176",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:176",
     "state":"ga"
 },
   "bbox": [

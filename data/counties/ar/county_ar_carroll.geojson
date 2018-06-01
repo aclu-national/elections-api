@@ -6,6 +6,7 @@
     "area_water":22434173,
     "geoid":"05015",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:ar/county:carroll",
     "state":"ar"
 },
   "bbox": [

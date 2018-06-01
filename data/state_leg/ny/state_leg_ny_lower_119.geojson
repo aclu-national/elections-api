@@ -8,6 +8,7 @@
     "district_num":"119",
     "geoid":"36119",
     "name":"Assembly District 119",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:119",
     "state":"ny"
 },
   "bbox": [

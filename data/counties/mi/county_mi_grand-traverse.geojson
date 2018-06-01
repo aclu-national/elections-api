@@ -6,6 +6,7 @@
     "area_water":354756663,
     "geoid":"26055",
     "name":"Grand Traverse",
+    "ocd_id":"ocd-division/country:us/state:mi/county:grand_traverse",
     "state":"mi"
 },
   "bbox": [

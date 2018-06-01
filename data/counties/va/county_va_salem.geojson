@@ -6,6 +6,7 @@
     "area_water":277514,
     "geoid":"51775",
     "name":"Salem",
+    "ocd_id":"ocd-division/country:us/state:va/county:salem",
     "state":"va"
 },
   "bbox": [

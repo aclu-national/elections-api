@@ -6,6 +6,7 @@
     "area_water":105866,
     "geoid":"48443",
     "name":"Terrell",
+    "ocd_id":"ocd-division/country:us/state:tx/county:terrell",
     "state":"tx"
 },
   "bbox": [

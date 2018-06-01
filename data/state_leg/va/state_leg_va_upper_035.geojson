@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"51035",
     "name":"State Senate District 35",
+    "ocd_id":"ocd-division/country:us/state:va/sldu:35",
     "state":"va"
 },
   "bbox": [

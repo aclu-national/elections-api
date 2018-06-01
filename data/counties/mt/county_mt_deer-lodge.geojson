@@ -6,6 +6,7 @@
     "area_water":12199471,
     "geoid":"30023",
     "name":"Deer Lodge",
+    "ocd_id":"ocd-division/country:us/state:mt/county:deer_lodge",
     "state":"mt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":9745365,
     "geoid":"45041",
     "name":"Florence",
+    "ocd_id":"ocd-division/country:us/state:sc/county:florence",
     "state":"sc"
 },
   "bbox": [

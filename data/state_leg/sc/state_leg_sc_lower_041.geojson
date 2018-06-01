@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"45041",
     "name":"State House District HD-041",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:41",
     "state":"sc"
 },
   "bbox": [

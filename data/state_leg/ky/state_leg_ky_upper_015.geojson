@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"21015",
     "name":"State Senate District 15",
+    "ocd_id":"ocd-division/country:us/state:ky/sldu:15",
     "state":"ky"
 },
   "bbox": [

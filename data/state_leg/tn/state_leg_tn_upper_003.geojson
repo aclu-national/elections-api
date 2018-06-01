@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"47003",
     "name":"State Senate District 3",
+    "ocd_id":"ocd-division/country:us/state:tn/sldu:3",
     "state":"tn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"06019",
     "name":"Assembly District 19",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:19",
     "state":"ca"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":122121594,
     "geoid":"27145",
     "name":"Stearns",
+    "ocd_id":"ocd-division/country:us/state:mn/county:stearns",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":27051804,
     "geoid":"05143",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ar/county:washington",
     "state":"ar"
 },
   "bbox": [

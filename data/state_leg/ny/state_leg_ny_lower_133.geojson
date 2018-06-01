@@ -8,6 +8,7 @@
     "district_num":"133",
     "geoid":"36133",
     "name":"Assembly District 133",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:133",
     "state":"ny"
 },
   "bbox": [

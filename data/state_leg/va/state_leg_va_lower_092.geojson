@@ -8,6 +8,7 @@
     "district_num":"092",
     "geoid":"51092",
     "name":"State House District 92",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:92",
     "state":"va"
 },
   "bbox": [

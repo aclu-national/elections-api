@@ -6,6 +6,7 @@
     "area_water":19759408,
     "geoid":"38039",
     "name":"Griggs",
+    "ocd_id":"ocd-division/country:us/state:nd/county:griggs",
     "state":"nd"
 },
   "bbox": [

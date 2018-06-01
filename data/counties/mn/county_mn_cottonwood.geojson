@@ -6,6 +6,7 @@
     "area_water":22318968,
     "geoid":"27033",
     "name":"Cottonwood",
+    "ocd_id":"ocd-division/country:us/state:mn/county:cottonwood",
     "state":"mn"
 },
   "bbox": [

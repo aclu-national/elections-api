@@ -6,6 +6,7 @@
     "area_water":15344834,
     "geoid":"05037",
     "name":"Cross",
+    "ocd_id":"ocd-division/country:us/state:ar/county:cross",
     "state":"ar"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":18366965,
     "geoid":"17193",
     "name":"White",
+    "ocd_id":"ocd-division/country:us/state:il/county:white",
     "state":"il"
 },
   "bbox": [

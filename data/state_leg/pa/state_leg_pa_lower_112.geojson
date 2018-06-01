@@ -8,6 +8,7 @@
     "district_num":"112",
     "geoid":"42112",
     "name":"State House District 112",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:112",
     "state":"pa"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"18048",
     "name":"State Senate District 48",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:48",
     "state":"in"
 },
   "bbox": [

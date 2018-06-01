@@ -8,6 +8,7 @@
     "district_num":"127",
     "geoid":"25127",
     "name":"10th Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:127",
     "state":"ma"
 },
   "bbox": [

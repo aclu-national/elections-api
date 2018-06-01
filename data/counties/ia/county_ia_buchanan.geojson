@@ -6,6 +6,7 @@
     "area_water":5427666,
     "geoid":"19019",
     "name":"Buchanan",
+    "ocd_id":"ocd-division/country:us/state:ia/county:buchanan",
     "state":"ia"
 },
   "bbox": [

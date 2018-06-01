@@ -8,6 +8,7 @@
     "district_num":"122",
     "geoid":"13122",
     "name":"State House District 122",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:122",
     "state":"ga"
 },
   "bbox": [

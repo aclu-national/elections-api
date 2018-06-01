@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"51015",
     "name":"State Senate District 15",
+    "ocd_id":"ocd-division/country:us/state:va/sldu:15",
     "state":"va"
 },
   "bbox": [

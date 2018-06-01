@@ -6,6 +6,7 @@
     "area_water":9163416,
     "geoid":"48187",
     "name":"Guadalupe",
+    "ocd_id":"ocd-division/country:us/state:tx/county:guadalupe",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"44003",
     "name":"State Senate District 3",
+    "ocd_id":"ocd-division/country:us/state:ri/sldu:3",
     "state":"ri"
 },
   "bbox": [

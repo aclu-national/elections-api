@@ -6,6 +6,7 @@
     "area_water":40429683,
     "geoid":"13031",
     "name":"Bulloch",
+    "ocd_id":"ocd-division/country:us/state:ga/county:bulloch",
     "state":"ga"
 },
   "bbox": [

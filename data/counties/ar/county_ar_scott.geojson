@@ -6,6 +6,7 @@
     "area_water":14887193,
     "geoid":"05127",
     "name":"Scott",
+    "ocd_id":"ocd-division/country:us/state:ar/county:scott",
     "state":"ar"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":155746682,
     "geoid":"32021",
     "name":"Mineral",
+    "ocd_id":"ocd-division/country:us/state:nv/county:mineral",
     "state":"nv"
 },
   "bbox": [

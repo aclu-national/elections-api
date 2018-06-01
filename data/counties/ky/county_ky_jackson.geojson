@@ -6,6 +6,7 @@
     "area_water":3407438,
     "geoid":"21109",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:ky/county:jackson",
     "state":"ky"
 },
   "bbox": [

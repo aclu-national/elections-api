@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"08029",
     "name":"State House District 29",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:29",
     "state":"co"
 },
   "bbox": [

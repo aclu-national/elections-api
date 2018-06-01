@@ -6,6 +6,7 @@
     "area_water":20729139,
     "geoid":"29071",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:mo/county:franklin",
     "state":"mo"
 },
   "bbox": [

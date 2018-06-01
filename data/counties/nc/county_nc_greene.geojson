@@ -6,6 +6,7 @@
     "area_water":1217389,
     "geoid":"37079",
     "name":"Greene",
+    "ocd_id":"ocd-division/country:us/state:nc/county:greene",
     "state":"nc"
 },
   "bbox": [

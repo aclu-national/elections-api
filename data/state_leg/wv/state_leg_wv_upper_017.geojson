@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"54017",
     "name":"State Senate District 17",
+    "ocd_id":"ocd-division/country:us/state:wv/sldu:17",
     "state":"wv"
 },
   "bbox": [

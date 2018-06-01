@@ -6,6 +6,7 @@
     "area_water":23932649,
     "geoid":"42033",
     "name":"Clearfield",
+    "ocd_id":"ocd-division/country:us/state:pa/county:clearfield",
     "state":"pa"
 },
   "bbox": [

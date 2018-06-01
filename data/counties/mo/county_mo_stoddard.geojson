@@ -6,6 +6,7 @@
     "area_water":15031190,
     "geoid":"29207",
     "name":"Stoddard",
+    "ocd_id":"ocd-division/country:us/state:mo/county:stoddard",
     "state":"mo"
 },
   "bbox": [

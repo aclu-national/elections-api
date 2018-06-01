@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"40045",
     "name":"State House District 45",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:45",
     "state":"ok"
 },
   "bbox": [

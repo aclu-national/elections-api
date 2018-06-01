@@ -8,6 +8,7 @@
     "district_num":"35B",
     "geoid":"2435B",
     "name":"State Legislative Subdistrict 35B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:35B",
     "state":"md"
 },
   "bbox": [

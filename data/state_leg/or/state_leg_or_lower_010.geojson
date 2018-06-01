@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"41010",
     "name":"State House District 10",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:10",
     "state":"or"
 },
   "bbox": [

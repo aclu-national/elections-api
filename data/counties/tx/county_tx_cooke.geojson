@@ -6,6 +6,7 @@
     "area_water":61333916,
     "geoid":"48097",
     "name":"Cooke",
+    "ocd_id":"ocd-division/country:us/state:tx/county:cooke",
     "state":"tx"
 },
   "bbox": [

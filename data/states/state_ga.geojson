@@ -6,6 +6,7 @@
     "area_water":4733385577,
     "geoid":"13",
     "name":"Georgia",
+    "ocd_id":"ocd-division/country:us/state:ga",
     "state":"ga"
 },
   "bbox": [

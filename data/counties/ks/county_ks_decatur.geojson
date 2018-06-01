@@ -6,6 +6,7 @@
     "area_water":1631670,
     "geoid":"20039",
     "name":"Decatur",
+    "ocd_id":"ocd-division/country:us/state:ks/county:decatur",
     "state":"ks"
 },
   "bbox": [

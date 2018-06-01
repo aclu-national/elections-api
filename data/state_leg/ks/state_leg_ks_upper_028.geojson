@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"20028",
     "name":"State Senate District 28",
+    "ocd_id":"ocd-division/country:us/state:ks/sldu:28",
     "state":"ks"
 },
   "bbox": [

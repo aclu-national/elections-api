@@ -8,6 +8,7 @@
     "district_num":"C41",
     "geoid":"50C41",
     "name":"Chittenden-4-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C41",
     "state":"vt"
 },
   "bbox": [

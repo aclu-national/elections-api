@@ -6,6 +6,7 @@
     "area_water":6732250,
     "geoid":"18177",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:in/county:wayne",
     "state":"in"
 },
   "bbox": [

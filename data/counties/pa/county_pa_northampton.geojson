@@ -6,6 +6,7 @@
     "area_water":19452870,
     "geoid":"42095",
     "name":"Northampton",
+    "ocd_id":"ocd-division/country:us/state:pa/county:northampton",
     "state":"pa"
 },
   "bbox": [

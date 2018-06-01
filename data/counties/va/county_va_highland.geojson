@@ -6,6 +6,7 @@
     "area_water":1805613,
     "geoid":"51091",
     "name":"Highland",
+    "ocd_id":"ocd-division/country:us/state:va/county:highland",
     "state":"va"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":22297610,
     "geoid":"48033",
     "name":"Borden",
+    "ocd_id":"ocd-division/country:us/state:tx/county:borden",
     "state":"tx"
 },
   "bbox": [

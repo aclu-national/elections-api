@@ -6,6 +6,7 @@
     "area_water":79558079,
     "geoid":"08123",
     "name":"Weld",
+    "ocd_id":"ocd-division/country:us/state:co/county:weld",
     "state":"co"
 },
   "bbox": [

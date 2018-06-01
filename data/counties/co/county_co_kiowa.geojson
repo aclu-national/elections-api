@@ -6,6 +6,7 @@
     "area_water":47032919,
     "geoid":"08061",
     "name":"Kiowa",
+    "ocd_id":"ocd-division/country:us/state:co/county:kiowa",
     "state":"co"
 },
   "bbox": [

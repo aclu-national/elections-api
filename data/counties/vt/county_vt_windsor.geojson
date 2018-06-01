@@ -6,6 +6,7 @@
     "area_water":19363219,
     "geoid":"50027",
     "name":"Windsor",
+    "ocd_id":"ocd-division/country:us/state:vt/county:windsor",
     "state":"vt"
 },
   "bbox": [

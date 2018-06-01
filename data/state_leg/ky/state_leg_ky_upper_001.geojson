@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"21001",
     "name":"State Senate District 1",
+    "ocd_id":"ocd-division/country:us/state:ky/sldu:1",
     "state":"ky"
 },
   "bbox": [

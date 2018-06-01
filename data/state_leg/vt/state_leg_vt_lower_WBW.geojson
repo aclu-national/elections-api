@@ -8,6 +8,7 @@
     "district_num":"WBW",
     "geoid":"50WBW",
     "name":"Windham-Bennington-Windsor State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WBW",
     "state":"vt"
 },
   "bbox": [

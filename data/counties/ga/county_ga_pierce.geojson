@@ -6,6 +6,7 @@
     "area_water":7916649,
     "geoid":"13229",
     "name":"Pierce",
+    "ocd_id":"ocd-division/country:us/state:ga/county:pierce",
     "state":"ga"
 },
   "bbox": [

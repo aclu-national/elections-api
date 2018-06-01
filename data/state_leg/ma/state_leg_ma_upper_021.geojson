@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"25021",
     "name":"Second Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:21",
     "state":"ma"
 },
   "bbox": [

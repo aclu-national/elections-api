@@ -8,6 +8,7 @@
     "district_num":"108",
     "geoid":"09108",
     "name":"State House District 108",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:108",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":49057525,
     "geoid":"01131",
     "name":"Wilcox",
+    "ocd_id":"ocd-division/country:us/state:al/county:wilcox",
     "state":"al"
 },
   "bbox": [

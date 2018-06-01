@@ -8,6 +8,7 @@
     "district_num":"25A",
     "geoid":"2725A",
     "name":"State House District 25A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:25A",
     "state":"mn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":68874632,
     "geoid":"31069",
     "name":"Garden",
+    "ocd_id":"ocd-division/country:us/state:ne/county:garden",
     "state":"ne"
 },
   "bbox": [

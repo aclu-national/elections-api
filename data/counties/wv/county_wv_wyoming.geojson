@@ -6,6 +6,7 @@
     "area_water":6123514,
     "geoid":"54109",
     "name":"Wyoming",
+    "ocd_id":"ocd-division/country:us/state:wv/county:wyoming",
     "state":"wv"
 },
   "bbox": [

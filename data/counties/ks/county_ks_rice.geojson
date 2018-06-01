@@ -6,6 +6,7 @@
     "area_water":4482698,
     "geoid":"20159",
     "name":"Rice",
+    "ocd_id":"ocd-division/country:us/state:ks/county:rice",
     "state":"ks"
 },
   "bbox": [

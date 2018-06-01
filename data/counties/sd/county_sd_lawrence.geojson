@@ -6,6 +6,7 @@
     "area_water":667509,
     "geoid":"46081",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:sd/county:lawrence",
     "state":"sd"
 },
   "bbox": [

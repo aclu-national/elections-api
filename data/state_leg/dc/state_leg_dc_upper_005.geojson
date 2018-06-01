@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"11005",
     "name":"Ward 5",
+    "ocd_id":"ocd-division/country:us/state:dc/sldu:5",
     "state":"dc"
 },
   "bbox": [

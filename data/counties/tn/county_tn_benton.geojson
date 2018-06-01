@@ -6,6 +6,7 @@
     "area_water":108583504,
     "geoid":"47005",
     "name":"Benton",
+    "ocd_id":"ocd-division/country:us/state:tn/county:benton",
     "state":"tn"
 },
   "bbox": [

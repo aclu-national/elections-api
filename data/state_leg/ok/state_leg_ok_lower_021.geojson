@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"40021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:21",
     "state":"ok"
 },
   "bbox": [

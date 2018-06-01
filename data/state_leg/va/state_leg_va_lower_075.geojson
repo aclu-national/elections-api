@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"51075",
     "name":"State House District 75",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:75",
     "state":"va"
 },
   "bbox": [

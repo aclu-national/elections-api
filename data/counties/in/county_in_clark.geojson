@@ -6,6 +6,7 @@
     "area_water":9223876,
     "geoid":"18019",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:in/county:clark",
     "state":"in"
 },
   "bbox": [

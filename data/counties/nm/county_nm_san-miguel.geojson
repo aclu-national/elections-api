@@ -6,6 +6,7 @@
     "area_water":51380263,
     "geoid":"35047",
     "name":"San Miguel",
+    "ocd_id":"ocd-division/country:us/state:nm/county:san_miguel",
     "state":"nm"
 },
   "bbox": [

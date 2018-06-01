@@ -6,6 +6,7 @@
     "area_water":24843848,
     "geoid":"49015",
     "name":"Emery",
+    "ocd_id":"ocd-division/country:us/state:ut/county:emery",
     "state":"ut"
 },
   "bbox": [

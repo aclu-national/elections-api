@@ -6,6 +6,7 @@
     "area_water":29211230,
     "geoid":"45083",
     "name":"Spartanburg",
+    "ocd_id":"ocd-division/country:us/state:sc/county:spartanburg",
     "state":"sc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"55021",
     "name":"Assembly District 21",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:21",
     "state":"wi"
 },
   "bbox": [

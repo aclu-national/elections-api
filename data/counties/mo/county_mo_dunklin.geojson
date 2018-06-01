@@ -6,6 +6,7 @@
     "area_water":15767988,
     "geoid":"29069",
     "name":"Dunklin",
+    "ocd_id":"ocd-division/country:us/state:mo/county:dunklin",
     "state":"mo"
 },
   "bbox": [

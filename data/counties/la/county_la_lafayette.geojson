@@ -6,6 +6,7 @@
     "area_water":1208724,
     "geoid":"22055",
     "name":"Lafayette",
+    "ocd_id":"ocd-division/country:us/state:la/county:lafayette",
     "state":"la"
 },
   "bbox": [

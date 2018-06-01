@@ -6,6 +6,7 @@
     "area_water":49745785,
     "geoid":"29213",
     "name":"Taney",
+    "ocd_id":"ocd-division/country:us/state:mo/county:taney",
     "state":"mo"
 },
   "bbox": [

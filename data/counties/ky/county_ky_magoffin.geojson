@@ -6,6 +6,7 @@
     "area_water":1847051,
     "geoid":"21153",
     "name":"Magoffin",
+    "ocd_id":"ocd-division/country:us/state:ky/county:magoffin",
     "state":"ky"
 },
   "bbox": [

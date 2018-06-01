@@ -6,6 +6,7 @@
     "area_water":11390302,
     "geoid":"13315",
     "name":"Wilcox",
+    "ocd_id":"ocd-division/country:us/state:ga/county:wilcox",
     "state":"ga"
 },
   "bbox": [

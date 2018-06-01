@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"51032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:32",
     "state":"va"
 },
   "bbox": [

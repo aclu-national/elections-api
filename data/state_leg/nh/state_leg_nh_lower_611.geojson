@@ -8,6 +8,7 @@
     "district_num":"611",
     "geoid":"33611",
     "name":"State House District Merrimack County No. 11",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:611",
     "state":"nh"
 },
   "bbox": [

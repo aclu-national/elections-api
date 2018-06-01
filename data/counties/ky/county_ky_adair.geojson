@@ -6,6 +6,7 @@
     "area_water":18430783,
     "geoid":"21001",
     "name":"Adair",
+    "ocd_id":"ocd-division/country:us/state:ky/county:adair",
     "state":"ky"
 },
   "bbox": [

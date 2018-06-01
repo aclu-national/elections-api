@@ -6,6 +6,7 @@
     "area_water":12194983,
     "geoid":"39071",
     "name":"Highland",
+    "ocd_id":"ocd-division/country:us/state:oh/county:highland",
     "state":"oh"
 },
   "bbox": [

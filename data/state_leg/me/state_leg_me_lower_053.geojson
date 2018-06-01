@@ -8,6 +8,7 @@
     "district_num":"053",
     "geoid":"23053",
     "name":"State House District 53",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:53",
     "state":"me"
 },
   "bbox": [

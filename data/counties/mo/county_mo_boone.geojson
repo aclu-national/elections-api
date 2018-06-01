@@ -6,6 +6,7 @@
     "area_water":14239688,
     "geoid":"29019",
     "name":"Boone",
+    "ocd_id":"ocd-division/country:us/state:mo/county:boone",
     "state":"mo"
 },
   "bbox": [

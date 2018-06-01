@@ -6,6 +6,7 @@
     "area_water":36542088,
     "geoid":"49023",
     "name":"Juab",
+    "ocd_id":"ocd-division/country:us/state:ut/county:juab",
     "state":"ut"
 },
   "bbox": [

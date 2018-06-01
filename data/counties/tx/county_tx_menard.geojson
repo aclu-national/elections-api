@@ -6,6 +6,7 @@
     "area_water":613559,
     "geoid":"48327",
     "name":"Menard",
+    "ocd_id":"ocd-division/country:us/state:tx/county:menard",
     "state":"tx"
 },
   "bbox": [

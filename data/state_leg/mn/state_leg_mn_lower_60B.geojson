@@ -8,6 +8,7 @@
     "district_num":"60B",
     "geoid":"2760B",
     "name":"State House District 60B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:60B",
     "state":"mn"
 },
   "bbox": [

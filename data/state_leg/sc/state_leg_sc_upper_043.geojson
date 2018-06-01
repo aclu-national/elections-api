@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"45043",
     "name":"State Senate District 43",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:43",
     "state":"sc"
 },
   "bbox": [

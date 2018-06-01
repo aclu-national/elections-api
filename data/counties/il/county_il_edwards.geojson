@@ -6,6 +6,7 @@
     "area_water":781203,
     "geoid":"17047",
     "name":"Edwards",
+    "ocd_id":"ocd-division/country:us/state:il/county:edwards",
     "state":"il"
 },
   "bbox": [

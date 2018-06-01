@@ -6,6 +6,7 @@
     "area_water":31218720,
     "geoid":"37145",
     "name":"Person",
+    "ocd_id":"ocd-division/country:us/state:nc/county:person",
     "state":"nc"
 },
   "bbox": [

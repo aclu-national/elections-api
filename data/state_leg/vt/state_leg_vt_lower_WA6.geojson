@@ -8,6 +8,7 @@
     "district_num":"WA6",
     "geoid":"50WA6",
     "name":"Washington-6 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WA6",
     "state":"vt"
 },
   "bbox": [

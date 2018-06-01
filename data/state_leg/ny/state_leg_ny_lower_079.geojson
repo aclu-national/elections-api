@@ -8,6 +8,7 @@
     "district_num":"079",
     "geoid":"36079",
     "name":"Assembly District 79",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:79",
     "state":"ny"
 },
   "bbox": [

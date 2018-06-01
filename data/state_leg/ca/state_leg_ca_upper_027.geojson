@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"06027",
     "name":"State Senate District 27",
+    "ocd_id":"ocd-division/country:us/state:ca/sldu:27",
     "state":"ca"
 },
   "bbox": [

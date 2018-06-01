@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"42005",
     "name":"State House District 5",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:5",
     "state":"pa"
 },
   "bbox": [

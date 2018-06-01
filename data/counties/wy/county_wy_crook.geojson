@@ -6,6 +6,7 @@
     "area_water":28186053,
     "geoid":"56011",
     "name":"Crook",
+    "ocd_id":"ocd-division/country:us/state:wy/county:crook",
     "state":"wy"
 },
   "bbox": [

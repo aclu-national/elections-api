@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"08043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:43",
     "state":"co"
 },
   "bbox": [

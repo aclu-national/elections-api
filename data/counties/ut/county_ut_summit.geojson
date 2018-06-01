@@ -6,6 +6,7 @@
     "area_water":26615947,
     "geoid":"49043",
     "name":"Summit",
+    "ocd_id":"ocd-division/country:us/state:ut/county:summit",
     "state":"ut"
 },
   "bbox": [

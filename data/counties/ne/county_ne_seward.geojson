@@ -6,6 +6,7 @@
     "area_water":11547536,
     "geoid":"31159",
     "name":"Seward",
+    "ocd_id":"ocd-division/country:us/state:ne/county:seward",
     "state":"ne"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"R52",
     "geoid":"50R52",
     "name":"Rutland-5-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:R52",
     "state":"vt"
 },
   "bbox": [

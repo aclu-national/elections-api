@@ -8,6 +8,7 @@
     "district_num":"115",
     "geoid":"36115",
     "name":"Assembly District 115",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:115",
     "state":"ny"
 },
   "bbox": [

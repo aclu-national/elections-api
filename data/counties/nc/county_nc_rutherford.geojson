@@ -6,6 +6,7 @@
     "area_water":4681435,
     "geoid":"37161",
     "name":"Rutherford",
+    "ocd_id":"ocd-division/country:us/state:nc/county:rutherford",
     "state":"nc"
 },
   "bbox": [

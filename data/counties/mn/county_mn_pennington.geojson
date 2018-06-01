@@ -6,6 +6,7 @@
     "area_water":4332057,
     "geoid":"27113",
     "name":"Pennington",
+    "ocd_id":"ocd-division/country:us/state:mn/county:pennington",
     "state":"mn"
 },
   "bbox": [

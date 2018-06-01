@@ -6,6 +6,7 @@
     "area_water":9158424,
     "geoid":"36121",
     "name":"Wyoming",
+    "ocd_id":"ocd-division/country:us/state:ny/county:wyoming",
     "state":"ny"
 },
   "bbox": [

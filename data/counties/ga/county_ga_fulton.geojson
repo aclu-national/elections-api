@@ -6,6 +6,7 @@
     "area_water":19876730,
     "geoid":"13121",
     "name":"Fulton",
+    "ocd_id":"ocd-division/country:us/state:ga/county:fulton",
     "state":"ga"
 },
   "bbox": [

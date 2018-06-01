@@ -6,6 +6,7 @@
     "area_water":7130763257,
     "geoid":"25",
     "name":"Massachusetts",
+    "ocd_id":"ocd-division/country:us/state:ma",
     "state":"ma"
 },
   "bbox": [

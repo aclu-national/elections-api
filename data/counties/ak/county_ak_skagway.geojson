@@ -6,6 +6,7 @@
     "area_water":28607173,
     "geoid":"02230",
     "name":"Skagway",
+    "ocd_id":"ocd-division/country:us/state:ak/county:skagway",
     "state":"ak"
 },
   "bbox": [

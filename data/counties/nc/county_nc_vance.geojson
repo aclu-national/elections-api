@@ -6,6 +6,7 @@
     "area_water":42187365,
     "geoid":"37181",
     "name":"Vance",
+    "ocd_id":"ocd-division/country:us/state:nc/county:vance",
     "state":"nc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":197312587,
     "geoid":"38093",
     "name":"Stutsman",
+    "ocd_id":"ocd-division/country:us/state:nd/county:stutsman",
     "state":"nd"
 },
   "bbox": [

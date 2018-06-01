@@ -6,6 +6,7 @@
     "area_water":6308712,
     "geoid":"47017",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:tn/county:carroll",
     "state":"tn"
 },
   "bbox": [

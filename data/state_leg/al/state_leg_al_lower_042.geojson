@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"01042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:42",
     "state":"al"
 },
   "bbox": [

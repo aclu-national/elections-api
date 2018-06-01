@@ -6,6 +6,7 @@
     "area_water":71442197,
     "geoid":"50019",
     "name":"Orleans",
+    "ocd_id":"ocd-division/country:us/state:vt/county:orleans",
     "state":"vt"
 },
   "bbox": [

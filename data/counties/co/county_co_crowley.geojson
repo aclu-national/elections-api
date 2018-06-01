@@ -6,6 +6,7 @@
     "area_water":33422982,
     "geoid":"08025",
     "name":"Crowley",
+    "ocd_id":"ocd-division/country:us/state:co/county:crowley",
     "state":"co"
 },
   "bbox": [

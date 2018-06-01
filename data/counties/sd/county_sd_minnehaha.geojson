@@ -6,6 +6,7 @@
     "area_water":18198505,
     "geoid":"46099",
     "name":"Minnehaha",
+    "ocd_id":"ocd-division/country:us/state:sd/county:minnehaha",
     "state":"sd"
 },
   "bbox": [

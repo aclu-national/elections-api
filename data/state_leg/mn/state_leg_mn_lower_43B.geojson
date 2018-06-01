@@ -8,6 +8,7 @@
     "district_num":"43B",
     "geoid":"2743B",
     "name":"State House District 43B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:43B",
     "state":"mn"
 },
   "bbox": [

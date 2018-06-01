@@ -6,6 +6,7 @@
     "area_water":3785546967,
     "geoid":"36103",
     "name":"Suffolk",
+    "ocd_id":"ocd-division/country:us/state:ny/county:suffolk",
     "state":"ny"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"24B",
     "geoid":"2724B",
     "name":"State House District 24B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:24B",
     "state":"mn"
 },
   "bbox": [

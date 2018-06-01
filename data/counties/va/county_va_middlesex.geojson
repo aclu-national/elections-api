@@ -6,6 +6,7 @@
     "area_water":208357022,
     "geoid":"51119",
     "name":"Middlesex",
+    "ocd_id":"ocd-division/country:us/state:va/county:middlesex",
     "state":"va"
 },
   "bbox": [

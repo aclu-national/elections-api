@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"13052",
     "name":"State House District 52",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:52",
     "state":"ga"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"39010",
     "name":"State Senate District 10",
+    "ocd_id":"ocd-division/country:us/state:oh/sldu:10",
     "state":"oh"
 },
   "bbox": [

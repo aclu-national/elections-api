@@ -8,6 +8,7 @@
     "district_num":"202",
     "geoid":"42202",
     "name":"State House District 202",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:202",
     "state":"pa"
 },
   "bbox": [

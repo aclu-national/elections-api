@@ -6,6 +6,7 @@
     "area_water":25799665,
     "geoid":"13261",
     "name":"Sumter",
+    "ocd_id":"ocd-division/country:us/state:ga/county:sumter",
     "state":"ga"
 },
   "bbox": [

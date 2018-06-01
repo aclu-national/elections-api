@@ -6,6 +6,7 @@
     "area_water":55283099,
     "geoid":"22073",
     "name":"Ouachita",
+    "ocd_id":"ocd-division/country:us/state:la/county:ouachita",
     "state":"la"
 },
   "bbox": [

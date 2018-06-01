@@ -6,6 +6,7 @@
     "area_water":8469171,
     "geoid":"35025",
     "name":"Lea",
+    "ocd_id":"ocd-division/country:us/state:nm/county:lea",
     "state":"nm"
 },
   "bbox": [

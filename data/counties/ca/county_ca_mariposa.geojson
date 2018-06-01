@@ -6,6 +6,7 @@
     "area_water":36225644,
     "geoid":"06043",
     "name":"Mariposa",
+    "ocd_id":"ocd-division/country:us/state:ca/county:mariposa",
     "state":"ca"
 },
   "bbox": [

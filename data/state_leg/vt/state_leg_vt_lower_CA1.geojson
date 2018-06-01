@@ -8,6 +8,7 @@
     "district_num":"CA1",
     "geoid":"50CA1",
     "name":"Caledonia-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:CA1",
     "state":"vt"
 },
   "bbox": [

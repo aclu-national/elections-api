@@ -8,6 +8,7 @@
     "district_num":"087",
     "geoid":"36087",
     "name":"Assembly District 87",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:87",
     "state":"ny"
 },
   "bbox": [

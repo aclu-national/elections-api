@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"34001",
     "name":"State Senate District 1",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:1",
     "state":"nj"
 },
   "bbox": [

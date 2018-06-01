@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"33003",
     "name":"State House District Belknap County No. 3",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:3",
     "state":"nh"
 },
   "bbox": [

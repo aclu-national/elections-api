@@ -6,6 +6,7 @@
     "area_water":28107882,
     "geoid":"22041",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:la/county:franklin",
     "state":"la"
 },
   "bbox": [

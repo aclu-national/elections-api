@@ -6,6 +6,7 @@
     "area_water":114287450,
     "geoid":"45053",
     "name":"Jasper",
+    "ocd_id":"ocd-division/country:us/state:sc/county:jasper",
     "state":"sc"
 },
   "bbox": [

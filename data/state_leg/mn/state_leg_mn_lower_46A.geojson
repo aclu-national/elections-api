@@ -8,6 +8,7 @@
     "district_num":"46A",
     "geoid":"2746A",
     "name":"State House District 46A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:46A",
     "state":"mn"
 },
   "bbox": [

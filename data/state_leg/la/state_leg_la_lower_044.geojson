@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"22044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:44",
     "state":"la"
 },
   "bbox": [

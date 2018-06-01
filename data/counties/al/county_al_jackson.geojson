@@ -6,6 +6,7 @@
     "area_water":126334708,
     "geoid":"01071",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:al/county:jackson",
     "state":"al"
 },
   "bbox": [

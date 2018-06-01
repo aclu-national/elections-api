@@ -6,6 +6,7 @@
     "area_water":631357625,
     "geoid":"23015",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:me/county:lincoln",
     "state":"me"
 },
   "bbox": [

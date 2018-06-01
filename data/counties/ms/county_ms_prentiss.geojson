@@ -6,6 +6,7 @@
     "area_water":8353594,
     "geoid":"28117",
     "name":"Prentiss",
+    "ocd_id":"ocd-division/country:us/state:ms/county:prentiss",
     "state":"ms"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":15717389,
     "geoid":"06101",
     "name":"Sutter",
+    "ocd_id":"ocd-division/country:us/state:ca/county:sutter",
     "state":"ca"
 },
   "bbox": [

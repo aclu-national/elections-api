@@ -8,6 +8,7 @@
     "district_num":"116",
     "geoid":"25116",
     "name":"2nd Hampshire District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:116",
     "state":"ma"
 },
   "bbox": [

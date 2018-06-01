@@ -6,6 +6,7 @@
     "area_water":15363856,
     "geoid":"39145",
     "name":"Scioto",
+    "ocd_id":"ocd-division/country:us/state:oh/county:scioto",
     "state":"oh"
 },
   "bbox": [

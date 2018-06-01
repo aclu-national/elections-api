@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"36045",
     "name":"State Senate District 45",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:45",
     "state":"ny"
 },
   "bbox": [

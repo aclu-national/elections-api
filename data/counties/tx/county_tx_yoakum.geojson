@@ -6,6 +6,7 @@
     "area_water":34329,
     "geoid":"48501",
     "name":"Yoakum",
+    "ocd_id":"ocd-division/country:us/state:tx/county:yoakum",
     "state":"tx"
 },
   "bbox": [

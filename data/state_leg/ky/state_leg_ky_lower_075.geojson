@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"21075",
     "name":"State House District 75",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:75",
     "state":"ky"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":22385627,
     "geoid":"42115",
     "name":"Susquehanna",
+    "ocd_id":"ocd-division/country:us/state:pa/county:susquehanna",
     "state":"pa"
 },
   "bbox": [

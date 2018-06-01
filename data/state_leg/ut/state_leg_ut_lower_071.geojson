@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"49071",
     "name":"State House District 71",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:71",
     "state":"ut"
 },
   "bbox": [

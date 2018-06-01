@@ -6,6 +6,7 @@
     "area_water":50666112,
     "geoid":"48035",
     "name":"Bosque",
+    "ocd_id":"ocd-division/country:us/state:tx/county:bosque",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1794793532,
     "geoid":"06037",
     "name":"Los Angeles",
+    "ocd_id":"ocd-division/country:us/state:ca/county:los_angeles",
     "state":"ca"
 },
   "bbox": [

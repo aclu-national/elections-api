@@ -6,6 +6,7 @@
     "area_water":2189943,
     "geoid":"48229",
     "name":"Hudspeth",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hudspeth",
     "state":"tx"
 },
   "bbox": [

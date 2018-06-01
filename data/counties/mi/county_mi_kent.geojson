@@ -6,6 +6,7 @@
     "area_water":62899810,
     "geoid":"26081",
     "name":"Kent",
+    "ocd_id":"ocd-division/country:us/state:mi/county:kent",
     "state":"mi"
 },
   "bbox": [

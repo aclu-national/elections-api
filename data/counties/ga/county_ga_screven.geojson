@@ -6,6 +6,7 @@
     "area_water":27885165,
     "geoid":"13251",
     "name":"Screven",
+    "ocd_id":"ocd-division/country:us/state:ga/county:screven",
     "state":"ga"
 },
   "bbox": [

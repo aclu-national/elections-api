@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"13063",
     "name":"State House District 63",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:63",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":19050015,
     "geoid":"48175",
     "name":"Goliad",
+    "ocd_id":"ocd-division/country:us/state:tx/county:goliad",
     "state":"tx"
 },
   "bbox": [

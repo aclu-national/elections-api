@@ -6,6 +6,7 @@
     "area_water":189679746,
     "geoid":"53007",
     "name":"Chelan",
+    "ocd_id":"ocd-division/country:us/state:wa/county:chelan",
     "state":"wa"
 },
   "bbox": [

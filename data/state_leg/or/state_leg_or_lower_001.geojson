@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"41001",
     "name":"State House District 1",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:1",
     "state":"or"
 },
   "bbox": [

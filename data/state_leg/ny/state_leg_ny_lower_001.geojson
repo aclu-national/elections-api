@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"36001",
     "name":"Assembly District 1",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:1",
     "state":"ny"
 },
   "bbox": [

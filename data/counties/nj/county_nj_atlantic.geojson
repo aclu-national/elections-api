@@ -6,6 +6,7 @@
     "area_water":301062779,
     "geoid":"34001",
     "name":"Atlantic",
+    "ocd_id":"ocd-division/country:us/state:nj/county:atlantic",
     "state":"nj"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"03B",
     "geoid":"2403B",
     "name":"State Legislative Subdistrict 3B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:3",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":4806274,
     "geoid":"20141",
     "name":"Osborne",
+    "ocd_id":"ocd-division/country:us/state:ks/county:osborne",
     "state":"ks"
 },
   "bbox": [

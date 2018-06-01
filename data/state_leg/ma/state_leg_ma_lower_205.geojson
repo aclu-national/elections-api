@@ -8,6 +8,7 @@
     "district_num":"205",
     "geoid":"25205",
     "name":"3rd Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:205",
     "state":"ma"
 },
   "bbox": [

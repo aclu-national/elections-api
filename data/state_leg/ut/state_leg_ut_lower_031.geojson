@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"49031",
     "name":"State House District 31",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:31",
     "state":"ut"
 },
   "bbox": [

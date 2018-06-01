@@ -6,6 +6,7 @@
     "area_water":327694,
     "geoid":"72077",
     "name":"Juncos",
+    "ocd_id":"ocd-division/country:us/state:pr/county:juncos",
     "state":"pr"
 },
   "bbox": [

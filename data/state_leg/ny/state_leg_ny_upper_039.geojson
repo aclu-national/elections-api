@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"36039",
     "name":"State Senate District 39",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:39",
     "state":"ny"
 },
   "bbox": [

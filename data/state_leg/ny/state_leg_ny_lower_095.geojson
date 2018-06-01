@@ -8,6 +8,7 @@
     "district_num":"095",
     "geoid":"36095",
     "name":"Assembly District 95",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:95",
     "state":"ny"
 },
   "bbox": [

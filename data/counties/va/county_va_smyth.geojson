@@ -6,6 +6,7 @@
     "area_water":3519017,
     "geoid":"51173",
     "name":"Smyth",
+    "ocd_id":"ocd-division/country:us/state:va/county:smyth",
     "state":"va"
 },
   "bbox": [

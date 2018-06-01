@@ -6,6 +6,7 @@
     "area_water":437282733,
     "geoid":"36059",
     "name":"Nassau",
+    "ocd_id":"ocd-division/country:us/state:ny/county:nassau",
     "state":"ny"
 },
   "bbox": [

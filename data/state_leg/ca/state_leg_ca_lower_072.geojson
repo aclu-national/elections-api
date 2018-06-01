@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"06072",
     "name":"Assembly District 72",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:72",
     "state":"ca"
 },
   "bbox": [

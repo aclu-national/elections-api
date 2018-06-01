@@ -8,6 +8,7 @@
     "district_num":"B21",
     "geoid":"50B21",
     "name":"Bennington-2-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:B21",
     "state":"vt"
 },
   "bbox": [

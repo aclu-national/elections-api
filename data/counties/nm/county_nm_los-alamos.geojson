@@ -6,6 +6,7 @@
     "area_water":229869,
     "geoid":"35028",
     "name":"Los Alamos",
+    "ocd_id":"ocd-division/country:us/state:nm/county:los_alamos",
     "state":"nm"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"55039",
     "name":"Assembly District 39",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:39",
     "state":"wi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"39027",
     "name":"State Senate District 27",
+    "ocd_id":"ocd-division/country:us/state:oh/sldu:27",
     "state":"oh"
 },
   "bbox": [

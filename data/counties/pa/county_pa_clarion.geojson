@@ -6,6 +6,7 @@
     "area_water":23335885,
     "geoid":"42031",
     "name":"Clarion",
+    "ocd_id":"ocd-division/country:us/state:pa/county:clarion",
     "state":"pa"
 },
   "bbox": [

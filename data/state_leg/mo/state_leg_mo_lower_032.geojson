@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"29032",
     "name":"State House District 32",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:32",
     "state":"mo"
 },
   "bbox": [

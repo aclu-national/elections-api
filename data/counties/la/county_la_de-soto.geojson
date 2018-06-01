@@ -6,6 +6,7 @@
     "area_water":47049426,
     "geoid":"22031",
     "name":"De Soto",
+    "ocd_id":"ocd-division/country:us/state:la/county:de_soto",
     "state":"la"
 },
   "bbox": [

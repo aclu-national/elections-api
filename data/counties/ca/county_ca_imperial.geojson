@@ -6,6 +6,7 @@
     "area_water":790230304,
     "geoid":"06025",
     "name":"Imperial",
+    "ocd_id":"ocd-division/country:us/state:ca/county:imperial",
     "state":"ca"
 },
   "bbox": [

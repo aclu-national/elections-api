@@ -6,6 +6,7 @@
     "area_water":60931665,
     "geoid":"01121",
     "name":"Talladega",
+    "ocd_id":"ocd-division/country:us/state:al/county:talladega",
     "state":"al"
 },
   "bbox": [

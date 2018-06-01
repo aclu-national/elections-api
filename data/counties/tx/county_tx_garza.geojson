@@ -6,6 +6,7 @@
     "area_water":7215530,
     "geoid":"48169",
     "name":"Garza",
+    "ocd_id":"ocd-division/country:us/state:tx/county:garza",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"23B",
     "geoid":"2423B",
     "name":"State Legislative Subdistrict 23B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:23B",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12087996,
     "geoid":"20017",
     "name":"Chase",
+    "ocd_id":"ocd-division/country:us/state:ks/county:chase",
     "state":"ks"
 },
   "bbox": [

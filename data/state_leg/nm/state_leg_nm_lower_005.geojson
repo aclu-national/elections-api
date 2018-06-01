@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"35005",
     "name":"State House District 5",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:5",
     "state":"nm"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":73945449,
     "geoid":"55023",
     "name":"Crawford",
+    "ocd_id":"ocd-division/country:us/state:wi/county:crawford",
     "state":"wi"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"057",
     "geoid":"48057",
     "name":"State House District 57",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:57",
     "state":"tx"
 },
   "bbox": [

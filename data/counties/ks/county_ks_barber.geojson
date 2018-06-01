@@ -6,6 +6,7 @@
     "area_water":5403867,
     "geoid":"20007",
     "name":"Barber",
+    "ocd_id":"ocd-division/country:us/state:ks/county:barber",
     "state":"ks"
 },
   "bbox": [

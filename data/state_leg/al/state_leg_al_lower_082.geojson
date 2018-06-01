@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"01082",
     "name":"State House District 82",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:82",
     "state":"al"
 },
   "bbox": [

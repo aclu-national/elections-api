@@ -6,6 +6,7 @@
     "area_water":103429249,
     "geoid":"42071",
     "name":"Lancaster",
+    "ocd_id":"ocd-division/country:us/state:pa/county:lancaster",
     "state":"pa"
 },
   "bbox": [

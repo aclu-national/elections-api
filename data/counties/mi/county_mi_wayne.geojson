@@ -6,6 +6,7 @@
     "area_water":157341390,
     "geoid":"26163",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:mi/county:wayne",
     "state":"mi"
 },
   "bbox": [

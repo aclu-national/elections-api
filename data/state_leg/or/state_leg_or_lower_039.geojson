@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"41039",
     "name":"State House District 39",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:39",
     "state":"or"
 },
   "bbox": [

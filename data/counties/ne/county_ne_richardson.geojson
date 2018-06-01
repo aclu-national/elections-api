@@ -6,6 +6,7 @@
     "area_water":7077617,
     "geoid":"31147",
     "name":"Richardson",
+    "ocd_id":"ocd-division/country:us/state:ne/county:richardson",
     "state":"ne"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"47080",
     "name":"State House District 80",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:80",
     "state":"tn"
 },
   "bbox": [

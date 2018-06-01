@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"34014",
     "name":"General Assembly District 14",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:14",
     "state":"nj"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":268688087,
     "geoid":"18127",
     "name":"Porter",
+    "ocd_id":"ocd-division/country:us/state:in/county:porter",
     "state":"in"
 },
   "bbox": [

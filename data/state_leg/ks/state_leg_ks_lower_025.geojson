@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"20025",
     "name":"State House District 25",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:25",
     "state":"ks"
 },
   "bbox": [

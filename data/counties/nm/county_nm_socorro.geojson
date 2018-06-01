@@ -6,6 +6,7 @@
     "area_water":4843011,
     "geoid":"35053",
     "name":"Socorro",
+    "ocd_id":"ocd-division/country:us/state:nm/county:socorro",
     "state":"nm"
 },
   "bbox": [

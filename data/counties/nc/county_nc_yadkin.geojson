@@ -6,6 +6,7 @@
     "area_water":7236018,
     "geoid":"37197",
     "name":"Yadkin",
+    "ocd_id":"ocd-division/country:us/state:nc/county:yadkin",
     "state":"nc"
 },
   "bbox": [

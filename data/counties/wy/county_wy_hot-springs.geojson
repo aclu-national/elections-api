@@ -6,6 +6,7 @@
     "area_water":5964358,
     "geoid":"56017",
     "name":"Hot Springs",
+    "ocd_id":"ocd-division/country:us/state:wy/county:hot_springs",
     "state":"wy"
 },
   "bbox": [

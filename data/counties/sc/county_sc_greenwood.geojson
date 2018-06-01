@@ -6,6 +6,7 @@
     "area_water":21226294,
     "geoid":"45047",
     "name":"Greenwood",
+    "ocd_id":"ocd-division/country:us/state:sc/county:greenwood",
     "state":"sc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1792716,
     "geoid":"48383",
     "name":"Reagan",
+    "ocd_id":"ocd-division/country:us/state:tx/county:reagan",
     "state":"tx"
 },
   "bbox": [

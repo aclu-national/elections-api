@@ -6,6 +6,7 @@
     "area_water":12811302,
     "geoid":"13119",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ga/county:franklin",
     "state":"ga"
 },
   "bbox": [

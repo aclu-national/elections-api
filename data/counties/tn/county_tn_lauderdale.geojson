@@ -6,6 +6,7 @@
     "area_water":92231159,
     "geoid":"47097",
     "name":"Lauderdale",
+    "ocd_id":"ocd-division/country:us/state:tn/county:lauderdale",
     "state":"tn"
 },
   "bbox": [

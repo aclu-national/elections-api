@@ -6,6 +6,7 @@
     "area_water":21140635,
     "geoid":"51099",
     "name":"King George",
+    "ocd_id":"ocd-division/country:us/state:va/county:king_george",
     "state":"va"
 },
   "bbox": [

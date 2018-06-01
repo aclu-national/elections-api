@@ -6,6 +6,7 @@
     "area_water":14261786,
     "geoid":"45023",
     "name":"Chester",
+    "ocd_id":"ocd-division/country:us/state:sc/county:chester",
     "state":"sc"
 },
   "bbox": [

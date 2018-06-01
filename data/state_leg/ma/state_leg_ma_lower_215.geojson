@@ -8,6 +8,7 @@
     "district_num":"215",
     "geoid":"25215",
     "name":"13th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:215",
     "state":"ma"
 },
   "bbox": [

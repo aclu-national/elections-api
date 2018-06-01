@@ -6,6 +6,7 @@
     "area_water":6256687,
     "geoid":"05129",
     "name":"Searcy",
+    "ocd_id":"ocd-division/country:us/state:ar/county:searcy",
     "state":"ar"
 },
   "bbox": [

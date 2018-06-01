@@ -6,6 +6,7 @@
     "area_water":882994,
     "geoid":"31091",
     "name":"Hooker",
+    "ocd_id":"ocd-division/country:us/state:ne/county:hooker",
     "state":"ne"
 },
   "bbox": [

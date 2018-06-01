@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"32042",
     "name":"Assembly District 42",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:42",
     "state":"nv"
 },
   "bbox": [

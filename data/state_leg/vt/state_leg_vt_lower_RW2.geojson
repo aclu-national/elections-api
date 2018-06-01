@@ -8,6 +8,7 @@
     "district_num":"RW2",
     "geoid":"50RW2",
     "name":"Rutland-Windsor-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:RW2",
     "state":"vt"
 },
   "bbox": [

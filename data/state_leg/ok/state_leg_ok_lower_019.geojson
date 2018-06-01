@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"40019",
     "name":"State House District 19",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:19",
     "state":"ok"
 },
   "bbox": [

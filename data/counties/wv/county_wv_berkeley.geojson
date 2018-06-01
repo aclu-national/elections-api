@@ -6,6 +6,7 @@
     "area_water":1061824,
     "geoid":"54003",
     "name":"Berkeley",
+    "ocd_id":"ocd-division/country:us/state:wv/county:berkeley",
     "state":"wv"
 },
   "bbox": [

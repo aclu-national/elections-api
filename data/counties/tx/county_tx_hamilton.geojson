@@ -6,6 +6,7 @@
     "area_water":1238628,
     "geoid":"48193",
     "name":"Hamilton",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hamilton",
     "state":"tx"
 },
   "bbox": [

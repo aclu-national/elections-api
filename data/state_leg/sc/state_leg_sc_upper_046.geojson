@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"45046",
     "name":"State Senate District 46",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:46",
     "state":"sc"
 },
   "bbox": [

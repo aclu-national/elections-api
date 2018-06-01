@@ -6,6 +6,7 @@
     "area_water":13133342,
     "geoid":"18069",
     "name":"Huntington",
+    "ocd_id":"ocd-division/country:us/state:in/county:huntington",
     "state":"in"
 },
   "bbox": [

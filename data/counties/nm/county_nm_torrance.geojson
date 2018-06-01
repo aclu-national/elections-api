@@ -6,6 +6,7 @@
     "area_water":2303485,
     "geoid":"35057",
     "name":"Torrance",
+    "ocd_id":"ocd-division/country:us/state:nm/county:torrance",
     "state":"nm"
 },
   "bbox": [

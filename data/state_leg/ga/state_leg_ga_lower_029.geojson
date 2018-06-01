@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"13029",
     "name":"State House District 29",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:29",
     "state":"ga"
 },
   "bbox": [

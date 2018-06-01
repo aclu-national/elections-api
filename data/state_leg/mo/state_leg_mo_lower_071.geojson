@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"29071",
     "name":"State House District 71",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:71",
     "state":"mo"
 },
   "bbox": [

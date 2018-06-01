@@ -6,6 +6,7 @@
     "area_water":6972749,
     "geoid":"21049",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:ky/county:clark",
     "state":"ky"
 },
   "bbox": [

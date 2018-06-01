@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"37109",
     "name":"State House District 109",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:109",
     "state":"nc"
 },
   "bbox": [

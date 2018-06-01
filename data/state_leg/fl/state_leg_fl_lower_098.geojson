@@ -8,6 +8,7 @@
     "district_num":"098",
     "geoid":"12098",
     "name":"State House District 98",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:98",
     "state":"fl"
 },
   "bbox": [

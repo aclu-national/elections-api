@@ -6,6 +6,7 @@
     "area_water":2384746838,
     "geoid":"02275",
     "name":"Wrangell",
+    "ocd_id":"ocd-division/country:us/state:ak/county:wrangell",
     "state":"ak"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":6588657,
     "geoid":"31013",
     "name":"Box Butte",
+    "ocd_id":"ocd-division/country:us/state:ne/county:box_butte",
     "state":"ne"
 },
   "bbox": [

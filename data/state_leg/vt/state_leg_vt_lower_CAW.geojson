@@ -8,6 +8,7 @@
     "district_num":"CAW",
     "geoid":"50CAW",
     "name":"Caledonia-Washington State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:CAW",
     "state":"vt"
 },
   "bbox": [

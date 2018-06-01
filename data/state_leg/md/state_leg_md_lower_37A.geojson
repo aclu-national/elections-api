@@ -8,6 +8,7 @@
     "district_num":"37A",
     "geoid":"2437A",
     "name":"State Legislative Subdistrict 37A",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:37A",
     "state":"md"
 },
   "bbox": [

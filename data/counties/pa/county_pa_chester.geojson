@@ -6,6 +6,7 @@
     "area_water":22560875,
     "geoid":"42029",
     "name":"Chester",
+    "ocd_id":"ocd-division/country:us/state:pa/county:chester",
     "state":"pa"
 },
   "bbox": [

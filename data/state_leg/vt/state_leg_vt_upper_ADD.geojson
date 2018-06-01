@@ -8,6 +8,7 @@
     "district_num":"ADD",
     "geoid":"50ADD",
     "name":"Addison State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:ADD",
     "state":"vt"
 },
   "bbox": [

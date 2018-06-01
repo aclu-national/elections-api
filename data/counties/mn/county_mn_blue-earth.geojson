@@ -6,6 +6,7 @@
     "area_water":46082217,
     "geoid":"27013",
     "name":"Blue Earth",
+    "ocd_id":"ocd-division/country:us/state:mn/county:blue_earth",
     "state":"mn"
 },
   "bbox": [

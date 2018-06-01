@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"34028",
     "name":"General Assembly District 28",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:28",
     "state":"nj"
 },
   "bbox": [

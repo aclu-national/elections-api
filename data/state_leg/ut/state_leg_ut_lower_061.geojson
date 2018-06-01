@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"49061",
     "name":"State House District 61",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:61",
     "state":"ut"
 },
   "bbox": [

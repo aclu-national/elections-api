@@ -8,6 +8,7 @@
     "district_num":"104",
     "geoid":"23104",
     "name":"State House District 104",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:104",
     "state":"me"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"05075",
     "name":"State House District 75",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:75",
     "state":"ar"
 },
   "bbox": [

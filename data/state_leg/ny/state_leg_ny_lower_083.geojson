@@ -8,6 +8,7 @@
     "district_num":"083",
     "geoid":"36083",
     "name":"Assembly District 83",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:83",
     "state":"ny"
 },
   "bbox": [

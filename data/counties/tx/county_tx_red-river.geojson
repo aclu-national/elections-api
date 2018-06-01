@@ -6,6 +6,7 @@
     "area_water":33305608,
     "geoid":"48387",
     "name":"Red River",
+    "ocd_id":"ocd-division/country:us/state:tx/county:red_river",
     "state":"tx"
 },
   "bbox": [

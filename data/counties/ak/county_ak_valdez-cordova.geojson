@@ -6,6 +6,7 @@
     "area_water":15763249807,
     "geoid":"02261",
     "name":"Valdez-Cordova",
+    "ocd_id":"ocd-division/country:us/state:ak/county:valdez_cordova",
     "state":"ak"
 },
   "bbox": [

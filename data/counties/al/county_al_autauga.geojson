@@ -6,6 +6,7 @@
     "area_water":25744269,
     "geoid":"01001",
     "name":"Autauga",
+    "ocd_id":"ocd-division/country:us/state:al/county:autauga",
     "state":"al"
 },
   "bbox": [

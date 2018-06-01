@@ -6,6 +6,7 @@
     "area_water":752301282,
     "geoid":"02240",
     "name":"Southeast Fairbanks",
+    "ocd_id":"ocd-division/country:us/state:ak/county:southeast_fairbanks",
     "state":"ak"
 },
   "bbox": [

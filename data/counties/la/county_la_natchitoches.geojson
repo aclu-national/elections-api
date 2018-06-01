@@ -6,6 +6,7 @@
     "area_water":121033890,
     "geoid":"22069",
     "name":"Natchitoches",
+    "ocd_id":"ocd-division/country:us/state:la/county:natchitoches",
     "state":"la"
 },
   "bbox": [

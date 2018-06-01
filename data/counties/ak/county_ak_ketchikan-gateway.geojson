@@ -6,6 +6,7 @@
     "area_water":5220218255,
     "geoid":"02130",
     "name":"Ketchikan Gateway",
+    "ocd_id":"ocd-division/country:us/state:ak/county:ketchikan_gateway",
     "state":"ak"
 },
   "bbox": [

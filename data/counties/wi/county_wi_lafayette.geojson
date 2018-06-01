@@ -6,6 +6,7 @@
     "area_water":2539100,
     "geoid":"55065",
     "name":"Lafayette",
+    "ocd_id":"ocd-division/country:us/state:wi/county:lafayette",
     "state":"wi"
 },
   "bbox": [

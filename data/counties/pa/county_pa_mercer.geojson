@@ -6,6 +6,7 @@
     "area_water":25963051,
     "geoid":"42085",
     "name":"Mercer",
+    "ocd_id":"ocd-division/country:us/state:pa/county:mercer",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":15030369,
     "geoid":"13043",
     "name":"Candler",
+    "ocd_id":"ocd-division/country:us/state:ga/county:candler",
     "state":"ga"
 },
   "bbox": [

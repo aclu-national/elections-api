@@ -6,6 +6,7 @@
     "area_water":637931958,
     "geoid":"48039",
     "name":"Brazoria",
+    "ocd_id":"ocd-division/country:us/state:tx/county:brazoria",
     "state":"tx"
 },
   "bbox": [

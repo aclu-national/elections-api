@@ -6,6 +6,7 @@
     "area_water":1795027,
     "geoid":"51111",
     "name":"Lunenburg",
+    "ocd_id":"ocd-division/country:us/state:va/county:lunenburg",
     "state":"va"
 },
   "bbox": [

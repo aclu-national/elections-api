@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"48082",
     "name":"State House District 82",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:82",
     "state":"tx"
 },
   "bbox": [

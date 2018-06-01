@@ -6,6 +6,7 @@
     "area_water":17584342,
     "geoid":"37169",
     "name":"Stokes",
+    "ocd_id":"ocd-division/country:us/state:nc/county:stokes",
     "state":"nc"
 },
   "bbox": [

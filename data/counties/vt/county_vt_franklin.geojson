@@ -6,6 +6,7 @@
     "area_water":150930318,
     "geoid":"50011",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:vt/county:franklin",
     "state":"vt"
 },
   "bbox": [

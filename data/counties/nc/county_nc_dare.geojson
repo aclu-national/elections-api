@@ -6,6 +6,7 @@
     "area_water":3000549341,
     "geoid":"37055",
     "name":"Dare",
+    "ocd_id":"ocd-division/country:us/state:nc/county:dare",
     "state":"nc"
 },
   "bbox": [

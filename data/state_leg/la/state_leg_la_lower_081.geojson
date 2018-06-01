@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"22081",
     "name":"State House District 81",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:81",
     "state":"la"
 },
   "bbox": [

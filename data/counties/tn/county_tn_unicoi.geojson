@@ -6,6 +6,7 @@
     "area_water":825725,
     "geoid":"47171",
     "name":"Unicoi",
+    "ocd_id":"ocd-division/country:us/state:tn/county:unicoi",
     "state":"tn"
 },
   "bbox": [

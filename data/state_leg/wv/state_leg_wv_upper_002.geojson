@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"54002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:wv/sldu:2",
     "state":"wv"
 },
   "bbox": [

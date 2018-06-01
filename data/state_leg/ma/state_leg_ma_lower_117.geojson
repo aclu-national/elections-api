@@ -8,6 +8,7 @@
     "district_num":"117",
     "geoid":"25117",
     "name":"3rd Hampshire District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:117",
     "state":"ma"
 },
   "bbox": [

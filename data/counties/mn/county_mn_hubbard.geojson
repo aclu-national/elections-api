@@ -6,6 +6,7 @@
     "area_water":190599026,
     "geoid":"27057",
     "name":"Hubbard",
+    "ocd_id":"ocd-division/country:us/state:mn/county:hubbard",
     "state":"mn"
 },
   "bbox": [

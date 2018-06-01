@@ -8,6 +8,7 @@
     "district_num":"301",
     "geoid":"33301",
     "name":"State House District Coos County No. 1",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:301",
     "state":"nh"
 },
   "bbox": [

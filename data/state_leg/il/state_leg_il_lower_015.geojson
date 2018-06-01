@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"17015",
     "name":"State House District 15",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:15",
     "state":"il"
 },
   "bbox": [

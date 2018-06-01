@@ -6,6 +6,7 @@
     "area_water":7112822,
     "geoid":"36023",
     "name":"Cortland",
+    "ocd_id":"ocd-division/country:us/state:ny/county:cortland",
     "state":"ny"
 },
   "bbox": [

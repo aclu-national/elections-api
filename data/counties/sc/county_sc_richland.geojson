@@ -6,6 +6,7 @@
     "area_water":37854754,
     "geoid":"45079",
     "name":"Richland",
+    "ocd_id":"ocd-division/country:us/state:sc/county:richland",
     "state":"sc"
 },
   "bbox": [

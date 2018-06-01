@@ -8,6 +8,7 @@
     "district_num":"126",
     "geoid":"36126",
     "name":"Assembly District 126",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:126",
     "state":"ny"
 },
   "bbox": [

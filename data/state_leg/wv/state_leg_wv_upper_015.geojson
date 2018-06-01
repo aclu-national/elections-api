@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"54015",
     "name":"State Senate District 15",
+    "ocd_id":"ocd-division/country:us/state:wv/sldu:15",
     "state":"wv"
 },
   "bbox": [

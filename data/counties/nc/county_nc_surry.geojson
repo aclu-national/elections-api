@@ -6,6 +6,7 @@
     "area_water":10286511,
     "geoid":"37171",
     "name":"Surry",
+    "ocd_id":"ocd-division/country:us/state:nc/county:surry",
     "state":"nc"
 },
   "bbox": [

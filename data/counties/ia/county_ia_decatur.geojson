@@ -6,6 +6,7 @@
     "area_water":4140764,
     "geoid":"19053",
     "name":"Decatur",
+    "ocd_id":"ocd-division/country:us/state:ia/county:decatur",
     "state":"ia"
 },
   "bbox": [

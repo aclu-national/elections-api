@@ -6,6 +6,7 @@
     "area_water":957039,
     "geoid":"48003",
     "name":"Andrews",
+    "ocd_id":"ocd-division/country:us/state:tx/county:andrews",
     "state":"tx"
 },
   "bbox": [

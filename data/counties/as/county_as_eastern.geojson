@@ -6,6 +6,7 @@
     "area_water":349724676,
     "geoid":"60010",
     "name":"Eastern",
+    "ocd_id":"ocd-division/country:us/state:as/county:eastern",
     "state":"as"
 },
   "bbox": [

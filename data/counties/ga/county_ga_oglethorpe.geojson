@@ -6,6 +6,7 @@
     "area_water":7838679,
     "geoid":"13221",
     "name":"Oglethorpe",
+    "ocd_id":"ocd-division/country:us/state:ga/county:oglethorpe",
     "state":"ga"
 },
   "bbox": [

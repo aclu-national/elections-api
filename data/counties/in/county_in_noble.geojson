@@ -6,6 +6,7 @@
     "area_water":17074609,
     "geoid":"18113",
     "name":"Noble",
+    "ocd_id":"ocd-division/country:us/state:in/county:noble",
     "state":"in"
 },
   "bbox": [

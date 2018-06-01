@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"25003",
     "name":"Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:3",
     "state":"ma"
 },
   "bbox": [

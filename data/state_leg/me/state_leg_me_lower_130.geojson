@@ -8,6 +8,7 @@
     "district_num":"130",
     "geoid":"23130",
     "name":"State House District 130",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:130",
     "state":"me"
 },
   "bbox": [

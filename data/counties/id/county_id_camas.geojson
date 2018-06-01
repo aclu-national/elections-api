@@ -6,6 +6,7 @@
     "area_water":11548052,
     "geoid":"16025",
     "name":"Camas",
+    "ocd_id":"ocd-division/country:us/state:id/county:camas",
     "state":"id"
 },
   "bbox": [

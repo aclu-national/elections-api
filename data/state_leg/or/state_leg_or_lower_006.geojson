@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"41006",
     "name":"State House District 6",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:6",
     "state":"or"
 },
   "bbox": [

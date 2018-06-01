@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"37020",
     "name":"State House District 20",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:20",
     "state":"nc"
 },
   "bbox": [

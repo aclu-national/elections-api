@@ -8,6 +8,7 @@
     "district_num":"905",
     "geoid":"33905",
     "name":"State House District Sullivan County No. 5",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:905",
     "state":"nh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":65130232,
     "geoid":"27079",
     "name":"Le Sueur",
+    "ocd_id":"ocd-division/country:us/state:mn/county:le_sueur",
     "state":"mn"
 },
   "bbox": [

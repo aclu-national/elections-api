@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"35045",
     "name":"State House District 45",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:45",
     "state":"nm"
 },
   "bbox": [

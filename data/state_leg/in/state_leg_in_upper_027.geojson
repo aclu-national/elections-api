@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"18027",
     "name":"State Senate District 27",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:27",
     "state":"in"
 },
   "bbox": [

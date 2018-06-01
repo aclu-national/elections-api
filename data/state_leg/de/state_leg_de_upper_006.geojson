@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"10006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:de/sldu:6",
     "state":"de"
 },
   "bbox": [

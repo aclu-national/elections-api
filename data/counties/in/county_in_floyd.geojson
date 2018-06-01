@@ -6,6 +6,7 @@
     "area_water":2708194,
     "geoid":"18043",
     "name":"Floyd",
+    "ocd_id":"ocd-division/country:us/state:in/county:floyd",
     "state":"in"
 },
   "bbox": [

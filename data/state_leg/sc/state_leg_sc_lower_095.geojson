@@ -8,6 +8,7 @@
     "district_num":"095",
     "geoid":"45095",
     "name":"State House District HD-095",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:95",
     "state":"sc"
 },
   "bbox": [

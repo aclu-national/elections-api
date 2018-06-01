@@ -6,6 +6,7 @@
     "area_water":17288354,
     "geoid":"48019",
     "name":"Bandera",
+    "ocd_id":"ocd-division/country:us/state:tx/county:bandera",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":33231063,
     "geoid":"51177",
     "name":"Spotsylvania",
+    "ocd_id":"ocd-division/country:us/state:va/county:spotsylvania",
     "state":"va"
 },
   "bbox": [

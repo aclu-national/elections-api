@@ -6,6 +6,7 @@
     "area_water":1065195,
     "geoid":"48263",
     "name":"Kent",
+    "ocd_id":"ocd-division/country:us/state:tx/county:kent",
     "state":"tx"
 },
   "bbox": [

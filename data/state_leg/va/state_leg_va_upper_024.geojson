@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"51024",
     "name":"State Senate District 24",
+    "ocd_id":"ocd-division/country:us/state:va/sldu:24",
     "state":"va"
 },
   "bbox": [

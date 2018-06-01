@@ -6,6 +6,7 @@
     "area_water":6724254,
     "geoid":"45035",
     "name":"Dorchester",
+    "ocd_id":"ocd-division/country:us/state:sc/county:dorchester",
     "state":"sc"
 },
   "bbox": [

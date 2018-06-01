@@ -6,6 +6,7 @@
     "area_water":18090601,
     "geoid":"47025",
     "name":"Claiborne",
+    "ocd_id":"ocd-division/country:us/state:tn/county:claiborne",
     "state":"tn"
 },
   "bbox": [

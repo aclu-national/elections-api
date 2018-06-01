@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"31019",
     "name":"State Senate District 19",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:19",
     "state":"ne"
 },
   "bbox": [

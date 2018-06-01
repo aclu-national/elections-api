@@ -6,6 +6,7 @@
     "area_water":4016362,
     "geoid":"21203",
     "name":"Rockcastle",
+    "ocd_id":"ocd-division/country:us/state:ky/county:rockcastle",
     "state":"ky"
 },
   "bbox": [

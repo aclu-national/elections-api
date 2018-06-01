@@ -8,6 +8,7 @@
     "district_num":"086",
     "geoid":"55086",
     "name":"Assembly District 86",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:86",
     "state":"wi"
 },
   "bbox": [

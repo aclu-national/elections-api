@@ -6,6 +6,7 @@
     "area_water":26701337,
     "geoid":"20027",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:ks/county:clay",
     "state":"ks"
 },
   "bbox": [

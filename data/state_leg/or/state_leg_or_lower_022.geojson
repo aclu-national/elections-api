@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"41022",
     "name":"State House District 22",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:22",
     "state":"or"
 },
   "bbox": [

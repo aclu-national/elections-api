@@ -6,6 +6,7 @@
     "area_water":5182189,
     "geoid":"48111",
     "name":"Dallam",
+    "ocd_id":"ocd-division/country:us/state:tx/county:dallam",
     "state":"tx"
 },
   "bbox": [

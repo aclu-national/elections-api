@@ -6,6 +6,7 @@
     "area_water":298677842,
     "geoid":"26147",
     "name":"St. Clair",
+    "ocd_id":"ocd-division/country:us/state:mi/county:st_clair",
     "state":"mi"
 },
   "bbox": [

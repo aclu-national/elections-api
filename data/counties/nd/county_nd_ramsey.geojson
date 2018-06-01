@@ -6,6 +6,7 @@
     "area_water":295182394,
     "geoid":"38071",
     "name":"Ramsey",
+    "ocd_id":"ocd-division/country:us/state:nd/county:ramsey",
     "state":"nd"
 },
   "bbox": [

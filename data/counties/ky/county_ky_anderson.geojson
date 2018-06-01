@@ -6,6 +6,7 @@
     "area_water":6311541,
     "geoid":"21005",
     "name":"Anderson",
+    "ocd_id":"ocd-division/country:us/state:ky/county:anderson",
     "state":"ky"
 },
   "bbox": [

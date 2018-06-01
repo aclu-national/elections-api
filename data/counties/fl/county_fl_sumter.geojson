@@ -6,6 +6,7 @@
     "area_water":83231177,
     "geoid":"12119",
     "name":"Sumter",
+    "ocd_id":"ocd-division/country:us/state:fl/county:sumter",
     "state":"fl"
 },
   "bbox": [

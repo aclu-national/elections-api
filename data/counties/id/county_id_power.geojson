@@ -6,6 +6,7 @@
     "area_water":99218111,
     "geoid":"16077",
     "name":"Power",
+    "ocd_id":"ocd-division/country:us/state:id/county:power",
     "state":"id"
 },
   "bbox": [

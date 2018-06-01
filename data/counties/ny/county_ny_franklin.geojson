@@ -6,6 +6,7 @@
     "area_water":176707575,
     "geoid":"36033",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ny/county:franklin",
     "state":"ny"
 },
   "bbox": [

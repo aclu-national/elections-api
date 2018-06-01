@@ -6,6 +6,7 @@
     "area_water":14186271,
     "geoid":"31021",
     "name":"Burt",
+    "ocd_id":"ocd-division/country:us/state:ne/county:burt",
     "state":"ne"
 },
   "bbox": [

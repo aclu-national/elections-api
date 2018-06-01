@@ -6,6 +6,7 @@
     "area_water":5097734,
     "geoid":"05021",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:ar/county:clay",
     "state":"ar"
 },
   "bbox": [

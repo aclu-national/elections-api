@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"56018",
     "name":"State House District 18",
+    "ocd_id":"ocd-division/country:us/state:wy/sldl:18",
     "state":"wy"
 },
   "bbox": [

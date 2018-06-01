@@ -6,6 +6,7 @@
     "area_water":1028643155,
     "geoid":"33",
     "name":"New Hampshire",
+    "ocd_id":"ocd-division/country:us/state:nh",
     "state":"nh"
 },
   "bbox": [

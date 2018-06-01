@@ -6,6 +6,7 @@
     "area_water":84171993,
     "geoid":"05005",
     "name":"Baxter",
+    "ocd_id":"ocd-division/country:us/state:ar/county:baxter",
     "state":"ar"
 },
   "bbox": [

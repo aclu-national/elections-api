@@ -6,6 +6,7 @@
     "area_water":24095321,
     "geoid":"40033",
     "name":"Cotton",
+    "ocd_id":"ocd-division/country:us/state:ok/county:cotton",
     "state":"ok"
 },
   "bbox": [

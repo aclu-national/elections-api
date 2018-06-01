@@ -6,6 +6,7 @@
     "area_water":41834804,
     "geoid":"34017",
     "name":"Hudson",
+    "ocd_id":"ocd-division/country:us/state:nj/county:hudson",
     "state":"nj"
 },
   "bbox": [

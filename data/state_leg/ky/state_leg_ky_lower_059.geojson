@@ -8,6 +8,7 @@
     "district_num":"059",
     "geoid":"21059",
     "name":"State House District 59",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:59",
     "state":"ky"
 },
   "bbox": [

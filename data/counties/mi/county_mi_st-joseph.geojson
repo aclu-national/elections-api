@@ -6,6 +6,7 @@
     "area_water":52921099,
     "geoid":"26149",
     "name":"St. Joseph",
+    "ocd_id":"ocd-division/country:us/state:mi/county:st_joseph",
     "state":"mi"
 },
   "bbox": [

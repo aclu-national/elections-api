@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"02030",
     "name":"State House District 30",
+    "ocd_id":"ocd-division/country:us/state:ak/sldl:30",
     "state":"ak"
 },
   "bbox": [

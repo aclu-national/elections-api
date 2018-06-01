@@ -6,6 +6,7 @@
     "area_water":4631825,
     "geoid":"17029",
     "name":"Coles",
+    "ocd_id":"ocd-division/country:us/state:il/county:coles",
     "state":"il"
 },
   "bbox": [

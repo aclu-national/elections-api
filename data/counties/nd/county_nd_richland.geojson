@@ -6,6 +6,7 @@
     "area_water":25035912,
     "geoid":"38077",
     "name":"Richland",
+    "ocd_id":"ocd-division/country:us/state:nd/county:richland",
     "state":"nd"
 },
   "bbox": [

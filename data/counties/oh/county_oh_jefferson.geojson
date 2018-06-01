@@ -6,6 +6,7 @@
     "area_water":7120755,
     "geoid":"39081",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:oh/county:jefferson",
     "state":"oh"
 },
   "bbox": [

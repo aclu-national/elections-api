@@ -6,6 +6,7 @@
     "area_water":119183856,
     "geoid":"26123",
     "name":"Newaygo",
+    "ocd_id":"ocd-division/country:us/state:mi/county:newaygo",
     "state":"mi"
 },
   "bbox": [

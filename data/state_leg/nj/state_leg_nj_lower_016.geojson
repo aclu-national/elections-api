@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"34016",
     "name":"General Assembly District 16",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:16",
     "state":"nj"
 },
   "bbox": [

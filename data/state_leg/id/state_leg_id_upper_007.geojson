@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"16007",
     "name":"State Senate District 7",
+    "ocd_id":"ocd-division/country:us/state:id/sldu:7",
     "state":"id"
 },
   "bbox": [

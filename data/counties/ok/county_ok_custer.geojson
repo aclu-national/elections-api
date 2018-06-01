@@ -6,6 +6,7 @@
     "area_water":34321688,
     "geoid":"40039",
     "name":"Custer",
+    "ocd_id":"ocd-division/country:us/state:ok/county:custer",
     "state":"ok"
 },
   "bbox": [

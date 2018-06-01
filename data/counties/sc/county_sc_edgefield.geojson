@@ -6,6 +6,7 @@
     "area_water":16321055,
     "geoid":"45037",
     "name":"Edgefield",
+    "ocd_id":"ocd-division/country:us/state:sc/county:edgefield",
     "state":"sc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"103",
     "geoid":"12103",
     "name":"State House District 103",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:103",
     "state":"fl"
 },
   "bbox": [

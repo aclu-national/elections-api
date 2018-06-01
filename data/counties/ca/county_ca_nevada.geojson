@@ -6,6 +6,7 @@
     "area_water":41531993,
     "geoid":"06057",
     "name":"Nevada",
+    "ocd_id":"ocd-division/country:us/state:ca/county:nevada",
     "state":"ca"
 },
   "bbox": [

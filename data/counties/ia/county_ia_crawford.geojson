@@ -6,6 +6,7 @@
     "area_water":2194272,
     "geoid":"19047",
     "name":"Crawford",
+    "ocd_id":"ocd-division/country:us/state:ia/county:crawford",
     "state":"ia"
 },
   "bbox": [

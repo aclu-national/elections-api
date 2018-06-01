@@ -6,6 +6,7 @@
     "area_water":38869450,
     "geoid":"40105",
     "name":"Nowata",
+    "ocd_id":"ocd-division/country:us/state:ok/county:nowata",
     "state":"ok"
 },
   "bbox": [

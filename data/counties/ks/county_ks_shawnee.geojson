@@ -6,6 +6,7 @@
     "area_water":30396059,
     "geoid":"20177",
     "name":"Shawnee",
+    "ocd_id":"ocd-division/country:us/state:ks/county:shawnee",
     "state":"ks"
 },
   "bbox": [

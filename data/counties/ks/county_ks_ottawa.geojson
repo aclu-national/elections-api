@@ -6,6 +6,7 @@
     "area_water":1567629,
     "geoid":"20143",
     "name":"Ottawa",
+    "ocd_id":"ocd-division/country:us/state:ks/county:ottawa",
     "state":"ks"
 },
   "bbox": [

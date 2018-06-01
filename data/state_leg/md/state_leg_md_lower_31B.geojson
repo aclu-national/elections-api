@@ -8,6 +8,7 @@
     "district_num":"31B",
     "geoid":"2431B",
     "name":"State Legislative Subdistrict 31B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:31B",
     "state":"md"
 },
   "bbox": [

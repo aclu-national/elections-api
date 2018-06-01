@@ -6,6 +6,7 @@
     "area_water":17411500,
     "geoid":"54051",
     "name":"Marshall",
+    "ocd_id":"ocd-division/country:us/state:wv/county:marshall",
     "state":"wv"
 },
   "bbox": [

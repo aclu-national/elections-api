@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"19030",
     "name":"State House District 30",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:30",
     "state":"ia"
 },
   "bbox": [

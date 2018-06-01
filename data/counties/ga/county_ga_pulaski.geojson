@@ -6,6 +6,7 @@
     "area_water":5131020,
     "geoid":"13235",
     "name":"Pulaski",
+    "ocd_id":"ocd-division/country:us/state:ga/county:pulaski",
     "state":"ga"
 },
   "bbox": [

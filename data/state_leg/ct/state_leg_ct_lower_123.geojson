@@ -8,6 +8,7 @@
     "district_num":"123",
     "geoid":"09123",
     "name":"State House District 123",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:123",
     "state":"ct"
 },
   "bbox": [

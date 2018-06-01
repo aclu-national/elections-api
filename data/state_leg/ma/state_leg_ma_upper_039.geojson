@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"25039",
     "name":"Plymouth & Barnstable District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:39",
     "state":"ma"
 },
   "bbox": [

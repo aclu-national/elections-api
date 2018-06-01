@@ -6,6 +6,7 @@
     "area_water":18830382,
     "geoid":"13211",
     "name":"Morgan",
+    "ocd_id":"ocd-division/country:us/state:ga/county:morgan",
     "state":"ga"
 },
   "bbox": [

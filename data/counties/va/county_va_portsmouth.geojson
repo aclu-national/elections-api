@@ -6,6 +6,7 @@
     "area_water":34658655,
     "geoid":"51740",
     "name":"Portsmouth",
+    "ocd_id":"ocd-division/country:us/state:va/county:portsmouth",
     "state":"va"
 },
   "bbox": [

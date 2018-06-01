@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"47016",
     "name":"State House District 16",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:16",
     "state":"tn"
 },
   "bbox": [

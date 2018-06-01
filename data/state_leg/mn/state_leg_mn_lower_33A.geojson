@@ -8,6 +8,7 @@
     "district_num":"33A",
     "geoid":"2733A",
     "name":"State House District 33A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:33A",
     "state":"mn"
 },
   "bbox": [

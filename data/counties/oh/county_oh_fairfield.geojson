@@ -6,6 +6,7 @@
     "area_water":10746965,
     "geoid":"39045",
     "name":"Fairfield",
+    "ocd_id":"ocd-division/country:us/state:oh/county:fairfield",
     "state":"oh"
 },
   "bbox": [

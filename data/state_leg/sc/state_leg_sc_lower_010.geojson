@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"45010",
     "name":"State House District HD-010",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:10",
     "state":"sc"
 },
   "bbox": [

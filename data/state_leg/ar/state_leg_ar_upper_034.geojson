@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"05034",
     "name":"State Senate District 34",
+    "ocd_id":"ocd-division/country:us/state:ar/sldu:34",
     "state":"ar"
 },
   "bbox": [

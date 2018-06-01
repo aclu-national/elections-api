@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"09026",
     "name":"State House District 26",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:26",
     "state":"ct"
 },
   "bbox": [

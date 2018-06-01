@@ -6,6 +6,7 @@
     "area_water":437867472,
     "geoid":"23025",
     "name":"Somerset",
+    "ocd_id":"ocd-division/country:us/state:me/county:somerset",
     "state":"me"
 },
   "bbox": [

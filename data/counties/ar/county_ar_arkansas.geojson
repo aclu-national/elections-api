@@ -6,6 +6,7 @@
     "area_water":116409463,
     "geoid":"05001",
     "name":"Arkansas",
+    "ocd_id":"ocd-division/country:us/state:ar/county:arkansas",
     "state":"ar"
 },
   "bbox": [

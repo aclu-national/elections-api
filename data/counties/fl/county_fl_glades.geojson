@@ -6,6 +6,7 @@
     "area_water":466758592,
     "geoid":"12043",
     "name":"Glades",
+    "ocd_id":"ocd-division/country:us/state:fl/county:glades",
     "state":"fl"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"37044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:44",
     "state":"nc"
 },
   "bbox": [

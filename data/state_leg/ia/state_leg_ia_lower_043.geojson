@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"19043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:43",
     "state":"ia"
 },
   "bbox": [

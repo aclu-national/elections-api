@@ -6,6 +6,7 @@
     "area_water":20699390,
     "geoid":"37023",
     "name":"Burke",
+    "ocd_id":"ocd-division/country:us/state:nc/county:burke",
     "state":"nc"
 },
   "bbox": [

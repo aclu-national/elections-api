@@ -6,6 +6,7 @@
     "area_water":15136485,
     "geoid":"26135",
     "name":"Oscoda",
+    "ocd_id":"ocd-division/country:us/state:mi/county:oscoda",
     "state":"mi"
 },
   "bbox": [

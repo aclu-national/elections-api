@@ -8,6 +8,7 @@
     "district_num":"122",
     "geoid":"09122",
     "name":"State House District 122",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:122",
     "state":"ct"
 },
   "bbox": [

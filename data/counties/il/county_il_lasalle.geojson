@@ -6,6 +6,7 @@
     "area_water":33693285,
     "geoid":"17099",
     "name":"LaSalle",
+    "ocd_id":"ocd-division/country:us/state:il/county:lasalle",
     "state":"il"
 },
   "bbox": [

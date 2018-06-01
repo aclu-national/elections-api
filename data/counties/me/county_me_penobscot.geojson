@@ -6,6 +6,7 @@
     "area_water":414019982,
     "geoid":"23019",
     "name":"Penobscot",
+    "ocd_id":"ocd-division/country:us/state:me/county:penobscot",
     "state":"me"
 },
   "bbox": [

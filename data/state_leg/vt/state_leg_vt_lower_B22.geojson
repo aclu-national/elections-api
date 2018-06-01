@@ -8,6 +8,7 @@
     "district_num":"B22",
     "geoid":"50B22",
     "name":"Bennington-2-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:B22",
     "state":"vt"
 },
   "bbox": [

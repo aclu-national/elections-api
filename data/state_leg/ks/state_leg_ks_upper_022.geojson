@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"20022",
     "name":"State Senate District 22",
+    "ocd_id":"ocd-division/country:us/state:ks/sldu:22",
     "state":"ks"
 },
   "bbox": [

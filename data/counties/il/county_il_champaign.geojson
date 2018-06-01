@@ -6,6 +6,7 @@
     "area_water":6091992,
     "geoid":"17019",
     "name":"Champaign",
+    "ocd_id":"ocd-division/country:us/state:il/county:champaign",
     "state":"il"
 },
   "bbox": [

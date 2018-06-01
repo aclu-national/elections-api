@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"08021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:21",
     "state":"co"
 },
   "bbox": [

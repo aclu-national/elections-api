@@ -6,6 +6,7 @@
     "area_water":156387635,
     "geoid":"06063",
     "name":"Plumas",
+    "ocd_id":"ocd-division/country:us/state:ca/county:plumas",
     "state":"ca"
 },
   "bbox": [

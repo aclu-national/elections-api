@@ -8,6 +8,7 @@
     "district_num":"13A",
     "geoid":"2713A",
     "name":"State House District 13A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:13A",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"17044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:44",
     "state":"il"
 },
   "bbox": [

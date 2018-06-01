@@ -6,6 +6,7 @@
     "area_water":22332471,
     "geoid":"04021",
     "name":"Pinal",
+    "ocd_id":"ocd-division/country:us/state:az/county:pinal",
     "state":"az"
 },
   "bbox": [

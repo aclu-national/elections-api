@@ -6,6 +6,7 @@
     "area_water":35716361,
     "geoid":"41065",
     "name":"Wasco",
+    "ocd_id":"ocd-division/country:us/state:or/county:wasco",
     "state":"or"
 },
   "bbox": [

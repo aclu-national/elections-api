@@ -6,6 +6,7 @@
     "area_water":37851955,
     "geoid":"42061",
     "name":"Huntingdon",
+    "ocd_id":"ocd-division/country:us/state:pa/county:huntingdon",
     "state":"pa"
 },
   "bbox": [

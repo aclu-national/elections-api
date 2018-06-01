@@ -8,6 +8,7 @@
     "district_num":"210",
     "geoid":"25210",
     "name":"8th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:210",
     "state":"ma"
 },
   "bbox": [

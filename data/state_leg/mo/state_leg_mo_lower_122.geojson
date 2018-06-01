@@ -8,6 +8,7 @@
     "district_num":"122",
     "geoid":"29122",
     "name":"State House District 122",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:122",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":13263005,
     "geoid":"13001",
     "name":"Appling",
+    "ocd_id":"ocd-division/country:us/state:ga/county:appling",
     "state":"ga"
 },
   "bbox": [

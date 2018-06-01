@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"44030",
     "name":"State House District 30",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:30",
     "state":"ri"
 },
   "bbox": [

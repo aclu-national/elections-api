@@ -6,6 +6,7 @@
     "area_water":15948099,
     "geoid":"42019",
     "name":"Butler",
+    "ocd_id":"ocd-division/country:us/state:pa/county:butler",
     "state":"pa"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"088",
     "geoid":"55088",
     "name":"Assembly District 88",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:88",
     "state":"wi"
 },
   "bbox": [

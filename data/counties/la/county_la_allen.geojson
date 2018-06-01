@@ -6,6 +6,7 @@
     "area_water":10634064,
     "geoid":"22003",
     "name":"Allen",
+    "ocd_id":"ocd-division/country:us/state:la/county:allen",
     "state":"la"
 },
   "bbox": [

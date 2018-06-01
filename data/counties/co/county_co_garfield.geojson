@@ -6,6 +6,7 @@
     "area_water":21408198,
     "geoid":"08045",
     "name":"Garfield",
+    "ocd_id":"ocd-division/country:us/state:co/county:garfield",
     "state":"co"
 },
   "bbox": [

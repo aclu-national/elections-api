@@ -6,6 +6,7 @@
     "area_water":2177833,
     "geoid":"54059",
     "name":"Mingo",
+    "ocd_id":"ocd-division/country:us/state:wv/county:mingo",
     "state":"wv"
 },
   "bbox": [

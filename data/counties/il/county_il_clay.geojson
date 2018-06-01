@@ -6,6 +6,7 @@
     "area_water":3278251,
     "geoid":"17025",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:il/county:clay",
     "state":"il"
 },
   "bbox": [

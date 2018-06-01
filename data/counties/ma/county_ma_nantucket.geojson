@@ -6,6 +6,7 @@
     "area_water":667032050,
     "geoid":"25019",
     "name":"Nantucket",
+    "ocd_id":"ocd-division/country:us/state:ma/county:nantucket",
     "state":"ma"
 },
   "bbox": [

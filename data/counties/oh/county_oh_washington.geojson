@@ -6,6 +6,7 @@
     "area_water":20784929,
     "geoid":"39167",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:oh/county:washington",
     "state":"oh"
 },
   "bbox": [

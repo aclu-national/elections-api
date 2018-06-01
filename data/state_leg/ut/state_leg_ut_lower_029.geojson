@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"49029",
     "name":"State House District 29",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:29",
     "state":"ut"
 },
   "bbox": [

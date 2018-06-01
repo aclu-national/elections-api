@@ -6,6 +6,7 @@
     "area_water":53126680,
     "geoid":"45001",
     "name":"Abbeville",
+    "ocd_id":"ocd-division/country:us/state:sc/county:abbeville",
     "state":"sc"
 },
   "bbox": [

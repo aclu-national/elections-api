@@ -8,6 +8,7 @@
     "district_num":"51B",
     "geoid":"2751B",
     "name":"State House District 51B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:51B",
     "state":"mn"
 },
   "bbox": [

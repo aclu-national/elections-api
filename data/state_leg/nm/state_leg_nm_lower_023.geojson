@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"35023",
     "name":"State House District 23",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:23",
     "state":"nm"
 },
   "bbox": [

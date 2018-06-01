@@ -6,6 +6,7 @@
     "area_water":8097296,
     "geoid":"51051",
     "name":"Dickenson",
+    "ocd_id":"ocd-division/country:us/state:va/county:dickenson",
     "state":"va"
 },
   "bbox": [

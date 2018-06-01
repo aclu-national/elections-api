@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"49020",
     "name":"State House District 20",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:20",
     "state":"ut"
 },
   "bbox": [

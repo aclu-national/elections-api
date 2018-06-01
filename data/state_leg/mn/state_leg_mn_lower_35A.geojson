@@ -8,6 +8,7 @@
     "district_num":"35A",
     "geoid":"2735A",
     "name":"State House District 35A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:35A",
     "state":"mn"
 },
   "bbox": [

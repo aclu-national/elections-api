@@ -6,6 +6,7 @@
     "area_water":2193620,
     "geoid":"48163",
     "name":"Frio",
+    "ocd_id":"ocd-division/country:us/state:tx/county:frio",
     "state":"tx"
 },
   "bbox": [

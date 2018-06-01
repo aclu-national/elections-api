@@ -6,6 +6,7 @@
     "area_water":40131783,
     "geoid":"27169",
     "name":"Winona",
+    "ocd_id":"ocd-division/country:us/state:mn/county:winona",
     "state":"mn"
 },
   "bbox": [

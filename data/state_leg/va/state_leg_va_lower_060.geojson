@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"51060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:60",
     "state":"va"
 },
   "bbox": [

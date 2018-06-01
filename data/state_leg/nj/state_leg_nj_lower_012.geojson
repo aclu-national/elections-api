@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"34012",
     "name":"General Assembly District 12",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:12",
     "state":"nj"
 },
   "bbox": [

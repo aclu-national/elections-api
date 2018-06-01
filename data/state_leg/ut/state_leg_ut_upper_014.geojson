@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"49014",
     "name":"State Senate District 14",
+    "ocd_id":"ocd-division/country:us/state:ut/sldu:14",
     "state":"ut"
 },
   "bbox": [

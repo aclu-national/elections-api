@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"51029",
     "name":"State Senate District 29",
+    "ocd_id":"ocd-division/country:us/state:va/sldu:29",
     "state":"va"
 },
   "bbox": [

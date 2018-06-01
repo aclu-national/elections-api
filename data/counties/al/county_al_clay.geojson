@@ -6,6 +6,7 @@
     "area_water":5283523,
     "geoid":"01027",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:al/county:clay",
     "state":"al"
 },
   "bbox": [

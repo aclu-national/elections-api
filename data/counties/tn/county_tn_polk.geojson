@@ -6,6 +6,7 @@
     "area_water":19911983,
     "geoid":"47139",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:tn/county:polk",
     "state":"tn"
 },
   "bbox": [

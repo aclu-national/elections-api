@@ -6,6 +6,7 @@
     "area_water":667092277,
     "geoid":"09009",
     "name":"New Haven",
+    "ocd_id":"ocd-division/country:us/state:ct/county:new_haven",
     "state":"ct"
 },
   "bbox": [

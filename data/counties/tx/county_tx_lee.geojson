@@ -6,6 +6,7 @@
     "area_water":13106451,
     "geoid":"48287",
     "name":"Lee",
+    "ocd_id":"ocd-division/country:us/state:tx/county:lee",
     "state":"tx"
 },
   "bbox": [

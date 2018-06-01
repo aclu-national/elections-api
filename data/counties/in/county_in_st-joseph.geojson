@@ -6,6 +6,7 @@
     "area_water":9070753,
     "geoid":"18141",
     "name":"St. Joseph",
+    "ocd_id":"ocd-division/country:us/state:in/county:st_joseph",
     "state":"in"
 },
   "bbox": [

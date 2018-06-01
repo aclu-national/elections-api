@@ -6,6 +6,7 @@
     "area_water":91476917,
     "geoid":"35039",
     "name":"Rio Arriba",
+    "ocd_id":"ocd-division/country:us/state:nm/county:rio_arriba",
     "state":"nm"
 },
   "bbox": [

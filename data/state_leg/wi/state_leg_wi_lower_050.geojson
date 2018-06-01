@@ -8,6 +8,7 @@
     "district_num":"050",
     "geoid":"55050",
     "name":"Assembly District 50",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:50",
     "state":"wi"
 },
   "bbox": [

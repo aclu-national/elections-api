@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"37048",
     "name":"State Senate District 48",
+    "ocd_id":"ocd-division/country:us/state:nc/sldu:48",
     "state":"nc"
 },
   "bbox": [

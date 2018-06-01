@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"34030",
     "name":"State Senate District 30",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:30",
     "state":"nj"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"44014",
     "name":"State Senate District 14",
+    "ocd_id":"ocd-division/country:us/state:ri/sldu:14",
     "state":"ri"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"45037",
     "name":"State House District HD-037",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:37",
     "state":"sc"
 },
   "bbox": [

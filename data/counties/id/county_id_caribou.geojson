@@ -6,6 +6,7 @@
     "area_water":89216874,
     "geoid":"16029",
     "name":"Caribou",
+    "ocd_id":"ocd-division/country:us/state:id/county:caribou",
     "state":"id"
 },
   "bbox": [

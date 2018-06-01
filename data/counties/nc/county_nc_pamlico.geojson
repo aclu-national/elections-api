@@ -6,6 +6,7 @@
     "area_water":583050685,
     "geoid":"37137",
     "name":"Pamlico",
+    "ocd_id":"ocd-division/country:us/state:nc/county:pamlico",
     "state":"nc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"079",
     "geoid":"20079",
     "name":"State House District 79",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:79",
     "state":"ks"
 },
   "bbox": [

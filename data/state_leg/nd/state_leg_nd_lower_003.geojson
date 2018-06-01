@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"38003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:3",
     "state":"nd"
 },
   "bbox": [

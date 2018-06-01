@@ -6,6 +6,7 @@
     "area_water":104249021,
     "geoid":"06055",
     "name":"Napa",
+    "ocd_id":"ocd-division/country:us/state:ca/county:napa",
     "state":"ca"
 },
   "bbox": [

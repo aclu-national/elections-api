@@ -6,6 +6,7 @@
     "area_water":14191789,
     "geoid":"41063",
     "name":"Wallowa",
+    "ocd_id":"ocd-division/country:us/state:or/county:wallowa",
     "state":"or"
 },
   "bbox": [

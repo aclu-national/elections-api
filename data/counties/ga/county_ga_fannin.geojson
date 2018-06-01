@@ -6,6 +6,7 @@
     "area_water":13459979,
     "geoid":"13111",
     "name":"Fannin",
+    "ocd_id":"ocd-division/country:us/state:ga/county:fannin",
     "state":"ga"
 },
   "bbox": [

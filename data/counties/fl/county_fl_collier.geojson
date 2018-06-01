@@ -6,6 +6,7 @@
     "area_water":792880431,
     "geoid":"12021",
     "name":"Collier",
+    "ocd_id":"ocd-division/country:us/state:fl/county:collier",
     "state":"fl"
 },
   "bbox": [

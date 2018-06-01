@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"37102",
     "name":"State House District 102",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:102",
     "state":"nc"
 },
   "bbox": [

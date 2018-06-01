@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"05002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:2",
     "state":"ar"
 },
   "bbox": [

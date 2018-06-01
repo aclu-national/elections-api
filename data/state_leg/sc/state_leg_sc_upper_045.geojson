@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"45045",
     "name":"State Senate District 45",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:45",
     "state":"sc"
 },
   "bbox": [

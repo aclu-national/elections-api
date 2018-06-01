@@ -6,6 +6,7 @@
     "area_water":522024,
     "geoid":"51580",
     "name":"Covington",
+    "ocd_id":"ocd-division/country:us/state:va/county:covington",
     "state":"va"
 },
   "bbox": [

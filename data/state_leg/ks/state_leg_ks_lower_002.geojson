@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"20002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:2",
     "state":"ks"
 },
   "bbox": [

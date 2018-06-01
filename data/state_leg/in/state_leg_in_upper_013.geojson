@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"18013",
     "name":"State Senate District 13",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:13",
     "state":"in"
 },
   "bbox": [

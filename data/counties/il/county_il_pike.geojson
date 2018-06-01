@@ -6,6 +6,7 @@
     "area_water":45283711,
     "geoid":"17149",
     "name":"Pike",
+    "ocd_id":"ocd-division/country:us/state:il/county:pike",
     "state":"il"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3973764,
     "geoid":"48279",
     "name":"Lamb",
+    "ocd_id":"ocd-division/country:us/state:tx/county:lamb",
     "state":"tx"
 },
   "bbox": [

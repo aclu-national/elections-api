@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"31015",
     "name":"State Senate District 15",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:15",
     "state":"ne"
 },
   "bbox": [

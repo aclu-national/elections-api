@@ -6,6 +6,7 @@
     "area_water":24802965,
     "geoid":"13009",
     "name":"Baldwin",
+    "ocd_id":"ocd-division/country:us/state:ga/county:baldwin",
     "state":"ga"
 },
   "bbox": [

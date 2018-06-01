@@ -8,6 +8,7 @@
     "district_num":"065",
     "geoid":"09065",
     "name":"State House District 65",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:65",
     "state":"ct"
 },
   "bbox": [

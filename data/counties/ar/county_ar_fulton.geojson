@@ -6,6 +6,7 @@
     "area_water":5526927,
     "geoid":"05049",
     "name":"Fulton",
+    "ocd_id":"ocd-division/country:us/state:ar/county:fulton",
     "state":"ar"
 },
   "bbox": [

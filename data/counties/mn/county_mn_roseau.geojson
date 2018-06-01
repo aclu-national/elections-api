@@ -6,6 +6,7 @@
     "area_water":16913419,
     "geoid":"27135",
     "name":"Roseau",
+    "ocd_id":"ocd-division/country:us/state:mn/county:roseau",
     "state":"mn"
 },
   "bbox": [

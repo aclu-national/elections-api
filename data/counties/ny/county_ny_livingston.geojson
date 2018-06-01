@@ -6,6 +6,7 @@
     "area_water":22006106,
     "geoid":"36051",
     "name":"Livingston",
+    "ocd_id":"ocd-division/country:us/state:ny/county:livingston",
     "state":"ny"
 },
   "bbox": [

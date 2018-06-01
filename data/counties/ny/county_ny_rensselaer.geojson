@@ -6,6 +6,7 @@
     "area_water":33569457,
     "geoid":"36083",
     "name":"Rensselaer",
+    "ocd_id":"ocd-division/country:us/state:ny/county:rensselaer",
     "state":"ny"
 },
   "bbox": [

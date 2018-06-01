@@ -6,6 +6,7 @@
     "area_water":7108412,
     "geoid":"54041",
     "name":"Lewis",
+    "ocd_id":"ocd-division/country:us/state:wv/county:lewis",
     "state":"wv"
 },
   "bbox": [

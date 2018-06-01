@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"39009",
     "name":"State Senate District 9",
+    "ocd_id":"ocd-division/country:us/state:oh/sldu:9",
     "state":"oh"
 },
   "bbox": [

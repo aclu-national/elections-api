@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"49001",
     "name":"State House District 1",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:1",
     "state":"ut"
 },
   "bbox": [

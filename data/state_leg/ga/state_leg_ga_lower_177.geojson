@@ -8,6 +8,7 @@
     "district_num":"177",
     "geoid":"13177",
     "name":"State House District 177",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:177",
     "state":"ga"
 },
   "bbox": [

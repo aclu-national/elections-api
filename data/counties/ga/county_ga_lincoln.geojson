@@ -6,6 +6,7 @@
     "area_water":121516946,
     "geoid":"13181",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:ga/county:lincoln",
     "state":"ga"
 },
   "bbox": [

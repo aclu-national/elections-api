@@ -6,6 +6,7 @@
     "area_water":42426936,
     "geoid":"29141",
     "name":"Morgan",
+    "ocd_id":"ocd-division/country:us/state:mo/county:morgan",
     "state":"mo"
 },
   "bbox": [

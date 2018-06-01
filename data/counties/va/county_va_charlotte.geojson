@@ -6,6 +6,7 @@
     "area_water":5824992,
     "geoid":"51037",
     "name":"Charlotte",
+    "ocd_id":"ocd-division/country:us/state:va/county:charlotte",
     "state":"va"
 },
   "bbox": [

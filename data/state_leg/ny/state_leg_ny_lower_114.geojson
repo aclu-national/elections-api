@@ -8,6 +8,7 @@
     "district_num":"114",
     "geoid":"36114",
     "name":"Assembly District 114",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:114",
     "state":"ny"
 },
   "bbox": [

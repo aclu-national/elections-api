@@ -6,6 +6,7 @@
     "area_water":147987561,
     "geoid":"35051",
     "name":"Sierra",
+    "ocd_id":"ocd-division/country:us/state:nm/county:sierra",
     "state":"nm"
 },
   "bbox": [

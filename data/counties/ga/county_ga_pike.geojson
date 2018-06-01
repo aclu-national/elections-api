@@ -6,6 +6,7 @@
     "area_water":8596853,
     "geoid":"13231",
     "name":"Pike",
+    "ocd_id":"ocd-division/country:us/state:ga/county:pike",
     "state":"ga"
 },
   "bbox": [

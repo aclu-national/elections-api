@@ -6,6 +6,7 @@
     "area_water":185023431,
     "geoid":"16055",
     "name":"Kootenai",
+    "ocd_id":"ocd-division/country:us/state:id/county:kootenai",
     "state":"id"
 },
   "bbox": [

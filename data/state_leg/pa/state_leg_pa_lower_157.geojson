@@ -8,6 +8,7 @@
     "district_num":"157",
     "geoid":"42157",
     "name":"State House District 157",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:157",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":7532835,
     "geoid":"54091",
     "name":"Taylor",
+    "ocd_id":"ocd-division/country:us/state:wv/county:taylor",
     "state":"wv"
 },
   "bbox": [

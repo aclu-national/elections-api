@@ -6,6 +6,7 @@
     "area_water":52267270,
     "geoid":"48455",
     "name":"Trinity",
+    "ocd_id":"ocd-division/country:us/state:tx/county:trinity",
     "state":"tx"
 },
   "bbox": [

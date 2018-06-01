@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"41010",
     "name":"State Senate District 10",
+    "ocd_id":"ocd-division/country:us/state:or/sldu:10",
     "state":"or"
 },
   "bbox": [

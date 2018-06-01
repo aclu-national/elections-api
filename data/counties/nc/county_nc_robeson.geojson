@@ -6,6 +6,7 @@
     "area_water":5097482,
     "geoid":"37155",
     "name":"Robeson",
+    "ocd_id":"ocd-division/country:us/state:nc/county:robeson",
     "state":"nc"
 },
   "bbox": [

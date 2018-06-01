@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"28030",
     "name":"State House District 30",
+    "ocd_id":"ocd-division/country:us/state:ms/sldl:30",
     "state":"ms"
 },
   "bbox": [

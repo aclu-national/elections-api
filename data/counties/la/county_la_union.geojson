@@ -6,6 +6,7 @@
     "area_water":73624039,
     "geoid":"22111",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:la/county:union",
     "state":"la"
 },
   "bbox": [

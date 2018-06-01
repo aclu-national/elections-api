@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"72016",
     "name":"State House District 16",
+    "ocd_id":"ocd-division/country:us/state:pr/sldl:16",
     "state":"pr"
 },
   "bbox": [

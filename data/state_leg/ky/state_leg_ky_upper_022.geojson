@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"21022",
     "name":"State Senate District 22",
+    "ocd_id":"ocd-division/country:us/state:ky/sldu:22",
     "state":"ky"
 },
   "bbox": [

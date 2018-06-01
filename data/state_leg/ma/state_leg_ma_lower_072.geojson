@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"25072",
     "name":"4th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:72",
     "state":"ma"
 },
   "bbox": [

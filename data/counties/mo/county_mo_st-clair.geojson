@@ -6,6 +6,7 @@
     "area_water":70138955,
     "geoid":"29185",
     "name":"St. Clair",
+    "ocd_id":"ocd-division/country:us/state:mo/county:st_clair",
     "state":"mo"
 },
   "bbox": [

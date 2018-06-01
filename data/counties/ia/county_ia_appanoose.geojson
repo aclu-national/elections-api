@@ -6,6 +6,7 @@
     "area_water":49084378,
     "geoid":"19007",
     "name":"Appanoose",
+    "ocd_id":"ocd-division/country:us/state:ia/county:appanoose",
     "state":"ia"
 },
   "bbox": [

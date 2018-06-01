@@ -6,6 +6,7 @@
     "area_water":53329,
     "geoid":"48105",
     "name":"Crockett",
+    "ocd_id":"ocd-division/country:us/state:tx/county:crockett",
     "state":"tx"
 },
   "bbox": [

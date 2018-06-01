@@ -6,6 +6,7 @@
     "area_water":15154124,
     "geoid":"49055",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:ut/county:wayne",
     "state":"ut"
 },
   "bbox": [

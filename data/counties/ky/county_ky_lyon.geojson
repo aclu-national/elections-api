@@ -6,6 +6,7 @@
     "area_water":110561084,
     "geoid":"21143",
     "name":"Lyon",
+    "ocd_id":"ocd-division/country:us/state:ky/county:lyon",
     "state":"ky"
 },
   "bbox": [

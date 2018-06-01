@@ -8,6 +8,7 @@
     "district_num":"064",
     "geoid":"21064",
     "name":"State House District 64",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:64",
     "state":"ky"
 },
   "bbox": [

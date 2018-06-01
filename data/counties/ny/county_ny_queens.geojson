@@ -6,6 +6,7 @@
     "area_water":179401845,
     "geoid":"36081",
     "name":"Queens",
+    "ocd_id":"ocd-division/country:us/state:ny/county:queens",
     "state":"ny"
 },
   "bbox": [

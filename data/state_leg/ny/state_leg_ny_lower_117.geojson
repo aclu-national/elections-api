@@ -8,6 +8,7 @@
     "district_num":"117",
     "geoid":"36117",
     "name":"Assembly District 117",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:117",
     "state":"ny"
 },
   "bbox": [

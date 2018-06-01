@@ -6,6 +6,7 @@
     "area_water":1031134839,
     "geoid":"50",
     "name":"Vermont",
+    "ocd_id":"ocd-division/country:us/state:vt",
     "state":"vt"
 },
   "bbox": [

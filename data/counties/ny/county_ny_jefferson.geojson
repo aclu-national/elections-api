@@ -6,6 +6,7 @@
     "area_water":1524639909,
     "geoid":"36045",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:ny/county:jefferson",
     "state":"ny"
 },
   "bbox": [

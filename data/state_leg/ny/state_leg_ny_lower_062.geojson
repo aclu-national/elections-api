@@ -8,6 +8,7 @@
     "district_num":"062",
     "geoid":"36062",
     "name":"Assembly District 62",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:62",
     "state":"ny"
 },
   "bbox": [

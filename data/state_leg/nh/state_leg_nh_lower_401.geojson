@@ -8,6 +8,7 @@
     "district_num":"401",
     "geoid":"33401",
     "name":"State House District Grafton County No. 1",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:401",
     "state":"nh"
 },
   "bbox": [

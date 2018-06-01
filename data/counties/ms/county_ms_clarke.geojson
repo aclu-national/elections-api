@@ -6,6 +6,7 @@
     "area_water":5069761,
     "geoid":"28023",
     "name":"Clarke",
+    "ocd_id":"ocd-division/country:us/state:ms/county:clarke",
     "state":"ms"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3919919,
     "geoid":"48123",
     "name":"DeWitt",
+    "ocd_id":"ocd-division/country:us/state:tx/county:dewitt",
     "state":"tx"
 },
   "bbox": [

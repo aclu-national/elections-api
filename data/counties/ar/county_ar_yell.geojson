@@ -6,6 +6,7 @@
     "area_water":48482972,
     "geoid":"05149",
     "name":"Yell",
+    "ocd_id":"ocd-division/country:us/state:ar/county:yell",
     "state":"ar"
 },
   "bbox": [

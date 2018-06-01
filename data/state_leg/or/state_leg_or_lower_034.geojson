@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"41034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:34",
     "state":"or"
 },
   "bbox": [

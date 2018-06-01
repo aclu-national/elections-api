@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"06031",
     "name":"Assembly District 31",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:31",
     "state":"ca"
 },
   "bbox": [

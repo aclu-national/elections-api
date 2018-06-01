@@ -8,6 +8,7 @@
     "district_num":"114",
     "geoid":"45114",
     "name":"State House District HD-114",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:114",
     "state":"sc"
 },
   "bbox": [

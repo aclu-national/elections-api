@@ -6,6 +6,7 @@
     "area_water":1370523694,
     "geoid":"31",
     "name":"Nebraska",
+    "ocd_id":"ocd-division/country:us/state:ne",
     "state":"ne"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"303",
     "geoid":"33303",
     "name":"State House District Coos County No. 3",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:303",
     "state":"nh"
 },
   "bbox": [

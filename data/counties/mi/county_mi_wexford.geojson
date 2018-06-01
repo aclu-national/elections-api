@@ -6,6 +6,7 @@
     "area_water":27096654,
     "geoid":"26165",
     "name":"Wexford",
+    "ocd_id":"ocd-division/country:us/state:mi/county:wexford",
     "state":"mi"
 },
   "bbox": [

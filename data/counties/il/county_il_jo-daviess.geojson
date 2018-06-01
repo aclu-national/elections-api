@@ -6,6 +6,7 @@
     "area_water":45776828,
     "geoid":"17085",
     "name":"Jo Daviess",
+    "ocd_id":"ocd-division/country:us/state:il/county:jo_daviess",
     "state":"il"
 },
   "bbox": [

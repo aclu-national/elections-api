@@ -6,6 +6,7 @@
     "area_water":19519851,
     "geoid":"17039",
     "name":"De Witt",
+    "ocd_id":"ocd-division/country:us/state:il/county:de_witt",
     "state":"il"
 },
   "bbox": [

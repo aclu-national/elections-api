@@ -6,6 +6,7 @@
     "area_water":1320705,
     "geoid":"19065",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:ia/county:fayette",
     "state":"ia"
 },
   "bbox": [

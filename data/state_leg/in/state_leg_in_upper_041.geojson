@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"18041",
     "name":"State Senate District 41",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:41",
     "state":"in"
 },
   "bbox": [

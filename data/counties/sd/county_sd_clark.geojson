@@ -6,6 +6,7 @@
     "area_water":25627353,
     "geoid":"46025",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:sd/county:clark",
     "state":"sd"
 },
   "bbox": [

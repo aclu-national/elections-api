@@ -6,6 +6,7 @@
     "area_water":26299618,
     "geoid":"35007",
     "name":"Colfax",
+    "ocd_id":"ocd-division/country:us/state:nm/county:colfax",
     "state":"nm"
 },
   "bbox": [

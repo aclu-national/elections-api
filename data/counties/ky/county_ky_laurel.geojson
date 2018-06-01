@@ -6,6 +6,7 @@
     "area_water":25218355,
     "geoid":"21125",
     "name":"Laurel",
+    "ocd_id":"ocd-division/country:us/state:ky/county:laurel",
     "state":"ky"
 },
   "bbox": [

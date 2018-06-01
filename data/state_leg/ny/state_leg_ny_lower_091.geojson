@@ -8,6 +8,7 @@
     "district_num":"091",
     "geoid":"36091",
     "name":"Assembly District 91",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:91",
     "state":"ny"
 },
   "bbox": [

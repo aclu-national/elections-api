@@ -6,6 +6,7 @@
     "area_water":16941833,
     "geoid":"42133",
     "name":"York",
+    "ocd_id":"ocd-division/country:us/state:pa/county:york",
     "state":"pa"
 },
   "bbox": [

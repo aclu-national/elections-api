@@ -8,6 +8,7 @@
     "district_num":"110",
     "geoid":"25110",
     "name":"9th Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:110",
     "state":"ma"
 },
   "bbox": [

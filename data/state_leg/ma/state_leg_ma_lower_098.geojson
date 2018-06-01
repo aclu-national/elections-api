@@ -8,6 +8,7 @@
     "district_num":"098",
     "geoid":"25098",
     "name":"16th Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:98",
     "state":"ma"
 },
   "bbox": [

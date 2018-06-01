@@ -6,6 +6,7 @@
     "area_water":288241,
     "geoid":"20193",
     "name":"Thomas",
+    "ocd_id":"ocd-division/country:us/state:ks/county:thomas",
     "state":"ks"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":4519381,
     "geoid":"29065",
     "name":"Dent",
+    "ocd_id":"ocd-division/country:us/state:mo/county:dent",
     "state":"mo"
 },
   "bbox": [

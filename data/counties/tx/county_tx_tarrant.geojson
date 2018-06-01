@@ -6,6 +6,7 @@
     "area_water":100013729,
     "geoid":"48439",
     "name":"Tarrant",
+    "ocd_id":"ocd-division/country:us/state:tx/county:tarrant",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":800245,
     "geoid":"27039",
     "name":"Dodge",
+    "ocd_id":"ocd-division/country:us/state:mn/county:dodge",
     "state":"mn"
 },
   "bbox": [

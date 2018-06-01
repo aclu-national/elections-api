@@ -8,6 +8,7 @@
     "district_num":"199",
     "geoid":"25199",
     "name":"16th Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:199",
     "state":"ma"
 },
   "bbox": [

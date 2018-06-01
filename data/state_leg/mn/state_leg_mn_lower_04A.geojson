@@ -8,6 +8,7 @@
     "district_num":"04A",
     "geoid":"2704A",
     "name":"State House District 4A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:4",
     "state":"mn"
 },
   "bbox": [

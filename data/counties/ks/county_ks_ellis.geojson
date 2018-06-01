@@ -6,6 +6,7 @@
     "area_water":1197085,
     "geoid":"20051",
     "name":"Ellis",
+    "ocd_id":"ocd-division/country:us/state:ks/county:ellis",
     "state":"ks"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"057",
     "geoid":"13057",
     "name":"State House District 57",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:57",
     "state":"ga"
 },
   "bbox": [

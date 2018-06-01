@@ -6,6 +6,7 @@
     "area_water":1059454,
     "geoid":"31183",
     "name":"Wheeler",
+    "ocd_id":"ocd-division/country:us/state:ne/county:wheeler",
     "state":"ne"
 },
   "bbox": [

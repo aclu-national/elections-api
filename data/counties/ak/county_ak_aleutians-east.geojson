@@ -6,6 +6,7 @@
     "area_water":20800198540,
     "geoid":"02013",
     "name":"Aleutians East",
+    "ocd_id":"ocd-division/country:us/state:ak/county:aleutians_east",
     "state":"ak"
 },
   "bbox": [

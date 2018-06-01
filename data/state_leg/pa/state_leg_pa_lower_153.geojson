@@ -8,6 +8,7 @@
     "district_num":"153",
     "geoid":"42153",
     "name":"State House District 153",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:153",
     "state":"pa"
 },
   "bbox": [

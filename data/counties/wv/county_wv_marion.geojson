@@ -6,6 +6,7 @@
     "area_water":7186185,
     "geoid":"54049",
     "name":"Marion",
+    "ocd_id":"ocd-division/country:us/state:wv/county:marion",
     "state":"wv"
 },
   "bbox": [

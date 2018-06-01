@@ -8,6 +8,7 @@
     "district_num":"174",
     "geoid":"42174",
     "name":"State House District 174",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:174",
     "state":"pa"
 },
   "bbox": [

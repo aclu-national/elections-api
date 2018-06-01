@@ -6,6 +6,7 @@
     "area_water":68539547,
     "geoid":"22065",
     "name":"Madison",
+    "ocd_id":"ocd-division/country:us/state:la/county:madison",
     "state":"la"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":113043381,
     "geoid":"22079",
     "name":"Rapides",
+    "ocd_id":"ocd-division/country:us/state:la/county:rapides",
     "state":"la"
 },
   "bbox": [

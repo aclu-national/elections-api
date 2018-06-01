@@ -6,6 +6,7 @@
     "area_water":476948860,
     "geoid":"36029",
     "name":"Erie",
+    "ocd_id":"ocd-division/country:us/state:ny/county:erie",
     "state":"ny"
 },
   "bbox": [

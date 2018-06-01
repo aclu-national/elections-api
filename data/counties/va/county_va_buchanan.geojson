@@ -6,6 +6,7 @@
     "area_water":2803981,
     "geoid":"51027",
     "name":"Buchanan",
+    "ocd_id":"ocd-division/country:us/state:va/county:buchanan",
     "state":"va"
 },
   "bbox": [

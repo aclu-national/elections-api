@@ -8,6 +8,7 @@
     "district_num":"151",
     "geoid":"13151",
     "name":"State House District 151",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:151",
     "state":"ga"
 },
   "bbox": [

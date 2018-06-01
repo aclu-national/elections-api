@@ -6,6 +6,7 @@
     "area_water":15017754,
     "geoid":"37043",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:nc/county:clay",
     "state":"nc"
 },
   "bbox": [

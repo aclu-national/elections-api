@@ -6,6 +6,7 @@
     "area_water":37411492,
     "geoid":"42003",
     "name":"Allegheny",
+    "ocd_id":"ocd-division/country:us/state:pa/county:allegheny",
     "state":"pa"
 },
   "bbox": [

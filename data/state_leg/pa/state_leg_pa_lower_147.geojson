@@ -8,6 +8,7 @@
     "district_num":"147",
     "geoid":"42147",
     "name":"State House District 147",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:147",
     "state":"pa"
 },
   "bbox": [

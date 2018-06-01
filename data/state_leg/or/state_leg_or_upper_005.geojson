@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"41005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:or/sldu:5",
     "state":"or"
 },
   "bbox": [

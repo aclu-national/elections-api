@@ -6,6 +6,7 @@
     "area_water":130748983,
     "geoid":"48499",
     "name":"Wood",
+    "ocd_id":"ocd-division/country:us/state:tx/county:wood",
     "state":"tx"
 },
   "bbox": [

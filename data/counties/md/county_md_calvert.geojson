@@ -6,6 +6,7 @@
     "area_water":341560885,
     "geoid":"24009",
     "name":"Calvert",
+    "ocd_id":"ocd-division/country:us/state:md/county:calvert",
     "state":"md"
 },
   "bbox": [

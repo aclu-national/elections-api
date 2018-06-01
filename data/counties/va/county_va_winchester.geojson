@@ -6,6 +6,7 @@
     "area_water":54462,
     "geoid":"51840",
     "name":"Winchester",
+    "ocd_id":"ocd-division/country:us/state:va/county:winchester",
     "state":"va"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"31042",
     "name":"State Senate District 42",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:42",
     "state":"ne"
 },
   "bbox": [

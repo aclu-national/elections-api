@@ -6,6 +6,7 @@
     "area_water":2547651528,
     "geoid":"49003",
     "name":"Box Elder",
+    "ocd_id":"ocd-division/country:us/state:ut/county:box_elder",
     "state":"ut"
 },
   "bbox": [

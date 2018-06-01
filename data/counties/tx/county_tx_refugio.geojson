@@ -6,6 +6,7 @@
     "area_water":123687613,
     "geoid":"48391",
     "name":"Refugio",
+    "ocd_id":"ocd-division/country:us/state:tx/county:refugio",
     "state":"tx"
 },
   "bbox": [

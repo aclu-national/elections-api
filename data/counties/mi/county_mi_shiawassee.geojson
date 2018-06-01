@@ -6,6 +6,7 @@
     "area_water":26342203,
     "geoid":"26155",
     "name":"Shiawassee",
+    "ocd_id":"ocd-division/country:us/state:mi/county:shiawassee",
     "state":"mi"
 },
   "bbox": [

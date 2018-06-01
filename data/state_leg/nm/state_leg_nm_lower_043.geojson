@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"35043",
     "name":"State House District 43",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:43",
     "state":"nm"
 },
   "bbox": [

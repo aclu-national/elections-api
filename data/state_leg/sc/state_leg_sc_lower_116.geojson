@@ -8,6 +8,7 @@
     "district_num":"116",
     "geoid":"45116",
     "name":"State House District HD-116",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:116",
     "state":"sc"
 },
   "bbox": [

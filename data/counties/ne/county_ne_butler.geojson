@@ -6,6 +6,7 @@
     "area_water":15309107,
     "geoid":"31023",
     "name":"Butler",
+    "ocd_id":"ocd-division/country:us/state:ne/county:butler",
     "state":"ne"
 },
   "bbox": [

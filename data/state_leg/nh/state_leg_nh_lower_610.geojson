@@ -8,6 +8,7 @@
     "district_num":"610",
     "geoid":"33610",
     "name":"State House District Merrimack County No. 10",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:610",
     "state":"nh"
 },
   "bbox": [

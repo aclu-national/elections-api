@@ -6,6 +6,7 @@
     "area_water":26281951,
     "geoid":"20195",
     "name":"Trego",
+    "ocd_id":"ocd-division/country:us/state:ks/county:trego",
     "state":"ks"
 },
   "bbox": [

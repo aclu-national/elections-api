@@ -6,6 +6,7 @@
     "area_water":149170814,
     "geoid":"60040",
     "name":"Swains Island",
+    "ocd_id":"ocd-division/country:us/state:as/county:swains_island",
     "state":"as"
 },
   "bbox": [

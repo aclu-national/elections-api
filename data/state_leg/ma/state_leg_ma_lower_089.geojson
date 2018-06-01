@@ -8,6 +8,7 @@
     "district_num":"089",
     "geoid":"25089",
     "name":"7th Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:89",
     "state":"ma"
 },
   "bbox": [

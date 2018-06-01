@@ -6,6 +6,7 @@
     "area_water":14166400752,
     "geoid":"02150",
     "name":"Kodiak Island",
+    "ocd_id":"ocd-division/country:us/state:ak/county:kodiak_island",
     "state":"ak"
 },
   "bbox": [

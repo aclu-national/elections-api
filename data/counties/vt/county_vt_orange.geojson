@@ -6,6 +6,7 @@
     "area_water":12016544,
     "geoid":"50017",
     "name":"Orange",
+    "ocd_id":"ocd-division/country:us/state:vt/county:orange",
     "state":"vt"
 },
   "bbox": [

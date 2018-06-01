@@ -8,6 +8,7 @@
     "district_num":"511",
     "geoid":"33511",
     "name":"State House District Hillsborough County No. 11",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:511",
     "state":"nh"
 },
   "bbox": [

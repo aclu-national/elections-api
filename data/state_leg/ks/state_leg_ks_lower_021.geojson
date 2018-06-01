@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"20021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:21",
     "state":"ks"
 },
   "bbox": [

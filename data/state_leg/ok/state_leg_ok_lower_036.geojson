@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"40036",
     "name":"State House District 36",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:36",
     "state":"ok"
 },
   "bbox": [

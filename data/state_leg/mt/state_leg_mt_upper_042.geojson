@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"30042",
     "name":"State Senate District 42",
+    "ocd_id":"ocd-division/country:us/state:mt/sldu:42",
     "state":"mt"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"09071",
     "name":"State House District 71",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:71",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":970153168,
     "geoid":"26053",
     "name":"Gogebic",
+    "ocd_id":"ocd-division/country:us/state:mi/county:gogebic",
     "state":"mi"
 },
   "bbox": [

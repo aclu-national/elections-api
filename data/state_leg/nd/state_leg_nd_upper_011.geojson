@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"38011",
     "name":"State Senate District 11",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:11",
     "state":"nd"
 },
   "bbox": [

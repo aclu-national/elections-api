@@ -6,6 +6,7 @@
     "area_water":46077120,
     "geoid":"48477",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:tx/county:washington",
     "state":"tx"
 },
   "bbox": [

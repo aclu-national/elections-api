@@ -8,6 +8,7 @@
     "district_num":"47B",
     "geoid":"2747B",
     "name":"State House District 47B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:47B",
     "state":"mn"
 },
   "bbox": [

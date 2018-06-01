@@ -8,6 +8,7 @@
     "district_num":"130",
     "geoid":"29130",
     "name":"State House District 130",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:130",
     "state":"mo"
 },
   "bbox": [

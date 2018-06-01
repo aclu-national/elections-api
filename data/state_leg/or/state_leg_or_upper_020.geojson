@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"41020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:or/sldu:20",
     "state":"or"
 },
   "bbox": [

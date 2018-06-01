@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"40035",
     "name":"State Senate District 35",
+    "ocd_id":"ocd-division/country:us/state:ok/sldu:35",
     "state":"ok"
 },
   "bbox": [

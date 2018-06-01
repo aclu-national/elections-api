@@ -6,6 +6,7 @@
     "area_water":50472148,
     "geoid":"48083",
     "name":"Coleman",
+    "ocd_id":"ocd-division/country:us/state:tx/county:coleman",
     "state":"tx"
 },
   "bbox": [

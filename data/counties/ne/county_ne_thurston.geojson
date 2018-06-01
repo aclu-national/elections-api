@@ -6,6 +6,7 @@
     "area_water":6458661,
     "geoid":"31173",
     "name":"Thurston",
+    "ocd_id":"ocd-division/country:us/state:ne/county:thurston",
     "state":"ne"
 },
   "bbox": [

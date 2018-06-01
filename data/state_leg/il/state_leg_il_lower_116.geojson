@@ -8,6 +8,7 @@
     "district_num":"116",
     "geoid":"17116",
     "name":"State House District 116",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:116",
     "state":"il"
 },
   "bbox": [

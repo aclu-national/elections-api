@@ -8,6 +8,7 @@
     "district_num":"121",
     "geoid":"45121",
     "name":"State House District HD-121",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:121",
     "state":"sc"
 },
   "bbox": [

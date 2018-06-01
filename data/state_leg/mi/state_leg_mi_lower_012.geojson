@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"26012",
     "name":"State House District 12",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:12",
     "state":"mi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12878258897,
     "geoid":"02188",
     "name":"Northwest Arctic",
+    "ocd_id":"ocd-division/country:us/state:ak/county:northwest_arctic",
     "state":"ak"
 },
   "bbox": [

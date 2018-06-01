@@ -8,6 +8,7 @@
     "district_num":"145",
     "geoid":"29145",
     "name":"State House District 145",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:145",
     "state":"mo"
 },
   "bbox": [

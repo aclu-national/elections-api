@@ -6,6 +6,7 @@
     "area_water":419570389,
     "geoid":"06087",
     "name":"Santa Cruz",
+    "ocd_id":"ocd-division/country:us/state:ca/county:santa_cruz",
     "state":"ca"
 },
   "bbox": [

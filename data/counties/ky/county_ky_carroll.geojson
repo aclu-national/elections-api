@@ -6,6 +6,7 @@
     "area_water":22650593,
     "geoid":"21041",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:ky/county:carroll",
     "state":"ky"
 },
   "bbox": [

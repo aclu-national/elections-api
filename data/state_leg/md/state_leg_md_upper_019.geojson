@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"24019",
     "name":"State Senate District 19",
+    "ocd_id":"ocd-division/country:us/state:md/sldu:19",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":21106020,
     "geoid":"26037",
     "name":"Clinton",
+    "ocd_id":"ocd-division/country:us/state:mi/county:clinton",
     "state":"mi"
 },
   "bbox": [

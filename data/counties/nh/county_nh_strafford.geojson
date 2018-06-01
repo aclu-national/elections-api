@@ -6,6 +6,7 @@
     "area_water":39171752,
     "geoid":"33017",
     "name":"Strafford",
+    "ocd_id":"ocd-division/country:us/state:nh/county:strafford",
     "state":"nh"
 },
   "bbox": [

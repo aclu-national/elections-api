@@ -6,6 +6,7 @@
     "area_water":2192961833,
     "geoid":"37095",
     "name":"Hyde",
+    "ocd_id":"ocd-division/country:us/state:nc/county:hyde",
     "state":"nc"
 },
   "bbox": [

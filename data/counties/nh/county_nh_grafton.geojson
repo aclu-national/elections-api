@@ -6,6 +6,7 @@
     "area_water":106489725,
     "geoid":"33009",
     "name":"Grafton",
+    "ocd_id":"ocd-division/country:us/state:nh/county:grafton",
     "state":"nh"
 },
   "bbox": [

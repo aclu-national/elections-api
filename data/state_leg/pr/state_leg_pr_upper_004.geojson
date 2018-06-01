@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"72004",
     "name":"State Senate District IV",
+    "ocd_id":"ocd-division/country:us/state:pr/sldu:4",
     "state":"pr"
 },
   "bbox": [

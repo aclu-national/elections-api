@@ -6,6 +6,7 @@
     "area_water":534568389,
     "geoid":"37177",
     "name":"Tyrrell",
+    "ocd_id":"ocd-division/country:us/state:nc/county:tyrrell",
     "state":"nc"
 },
   "bbox": [

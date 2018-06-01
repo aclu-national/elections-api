@@ -6,6 +6,7 @@
     "area_water":133012067,
     "geoid":"01077",
     "name":"Lauderdale",
+    "ocd_id":"ocd-division/country:us/state:al/county:lauderdale",
     "state":"al"
 },
   "bbox": [

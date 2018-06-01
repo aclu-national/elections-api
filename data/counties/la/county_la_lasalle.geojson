@@ -6,6 +6,7 @@
     "area_water":97664776,
     "geoid":"22059",
     "name":"LaSalle",
+    "ocd_id":"ocd-division/country:us/state:la/county:lasalle",
     "state":"la"
 },
   "bbox": [

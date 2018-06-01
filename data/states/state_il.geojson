@@ -6,6 +6,7 @@
     "area_water":6211277447,
     "geoid":"17",
     "name":"Illinois",
+    "ocd_id":"ocd-division/country:us/state:il",
     "state":"il"
 },
   "bbox": [

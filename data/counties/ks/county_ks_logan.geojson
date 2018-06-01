@@ -6,6 +6,7 @@
     "area_water":274632,
     "geoid":"20109",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:ks/county:logan",
     "state":"ks"
 },
   "bbox": [

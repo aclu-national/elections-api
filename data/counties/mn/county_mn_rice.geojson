@@ -6,6 +6,7 @@
     "area_water":52057387,
     "geoid":"27131",
     "name":"Rice",
+    "ocd_id":"ocd-division/country:us/state:mn/county:rice",
     "state":"mn"
 },
   "bbox": [

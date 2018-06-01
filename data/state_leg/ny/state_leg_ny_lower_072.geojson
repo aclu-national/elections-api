@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"36072",
     "name":"Assembly District 72",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:72",
     "state":"ny"
 },
   "bbox": [

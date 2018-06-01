@@ -6,6 +6,7 @@
     "area_water":58413469,
     "geoid":"17055",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:il/county:franklin",
     "state":"il"
 },
   "bbox": [

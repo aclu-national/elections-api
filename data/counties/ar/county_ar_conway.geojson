@@ -6,6 +6,7 @@
     "area_water":37331621,
     "geoid":"05029",
     "name":"Conway",
+    "ocd_id":"ocd-division/country:us/state:ar/county:conway",
     "state":"ar"
 },
   "bbox": [

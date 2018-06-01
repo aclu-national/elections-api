@@ -6,6 +6,7 @@
     "area_water":20324168,
     "geoid":"17083",
     "name":"Jersey",
+    "ocd_id":"ocd-division/country:us/state:il/county:jersey",
     "state":"il"
 },
   "bbox": [

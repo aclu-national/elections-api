@@ -6,6 +6,7 @@
     "area_water":200159166,
     "geoid":"12089",
     "name":"Nassau",
+    "ocd_id":"ocd-division/country:us/state:fl/county:nassau",
     "state":"fl"
 },
   "bbox": [

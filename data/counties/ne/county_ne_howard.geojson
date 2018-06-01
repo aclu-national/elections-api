@@ -6,6 +6,7 @@
     "area_water":16199404,
     "geoid":"31093",
     "name":"Howard",
+    "ocd_id":"ocd-division/country:us/state:ne/county:howard",
     "state":"ne"
 },
   "bbox": [

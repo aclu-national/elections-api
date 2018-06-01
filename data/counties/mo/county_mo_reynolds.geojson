@@ -6,6 +6,7 @@
     "area_water":15372862,
     "geoid":"29179",
     "name":"Reynolds",
+    "ocd_id":"ocd-division/country:us/state:mo/county:reynolds",
     "state":"mo"
 },
   "bbox": [

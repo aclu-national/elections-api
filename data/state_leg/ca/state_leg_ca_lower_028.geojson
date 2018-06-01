@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"06028",
     "name":"Assembly District 28",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:28",
     "state":"ca"
 },
   "bbox": [

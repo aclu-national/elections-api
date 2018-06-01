@@ -8,6 +8,7 @@
     "district_num":"111",
     "geoid":"37111",
     "name":"State House District 111",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:111",
     "state":"nc"
 },
   "bbox": [

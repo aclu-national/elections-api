@@ -8,6 +8,7 @@
     "district_num":"108",
     "geoid":"36108",
     "name":"Assembly District 108",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:108",
     "state":"ny"
 },
   "bbox": [

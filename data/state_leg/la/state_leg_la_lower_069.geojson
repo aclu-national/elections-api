@@ -8,6 +8,7 @@
     "district_num":"069",
     "geoid":"22069",
     "name":"State House District 69",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:69",
     "state":"la"
 },
   "bbox": [

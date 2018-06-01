@@ -6,6 +6,7 @@
     "area_water":36567994,
     "geoid":"04012",
     "name":"La Paz",
+    "ocd_id":"ocd-division/country:us/state:az/county:la_paz",
     "state":"az"
 },
   "bbox": [

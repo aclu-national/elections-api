@@ -8,6 +8,7 @@
     "district_num":"107",
     "geoid":"09107",
     "name":"State House District 107",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:107",
     "state":"ct"
 },
   "bbox": [

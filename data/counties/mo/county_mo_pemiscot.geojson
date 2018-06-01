@@ -6,6 +6,7 @@
     "area_water":54164612,
     "geoid":"29155",
     "name":"Pemiscot",
+    "ocd_id":"ocd-division/country:us/state:mo/county:pemiscot",
     "state":"mo"
 },
   "bbox": [

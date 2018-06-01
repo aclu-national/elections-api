@@ -6,6 +6,7 @@
     "area_water":11781488,
     "geoid":"48099",
     "name":"Coryell",
+    "ocd_id":"ocd-division/country:us/state:tx/county:coryell",
     "state":"tx"
 },
   "bbox": [

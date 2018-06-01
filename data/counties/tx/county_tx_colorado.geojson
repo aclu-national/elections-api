@@ -6,6 +6,7 @@
     "area_water":34710043,
     "geoid":"48089",
     "name":"Colorado",
+    "ocd_id":"ocd-division/country:us/state:tx/county:colorado",
     "state":"tx"
 },
   "bbox": [

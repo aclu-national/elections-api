@@ -6,6 +6,7 @@
     "area_water":7122898,
     "geoid":"18093",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:in/county:lawrence",
     "state":"in"
 },
   "bbox": [

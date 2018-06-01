@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"12033",
     "name":"State Senate District 33",
+    "ocd_id":"ocd-division/country:us/state:fl/sldu:33",
     "state":"fl"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"10004",
     "name":"State House District 4",
+    "ocd_id":"ocd-division/country:us/state:de/sldl:4",
     "state":"de"
 },
   "bbox": [

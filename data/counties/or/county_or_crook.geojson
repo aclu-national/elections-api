@@ -6,6 +6,7 @@
     "area_water":21091929,
     "geoid":"41013",
     "name":"Crook",
+    "ocd_id":"ocd-division/country:us/state:or/county:crook",
     "state":"or"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":10687958,
     "geoid":"27173",
     "name":"Yellow Medicine",
+    "ocd_id":"ocd-division/country:us/state:mn/county:yellow_medicine",
     "state":"mn"
 },
   "bbox": [

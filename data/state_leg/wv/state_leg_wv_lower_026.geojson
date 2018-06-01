@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"54026",
     "name":"State House District 26",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:26",
     "state":"wv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"09109",
     "name":"State House District 109",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:109",
     "state":"ct"
 },
   "bbox": [

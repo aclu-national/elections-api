@@ -6,6 +6,7 @@
     "area_water":4922111,
     "geoid":"21067",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:ky/county:fayette",
     "state":"ky"
 },
   "bbox": [

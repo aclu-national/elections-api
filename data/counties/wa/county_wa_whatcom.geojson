@@ -6,6 +6,7 @@
     "area_water":1028184768,
     "geoid":"53073",
     "name":"Whatcom",
+    "ocd_id":"ocd-division/country:us/state:wa/county:whatcom",
     "state":"wa"
 },
   "bbox": [

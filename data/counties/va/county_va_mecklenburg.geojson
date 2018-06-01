@@ -6,6 +6,7 @@
     "area_water":139243978,
     "geoid":"51117",
     "name":"Mecklenburg",
+    "ocd_id":"ocd-division/country:us/state:va/county:mecklenburg",
     "state":"va"
 },
   "bbox": [

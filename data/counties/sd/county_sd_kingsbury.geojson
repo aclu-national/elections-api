@@ -6,6 +6,7 @@
     "area_water":81655092,
     "geoid":"46077",
     "name":"Kingsbury",
+    "ocd_id":"ocd-division/country:us/state:sd/county:kingsbury",
     "state":"sd"
 },
   "bbox": [

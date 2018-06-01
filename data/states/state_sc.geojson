@@ -6,6 +6,7 @@
     "area_water":5071381300,
     "geoid":"45",
     "name":"South Carolina",
+    "ocd_id":"ocd-division/country:us/state:sc",
     "state":"sc"
 },
   "bbox": [

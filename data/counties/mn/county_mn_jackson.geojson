@@ -6,6 +6,7 @@
     "area_water":42120425,
     "geoid":"27063",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:mn/county:jackson",
     "state":"mn"
 },
   "bbox": [

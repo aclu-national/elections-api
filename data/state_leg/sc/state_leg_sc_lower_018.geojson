@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"45018",
     "name":"State House District HD-018",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:18",
     "state":"sc"
 },
   "bbox": [

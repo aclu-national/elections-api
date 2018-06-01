@@ -6,6 +6,7 @@
     "area_water":13587978,
     "geoid":"38011",
     "name":"Bowman",
+    "ocd_id":"ocd-division/country:us/state:nd/county:bowman",
     "state":"nd"
 },
   "bbox": [

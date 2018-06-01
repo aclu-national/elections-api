@@ -6,6 +6,7 @@
     "area_water":79744538,
     "geoid":"27029",
     "name":"Clearwater",
+    "ocd_id":"ocd-division/country:us/state:mn/county:clearwater",
     "state":"mn"
 },
   "bbox": [

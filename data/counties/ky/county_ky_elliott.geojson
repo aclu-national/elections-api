@@ -6,6 +6,7 @@
     "area_water":2608208,
     "geoid":"21063",
     "name":"Elliott",
+    "ocd_id":"ocd-division/country:us/state:ky/county:elliott",
     "state":"ky"
 },
   "bbox": [

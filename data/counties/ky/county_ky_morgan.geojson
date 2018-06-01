@@ -6,6 +6,7 @@
     "area_water":6889722,
     "geoid":"21175",
     "name":"Morgan",
+    "ocd_id":"ocd-division/country:us/state:ky/county:morgan",
     "state":"ky"
 },
   "bbox": [

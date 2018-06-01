@@ -8,6 +8,7 @@
     "district_num":"059",
     "geoid":"36059",
     "name":"State Senate District 59",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:59",
     "state":"ny"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"48020",
     "name":"State House District 20",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:20",
     "state":"tx"
 },
   "bbox": [

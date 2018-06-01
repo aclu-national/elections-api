@@ -8,6 +8,7 @@
     "district_num":"107",
     "geoid":"45107",
     "name":"State House District HD-107",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:107",
     "state":"sc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":302703,
     "geoid":"54097",
     "name":"Upshur",
+    "ocd_id":"ocd-division/country:us/state:wv/county:upshur",
     "state":"wv"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":15316016,
     "geoid":"13303",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:ga/county:washington",
     "state":"ga"
 },
   "bbox": [

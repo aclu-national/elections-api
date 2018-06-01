@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"25102",
     "name":"1st Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:102",
     "state":"ma"
 },
   "bbox": [

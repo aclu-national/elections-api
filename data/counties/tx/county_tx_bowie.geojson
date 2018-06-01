@@ -6,6 +6,7 @@
     "area_water":98319961,
     "geoid":"48037",
     "name":"Bowie",
+    "ocd_id":"ocd-division/country:us/state:tx/county:bowie",
     "state":"tx"
 },
   "bbox": [

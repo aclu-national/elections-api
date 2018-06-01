@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"42109",
     "name":"State House District 109",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:109",
     "state":"pa"
 },
   "bbox": [

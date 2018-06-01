@@ -8,6 +8,7 @@
     "district_num":"098",
     "geoid":"18098",
     "name":"State House District 98",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:98",
     "state":"in"
 },
   "bbox": [

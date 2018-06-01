@@ -8,6 +8,7 @@
     "district_num":"104",
     "geoid":"22104",
     "name":"State House District 104",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:104",
     "state":"la"
 },
   "bbox": [

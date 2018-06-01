@@ -6,6 +6,7 @@
     "area_water":12727950,
     "geoid":"13077",
     "name":"Coweta",
+    "ocd_id":"ocd-division/country:us/state:ga/county:coweta",
     "state":"ga"
 },
   "bbox": [

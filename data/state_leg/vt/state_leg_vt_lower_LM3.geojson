@@ -8,6 +8,7 @@
     "district_num":"LM3",
     "geoid":"50LM3",
     "name":"Lamoille-3 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:LM3",
     "state":"vt"
 },
   "bbox": [

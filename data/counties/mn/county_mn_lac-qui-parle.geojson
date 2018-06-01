@@ -6,6 +6,7 @@
     "area_water":33643131,
     "geoid":"27073",
     "name":"Lac qui Parle",
+    "ocd_id":"ocd-division/country:us/state:mn/county:lac_qui_parle",
     "state":"mn"
 },
   "bbox": [

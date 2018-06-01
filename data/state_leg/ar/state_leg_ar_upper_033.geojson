@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"05033",
     "name":"State Senate District 33",
+    "ocd_id":"ocd-division/country:us/state:ar/sldu:33",
     "state":"ar"
 },
   "bbox": [

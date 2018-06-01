@@ -8,6 +8,7 @@
     "district_num":"302",
     "geoid":"33302",
     "name":"State House District Coos County No. 2",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:302",
     "state":"nh"
 },
   "bbox": [

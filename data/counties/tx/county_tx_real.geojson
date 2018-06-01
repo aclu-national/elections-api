@@ -6,6 +6,7 @@
     "area_water":2346258,
     "geoid":"48385",
     "name":"Real",
+    "ocd_id":"ocd-division/country:us/state:tx/county:real",
     "state":"tx"
 },
   "bbox": [

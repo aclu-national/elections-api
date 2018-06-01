@@ -6,6 +6,7 @@
     "area_water":7930487,
     "geoid":"18149",
     "name":"Starke",
+    "ocd_id":"ocd-division/country:us/state:in/county:starke",
     "state":"in"
 },
   "bbox": [

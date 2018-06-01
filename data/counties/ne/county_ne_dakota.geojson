@@ -6,6 +6,7 @@
     "area_water":8199748,
     "geoid":"31043",
     "name":"Dakota",
+    "ocd_id":"ocd-division/country:us/state:ne/county:dakota",
     "state":"ne"
 },
   "bbox": [

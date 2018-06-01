@@ -8,6 +8,7 @@
     "district_num":"087",
     "geoid":"18087",
     "name":"State House District 87",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:87",
     "state":"in"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"402",
     "geoid":"33402",
     "name":"State House District Grafton County No. 2",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:402",
     "state":"nh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":15537990,
     "geoid":"37153",
     "name":"Richmond",
+    "ocd_id":"ocd-division/country:us/state:nc/county:richmond",
     "state":"nc"
 },
   "bbox": [

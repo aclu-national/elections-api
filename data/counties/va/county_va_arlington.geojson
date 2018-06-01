@@ -6,6 +6,7 @@
     "area_water":244142,
     "geoid":"51013",
     "name":"Arlington",
+    "ocd_id":"ocd-division/country:us/state:va/county:arlington",
     "state":"va"
 },
   "bbox": [

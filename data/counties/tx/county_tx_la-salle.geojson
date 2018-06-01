@@ -6,6 +6,7 @@
     "area_water":19503743,
     "geoid":"48283",
     "name":"La Salle",
+    "ocd_id":"ocd-division/country:us/state:tx/county:la_salle",
     "state":"tx"
 },
   "bbox": [

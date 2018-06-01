@@ -8,6 +8,7 @@
     "district_num":"092",
     "geoid":"55092",
     "name":"Assembly District 92",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:92",
     "state":"wi"
 },
   "bbox": [

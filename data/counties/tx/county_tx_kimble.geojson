@@ -6,6 +6,7 @@
     "area_water":493584,
     "geoid":"48267",
     "name":"Kimble",
+    "ocd_id":"ocd-division/country:us/state:tx/county:kimble",
     "state":"tx"
 },
   "bbox": [

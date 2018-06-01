@@ -6,6 +6,7 @@
     "area_water":12253242,
     "geoid":"17117",
     "name":"Macoupin",
+    "ocd_id":"ocd-division/country:us/state:il/county:macoupin",
     "state":"il"
 },
   "bbox": [

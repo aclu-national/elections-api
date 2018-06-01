@@ -6,6 +6,7 @@
     "area_water":6054988,
     "geoid":"01011",
     "name":"Bullock",
+    "ocd_id":"ocd-division/country:us/state:al/county:bullock",
     "state":"al"
 },
   "bbox": [

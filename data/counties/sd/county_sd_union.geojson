@@ -6,6 +6,7 @@
     "area_water":16562654,
     "geoid":"46127",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:sd/county:union",
     "state":"sd"
 },
   "bbox": [

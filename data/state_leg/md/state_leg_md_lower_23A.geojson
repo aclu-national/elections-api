@@ -8,6 +8,7 @@
     "district_num":"23A",
     "geoid":"2423A",
     "name":"State Legislative Subdistrict 23A",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:23A",
     "state":"md"
 },
   "bbox": [

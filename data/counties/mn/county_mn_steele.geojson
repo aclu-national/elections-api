@@ -6,6 +6,7 @@
     "area_water":6976791,
     "geoid":"27147",
     "name":"Steele",
+    "ocd_id":"ocd-division/country:us/state:mn/county:steele",
     "state":"mn"
 },
   "bbox": [

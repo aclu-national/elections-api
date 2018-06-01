@@ -6,6 +6,7 @@
     "area_water":92823523,
     "geoid":"40131",
     "name":"Rogers",
+    "ocd_id":"ocd-division/country:us/state:ok/county:rogers",
     "state":"ok"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"24005",
     "name":"State Legislative District 5",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:5",
     "state":"md"
 },
   "bbox": [

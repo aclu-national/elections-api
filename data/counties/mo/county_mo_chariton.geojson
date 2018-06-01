@@ -6,6 +6,7 @@
     "area_water":40353306,
     "geoid":"29041",
     "name":"Chariton",
+    "ocd_id":"ocd-division/country:us/state:mo/county:chariton",
     "state":"mo"
 },
   "bbox": [

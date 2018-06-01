@@ -8,6 +8,7 @@
     "district_num":"086",
     "geoid":"51086",
     "name":"State House District 86",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:86",
     "state":"va"
 },
   "bbox": [

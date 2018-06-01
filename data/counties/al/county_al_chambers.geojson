@@ -6,6 +6,7 @@
     "area_water":17048126,
     "geoid":"01017",
     "name":"Chambers",
+    "ocd_id":"ocd-division/country:us/state:al/county:chambers",
     "state":"al"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"050",
     "geoid":"47050",
     "name":"State House District 50",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:50",
     "state":"tn"
 },
   "bbox": [

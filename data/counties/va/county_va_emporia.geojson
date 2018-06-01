@@ -6,6 +6,7 @@
     "area_water":165621,
     "geoid":"51595",
     "name":"Emporia",
+    "ocd_id":"ocd-division/country:us/state:va/county:emporia",
     "state":"va"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":31102594,
     "geoid":"48215",
     "name":"Hidalgo",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hidalgo",
     "state":"tx"
 },
   "bbox": [

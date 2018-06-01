@@ -8,6 +8,7 @@
     "district_num":"126",
     "geoid":"13126",
     "name":"State House District 126",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:126",
     "state":"ga"
 },
   "bbox": [

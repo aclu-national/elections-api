@@ -6,6 +6,7 @@
     "area_water":72592521,
     "geoid":"72151",
     "name":"Yabucoa",
+    "ocd_id":"ocd-division/country:us/state:pr/county:yabucoa",
     "state":"pr"
 },
   "bbox": [

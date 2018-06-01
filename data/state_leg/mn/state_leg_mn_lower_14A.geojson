@@ -8,6 +8,7 @@
     "district_num":"14A",
     "geoid":"2714A",
     "name":"State House District 14A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:14A",
     "state":"mn"
 },
   "bbox": [

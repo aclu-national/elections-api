@@ -8,6 +8,7 @@
     "district_num":"018",
     "geoid":"42018",
     "name":"State Senate District 18",
+    "ocd_id":"ocd-division/country:us/state:pa/sldu:18",
     "state":"pa"
 },
   "bbox": [

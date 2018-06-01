@@ -6,6 +6,7 @@
     "area_water":6046030,
     "geoid":"13171",
     "name":"Lamar",
+    "ocd_id":"ocd-division/country:us/state:ga/county:lamar",
     "state":"ga"
 },
   "bbox": [

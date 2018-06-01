@@ -8,6 +8,7 @@
     "district_num":"WA7",
     "geoid":"50WA7",
     "name":"Washington-7 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WA7",
     "state":"vt"
 },
   "bbox": [

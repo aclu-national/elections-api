@@ -6,6 +6,7 @@
     "area_water":1718484,
     "geoid":"31129",
     "name":"Nuckolls",
+    "ocd_id":"ocd-division/country:us/state:ne/county:nuckolls",
     "state":"ne"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"067",
     "geoid":"22067",
     "name":"State House District 67",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:67",
     "state":"la"
 },
   "bbox": [

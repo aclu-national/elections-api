@@ -6,6 +6,7 @@
     "area_water":6788531,
     "geoid":"21043",
     "name":"Carter",
+    "ocd_id":"ocd-division/country:us/state:ky/county:carter",
     "state":"ky"
 },
   "bbox": [

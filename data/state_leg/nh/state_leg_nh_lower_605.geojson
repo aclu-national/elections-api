@@ -8,6 +8,7 @@
     "district_num":"605",
     "geoid":"33605",
     "name":"State House District Merrimack County No. 5",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:605",
     "state":"nh"
 },
   "bbox": [

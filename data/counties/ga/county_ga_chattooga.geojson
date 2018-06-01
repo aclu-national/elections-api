@@ -6,6 +6,7 @@
     "area_water":570806,
     "geoid":"13055",
     "name":"Chattooga",
+    "ocd_id":"ocd-division/country:us/state:ga/county:chattooga",
     "state":"ga"
 },
   "bbox": [

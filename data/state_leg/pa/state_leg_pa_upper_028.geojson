@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"42028",
     "name":"State Senate District 28",
+    "ocd_id":"ocd-division/country:us/state:pa/sldu:28",
     "state":"pa"
 },
   "bbox": [

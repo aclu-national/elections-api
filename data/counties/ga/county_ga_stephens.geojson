@@ -6,6 +6,7 @@
     "area_water":13095267,
     "geoid":"13257",
     "name":"Stephens",
+    "ocd_id":"ocd-division/country:us/state:ga/county:stephens",
     "state":"ga"
 },
   "bbox": [

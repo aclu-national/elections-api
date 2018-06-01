@@ -6,6 +6,7 @@
     "area_water":36976453,
     "geoid":"29163",
     "name":"Pike",
+    "ocd_id":"ocd-division/country:us/state:mo/county:pike",
     "state":"mo"
 },
   "bbox": [

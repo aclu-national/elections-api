@@ -6,6 +6,7 @@
     "area_water":16363553,
     "geoid":"08075",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:co/county:logan",
     "state":"co"
 },
   "bbox": [

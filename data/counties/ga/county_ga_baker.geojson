@@ -6,6 +6,7 @@
     "area_water":18598655,
     "geoid":"13007",
     "name":"Baker",
+    "ocd_id":"ocd-division/country:us/state:ga/county:baker",
     "state":"ga"
 },
   "bbox": [

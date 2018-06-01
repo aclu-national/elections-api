@@ -6,6 +6,7 @@
     "area_water":16345637,
     "geoid":"56041",
     "name":"Uinta",
+    "ocd_id":"ocd-division/country:us/state:wy/county:uinta",
     "state":"wy"
 },
   "bbox": [

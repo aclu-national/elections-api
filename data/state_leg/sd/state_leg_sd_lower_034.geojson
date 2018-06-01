@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"46034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:sd/sldl:34",
     "state":"sd"
 },
   "bbox": [

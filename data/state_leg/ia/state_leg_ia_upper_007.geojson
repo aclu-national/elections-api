@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"19007",
     "name":"State Senate District 7",
+    "ocd_id":"ocd-division/country:us/state:ia/sldu:7",
     "state":"ia"
 },
   "bbox": [

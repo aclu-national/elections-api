@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"13075",
     "name":"State House District 75",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:75",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1236552,
     "geoid":"28147",
     "name":"Walthall",
+    "ocd_id":"ocd-division/country:us/state:ms/county:walthall",
     "state":"ms"
 },
   "bbox": [

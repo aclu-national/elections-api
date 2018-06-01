@@ -6,6 +6,7 @@
     "area_water":35153783,
     "geoid":"22115",
     "name":"Vernon",
+    "ocd_id":"ocd-division/country:us/state:la/county:vernon",
     "state":"la"
 },
   "bbox": [

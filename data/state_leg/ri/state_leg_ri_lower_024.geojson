@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"44024",
     "name":"State House District 24",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:24",
     "state":"ri"
 },
   "bbox": [

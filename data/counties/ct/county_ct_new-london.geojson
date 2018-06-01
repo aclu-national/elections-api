@@ -6,6 +6,7 @@
     "area_water":276666169,
     "geoid":"09011",
     "name":"New London",
+    "ocd_id":"ocd-division/country:us/state:ct/county:new_london",
     "state":"ct"
 },
   "bbox": [

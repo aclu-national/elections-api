@@ -6,6 +6,7 @@
     "area_water":19593589,
     "geoid":"05063",
     "name":"Independence",
+    "ocd_id":"ocd-division/country:us/state:ar/county:independence",
     "state":"ar"
 },
   "bbox": [

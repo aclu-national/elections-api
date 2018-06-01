@@ -6,6 +6,7 @@
     "area_water":3364151,
     "geoid":"08027",
     "name":"Custer",
+    "ocd_id":"ocd-division/country:us/state:co/county:custer",
     "state":"co"
 },
   "bbox": [

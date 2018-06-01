@@ -8,6 +8,7 @@
     "district_num":"127",
     "geoid":"42127",
     "name":"State House District 127",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:127",
     "state":"pa"
 },
   "bbox": [

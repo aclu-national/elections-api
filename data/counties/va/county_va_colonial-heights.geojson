@@ -6,6 +6,7 @@
     "area_water":766909,
     "geoid":"51570",
     "name":"Colonial Heights",
+    "ocd_id":"ocd-division/country:us/state:va/county:colonial_heights",
     "state":"va"
 },
   "bbox": [

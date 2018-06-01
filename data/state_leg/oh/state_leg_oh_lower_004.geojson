@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"39004",
     "name":"State House District 4",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:4",
     "state":"oh"
 },
   "bbox": [

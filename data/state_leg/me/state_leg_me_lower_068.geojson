@@ -8,6 +8,7 @@
     "district_num":"068",
     "geoid":"23068",
     "name":"State House District 68",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:68",
     "state":"me"
 },
   "bbox": [

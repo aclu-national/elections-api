@@ -6,6 +6,7 @@
     "area_water":31126025,
     "geoid":"51101",
     "name":"King William",
+    "ocd_id":"ocd-division/country:us/state:va/county:king_william",
     "state":"va"
 },
   "bbox": [

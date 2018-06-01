@@ -6,6 +6,7 @@
     "area_water":8927725,
     "geoid":"13297",
     "name":"Walton",
+    "ocd_id":"ocd-division/country:us/state:ga/county:walton",
     "state":"ga"
 },
   "bbox": [

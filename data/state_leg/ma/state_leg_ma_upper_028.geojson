@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"25028",
     "name":"Second Suffolk & Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:28",
     "state":"ma"
 },
   "bbox": [

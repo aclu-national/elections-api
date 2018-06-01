@@ -6,6 +6,7 @@
     "area_water":89731152,
     "geoid":"48347",
     "name":"Nacogdoches",
+    "ocd_id":"ocd-division/country:us/state:tx/county:nacogdoches",
     "state":"tx"
 },
   "bbox": [

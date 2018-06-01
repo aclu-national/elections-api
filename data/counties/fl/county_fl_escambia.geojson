@@ -6,6 +6,7 @@
     "area_water":564025766,
     "geoid":"12033",
     "name":"Escambia",
+    "ocd_id":"ocd-division/country:us/state:fl/county:escambia",
     "state":"fl"
 },
   "bbox": [

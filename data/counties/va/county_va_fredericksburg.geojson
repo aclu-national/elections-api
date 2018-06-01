@@ -6,6 +6,7 @@
     "area_water":178255,
     "geoid":"51630",
     "name":"Fredericksburg",
+    "ocd_id":"ocd-division/country:us/state:va/county:fredericksburg",
     "state":"va"
 },
   "bbox": [

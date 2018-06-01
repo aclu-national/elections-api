@@ -8,6 +8,7 @@
     "district_num":"112",
     "geoid":"45112",
     "name":"State House District HD-112",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:112",
     "state":"sc"
 },
   "bbox": [

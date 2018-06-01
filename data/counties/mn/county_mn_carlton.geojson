@@ -6,6 +6,7 @@
     "area_water":36133708,
     "geoid":"27017",
     "name":"Carlton",
+    "ocd_id":"ocd-division/country:us/state:mn/county:carlton",
     "state":"mn"
 },
   "bbox": [

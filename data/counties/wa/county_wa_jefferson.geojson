@@ -6,6 +6,7 @@
     "area_water":994835543,
     "geoid":"53031",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:wa/county:jefferson",
     "state":"wa"
 },
   "bbox": [

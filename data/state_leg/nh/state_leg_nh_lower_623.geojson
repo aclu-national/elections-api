@@ -8,6 +8,7 @@
     "district_num":"623",
     "geoid":"33623",
     "name":"State House District Merrimack County No. 23",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:623",
     "state":"nh"
 },
   "bbox": [

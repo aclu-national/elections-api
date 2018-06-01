@@ -6,6 +6,7 @@
     "area_water":75428245,
     "geoid":"53043",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:wa/county:lincoln",
     "state":"wa"
 },
   "bbox": [

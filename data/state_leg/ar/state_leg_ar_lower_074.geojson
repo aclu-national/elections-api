@@ -8,6 +8,7 @@
     "district_num":"074",
     "geoid":"05074",
     "name":"State House District 74",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:74",
     "state":"ar"
 },
   "bbox": [

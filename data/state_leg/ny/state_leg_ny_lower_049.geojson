@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"36049",
     "name":"Assembly District 49",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:49",
     "state":"ny"
 },
   "bbox": [

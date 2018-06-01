@@ -6,6 +6,7 @@
     "area_water":7986323,
     "geoid":"56033",
     "name":"Sheridan",
+    "ocd_id":"ocd-division/country:us/state:wy/county:sheridan",
     "state":"wy"
 },
   "bbox": [

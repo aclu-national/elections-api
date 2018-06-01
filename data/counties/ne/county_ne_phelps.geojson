@@ -6,6 +6,7 @@
     "area_water":1646534,
     "geoid":"31137",
     "name":"Phelps",
+    "ocd_id":"ocd-division/country:us/state:ne/county:phelps",
     "state":"ne"
 },
   "bbox": [

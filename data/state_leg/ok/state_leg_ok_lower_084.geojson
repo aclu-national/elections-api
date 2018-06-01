@@ -8,6 +8,7 @@
     "district_num":"084",
     "geoid":"40084",
     "name":"State House District 84",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:84",
     "state":"ok"
 },
   "bbox": [

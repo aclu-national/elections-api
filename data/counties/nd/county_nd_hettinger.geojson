@@ -6,6 +6,7 @@
     "area_water":4036912,
     "geoid":"38041",
     "name":"Hettinger",
+    "ocd_id":"ocd-division/country:us/state:nd/county:hettinger",
     "state":"nd"
 },
   "bbox": [

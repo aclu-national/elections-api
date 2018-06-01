@@ -6,6 +6,7 @@
     "area_water":7038300,
     "geoid":"18021",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:in/county:clay",
     "state":"in"
 },
   "bbox": [

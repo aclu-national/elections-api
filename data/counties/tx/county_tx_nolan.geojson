@@ -6,6 +6,7 @@
     "area_water":5052158,
     "geoid":"48353",
     "name":"Nolan",
+    "ocd_id":"ocd-division/country:us/state:tx/county:nolan",
     "state":"tx"
 },
   "bbox": [

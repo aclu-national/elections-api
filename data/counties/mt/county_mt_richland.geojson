@@ -6,6 +6,7 @@
     "area_water":49652120,
     "geoid":"30083",
     "name":"Richland",
+    "ocd_id":"ocd-division/country:us/state:mt/county:richland",
     "state":"mt"
 },
   "bbox": [

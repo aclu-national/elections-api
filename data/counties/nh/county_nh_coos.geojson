@@ -6,6 +6,7 @@
     "area_water":92563568,
     "geoid":"33007",
     "name":"Coos",
+    "ocd_id":"ocd-division/country:us/state:nh/county:coos",
     "state":"nh"
 },
   "bbox": [

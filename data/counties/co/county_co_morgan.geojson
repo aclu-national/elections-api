@@ -6,6 +6,7 @@
     "area_water":34663099,
     "geoid":"08087",
     "name":"Morgan",
+    "ocd_id":"ocd-division/country:us/state:co/county:morgan",
     "state":"co"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":355666719,
     "geoid":"53053",
     "name":"Pierce",
+    "ocd_id":"ocd-division/country:us/state:wa/county:pierce",
     "state":"wa"
 },
   "bbox": [

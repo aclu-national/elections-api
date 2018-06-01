@@ -6,6 +6,7 @@
     "area_water":316368965,
     "geoid":"36031",
     "name":"Essex",
+    "ocd_id":"ocd-division/country:us/state:ny/county:essex",
     "state":"ny"
 },
   "bbox": [

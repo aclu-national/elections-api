@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"32026",
     "name":"Assembly District 26",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:26",
     "state":"nv"
 },
   "bbox": [

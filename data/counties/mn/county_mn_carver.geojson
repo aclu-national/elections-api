@@ -6,6 +6,7 @@
     "area_water":56768380,
     "geoid":"27019",
     "name":"Carver",
+    "ocd_id":"ocd-division/country:us/state:mn/county:carver",
     "state":"mn"
 },
   "bbox": [

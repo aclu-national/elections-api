@@ -6,6 +6,7 @@
     "area_water":195352764,
     "geoid":"72053",
     "name":"Fajardo",
+    "ocd_id":"ocd-division/country:us/state:pr/county:fajardo",
     "state":"pr"
 },
   "bbox": [

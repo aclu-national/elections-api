@@ -6,6 +6,7 @@
     "area_water":109088135,
     "geoid":"37015",
     "name":"Bertie",
+    "ocd_id":"ocd-division/country:us/state:nc/county:bertie",
     "state":"nc"
 },
   "bbox": [

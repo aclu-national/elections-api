@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"42048",
     "name":"State Senate District 48",
+    "ocd_id":"ocd-division/country:us/state:pa/sldu:48",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2394188156,
     "geoid":"17097",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:il/county:lake",
     "state":"il"
 },
   "bbox": [

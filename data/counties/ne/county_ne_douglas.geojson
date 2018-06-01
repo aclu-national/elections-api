@@ -6,6 +6,7 @@
     "area_water":28139501,
     "geoid":"31055",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:ne/county:douglas",
     "state":"ne"
 },
   "bbox": [

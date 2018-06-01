@@ -6,6 +6,7 @@
     "area_water":73344946,
     "geoid":"53059",
     "name":"Skamania",
+    "ocd_id":"ocd-division/country:us/state:wa/county:skamania",
     "state":"wa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1815495323,
     "geoid":"09",
     "name":"Connecticut",
+    "ocd_id":"ocd-division/country:us/state:ct",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":23650187,
     "geoid":"35023",
     "name":"Hidalgo",
+    "ocd_id":"ocd-division/country:us/state:nm/county:hidalgo",
     "state":"nm"
 },
   "bbox": [

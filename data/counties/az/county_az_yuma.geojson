@@ -6,6 +6,7 @@
     "area_water":13171316,
     "geoid":"04027",
     "name":"Yuma",
+    "ocd_id":"ocd-division/country:us/state:az/county:yuma",
     "state":"az"
 },
   "bbox": [

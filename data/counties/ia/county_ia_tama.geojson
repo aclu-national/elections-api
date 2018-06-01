@@ -6,6 +6,7 @@
     "area_water":2769421,
     "geoid":"19171",
     "name":"Tama",
+    "ocd_id":"ocd-division/country:us/state:ia/county:tama",
     "state":"ia"
 },
   "bbox": [

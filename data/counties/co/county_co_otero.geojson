@@ -6,6 +6,7 @@
     "area_water":19625371,
     "geoid":"08089",
     "name":"Otero",
+    "ocd_id":"ocd-division/country:us/state:co/county:otero",
     "state":"co"
 },
   "bbox": [

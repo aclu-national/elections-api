@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"05044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:ar/sldl:44",
     "state":"ar"
 },
   "bbox": [

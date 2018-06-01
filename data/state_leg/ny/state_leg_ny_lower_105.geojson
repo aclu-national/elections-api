@@ -8,6 +8,7 @@
     "district_num":"105",
     "geoid":"36105",
     "name":"Assembly District 105",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:105",
     "state":"ny"
 },
   "bbox": [

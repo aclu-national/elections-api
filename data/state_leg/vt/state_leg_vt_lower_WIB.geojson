@@ -8,6 +8,7 @@
     "district_num":"WIB",
     "geoid":"50WIB",
     "name":"Windham-Bennington State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WIB",
     "state":"vt"
 },
   "bbox": [

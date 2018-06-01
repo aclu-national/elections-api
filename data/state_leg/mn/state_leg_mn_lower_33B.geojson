@@ -8,6 +8,7 @@
     "district_num":"33B",
     "geoid":"2733B",
     "name":"State House District 33B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:33B",
     "state":"mn"
 },
   "bbox": [

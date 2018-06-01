@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"40052",
     "name":"State House District 52",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:52",
     "state":"ok"
 },
   "bbox": [

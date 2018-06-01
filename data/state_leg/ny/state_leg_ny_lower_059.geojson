@@ -8,6 +8,7 @@
     "district_num":"059",
     "geoid":"36059",
     "name":"Assembly District 59",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:59",
     "state":"ny"
 },
   "bbox": [

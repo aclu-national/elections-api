@@ -6,6 +6,7 @@
     "area_water":246575767,
     "geoid":"06061",
     "name":"Placer",
+    "ocd_id":"ocd-division/country:us/state:ca/county:placer",
     "state":"ca"
 },
   "bbox": [

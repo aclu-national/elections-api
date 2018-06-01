@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"32039",
     "name":"Assembly District 39",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:39",
     "state":"nv"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3453309,
     "geoid":"21119",
     "name":"Knott",
+    "ocd_id":"ocd-division/country:us/state:ky/county:knott",
     "state":"ky"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"094",
     "geoid":"37094",
     "name":"State House District 94",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:94",
     "state":"nc"
 },
   "bbox": [

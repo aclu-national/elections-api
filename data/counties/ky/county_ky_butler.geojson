@@ -6,6 +6,7 @@
     "area_water":13943044,
     "geoid":"21031",
     "name":"Butler",
+    "ocd_id":"ocd-division/country:us/state:ky/county:butler",
     "state":"ky"
 },
   "bbox": [

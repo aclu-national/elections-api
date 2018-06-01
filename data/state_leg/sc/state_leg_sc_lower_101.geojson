@@ -8,6 +8,7 @@
     "district_num":"101",
     "geoid":"45101",
     "name":"State House District HD-101",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:101",
     "state":"sc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":147383995,
     "geoid":"60030",
     "name":"Rose Island",
+    "ocd_id":"ocd-division/country:us/state:as/county:rose_island",
     "state":"as"
 },
   "bbox": [

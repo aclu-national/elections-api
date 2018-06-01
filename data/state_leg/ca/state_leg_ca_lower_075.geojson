@@ -8,6 +8,7 @@
     "district_num":"075",
     "geoid":"06075",
     "name":"Assembly District 75",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:75",
     "state":"ca"
 },
   "bbox": [

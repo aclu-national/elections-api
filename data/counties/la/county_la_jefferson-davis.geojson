@@ -6,6 +6,7 @@
     "area_water":18718206,
     "geoid":"22053",
     "name":"Jefferson Davis",
+    "ocd_id":"ocd-division/country:us/state:la/county:jefferson_davis",
     "state":"la"
 },
   "bbox": [

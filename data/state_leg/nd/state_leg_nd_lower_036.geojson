@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"38036",
     "name":"State House District 36",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:36",
     "state":"nd"
 },
   "bbox": [

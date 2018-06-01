@@ -6,6 +6,7 @@
     "area_water":172828921,
     "geoid":"36099",
     "name":"Seneca",
+    "ocd_id":"ocd-division/country:us/state:ny/county:seneca",
     "state":"ny"
 },
   "bbox": [

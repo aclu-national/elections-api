@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"01063",
     "name":"State House District 63",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:63",
     "state":"al"
 },
   "bbox": [

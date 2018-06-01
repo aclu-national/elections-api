@@ -8,6 +8,7 @@
     "district_num":"083",
     "geoid":"55083",
     "name":"Assembly District 83",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:83",
     "state":"wi"
 },
   "bbox": [

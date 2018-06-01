@@ -6,6 +6,7 @@
     "area_water":115910809,
     "geoid":"72123",
     "name":"Salinas",
+    "ocd_id":"ocd-division/country:us/state:pr/county:salinas",
     "state":"pr"
 },
   "bbox": [

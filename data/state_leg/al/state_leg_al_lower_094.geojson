@@ -8,6 +8,7 @@
     "district_num":"094",
     "geoid":"01094",
     "name":"State House District 94",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:94",
     "state":"al"
 },
   "bbox": [

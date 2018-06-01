@@ -6,6 +6,7 @@
     "area_water":39047412,
     "geoid":"22097",
     "name":"St. Landry",
+    "ocd_id":"ocd-division/country:us/state:la/county:st_landry",
     "state":"la"
 },
   "bbox": [

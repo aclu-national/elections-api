@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"35001",
     "name":"State House District 1",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:1",
     "state":"nm"
 },
   "bbox": [

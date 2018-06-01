@@ -6,6 +6,7 @@
     "area_water":24256617,
     "geoid":"42011",
     "name":"Berks",
+    "ocd_id":"ocd-division/country:us/state:pa/county:berks",
     "state":"pa"
 },
   "bbox": [

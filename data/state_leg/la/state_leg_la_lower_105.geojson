@@ -8,6 +8,7 @@
     "district_num":"105",
     "geoid":"22105",
     "name":"State House District 105",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:105",
     "state":"la"
 },
   "bbox": [

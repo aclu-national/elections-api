@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"17082",
     "name":"State House District 82",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:82",
     "state":"il"
 },
   "bbox": [

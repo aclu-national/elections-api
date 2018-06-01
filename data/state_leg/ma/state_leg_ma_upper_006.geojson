@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"25006",
     "name":"Hampshire, Franklin & Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:6",
     "state":"ma"
 },
   "bbox": [

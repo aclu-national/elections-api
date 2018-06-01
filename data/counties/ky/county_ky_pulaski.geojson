@@ -6,6 +6,7 @@
     "area_water":48546459,
     "geoid":"21199",
     "name":"Pulaski",
+    "ocd_id":"ocd-division/country:us/state:ky/county:pulaski",
     "state":"ky"
 },
   "bbox": [

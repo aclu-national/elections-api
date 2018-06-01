@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"36007",
     "name":"Assembly District 7",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:7",
     "state":"ny"
 },
   "bbox": [

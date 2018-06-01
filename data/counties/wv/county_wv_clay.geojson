@@ -6,6 +6,7 @@
     "area_water":4862445,
     "geoid":"54015",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:wv/county:clay",
     "state":"wv"
 },
   "bbox": [

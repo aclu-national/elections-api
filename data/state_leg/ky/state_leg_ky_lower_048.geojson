@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"21048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:48",
     "state":"ky"
 },
   "bbox": [

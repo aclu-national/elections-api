@@ -6,6 +6,7 @@
     "area_water":53624068,
     "geoid":"28033",
     "name":"DeSoto",
+    "ocd_id":"ocd-division/country:us/state:ms/county:desoto",
     "state":"ms"
 },
   "bbox": [

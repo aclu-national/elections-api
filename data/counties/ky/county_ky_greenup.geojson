@@ -6,6 +6,7 @@
     "area_water":25884322,
     "geoid":"21089",
     "name":"Greenup",
+    "ocd_id":"ocd-division/country:us/state:ky/county:greenup",
     "state":"ky"
 },
   "bbox": [

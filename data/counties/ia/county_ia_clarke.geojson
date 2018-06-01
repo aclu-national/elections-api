@@ -6,6 +6,7 @@
     "area_water":1524746,
     "geoid":"19039",
     "name":"Clarke",
+    "ocd_id":"ocd-division/country:us/state:ia/county:clarke",
     "state":"ia"
 },
   "bbox": [

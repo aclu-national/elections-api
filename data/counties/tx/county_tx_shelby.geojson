@@ -6,6 +6,7 @@
     "area_water":101081674,
     "geoid":"48419",
     "name":"Shelby",
+    "ocd_id":"ocd-division/country:us/state:tx/county:shelby",
     "state":"tx"
 },
   "bbox": [

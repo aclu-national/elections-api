@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"25040",
     "name":"Cape & Islands District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:40",
     "state":"ma"
 },
   "bbox": [

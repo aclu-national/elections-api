@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"32033",
     "name":"Assembly District 33",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:33",
     "state":"nv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"038",
     "geoid":"45038",
     "name":"State House District HD-038",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:38",
     "state":"sc"
 },
   "bbox": [

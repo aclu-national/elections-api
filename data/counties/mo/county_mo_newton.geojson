@@ -6,6 +6,7 @@
     "area_water":4717267,
     "geoid":"29145",
     "name":"Newton",
+    "ocd_id":"ocd-division/country:us/state:mo/county:newton",
     "state":"mo"
 },
   "bbox": [

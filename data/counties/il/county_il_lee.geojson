@@ -6,6 +6,7 @@
     "area_water":10634483,
     "geoid":"17103",
     "name":"Lee",
+    "ocd_id":"ocd-division/country:us/state:il/county:lee",
     "state":"il"
 },
   "bbox": [

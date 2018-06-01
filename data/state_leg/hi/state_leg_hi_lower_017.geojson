@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"15017",
     "name":"State House District 17",
+    "ocd_id":"ocd-division/country:us/state:hi/sldl:17",
     "state":"hi"
 },
   "bbox": [

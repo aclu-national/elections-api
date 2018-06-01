@@ -6,6 +6,7 @@
     "area_water":94596954,
     "geoid":"36111",
     "name":"Ulster",
+    "ocd_id":"ocd-division/country:us/state:ny/county:ulster",
     "state":"ny"
 },
   "bbox": [

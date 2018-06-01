@@ -6,6 +6,7 @@
     "area_water":24166737,
     "geoid":"20073",
     "name":"Greenwood",
+    "ocd_id":"ocd-division/country:us/state:ks/county:greenwood",
     "state":"ks"
 },
   "bbox": [

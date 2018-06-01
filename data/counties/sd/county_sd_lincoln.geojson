@@ -6,6 +6,7 @@
     "area_water":1179561,
     "geoid":"46083",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:sd/county:lincoln",
     "state":"sd"
 },
   "bbox": [

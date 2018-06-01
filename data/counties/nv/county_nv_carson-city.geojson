@@ -6,6 +6,7 @@
     "area_water":32587484,
     "geoid":"32510",
     "name":"Carson City",
+    "ocd_id":"ocd-division/country:us/state:nv/county:carson_city",
     "state":"nv"
 },
   "bbox": [

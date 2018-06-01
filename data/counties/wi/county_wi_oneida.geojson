@@ -6,6 +6,7 @@
     "area_water":317622270,
     "geoid":"55085",
     "name":"Oneida",
+    "ocd_id":"ocd-division/country:us/state:wi/county:oneida",
     "state":"wi"
 },
   "bbox": [

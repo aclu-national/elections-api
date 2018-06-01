@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"34011",
     "name":"State Senate District 11",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:11",
     "state":"nj"
 },
   "bbox": [

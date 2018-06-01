@@ -6,6 +6,7 @@
     "area_water":15396055,
     "geoid":"13095",
     "name":"Dougherty",
+    "ocd_id":"ocd-division/country:us/state:ga/county:dougherty",
     "state":"ga"
 },
   "bbox": [

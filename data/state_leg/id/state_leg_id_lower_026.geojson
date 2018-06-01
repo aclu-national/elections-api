@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"16026",
     "name":"State House District 26",
+    "ocd_id":"ocd-division/country:us/state:id/sldl:26",
     "state":"id"
 },
   "bbox": [

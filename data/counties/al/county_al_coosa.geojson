@@ -6,6 +6,7 @@
     "area_water":39987274,
     "geoid":"01037",
     "name":"Coosa",
+    "ocd_id":"ocd-division/country:us/state:al/county:coosa",
     "state":"al"
 },
   "bbox": [

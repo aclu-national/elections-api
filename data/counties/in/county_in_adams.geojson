@@ -6,6 +6,7 @@
     "area_water":2429955,
     "geoid":"18001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:in/county:adams",
     "state":"in"
 },
   "bbox": [

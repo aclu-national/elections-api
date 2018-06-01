@@ -6,6 +6,7 @@
     "area_water":13205756,
     "geoid":"48303",
     "name":"Lubbock",
+    "ocd_id":"ocd-division/country:us/state:tx/county:lubbock",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":8987274,
     "geoid":"51125",
     "name":"Nelson",
+    "ocd_id":"ocd-division/country:us/state:va/county:nelson",
     "state":"va"
 },
   "bbox": [

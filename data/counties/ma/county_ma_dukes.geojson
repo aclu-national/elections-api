@@ -6,6 +6,7 @@
     "area_water":1004275270,
     "geoid":"25007",
     "name":"Dukes",
+    "ocd_id":"ocd-division/country:us/state:ma/county:dukes",
     "state":"ma"
 },
   "bbox": [

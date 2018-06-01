@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"45042",
     "name":"State House District HD-042",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:42",
     "state":"sc"
 },
   "bbox": [

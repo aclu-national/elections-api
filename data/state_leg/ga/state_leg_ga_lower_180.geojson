@@ -8,6 +8,7 @@
     "district_num":"180",
     "geoid":"13180",
     "name":"State House District 180",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:180",
     "state":"ga"
 },
   "bbox": [

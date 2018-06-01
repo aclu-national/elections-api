@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"24028",
     "name":"State Senate District 28",
+    "ocd_id":"ocd-division/country:us/state:md/sldu:28",
     "state":"md"
 },
   "bbox": [

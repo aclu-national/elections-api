@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"49060",
     "name":"State House District 60",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:60",
     "state":"ut"
 },
   "bbox": [

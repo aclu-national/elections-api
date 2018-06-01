@@ -6,6 +6,7 @@
     "area_water":2252736,
     "geoid":"17107",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:il/county:logan",
     "state":"il"
 },
   "bbox": [

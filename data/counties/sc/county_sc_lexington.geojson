@@ -6,6 +6,7 @@
     "area_water":151957530,
     "geoid":"45063",
     "name":"Lexington",
+    "ocd_id":"ocd-division/country:us/state:sc/county:lexington",
     "state":"sc"
 },
   "bbox": [

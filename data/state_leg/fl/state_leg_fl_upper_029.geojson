@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"12029",
     "name":"State Senate District 29",
+    "ocd_id":"ocd-division/country:us/state:fl/sldu:29",
     "state":"fl"
 },
   "bbox": [

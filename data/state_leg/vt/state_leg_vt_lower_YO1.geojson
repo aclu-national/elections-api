@@ -8,6 +8,7 @@
     "district_num":"YO1",
     "geoid":"50YO1",
     "name":"Windsor-Orange-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:YO1",
     "state":"vt"
 },
   "bbox": [

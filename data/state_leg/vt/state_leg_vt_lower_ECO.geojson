@@ -8,6 +8,7 @@
     "district_num":"ECO",
     "geoid":"50ECO",
     "name":"Essex-Caledonia-Orleans State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:ECO",
     "state":"vt"
 },
   "bbox": [

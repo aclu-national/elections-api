@@ -6,6 +6,7 @@
     "area_water":13258106,
     "geoid":"21061",
     "name":"Edmonson",
+    "ocd_id":"ocd-division/country:us/state:ky/county:edmonson",
     "state":"ky"
 },
   "bbox": [

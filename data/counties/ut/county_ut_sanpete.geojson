@@ -6,6 +6,7 @@
     "area_water":32049371,
     "geoid":"49039",
     "name":"Sanpete",
+    "ocd_id":"ocd-division/country:us/state:ut/county:sanpete",
     "state":"ut"
 },
   "bbox": [

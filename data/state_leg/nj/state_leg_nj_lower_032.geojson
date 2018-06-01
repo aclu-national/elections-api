@@ -8,6 +8,7 @@
     "district_num":"032",
     "geoid":"34032",
     "name":"General Assembly District 32",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:32",
     "state":"nj"
 },
   "bbox": [

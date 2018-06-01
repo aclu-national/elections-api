@@ -6,6 +6,7 @@
     "area_water":8913818,
     "geoid":"05065",
     "name":"Izard",
+    "ocd_id":"ocd-division/country:us/state:ar/county:izard",
     "state":"ar"
 },
   "bbox": [

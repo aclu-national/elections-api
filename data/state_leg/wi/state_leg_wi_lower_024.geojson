@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"55024",
     "name":"Assembly District 24",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:24",
     "state":"wi"
 },
   "bbox": [

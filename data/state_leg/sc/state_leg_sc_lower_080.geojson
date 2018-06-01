@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"45080",
     "name":"State House District HD-080",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:80",
     "state":"sc"
 },
   "bbox": [

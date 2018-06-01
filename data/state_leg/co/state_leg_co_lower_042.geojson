@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"08042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:42",
     "state":"co"
 },
   "bbox": [

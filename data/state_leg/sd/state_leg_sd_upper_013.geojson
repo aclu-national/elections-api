@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"46013",
     "name":"State Senate District 13",
+    "ocd_id":"ocd-division/country:us/state:sd/sldu:13",
     "state":"sd"
 },
   "bbox": [

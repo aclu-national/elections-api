@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"31048",
     "name":"State Senate District 48",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:48",
     "state":"ne"
 },
   "bbox": [

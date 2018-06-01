@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"21023",
     "name":"State House District 23",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:23",
     "state":"ky"
 },
   "bbox": [

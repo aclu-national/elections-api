@@ -6,6 +6,7 @@
     "area_water":79429951,
     "geoid":"28121",
     "name":"Rankin",
+    "ocd_id":"ocd-division/country:us/state:ms/county:rankin",
     "state":"ms"
 },
   "bbox": [

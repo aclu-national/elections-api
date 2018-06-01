@@ -6,6 +6,7 @@
     "area_water":2893455,
     "geoid":"47175",
     "name":"Van Buren",
+    "ocd_id":"ocd-division/country:us/state:tn/county:van_buren",
     "state":"tn"
 },
   "bbox": [

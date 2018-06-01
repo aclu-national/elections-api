@@ -6,6 +6,7 @@
     "area_water":11584860,
     "geoid":"21127",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:ky/county:lawrence",
     "state":"ky"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":42362357,
     "geoid":"46017",
     "name":"Buffalo",
+    "ocd_id":"ocd-division/country:us/state:sd/county:buffalo",
     "state":"sd"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"24033",
     "name":"State Legislative District 33",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:33",
     "state":"md"
 },
   "bbox": [

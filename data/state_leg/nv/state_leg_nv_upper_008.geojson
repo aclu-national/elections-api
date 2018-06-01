@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"32008",
     "name":"State Senate District 8",
+    "ocd_id":"ocd-division/country:us/state:nv/sldu:8",
     "state":"nv"
 },
   "bbox": [

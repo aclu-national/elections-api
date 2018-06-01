@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"51045",
     "name":"State House District 45",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:45",
     "state":"va"
 },
   "bbox": [

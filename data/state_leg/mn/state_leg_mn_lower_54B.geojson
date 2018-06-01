@@ -8,6 +8,7 @@
     "district_num":"54B",
     "geoid":"2754B",
     "name":"State House District 54B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:54B",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"079",
     "geoid":"17079",
     "name":"State House District 79",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:79",
     "state":"il"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":661305228,
     "geoid":"41007",
     "name":"Clatsop",
+    "ocd_id":"ocd-division/country:us/state:or/county:clatsop",
     "state":"or"
 },
   "bbox": [

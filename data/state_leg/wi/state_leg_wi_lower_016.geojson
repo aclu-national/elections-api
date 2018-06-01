@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"55016",
     "name":"Assembly District 16",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:16",
     "state":"wi"
 },
   "bbox": [

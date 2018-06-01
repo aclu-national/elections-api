@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"38042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:42",
     "state":"nd"
 },
   "bbox": [

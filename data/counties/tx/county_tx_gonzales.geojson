@@ -6,6 +6,7 @@
     "area_water":8204086,
     "geoid":"48177",
     "name":"Gonzales",
+    "ocd_id":"ocd-division/country:us/state:tx/county:gonzales",
     "state":"tx"
 },
   "bbox": [

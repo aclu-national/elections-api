@@ -6,6 +6,7 @@
     "area_water":86143152,
     "geoid":"38083",
     "name":"Sheridan",
+    "ocd_id":"ocd-division/country:us/state:nd/county:sheridan",
     "state":"nd"
 },
   "bbox": [

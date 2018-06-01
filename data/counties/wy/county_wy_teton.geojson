@@ -6,6 +6,7 @@
     "area_water":570864021,
     "geoid":"56039",
     "name":"Teton",
+    "ocd_id":"ocd-division/country:us/state:wy/county:teton",
     "state":"wy"
 },
   "bbox": [

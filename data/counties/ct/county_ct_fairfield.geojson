@@ -6,6 +6,7 @@
     "area_water":549280551,
     "geoid":"09001",
     "name":"Fairfield",
+    "ocd_id":"ocd-division/country:us/state:ct/county:fairfield",
     "state":"ct"
 },
   "bbox": [

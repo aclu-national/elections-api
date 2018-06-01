@@ -6,6 +6,7 @@
     "area_water":4830034,
     "geoid":"54045",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:wv/county:logan",
     "state":"wv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"069",
     "geoid":"25069",
     "name":"1st Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:69",
     "state":"ma"
 },
   "bbox": [

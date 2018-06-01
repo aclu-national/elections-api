@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"49026",
     "name":"State Senate District 26",
+    "ocd_id":"ocd-division/country:us/state:ut/sldu:26",
     "state":"ut"
 },
   "bbox": [

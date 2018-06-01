@@ -6,6 +6,7 @@
     "area_water":7126155,
     "geoid":"46102",
     "name":"Oglala Lakota",
+    "ocd_id":"ocd-division/country:us/state:sd/county:oglala_lakota",
     "state":"sd"
 },
   "bbox": [

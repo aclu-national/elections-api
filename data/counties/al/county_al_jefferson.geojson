@@ -6,6 +6,7 @@
     "area_water":32756125,
     "geoid":"01073",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:al/county:jefferson",
     "state":"al"
 },
   "bbox": [

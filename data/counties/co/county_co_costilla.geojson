@@ -6,6 +6,7 @@
     "area_water":8828906,
     "geoid":"08023",
     "name":"Costilla",
+    "ocd_id":"ocd-division/country:us/state:co/county:costilla",
     "state":"co"
 },
   "bbox": [

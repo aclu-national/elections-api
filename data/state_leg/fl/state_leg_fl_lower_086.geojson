@@ -8,6 +8,7 @@
     "district_num":"086",
     "geoid":"12086",
     "name":"State House District 86",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:86",
     "state":"fl"
 },
   "bbox": [

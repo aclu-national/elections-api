@@ -8,6 +8,7 @@
     "district_num":"F-7",
     "geoid":"50F-7",
     "name":"Franklin-7 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:F-7",
     "state":"vt"
 },
   "bbox": [

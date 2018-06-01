@@ -6,6 +6,7 @@
     "area_water":99471076,
     "geoid":"22107",
     "name":"Tensas",
+    "ocd_id":"ocd-division/country:us/state:la/county:tensas",
     "state":"la"
 },
   "bbox": [

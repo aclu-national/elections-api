@@ -6,6 +6,7 @@
     "area_water":66996288,
     "geoid":"22007",
     "name":"Assumption",
+    "ocd_id":"ocd-division/country:us/state:la/county:assumption",
     "state":"la"
 },
   "bbox": [

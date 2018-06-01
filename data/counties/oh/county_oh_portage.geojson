@@ -6,6 +6,7 @@
     "area_water":43121843,
     "geoid":"39133",
     "name":"Portage",
+    "ocd_id":"ocd-division/country:us/state:oh/county:portage",
     "state":"oh"
 },
   "bbox": [

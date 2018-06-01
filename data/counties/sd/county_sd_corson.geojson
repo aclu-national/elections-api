@@ -6,6 +6,7 @@
     "area_water":155287099,
     "geoid":"46031",
     "name":"Corson",
+    "ocd_id":"ocd-division/country:us/state:sd/county:corson",
     "state":"sd"
 },
   "bbox": [

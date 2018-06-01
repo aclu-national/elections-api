@@ -6,6 +6,7 @@
     "area_water":94307300,
     "geoid":"05007",
     "name":"Benton",
+    "ocd_id":"ocd-division/country:us/state:ar/county:benton",
     "state":"ar"
 },
   "bbox": [

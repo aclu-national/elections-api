@@ -6,6 +6,7 @@
     "area_water":103998746281,
     "geoid":"26",
     "name":"Michigan",
+    "ocd_id":"ocd-division/country:us/state:mi",
     "state":"mi"
 },
   "bbox": [

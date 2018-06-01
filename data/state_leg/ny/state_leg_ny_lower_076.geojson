@@ -8,6 +8,7 @@
     "district_num":"076",
     "geoid":"36076",
     "name":"Assembly District 76",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:76",
     "state":"ny"
 },
   "bbox": [

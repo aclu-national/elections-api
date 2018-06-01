@@ -6,6 +6,7 @@
     "area_water":8720332,
     "geoid":"19159",
     "name":"Ringgold",
+    "ocd_id":"ocd-division/country:us/state:ia/county:ringgold",
     "state":"ia"
 },
   "bbox": [

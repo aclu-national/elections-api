@@ -6,6 +6,7 @@
     "area_water":41237262,
     "geoid":"42079",
     "name":"Luzerne",
+    "ocd_id":"ocd-division/country:us/state:pa/county:luzerne",
     "state":"pa"
 },
   "bbox": [

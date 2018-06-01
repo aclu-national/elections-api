@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"25012",
     "name":"Worcester & Norfolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:12",
     "state":"ma"
 },
   "bbox": [

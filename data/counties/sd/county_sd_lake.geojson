@@ -6,6 +6,7 @@
     "area_water":31769730,
     "geoid":"46079",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:sd/county:lake",
     "state":"sd"
 },
   "bbox": [

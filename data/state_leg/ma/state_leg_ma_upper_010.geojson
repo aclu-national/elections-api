@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"25010",
     "name":"First Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:10",
     "state":"ma"
 },
   "bbox": [

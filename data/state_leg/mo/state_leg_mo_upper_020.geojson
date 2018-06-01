@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"29020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:mo/sldu:20",
     "state":"mo"
 },
   "bbox": [

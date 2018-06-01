@@ -8,6 +8,7 @@
     "district_num":"28A",
     "geoid":"4628A",
     "name":"State House District 28A",
+    "ocd_id":"ocd-division/country:us/state:sd/sldl:28A",
     "state":"sd"
 },
   "bbox": [

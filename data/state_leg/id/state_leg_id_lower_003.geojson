@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"16003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:id/sldl:3",
     "state":"id"
 },
   "bbox": [

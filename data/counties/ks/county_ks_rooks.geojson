@@ -6,6 +6,7 @@
     "area_water":11962259,
     "geoid":"20163",
     "name":"Rooks",
+    "ocd_id":"ocd-division/country:us/state:ks/county:rooks",
     "state":"ks"
 },
   "bbox": [

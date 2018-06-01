@@ -6,6 +6,7 @@
     "area_water":26208987,
     "geoid":"27151",
     "name":"Swift",
+    "ocd_id":"ocd-division/country:us/state:mn/county:swift",
     "state":"mn"
 },
   "bbox": [

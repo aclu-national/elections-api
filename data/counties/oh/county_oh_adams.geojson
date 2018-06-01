@@ -6,6 +6,7 @@
     "area_water":6165939,
     "geoid":"39001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:oh/county:adams",
     "state":"oh"
 },
   "bbox": [

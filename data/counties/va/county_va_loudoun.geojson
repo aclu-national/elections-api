@@ -6,6 +6,7 @@
     "area_water":14556679,
     "geoid":"51107",
     "name":"Loudoun",
+    "ocd_id":"ocd-division/country:us/state:va/county:loudoun",
     "state":"va"
 },
   "bbox": [

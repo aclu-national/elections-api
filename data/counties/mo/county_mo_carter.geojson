@@ -6,6 +6,7 @@
     "area_water":4305247,
     "geoid":"29035",
     "name":"Carter",
+    "ocd_id":"ocd-division/country:us/state:mo/county:carter",
     "state":"mo"
 },
   "bbox": [

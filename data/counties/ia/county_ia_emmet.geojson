@@ -6,6 +6,7 @@
     "area_water":17196403,
     "geoid":"19063",
     "name":"Emmet",
+    "ocd_id":"ocd-division/country:us/state:ia/county:emmet",
     "state":"ia"
 },
   "bbox": [

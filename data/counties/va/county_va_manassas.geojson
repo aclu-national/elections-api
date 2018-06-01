@@ -6,6 +6,7 @@
     "area_water":147721,
     "geoid":"51683",
     "name":"Manassas",
+    "ocd_id":"ocd-division/country:us/state:va/county:manassas",
     "state":"va"
 },
   "bbox": [

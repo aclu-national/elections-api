@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"55002",
     "name":"Assembly District 2",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:2",
     "state":"wi"
 },
   "bbox": [

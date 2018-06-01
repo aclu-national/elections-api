@@ -6,6 +6,7 @@
     "area_water":6929970,
     "geoid":"08071",
     "name":"Las Animas",
+    "ocd_id":"ocd-division/country:us/state:co/county:las_animas",
     "state":"co"
 },
   "bbox": [

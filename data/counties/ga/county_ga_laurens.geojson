@@ -6,6 +6,7 @@
     "area_water":28985734,
     "geoid":"13175",
     "name":"Laurens",
+    "ocd_id":"ocd-division/country:us/state:ga/county:laurens",
     "state":"ga"
 },
   "bbox": [

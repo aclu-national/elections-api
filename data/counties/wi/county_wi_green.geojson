@@ -6,6 +6,7 @@
     "area_water":1315749,
     "geoid":"55045",
     "name":"Green",
+    "ocd_id":"ocd-division/country:us/state:wi/county:green",
     "state":"wi"
 },
   "bbox": [

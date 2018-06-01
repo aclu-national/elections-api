@@ -6,6 +6,7 @@
     "area_water":39709692,
     "geoid":"27047",
     "name":"Freeborn",
+    "ocd_id":"ocd-division/country:us/state:mn/county:freeborn",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"132",
     "geoid":"23132",
     "name":"State House District 132",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:132",
     "state":"me"
 },
   "bbox": [

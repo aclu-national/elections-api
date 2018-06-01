@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"25109",
     "name":"8th Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:109",
     "state":"ma"
 },
   "bbox": [

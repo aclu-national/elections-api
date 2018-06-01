@@ -8,6 +8,7 @@
     "district_num":"047",
     "geoid":"55047",
     "name":"Assembly District 47",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:47",
     "state":"wi"
 },
   "bbox": [

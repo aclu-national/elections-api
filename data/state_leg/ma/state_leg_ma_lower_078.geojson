@@ -8,6 +8,7 @@
     "district_num":"078",
     "geoid":"25078",
     "name":"10th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:78",
     "state":"ma"
 },
   "bbox": [

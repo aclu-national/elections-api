@@ -8,6 +8,7 @@
     "district_num":"073",
     "geoid":"25073",
     "name":"5th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:73",
     "state":"ma"
 },
   "bbox": [

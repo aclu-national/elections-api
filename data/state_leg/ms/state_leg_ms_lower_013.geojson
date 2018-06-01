@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"28013",
     "name":"State House District 13",
+    "ocd_id":"ocd-division/country:us/state:ms/sldl:13",
     "state":"ms"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":53366404,
     "geoid":"48191",
     "name":"Hall",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hall",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"35063",
     "name":"State House District 63",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:63",
     "state":"nm"
 },
   "bbox": [

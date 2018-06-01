@@ -6,6 +6,7 @@
     "area_water":65024748,
     "geoid":"46045",
     "name":"Edmunds",
+    "ocd_id":"ocd-division/country:us/state:sd/county:edmunds",
     "state":"sd"
 },
   "bbox": [

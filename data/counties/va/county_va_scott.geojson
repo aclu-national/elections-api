@@ -6,6 +6,7 @@
     "area_water":8105331,
     "geoid":"51169",
     "name":"Scott",
+    "ocd_id":"ocd-division/country:us/state:va/county:scott",
     "state":"va"
 },
   "bbox": [

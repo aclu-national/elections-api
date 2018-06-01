@@ -6,6 +6,7 @@
     "area_water":117205831,
     "geoid":"72013",
     "name":"Arecibo",
+    "ocd_id":"ocd-division/country:us/state:pr/county:arecibo",
     "state":"pr"
 },
   "bbox": [

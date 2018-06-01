@@ -6,6 +6,7 @@
     "area_water":5528932,
     "geoid":"54093",
     "name":"Tucker",
+    "ocd_id":"ocd-division/country:us/state:wv/county:tucker",
     "state":"wv"
 },
   "bbox": [

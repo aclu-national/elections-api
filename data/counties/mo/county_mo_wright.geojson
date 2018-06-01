@@ -6,6 +6,7 @@
     "area_water":3533325,
     "geoid":"29229",
     "name":"Wright",
+    "ocd_id":"ocd-division/country:us/state:mo/county:wright",
     "state":"mo"
 },
   "bbox": [

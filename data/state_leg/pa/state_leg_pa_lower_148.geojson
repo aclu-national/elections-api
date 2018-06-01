@@ -8,6 +8,7 @@
     "district_num":"148",
     "geoid":"42148",
     "name":"State House District 148",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:148",
     "state":"pa"
 },
   "bbox": [

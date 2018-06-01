@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"45021",
     "name":"State House District HD-021",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:21",
     "state":"sc"
 },
   "bbox": [

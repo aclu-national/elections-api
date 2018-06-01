@@ -6,6 +6,7 @@
     "area_water":10208057,
     "geoid":"27107",
     "name":"Norman",
+    "ocd_id":"ocd-division/country:us/state:mn/county:norman",
     "state":"mn"
 },
   "bbox": [

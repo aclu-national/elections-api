@@ -8,6 +8,7 @@
     "district_num":"114",
     "geoid":"09114",
     "name":"State House District 114",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:114",
     "state":"ct"
 },
   "bbox": [

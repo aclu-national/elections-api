@@ -8,6 +8,7 @@
     "district_num":"W-1",
     "geoid":"50W-1",
     "name":"Windham-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:W-1",
     "state":"vt"
 },
   "bbox": [

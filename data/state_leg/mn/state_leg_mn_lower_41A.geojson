@@ -8,6 +8,7 @@
     "district_num":"41A",
     "geoid":"2741A",
     "name":"State House District 41A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:41A",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"01003",
     "name":"State Senate District 3",
+    "ocd_id":"ocd-division/country:us/state:al/sldu:3",
     "state":"al"
 },
   "bbox": [

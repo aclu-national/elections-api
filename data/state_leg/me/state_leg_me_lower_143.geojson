@@ -8,6 +8,7 @@
     "district_num":"143",
     "geoid":"23143",
     "name":"State House District 143",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:143",
     "state":"me"
 },
   "bbox": [

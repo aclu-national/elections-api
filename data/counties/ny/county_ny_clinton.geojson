@@ -6,6 +6,7 @@
     "area_water":206611024,
     "geoid":"36019",
     "name":"Clinton",
+    "ocd_id":"ocd-division/country:us/state:ny/county:clinton",
     "state":"ny"
 },
   "bbox": [

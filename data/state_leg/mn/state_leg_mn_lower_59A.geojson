@@ -8,6 +8,7 @@
     "district_num":"59A",
     "geoid":"2759A",
     "name":"State House District 59A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:59A",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"143",
     "geoid":"36143",
     "name":"Assembly District 143",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:143",
     "state":"ny"
 },
   "bbox": [

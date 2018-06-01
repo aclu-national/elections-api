@@ -8,6 +8,7 @@
     "district_num":"050",
     "geoid":"37050",
     "name":"State House District 50",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:50",
     "state":"nc"
 },
   "bbox": [

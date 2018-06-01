@@ -6,6 +6,7 @@
     "area_water":8536907,
     "geoid":"20095",
     "name":"Kingman",
+    "ocd_id":"ocd-division/country:us/state:ks/county:kingman",
     "state":"ks"
 },
   "bbox": [

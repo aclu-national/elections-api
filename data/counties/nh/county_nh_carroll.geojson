@@ -6,6 +6,7 @@
     "area_water":159247403,
     "geoid":"33003",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:nh/county:carroll",
     "state":"nh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":13292007,
     "geoid":"37073",
     "name":"Gates",
+    "ocd_id":"ocd-division/country:us/state:nc/county:gates",
     "state":"nc"
 },
   "bbox": [

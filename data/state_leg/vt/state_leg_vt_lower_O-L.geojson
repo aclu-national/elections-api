@@ -8,6 +8,7 @@
     "district_num":"O-L",
     "geoid":"50O-L",
     "name":"Orleans-Lamoille State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:O-L",
     "state":"vt"
 },
   "bbox": [

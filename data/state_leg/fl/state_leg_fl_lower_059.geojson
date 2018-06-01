@@ -8,6 +8,7 @@
     "district_num":"059",
     "geoid":"12059",
     "name":"State House District 59",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:59",
     "state":"fl"
 },
   "bbox": [

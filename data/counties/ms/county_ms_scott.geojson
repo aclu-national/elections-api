@@ -6,6 +6,7 @@
     "area_water":3001522,
     "geoid":"28123",
     "name":"Scott",
+    "ocd_id":"ocd-division/country:us/state:ms/county:scott",
     "state":"ms"
 },
   "bbox": [

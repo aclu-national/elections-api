@@ -6,6 +6,7 @@
     "area_water":137339029,
     "geoid":"06019",
     "name":"Fresno",
+    "ocd_id":"ocd-division/country:us/state:ca/county:fresno",
     "state":"ca"
 },
   "bbox": [

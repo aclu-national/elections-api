@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"53048",
     "name":"State Senate District 48",
+    "ocd_id":"ocd-division/country:us/state:wa/sldu:48",
     "state":"wa"
 },
   "bbox": [

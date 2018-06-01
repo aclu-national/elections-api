@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"41017",
     "name":"State Senate District 17",
+    "ocd_id":"ocd-division/country:us/state:or/sldu:17",
     "state":"or"
 },
   "bbox": [

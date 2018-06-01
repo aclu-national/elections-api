@@ -6,6 +6,7 @@
     "area_water":1864048,
     "geoid":"05039",
     "name":"Dallas",
+    "ocd_id":"ocd-division/country:us/state:ar/county:dallas",
     "state":"ar"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3689043,
     "geoid":"47043",
     "name":"Dickson",
+    "ocd_id":"ocd-division/country:us/state:tn/county:dickson",
     "state":"tn"
 },
   "bbox": [

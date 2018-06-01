@@ -6,6 +6,7 @@
     "area_water":1533754,
     "geoid":"13313",
     "name":"Whitfield",
+    "ocd_id":"ocd-division/country:us/state:ga/county:whitfield",
     "state":"ga"
 },
   "bbox": [

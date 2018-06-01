@@ -6,6 +6,7 @@
     "area_water":18836099,
     "geoid":"54035",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:wv/county:jackson",
     "state":"wv"
 },
   "bbox": [

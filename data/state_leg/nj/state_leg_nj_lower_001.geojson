@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"34001",
     "name":"General Assembly District 1",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:1",
     "state":"nj"
 },
   "bbox": [

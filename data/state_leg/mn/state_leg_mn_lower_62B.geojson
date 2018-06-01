@@ -8,6 +8,7 @@
     "district_num":"62B",
     "geoid":"2762B",
     "name":"State House District 62B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:62B",
     "state":"mn"
 },
   "bbox": [

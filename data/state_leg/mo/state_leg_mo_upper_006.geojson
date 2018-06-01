@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"29006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:mo/sldu:6",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5037781,
     "geoid":"48209",
     "name":"Hays",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hays",
     "state":"tx"
 },
   "bbox": [

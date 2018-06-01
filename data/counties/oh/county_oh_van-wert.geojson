@@ -6,6 +6,7 @@
     "area_water":3281853,
     "geoid":"39161",
     "name":"Van Wert",
+    "ocd_id":"ocd-division/country:us/state:oh/county:van_wert",
     "state":"oh"
 },
   "bbox": [

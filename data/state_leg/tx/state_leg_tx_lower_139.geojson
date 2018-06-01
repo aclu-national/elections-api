@@ -8,6 +8,7 @@
     "district_num":"139",
     "geoid":"48139",
     "name":"State House District 139",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:139",
     "state":"tx"
 },
   "bbox": [

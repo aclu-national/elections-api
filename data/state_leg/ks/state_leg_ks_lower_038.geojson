@@ -8,6 +8,7 @@
     "district_num":"038",
     "geoid":"20038",
     "name":"State House District 38",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:38",
     "state":"ks"
 },
   "bbox": [

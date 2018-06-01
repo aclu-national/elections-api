@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"40023",
     "name":"State House District 23",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:23",
     "state":"ok"
 },
   "bbox": [

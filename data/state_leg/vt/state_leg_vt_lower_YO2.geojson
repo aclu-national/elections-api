@@ -8,6 +8,7 @@
     "district_num":"YO2",
     "geoid":"50YO2",
     "name":"Windsor-Orange-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:YO2",
     "state":"vt"
 },
   "bbox": [

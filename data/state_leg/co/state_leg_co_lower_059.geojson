@@ -8,6 +8,7 @@
     "district_num":"059",
     "geoid":"08059",
     "name":"State House District 59",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:59",
     "state":"co"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"062",
     "geoid":"21062",
     "name":"State House District 62",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:62",
     "state":"ky"
 },
   "bbox": [

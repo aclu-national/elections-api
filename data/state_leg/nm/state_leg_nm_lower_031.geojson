@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"35031",
     "name":"State House District 31",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:31",
     "state":"nm"
 },
   "bbox": [

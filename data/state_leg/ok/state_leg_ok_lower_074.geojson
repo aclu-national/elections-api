@@ -8,6 +8,7 @@
     "district_num":"074",
     "geoid":"40074",
     "name":"State House District 74",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:74",
     "state":"ok"
 },
   "bbox": [

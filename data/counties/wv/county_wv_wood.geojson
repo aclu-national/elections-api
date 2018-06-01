@@ -6,6 +6,7 @@
     "area_water":27228519,
     "geoid":"54107",
     "name":"Wood",
+    "ocd_id":"ocd-division/country:us/state:wv/county:wood",
     "state":"wv"
 },
   "bbox": [

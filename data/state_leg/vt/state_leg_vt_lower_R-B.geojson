@@ -8,6 +8,7 @@
     "district_num":"R-B",
     "geoid":"50R-B",
     "name":"Rutland-Bennington State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:R-B",
     "state":"vt"
 },
   "bbox": [

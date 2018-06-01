@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"26010",
     "name":"State Senate District 10",
+    "ocd_id":"ocd-division/country:us/state:mi/sldu:10",
     "state":"mi"
 },
   "bbox": [

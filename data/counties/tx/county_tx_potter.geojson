@@ -6,6 +6,7 @@
     "area_water":35190086,
     "geoid":"48375",
     "name":"Potter",
+    "ocd_id":"ocd-division/country:us/state:tx/county:potter",
     "state":"tx"
 },
   "bbox": [

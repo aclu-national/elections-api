@@ -6,6 +6,7 @@
     "area_water":168506888,
     "geoid":"27067",
     "name":"Kandiyohi",
+    "ocd_id":"ocd-division/country:us/state:mn/county:kandiyohi",
     "state":"mn"
 },
   "bbox": [

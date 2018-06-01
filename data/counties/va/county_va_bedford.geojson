@@ -6,6 +6,7 @@
     "area_water":42120242,
     "geoid":"51019",
     "name":"Bedford",
+    "ocd_id":"ocd-division/country:us/state:va/county:bedford",
     "state":"va"
 },
   "bbox": [

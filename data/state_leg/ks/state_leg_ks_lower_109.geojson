@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"20109",
     "name":"State House District 109",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:109",
     "state":"ks"
 },
   "bbox": [

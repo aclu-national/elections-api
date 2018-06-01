@@ -6,6 +6,7 @@
     "area_water":47158145,
     "geoid":"21059",
     "name":"Daviess",
+    "ocd_id":"ocd-division/country:us/state:ky/county:daviess",
     "state":"ky"
 },
   "bbox": [

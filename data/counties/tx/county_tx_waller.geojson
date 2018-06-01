@@ -6,6 +6,7 @@
     "area_water":11622560,
     "geoid":"48473",
     "name":"Waller",
+    "ocd_id":"ocd-division/country:us/state:tx/county:waller",
     "state":"tx"
 },
   "bbox": [

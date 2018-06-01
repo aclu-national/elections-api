@@ -8,6 +8,7 @@
     "district_num":"25B",
     "geoid":"2725B",
     "name":"State House District 25B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:25B",
     "state":"mn"
 },
   "bbox": [

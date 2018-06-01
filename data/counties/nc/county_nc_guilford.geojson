@@ -6,6 +6,7 @@
     "area_water":30723331,
     "geoid":"37081",
     "name":"Guilford",
+    "ocd_id":"ocd-division/country:us/state:nc/county:guilford",
     "state":"nc"
 },
   "bbox": [

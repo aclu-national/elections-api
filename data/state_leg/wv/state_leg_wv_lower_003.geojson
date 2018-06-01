@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"54003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:3",
     "state":"wv"
 },
   "bbox": [

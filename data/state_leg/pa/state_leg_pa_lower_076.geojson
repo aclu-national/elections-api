@@ -8,6 +8,7 @@
     "district_num":"076",
     "geoid":"42076",
     "name":"State House District 76",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:76",
     "state":"pa"
 },
   "bbox": [

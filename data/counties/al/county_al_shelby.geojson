@@ -6,6 +6,7 @@
     "area_water":62542790,
     "geoid":"01117",
     "name":"Shelby",
+    "ocd_id":"ocd-division/country:us/state:al/county:shelby",
     "state":"al"
 },
   "bbox": [

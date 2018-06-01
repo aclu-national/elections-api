@@ -8,6 +8,7 @@
     "district_num":"113",
     "geoid":"23113",
     "name":"State House District 113",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:113",
     "state":"me"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"49052",
     "name":"State House District 52",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:52",
     "state":"ut"
 },
   "bbox": [

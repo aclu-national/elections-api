@@ -6,6 +6,7 @@
     "area_water":54655591,
     "geoid":"51067",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:va/county:franklin",
     "state":"va"
 },
   "bbox": [

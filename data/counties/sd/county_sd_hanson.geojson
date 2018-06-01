@@ -6,6 +6,7 @@
     "area_water":2248724,
     "geoid":"46061",
     "name":"Hanson",
+    "ocd_id":"ocd-division/country:us/state:sd/county:hanson",
     "state":"sd"
 },
   "bbox": [

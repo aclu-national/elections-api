@@ -6,6 +6,7 @@
     "area_water":8153437,
     "geoid":"55103",
     "name":"Richland",
+    "ocd_id":"ocd-division/country:us/state:wi/county:richland",
     "state":"wi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":274103901,
     "geoid":"02090",
     "name":"Fairbanks North Star",
+    "ocd_id":"ocd-division/country:us/state:ak/county:fairbanks_north_star",
     "state":"ak"
 },
   "bbox": [

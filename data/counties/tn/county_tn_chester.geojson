@@ -6,6 +6,7 @@
     "area_water":575590,
     "geoid":"47023",
     "name":"Chester",
+    "ocd_id":"ocd-division/country:us/state:tn/county:chester",
     "state":"tn"
 },
   "bbox": [

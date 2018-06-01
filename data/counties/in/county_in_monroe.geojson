@@ -6,6 +6,7 @@
     "area_water":43504254,
     "geoid":"18105",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:in/county:monroe",
     "state":"in"
 },
   "bbox": [

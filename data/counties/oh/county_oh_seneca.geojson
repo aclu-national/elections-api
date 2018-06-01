@@ -6,6 +6,7 @@
     "area_water":4584953,
     "geoid":"39147",
     "name":"Seneca",
+    "ocd_id":"ocd-division/country:us/state:oh/county:seneca",
     "state":"oh"
 },
   "bbox": [

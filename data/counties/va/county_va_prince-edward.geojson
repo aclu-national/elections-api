@@ -6,6 +6,7 @@
     "area_water":10040117,
     "geoid":"51147",
     "name":"Prince Edward",
+    "ocd_id":"ocd-division/country:us/state:va/county:prince_edward",
     "state":"va"
 },
   "bbox": [

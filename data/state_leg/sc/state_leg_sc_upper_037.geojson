@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"45037",
     "name":"State Senate District 37",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:37",
     "state":"sc"
 },
   "bbox": [

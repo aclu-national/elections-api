@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"25009",
     "name":"Worcester & Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:9",
     "state":"ma"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":25132346,
     "geoid":"45045",
     "name":"Greenville",
+    "ocd_id":"ocd-division/country:us/state:sc/county:greenville",
     "state":"sc"
 },
   "bbox": [

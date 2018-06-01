@@ -6,6 +6,7 @@
     "area_water":8796711,
     "geoid":"17023",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:il/county:clark",
     "state":"il"
 },
   "bbox": [

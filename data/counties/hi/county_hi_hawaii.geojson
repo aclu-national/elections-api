@@ -6,6 +6,7 @@
     "area_water":2739470030,
     "geoid":"15001",
     "name":"Hawaii",
+    "ocd_id":"ocd-division/country:us/state:hi/county:hawaii",
     "state":"hi"
 },
   "bbox": [

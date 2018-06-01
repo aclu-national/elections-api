@@ -6,6 +6,7 @@
     "area_water":56291575,
     "geoid":"29143",
     "name":"New Madrid",
+    "ocd_id":"ocd-division/country:us/state:mo/county:new_madrid",
     "state":"mo"
 },
   "bbox": [

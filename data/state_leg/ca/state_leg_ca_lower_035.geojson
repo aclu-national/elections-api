@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"06035",
     "name":"Assembly District 35",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:35",
     "state":"ca"
 },
   "bbox": [

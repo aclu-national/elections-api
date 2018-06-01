@@ -6,6 +6,7 @@
     "area_water":10663282,
     "geoid":"13293",
     "name":"Upson",
+    "ocd_id":"ocd-division/country:us/state:ga/county:upson",
     "state":"ga"
 },
   "bbox": [

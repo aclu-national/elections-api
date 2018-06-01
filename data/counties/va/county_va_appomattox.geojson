@@ -6,6 +6,7 @@
     "area_water":3234361,
     "geoid":"51011",
     "name":"Appomattox",
+    "ocd_id":"ocd-division/country:us/state:va/county:appomattox",
     "state":"va"
 },
   "bbox": [

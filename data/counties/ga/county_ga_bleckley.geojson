@@ -6,6 +6,7 @@
     "area_water":8447343,
     "geoid":"13023",
     "name":"Bleckley",
+    "ocd_id":"ocd-division/country:us/state:ga/county:bleckley",
     "state":"ga"
 },
   "bbox": [

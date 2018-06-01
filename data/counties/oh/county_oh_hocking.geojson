@@ -6,6 +6,7 @@
     "area_water":5959003,
     "geoid":"39073",
     "name":"Hocking",
+    "ocd_id":"ocd-division/country:us/state:oh/county:hocking",
     "state":"oh"
 },
   "bbox": [

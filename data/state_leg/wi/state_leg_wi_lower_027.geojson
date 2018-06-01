@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"55027",
     "name":"Assembly District 27",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:27",
     "state":"wi"
 },
   "bbox": [

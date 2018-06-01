@@ -8,6 +8,7 @@
     "district_num":"136",
     "geoid":"09136",
     "name":"State House District 136",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:136",
     "state":"ct"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"37021",
     "name":"State Senate District 21",
+    "ocd_id":"ocd-division/country:us/state:nc/sldu:21",
     "state":"nc"
 },
   "bbox": [

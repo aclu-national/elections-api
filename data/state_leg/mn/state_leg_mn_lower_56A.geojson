@@ -8,6 +8,7 @@
     "district_num":"56A",
     "geoid":"2756A",
     "name":"State House District 56A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:56A",
     "state":"mn"
 },
   "bbox": [

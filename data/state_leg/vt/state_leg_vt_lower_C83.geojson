@@ -8,6 +8,7 @@
     "district_num":"C83",
     "geoid":"50C83",
     "name":"Chittenden-8-3 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:C83",
     "state":"vt"
 },
   "bbox": [

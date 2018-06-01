@@ -8,6 +8,7 @@
     "district_num":"O-2",
     "geoid":"50O-2",
     "name":"Orleans-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:O-2",
     "state":"vt"
 },
   "bbox": [

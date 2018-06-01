@@ -6,6 +6,7 @@
     "area_water":18697914,
     "geoid":"35041",
     "name":"Roosevelt",
+    "ocd_id":"ocd-division/country:us/state:nm/county:roosevelt",
     "state":"nm"
 },
   "bbox": [

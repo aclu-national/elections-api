@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"20011",
     "name":"State House District 11",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:11",
     "state":"ks"
 },
   "bbox": [

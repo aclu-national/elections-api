@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"44046",
     "name":"State House District 46",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:46",
     "state":"ri"
 },
   "bbox": [

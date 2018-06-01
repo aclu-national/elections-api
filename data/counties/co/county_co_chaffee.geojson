@@ -6,6 +6,7 @@
     "area_water":3999975,
     "geoid":"08015",
     "name":"Chaffee",
+    "ocd_id":"ocd-division/country:us/state:co/county:chaffee",
     "state":"co"
 },
   "bbox": [

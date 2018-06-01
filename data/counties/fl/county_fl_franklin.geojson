@@ -6,6 +6,7 @@
     "area_water":1275529258,
     "geoid":"12037",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:fl/county:franklin",
     "state":"fl"
 },
   "bbox": [

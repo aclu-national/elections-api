@@ -6,6 +6,7 @@
     "area_water":10586104,
     "geoid":"20003",
     "name":"Anderson",
+    "ocd_id":"ocd-division/country:us/state:ks/county:anderson",
     "state":"ks"
 },
   "bbox": [

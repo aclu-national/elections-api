@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"54023",
     "name":"State House District 23",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:23",
     "state":"wv"
 },
   "bbox": [

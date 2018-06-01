@@ -8,6 +8,7 @@
     "district_num":"089",
     "geoid":"29089",
     "name":"State House District 89",
+    "ocd_id":"ocd-division/country:us/state:mo/sldl:89",
     "state":"mo"
 },
   "bbox": [

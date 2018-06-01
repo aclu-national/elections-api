@@ -8,6 +8,7 @@
     "district_num":"027",
     "geoid":"36027",
     "name":"Assembly District 27",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:27",
     "state":"ny"
 },
   "bbox": [

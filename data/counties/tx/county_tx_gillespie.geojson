@@ -6,6 +6,7 @@
     "area_water":9015052,
     "geoid":"48171",
     "name":"Gillespie",
+    "ocd_id":"ocd-division/country:us/state:tx/county:gillespie",
     "state":"tx"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"33021",
     "name":"State Senate District 21",
+    "ocd_id":"ocd-division/country:us/state:nh/sldu:21",
     "state":"nh"
 },
   "bbox": [

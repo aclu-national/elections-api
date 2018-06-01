@@ -6,6 +6,7 @@
     "area_water":1406461,
     "geoid":"19093",
     "name":"Ida",
+    "ocd_id":"ocd-division/country:us/state:ia/county:ida",
     "state":"ia"
 },
   "bbox": [

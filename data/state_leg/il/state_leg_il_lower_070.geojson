@@ -8,6 +8,7 @@
     "district_num":"070",
     "geoid":"17070",
     "name":"State House District 70",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:70",
     "state":"il"
 },
   "bbox": [

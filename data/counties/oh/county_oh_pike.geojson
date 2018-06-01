@@ -6,6 +6,7 @@
     "area_water":9567612,
     "geoid":"39131",
     "name":"Pike",
+    "ocd_id":"ocd-division/country:us/state:oh/county:pike",
     "state":"oh"
 },
   "bbox": [

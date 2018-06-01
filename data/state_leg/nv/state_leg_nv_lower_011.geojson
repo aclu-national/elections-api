@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"32011",
     "name":"Assembly District 11",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:11",
     "state":"nv"
 },
   "bbox": [

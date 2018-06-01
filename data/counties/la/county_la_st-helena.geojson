@@ -6,6 +6,7 @@
     "area_water":2796210,
     "geoid":"22091",
     "name":"St. Helena",
+    "ocd_id":"ocd-division/country:us/state:la/county:st_helena",
     "state":"la"
 },
   "bbox": [

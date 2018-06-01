@@ -6,6 +6,7 @@
     "area_water":19247151848,
     "geoid":"36",
     "name":"New York",
+    "ocd_id":"ocd-division/country:us/state:ny",
     "state":"ny"
 },
   "bbox": [

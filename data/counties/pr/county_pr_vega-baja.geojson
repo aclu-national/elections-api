@@ -6,6 +6,7 @@
     "area_water":57795017,
     "geoid":"72145",
     "name":"Vega Baja",
+    "ocd_id":"ocd-division/country:us/state:pr/county:vega_baja",
     "state":"pr"
 },
   "bbox": [

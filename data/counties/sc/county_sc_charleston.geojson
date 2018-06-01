@@ -6,6 +6,7 @@
     "area_water":1141008039,
     "geoid":"45019",
     "name":"Charleston",
+    "ocd_id":"ocd-division/country:us/state:sc/county:charleston",
     "state":"sc"
 },
   "bbox": [

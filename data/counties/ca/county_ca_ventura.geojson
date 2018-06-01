@@ -6,6 +6,7 @@
     "area_water":946030569,
     "geoid":"06111",
     "name":"Ventura",
+    "ocd_id":"ocd-division/country:us/state:ca/county:ventura",
     "state":"ca"
 },
   "bbox": [

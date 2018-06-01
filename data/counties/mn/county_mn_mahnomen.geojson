@@ -6,6 +6,7 @@
     "area_water":64851262,
     "geoid":"27087",
     "name":"Mahnomen",
+    "ocd_id":"ocd-division/country:us/state:mn/county:mahnomen",
     "state":"mn"
 },
   "bbox": [

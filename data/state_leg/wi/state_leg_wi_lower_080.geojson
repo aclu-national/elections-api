@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"55080",
     "name":"Assembly District 80",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:80",
     "state":"wi"
 },
   "bbox": [

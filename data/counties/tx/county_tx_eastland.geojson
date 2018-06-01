@@ -6,6 +6,7 @@
     "area_water":14047796,
     "geoid":"48133",
     "name":"Eastland",
+    "ocd_id":"ocd-division/country:us/state:tx/county:eastland",
     "state":"tx"
 },
   "bbox": [

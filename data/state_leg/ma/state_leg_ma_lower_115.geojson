@@ -8,6 +8,7 @@
     "district_num":"115",
     "geoid":"25115",
     "name":"1st Hampshire District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:115",
     "state":"ma"
 },
   "bbox": [

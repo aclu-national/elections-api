@@ -6,6 +6,7 @@
     "area_water":285421540,
     "geoid":"51199",
     "name":"York",
+    "ocd_id":"ocd-division/country:us/state:va/county:york",
     "state":"va"
 },
   "bbox": [

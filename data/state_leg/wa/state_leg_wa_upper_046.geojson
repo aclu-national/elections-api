@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"53046",
     "name":"State Senate District 46",
+    "ocd_id":"ocd-division/country:us/state:wa/sldu:46",
     "state":"wa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":13657023,
     "geoid":"39151",
     "name":"Stark",
+    "ocd_id":"ocd-division/country:us/state:oh/county:stark",
     "state":"oh"
 },
   "bbox": [

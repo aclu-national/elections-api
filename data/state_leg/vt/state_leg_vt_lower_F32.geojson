@@ -8,6 +8,7 @@
     "district_num":"F32",
     "geoid":"50F32",
     "name":"Franklin-3-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:F32",
     "state":"vt"
 },
   "bbox": [

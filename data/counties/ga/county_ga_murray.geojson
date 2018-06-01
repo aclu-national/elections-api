@@ -6,6 +6,7 @@
     "area_water":5719645,
     "geoid":"13213",
     "name":"Murray",
+    "ocd_id":"ocd-division/country:us/state:ga/county:murray",
     "state":"ga"
 },
   "bbox": [

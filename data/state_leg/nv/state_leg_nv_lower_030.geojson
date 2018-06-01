@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"32030",
     "name":"Assembly District 30",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:30",
     "state":"nv"
 },
   "bbox": [

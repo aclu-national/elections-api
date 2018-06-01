@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"39015",
     "name":"State House District 15",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:15",
     "state":"oh"
 },
   "bbox": [

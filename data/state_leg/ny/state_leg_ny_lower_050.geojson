@@ -8,6 +8,7 @@
     "district_num":"050",
     "geoid":"36050",
     "name":"Assembly District 50",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:50",
     "state":"ny"
 },
   "bbox": [

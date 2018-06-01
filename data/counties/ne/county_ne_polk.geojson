@@ -6,6 +6,7 @@
     "area_water":5947394,
     "geoid":"31143",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:ne/county:polk",
     "state":"ne"
 },
   "bbox": [

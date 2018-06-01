@@ -6,6 +6,7 @@
     "area_water":2503283,
     "geoid":"20079",
     "name":"Harvey",
+    "ocd_id":"ocd-division/country:us/state:ks/county:harvey",
     "state":"ks"
 },
   "bbox": [

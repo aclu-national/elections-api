@@ -6,6 +6,7 @@
     "area_water":6247257,
     "geoid":"12027",
     "name":"DeSoto",
+    "ocd_id":"ocd-division/country:us/state:fl/county:desoto",
     "state":"fl"
 },
   "bbox": [

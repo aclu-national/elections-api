@@ -6,6 +6,7 @@
     "area_water":19803412,
     "geoid":"08081",
     "name":"Moffat",
+    "ocd_id":"ocd-division/country:us/state:co/county:moffat",
     "state":"co"
 },
   "bbox": [

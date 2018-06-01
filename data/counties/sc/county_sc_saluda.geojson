@@ -6,6 +6,7 @@
     "area_water":23417452,
     "geoid":"45081",
     "name":"Saluda",
+    "ocd_id":"ocd-division/country:us/state:sc/county:saluda",
     "state":"sc"
 },
   "bbox": [

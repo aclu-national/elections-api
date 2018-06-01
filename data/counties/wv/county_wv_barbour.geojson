@@ -6,6 +6,7 @@
     "area_water":4639232,
     "geoid":"54001",
     "name":"Barbour",
+    "ocd_id":"ocd-division/country:us/state:wv/county:barbour",
     "state":"wv"
 },
   "bbox": [

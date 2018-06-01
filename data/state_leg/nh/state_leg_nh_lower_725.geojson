@@ -8,6 +8,7 @@
     "district_num":"725",
     "geoid":"33725",
     "name":"State House District Rockingham County No. 25",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:725",
     "state":"nh"
 },
   "bbox": [

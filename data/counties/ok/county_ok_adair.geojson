@@ -6,6 +6,7 @@
     "area_water":9254749,
     "geoid":"40001",
     "name":"Adair",
+    "ocd_id":"ocd-division/country:us/state:ok/county:adair",
     "state":"ok"
 },
   "bbox": [

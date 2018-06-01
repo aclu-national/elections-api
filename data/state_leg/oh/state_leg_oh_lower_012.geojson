@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"39012",
     "name":"State House District 12",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:12",
     "state":"oh"
 },
   "bbox": [

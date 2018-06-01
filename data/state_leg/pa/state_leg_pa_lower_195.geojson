@@ -8,6 +8,7 @@
     "district_num":"195",
     "geoid":"42195",
     "name":"State House District 195",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:195",
     "state":"pa"
 },
   "bbox": [

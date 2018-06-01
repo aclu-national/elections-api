@@ -6,6 +6,7 @@
     "area_water":12578757,
     "geoid":"54025",
     "name":"Greenbrier",
+    "ocd_id":"ocd-division/country:us/state:wv/county:greenbrier",
     "state":"wv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"06033",
     "name":"Assembly District 33",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:33",
     "state":"ca"
 },
   "bbox": [

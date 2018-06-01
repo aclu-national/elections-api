@@ -6,6 +6,7 @@
     "area_water":35434368,
     "geoid":"39099",
     "name":"Mahoning",
+    "ocd_id":"ocd-division/country:us/state:oh/county:mahoning",
     "state":"oh"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":75340289,
     "geoid":"27011",
     "name":"Big Stone",
+    "ocd_id":"ocd-division/country:us/state:mn/county:big_stone",
     "state":"mn"
 },
   "bbox": [

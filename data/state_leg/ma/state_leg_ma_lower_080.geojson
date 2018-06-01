@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"25080",
     "name":"12th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:80",
     "state":"ma"
 },
   "bbox": [

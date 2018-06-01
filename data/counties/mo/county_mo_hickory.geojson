@@ -6,6 +6,7 @@
     "area_water":33455656,
     "geoid":"29085",
     "name":"Hickory",
+    "ocd_id":"ocd-division/country:us/state:mo/county:hickory",
     "state":"mo"
 },
   "bbox": [

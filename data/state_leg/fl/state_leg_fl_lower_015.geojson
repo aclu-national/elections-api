@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"12015",
     "name":"State House District 15",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:15",
     "state":"fl"
 },
   "bbox": [

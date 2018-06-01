@@ -6,6 +6,7 @@
     "area_water":115952653,
     "geoid":"36085",
     "name":"Richmond",
+    "ocd_id":"ocd-division/country:us/state:ny/county:richmond",
     "state":"ny"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"36021",
     "name":"Assembly District 21",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:21",
     "state":"ny"
 },
   "bbox": [

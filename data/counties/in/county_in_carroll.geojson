@@ -6,6 +6,7 @@
     "area_water":7239098,
     "geoid":"18015",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:in/county:carroll",
     "state":"in"
 },
   "bbox": [

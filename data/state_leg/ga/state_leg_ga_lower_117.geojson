@@ -8,6 +8,7 @@
     "district_num":"117",
     "geoid":"13117",
     "name":"State House District 117",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:117",
     "state":"ga"
 },
   "bbox": [

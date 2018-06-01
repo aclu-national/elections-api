@@ -8,6 +8,7 @@
     "district_num":"19A",
     "geoid":"2719A",
     "name":"State House District 19A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:19A",
     "state":"mn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"204",
     "geoid":"25204",
     "name":"2nd Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:204",
     "state":"ma"
 },
   "bbox": [

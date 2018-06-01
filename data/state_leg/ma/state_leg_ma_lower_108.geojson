@@ -8,6 +8,7 @@
     "district_num":"108",
     "geoid":"25108",
     "name":"7th Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:108",
     "state":"ma"
 },
   "bbox": [

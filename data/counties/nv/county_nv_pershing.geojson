@@ -6,6 +6,7 @@
     "area_water":79934815,
     "geoid":"32027",
     "name":"Pershing",
+    "ocd_id":"ocd-division/country:us/state:nv/county:pershing",
     "state":"nv"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":20736340,
     "geoid":"37125",
     "name":"Moore",
+    "ocd_id":"ocd-division/country:us/state:nc/county:moore",
     "state":"nc"
 },
   "bbox": [

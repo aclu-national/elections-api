@@ -8,6 +8,7 @@
     "district_num":"016",
     "geoid":"17016",
     "name":"State House District 16",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:16",
     "state":"il"
 },
   "bbox": [

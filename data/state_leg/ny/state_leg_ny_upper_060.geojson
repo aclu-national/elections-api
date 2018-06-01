@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"36060",
     "name":"State Senate District 60",
+    "ocd_id":"ocd-division/country:us/state:ny/sldu:60",
     "state":"ny"
 },
   "bbox": [

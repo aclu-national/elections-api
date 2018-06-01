@@ -6,6 +6,7 @@
     "area_water":1942309063,
     "geoid":"39085",
     "name":"Lake",
+    "ocd_id":"ocd-division/country:us/state:oh/county:lake",
     "state":"oh"
 },
   "bbox": [

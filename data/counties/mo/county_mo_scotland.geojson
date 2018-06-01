@@ -6,6 +6,7 @@
     "area_water":7047471,
     "geoid":"29199",
     "name":"Scotland",
+    "ocd_id":"ocd-division/country:us/state:mo/county:scotland",
     "state":"mo"
 },
   "bbox": [

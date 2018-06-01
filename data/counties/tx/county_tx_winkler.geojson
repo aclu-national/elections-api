@@ -6,6 +6,7 @@
     "area_water":414369,
     "geoid":"48495",
     "name":"Winkler",
+    "ocd_id":"ocd-division/country:us/state:tx/county:winkler",
     "state":"tx"
 },
   "bbox": [

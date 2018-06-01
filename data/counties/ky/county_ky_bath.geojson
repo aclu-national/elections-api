@@ -6,6 +6,7 @@
     "area_water":13486212,
     "geoid":"21011",
     "name":"Bath",
+    "ocd_id":"ocd-division/country:us/state:ky/county:bath",
     "state":"ky"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"32017",
     "name":"Assembly District 17",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:17",
     "state":"nv"
 },
   "bbox": [

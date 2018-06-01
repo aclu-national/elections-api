@@ -6,6 +6,7 @@
     "area_water":953946819,
     "geoid":"34009",
     "name":"Cape May",
+    "ocd_id":"ocd-division/country:us/state:nj/county:cape_may",
     "state":"nj"
 },
   "bbox": [

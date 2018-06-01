@@ -6,6 +6,7 @@
     "area_water":123056595,
     "geoid":"28071",
     "name":"Lafayette",
+    "ocd_id":"ocd-division/country:us/state:ms/county:lafayette",
     "state":"ms"
 },
   "bbox": [

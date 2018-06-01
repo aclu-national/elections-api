@@ -8,6 +8,7 @@
     "district_num":"103",
     "geoid":"25103",
     "name":"2nd Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:103",
     "state":"ma"
 },
   "bbox": [

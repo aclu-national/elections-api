@@ -6,6 +6,7 @@
     "area_water":8878371,
     "geoid":"51163",
     "name":"Rockbridge",
+    "ocd_id":"ocd-division/country:us/state:va/county:rockbridge",
     "state":"va"
 },
   "bbox": [

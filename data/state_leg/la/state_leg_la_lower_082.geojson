@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"22082",
     "name":"State House District 82",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:82",
     "state":"la"
 },
   "bbox": [

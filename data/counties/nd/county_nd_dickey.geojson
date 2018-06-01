@@ -6,6 +6,7 @@
     "area_water":27610562,
     "geoid":"38021",
     "name":"Dickey",
+    "ocd_id":"ocd-division/country:us/state:nd/county:dickey",
     "state":"nd"
 },
   "bbox": [

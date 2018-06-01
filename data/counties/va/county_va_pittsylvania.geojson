@@ -6,6 +6,7 @@
     "area_water":23925747,
     "geoid":"51143",
     "name":"Pittsylvania",
+    "ocd_id":"ocd-division/country:us/state:va/county:pittsylvania",
     "state":"va"
 },
   "bbox": [

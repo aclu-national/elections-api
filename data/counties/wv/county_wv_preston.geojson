@@ -6,6 +6,7 @@
     "area_water":6681831,
     "geoid":"54077",
     "name":"Preston",
+    "ocd_id":"ocd-division/country:us/state:wv/county:preston",
     "state":"wv"
 },
   "bbox": [

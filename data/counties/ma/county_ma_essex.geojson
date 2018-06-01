@@ -6,6 +6,7 @@
     "area_water":870391710,
     "geoid":"25009",
     "name":"Essex",
+    "ocd_id":"ocd-division/country:us/state:ma/county:essex",
     "state":"ma"
 },
   "bbox": [

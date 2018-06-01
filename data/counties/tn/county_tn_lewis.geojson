@@ -6,6 +6,7 @@
     "area_water":1031592,
     "geoid":"47101",
     "name":"Lewis",
+    "ocd_id":"ocd-division/country:us/state:tn/county:lewis",
     "state":"tn"
 },
   "bbox": [

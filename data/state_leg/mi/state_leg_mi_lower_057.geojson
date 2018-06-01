@@ -8,6 +8,7 @@
     "district_num":"057",
     "geoid":"26057",
     "name":"State House District 57",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:57",
     "state":"mi"
 },
   "bbox": [

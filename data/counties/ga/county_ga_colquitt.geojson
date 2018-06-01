@@ -6,6 +6,7 @@
     "area_water":25006488,
     "geoid":"13071",
     "name":"Colquitt",
+    "ocd_id":"ocd-division/country:us/state:ga/county:colquitt",
     "state":"ga"
 },
   "bbox": [

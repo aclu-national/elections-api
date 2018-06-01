@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"17109",
     "name":"State House District 109",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:109",
     "state":"il"
 },
   "bbox": [

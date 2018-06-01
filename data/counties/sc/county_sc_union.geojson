@@ -6,6 +6,7 @@
     "area_water":4805060,
     "geoid":"45087",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:sc/county:union",
     "state":"sc"
 },
   "bbox": [

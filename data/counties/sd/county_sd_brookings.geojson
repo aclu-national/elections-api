@@ -6,6 +6,7 @@
     "area_water":32967600,
     "geoid":"46011",
     "name":"Brookings",
+    "ocd_id":"ocd-division/country:us/state:sd/county:brookings",
     "state":"sd"
 },
   "bbox": [

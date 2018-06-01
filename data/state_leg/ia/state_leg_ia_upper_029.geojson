@@ -8,6 +8,7 @@
     "district_num":"029",
     "geoid":"19029",
     "name":"State Senate District 29",
+    "ocd_id":"ocd-division/country:us/state:ia/sldu:29",
     "state":"ia"
 },
   "bbox": [

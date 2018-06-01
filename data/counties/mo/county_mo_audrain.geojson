@@ -6,6 +6,7 @@
     "area_water":11880946,
     "geoid":"29007",
     "name":"Audrain",
+    "ocd_id":"ocd-division/country:us/state:mo/county:audrain",
     "state":"mo"
 },
   "bbox": [

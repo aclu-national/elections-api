@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"01033",
     "name":"State Senate District 33",
+    "ocd_id":"ocd-division/country:us/state:al/sldu:33",
     "state":"al"
 },
   "bbox": [

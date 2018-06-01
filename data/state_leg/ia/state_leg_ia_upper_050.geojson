@@ -8,6 +8,7 @@
     "district_num":"050",
     "geoid":"19050",
     "name":"State Senate District 50",
+    "ocd_id":"ocd-division/country:us/state:ia/sldu:50",
     "state":"ia"
 },
   "bbox": [

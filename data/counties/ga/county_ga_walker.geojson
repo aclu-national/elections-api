@@ -6,6 +6,7 @@
     "area_water":1672676,
     "geoid":"13295",
     "name":"Walker",
+    "ocd_id":"ocd-division/country:us/state:ga/county:walker",
     "state":"ga"
 },
   "bbox": [

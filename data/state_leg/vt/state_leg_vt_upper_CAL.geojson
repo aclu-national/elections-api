@@ -8,6 +8,7 @@
     "district_num":"CAL",
     "geoid":"50CAL",
     "name":"Caledonia State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:CAL",
     "state":"vt"
 },
   "bbox": [

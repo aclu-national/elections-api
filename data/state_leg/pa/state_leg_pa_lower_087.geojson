@@ -8,6 +8,7 @@
     "district_num":"087",
     "geoid":"42087",
     "name":"State House District 87",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:87",
     "state":"pa"
 },
   "bbox": [

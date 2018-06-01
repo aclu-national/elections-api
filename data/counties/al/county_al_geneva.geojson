@@ -6,6 +6,7 @@
     "area_water":11604964,
     "geoid":"01061",
     "name":"Geneva",
+    "ocd_id":"ocd-division/country:us/state:al/county:geneva",
     "state":"al"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":19831170,
     "geoid":"39025",
     "name":"Clermont",
+    "ocd_id":"ocd-division/country:us/state:oh/county:clermont",
     "state":"oh"
 },
   "bbox": [

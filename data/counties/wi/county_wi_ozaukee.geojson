@@ -6,6 +6,7 @@
     "area_water":2287458200,
     "geoid":"55089",
     "name":"Ozaukee",
+    "ocd_id":"ocd-division/country:us/state:wi/county:ozaukee",
     "state":"wi"
 },
   "bbox": [

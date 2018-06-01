@@ -6,6 +6,7 @@
     "area_water":44164932,
     "geoid":"48467",
     "name":"Van Zandt",
+    "ocd_id":"ocd-division/country:us/state:tx/county:van_zandt",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":14221312,
     "geoid":"48425",
     "name":"Somervell",
+    "ocd_id":"ocd-division/country:us/state:tx/county:somervell",
     "state":"tx"
 },
   "bbox": [

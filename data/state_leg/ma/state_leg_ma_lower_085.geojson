@@ -8,6 +8,7 @@
     "district_num":"085",
     "geoid":"25085",
     "name":"3rd Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:85",
     "state":"ma"
 },
   "bbox": [

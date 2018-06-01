@@ -6,6 +6,7 @@
     "area_water":934534728,
     "geoid":"41015",
     "name":"Curry",
+    "ocd_id":"ocd-division/country:us/state:or/county:curry",
     "state":"or"
 },
   "bbox": [

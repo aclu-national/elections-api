@@ -6,6 +6,7 @@
     "area_water":7978174,
     "geoid":"31029",
     "name":"Chase",
+    "ocd_id":"ocd-division/country:us/state:ne/county:chase",
     "state":"ne"
 },
   "bbox": [

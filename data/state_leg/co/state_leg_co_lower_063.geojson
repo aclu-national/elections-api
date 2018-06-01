@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"08063",
     "name":"State House District 63",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:63",
     "state":"co"
 },
   "bbox": [

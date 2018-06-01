@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"47028",
     "name":"State House District 28",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:28",
     "state":"tn"
 },
   "bbox": [

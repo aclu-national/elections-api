@@ -6,6 +6,7 @@
     "area_water":29450853,
     "geoid":"38031",
     "name":"Foster",
+    "ocd_id":"ocd-division/country:us/state:nd/county:foster",
     "state":"nd"
 },
   "bbox": [

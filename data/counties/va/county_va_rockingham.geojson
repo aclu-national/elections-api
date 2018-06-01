@@ -6,6 +6,7 @@
     "area_water":10892582,
     "geoid":"51165",
     "name":"Rockingham",
+    "ocd_id":"ocd-division/country:us/state:va/county:rockingham",
     "state":"va"
 },
   "bbox": [

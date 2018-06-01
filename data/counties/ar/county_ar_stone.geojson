@@ -6,6 +6,7 @@
     "area_water":7841928,
     "geoid":"05137",
     "name":"Stone",
+    "ocd_id":"ocd-division/country:us/state:ar/county:stone",
     "state":"ar"
 },
   "bbox": [

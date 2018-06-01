@@ -6,6 +6,7 @@
     "area_water":23119020,
     "geoid":"13189",
     "name":"McDuffie",
+    "ocd_id":"ocd-division/country:us/state:ga/county:mcduffie",
     "state":"ga"
 },
   "bbox": [

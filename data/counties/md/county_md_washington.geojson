@@ -6,6 +6,7 @@
     "area_water":24803926,
     "geoid":"24043",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:md/county:washington",
     "state":"md"
 },
   "bbox": [

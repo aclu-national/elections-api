@@ -6,6 +6,7 @@
     "area_water":617233,
     "geoid":"27099",
     "name":"Mower",
+    "ocd_id":"ocd-division/country:us/state:mn/county:mower",
     "state":"mn"
 },
   "bbox": [

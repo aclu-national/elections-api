@@ -6,6 +6,7 @@
     "area_water":7038080,
     "geoid":"13063",
     "name":"Clayton",
+    "ocd_id":"ocd-division/country:us/state:ga/county:clayton",
     "state":"ga"
 },
   "bbox": [

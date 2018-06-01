@@ -6,6 +6,7 @@
     "area_water":15346268,
     "geoid":"35017",
     "name":"Grant",
+    "ocd_id":"ocd-division/country:us/state:nm/county:grant",
     "state":"nm"
 },
   "bbox": [

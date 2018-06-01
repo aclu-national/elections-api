@@ -6,6 +6,7 @@
     "area_water":17839179,
     "geoid":"13241",
     "name":"Rabun",
+    "ocd_id":"ocd-division/country:us/state:ga/county:rabun",
     "state":"ga"
 },
   "bbox": [

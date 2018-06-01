@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"32010",
     "name":"Assembly District 10",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:10",
     "state":"nv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"36082",
     "name":"Assembly District 82",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:82",
     "state":"ny"
 },
   "bbox": [

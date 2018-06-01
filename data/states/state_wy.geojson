@@ -6,6 +6,7 @@
     "area_water":1860628076,
     "geoid":"56",
     "name":"Wyoming",
+    "ocd_id":"ocd-division/country:us/state:wy",
     "state":"wy"
 },
   "bbox": [

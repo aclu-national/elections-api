@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"18043",
     "name":"State Senate District 43",
+    "ocd_id":"ocd-division/country:us/state:in/sldu:43",
     "state":"in"
 },
   "bbox": [

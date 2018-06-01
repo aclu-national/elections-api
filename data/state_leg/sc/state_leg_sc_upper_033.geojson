@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"45033",
     "name":"State Senate District 33",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:33",
     "state":"sc"
 },
   "bbox": [

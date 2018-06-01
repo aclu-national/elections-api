@@ -6,6 +6,7 @@
     "area_water":992041,
     "geoid":"20145",
     "name":"Pawnee",
+    "ocd_id":"ocd-division/country:us/state:ks/county:pawnee",
     "state":"ks"
 },
   "bbox": [

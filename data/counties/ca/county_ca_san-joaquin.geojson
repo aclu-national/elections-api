@@ -6,6 +6,7 @@
     "area_water":89046837,
     "geoid":"06077",
     "name":"San Joaquin",
+    "ocd_id":"ocd-division/country:us/state:ca/county:san_joaquin",
     "state":"ca"
 },
   "bbox": [

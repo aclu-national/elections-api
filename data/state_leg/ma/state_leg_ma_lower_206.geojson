@@ -8,6 +8,7 @@
     "district_num":"206",
     "geoid":"25206",
     "name":"4th Worcester District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:206",
     "state":"ma"
 },
   "bbox": [

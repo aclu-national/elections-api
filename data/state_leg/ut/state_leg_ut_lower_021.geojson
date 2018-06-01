@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"49021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:21",
     "state":"ut"
 },
   "bbox": [

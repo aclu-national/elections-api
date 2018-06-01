@@ -6,6 +6,7 @@
     "area_water":544720,
     "geoid":"20165",
     "name":"Rush",
+    "ocd_id":"ocd-division/country:us/state:ks/county:rush",
     "state":"ks"
 },
   "bbox": [

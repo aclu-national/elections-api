@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"51003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:3",
     "state":"va"
 },
   "bbox": [

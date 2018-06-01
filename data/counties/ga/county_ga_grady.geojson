@@ -6,6 +6,7 @@
     "area_water":14925882,
     "geoid":"13131",
     "name":"Grady",
+    "ocd_id":"ocd-division/country:us/state:ga/county:grady",
     "state":"ga"
 },
   "bbox": [

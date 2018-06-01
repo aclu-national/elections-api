@@ -8,6 +8,7 @@
     "district_num":"201",
     "geoid":"33201",
     "name":"State House District Cheshire County No. 1",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:201",
     "state":"nh"
 },
   "bbox": [

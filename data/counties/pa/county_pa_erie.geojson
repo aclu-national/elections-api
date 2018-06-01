@@ -6,6 +6,7 @@
     "area_water":1966184465,
     "geoid":"42049",
     "name":"Erie",
+    "ocd_id":"ocd-division/country:us/state:pa/county:erie",
     "state":"pa"
 },
   "bbox": [

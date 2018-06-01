@@ -6,6 +6,7 @@
     "area_water":5193189,
     "geoid":"18061",
     "name":"Harrison",
+    "ocd_id":"ocd-division/country:us/state:in/county:harrison",
     "state":"in"
 },
   "bbox": [

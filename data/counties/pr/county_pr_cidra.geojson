@@ -6,6 +6,7 @@
     "area_water":1123798,
     "geoid":"72041",
     "name":"Cidra",
+    "ocd_id":"ocd-division/country:us/state:pr/county:cidra",
     "state":"pr"
 },
   "bbox": [

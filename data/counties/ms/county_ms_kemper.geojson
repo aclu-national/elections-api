@@ -6,6 +6,7 @@
     "area_water":2182350,
     "geoid":"28069",
     "name":"Kemper",
+    "ocd_id":"ocd-division/country:us/state:ms/county:kemper",
     "state":"ms"
 },
   "bbox": [

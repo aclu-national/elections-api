@@ -6,6 +6,7 @@
     "area_water":101483817,
     "geoid":"48297",
     "name":"Live Oak",
+    "ocd_id":"ocd-division/country:us/state:tx/county:live_oak",
     "state":"tx"
 },
   "bbox": [

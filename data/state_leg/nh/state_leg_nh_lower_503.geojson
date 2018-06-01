@@ -8,6 +8,7 @@
     "district_num":"503",
     "geoid":"33503",
     "name":"State House District Hillsborough County No. 3",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:503",
     "state":"nh"
 },
   "bbox": [

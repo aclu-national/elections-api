@@ -6,6 +6,7 @@
     "area_water":1693768,
     "geoid":"13227",
     "name":"Pickens",
+    "ocd_id":"ocd-division/country:us/state:ga/county:pickens",
     "state":"ga"
 },
   "bbox": [

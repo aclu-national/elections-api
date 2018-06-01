@@ -6,6 +6,7 @@
     "area_water":73110306,
     "geoid":"55063",
     "name":"La Crosse",
+    "ocd_id":"ocd-division/country:us/state:wi/county:la_crosse",
     "state":"wi"
 },
   "bbox": [

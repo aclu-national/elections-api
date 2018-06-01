@@ -6,6 +6,7 @@
     "area_water":2748359,
     "geoid":"20105",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:ks/county:lincoln",
     "state":"ks"
 },
   "bbox": [

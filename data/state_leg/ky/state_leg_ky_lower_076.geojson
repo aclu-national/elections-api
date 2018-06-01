@@ -8,6 +8,7 @@
     "district_num":"076",
     "geoid":"21076",
     "name":"State House District 76",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:76",
     "state":"ky"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"078",
     "geoid":"39078",
     "name":"State House District 78",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:78",
     "state":"oh"
 },
   "bbox": [

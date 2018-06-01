@@ -6,6 +6,7 @@
     "area_water":26575007,
     "geoid":"29153",
     "name":"Ozark",
+    "ocd_id":"ocd-division/country:us/state:mo/county:ozark",
     "state":"mo"
 },
   "bbox": [

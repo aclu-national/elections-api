@@ -8,6 +8,7 @@
     "district_num":"043",
     "geoid":"37043",
     "name":"State Senate District 43",
+    "ocd_id":"ocd-division/country:us/state:nc/sldu:43",
     "state":"nc"
 },
   "bbox": [

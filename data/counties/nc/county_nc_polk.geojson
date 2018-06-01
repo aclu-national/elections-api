@@ -6,6 +6,7 @@
     "area_water":1964035,
     "geoid":"37149",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:nc/county:polk",
     "state":"nc"
 },
   "bbox": [

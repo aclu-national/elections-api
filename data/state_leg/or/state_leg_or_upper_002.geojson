@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"41002",
     "name":"State Senate District 2",
+    "ocd_id":"ocd-division/country:us/state:or/sldu:2",
     "state":"or"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1448702,
     "geoid":"17041",
     "name":"Douglas",
+    "ocd_id":"ocd-division/country:us/state:il/county:douglas",
     "state":"il"
 },
   "bbox": [

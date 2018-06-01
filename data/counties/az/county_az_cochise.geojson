@@ -6,6 +6,7 @@
     "area_water":137024922,
     "geoid":"04003",
     "name":"Cochise",
+    "ocd_id":"ocd-division/country:us/state:az/county:cochise",
     "state":"az"
 },
   "bbox": [

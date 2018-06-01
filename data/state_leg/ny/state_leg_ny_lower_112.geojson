@@ -8,6 +8,7 @@
     "district_num":"112",
     "geoid":"36112",
     "name":"Assembly District 112",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:112",
     "state":"ny"
 },
   "bbox": [

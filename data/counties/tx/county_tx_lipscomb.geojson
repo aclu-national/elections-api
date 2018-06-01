@@ -6,6 +6,7 @@
     "area_water":298741,
     "geoid":"48295",
     "name":"Lipscomb",
+    "ocd_id":"ocd-division/country:us/state:tx/county:lipscomb",
     "state":"tx"
 },
   "bbox": [

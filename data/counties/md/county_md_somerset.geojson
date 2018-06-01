@@ -6,6 +6,7 @@
     "area_water":752714478,
     "geoid":"24039",
     "name":"Somerset",
+    "ocd_id":"ocd-division/country:us/state:md/county:somerset",
     "state":"md"
 },
   "bbox": [

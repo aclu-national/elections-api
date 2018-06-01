@@ -6,6 +6,7 @@
     "area_water":55079682,
     "geoid":"47051",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:tn/county:franklin",
     "state":"tn"
 },
   "bbox": [

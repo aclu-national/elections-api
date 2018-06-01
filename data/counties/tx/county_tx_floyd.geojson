@@ -6,6 +6,7 @@
     "area_water":983737,
     "geoid":"48153",
     "name":"Floyd",
+    "ocd_id":"ocd-division/country:us/state:tx/county:floyd",
     "state":"tx"
 },
   "bbox": [

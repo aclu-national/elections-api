@@ -6,6 +6,7 @@
     "area_water":3228803,
     "geoid":"51113",
     "name":"Madison",
+    "ocd_id":"ocd-division/country:us/state:va/county:madison",
     "state":"va"
 },
   "bbox": [

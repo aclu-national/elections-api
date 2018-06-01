@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"48072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:72",
     "state":"tx"
 },
   "bbox": [

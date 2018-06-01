@@ -6,6 +6,7 @@
     "area_water":5321554,
     "geoid":"31071",
     "name":"Garfield",
+    "ocd_id":"ocd-division/country:us/state:ne/county:garfield",
     "state":"ne"
 },
   "bbox": [

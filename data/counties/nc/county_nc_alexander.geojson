@@ -6,6 +6,7 @@
     "area_water":9445986,
     "geoid":"37003",
     "name":"Alexander",
+    "ocd_id":"ocd-division/country:us/state:nc/county:alexander",
     "state":"nc"
 },
   "bbox": [

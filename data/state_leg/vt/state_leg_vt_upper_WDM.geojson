@@ -8,6 +8,7 @@
     "district_num":"WDM",
     "geoid":"50WDM",
     "name":"Windham State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:WDM",
     "state":"vt"
 },
   "bbox": [

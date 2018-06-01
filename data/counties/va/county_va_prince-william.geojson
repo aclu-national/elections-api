@@ -6,6 +6,7 @@
     "area_water":30829977,
     "geoid":"51153",
     "name":"Prince William",
+    "ocd_id":"ocd-division/country:us/state:va/county:prince_william",
     "state":"va"
 },
   "bbox": [

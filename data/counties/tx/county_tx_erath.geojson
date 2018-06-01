@@ -6,6 +6,7 @@
     "area_water":17394954,
     "geoid":"48143",
     "name":"Erath",
+    "ocd_id":"ocd-division/country:us/state:tx/county:erath",
     "state":"tx"
 },
   "bbox": [

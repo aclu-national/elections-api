@@ -6,6 +6,7 @@
     "area_water":11818425,
     "geoid":"37067",
     "name":"Forsyth",
+    "ocd_id":"ocd-division/country:us/state:nc/county:forsyth",
     "state":"nc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"25031",
     "name":"Bristol & Norfolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:31",
     "state":"ma"
 },
   "bbox": [

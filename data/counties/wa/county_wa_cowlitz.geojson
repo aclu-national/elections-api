@@ -6,6 +6,7 @@
     "area_water":67320045,
     "geoid":"53015",
     "name":"Cowlitz",
+    "ocd_id":"ocd-division/country:us/state:wa/county:cowlitz",
     "state":"wa"
 },
   "bbox": [

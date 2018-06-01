@@ -6,6 +6,7 @@
     "area_water":29470568,
     "geoid":"06005",
     "name":"Amador",
+    "ocd_id":"ocd-division/country:us/state:ca/county:amador",
     "state":"ca"
 },
   "bbox": [

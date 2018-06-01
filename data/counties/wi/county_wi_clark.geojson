@@ -6,6 +6,7 @@
     "area_water":23242138,
     "geoid":"55019",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:wi/county:clark",
     "state":"wi"
 },
   "bbox": [

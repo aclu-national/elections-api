@@ -6,6 +6,7 @@
     "area_water":14109003,
     "geoid":"38089",
     "name":"Stark",
+    "ocd_id":"ocd-division/country:us/state:nd/county:stark",
     "state":"nd"
 },
   "bbox": [

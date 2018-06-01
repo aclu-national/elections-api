@@ -6,6 +6,7 @@
     "area_water":932956,
     "geoid":"31041",
     "name":"Custer",
+    "ocd_id":"ocd-division/country:us/state:ne/county:custer",
     "state":"ne"
 },
   "bbox": [

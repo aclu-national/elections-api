@@ -8,6 +8,7 @@
     "district_num":"38C",
     "geoid":"2438C",
     "name":"State Legislative Subdistrict 38C",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:38C",
     "state":"md"
 },
   "bbox": [

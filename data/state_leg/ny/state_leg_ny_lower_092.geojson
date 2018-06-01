@@ -8,6 +8,7 @@
     "district_num":"092",
     "geoid":"36092",
     "name":"Assembly District 92",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:92",
     "state":"ny"
 },
   "bbox": [

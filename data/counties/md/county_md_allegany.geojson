@@ -6,6 +6,7 @@
     "area_water":14931771,
     "geoid":"24001",
     "name":"Allegany",
+    "ocd_id":"ocd-division/country:us/state:md/county:allegany",
     "state":"md"
 },
   "bbox": [

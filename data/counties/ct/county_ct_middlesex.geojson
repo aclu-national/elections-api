@@ -6,6 +6,7 @@
     "area_water":180679144,
     "geoid":"09007",
     "name":"Middlesex",
+    "ocd_id":"ocd-division/country:us/state:ct/county:middlesex",
     "state":"ct"
 },
   "bbox": [

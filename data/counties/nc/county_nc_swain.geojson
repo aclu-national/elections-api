@@ -6,6 +6,7 @@
     "area_water":32414382,
     "geoid":"37173",
     "name":"Swain",
+    "ocd_id":"ocd-division/country:us/state:nc/county:swain",
     "state":"nc"
 },
   "bbox": [

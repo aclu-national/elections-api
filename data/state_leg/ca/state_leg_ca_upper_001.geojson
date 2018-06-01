@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"06001",
     "name":"State Senate District 1",
+    "ocd_id":"ocd-division/country:us/state:ca/sldu:1",
     "state":"ca"
 },
   "bbox": [

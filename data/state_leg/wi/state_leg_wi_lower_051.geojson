@@ -8,6 +8,7 @@
     "district_num":"051",
     "geoid":"55051",
     "name":"Assembly District 51",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:51",
     "state":"wi"
 },
   "bbox": [

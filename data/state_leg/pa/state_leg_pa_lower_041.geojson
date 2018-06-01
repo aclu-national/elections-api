@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"42041",
     "name":"State House District 41",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:41",
     "state":"pa"
 },
   "bbox": [

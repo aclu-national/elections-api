@@ -8,6 +8,7 @@
     "district_num":"087",
     "geoid":"55087",
     "name":"Assembly District 87",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:87",
     "state":"wi"
 },
   "bbox": [

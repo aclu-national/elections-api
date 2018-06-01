@@ -6,6 +6,7 @@
     "area_water":23008120,
     "geoid":"45011",
     "name":"Barnwell",
+    "ocd_id":"ocd-division/country:us/state:sc/county:barnwell",
     "state":"sc"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":366408,
     "geoid":"18041",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:in/county:fayette",
     "state":"in"
 },
   "bbox": [

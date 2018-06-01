@@ -8,6 +8,7 @@
     "district_num":"094",
     "geoid":"40094",
     "name":"State House District 94",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:94",
     "state":"ok"
 },
   "bbox": [

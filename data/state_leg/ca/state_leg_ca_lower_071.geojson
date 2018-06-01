@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"06071",
     "name":"Assembly District 71",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:71",
     "state":"ca"
 },
   "bbox": [

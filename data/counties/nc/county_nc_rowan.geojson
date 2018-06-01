@@ -6,6 +6,7 @@
     "area_water":32235596,
     "geoid":"37159",
     "name":"Rowan",
+    "ocd_id":"ocd-division/country:us/state:nc/county:rowan",
     "state":"nc"
 },
   "bbox": [

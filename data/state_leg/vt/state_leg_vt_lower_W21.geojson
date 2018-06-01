@@ -8,6 +8,7 @@
     "district_num":"W21",
     "geoid":"50W21",
     "name":"Windham-2-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:W21",
     "state":"vt"
 },
   "bbox": [

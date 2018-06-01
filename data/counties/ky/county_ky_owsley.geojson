@@ -6,6 +6,7 @@
     "area_water":2285944,
     "geoid":"21189",
     "name":"Owsley",
+    "ocd_id":"ocd-division/country:us/state:ky/county:owsley",
     "state":"ky"
 },
   "bbox": [

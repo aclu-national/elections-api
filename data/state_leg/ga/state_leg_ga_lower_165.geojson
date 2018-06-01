@@ -8,6 +8,7 @@
     "district_num":"165",
     "geoid":"13165",
     "name":"State House District 165",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:165",
     "state":"ga"
 },
   "bbox": [

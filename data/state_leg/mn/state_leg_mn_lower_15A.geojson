@@ -8,6 +8,7 @@
     "district_num":"15A",
     "geoid":"2715A",
     "name":"State House District 15A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:15A",
     "state":"mn"
 },
   "bbox": [

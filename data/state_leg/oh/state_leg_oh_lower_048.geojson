@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"39048",
     "name":"State House District 48",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:48",
     "state":"oh"
 },
   "bbox": [

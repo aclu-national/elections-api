@@ -6,6 +6,7 @@
     "area_water":11501575,
     "geoid":"04025",
     "name":"Yavapai",
+    "ocd_id":"ocd-division/country:us/state:az/county:yavapai",
     "state":"az"
 },
   "bbox": [

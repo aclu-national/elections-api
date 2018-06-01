@@ -6,6 +6,7 @@
     "area_water":4546211,
     "geoid":"18079",
     "name":"Jennings",
+    "ocd_id":"ocd-division/country:us/state:in/county:jennings",
     "state":"in"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"180",
     "geoid":"42180",
     "name":"State House District 180",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:180",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":8955341,
     "geoid":"51031",
     "name":"Campbell",
+    "ocd_id":"ocd-division/country:us/state:va/county:campbell",
     "state":"va"
 },
   "bbox": [

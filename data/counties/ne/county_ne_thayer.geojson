@@ -6,6 +6,7 @@
     "area_water":3025340,
     "geoid":"31169",
     "name":"Thayer",
+    "ocd_id":"ocd-division/country:us/state:ne/county:thayer",
     "state":"ne"
 },
   "bbox": [

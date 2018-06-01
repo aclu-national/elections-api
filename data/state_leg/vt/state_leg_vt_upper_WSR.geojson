@@ -8,6 +8,7 @@
     "district_num":"WSR",
     "geoid":"50WSR",
     "name":"Windsor State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:WSR",
     "state":"vt"
 },
   "bbox": [

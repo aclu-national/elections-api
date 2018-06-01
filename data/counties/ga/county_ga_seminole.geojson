@@ -6,6 +6,7 @@
     "area_water":55231610,
     "geoid":"13253",
     "name":"Seminole",
+    "ocd_id":"ocd-division/country:us/state:ga/county:seminole",
     "state":"ga"
 },
   "bbox": [

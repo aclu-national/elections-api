@@ -6,6 +6,7 @@
     "area_water":1929323,
     "geoid":"19107",
     "name":"Keokuk",
+    "ocd_id":"ocd-division/country:us/state:ia/county:keokuk",
     "state":"ia"
 },
   "bbox": [

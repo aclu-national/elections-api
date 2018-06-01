@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"34004",
     "name":"General Assembly District 4",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:4",
     "state":"nj"
 },
   "bbox": [

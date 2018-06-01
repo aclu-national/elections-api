@@ -8,6 +8,7 @@
     "district_num":"WAS",
     "geoid":"50WAS",
     "name":"Washington State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:WAS",
     "state":"vt"
 },
   "bbox": [

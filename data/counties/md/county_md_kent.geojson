@@ -6,6 +6,7 @@
     "area_water":353303064,
     "geoid":"24029",
     "name":"Kent",
+    "ocd_id":"ocd-division/country:us/state:md/county:kent",
     "state":"md"
 },
   "bbox": [

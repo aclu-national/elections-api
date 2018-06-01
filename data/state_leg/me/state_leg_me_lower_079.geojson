@@ -8,6 +8,7 @@
     "district_num":"079",
     "geoid":"23079",
     "name":"State House District 79",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:79",
     "state":"me"
 },
   "bbox": [

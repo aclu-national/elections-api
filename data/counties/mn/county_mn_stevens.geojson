@@ -6,6 +6,7 @@
     "area_water":30319494,
     "geoid":"27149",
     "name":"Stevens",
+    "ocd_id":"ocd-division/country:us/state:mn/county:stevens",
     "state":"mn"
 },
   "bbox": [

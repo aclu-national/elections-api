@@ -6,6 +6,7 @@
     "area_water":167659051,
     "geoid":"46085",
     "name":"Lyman",
+    "ocd_id":"ocd-division/country:us/state:sd/county:lyman",
     "state":"sd"
 },
   "bbox": [

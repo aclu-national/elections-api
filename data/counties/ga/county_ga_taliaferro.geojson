@@ -6,6 +6,7 @@
     "area_water":1915743,
     "geoid":"13265",
     "name":"Taliaferro",
+    "ocd_id":"ocd-division/country:us/state:ga/county:taliaferro",
     "state":"ga"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"36046",
     "name":"Assembly District 46",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:46",
     "state":"ny"
 },
   "bbox": [

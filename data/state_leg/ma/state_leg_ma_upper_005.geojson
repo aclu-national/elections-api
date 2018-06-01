@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"25005",
     "name":"Second Hampden & Hampshire District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:5",
     "state":"ma"
 },
   "bbox": [

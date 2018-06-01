@@ -8,6 +8,7 @@
     "district_num":"155",
     "geoid":"13155",
     "name":"State House District 155",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:155",
     "state":"ga"
 },
   "bbox": [

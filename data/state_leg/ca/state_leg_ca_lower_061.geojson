@@ -8,6 +8,7 @@
     "district_num":"061",
     "geoid":"06061",
     "name":"Assembly District 61",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:61",
     "state":"ca"
 },
   "bbox": [

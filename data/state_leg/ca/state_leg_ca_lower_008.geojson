@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"06008",
     "name":"Assembly District 8",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:8",
     "state":"ca"
 },
   "bbox": [

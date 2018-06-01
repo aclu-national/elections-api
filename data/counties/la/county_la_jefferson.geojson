@@ -6,6 +6,7 @@
     "area_water":897184724,
     "geoid":"22051",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:la/county:jefferson",
     "state":"la"
 },
   "bbox": [

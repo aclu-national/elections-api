@@ -8,6 +8,7 @@
     "district_num":"403",
     "geoid":"33403",
     "name":"State House District Grafton County No. 3",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:403",
     "state":"nh"
 },
   "bbox": [

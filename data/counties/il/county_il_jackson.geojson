@@ -6,6 +6,7 @@
     "area_water":47416095,
     "geoid":"17077",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:il/county:jackson",
     "state":"il"
 },
   "bbox": [

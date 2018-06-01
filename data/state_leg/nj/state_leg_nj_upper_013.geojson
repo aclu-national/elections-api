@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"34013",
     "name":"State Senate District 13",
+    "ocd_id":"ocd-division/country:us/state:nj/sldu:13",
     "state":"nj"
 },
   "bbox": [

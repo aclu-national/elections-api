@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"06017",
     "name":"Assembly District 17",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:17",
     "state":"ca"
 },
   "bbox": [

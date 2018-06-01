@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"41033",
     "name":"State House District 33",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:33",
     "state":"or"
 },
   "bbox": [

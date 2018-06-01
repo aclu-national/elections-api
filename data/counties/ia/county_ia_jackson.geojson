@@ -6,6 +6,7 @@
     "area_water":35141496,
     "geoid":"19097",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:ia/county:jackson",
     "state":"ia"
 },
   "bbox": [

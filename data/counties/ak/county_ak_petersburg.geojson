@@ -6,6 +6,7 @@
     "area_water":2385501229,
     "geoid":"02195",
     "name":"Petersburg",
+    "ocd_id":"ocd-division/country:us/state:ak/county:petersburg",
     "state":"ak"
 },
   "bbox": [

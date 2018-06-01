@@ -6,6 +6,7 @@
     "area_water":9960533,
     "geoid":"29135",
     "name":"Moniteau",
+    "ocd_id":"ocd-division/country:us/state:mo/county:moniteau",
     "state":"mo"
 },
   "bbox": [

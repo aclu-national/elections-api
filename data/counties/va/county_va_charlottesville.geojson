@@ -6,6 +6,7 @@
     "area_water":47160,
     "geoid":"51540",
     "name":"Charlottesville",
+    "ocd_id":"ocd-division/country:us/state:va/county:charlottesville",
     "state":"va"
 },
   "bbox": [

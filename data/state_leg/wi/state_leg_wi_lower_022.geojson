@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"55022",
     "name":"Assembly District 22",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:22",
     "state":"wi"
 },
   "bbox": [

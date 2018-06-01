@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"20102",
     "name":"State House District 102",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:102",
     "state":"ks"
 },
   "bbox": [

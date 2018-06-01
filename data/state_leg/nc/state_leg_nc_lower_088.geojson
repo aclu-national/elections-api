@@ -8,6 +8,7 @@
     "district_num":"088",
     "geoid":"37088",
     "name":"State House District 88",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:88",
     "state":"nc"
 },
   "bbox": [

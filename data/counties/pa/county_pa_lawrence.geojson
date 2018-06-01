@@ -6,6 +6,7 @@
     "area_water":11783868,
     "geoid":"42073",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:pa/county:lawrence",
     "state":"pa"
 },
   "bbox": [

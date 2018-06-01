@@ -6,6 +6,7 @@
     "area_water":44813688,
     "geoid":"55107",
     "name":"Rusk",
+    "ocd_id":"ocd-division/country:us/state:wi/county:rusk",
     "state":"wi"
 },
   "bbox": [

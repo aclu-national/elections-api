@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"44012",
     "name":"State House District 12",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:12",
     "state":"ri"
 },
   "bbox": [

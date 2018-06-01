@@ -8,6 +8,7 @@
     "district_num":"054",
     "geoid":"13054",
     "name":"State Senate District 54",
+    "ocd_id":"ocd-division/country:us/state:ga/sldu:54",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":15243783,
     "geoid":"20019",
     "name":"Chautauqua",
+    "ocd_id":"ocd-division/country:us/state:ks/county:chautauqua",
     "state":"ks"
 },
   "bbox": [

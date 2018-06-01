@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"46025",
     "name":"State Senate District 25",
+    "ocd_id":"ocd-division/country:us/state:sd/sldu:25",
     "state":"sd"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":37361466,
     "geoid":"13185",
     "name":"Lowndes",
+    "ocd_id":"ocd-division/country:us/state:ga/county:lowndes",
     "state":"ga"
 },
   "bbox": [

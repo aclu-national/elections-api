@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"36063",
     "name":"Assembly District 63",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:63",
     "state":"ny"
 },
   "bbox": [

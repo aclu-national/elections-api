@@ -6,6 +6,7 @@
     "area_water":76080004,
     "geoid":"48379",
     "name":"Rains",
+    "ocd_id":"ocd-division/country:us/state:tx/county:rains",
     "state":"tx"
 },
   "bbox": [

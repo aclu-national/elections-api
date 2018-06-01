@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"42006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:pa/sldu:6",
     "state":"pa"
 },
   "bbox": [

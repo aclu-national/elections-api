@@ -6,6 +6,7 @@
     "area_water":600835682,
     "geoid":"49027",
     "name":"Millard",
+    "ocd_id":"ocd-division/country:us/state:ut/county:millard",
     "state":"ut"
 },
   "bbox": [

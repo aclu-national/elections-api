@@ -6,6 +6,7 @@
     "area_water":203328338,
     "geoid":"06017",
     "name":"El Dorado",
+    "ocd_id":"ocd-division/country:us/state:ca/county:el_dorado",
     "state":"ca"
 },
   "bbox": [

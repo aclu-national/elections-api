@@ -8,6 +8,7 @@
     "district_num":"512",
     "geoid":"33512",
     "name":"State House District Hillsborough County No. 12",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:512",
     "state":"nh"
 },
   "bbox": [

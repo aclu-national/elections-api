@@ -8,6 +8,7 @@
     "district_num":"146",
     "geoid":"42146",
     "name":"State House District 146",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:146",
     "state":"pa"
 },
   "bbox": [

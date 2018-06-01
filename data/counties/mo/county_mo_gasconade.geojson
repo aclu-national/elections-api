@@ -6,6 +6,7 @@
     "area_water":18009291,
     "geoid":"29073",
     "name":"Gasconade",
+    "ocd_id":"ocd-division/country:us/state:mo/county:gasconade",
     "state":"mo"
 },
   "bbox": [

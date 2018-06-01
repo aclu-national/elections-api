@@ -6,6 +6,7 @@
     "area_water":120452753,
     "geoid":"53047",
     "name":"Okanogan",
+    "ocd_id":"ocd-division/country:us/state:wa/county:okanogan",
     "state":"wa"
 },
   "bbox": [

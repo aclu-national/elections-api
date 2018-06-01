@@ -8,6 +8,7 @@
     "district_num":"200",
     "geoid":"25200",
     "name":"17th Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:200",
     "state":"ma"
 },
   "bbox": [

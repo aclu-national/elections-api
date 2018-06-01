@@ -6,6 +6,7 @@
     "area_water":39514681,
     "geoid":"19045",
     "name":"Clinton",
+    "ocd_id":"ocd-division/country:us/state:ia/county:clinton",
     "state":"ia"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":195282200,
     "geoid":"37187",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:nc/county:washington",
     "state":"nc"
 },
   "bbox": [

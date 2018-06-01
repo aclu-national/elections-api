@@ -6,6 +6,7 @@
     "area_water":644140,
     "geoid":"48345",
     "name":"Motley",
+    "ocd_id":"ocd-division/country:us/state:tx/county:motley",
     "state":"tx"
 },
   "bbox": [

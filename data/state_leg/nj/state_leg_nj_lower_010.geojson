@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"34010",
     "name":"General Assembly District 10",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:10",
     "state":"nj"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"08013",
     "name":"State House District 13",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:13",
     "state":"co"
 },
   "bbox": [

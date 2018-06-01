@@ -6,6 +6,7 @@
     "area_water":105832791,
     "geoid":"40135",
     "name":"Sequoyah",
+    "ocd_id":"ocd-division/country:us/state:ok/county:sequoyah",
     "state":"ok"
 },
   "bbox": [

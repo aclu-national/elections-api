@@ -6,6 +6,7 @@
     "area_water":3274894,
     "geoid":"08019",
     "name":"Clear Creek",
+    "ocd_id":"ocd-division/country:us/state:co/county:clear_creek",
     "state":"co"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"21024",
     "name":"State Senate District 24",
+    "ocd_id":"ocd-division/country:us/state:ky/sldu:24",
     "state":"ky"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":510444544,
     "geoid":"34025",
     "name":"Monmouth",
+    "ocd_id":"ocd-division/country:us/state:nj/county:monmouth",
     "state":"nj"
 },
   "bbox": [

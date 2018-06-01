@@ -6,6 +6,7 @@
     "area_water":5265568,
     "geoid":"19081",
     "name":"Hancock",
+    "ocd_id":"ocd-division/country:us/state:ia/county:hancock",
     "state":"ia"
 },
   "bbox": [

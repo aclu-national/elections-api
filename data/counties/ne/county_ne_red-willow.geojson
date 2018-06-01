@@ -6,6 +6,7 @@
     "area_water":2643458,
     "geoid":"31145",
     "name":"Red Willow",
+    "ocd_id":"ocd-division/country:us/state:ne/county:red_willow",
     "state":"ne"
 },
   "bbox": [

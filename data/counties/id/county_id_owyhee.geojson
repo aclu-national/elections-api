@@ -6,6 +6,7 @@
     "area_water":74125616,
     "geoid":"16073",
     "name":"Owyhee",
+    "ocd_id":"ocd-division/country:us/state:id/county:owyhee",
     "state":"id"
 },
   "bbox": [

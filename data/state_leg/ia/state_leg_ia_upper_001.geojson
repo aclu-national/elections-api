@@ -8,6 +8,7 @@
     "district_num":"001",
     "geoid":"19001",
     "name":"State Senate District 1",
+    "ocd_id":"ocd-division/country:us/state:ia/sldu:1",
     "state":"ia"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":2348855,
     "geoid":"27117",
     "name":"Pipestone",
+    "ocd_id":"ocd-division/country:us/state:mn/county:pipestone",
     "state":"mn"
 },
   "bbox": [

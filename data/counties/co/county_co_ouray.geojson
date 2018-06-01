@@ -6,6 +6,7 @@
     "area_water":1599543,
     "geoid":"08091",
     "name":"Ouray",
+    "ocd_id":"ocd-division/country:us/state:co/county:ouray",
     "state":"co"
 },
   "bbox": [

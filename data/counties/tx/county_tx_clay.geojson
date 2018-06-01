@@ -6,6 +6,7 @@
     "area_water":72590626,
     "geoid":"48077",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:tx/county:clay",
     "state":"tx"
 },
   "bbox": [

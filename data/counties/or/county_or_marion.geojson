@@ -6,6 +6,7 @@
     "area_water":26554204,
     "geoid":"41047",
     "name":"Marion",
+    "ocd_id":"ocd-division/country:us/state:or/county:marion",
     "state":"or"
 },
   "bbox": [

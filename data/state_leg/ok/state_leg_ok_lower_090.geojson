@@ -8,6 +8,7 @@
     "district_num":"090",
     "geoid":"40090",
     "name":"State House District 90",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:90",
     "state":"ok"
 },
   "bbox": [

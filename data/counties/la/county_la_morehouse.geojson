@@ -6,6 +6,7 @@
     "area_water":28878805,
     "geoid":"22067",
     "name":"Morehouse",
+    "ocd_id":"ocd-division/country:us/state:la/county:morehouse",
     "state":"la"
 },
   "bbox": [

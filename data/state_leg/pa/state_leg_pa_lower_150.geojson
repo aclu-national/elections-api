@@ -8,6 +8,7 @@
     "district_num":"150",
     "geoid":"42150",
     "name":"State House District 150",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:150",
     "state":"pa"
 },
   "bbox": [

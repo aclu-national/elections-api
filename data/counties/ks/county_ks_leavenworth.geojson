@@ -6,6 +6,7 @@
     "area_water":14221659,
     "geoid":"20103",
     "name":"Leavenworth",
+    "ocd_id":"ocd-division/country:us/state:ks/county:leavenworth",
     "state":"ks"
 },
   "bbox": [

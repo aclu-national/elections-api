@@ -6,6 +6,7 @@
     "area_water":415527,
     "geoid":"20153",
     "name":"Rawlins",
+    "ocd_id":"ocd-division/country:us/state:ks/county:rawlins",
     "state":"ks"
 },
   "bbox": [

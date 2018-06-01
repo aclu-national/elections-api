@@ -8,6 +8,7 @@
     "district_num":"051",
     "geoid":"44051",
     "name":"State House District 51",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:51",
     "state":"ri"
 },
   "bbox": [

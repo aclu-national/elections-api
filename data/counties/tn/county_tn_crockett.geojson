@@ -6,6 +6,7 @@
     "area_water":494100,
     "geoid":"47033",
     "name":"Crockett",
+    "ocd_id":"ocd-division/country:us/state:tn/county:crockett",
     "state":"tn"
 },
   "bbox": [

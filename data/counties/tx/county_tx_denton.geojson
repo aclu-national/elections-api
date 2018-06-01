@@ -6,6 +6,7 @@
     "area_water":192588409,
     "geoid":"48121",
     "name":"Denton",
+    "ocd_id":"ocd-division/country:us/state:tx/county:denton",
     "state":"tx"
 },
   "bbox": [

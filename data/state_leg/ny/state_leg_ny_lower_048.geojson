@@ -8,6 +8,7 @@
     "district_num":"048",
     "geoid":"36048",
     "name":"Assembly District 48",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:48",
     "state":"ny"
 },
   "bbox": [

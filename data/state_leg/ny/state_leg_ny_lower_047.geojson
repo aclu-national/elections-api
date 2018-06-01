@@ -8,6 +8,7 @@
     "district_num":"047",
     "geoid":"36047",
     "name":"Assembly District 47",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:47",
     "state":"ny"
 },
   "bbox": [

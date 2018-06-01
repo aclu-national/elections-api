@@ -6,6 +6,7 @@
     "area_water":76608850,
     "geoid":"46029",
     "name":"Codington",
+    "ocd_id":"ocd-division/country:us/state:sd/county:codington",
     "state":"sd"
 },
   "bbox": [

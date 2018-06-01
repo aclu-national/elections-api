@@ -8,6 +8,7 @@
     "district_num":"110",
     "geoid":"12110",
     "name":"State House District 110",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:110",
     "state":"fl"
 },
   "bbox": [

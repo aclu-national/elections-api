@@ -6,6 +6,7 @@
     "area_water":1345801461,
     "geoid":"48321",
     "name":"Matagorda",
+    "ocd_id":"ocd-division/country:us/state:tx/county:matagorda",
     "state":"tx"
 },
   "bbox": [

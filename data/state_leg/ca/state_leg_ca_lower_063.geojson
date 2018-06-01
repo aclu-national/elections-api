@@ -8,6 +8,7 @@
     "district_num":"063",
     "geoid":"06063",
     "name":"Assembly District 63",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:63",
     "state":"ca"
 },
   "bbox": [

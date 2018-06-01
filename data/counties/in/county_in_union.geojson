@@ -6,6 +6,7 @@
     "area_water":10238515,
     "geoid":"18161",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:in/county:union",
     "state":"in"
 },
   "bbox": [

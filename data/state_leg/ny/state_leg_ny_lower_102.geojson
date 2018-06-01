@@ -8,6 +8,7 @@
     "district_num":"102",
     "geoid":"36102",
     "name":"Assembly District 102",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:102",
     "state":"ny"
 },
   "bbox": [

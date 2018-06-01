@@ -8,6 +8,7 @@
     "district_num":"023",
     "geoid":"09023",
     "name":"State Senate District 23",
+    "ocd_id":"ocd-division/country:us/state:ct/sldu:23",
     "state":"ct"
 },
   "bbox": [

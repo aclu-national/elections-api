@@ -6,6 +6,7 @@
     "area_water":674194633,
     "geoid":"10005",
     "name":"Sussex",
+    "ocd_id":"ocd-division/country:us/state:de/county:sussex",
     "state":"de"
 },
   "bbox": [

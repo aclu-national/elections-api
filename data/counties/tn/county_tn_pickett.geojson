@@ -6,6 +6,7 @@
     "area_water":29822859,
     "geoid":"47137",
     "name":"Pickett",
+    "ocd_id":"ocd-division/country:us/state:tn/county:pickett",
     "state":"tn"
 },
   "bbox": [

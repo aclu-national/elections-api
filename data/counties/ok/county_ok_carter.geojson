@@ -6,6 +6,7 @@
     "area_water":30012909,
     "geoid":"40019",
     "name":"Carter",
+    "ocd_id":"ocd-division/country:us/state:ok/county:carter",
     "state":"ok"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":274634,
     "geoid":"31099",
     "name":"Kearney",
+    "ocd_id":"ocd-division/country:us/state:ne/county:kearney",
     "state":"ne"
 },
   "bbox": [

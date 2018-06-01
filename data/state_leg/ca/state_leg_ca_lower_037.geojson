@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"06037",
     "name":"Assembly District 37",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:37",
     "state":"ca"
 },
   "bbox": [

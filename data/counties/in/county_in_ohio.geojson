@@ -6,6 +6,7 @@
     "area_water":3352208,
     "geoid":"18115",
     "name":"Ohio",
+    "ocd_id":"ocd-division/country:us/state:in/county:ohio",
     "state":"in"
 },
   "bbox": [

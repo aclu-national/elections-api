@@ -6,6 +6,7 @@
     "area_water":5843999,
     "geoid":"18077",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:in/county:jefferson",
     "state":"in"
 },
   "bbox": [

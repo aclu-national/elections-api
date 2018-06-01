@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"38045",
     "name":"State House District 45",
+    "ocd_id":"ocd-division/country:us/state:nd/sldl:45",
     "state":"nd"
 },
   "bbox": [

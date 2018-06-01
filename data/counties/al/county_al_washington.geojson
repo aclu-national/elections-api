@@ -6,6 +6,7 @@
     "area_water":21652733,
     "geoid":"01129",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:al/county:washington",
     "state":"al"
 },
   "bbox": [

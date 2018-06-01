@@ -6,6 +6,7 @@
     "area_water":149106532,
     "geoid":"49033",
     "name":"Rich",
+    "ocd_id":"ocd-division/country:us/state:ut/county:rich",
     "state":"ut"
 },
   "bbox": [

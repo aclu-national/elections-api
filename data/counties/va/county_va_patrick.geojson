@@ -6,6 +6,7 @@
     "area_water":7142208,
     "geoid":"51141",
     "name":"Patrick",
+    "ocd_id":"ocd-division/country:us/state:va/county:patrick",
     "state":"va"
 },
   "bbox": [

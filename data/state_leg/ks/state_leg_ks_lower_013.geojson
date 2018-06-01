@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"20013",
     "name":"State House District 13",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:13",
     "state":"ks"
 },
   "bbox": [

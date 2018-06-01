@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"21034",
     "name":"State Senate District 34",
+    "ocd_id":"ocd-division/country:us/state:ky/sldu:34",
     "state":"ky"
 },
   "bbox": [

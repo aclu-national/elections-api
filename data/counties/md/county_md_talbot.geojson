@@ -6,6 +6,7 @@
     "area_water":539405840,
     "geoid":"24041",
     "name":"Talbot",
+    "ocd_id":"ocd-division/country:us/state:md/county:talbot",
     "state":"md"
 },
   "bbox": [

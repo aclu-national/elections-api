@@ -8,6 +8,7 @@
     "district_num":"140",
     "geoid":"48140",
     "name":"State House District 140",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:140",
     "state":"tx"
 },
   "bbox": [

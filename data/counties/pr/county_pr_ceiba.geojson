@@ -6,6 +6,7 @@
     "area_water":336178483,
     "geoid":"72037",
     "name":"Ceiba",
+    "ocd_id":"ocd-division/country:us/state:pr/county:ceiba",
     "state":"pr"
 },
   "bbox": [

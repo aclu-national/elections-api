@@ -6,6 +6,7 @@
     "area_water":25393801,
     "geoid":"29157",
     "name":"Perry",
+    "ocd_id":"ocd-division/country:us/state:mo/county:perry",
     "state":"mo"
 },
   "bbox": [

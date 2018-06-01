@@ -6,6 +6,7 @@
     "area_water":5279183,
     "geoid":"28009",
     "name":"Benton",
+    "ocd_id":"ocd-division/country:us/state:ms/county:benton",
     "state":"ms"
 },
   "bbox": [

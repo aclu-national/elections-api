@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"44010",
     "name":"State House District 10",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:10",
     "state":"ri"
 },
   "bbox": [

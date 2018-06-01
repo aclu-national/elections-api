@@ -6,6 +6,7 @@
     "area_water":2686847,
     "geoid":"19095",
     "name":"Iowa",
+    "ocd_id":"ocd-division/country:us/state:ia/county:iowa",
     "state":"ia"
 },
   "bbox": [

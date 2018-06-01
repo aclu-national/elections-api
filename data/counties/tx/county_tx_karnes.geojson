@@ -6,6 +6,7 @@
     "area_water":15671660,
     "geoid":"48255",
     "name":"Karnes",
+    "ocd_id":"ocd-division/country:us/state:tx/county:karnes",
     "state":"tx"
 },
   "bbox": [

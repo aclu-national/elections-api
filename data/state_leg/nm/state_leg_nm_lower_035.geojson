@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"35035",
     "name":"State House District 35",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:35",
     "state":"nm"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"38034",
     "name":"State Senate District 34",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:34",
     "state":"nd"
 },
   "bbox": [

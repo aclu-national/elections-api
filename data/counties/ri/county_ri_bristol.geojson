@@ -6,6 +6,7 @@
     "area_water":53346252,
     "geoid":"44001",
     "name":"Bristol",
+    "ocd_id":"ocd-division/country:us/state:ri/county:bristol",
     "state":"ri"
 },
   "bbox": [

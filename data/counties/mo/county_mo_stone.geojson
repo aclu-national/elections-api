@@ -6,6 +6,7 @@
     "area_water":121059169,
     "geoid":"29209",
     "name":"Stone",
+    "ocd_id":"ocd-division/country:us/state:mo/county:stone",
     "state":"mo"
 },
   "bbox": [

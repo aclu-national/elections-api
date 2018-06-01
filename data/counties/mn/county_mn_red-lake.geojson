@@ -6,6 +6,7 @@
     "area_water":227815,
     "geoid":"27125",
     "name":"Red Lake",
+    "ocd_id":"ocd-division/country:us/state:mn/county:red_lake",
     "state":"mn"
 },
   "bbox": [

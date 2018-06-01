@@ -6,6 +6,7 @@
     "area_water":12658077,
     "geoid":"50015",
     "name":"Lamoille",
+    "ocd_id":"ocd-division/country:us/state:vt/county:lamoille",
     "state":"vt"
 },
   "bbox": [

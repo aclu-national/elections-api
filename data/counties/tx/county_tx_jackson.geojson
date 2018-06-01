@@ -6,6 +6,7 @@
     "area_water":71039573,
     "geoid":"48239",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:tx/county:jackson",
     "state":"tx"
 },
   "bbox": [

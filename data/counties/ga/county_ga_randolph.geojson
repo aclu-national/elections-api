@@ -6,6 +6,7 @@
     "area_water":6830041,
     "geoid":"13243",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:ga/county:randolph",
     "state":"ga"
 },
   "bbox": [

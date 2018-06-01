@@ -6,6 +6,7 @@
     "area_water":53535827,
     "geoid":"17067",
     "name":"Hancock",
+    "ocd_id":"ocd-division/country:us/state:il/county:hancock",
     "state":"il"
 },
   "bbox": [

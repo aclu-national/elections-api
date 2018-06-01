@@ -6,6 +6,7 @@
     "area_water":12372286,
     "geoid":"05113",
     "name":"Polk",
+    "ocd_id":"ocd-division/country:us/state:ar/county:polk",
     "state":"ar"
 },
   "bbox": [

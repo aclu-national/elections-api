@@ -6,6 +6,7 @@
     "area_water":11403003,
     "geoid":"54095",
     "name":"Tyler",
+    "ocd_id":"ocd-division/country:us/state:wv/county:tyler",
     "state":"wv"
 },
   "bbox": [

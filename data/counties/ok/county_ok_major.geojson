@@ -6,6 +6,7 @@
     "area_water":7651201,
     "geoid":"40093",
     "name":"Major",
+    "ocd_id":"ocd-division/country:us/state:ok/county:major",
     "state":"ok"
 },
   "bbox": [

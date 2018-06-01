@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"55014",
     "name":"Assembly District 14",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:14",
     "state":"wi"
 },
   "bbox": [

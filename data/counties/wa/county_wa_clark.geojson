@@ -6,6 +6,7 @@
     "area_water":70264672,
     "geoid":"53011",
     "name":"Clark",
+    "ocd_id":"ocd-division/country:us/state:wa/county:clark",
     "state":"wa"
 },
   "bbox": [

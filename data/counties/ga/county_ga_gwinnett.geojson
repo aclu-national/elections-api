@@ -6,6 +6,7 @@
     "area_water":16349375,
     "geoid":"13135",
     "name":"Gwinnett",
+    "ocd_id":"ocd-division/country:us/state:ga/county:gwinnett",
     "state":"ga"
 },
   "bbox": [

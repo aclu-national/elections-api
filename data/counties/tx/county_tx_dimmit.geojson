@@ -6,6 +6,7 @@
     "area_water":14576538,
     "geoid":"48127",
     "name":"Dimmit",
+    "ocd_id":"ocd-division/country:us/state:tx/county:dimmit",
     "state":"tx"
 },
   "bbox": [

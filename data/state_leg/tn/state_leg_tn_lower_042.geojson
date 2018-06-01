@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"47042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:42",
     "state":"tn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":69624105,
     "geoid":"40021",
     "name":"Cherokee",
+    "ocd_id":"ocd-division/country:us/state:ok/county:cherokee",
     "state":"ok"
 },
   "bbox": [

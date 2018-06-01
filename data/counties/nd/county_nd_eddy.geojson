@@ -6,6 +6,7 @@
     "area_water":36114199,
     "geoid":"38027",
     "name":"Eddy",
+    "ocd_id":"ocd-division/country:us/state:nd/county:eddy",
     "state":"nd"
 },
   "bbox": [

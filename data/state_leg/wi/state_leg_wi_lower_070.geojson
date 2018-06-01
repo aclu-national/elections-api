@@ -8,6 +8,7 @@
     "district_num":"070",
     "geoid":"55070",
     "name":"Assembly District 70",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:70",
     "state":"wi"
 },
   "bbox": [

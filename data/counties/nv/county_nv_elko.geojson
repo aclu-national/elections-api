@@ -6,6 +6,7 @@
     "area_water":85736268,
     "geoid":"32007",
     "name":"Elko",
+    "ocd_id":"ocd-division/country:us/state:nv/county:elko",
     "state":"nv"
 },
   "bbox": [

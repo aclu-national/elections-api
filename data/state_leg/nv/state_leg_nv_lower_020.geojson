@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"32020",
     "name":"Assembly District 20",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:20",
     "state":"nv"
 },
   "bbox": [

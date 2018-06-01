@@ -6,6 +6,7 @@
     "area_water":7347161,
     "geoid":"40007",
     "name":"Beaver",
+    "ocd_id":"ocd-division/country:us/state:ok/county:beaver",
     "state":"ok"
 },
   "bbox": [

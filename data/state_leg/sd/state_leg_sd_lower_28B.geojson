@@ -8,6 +8,7 @@
     "district_num":"28B",
     "geoid":"4628B",
     "name":"State House District 28B",
+    "ocd_id":"ocd-division/country:us/state:sd/sldl:28B",
     "state":"sd"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"26106",
     "name":"State House District 106",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:106",
     "state":"mi"
 },
   "bbox": [

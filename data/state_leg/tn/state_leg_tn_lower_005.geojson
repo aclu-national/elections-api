@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"47005",
     "name":"State House District 5",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:5",
     "state":"tn"
 },
   "bbox": [

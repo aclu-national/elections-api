@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"23044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:44",
     "state":"me"
 },
   "bbox": [

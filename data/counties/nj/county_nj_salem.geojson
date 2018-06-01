@@ -6,6 +6,7 @@
     "area_water":105430413,
     "geoid":"34033",
     "name":"Salem",
+    "ocd_id":"ocd-division/country:us/state:nj/county:salem",
     "state":"nj"
 },
   "bbox": [

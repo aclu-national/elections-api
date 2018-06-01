@@ -6,6 +6,7 @@
     "area_water":8424876,
     "geoid":"38091",
     "name":"Steele",
+    "ocd_id":"ocd-division/country:us/state:nd/county:steele",
     "state":"nd"
 },
   "bbox": [

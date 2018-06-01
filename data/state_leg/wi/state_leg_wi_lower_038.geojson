@@ -8,6 +8,7 @@
     "district_num":"038",
     "geoid":"55038",
     "name":"Assembly District 38",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:38",
     "state":"wi"
 },
   "bbox": [

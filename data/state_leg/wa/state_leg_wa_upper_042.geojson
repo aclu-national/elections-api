@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"53042",
     "name":"State Senate District 42",
+    "ocd_id":"ocd-division/country:us/state:wa/sldu:42",
     "state":"wa"
 },
   "bbox": [

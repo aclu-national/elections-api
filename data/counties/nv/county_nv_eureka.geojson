@@ -6,6 +6,7 @@
     "area_water":11082875,
     "geoid":"32011",
     "name":"Eureka",
+    "ocd_id":"ocd-division/country:us/state:nv/county:eureka",
     "state":"nv"
 },
   "bbox": [

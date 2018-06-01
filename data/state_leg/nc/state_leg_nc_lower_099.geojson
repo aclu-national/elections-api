@@ -8,6 +8,7 @@
     "district_num":"099",
     "geoid":"37099",
     "name":"State House District 99",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:99",
     "state":"nc"
 },
   "bbox": [

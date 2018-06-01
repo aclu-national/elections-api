@@ -6,6 +6,7 @@
     "area_water":5309826,
     "geoid":"28085",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:ms/county:lincoln",
     "state":"ms"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"097",
     "geoid":"26097",
     "name":"State House District 97",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:97",
     "state":"mi"
 },
   "bbox": [

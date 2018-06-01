@@ -8,6 +8,7 @@
     "district_num":"112",
     "geoid":"17112",
     "name":"State House District 112",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:112",
     "state":"il"
 },
   "bbox": [

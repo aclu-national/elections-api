@@ -6,6 +6,7 @@
     "area_water":7645484,
     "geoid":"51035",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:va/county:carroll",
     "state":"va"
 },
   "bbox": [

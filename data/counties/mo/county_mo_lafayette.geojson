@@ -6,6 +6,7 @@
     "area_water":27215050,
     "geoid":"29107",
     "name":"Lafayette",
+    "ocd_id":"ocd-division/country:us/state:mo/county:lafayette",
     "state":"mo"
 },
   "bbox": [

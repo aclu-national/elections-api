@@ -6,6 +6,7 @@
     "area_water":41400824,
     "geoid":"05139",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:ar/county:union",
     "state":"ar"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"100",
     "geoid":"22100",
     "name":"State House District 100",
+    "ocd_id":"ocd-division/country:us/state:la/sldl:100",
     "state":"la"
 },
   "bbox": [

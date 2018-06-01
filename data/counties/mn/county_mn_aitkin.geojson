@@ -6,6 +6,7 @@
     "area_water":449535492,
     "geoid":"27001",
     "name":"Aitkin",
+    "ocd_id":"ocd-division/country:us/state:mn/county:aitkin",
     "state":"mn"
 },
   "bbox": [

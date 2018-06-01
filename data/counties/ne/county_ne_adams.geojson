@@ -6,6 +6,7 @@
     "area_water":2481410,
     "geoid":"31001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:ne/county:adams",
     "state":"ne"
 },
   "bbox": [

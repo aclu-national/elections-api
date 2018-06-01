@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"09019",
     "name":"State Senate District 19",
+    "ocd_id":"ocd-division/country:us/state:ct/sldu:19",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":24802077,
     "geoid":"13107",
     "name":"Emanuel",
+    "ocd_id":"ocd-division/country:us/state:ga/county:emanuel",
     "state":"ga"
 },
   "bbox": [

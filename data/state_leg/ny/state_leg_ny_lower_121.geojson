@@ -8,6 +8,7 @@
     "district_num":"121",
     "geoid":"36121",
     "name":"Assembly District 121",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:121",
     "state":"ny"
 },
   "bbox": [

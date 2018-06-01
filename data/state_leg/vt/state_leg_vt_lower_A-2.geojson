@@ -8,6 +8,7 @@
     "district_num":"A-2",
     "geoid":"50A-2",
     "name":"Addison-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:A-2",
     "state":"vt"
 },
   "bbox": [

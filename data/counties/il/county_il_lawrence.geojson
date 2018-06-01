@@ -6,6 +6,7 @@
     "area_water":5077778,
     "geoid":"17101",
     "name":"Lawrence",
+    "ocd_id":"ocd-division/country:us/state:il/county:lawrence",
     "state":"il"
 },
   "bbox": [

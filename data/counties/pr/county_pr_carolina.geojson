@@ -6,6 +6,7 @@
     "area_water":38734577,
     "geoid":"72031",
     "name":"Carolina",
+    "ocd_id":"ocd-division/country:us/state:pr/county:carolina",
     "state":"pr"
 },
   "bbox": [

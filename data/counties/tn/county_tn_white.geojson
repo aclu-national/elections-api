@@ -6,6 +6,7 @@
     "area_water":7113368,
     "geoid":"47185",
     "name":"White",
+    "ocd_id":"ocd-division/country:us/state:tn/county:white",
     "state":"tn"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":61588406,
     "geoid":"53069",
     "name":"Wahkiakum",
+    "ocd_id":"ocd-division/country:us/state:wa/county:wahkiakum",
     "state":"wa"
 },
   "bbox": [

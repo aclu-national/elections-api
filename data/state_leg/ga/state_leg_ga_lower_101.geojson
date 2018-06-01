@@ -8,6 +8,7 @@
     "district_num":"101",
     "geoid":"13101",
     "name":"State House District 101",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:101",
     "state":"ga"
 },
   "bbox": [

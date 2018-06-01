@@ -6,6 +6,7 @@
     "area_water":37692771,
     "geoid":"05141",
     "name":"Van Buren",
+    "ocd_id":"ocd-division/country:us/state:ar/county:van_buren",
     "state":"ar"
 },
   "bbox": [

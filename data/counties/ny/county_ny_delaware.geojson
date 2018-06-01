@@ -6,6 +6,7 @@
     "area_water":64717114,
     "geoid":"36025",
     "name":"Delaware",
+    "ocd_id":"ocd-division/country:us/state:ny/county:delaware",
     "state":"ny"
 },
   "bbox": [

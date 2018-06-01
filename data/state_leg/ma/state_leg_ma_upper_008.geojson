@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"25008",
     "name":"Worcester, Hampden, Hampshire & Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:8",
     "state":"ma"
 },
   "bbox": [

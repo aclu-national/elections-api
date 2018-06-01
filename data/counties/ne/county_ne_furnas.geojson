@@ -6,6 +6,7 @@
     "area_water":3915843,
     "geoid":"31065",
     "name":"Furnas",
+    "ocd_id":"ocd-division/country:us/state:ne/county:furnas",
     "state":"ne"
 },
   "bbox": [

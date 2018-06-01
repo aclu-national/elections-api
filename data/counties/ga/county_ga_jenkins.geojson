@@ -6,6 +6,7 @@
     "area_water":13338830,
     "geoid":"13165",
     "name":"Jenkins",
+    "ocd_id":"ocd-division/country:us/state:ga/county:jenkins",
     "state":"ga"
 },
   "bbox": [

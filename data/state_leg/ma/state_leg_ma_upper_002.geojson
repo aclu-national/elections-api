@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"25002",
     "name":"Second Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:2",
     "state":"ma"
 },
   "bbox": [

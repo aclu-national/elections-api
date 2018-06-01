@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"09003",
     "name":"State Senate District 3",
+    "ocd_id":"ocd-division/country:us/state:ct/sldu:3",
     "state":"ct"
 },
   "bbox": [

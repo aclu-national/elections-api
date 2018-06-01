@@ -6,6 +6,7 @@
     "area_water":1871089,
     "geoid":"32029",
     "name":"Storey",
+    "ocd_id":"ocd-division/country:us/state:nv/county:storey",
     "state":"nv"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"065",
     "geoid":"37065",
     "name":"State House District 65",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:65",
     "state":"nc"
 },
   "bbox": [

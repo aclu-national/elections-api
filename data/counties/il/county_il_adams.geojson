@@ -6,6 +6,7 @@
     "area_water":41784365,
     "geoid":"17001",
     "name":"Adams",
+    "ocd_id":"ocd-division/country:us/state:il/county:adams",
     "state":"il"
 },
   "bbox": [

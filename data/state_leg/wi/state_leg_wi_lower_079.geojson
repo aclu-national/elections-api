@@ -8,6 +8,7 @@
     "district_num":"079",
     "geoid":"55079",
     "name":"Assembly District 79",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:79",
     "state":"wi"
 },
   "bbox": [

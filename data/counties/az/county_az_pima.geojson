@@ -6,6 +6,7 @@
     "area_water":5259325,
     "geoid":"04019",
     "name":"Pima",
+    "ocd_id":"ocd-division/country:us/state:az/county:pima",
     "state":"az"
 },
   "bbox": [

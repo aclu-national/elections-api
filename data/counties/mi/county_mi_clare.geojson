@@ -6,6 +6,7 @@
     "area_water":28501274,
     "geoid":"26035",
     "name":"Clare",
+    "ocd_id":"ocd-division/country:us/state:mi/county:clare",
     "state":"mi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":85231859,
     "geoid":"55017",
     "name":"Chippewa",
+    "ocd_id":"ocd-division/country:us/state:wi/county:chippewa",
     "state":"wi"
 },
   "bbox": [

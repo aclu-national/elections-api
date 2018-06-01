@@ -6,6 +6,7 @@
     "area_water":21288266,
     "geoid":"48481",
     "name":"Wharton",
+    "ocd_id":"ocd-division/country:us/state:tx/county:wharton",
     "state":"tx"
 },
   "bbox": [

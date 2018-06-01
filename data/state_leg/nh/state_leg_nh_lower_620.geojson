@@ -8,6 +8,7 @@
     "district_num":"620",
     "geoid":"33620",
     "name":"State House District Merrimack County No. 20",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:620",
     "state":"nh"
 },
   "bbox": [

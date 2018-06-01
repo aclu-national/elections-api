@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"25081",
     "name":"13th Bristol District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:81",
     "state":"ma"
 },
   "bbox": [

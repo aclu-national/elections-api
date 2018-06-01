@@ -8,6 +8,7 @@
     "district_num":"053",
     "geoid":"55053",
     "name":"Assembly District 53",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:53",
     "state":"wi"
 },
   "bbox": [

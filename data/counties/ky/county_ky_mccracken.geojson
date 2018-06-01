@@ -6,6 +6,7 @@
     "area_water":50305452,
     "geoid":"21145",
     "name":"McCracken",
+    "ocd_id":"ocd-division/country:us/state:ky/county:mccracken",
     "state":"ky"
 },
   "bbox": [

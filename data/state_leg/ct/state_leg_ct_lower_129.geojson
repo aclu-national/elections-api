@@ -8,6 +8,7 @@
     "district_num":"129",
     "geoid":"09129",
     "name":"State House District 129",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:129",
     "state":"ct"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":11748168571,
     "geoid":"23",
     "name":"Maine",
+    "ocd_id":"ocd-division/country:us/state:me",
     "state":"me"
 },
   "bbox": [

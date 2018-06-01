@@ -8,6 +8,7 @@
     "district_num":"304",
     "geoid":"33304",
     "name":"State House District Coos County No. 4",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:304",
     "state":"nh"
 },
   "bbox": [

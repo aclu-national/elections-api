@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"45005",
     "name":"State Senate District 5",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:5",
     "state":"sc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"038",
     "geoid":"49038",
     "name":"State House District 38",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:38",
     "state":"ut"
 },
   "bbox": [

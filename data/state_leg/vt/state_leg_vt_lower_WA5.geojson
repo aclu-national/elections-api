@@ -8,6 +8,7 @@
     "district_num":"WA5",
     "geoid":"50WA5",
     "name":"Washington-5 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WA5",
     "state":"vt"
 },
   "bbox": [

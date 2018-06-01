@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"44028",
     "name":"State Senate District 28",
+    "ocd_id":"ocd-division/country:us/state:ri/sldu:28",
     "state":"ri"
 },
   "bbox": [

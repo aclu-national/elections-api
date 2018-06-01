@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"01041",
     "name":"State House District 41",
+    "ocd_id":"ocd-division/country:us/state:al/sldl:41",
     "state":"al"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"022",
     "geoid":"48022",
     "name":"State House District 22",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:22",
     "state":"tx"
 },
   "bbox": [

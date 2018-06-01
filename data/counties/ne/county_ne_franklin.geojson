@@ -6,6 +6,7 @@
     "area_water":487899,
     "geoid":"31061",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:ne/county:franklin",
     "state":"ne"
 },
   "bbox": [

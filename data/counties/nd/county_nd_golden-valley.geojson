@@ -6,6 +6,7 @@
     "area_water":4147470,
     "geoid":"38033",
     "name":"Golden Valley",
+    "ocd_id":"ocd-division/country:us/state:nd/county:golden_valley",
     "state":"nd"
 },
   "bbox": [

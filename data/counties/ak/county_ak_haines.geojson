@@ -6,6 +6,7 @@
     "area_water":1054089659,
     "geoid":"02100",
     "name":"Haines",
+    "ocd_id":"ocd-division/country:us/state:ak/county:haines",
     "state":"ak"
 },
   "bbox": [

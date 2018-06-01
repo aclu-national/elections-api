@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"47002",
     "name":"State House District 2",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:2",
     "state":"tn"
 },
   "bbox": [

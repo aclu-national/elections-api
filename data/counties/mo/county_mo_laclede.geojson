@@ -6,6 +6,7 @@
     "area_water":8515352,
     "geoid":"29105",
     "name":"Laclede",
+    "ocd_id":"ocd-division/country:us/state:mo/county:laclede",
     "state":"mo"
 },
   "bbox": [

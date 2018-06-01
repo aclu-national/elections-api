@@ -6,6 +6,7 @@
     "area_water":12301426,
     "geoid":"13045",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:ga/county:carroll",
     "state":"ga"
 },
   "bbox": [

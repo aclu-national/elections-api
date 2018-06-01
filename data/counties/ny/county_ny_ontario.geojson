@@ -6,6 +6,7 @@
     "area_water":47820988,
     "geoid":"36069",
     "name":"Ontario",
+    "ocd_id":"ocd-division/country:us/state:ny/county:ontario",
     "state":"ny"
 },
   "bbox": [

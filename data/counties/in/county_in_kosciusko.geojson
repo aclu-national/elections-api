@@ -6,6 +6,7 @@
     "area_water":59509695,
     "geoid":"18085",
     "name":"Kosciusko",
+    "ocd_id":"ocd-division/country:us/state:in/county:kosciusko",
     "state":"in"
 },
   "bbox": [

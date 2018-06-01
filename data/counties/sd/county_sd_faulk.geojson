@@ -6,6 +6,7 @@
     "area_water":62678931,
     "geoid":"46049",
     "name":"Faulk",
+    "ocd_id":"ocd-division/country:us/state:sd/county:faulk",
     "state":"sd"
 },
   "bbox": [

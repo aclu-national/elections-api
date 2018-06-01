@@ -6,6 +6,7 @@
     "area_water":2803739,
     "geoid":"51045",
     "name":"Craig",
+    "ocd_id":"ocd-division/country:us/state:va/county:craig",
     "state":"va"
 },
   "bbox": [

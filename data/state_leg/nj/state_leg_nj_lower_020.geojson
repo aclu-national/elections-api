@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"34020",
     "name":"General Assembly District 20",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:20",
     "state":"nj"
 },
   "bbox": [

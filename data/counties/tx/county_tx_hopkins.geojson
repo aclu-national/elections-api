@@ -6,6 +6,7 @@
     "area_water":66250826,
     "geoid":"48223",
     "name":"Hopkins",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hopkins",
     "state":"tx"
 },
   "bbox": [

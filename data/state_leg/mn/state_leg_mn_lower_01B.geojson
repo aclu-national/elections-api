@@ -8,6 +8,7 @@
     "district_num":"01B",
     "geoid":"2701B",
     "name":"State House District 1B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:1",
     "state":"mn"
 },
   "bbox": [

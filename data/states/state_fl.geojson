@@ -6,6 +6,7 @@
     "area_water":31398800291,
     "geoid":"12",
     "name":"Florida",
+    "ocd_id":"ocd-division/country:us/state:fl",
     "state":"fl"
 },
   "bbox": [

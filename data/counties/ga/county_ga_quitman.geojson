@@ -6,6 +6,7 @@
     "area_water":24158294,
     "geoid":"13239",
     "name":"Quitman",
+    "ocd_id":"ocd-division/country:us/state:ga/county:quitman",
     "state":"ga"
 },
   "bbox": [

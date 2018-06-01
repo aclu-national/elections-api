@@ -6,6 +6,7 @@
     "area_water":39497494,
     "geoid":"40067",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:ok/county:jefferson",
     "state":"ok"
 },
   "bbox": [

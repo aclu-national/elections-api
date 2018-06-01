@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"02012",
     "name":"State House District 12",
+    "ocd_id":"ocd-division/country:us/state:ak/sldl:12",
     "state":"ak"
 },
   "bbox": [

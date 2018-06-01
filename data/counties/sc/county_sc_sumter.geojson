@@ -6,6 +6,7 @@
     "area_water":44054520,
     "geoid":"45085",
     "name":"Sumter",
+    "ocd_id":"ocd-division/country:us/state:sc/county:sumter",
     "state":"sc"
 },
   "bbox": [

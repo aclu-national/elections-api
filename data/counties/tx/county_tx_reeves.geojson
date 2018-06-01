@@ -6,6 +6,7 @@
     "area_water":17396681,
     "geoid":"48389",
     "name":"Reeves",
+    "ocd_id":"ocd-division/country:us/state:tx/county:reeves",
     "state":"tx"
 },
   "bbox": [

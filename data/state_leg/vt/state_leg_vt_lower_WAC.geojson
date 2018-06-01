@@ -8,6 +8,7 @@
     "district_num":"WAC",
     "geoid":"50WAC",
     "name":"Washington-Chittenden State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:WAC",
     "state":"vt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":757313941,
     "geoid":"06081",
     "name":"San Mateo",
+    "ocd_id":"ocd-division/country:us/state:ca/county:san_mateo",
     "state":"ca"
 },
   "bbox": [

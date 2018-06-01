@@ -6,6 +6,7 @@
     "area_water":35711133,
     "geoid":"28021",
     "name":"Claiborne",
+    "ocd_id":"ocd-division/country:us/state:ms/county:claiborne",
     "state":"ms"
 },
   "bbox": [

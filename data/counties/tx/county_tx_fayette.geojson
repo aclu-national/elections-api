@@ -6,6 +6,7 @@
     "area_water":25739448,
     "geoid":"48149",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:tx/county:fayette",
     "state":"tx"
 },
   "bbox": [

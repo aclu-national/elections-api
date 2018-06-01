@@ -6,6 +6,7 @@
     "area_water":218679972,
     "geoid":"06095",
     "name":"Solano",
+    "ocd_id":"ocd-division/country:us/state:ca/county:solano",
     "state":"ca"
 },
   "bbox": [

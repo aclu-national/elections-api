@@ -6,6 +6,7 @@
     "area_water":13750461,
     "geoid":"04011",
     "name":"Greenlee",
+    "ocd_id":"ocd-division/country:us/state:az/county:greenlee",
     "state":"az"
 },
   "bbox": [

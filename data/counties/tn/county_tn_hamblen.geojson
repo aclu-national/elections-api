@@ -6,6 +6,7 @@
     "area_water":37890290,
     "geoid":"47063",
     "name":"Hamblen",
+    "ocd_id":"ocd-division/country:us/state:tn/county:hamblen",
     "state":"tn"
 },
   "bbox": [

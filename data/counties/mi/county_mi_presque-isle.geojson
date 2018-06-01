@@ -6,6 +6,7 @@
     "area_water":4957327100,
     "geoid":"26141",
     "name":"Presque Isle",
+    "ocd_id":"ocd-division/country:us/state:mi/county:presque_isle",
     "state":"mi"
 },
   "bbox": [

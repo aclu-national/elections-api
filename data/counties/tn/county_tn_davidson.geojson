@@ -6,6 +6,7 @@
     "area_water":56649279,
     "geoid":"47037",
     "name":"Davidson",
+    "ocd_id":"ocd-division/country:us/state:tn/county:davidson",
     "state":"tn"
 },
   "bbox": [

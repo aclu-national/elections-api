@@ -8,6 +8,7 @@
     "district_num":"Y32",
     "geoid":"50Y32",
     "name":"Windsor-3-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:Y32",
     "state":"vt"
 },
   "bbox": [

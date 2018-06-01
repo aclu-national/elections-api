@@ -8,6 +8,7 @@
     "district_num":"120",
     "geoid":"36120",
     "name":"Assembly District 120",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:120",
     "state":"ny"
 },
   "bbox": [

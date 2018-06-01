@@ -6,6 +6,7 @@
     "area_water":9235291,
     "geoid":"08021",
     "name":"Conejos",
+    "ocd_id":"ocd-division/country:us/state:co/county:conejos",
     "state":"co"
 },
   "bbox": [

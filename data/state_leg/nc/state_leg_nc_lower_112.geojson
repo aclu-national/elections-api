@@ -8,6 +8,7 @@
     "district_num":"112",
     "geoid":"37112",
     "name":"State House District 112",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:112",
     "state":"nc"
 },
   "bbox": [

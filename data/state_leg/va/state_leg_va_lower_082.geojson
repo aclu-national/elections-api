@@ -8,6 +8,7 @@
     "district_num":"082",
     "geoid":"51082",
     "name":"State House District 82",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:82",
     "state":"va"
 },
   "bbox": [

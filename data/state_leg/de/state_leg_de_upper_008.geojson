@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"10008",
     "name":"State Senate District 8",
+    "ocd_id":"ocd-division/country:us/state:de/sldu:8",
     "state":"de"
 },
   "bbox": [

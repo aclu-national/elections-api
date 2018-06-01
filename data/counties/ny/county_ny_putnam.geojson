@@ -6,6 +6,7 @@
     "area_water":41282800,
     "geoid":"36079",
     "name":"Putnam",
+    "ocd_id":"ocd-division/country:us/state:ny/county:putnam",
     "state":"ny"
 },
   "bbox": [

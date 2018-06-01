@@ -8,6 +8,7 @@
     "district_num":"072",
     "geoid":"47072",
     "name":"State House District 72",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:72",
     "state":"tn"
 },
   "bbox": [

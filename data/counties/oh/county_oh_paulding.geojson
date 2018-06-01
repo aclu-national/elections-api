@@ -6,6 +6,7 @@
     "area_water":6245392,
     "geoid":"39125",
     "name":"Paulding",
+    "ocd_id":"ocd-division/country:us/state:oh/county:paulding",
     "state":"oh"
 },
   "bbox": [

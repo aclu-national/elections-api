@@ -6,6 +6,7 @@
     "area_water":2616530,
     "geoid":"13143",
     "name":"Haralson",
+    "ocd_id":"ocd-division/country:us/state:ga/county:haralson",
     "state":"ga"
 },
   "bbox": [

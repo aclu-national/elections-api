@@ -6,6 +6,7 @@
     "area_water":28690300,
     "geoid":"47159",
     "name":"Smith",
+    "ocd_id":"ocd-division/country:us/state:tn/county:smith",
     "state":"tn"
 },
   "bbox": [

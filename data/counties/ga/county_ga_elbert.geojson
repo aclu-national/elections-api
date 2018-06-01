@@ -6,6 +6,7 @@
     "area_water":59911773,
     "geoid":"13105",
     "name":"Elbert",
+    "ocd_id":"ocd-division/country:us/state:ga/county:elbert",
     "state":"ga"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":41672841,
     "geoid":"48139",
     "name":"Ellis",
+    "ocd_id":"ocd-division/country:us/state:tx/county:ellis",
     "state":"tx"
 },
   "bbox": [

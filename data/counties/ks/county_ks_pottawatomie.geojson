@@ -6,6 +6,7 @@
     "area_water":54039076,
     "geoid":"20149",
     "name":"Pottawatomie",
+    "ocd_id":"ocd-division/country:us/state:ks/county:pottawatomie",
     "state":"ks"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":11923424,
     "geoid":"18071",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:in/county:jackson",
     "state":"in"
 },
   "bbox": [

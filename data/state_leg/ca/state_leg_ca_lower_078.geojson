@@ -8,6 +8,7 @@
     "district_num":"078",
     "geoid":"06078",
     "name":"Assembly District 78",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:78",
     "state":"ca"
 },
   "bbox": [

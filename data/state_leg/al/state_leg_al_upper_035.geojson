@@ -8,6 +8,7 @@
     "district_num":"035",
     "geoid":"01035",
     "name":"State Senate District 35",
+    "ocd_id":"ocd-division/country:us/state:al/sldu:35",
     "state":"al"
 },
   "bbox": [

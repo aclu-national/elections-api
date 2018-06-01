@@ -6,6 +6,7 @@
     "area_water":24893716,
     "geoid":"27161",
     "name":"Waseca",
+    "ocd_id":"ocd-division/country:us/state:mn/county:waseca",
     "state":"mn"
 },
   "bbox": [

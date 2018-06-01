@@ -6,6 +6,7 @@
     "area_water":1262209528,
     "geoid":"48261",
     "name":"Kenedy",
+    "ocd_id":"ocd-division/country:us/state:tx/county:kenedy",
     "state":"tx"
 },
   "bbox": [

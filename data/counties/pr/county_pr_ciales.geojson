@@ -6,6 +6,7 @@
     "area_water":459605,
     "geoid":"72039",
     "name":"Ciales",
+    "ocd_id":"ocd-division/country:us/state:pr/county:ciales",
     "state":"pr"
 },
   "bbox": [

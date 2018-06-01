@@ -6,6 +6,7 @@
     "area_water":15207400,
     "geoid":"08121",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:co/county:washington",
     "state":"co"
 },
   "bbox": [

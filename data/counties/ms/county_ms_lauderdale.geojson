@@ -6,6 +6,7 @@
     "area_water":29787695,
     "geoid":"28075",
     "name":"Lauderdale",
+    "ocd_id":"ocd-division/country:us/state:ms/county:lauderdale",
     "state":"ms"
 },
   "bbox": [

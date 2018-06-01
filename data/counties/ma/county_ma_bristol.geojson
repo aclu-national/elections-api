@@ -6,6 +6,7 @@
     "area_water":357549440,
     "geoid":"25005",
     "name":"Bristol",
+    "ocd_id":"ocd-division/country:us/state:ma/county:bristol",
     "state":"ma"
 },
   "bbox": [

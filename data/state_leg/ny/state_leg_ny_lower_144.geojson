@@ -8,6 +8,7 @@
     "district_num":"144",
     "geoid":"36144",
     "name":"Assembly District 144",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:144",
     "state":"ny"
 },
   "bbox": [

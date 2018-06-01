@@ -6,6 +6,7 @@
     "area_water":67136455,
     "geoid":"48277",
     "name":"Lamar",
+    "ocd_id":"ocd-division/country:us/state:tx/county:lamar",
     "state":"tx"
 },
   "bbox": [

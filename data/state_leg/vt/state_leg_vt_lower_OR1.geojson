@@ -8,6 +8,7 @@
     "district_num":"OR1",
     "geoid":"50OR1",
     "name":"Orange-1 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:OR1",
     "state":"vt"
 },
   "bbox": [

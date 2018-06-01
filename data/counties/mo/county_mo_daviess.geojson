@@ -6,6 +6,7 @@
     "area_water":14913879,
     "geoid":"29061",
     "name":"Daviess",
+    "ocd_id":"ocd-division/country:us/state:mo/county:daviess",
     "state":"mo"
 },
   "bbox": [

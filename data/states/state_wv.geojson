@@ -6,6 +6,7 @@
     "area_water":489840834,
     "geoid":"54",
     "name":"West Virginia",
+    "ocd_id":"ocd-division/country:us/state:wv",
     "state":"wv"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3234878,
     "geoid":"31035",
     "name":"Clay",
+    "ocd_id":"ocd-division/country:us/state:ne/county:clay",
     "state":"ne"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":5037940435,
     "geoid":"02220",
     "name":"Sitka",
+    "ocd_id":"ocd-division/country:us/state:ak/county:sitka",
     "state":"ak"
 },
   "bbox": [

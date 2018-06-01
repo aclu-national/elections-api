@@ -6,6 +6,7 @@
     "area_water":25949287,
     "geoid":"45059",
     "name":"Laurens",
+    "ocd_id":"ocd-division/country:us/state:sc/county:laurens",
     "state":"sc"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"093",
     "geoid":"26093",
     "name":"State House District 93",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:93",
     "state":"mi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":140932,
     "geoid":"20199",
     "name":"Wallace",
+    "ocd_id":"ocd-division/country:us/state:ks/county:wallace",
     "state":"ks"
 },
   "bbox": [

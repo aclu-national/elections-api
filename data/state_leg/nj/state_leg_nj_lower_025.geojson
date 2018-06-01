@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"34025",
     "name":"General Assembly District 25",
+    "ocd_id":"ocd-division/country:us/state:nj/sldl:25",
     "state":"nj"
 },
   "bbox": [

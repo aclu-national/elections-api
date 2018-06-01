@@ -6,6 +6,7 @@
     "area_water":99900775,
     "geoid":"46053",
     "name":"Gregory",
+    "ocd_id":"ocd-division/country:us/state:sd/county:gregory",
     "state":"sd"
 },
   "bbox": [

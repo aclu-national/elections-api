@@ -8,6 +8,7 @@
     "district_num":"071",
     "geoid":"47071",
     "name":"State House District 71",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:71",
     "state":"tn"
 },
   "bbox": [

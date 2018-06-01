@@ -8,6 +8,7 @@
     "district_num":"ZZZ",
     "geoid":"22ZZZ",
     "name":"State Senate Districts not defined",
+    "ocd_id":"ocd-division/country:us/state:la/sldu:ZZZ",
     "state":"la"
 },
   "bbox": [

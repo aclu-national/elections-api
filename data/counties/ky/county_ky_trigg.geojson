@@ -6,6 +6,7 @@
     "area_water":103330127,
     "geoid":"21221",
     "name":"Trigg",
+    "ocd_id":"ocd-division/country:us/state:ky/county:trigg",
     "state":"ky"
 },
   "bbox": [

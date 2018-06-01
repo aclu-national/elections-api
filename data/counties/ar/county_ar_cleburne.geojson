@@ -6,6 +6,7 @@
     "area_water":98893718,
     "geoid":"05023",
     "name":"Cleburne",
+    "ocd_id":"ocd-division/country:us/state:ar/county:cleburne",
     "state":"ar"
 },
   "bbox": [

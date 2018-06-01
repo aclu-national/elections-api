@@ -8,6 +8,7 @@
     "district_num":"013",
     "geoid":"12013",
     "name":"State House District 13",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:13",
     "state":"fl"
 },
   "bbox": [

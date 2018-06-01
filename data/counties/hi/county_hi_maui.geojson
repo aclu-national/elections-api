@@ -6,6 +6,7 @@
     "area_water":3203294203,
     "geoid":"15009",
     "name":"Maui",
+    "ocd_id":"ocd-division/country:us/state:hi/county:maui",
     "state":"hi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":15062146,
     "geoid":"31163",
     "name":"Sherman",
+    "ocd_id":"ocd-division/country:us/state:ne/county:sherman",
     "state":"ne"
 },
   "bbox": [

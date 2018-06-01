@@ -6,6 +6,7 @@
     "area_water":86365500,
     "geoid":"22009",
     "name":"Avoyelles",
+    "ocd_id":"ocd-division/country:us/state:la/county:avoyelles",
     "state":"la"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"011",
     "geoid":"21011",
     "name":"State House District 11",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:11",
     "state":"ky"
 },
   "bbox": [

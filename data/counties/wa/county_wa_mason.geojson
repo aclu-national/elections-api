@@ -6,6 +6,7 @@
     "area_water":237381766,
     "geoid":"53045",
     "name":"Mason",
+    "ocd_id":"ocd-division/country:us/state:wa/county:mason",
     "state":"wa"
 },
   "bbox": [

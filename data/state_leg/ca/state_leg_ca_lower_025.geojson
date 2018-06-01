@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"06025",
     "name":"Assembly District 25",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:25",
     "state":"ca"
 },
   "bbox": [

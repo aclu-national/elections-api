@@ -6,6 +6,7 @@
     "area_water":16190430,
     "geoid":"35001",
     "name":"Bernalillo",
+    "ocd_id":"ocd-division/country:us/state:nm/county:bernalillo",
     "state":"nm"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"201",
     "geoid":"25201",
     "name":"18th Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:201",
     "state":"ma"
 },
   "bbox": [

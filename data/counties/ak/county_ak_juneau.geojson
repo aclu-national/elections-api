@@ -6,6 +6,7 @@
     "area_water":1423792753,
     "geoid":"02110",
     "name":"Juneau",
+    "ocd_id":"ocd-division/country:us/state:ak/county:juneau",
     "state":"ak"
 },
   "bbox": [

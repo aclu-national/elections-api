@@ -8,6 +8,7 @@
     "district_num":"084",
     "geoid":"12084",
     "name":"State House District 84",
+    "ocd_id":"ocd-division/country:us/state:fl/sldl:84",
     "state":"fl"
 },
   "bbox": [

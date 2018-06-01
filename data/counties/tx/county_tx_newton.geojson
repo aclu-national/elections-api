@@ -6,6 +6,7 @@
     "area_water":15672146,
     "geoid":"48351",
     "name":"Newton",
+    "ocd_id":"ocd-division/country:us/state:tx/county:newton",
     "state":"tx"
 },
   "bbox": [

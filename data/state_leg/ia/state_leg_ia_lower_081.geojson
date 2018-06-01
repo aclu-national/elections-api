@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"19081",
     "name":"State House District 81",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:81",
     "state":"ia"
 },
   "bbox": [

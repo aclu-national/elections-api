@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"19049",
     "name":"State Senate District 49",
+    "ocd_id":"ocd-division/country:us/state:ia/sldu:49",
     "state":"ia"
 },
   "bbox": [

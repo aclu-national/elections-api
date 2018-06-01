@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"12030",
     "name":"State Senate District 30",
+    "ocd_id":"ocd-division/country:us/state:fl/sldu:30",
     "state":"fl"
 },
   "bbox": [

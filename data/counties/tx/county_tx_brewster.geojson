@@ -6,6 +6,7 @@
     "area_water":22063764,
     "geoid":"48043",
     "name":"Brewster",
+    "ocd_id":"ocd-division/country:us/state:tx/county:brewster",
     "state":"tx"
 },
   "bbox": [

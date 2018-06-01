@@ -6,6 +6,7 @@
     "area_water":147694,
     "geoid":"51790",
     "name":"Staunton",
+    "ocd_id":"ocd-division/country:us/state:va/county:staunton",
     "state":"va"
 },
   "bbox": [

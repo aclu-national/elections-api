@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"24020",
     "name":"State Legislative District 20",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:20",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":70009832,
     "geoid":"21007",
     "name":"Ballard",
+    "ocd_id":"ocd-division/country:us/state:ky/county:ballard",
     "state":"ky"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"101",
     "geoid":"20101",
     "name":"State House District 101",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:101",
     "state":"ks"
 },
   "bbox": [

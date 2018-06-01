@@ -8,6 +8,7 @@
     "district_num":"134",
     "geoid":"13134",
     "name":"State House District 134",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:134",
     "state":"ga"
 },
   "bbox": [

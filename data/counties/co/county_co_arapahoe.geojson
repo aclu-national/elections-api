@@ -6,6 +6,7 @@
     "area_water":19499590,
     "geoid":"08005",
     "name":"Arapahoe",
+    "ocd_id":"ocd-division/country:us/state:co/county:arapahoe",
     "state":"co"
 },
   "bbox": [

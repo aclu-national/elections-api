@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"06012",
     "name":"State Senate District 12",
+    "ocd_id":"ocd-division/country:us/state:ca/sldu:12",
     "state":"ca"
 },
   "bbox": [

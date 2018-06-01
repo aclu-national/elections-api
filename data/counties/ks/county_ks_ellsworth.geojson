@@ -6,6 +6,7 @@
     "area_water":19262994,
     "geoid":"20053",
     "name":"Ellsworth",
+    "ocd_id":"ocd-division/country:us/state:ks/county:ellsworth",
     "state":"ks"
 },
   "bbox": [

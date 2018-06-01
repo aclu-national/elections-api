@@ -6,6 +6,7 @@
     "area_water":72463206,
     "geoid":"55069",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:wi/county:lincoln",
     "state":"wi"
 },
   "bbox": [

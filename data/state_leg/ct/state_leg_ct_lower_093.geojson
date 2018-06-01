@@ -8,6 +8,7 @@
     "district_num":"093",
     "geoid":"09093",
     "name":"State House District 93",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:93",
     "state":"ct"
 },
   "bbox": [

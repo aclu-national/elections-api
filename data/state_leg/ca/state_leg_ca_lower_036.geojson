@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"06036",
     "name":"Assembly District 36",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:36",
     "state":"ca"
 },
   "bbox": [

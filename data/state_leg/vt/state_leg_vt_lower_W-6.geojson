@@ -8,6 +8,7 @@
     "district_num":"W-6",
     "geoid":"50W-6",
     "name":"Windham-6 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:W-6",
     "state":"vt"
 },
   "bbox": [

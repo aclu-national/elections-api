@@ -6,6 +6,7 @@
     "area_water":32473222,
     "geoid":"22027",
     "name":"Claiborne",
+    "ocd_id":"ocd-division/country:us/state:la/county:claiborne",
     "state":"la"
 },
   "bbox": [

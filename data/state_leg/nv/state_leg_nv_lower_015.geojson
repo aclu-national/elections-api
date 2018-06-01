@@ -8,6 +8,7 @@
     "district_num":"015",
     "geoid":"32015",
     "name":"Assembly District 15",
+    "ocd_id":"ocd-division/country:us/state:nv/sldl:15",
     "state":"nv"
 },
   "bbox": [

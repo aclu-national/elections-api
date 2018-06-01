@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"19042",
     "name":"State Senate District 42",
+    "ocd_id":"ocd-division/country:us/state:ia/sldu:42",
     "state":"ia"
 },
   "bbox": [

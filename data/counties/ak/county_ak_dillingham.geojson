@@ -6,6 +6,7 @@
     "area_water":5951019310,
     "geoid":"02070",
     "name":"Dillingham",
+    "ocd_id":"ocd-division/country:us/state:ak/county:dillingham",
     "state":"ak"
 },
   "bbox": [

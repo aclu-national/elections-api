@@ -8,6 +8,7 @@
     "district_num":"034",
     "geoid":"26034",
     "name":"State House District 34",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:34",
     "state":"mi"
 },
   "bbox": [

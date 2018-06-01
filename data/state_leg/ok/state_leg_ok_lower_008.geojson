@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"40008",
     "name":"State House District 8",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:8",
     "state":"ok"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":30687108,
     "geoid":"26091",
     "name":"Lenawee",
+    "ocd_id":"ocd-division/country:us/state:mi/county:lenawee",
     "state":"mi"
 },
   "bbox": [

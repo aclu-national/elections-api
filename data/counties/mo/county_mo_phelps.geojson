@@ -6,6 +6,7 @@
     "area_water":6587831,
     "geoid":"29161",
     "name":"Phelps",
+    "ocd_id":"ocd-division/country:us/state:mo/county:phelps",
     "state":"mo"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":1674244223,
     "geoid":"15007",
     "name":"Kauai",
+    "ocd_id":"ocd-division/country:us/state:hi/county:kauai",
     "state":"hi"
 },
   "bbox": [

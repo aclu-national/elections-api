@@ -8,6 +8,7 @@
     "district_num":"W22",
     "geoid":"50W22",
     "name":"Windham-2-2 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:W22",
     "state":"vt"
 },
   "bbox": [

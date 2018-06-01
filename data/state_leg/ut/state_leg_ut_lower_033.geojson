@@ -8,6 +8,7 @@
     "district_num":"033",
     "geoid":"49033",
     "name":"State House District 33",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:33",
     "state":"ut"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"049",
     "geoid":"56049",
     "name":"State House District 49",
+    "ocd_id":"ocd-division/country:us/state:wy/sldl:49",
     "state":"wy"
 },
   "bbox": [

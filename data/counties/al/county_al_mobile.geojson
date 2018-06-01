@@ -6,6 +6,7 @@
     "area_water":1073844850,
     "geoid":"01097",
     "name":"Mobile",
+    "ocd_id":"ocd-division/country:us/state:al/county:mobile",
     "state":"al"
 },
   "bbox": [

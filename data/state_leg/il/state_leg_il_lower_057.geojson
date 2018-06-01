@@ -8,6 +8,7 @@
     "district_num":"057",
     "geoid":"17057",
     "name":"State House District 57",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:57",
     "state":"il"
 },
   "bbox": [

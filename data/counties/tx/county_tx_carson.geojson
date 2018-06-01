@@ -6,6 +6,7 @@
     "area_water":10064086,
     "geoid":"48065",
     "name":"Carson",
+    "ocd_id":"ocd-division/country:us/state:tx/county:carson",
     "state":"tx"
 },
   "bbox": [

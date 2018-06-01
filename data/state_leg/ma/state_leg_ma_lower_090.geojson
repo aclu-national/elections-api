@@ -8,6 +8,7 @@
     "district_num":"090",
     "geoid":"25090",
     "name":"8th Essex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:90",
     "state":"ma"
 },
   "bbox": [

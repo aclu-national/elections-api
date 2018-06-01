@@ -6,6 +6,7 @@
     "area_water":131708144,
     "geoid":"38005",
     "name":"Benson",
+    "ocd_id":"ocd-division/country:us/state:nd/county:benson",
     "state":"nd"
 },
   "bbox": [

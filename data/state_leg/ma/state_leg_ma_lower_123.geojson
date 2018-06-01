@@ -8,6 +8,7 @@
     "district_num":"123",
     "geoid":"25123",
     "name":"6th Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:123",
     "state":"ma"
 },
   "bbox": [

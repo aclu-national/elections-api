@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"26010",
     "name":"State House District 10",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:10",
     "state":"mi"
 },
   "bbox": [

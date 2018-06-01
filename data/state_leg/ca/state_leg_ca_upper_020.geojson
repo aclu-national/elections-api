@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"06020",
     "name":"State Senate District 20",
+    "ocd_id":"ocd-division/country:us/state:ca/sldu:20",
     "state":"ca"
 },
   "bbox": [

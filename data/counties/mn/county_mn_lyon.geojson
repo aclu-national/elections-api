@@ -6,6 +6,7 @@
     "area_water":18794796,
     "geoid":"27083",
     "name":"Lyon",
+    "ocd_id":"ocd-division/country:us/state:mn/county:lyon",
     "state":"mn"
 },
   "bbox": [

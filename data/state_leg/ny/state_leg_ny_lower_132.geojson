@@ -8,6 +8,7 @@
     "district_num":"132",
     "geoid":"36132",
     "name":"Assembly District 132",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:132",
     "state":"ny"
 },
   "bbox": [

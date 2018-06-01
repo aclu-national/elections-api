@@ -8,6 +8,7 @@
     "district_num":"008",
     "geoid":"55008",
     "name":"Assembly District 8",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:8",
     "state":"wi"
 },
   "bbox": [

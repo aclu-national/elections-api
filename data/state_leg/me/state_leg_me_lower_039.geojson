@@ -8,6 +8,7 @@
     "district_num":"039",
     "geoid":"23039",
     "name":"State House District 39",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:39",
     "state":"me"
 },
   "bbox": [

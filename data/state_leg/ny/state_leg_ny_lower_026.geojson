@@ -8,6 +8,7 @@
     "district_num":"026",
     "geoid":"36026",
     "name":"Assembly District 26",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:26",
     "state":"ny"
 },
   "bbox": [

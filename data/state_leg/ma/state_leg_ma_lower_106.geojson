@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"25106",
     "name":"5th Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:106",
     "state":"ma"
 },
   "bbox": [

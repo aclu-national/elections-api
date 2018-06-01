@@ -6,6 +6,7 @@
     "area_water":23873001,
     "geoid":"48073",
     "name":"Cherokee",
+    "ocd_id":"ocd-division/country:us/state:tx/county:cherokee",
     "state":"tx"
 },
   "bbox": [

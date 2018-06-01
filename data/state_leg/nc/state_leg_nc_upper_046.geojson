@@ -8,6 +8,7 @@
     "district_num":"046",
     "geoid":"37046",
     "name":"State Senate District 46",
+    "ocd_id":"ocd-division/country:us/state:nc/sldu:46",
     "state":"nc"
 },
   "bbox": [

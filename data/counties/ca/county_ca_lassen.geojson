@@ -6,6 +6,7 @@
     "area_water":463426050,
     "geoid":"06035",
     "name":"Lassen",
+    "ocd_id":"ocd-division/country:us/state:ca/county:lassen",
     "state":"ca"
 },
   "bbox": [

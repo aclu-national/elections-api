@@ -6,6 +6,7 @@
     "area_water":13047565,
     "geoid":"21083",
     "name":"Graves",
+    "ocd_id":"ocd-division/country:us/state:ky/county:graves",
     "state":"ky"
 },
   "bbox": [

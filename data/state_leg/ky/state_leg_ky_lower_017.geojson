@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"21017",
     "name":"State House District 17",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:17",
     "state":"ky"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":8093124,
     "geoid":"37009",
     "name":"Ashe",
+    "ocd_id":"ocd-division/country:us/state:nc/county:ashe",
     "state":"nc"
 },
   "bbox": [

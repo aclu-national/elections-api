@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"38025",
     "name":"State Senate District 25",
+    "ocd_id":"ocd-division/country:us/state:nd/sldu:25",
     "state":"nd"
 },
   "bbox": [

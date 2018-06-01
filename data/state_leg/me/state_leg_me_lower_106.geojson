@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"23106",
     "name":"State House District 106",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:106",
     "state":"me"
 },
   "bbox": [

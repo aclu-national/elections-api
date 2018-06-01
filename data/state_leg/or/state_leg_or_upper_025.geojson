@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"41025",
     "name":"State Senate District 25",
+    "ocd_id":"ocd-division/country:us/state:or/sldu:25",
     "state":"or"
 },
   "bbox": [

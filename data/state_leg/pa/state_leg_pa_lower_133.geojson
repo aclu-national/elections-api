@@ -8,6 +8,7 @@
     "district_num":"133",
     "geoid":"42133",
     "name":"State House District 133",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:133",
     "state":"pa"
 },
   "bbox": [

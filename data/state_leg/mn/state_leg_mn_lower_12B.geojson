@@ -8,6 +8,7 @@
     "district_num":"12B",
     "geoid":"2712B",
     "name":"State House District 12B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:12B",
     "state":"mn"
 },
   "bbox": [

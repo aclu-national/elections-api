@@ -6,6 +6,7 @@
     "area_water":771158,
     "geoid":"13047",
     "name":"Catoosa",
+    "ocd_id":"ocd-division/country:us/state:ga/county:catoosa",
     "state":"ga"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"151",
     "geoid":"09151",
     "name":"State House District 151",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:151",
     "state":"ct"
 },
   "bbox": [

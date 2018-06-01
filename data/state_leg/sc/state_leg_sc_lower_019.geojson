@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"45019",
     "name":"State House District HD-019",
+    "ocd_id":"ocd-division/country:us/state:sc/sldl:19",
     "state":"sc"
 },
   "bbox": [

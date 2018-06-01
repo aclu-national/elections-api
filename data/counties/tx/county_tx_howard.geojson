@@ -6,6 +6,7 @@
     "area_water":8841781,
     "geoid":"48227",
     "name":"Howard",
+    "ocd_id":"ocd-division/country:us/state:tx/county:howard",
     "state":"tx"
 },
   "bbox": [

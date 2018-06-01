@@ -6,6 +6,7 @@
     "area_water":40609723,
     "geoid":"45077",
     "name":"Pickens",
+    "ocd_id":"ocd-division/country:us/state:sc/county:pickens",
     "state":"sc"
 },
   "bbox": [

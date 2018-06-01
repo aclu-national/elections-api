@@ -6,6 +6,7 @@
     "area_water":609780,
     "geoid":"51730",
     "name":"Petersburg",
+    "ocd_id":"ocd-division/country:us/state:va/county:petersburg",
     "state":"va"
 },
   "bbox": [

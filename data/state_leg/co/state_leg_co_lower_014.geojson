@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"08014",
     "name":"State House District 14",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:14",
     "state":"co"
 },
   "bbox": [

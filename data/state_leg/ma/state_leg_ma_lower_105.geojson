@@ -8,6 +8,7 @@
     "district_num":"105",
     "geoid":"25105",
     "name":"4th Hampden District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:105",
     "state":"ma"
 },
   "bbox": [

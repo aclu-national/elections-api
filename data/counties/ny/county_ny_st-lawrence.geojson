@@ -6,6 +6,7 @@
     "area_water":367915773,
     "geoid":"36089",
     "name":"St. Lawrence",
+    "ocd_id":"ocd-division/country:us/state:ny/county:st_lawrence",
     "state":"ny"
 },
   "bbox": [

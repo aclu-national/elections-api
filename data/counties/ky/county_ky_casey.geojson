@@ -6,6 +6,7 @@
     "area_water":3892620,
     "geoid":"21045",
     "name":"Casey",
+    "ocd_id":"ocd-division/country:us/state:ky/county:casey",
     "state":"ky"
 },
   "bbox": [

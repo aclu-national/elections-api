@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"42081",
     "name":"State House District 81",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:81",
     "state":"pa"
 },
   "bbox": [

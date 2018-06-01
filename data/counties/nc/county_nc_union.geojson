@@ -6,6 +6,7 @@
     "area_water":20337550,
     "geoid":"37179",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:nc/county:union",
     "state":"nc"
 },
   "bbox": [

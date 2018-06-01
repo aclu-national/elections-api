@@ -8,6 +8,7 @@
     "district_num":"118",
     "geoid":"17118",
     "name":"State House District 118",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:118",
     "state":"il"
 },
   "bbox": [

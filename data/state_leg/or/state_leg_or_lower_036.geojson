@@ -8,6 +8,7 @@
     "district_num":"036",
     "geoid":"41036",
     "name":"State House District 36",
+    "ocd_id":"ocd-division/country:us/state:or/sldl:36",
     "state":"or"
 },
   "bbox": [

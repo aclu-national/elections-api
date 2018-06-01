@@ -8,6 +8,7 @@
     "district_num":"010",
     "geoid":"04010",
     "name":"State House District 10",
+    "ocd_id":"ocd-division/country:us/state:az/sldl:10",
     "state":"az"
 },
   "bbox": [

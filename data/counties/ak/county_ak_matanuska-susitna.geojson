@@ -6,6 +6,7 @@
     "area_water":1704714297,
     "geoid":"02170",
     "name":"Matanuska-Susitna",
+    "ocd_id":"ocd-division/country:us/state:ak/county:matanuska_susitna",
     "state":"ak"
 },
   "bbox": [

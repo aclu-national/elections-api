@@ -6,6 +6,7 @@
     "area_water":4863725,
     "geoid":"17159",
     "name":"Richland",
+    "ocd_id":"ocd-division/country:us/state:il/county:richland",
     "state":"il"
 },
   "bbox": [

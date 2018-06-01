@@ -6,6 +6,7 @@
     "area_water":300844721,
     "geoid":"12111",
     "name":"St. Lucie",
+    "ocd_id":"ocd-division/country:us/state:fl/county:st_lucie",
     "state":"fl"
 },
   "bbox": [

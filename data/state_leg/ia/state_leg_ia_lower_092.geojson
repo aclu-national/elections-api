@@ -8,6 +8,7 @@
     "district_num":"092",
     "geoid":"19092",
     "name":"State House District 92",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:92",
     "state":"ia"
 },
   "bbox": [

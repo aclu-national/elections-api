@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"25060",
     "name":"1st Barnstable District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:60",
     "state":"ma"
 },
   "bbox": [

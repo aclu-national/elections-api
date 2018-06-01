@@ -6,6 +6,7 @@
     "area_water":3995238,
     "geoid":"16071",
     "name":"Oneida",
+    "ocd_id":"ocd-division/country:us/state:id/county:oneida",
     "state":"id"
 },
   "bbox": [

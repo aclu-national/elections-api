@@ -6,6 +6,7 @@
     "area_water":22609680,
     "geoid":"01099",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:al/county:monroe",
     "state":"al"
 },
   "bbox": [

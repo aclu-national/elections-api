@@ -6,6 +6,7 @@
     "area_water":1190236349,
     "geoid":"55101",
     "name":"Racine",
+    "ocd_id":"ocd-division/country:us/state:wi/county:racine",
     "state":"wi"
 },
   "bbox": [

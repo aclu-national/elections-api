@@ -6,6 +6,7 @@
     "area_water":4330881,
     "geoid":"01057",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:al/county:fayette",
     "state":"al"
 },
   "bbox": [

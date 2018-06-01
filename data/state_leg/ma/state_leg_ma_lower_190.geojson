@@ -8,6 +8,7 @@
     "district_num":"190",
     "geoid":"25190",
     "name":"7th Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:190",
     "state":"ma"
 },
   "bbox": [

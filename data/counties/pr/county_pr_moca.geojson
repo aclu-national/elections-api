@@ -6,6 +6,7 @@
     "area_water":56474,
     "geoid":"72099",
     "name":"Moca",
+    "ocd_id":"ocd-division/country:us/state:pr/county:moca",
     "state":"pr"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":3093435,
     "geoid":"47127",
     "name":"Moore",
+    "ocd_id":"ocd-division/country:us/state:tn/county:moore",
     "state":"tn"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"020",
     "geoid":"06020",
     "name":"Assembly District 20",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:20",
     "state":"ca"
 },
   "bbox": [

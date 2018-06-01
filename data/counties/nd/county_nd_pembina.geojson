@@ -6,6 +6,7 @@
     "area_water":7010908,
     "geoid":"38067",
     "name":"Pembina",
+    "ocd_id":"ocd-division/country:us/state:nd/county:pembina",
     "state":"nd"
 },
   "bbox": [

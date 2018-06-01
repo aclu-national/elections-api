@@ -6,6 +6,7 @@
     "area_water":99517524,
     "geoid":"27163",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:mn/county:washington",
     "state":"mn"
 },
   "bbox": [

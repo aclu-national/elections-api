@@ -8,6 +8,7 @@
     "district_num":"068",
     "geoid":"49068",
     "name":"State House District 68",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:68",
     "state":"ut"
 },
   "bbox": [

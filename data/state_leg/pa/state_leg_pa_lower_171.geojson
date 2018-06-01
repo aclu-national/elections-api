@@ -8,6 +8,7 @@
     "district_num":"171",
     "geoid":"42171",
     "name":"State House District 171",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:171",
     "state":"pa"
 },
   "bbox": [

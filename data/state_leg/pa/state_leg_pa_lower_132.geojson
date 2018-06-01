@@ -8,6 +8,7 @@
     "district_num":"132",
     "geoid":"42132",
     "name":"State House District 132",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:132",
     "state":"pa"
 },
   "bbox": [

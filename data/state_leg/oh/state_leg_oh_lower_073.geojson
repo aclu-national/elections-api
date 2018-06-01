@@ -8,6 +8,7 @@
     "district_num":"073",
     "geoid":"39073",
     "name":"State House District 73",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:73",
     "state":"oh"
 },
   "bbox": [

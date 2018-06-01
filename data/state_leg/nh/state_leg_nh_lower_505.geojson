@@ -8,6 +8,7 @@
     "district_num":"505",
     "geoid":"33505",
     "name":"State House District Hillsborough County No. 5",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:505",
     "state":"nh"
 },
   "bbox": [

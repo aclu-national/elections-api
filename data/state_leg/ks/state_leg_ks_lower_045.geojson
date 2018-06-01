@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"20045",
     "name":"State House District 45",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:45",
     "state":"ks"
 },
   "bbox": [

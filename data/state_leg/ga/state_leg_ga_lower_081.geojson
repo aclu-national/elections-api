@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"13081",
     "name":"State House District 81",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:81",
     "state":"ga"
 },
   "bbox": [

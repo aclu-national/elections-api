@@ -6,6 +6,7 @@
     "area_water":7046286,
     "geoid":"34039",
     "name":"Union",
+    "ocd_id":"ocd-division/country:us/state:nj/county:union",
     "state":"nj"
 },
   "bbox": [

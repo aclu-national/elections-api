@@ -8,6 +8,7 @@
     "district_num":"030",
     "geoid":"25030",
     "name":"Norfolk & Suffolk District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:30",
     "state":"ma"
 },
   "bbox": [

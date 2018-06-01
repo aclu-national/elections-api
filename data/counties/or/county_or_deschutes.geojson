@@ -6,6 +6,7 @@
     "area_water":94755758,
     "geoid":"41017",
     "name":"Deschutes",
+    "ocd_id":"ocd-division/country:us/state:or/county:deschutes",
     "state":"or"
 },
   "bbox": [

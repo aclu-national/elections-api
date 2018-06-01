@@ -6,6 +6,7 @@
     "area_water":7426329,
     "geoid":"18049",
     "name":"Fulton",
+    "ocd_id":"ocd-division/country:us/state:in/county:fulton",
     "state":"in"
 },
   "bbox": [

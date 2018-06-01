@@ -6,6 +6,7 @@
     "area_water":5145714,
     "geoid":"37175",
     "name":"Transylvania",
+    "ocd_id":"ocd-division/country:us/state:nc/county:transylvania",
     "state":"nc"
 },
   "bbox": [

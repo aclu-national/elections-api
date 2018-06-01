@@ -6,6 +6,7 @@
     "area_water":3384471850,
     "geoid":"46",
     "name":"South Dakota",
+    "ocd_id":"ocd-division/country:us/state:sd",
     "state":"sd"
 },
   "bbox": [

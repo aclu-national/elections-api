@@ -6,6 +6,7 @@
     "area_water":120422420,
     "geoid":"36043",
     "name":"Herkimer",
+    "ocd_id":"ocd-division/country:us/state:ny/county:herkimer",
     "state":"ny"
 },
   "bbox": [

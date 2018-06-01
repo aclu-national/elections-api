@@ -6,6 +6,7 @@
     "area_water":6380767,
     "geoid":"28017",
     "name":"Chickasaw",
+    "ocd_id":"ocd-division/country:us/state:ms/county:chickasaw",
     "state":"ms"
 },
   "bbox": [

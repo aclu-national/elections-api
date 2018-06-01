@@ -6,6 +6,7 @@
     "area_water":11434005,
     "geoid":"29053",
     "name":"Cooper",
+    "ocd_id":"ocd-division/country:us/state:mo/county:cooper",
     "state":"mo"
 },
   "bbox": [

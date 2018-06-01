@@ -6,6 +6,7 @@
     "area_water":30223915,
     "geoid":"18051",
     "name":"Gibson",
+    "ocd_id":"ocd-division/country:us/state:in/county:gibson",
     "state":"in"
 },
   "bbox": [

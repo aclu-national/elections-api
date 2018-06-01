@@ -6,6 +6,7 @@
     "area_water":15661281,
     "geoid":"01113",
     "name":"Russell",
+    "ocd_id":"ocd-division/country:us/state:al/county:russell",
     "state":"al"
 },
   "bbox": [

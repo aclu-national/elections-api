@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"25017",
     "name":"Norfolk, Bristol & Middlesex District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldu:17",
     "state":"ma"
 },
   "bbox": [

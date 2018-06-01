@@ -6,6 +6,7 @@
     "area_water":16904945,
     "geoid":"12007",
     "name":"Bradford",
+    "ocd_id":"ocd-division/country:us/state:fl/county:bradford",
     "state":"fl"
 },
   "bbox": [

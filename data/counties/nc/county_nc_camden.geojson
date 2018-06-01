@@ -6,6 +6,7 @@
     "area_water":181112904,
     "geoid":"37029",
     "name":"Camden",
+    "ocd_id":"ocd-division/country:us/state:nc/county:camden",
     "state":"nc"
 },
   "bbox": [

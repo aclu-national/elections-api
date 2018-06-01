@@ -6,6 +6,7 @@
     "area_water":6084693,
     "geoid":"21165",
     "name":"Menifee",
+    "ocd_id":"ocd-division/country:us/state:ky/county:menifee",
     "state":"ky"
 },
   "bbox": [

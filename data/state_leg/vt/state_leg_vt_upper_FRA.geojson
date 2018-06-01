@@ -8,6 +8,7 @@
     "district_num":"FRA",
     "geoid":"50FRA",
     "name":"Franklin State Senate District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldu:FRA",
     "state":"vt"
 },
   "bbox": [

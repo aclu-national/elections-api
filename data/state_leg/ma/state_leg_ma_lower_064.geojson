@@ -8,6 +8,7 @@
     "district_num":"064",
     "geoid":"25064",
     "name":"Barnstable, Dukes & Nantucket District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:64",
     "state":"ma"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":10017670,
     "geoid":"21079",
     "name":"Garrard",
+    "ocd_id":"ocd-division/country:us/state:ky/county:garrard",
     "state":"ky"
 },
   "bbox": [

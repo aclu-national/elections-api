@@ -8,6 +8,7 @@
     "district_num":"047",
     "geoid":"49047",
     "name":"State House District 47",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:47",
     "state":"ut"
 },
   "bbox": [

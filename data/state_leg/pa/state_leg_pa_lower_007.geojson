@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"42007",
     "name":"State House District 7",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:7",
     "state":"pa"
 },
   "bbox": [

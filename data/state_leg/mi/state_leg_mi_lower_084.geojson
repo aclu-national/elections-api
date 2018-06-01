@@ -8,6 +8,7 @@
     "district_num":"084",
     "geoid":"26084",
     "name":"State House District 84",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:84",
     "state":"mi"
 },
   "bbox": [

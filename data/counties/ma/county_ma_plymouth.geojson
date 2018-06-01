@@ -6,6 +6,7 @@
     "area_water":1125276862,
     "geoid":"25023",
     "name":"Plymouth",
+    "ocd_id":"ocd-division/country:us/state:ma/county:plymouth",
     "state":"ma"
 },
   "bbox": [

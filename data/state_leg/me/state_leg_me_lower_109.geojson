@@ -8,6 +8,7 @@
     "district_num":"109",
     "geoid":"23109",
     "name":"State House District 109",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:109",
     "state":"me"
 },
   "bbox": [

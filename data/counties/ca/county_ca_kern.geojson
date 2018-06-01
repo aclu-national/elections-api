@@ -6,6 +6,7 @@
     "area_water":78770534,
     "geoid":"06029",
     "name":"Kern",
+    "ocd_id":"ocd-division/country:us/state:ca/county:kern",
     "state":"ca"
 },
   "bbox": [

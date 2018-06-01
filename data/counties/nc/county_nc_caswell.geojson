@@ -6,6 +6,7 @@
     "area_water":8643882,
     "geoid":"37033",
     "name":"Caswell",
+    "ocd_id":"ocd-division/country:us/state:nc/county:caswell",
     "state":"nc"
 },
   "bbox": [

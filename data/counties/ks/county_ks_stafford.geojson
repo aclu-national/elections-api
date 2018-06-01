@@ -6,6 +6,7 @@
     "area_water":7435417,
     "geoid":"20185",
     "name":"Stafford",
+    "ocd_id":"ocd-division/country:us/state:ks/county:stafford",
     "state":"ks"
 },
   "bbox": [

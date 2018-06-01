@@ -6,6 +6,7 @@
     "area_water":4347639,
     "geoid":"19185",
     "name":"Wayne",
+    "ocd_id":"ocd-division/country:us/state:ia/county:wayne",
     "state":"ia"
 },
   "bbox": [

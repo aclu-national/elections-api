@@ -8,6 +8,7 @@
     "district_num":"44B",
     "geoid":"2444B",
     "name":"State Legislative Subdistrict 44B",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:44B",
     "state":"md"
 },
   "bbox": [

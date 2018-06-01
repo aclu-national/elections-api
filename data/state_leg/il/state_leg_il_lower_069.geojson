@@ -8,6 +8,7 @@
     "district_num":"069",
     "geoid":"17069",
     "name":"State House District 69",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:69",
     "state":"il"
 },
   "bbox": [

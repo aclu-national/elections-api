@@ -6,6 +6,7 @@
     "area_water":23178794,
     "geoid":"42035",
     "name":"Clinton",
+    "ocd_id":"ocd-division/country:us/state:pa/county:clinton",
     "state":"pa"
 },
   "bbox": [

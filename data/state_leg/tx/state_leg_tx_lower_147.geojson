@@ -8,6 +8,7 @@
     "district_num":"147",
     "geoid":"48147",
     "name":"State House District 147",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:147",
     "state":"tx"
 },
   "bbox": [

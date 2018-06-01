@@ -6,6 +6,7 @@
     "area_water":2777350,
     "geoid":"20175",
     "name":"Seward",
+    "ocd_id":"ocd-division/country:us/state:ks/county:seward",
     "state":"ks"
 },
   "bbox": [

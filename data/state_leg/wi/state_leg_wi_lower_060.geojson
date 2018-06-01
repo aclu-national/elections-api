@@ -8,6 +8,7 @@
     "district_num":"060",
     "geoid":"55060",
     "name":"Assembly District 60",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:60",
     "state":"wi"
 },
   "bbox": [

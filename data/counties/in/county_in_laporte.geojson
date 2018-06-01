@@ -6,6 +6,7 @@
     "area_water":38751745,
     "geoid":"18091",
     "name":"LaPorte",
+    "ocd_id":"ocd-division/country:us/state:in/county:laporte",
     "state":"in"
 },
   "bbox": [

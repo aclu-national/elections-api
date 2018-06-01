@@ -6,6 +6,7 @@
     "area_water":1505157,
     "geoid":"21237",
     "name":"Wolfe",
+    "ocd_id":"ocd-division/country:us/state:ky/county:wolfe",
     "state":"ky"
 },
   "bbox": [

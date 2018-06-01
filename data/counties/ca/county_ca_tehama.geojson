@@ -6,6 +6,7 @@
     "area_water":33767784,
     "geoid":"06103",
     "name":"Tehama",
+    "ocd_id":"ocd-division/country:us/state:ca/county:tehama",
     "state":"ca"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":13928460,
     "geoid":"16067",
     "name":"Minidoka",
+    "ocd_id":"ocd-division/country:us/state:id/county:minidoka",
     "state":"id"
 },
   "bbox": [

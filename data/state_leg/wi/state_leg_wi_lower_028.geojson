@@ -8,6 +8,7 @@
     "district_num":"028",
     "geoid":"55028",
     "name":"Assembly District 28",
+    "ocd_id":"ocd-division/country:us/state:wi/sldl:28",
     "state":"wi"
 },
   "bbox": [

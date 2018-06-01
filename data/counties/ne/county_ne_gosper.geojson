@@ -6,6 +6,7 @@
     "area_water":11831826,
     "geoid":"31073",
     "name":"Gosper",
+    "ocd_id":"ocd-division/country:us/state:ne/county:gosper",
     "state":"ne"
 },
   "bbox": [

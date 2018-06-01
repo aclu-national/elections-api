@@ -8,6 +8,7 @@
     "district_num":"137",
     "geoid":"48137",
     "name":"State House District 137",
+    "ocd_id":"ocd-division/country:us/state:tx/sldl:137",
     "state":"tx"
 },
   "bbox": [

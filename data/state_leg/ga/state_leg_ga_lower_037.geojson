@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"13037",
     "name":"State House District 37",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:37",
     "state":"ga"
 },
   "bbox": [

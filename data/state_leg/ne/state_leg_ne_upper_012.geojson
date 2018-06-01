@@ -8,6 +8,7 @@
     "district_num":"012",
     "geoid":"31012",
     "name":"State Senate District 12",
+    "ocd_id":"ocd-division/country:us/state:ne/sldu:12",
     "state":"ne"
 },
   "bbox": [

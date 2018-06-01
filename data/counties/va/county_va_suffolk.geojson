@@ -6,6 +6,7 @@
     "area_water":77061968,
     "geoid":"51800",
     "name":"Suffolk",
+    "ocd_id":"ocd-division/country:us/state:va/county:suffolk",
     "state":"va"
 },
   "bbox": [

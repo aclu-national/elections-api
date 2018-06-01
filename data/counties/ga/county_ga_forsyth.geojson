@@ -6,6 +6,7 @@
     "area_water":59439960,
     "geoid":"13117",
     "name":"Forsyth",
+    "ocd_id":"ocd-division/country:us/state:ga/county:forsyth",
     "state":"ga"
 },
   "bbox": [

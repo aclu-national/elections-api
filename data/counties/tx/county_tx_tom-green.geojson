@@ -6,6 +6,7 @@
     "area_water":48077315,
     "geoid":"48451",
     "name":"Tom Green",
+    "ocd_id":"ocd-division/country:us/state:tx/county:tom_green",
     "state":"tx"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":28088013,
     "geoid":"51179",
     "name":"Stafford",
+    "ocd_id":"ocd-division/country:us/state:va/county:stafford",
     "state":"va"
 },
   "bbox": [

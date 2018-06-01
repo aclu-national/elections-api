@@ -8,6 +8,7 @@
     "district_num":"052",
     "geoid":"06052",
     "name":"Assembly District 52",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:52",
     "state":"ca"
 },
   "bbox": [

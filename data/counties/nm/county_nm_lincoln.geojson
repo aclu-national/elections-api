@@ -6,6 +6,7 @@
     "area_water":554703,
     "geoid":"35027",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:nm/county:lincoln",
     "state":"nm"
 },
   "bbox": [

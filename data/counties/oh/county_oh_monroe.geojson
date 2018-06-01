@@ -6,6 +6,7 @@
     "area_water":4495382,
     "geoid":"39111",
     "name":"Monroe",
+    "ocd_id":"ocd-division/country:us/state:oh/county:monroe",
     "state":"oh"
 },
   "bbox": [

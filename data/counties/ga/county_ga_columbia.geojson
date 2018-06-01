@@ -6,6 +6,7 @@
     "area_water":45373097,
     "geoid":"13073",
     "name":"Columbia",
+    "ocd_id":"ocd-division/country:us/state:ga/county:columbia",
     "state":"ga"
 },
   "bbox": [

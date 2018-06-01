@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"47024",
     "name":"State House District 24",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:24",
     "state":"tn"
 },
   "bbox": [

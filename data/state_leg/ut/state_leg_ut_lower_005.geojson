@@ -8,6 +8,7 @@
     "district_num":"005",
     "geoid":"49005",
     "name":"State House District 5",
+    "ocd_id":"ocd-division/country:us/state:ut/sldl:5",
     "state":"ut"
 },
   "bbox": [

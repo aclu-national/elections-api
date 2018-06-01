@@ -6,6 +6,7 @@
     "area_water":8874334,
     "geoid":"36015",
     "name":"Chemung",
+    "ocd_id":"ocd-division/country:us/state:ny/county:chemung",
     "state":"ny"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":57617298,
     "geoid":"33005",
     "name":"Cheshire",
+    "ocd_id":"ocd-division/country:us/state:nh/county:cheshire",
     "state":"nh"
 },
   "bbox": [

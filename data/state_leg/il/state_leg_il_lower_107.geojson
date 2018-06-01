@@ -8,6 +8,7 @@
     "district_num":"107",
     "geoid":"17107",
     "name":"State House District 107",
+    "ocd_id":"ocd-division/country:us/state:il/sldl:107",
     "state":"il"
 },
   "bbox": [

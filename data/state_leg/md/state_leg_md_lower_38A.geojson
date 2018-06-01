@@ -8,6 +8,7 @@
     "district_num":"38A",
     "geoid":"2438A",
     "name":"State Legislative Subdistrict 38A",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:38A",
     "state":"md"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":21597586,
     "geoid":"39091",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:oh/county:logan",
     "state":"oh"
 },
   "bbox": [

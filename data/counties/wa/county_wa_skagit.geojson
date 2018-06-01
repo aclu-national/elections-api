@@ -6,6 +6,7 @@
     "area_water":484058876,
     "geoid":"53057",
     "name":"Skagit",
+    "ocd_id":"ocd-division/country:us/state:wa/county:skagit",
     "state":"wa"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"045",
     "geoid":"09045",
     "name":"State House District 45",
+    "ocd_id":"ocd-division/country:us/state:ct/sldl:45",
     "state":"ct"
 },
   "bbox": [

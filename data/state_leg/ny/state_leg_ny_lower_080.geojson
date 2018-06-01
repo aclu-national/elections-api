@@ -8,6 +8,7 @@
     "district_num":"080",
     "geoid":"36080",
     "name":"Assembly District 80",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:80",
     "state":"ny"
 },
   "bbox": [

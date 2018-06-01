@@ -6,6 +6,7 @@
     "area_water":30591264,
     "geoid":"26111",
     "name":"Midland",
+    "ocd_id":"ocd-division/country:us/state:mi/county:midland",
     "state":"mi"
 },
   "bbox": [

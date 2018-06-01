@@ -6,6 +6,7 @@
     "area_water":11208707,
     "geoid":"48507",
     "name":"Zavala",
+    "ocd_id":"ocd-division/country:us/state:tx/county:zavala",
     "state":"tx"
 },
   "bbox": [

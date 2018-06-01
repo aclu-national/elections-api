@@ -6,6 +6,7 @@
     "area_water":27167485,
     "geoid":"31141",
     "name":"Platte",
+    "ocd_id":"ocd-division/country:us/state:ne/county:platte",
     "state":"ne"
 },
   "bbox": [

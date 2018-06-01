@@ -8,6 +8,7 @@
     "district_num":"051",
     "geoid":"21051",
     "name":"State House District 51",
+    "ocd_id":"ocd-division/country:us/state:ky/sldl:51",
     "state":"ky"
 },
   "bbox": [

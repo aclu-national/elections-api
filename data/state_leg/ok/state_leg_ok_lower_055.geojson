@@ -8,6 +8,7 @@
     "district_num":"055",
     "geoid":"40055",
     "name":"State House District 55",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:55",
     "state":"ok"
 },
   "bbox": [

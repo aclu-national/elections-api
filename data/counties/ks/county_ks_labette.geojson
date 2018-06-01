@@ -6,6 +6,7 @@
     "area_water":20263208,
     "geoid":"20099",
     "name":"Labette",
+    "ocd_id":"ocd-division/country:us/state:ks/county:labette",
     "state":"ks"
 },
   "bbox": [

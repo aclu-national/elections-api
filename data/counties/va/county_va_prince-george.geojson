@@ -6,6 +6,7 @@
     "area_water":43184612,
     "geoid":"51149",
     "name":"Prince George",
+    "ocd_id":"ocd-division/country:us/state:va/county:prince_george",
     "state":"va"
 },
   "bbox": [

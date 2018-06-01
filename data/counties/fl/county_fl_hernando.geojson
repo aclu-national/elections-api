@@ -6,6 +6,7 @@
     "area_water":300863005,
     "geoid":"12053",
     "name":"Hernando",
+    "ocd_id":"ocd-division/country:us/state:fl/county:hernando",
     "state":"fl"
 },
   "bbox": [

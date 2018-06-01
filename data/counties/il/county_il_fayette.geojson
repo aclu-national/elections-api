@@ -6,6 +6,7 @@
     "area_water":22942188,
     "geoid":"17051",
     "name":"Fayette",
+    "ocd_id":"ocd-division/country:us/state:il/county:fayette",
     "state":"il"
 },
   "bbox": [

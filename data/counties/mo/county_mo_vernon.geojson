@@ -6,6 +6,7 @@
     "area_water":27015775,
     "geoid":"29217",
     "name":"Vernon",
+    "ocd_id":"ocd-division/country:us/state:mo/county:vernon",
     "state":"mo"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"014",
     "geoid":"44014",
     "name":"State House District 14",
+    "ocd_id":"ocd-division/country:us/state:ri/sldl:14",
     "state":"ri"
 },
   "bbox": [

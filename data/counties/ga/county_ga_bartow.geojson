@@ -6,6 +6,7 @@
     "area_water":27368202,
     "geoid":"13015",
     "name":"Bartow",
+    "ocd_id":"ocd-division/country:us/state:ga/county:bartow",
     "state":"ga"
 },
   "bbox": [

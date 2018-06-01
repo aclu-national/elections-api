@@ -6,6 +6,7 @@
     "area_water":32492720,
     "geoid":"21135",
     "name":"Lewis",
+    "ocd_id":"ocd-division/country:us/state:ky/county:lewis",
     "state":"ky"
 },
   "bbox": [

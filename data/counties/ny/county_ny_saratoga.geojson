@@ -6,6 +6,7 @@
     "area_water":87571838,
     "geoid":"36091",
     "name":"Saratoga",
+    "ocd_id":"ocd-division/country:us/state:ny/county:saratoga",
     "state":"ny"
 },
   "bbox": [

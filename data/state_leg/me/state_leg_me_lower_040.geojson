@@ -8,6 +8,7 @@
     "district_num":"040",
     "geoid":"23040",
     "name":"State House District 40",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:40",
     "state":"me"
 },
   "bbox": [

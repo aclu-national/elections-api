@@ -8,6 +8,7 @@
     "district_num":"057",
     "geoid":"06057",
     "name":"Assembly District 57",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:57",
     "state":"ca"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":64084949,
     "geoid":"21075",
     "name":"Fulton",
+    "ocd_id":"ocd-division/country:us/state:ky/county:fulton",
     "state":"ky"
 },
   "bbox": [

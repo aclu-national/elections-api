@@ -6,6 +6,7 @@
     "area_water":18944967530,
     "geoid":"27",
     "name":"Minnesota",
+    "ocd_id":"ocd-division/country:us/state:mn",
     "state":"mn"
 },
   "bbox": [

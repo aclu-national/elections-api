@@ -6,6 +6,7 @@
     "area_water":1270736099,
     "geoid":"06053",
     "name":"Monterey",
+    "ocd_id":"ocd-division/country:us/state:ca/county:monterey",
     "state":"ca"
 },
   "bbox": [

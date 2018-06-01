@@ -6,6 +6,7 @@
     "area_water":19717343,
     "geoid":"13275",
     "name":"Thomas",
+    "ocd_id":"ocd-division/country:us/state:ga/county:thomas",
     "state":"ga"
 },
   "bbox": [

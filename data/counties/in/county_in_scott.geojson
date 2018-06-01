@@ -6,6 +6,7 @@
     "area_water":6088999,
     "geoid":"18143",
     "name":"Scott",
+    "ocd_id":"ocd-division/country:us/state:in/county:scott",
     "state":"in"
 },
   "bbox": [

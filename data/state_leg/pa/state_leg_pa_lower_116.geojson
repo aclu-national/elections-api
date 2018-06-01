@@ -8,6 +8,7 @@
     "district_num":"116",
     "geoid":"42116",
     "name":"State House District 116",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:116",
     "state":"pa"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"20B",
     "geoid":"2720B",
     "name":"State House District 20B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:20B",
     "state":"mn"
 },
   "bbox": [

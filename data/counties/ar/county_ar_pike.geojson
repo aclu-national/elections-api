@@ -6,6 +6,7 @@
     "area_water":34989238,
     "geoid":"05109",
     "name":"Pike",
+    "ocd_id":"ocd-division/country:us/state:ar/county:pike",
     "state":"ar"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"003",
     "geoid":"37003",
     "name":"State House District 3",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:3",
     "state":"nc"
 },
   "bbox": [

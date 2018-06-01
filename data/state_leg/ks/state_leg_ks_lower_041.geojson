@@ -8,6 +8,7 @@
     "district_num":"041",
     "geoid":"20041",
     "name":"State House District 41",
+    "ocd_id":"ocd-division/country:us/state:ks/sldl:41",
     "state":"ks"
 },
   "bbox": [

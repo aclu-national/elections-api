@@ -6,6 +6,7 @@
     "area_water":8545541,
     "geoid":"39173",
     "name":"Wood",
+    "ocd_id":"ocd-division/country:us/state:oh/county:wood",
     "state":"oh"
 },
   "bbox": [

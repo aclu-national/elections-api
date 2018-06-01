@@ -6,6 +6,7 @@
     "area_water":8834348,
     "geoid":"17095",
     "name":"Knox",
+    "ocd_id":"ocd-division/country:us/state:il/county:knox",
     "state":"il"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"196",
     "geoid":"42196",
     "name":"State House District 196",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:196",
     "state":"pa"
 },
   "bbox": [

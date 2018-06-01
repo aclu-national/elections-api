@@ -6,6 +6,7 @@
     "area_water":180102277,
     "geoid":"38057",
     "name":"Mercer",
+    "ocd_id":"ocd-division/country:us/state:nd/county:mercer",
     "state":"nd"
 },
   "bbox": [

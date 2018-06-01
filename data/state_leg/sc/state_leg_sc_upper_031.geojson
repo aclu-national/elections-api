@@ -8,6 +8,7 @@
     "district_num":"031",
     "geoid":"45031",
     "name":"State Senate District 31",
+    "ocd_id":"ocd-division/country:us/state:sc/sldu:31",
     "state":"sc"
 },
   "bbox": [

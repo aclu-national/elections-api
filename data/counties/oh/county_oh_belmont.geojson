@@ -6,6 +6,7 @@
     "area_water":23682282,
     "geoid":"39013",
     "name":"Belmont",
+    "ocd_id":"ocd-division/country:us/state:oh/county:belmont",
     "state":"oh"
 },
   "bbox": [

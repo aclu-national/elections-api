@@ -6,6 +6,7 @@
     "area_water":54690951,
     "geoid":"40137",
     "name":"Stephens",
+    "ocd_id":"ocd-division/country:us/state:ok/county:stephens",
     "state":"ok"
 },
   "bbox": [

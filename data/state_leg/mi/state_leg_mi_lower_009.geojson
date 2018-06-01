@@ -8,6 +8,7 @@
     "district_num":"009",
     "geoid":"26009",
     "name":"State House District 9",
+    "ocd_id":"ocd-division/country:us/state:mi/sldl:9",
     "state":"mi"
 },
   "bbox": [

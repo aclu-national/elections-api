@@ -6,6 +6,7 @@
     "area_water":64225067,
     "geoid":"17119",
     "name":"Madison",
+    "ocd_id":"ocd-division/country:us/state:il/county:madison",
     "state":"il"
 },
   "bbox": [

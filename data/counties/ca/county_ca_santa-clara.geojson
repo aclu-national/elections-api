@@ -6,6 +6,7 @@
     "area_water":33276429,
     "geoid":"06085",
     "name":"Santa Clara",
+    "ocd_id":"ocd-division/country:us/state:ca/county:santa_clara",
     "state":"ca"
 },
   "bbox": [

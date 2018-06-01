@@ -6,6 +6,7 @@
     "area_water":4944578,
     "geoid":"08119",
     "name":"Teller",
+    "ocd_id":"ocd-division/country:us/state:co/county:teller",
     "state":"co"
 },
   "bbox": [

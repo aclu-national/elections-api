@@ -6,6 +6,7 @@
     "area_water":5208983,
     "geoid":"20131",
     "name":"Nemaha",
+    "ocd_id":"ocd-division/country:us/state:ks/county:nemaha",
     "state":"ks"
 },
   "bbox": [

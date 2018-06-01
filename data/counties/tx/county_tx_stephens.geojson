@@ -6,6 +6,7 @@
     "area_water":64152295,
     "geoid":"48429",
     "name":"Stephens",
+    "ocd_id":"ocd-division/country:us/state:tx/county:stephens",
     "state":"tx"
 },
   "bbox": [

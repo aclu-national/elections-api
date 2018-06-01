@@ -6,6 +6,7 @@
     "area_water":98310686,
     "geoid":"55011",
     "name":"Buffalo",
+    "ocd_id":"ocd-division/country:us/state:wi/county:buffalo",
     "state":"wi"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":50967324,
     "geoid":"38103",
     "name":"Wells",
+    "ocd_id":"ocd-division/country:us/state:nd/county:wells",
     "state":"nd"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":13774839669,
     "geoid":"02180",
     "name":"Nome",
+    "ocd_id":"ocd-division/country:us/state:ak/county:nome",
     "state":"ak"
 },
   "bbox": [

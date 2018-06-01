@@ -8,6 +8,7 @@
     "district_num":"Y-5",
     "geoid":"50Y-5",
     "name":"Windsor-5 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:Y-5",
     "state":"vt"
 },
   "bbox": [

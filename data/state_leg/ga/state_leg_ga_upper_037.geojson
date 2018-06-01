@@ -8,6 +8,7 @@
     "district_num":"037",
     "geoid":"13037",
     "name":"State Senate District 37",
+    "ocd_id":"ocd-division/country:us/state:ga/sldu:37",
     "state":"ga"
 },
   "bbox": [

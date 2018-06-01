@@ -6,6 +6,7 @@
     "area_water":9802713,
     "geoid":"32017",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:nv/county:lincoln",
     "state":"nv"
 },
   "bbox": [

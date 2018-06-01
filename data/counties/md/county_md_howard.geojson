@@ -6,6 +6,7 @@
     "area_water":6345542,
     "geoid":"24027",
     "name":"Howard",
+    "ocd_id":"ocd-division/country:us/state:md/county:howard",
     "state":"md"
 },
   "bbox": [

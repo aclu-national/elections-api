@@ -6,6 +6,7 @@
     "area_water":70033883,
     "geoid":"38063",
     "name":"Nelson",
+    "ocd_id":"ocd-division/country:us/state:nd/county:nelson",
     "state":"nd"
 },
   "bbox": [

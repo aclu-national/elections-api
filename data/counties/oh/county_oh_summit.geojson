@@ -6,6 +6,7 @@
     "area_water":18948340,
     "geoid":"39153",
     "name":"Summit",
+    "ocd_id":"ocd-division/country:us/state:oh/county:summit",
     "state":"oh"
 },
   "bbox": [

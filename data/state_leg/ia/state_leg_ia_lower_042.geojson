@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"19042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:ia/sldl:42",
     "state":"ia"
 },
   "bbox": [

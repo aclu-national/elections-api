@@ -6,6 +6,7 @@
     "area_water":32543978,
     "geoid":"47073",
     "name":"Hawkins",
+    "ocd_id":"ocd-division/country:us/state:tn/county:hawkins",
     "state":"tn"
 },
   "bbox": [

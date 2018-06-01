@@ -8,6 +8,7 @@
     "district_num":"042",
     "geoid":"51042",
     "name":"State House District 42",
+    "ocd_id":"ocd-division/country:us/state:va/sldl:42",
     "state":"va"
 },
   "bbox": [

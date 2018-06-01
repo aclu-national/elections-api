@@ -8,6 +8,7 @@
     "district_num":"025",
     "geoid":"40025",
     "name":"State Senate District 25",
+    "ocd_id":"ocd-division/country:us/state:ok/sldu:25",
     "state":"ok"
 },
   "bbox": [

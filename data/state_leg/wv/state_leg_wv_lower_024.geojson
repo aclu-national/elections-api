@@ -8,6 +8,7 @@
     "district_num":"024",
     "geoid":"54024",
     "name":"State House District 24",
+    "ocd_id":"ocd-division/country:us/state:wv/sldl:24",
     "state":"wv"
 },
   "bbox": [

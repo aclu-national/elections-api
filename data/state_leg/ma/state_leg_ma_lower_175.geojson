@@ -8,6 +8,7 @@
     "district_num":"175",
     "geoid":"25175",
     "name":"4th Plymouth District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:175",
     "state":"ma"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":19797687,
     "geoid":"29099",
     "name":"Jefferson",
+    "ocd_id":"ocd-division/country:us/state:mo/county:jefferson",
     "state":"mo"
 },
   "bbox": [

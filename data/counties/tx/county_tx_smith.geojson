@@ -6,6 +6,7 @@
     "area_water":73066272,
     "geoid":"48423",
     "name":"Smith",
+    "ocd_id":"ocd-division/country:us/state:tx/county:smith",
     "state":"tx"
 },
   "bbox": [

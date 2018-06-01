@@ -6,6 +6,7 @@
     "area_water":14541547,
     "geoid":"46069",
     "name":"Hyde",
+    "ocd_id":"ocd-division/country:us/state:sd/county:hyde",
     "state":"sd"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":4666514,
     "geoid":"20085",
     "name":"Jackson",
+    "ocd_id":"ocd-division/country:us/state:ks/county:jackson",
     "state":"ks"
 },
   "bbox": [

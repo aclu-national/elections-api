@@ -8,6 +8,7 @@
     "district_num":"16B",
     "geoid":"2716B",
     "name":"State House District 16B",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:16B",
     "state":"mn"
 },
   "bbox": [

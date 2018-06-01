@@ -6,6 +6,7 @@
     "area_water":121369621,
     "geoid":"23007",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:me/county:franklin",
     "state":"me"
 },
   "bbox": [

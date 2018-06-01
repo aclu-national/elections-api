@@ -6,6 +6,7 @@
     "area_water":254112966,
     "geoid":"51103",
     "name":"Lancaster",
+    "ocd_id":"ocd-division/country:us/state:va/county:lancaster",
     "state":"va"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":23746413153,
     "geoid":"22",
     "name":"Louisiana",
+    "ocd_id":"ocd-division/country:us/state:la",
     "state":"la"
 },
   "bbox": [

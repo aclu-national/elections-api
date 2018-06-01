@@ -6,6 +6,7 @@
     "area_water":1600421,
     "geoid":"17045",
     "name":"Edgar",
+    "ocd_id":"ocd-division/country:us/state:il/county:edgar",
     "state":"il"
 },
   "bbox": [

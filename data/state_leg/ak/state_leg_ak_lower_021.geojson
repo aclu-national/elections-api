@@ -8,6 +8,7 @@
     "district_num":"021",
     "geoid":"02021",
     "name":"State House District 21",
+    "ocd_id":"ocd-division/country:us/state:ak/sldl:21",
     "state":"ak"
 },
   "bbox": [

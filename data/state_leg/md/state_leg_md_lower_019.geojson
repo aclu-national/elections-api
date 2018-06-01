@@ -8,6 +8,7 @@
     "district_num":"019",
     "geoid":"24019",
     "name":"State Legislative District 19",
+    "ocd_id":"ocd-division/country:us/state:md/sldl:19",
     "state":"md"
 },
   "bbox": [

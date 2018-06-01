@@ -8,6 +8,7 @@
     "district_num":"135",
     "geoid":"36135",
     "name":"Assembly District 135",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:135",
     "state":"ny"
 },
   "bbox": [

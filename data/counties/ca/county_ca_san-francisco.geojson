@@ -6,6 +6,7 @@
     "area_water":479107241,
     "geoid":"06075",
     "name":"San Francisco",
+    "ocd_id":"ocd-division/country:us/state:ca/county:san_francisco",
     "state":"ca"
 },
   "bbox": [

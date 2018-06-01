@@ -6,6 +6,7 @@
     "area_water":86418272,
     "geoid":"22077",
     "name":"Pointe Coupee",
+    "ocd_id":"ocd-division/country:us/state:la/county:pointe_coupee",
     "state":"la"
 },
   "bbox": [

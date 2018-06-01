@@ -8,6 +8,7 @@
     "district_num":"007",
     "geoid":"56007",
     "name":"State Senate District 7",
+    "ocd_id":"ocd-division/country:us/state:wy/sldu:7",
     "state":"wy"
 },
   "bbox": [

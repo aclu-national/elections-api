@@ -8,6 +8,7 @@
     "district_num":"004",
     "geoid":"54004",
     "name":"State Senate District 4",
+    "ocd_id":"ocd-division/country:us/state:wv/sldu:4",
     "state":"wv"
 },
   "bbox": [

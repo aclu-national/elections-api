@@ -8,6 +8,7 @@
     "district_num":"002",
     "geoid":"06002",
     "name":"Assembly District 2",
+    "ocd_id":"ocd-division/country:us/state:ca/sldl:2",
     "state":"ca"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":32645401,
     "geoid":"01059",
     "name":"Franklin",
+    "ocd_id":"ocd-division/country:us/state:al/county:franklin",
     "state":"al"
 },
   "bbox": [

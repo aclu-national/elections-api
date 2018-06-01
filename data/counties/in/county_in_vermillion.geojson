@@ -6,6 +6,7 @@
     "area_water":7904759,
     "geoid":"18165",
     "name":"Vermillion",
+    "ocd_id":"ocd-division/country:us/state:in/county:vermillion",
     "state":"in"
 },
   "bbox": [

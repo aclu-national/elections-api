@@ -6,6 +6,7 @@
     "area_water":165445738,
     "geoid":"38069",
     "name":"Pierce",
+    "ocd_id":"ocd-division/country:us/state:nd/county:pierce",
     "state":"nd"
 },
   "bbox": [

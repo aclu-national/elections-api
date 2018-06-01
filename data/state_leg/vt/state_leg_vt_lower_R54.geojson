@@ -8,6 +8,7 @@
     "district_num":"R54",
     "geoid":"50R54",
     "name":"Rutland-5-4 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:R54",
     "state":"vt"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"18A",
     "geoid":"2718A",
     "name":"State House District 18A",
+    "ocd_id":"ocd-division/country:us/state:mn/sldl:18A",
     "state":"mn"
 },
   "bbox": [

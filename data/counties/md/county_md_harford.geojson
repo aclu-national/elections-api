@@ -6,6 +6,7 @@
     "area_water":231904976,
     "geoid":"24025",
     "name":"Harford",
+    "ocd_id":"ocd-division/country:us/state:md/county:harford",
     "state":"md"
 },
   "bbox": [

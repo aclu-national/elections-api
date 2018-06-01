@@ -8,6 +8,7 @@
     "district_num":"B-4",
     "geoid":"50B-4",
     "name":"Bennington-4 State House District",
+    "ocd_id":"ocd-division/country:us/state:vt/sldl:B-4",
     "state":"vt"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":28997739,
     "geoid":"26137",
     "name":"Otsego",
+    "ocd_id":"ocd-division/country:us/state:mi/county:otsego",
     "state":"mi"
 },
   "bbox": [

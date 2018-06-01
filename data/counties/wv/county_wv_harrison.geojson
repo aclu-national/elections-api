@@ -6,6 +6,7 @@
     "area_water":1320319,
     "geoid":"54033",
     "name":"Harrison",
+    "ocd_id":"ocd-division/country:us/state:wv/county:harrison",
     "state":"wv"
 },
   "bbox": [

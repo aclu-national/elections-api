@@ -6,6 +6,7 @@
     "area_water":3376514,
     "geoid":"19091",
     "name":"Humboldt",
+    "ocd_id":"ocd-division/country:us/state:ia/county:humboldt",
     "state":"ia"
 },
   "bbox": [

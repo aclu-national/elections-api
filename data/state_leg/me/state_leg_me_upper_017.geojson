@@ -8,6 +8,7 @@
     "district_num":"017",
     "geoid":"23017",
     "name":"State Senate District 17",
+    "ocd_id":"ocd-division/country:us/state:me/sldu:17",
     "state":"me"
 },
   "bbox": [

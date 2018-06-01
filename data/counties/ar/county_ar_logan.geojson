@@ -6,6 +6,7 @@
     "area_water":60685645,
     "geoid":"05083",
     "name":"Logan",
+    "ocd_id":"ocd-division/country:us/state:ar/county:logan",
     "state":"ar"
 },
   "bbox": [

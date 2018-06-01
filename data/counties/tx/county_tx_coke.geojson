@@ -6,6 +6,7 @@
     "area_water":42788774,
     "geoid":"48081",
     "name":"Coke",
+    "ocd_id":"ocd-division/country:us/state:tx/county:coke",
     "state":"tx"
 },
   "bbox": [

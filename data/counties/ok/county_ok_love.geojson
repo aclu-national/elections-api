@@ -6,6 +6,7 @@
     "area_water":47493019,
     "geoid":"40085",
     "name":"Love",
+    "ocd_id":"ocd-division/country:us/state:ok/county:love",
     "state":"ok"
 },
   "bbox": [

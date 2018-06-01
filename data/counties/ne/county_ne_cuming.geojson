@@ -6,6 +6,7 @@
     "area_water":10701538,
     "geoid":"31039",
     "name":"Cuming",
+    "ocd_id":"ocd-division/country:us/state:ne/county:cuming",
     "state":"ne"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":246678,
     "geoid":"48189",
     "name":"Hale",
+    "ocd_id":"ocd-division/country:us/state:tx/county:hale",
     "state":"tx"
 },
   "bbox": [

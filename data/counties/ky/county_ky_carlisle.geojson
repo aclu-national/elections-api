@@ -6,6 +6,7 @@
     "area_water":24722530,
     "geoid":"21039",
     "name":"Carlisle",
+    "ocd_id":"ocd-division/country:us/state:ky/county:carlisle",
     "state":"ky"
 },
   "bbox": [

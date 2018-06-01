@@ -8,6 +8,7 @@
     "district_num":"081",
     "geoid":"40081",
     "name":"State House District 81",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:81",
     "state":"ok"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"070",
     "geoid":"35070",
     "name":"State House District 70",
+    "ocd_id":"ocd-division/country:us/state:nm/sldl:70",
     "state":"nm"
 },
   "bbox": [

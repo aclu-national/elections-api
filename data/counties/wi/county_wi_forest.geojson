@@ -6,6 +6,7 @@
     "area_water":83594186,
     "geoid":"55041",
     "name":"Forest",
+    "ocd_id":"ocd-division/country:us/state:wi/county:forest",
     "state":"wi"
 },
   "bbox": [

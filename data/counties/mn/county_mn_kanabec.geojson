@@ -6,6 +6,7 @@
     "area_water":31322650,
     "geoid":"27065",
     "name":"Kanabec",
+    "ocd_id":"ocd-division/country:us/state:mn/county:kanabec",
     "state":"mn"
 },
   "bbox": [

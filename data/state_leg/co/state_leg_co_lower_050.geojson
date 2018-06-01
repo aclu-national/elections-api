@@ -8,6 +8,7 @@
     "district_num":"050",
     "geoid":"08050",
     "name":"State House District 50",
+    "ocd_id":"ocd-division/country:us/state:co/sldl:50",
     "state":"co"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":12489774,
     "geoid":"48335",
     "name":"Mitchell",
+    "ocd_id":"ocd-division/country:us/state:tx/county:mitchell",
     "state":"tx"
 },
   "bbox": [

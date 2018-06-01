@@ -8,6 +8,7 @@
     "district_num":"525",
     "geoid":"33525",
     "name":"State House District Hillsborough County No. 25",
+    "ocd_id":"ocd-division/country:us/state:nh/sldl:525",
     "state":"nh"
 },
   "bbox": [

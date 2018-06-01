@@ -6,6 +6,7 @@
     "area_water":50497756,
     "geoid":"41043",
     "name":"Linn",
+    "ocd_id":"ocd-division/country:us/state:or/county:linn",
     "state":"or"
 },
   "bbox": [

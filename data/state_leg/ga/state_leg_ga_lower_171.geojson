@@ -8,6 +8,7 @@
     "district_num":"171",
     "geoid":"13171",
     "name":"State House District 171",
+    "ocd_id":"ocd-division/country:us/state:ga/sldl:171",
     "state":"ga"
 },
   "bbox": [

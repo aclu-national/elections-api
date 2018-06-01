@@ -8,6 +8,7 @@
     "district_num":"006",
     "geoid":"21006",
     "name":"State Senate District 6",
+    "ocd_id":"ocd-division/country:us/state:ky/sldu:6",
     "state":"ky"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":277228652,
     "geoid":"72023",
     "name":"Cabo Rojo",
+    "ocd_id":"ocd-division/country:us/state:pr/county:cabo_rojo",
     "state":"pr"
 },
   "bbox": [

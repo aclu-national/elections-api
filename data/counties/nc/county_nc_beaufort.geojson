@@ -6,6 +6,7 @@
     "area_water":338892301,
     "geoid":"37013",
     "name":"Beaufort",
+    "ocd_id":"ocd-division/country:us/state:nc/county:beaufort",
     "state":"nc"
 },
   "bbox": [

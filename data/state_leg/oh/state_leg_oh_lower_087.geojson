@@ -8,6 +8,7 @@
     "district_num":"087",
     "geoid":"39087",
     "name":"State House District 87",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:87",
     "state":"oh"
 },
   "bbox": [

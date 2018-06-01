@@ -6,6 +6,7 @@
     "area_water":103777,
     "geoid":"51640",
     "name":"Galax",
+    "ocd_id":"ocd-division/country:us/state:va/county:galax",
     "state":"va"
 },
   "bbox": [

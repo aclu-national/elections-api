@@ -6,6 +6,7 @@
     "area_water":34606636,
     "geoid":"40081",
     "name":"Lincoln",
+    "ocd_id":"ocd-division/country:us/state:ok/county:lincoln",
     "state":"ok"
 },
   "bbox": [

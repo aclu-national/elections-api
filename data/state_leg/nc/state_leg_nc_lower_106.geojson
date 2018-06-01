@@ -8,6 +8,7 @@
     "district_num":"106",
     "geoid":"37106",
     "name":"State House District 106",
+    "ocd_id":"ocd-division/country:us/state:nc/sldl:106",
     "state":"nc"
 },
   "bbox": [

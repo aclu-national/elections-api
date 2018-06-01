@@ -6,6 +6,7 @@
     "area_water":6814131,
     "geoid":"18005",
     "name":"Bartholomew",
+    "ocd_id":"ocd-division/country:us/state:in/county:bartholomew",
     "state":"in"
 },
   "bbox": [

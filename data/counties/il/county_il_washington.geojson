@@ -6,6 +6,7 @@
     "area_water":3454759,
     "geoid":"17189",
     "name":"Washington",
+    "ocd_id":"ocd-division/country:us/state:il/county:washington",
     "state":"il"
 },
   "bbox": [

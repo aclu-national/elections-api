@@ -6,6 +6,7 @@
     "area_water":6472574,
     "geoid":"08097",
     "name":"Pitkin",
+    "ocd_id":"ocd-division/country:us/state:co/county:pitkin",
     "state":"co"
 },
   "bbox": [

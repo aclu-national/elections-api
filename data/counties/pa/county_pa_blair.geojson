@@ -6,6 +6,7 @@
     "area_water":3285511,
     "geoid":"42013",
     "name":"Blair",
+    "ocd_id":"ocd-division/country:us/state:pa/county:blair",
     "state":"pa"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"150",
     "geoid":"23150",
     "name":"State House District 150",
+    "ocd_id":"ocd-division/country:us/state:me/sldl:150",
     "state":"me"
 },
   "bbox": [

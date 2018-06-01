@@ -8,6 +8,7 @@
     "district_num":"154",
     "geoid":"42154",
     "name":"State House District 154",
+    "ocd_id":"ocd-division/country:us/state:pa/sldl:154",
     "state":"pa"
 },
   "bbox": [

@@ -6,6 +6,7 @@
     "area_water":9852495,
     "geoid":"05121",
     "name":"Randolph",
+    "ocd_id":"ocd-division/country:us/state:ar/county:randolph",
     "state":"ar"
 },
   "bbox": [

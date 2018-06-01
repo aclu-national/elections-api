@@ -6,6 +6,7 @@
     "area_water":4720730,
     "geoid":"48115",
     "name":"Dawson",
+    "ocd_id":"ocd-division/country:us/state:tx/county:dawson",
     "state":"tx"
 },
   "bbox": [

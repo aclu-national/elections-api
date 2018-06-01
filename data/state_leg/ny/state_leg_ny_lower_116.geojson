@@ -8,6 +8,7 @@
     "district_num":"116",
     "geoid":"36116",
     "name":"Assembly District 116",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:116",
     "state":"ny"
 },
   "bbox": [

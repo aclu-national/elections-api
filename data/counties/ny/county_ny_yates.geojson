@@ -6,6 +6,7 @@
     "area_water":97504774,
     "geoid":"36123",
     "name":"Yates",
+    "ocd_id":"ocd-division/country:us/state:ny/county:yates",
     "state":"ny"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"066",
     "geoid":"39066",
     "name":"State House District 66",
+    "ocd_id":"ocd-division/country:us/state:oh/sldl:66",
     "state":"oh"
 },
   "bbox": [

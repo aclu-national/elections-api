@@ -8,6 +8,7 @@
     "district_num":"085",
     "geoid":"18085",
     "name":"State House District 85",
+    "ocd_id":"ocd-division/country:us/state:in/sldl:85",
     "state":"in"
 },
   "bbox": [

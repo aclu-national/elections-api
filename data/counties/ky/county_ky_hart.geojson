@@ -6,6 +6,7 @@
     "area_water":13912256,
     "geoid":"21099",
     "name":"Hart",
+    "ocd_id":"ocd-division/country:us/state:ky/county:hart",
     "state":"ky"
 },
   "bbox": [

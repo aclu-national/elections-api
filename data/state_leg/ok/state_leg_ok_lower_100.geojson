@@ -8,6 +8,7 @@
     "district_num":"100",
     "geoid":"40100",
     "name":"State House District 100",
+    "ocd_id":"ocd-division/country:us/state:ok/sldl:100",
     "state":"ok"
 },
   "bbox": [

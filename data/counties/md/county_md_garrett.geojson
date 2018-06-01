@@ -6,6 +6,7 @@
     "area_water":22324651,
     "geoid":"24023",
     "name":"Garrett",
+    "ocd_id":"ocd-division/country:us/state:md/county:garrett",
     "state":"md"
 },
   "bbox": [

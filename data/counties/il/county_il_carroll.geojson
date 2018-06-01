@@ -6,6 +6,7 @@
     "area_water":55841450,
     "geoid":"17015",
     "name":"Carroll",
+    "ocd_id":"ocd-division/country:us/state:il/county:carroll",
     "state":"il"
 },
   "bbox": [

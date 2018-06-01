@@ -6,6 +6,7 @@
     "area_water":18317909,
     "geoid":"18087",
     "name":"LaGrange",
+    "ocd_id":"ocd-division/country:us/state:in/county:lagrange",
     "state":"in"
 },
   "bbox": [

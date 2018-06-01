@@ -6,6 +6,7 @@
     "area_water":2977605,
     "geoid":"19157",
     "name":"Poweshiek",
+    "ocd_id":"ocd-division/country:us/state:ia/county:poweshiek",
     "state":"ia"
 },
   "bbox": [

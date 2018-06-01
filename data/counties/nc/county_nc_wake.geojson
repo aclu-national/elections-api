@@ -6,6 +6,7 @@
     "area_water":58100780,
     "geoid":"37183",
     "name":"Wake",
+    "ocd_id":"ocd-division/country:us/state:nc/county:wake",
     "state":"nc"
 },
   "bbox": [

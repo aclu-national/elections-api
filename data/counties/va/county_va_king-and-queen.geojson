@@ -6,6 +6,7 @@
     "area_water":28884077,
     "geoid":"51097",
     "name":"King and Queen",
+    "ocd_id":"ocd-division/country:us/state:va/county:king_and_queen",
     "state":"va"
 },
   "bbox": [

@@ -8,6 +8,7 @@
     "district_num":"065",
     "geoid":"25065",
     "name":"1st Berkshire District",
+    "ocd_id":"ocd-division/country:us/state:ma/sldl:65",
     "state":"ma"
 },
   "bbox": [

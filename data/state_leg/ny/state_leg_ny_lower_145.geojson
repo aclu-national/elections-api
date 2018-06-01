@@ -8,6 +8,7 @@
     "district_num":"145",
     "geoid":"36145",
     "name":"Assembly District 145",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:145",
     "state":"ny"
 },
   "bbox": [

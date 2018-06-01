@@ -8,6 +8,7 @@
     "district_num":"044",
     "geoid":"47044",
     "name":"State House District 44",
+    "ocd_id":"ocd-division/country:us/state:tn/sldl:44",
     "state":"tn"
 },
   "bbox": [

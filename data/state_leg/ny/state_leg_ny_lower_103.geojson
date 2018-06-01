@@ -8,6 +8,7 @@
     "district_num":"103",
     "geoid":"36103",
     "name":"Assembly District 103",
+    "ocd_id":"ocd-division/country:us/state:ny/sldl:103",
     "state":"ny"
 },
   "bbox": [

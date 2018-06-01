@@ -1,6 +1,6 @@
 #!/bin/env python
 
-import json, os, sys, us, area, optparse
+import json, os, sys, us, area, optparse, re
 import postgres_db
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
@@ -53,10 +53,19 @@ for feature in data["features"]:
 	name = "%s.geojson" % id
 	path = "%s/data/districts_%s/%s/%s" % (root_dir, session, state, name)
 
+	non_zero_padded = re.search('^0+(\d+)', district_num)
+	if not non_zero_padded:
+		non_zero_padded = district_num
+	else:
+		non_zero_padded = non_zero_padded.group(1)
+
+	ocd_id = 'ocd-division/country:us/state:%s/cd:%s' % (state, non_zero_padded)
+
 	print("Saving %s" % path)
 
 	feature["properties"] = {
 		"geoid": props["GEOID"],
+		"ocd_id": ocd_id,
 		"state": state,
 		"start_session": options.start,
 		"start_date": sessions[options.start]["start_date"],

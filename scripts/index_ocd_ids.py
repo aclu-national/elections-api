@@ -50,7 +50,7 @@ with open(csv_path, 'rb') as csv_file:
 			name = row.pop(0)
 			geoid = row.pop(0)
 
-			if re.search('/(county|state):[^/]+$', id):
+			if re.search('/county:[^/]+$', id):
 				print name
 				cur.execute(insert_sql, (id, name, geoid))
 

@@ -42,9 +42,11 @@ for filename in files:
 		if filename.endswith("sldu.geojson"):
 			chamber = "upper"
 			district_num = props["SLDUST"]
+			chamber_id = "sldu"
 		elif filename.endswith("sldl.geojson"):
 			chamber = "lower"
 			district_num = props["SLDLST"]
+			chamber_id = "sldl"
 		else:
 			print("skipping %s" % path)
 			continue
@@ -52,9 +54,18 @@ for filename in files:
 		name = "state_leg_%s_%s_%s" % (state, chamber, district_num)
 		path = "%s/%s/%s.geojson" % (data_dir, state, name)
 
+		non_zero_padded = re.search('^0+(\d+)', district_num)
+		if not non_zero_padded:
+			non_zero_padded = district_num
+		else:
+			non_zero_padded = non_zero_padded.group(1)
+
+		ocd_id = 'ocd-division/country:us/state:%s/%s:%s' % (state, chamber_id, non_zero_padded)
+
 		print("Saving %s" % path)
 		feature["properties"] = {
 			"geoid": props["GEOID"],
+			"ocd_id": ocd_id,
 			"name": props["NAMELSAD"],
 			"state": state,
 			"chamber": chamber,

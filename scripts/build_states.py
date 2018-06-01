@@ -23,10 +23,12 @@ for feature in data["features"]:
 
 	name = "state_%s.geojson" % state
 	path = "%s/data/states/%s" % (root_dir, name)
+	ocd_id = 'ocd-division/country:us/state:%s' % state
 
 	print("Saving %s" % path)
 	feature["properties"] = {
 		"geoid": props["STATEFP"],
+		"ocd_id": ocd_id,
 		"state": state,
 		"name": props["NAME"],
 		"area_land": props["ALAND"],

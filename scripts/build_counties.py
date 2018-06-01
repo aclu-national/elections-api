@@ -24,12 +24,15 @@ for feature in data["features"]:
 	state = str(state).lower()
 
 	slug = re.sub(r"[^a-zA-Z]+", '-', props["NAME"]).lower()
+	ocd_slug = re.sub(r"[^a-zA-Z]+", '_', props["NAME"]).lower()
 	name = "county_%s_%s" % (state, slug)
 	path = "%s/data/counties/%s/%s.geojson" % (root_dir, state, name)
+	ocd_id = 'ocd-division/country:us/state:%s/county:%s' % (state, ocd_slug)
 
 	print("Saving %s" % path)
 	feature["properties"] = {
 		"geoid": props["GEOID"],
+		"ocd_id": ocd_id,
 		"state": state,
 		"name": props["NAME"],
 		"area_land": props["ALAND"],

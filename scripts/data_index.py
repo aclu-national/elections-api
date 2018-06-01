@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-import os, sys, re, csv
+import os, sys, re
+import unicodecsv as csv
 
 index = None
 
@@ -61,7 +62,7 @@ def save_index(repo):
 	csv_path = get_csv_path(repo)
 
 	with open(csv_path, 'wb') as csv_file:
-		writer = csv.writer(csv_file, delimiter=',')
+		writer = csv.writer(csv_file, delimiter=',', encoding='utf-8')
 		headers = ['id', 'path', 'name']
 		writer.writerow(headers)
 		for line in index[repo]['list']:

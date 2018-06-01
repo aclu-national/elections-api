@@ -7,28 +7,27 @@ script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
-legislator_lookup = {}
-
 source_path = "%s/sources/congress_legislators/legislators-current.yaml" % root_dir
 print("Loading %s" % source_path)
 file = open(source_path, "r")
 data = yaml.load(file)
 
+legislator_lookup = {}
+legislator_list = []
+
 for legislator in data:
 	id = legislator["id"]["bioguide"]
 	legislator_lookup[id] = legislator
+	legislator_list.append(legislator)
 
 source_path = "%s/sources/congress_legislators/legislators-social-media.yaml" % root_dir
 print("Loading %s" % source_path)
 file = open(source_path, "r")
 data = yaml.load(file)
 
-legislator_list = []
-
 for legislator in data:
 	id = legislator["id"]["bioguide"]
 	legislator_lookup[id]["social"] = legislator["social"]
-	legislator_list.append(legislator_lookup[id])
 
 def strip_accents(s):
 	if (type(s) == str):

@@ -1,7 +1,11 @@
 #!/bin/env python
 
-import bs4, urllib3, certifi, arrow, psycopg2, os, re, sys
+import bs4, arrow, psycopg2, os, re, sys
 import postgres_db
+
+script = os.path.realpath(sys.argv[0])
+scripts_dir = os.path.dirname(script)
+root_dir = os.path.dirname(scripts_dir)
 
 curr_session = 115
 curr_end_date = "2019-01-03"
@@ -13,9 +17,10 @@ next_end_date = "2021-01-03"
 conn = postgres_db.connect()
 cur = conn.cursor()
 
-cur.execute("DROP TABLE IF EXISTS sessions")
+cur.execute("DROP TABLE IF EXISTS sessions") # old table name
+cur.execute("DROP TABLE IF EXISTS congress_sessions")
 cur.execute('''
-	CREATE TABLE sessions (
+	CREATE TABLE congress_sessions (
 		id INTEGER PRIMARY KEY,
 		start_date DATE,
 		end_date DATE
@@ -23,20 +28,24 @@ cur.execute('''
 conn.commit()
 
 insert_sql = '''
-	INSERT INTO sessions (
+	INSERT INTO congress_sessions (
 		id,
 		start_date,
 		end_date
 	) VALUES (%s, %s, %s)
 '''
 
-http = urllib3.PoolManager(
-	cert_reqs='CERT_REQUIRED',
-	ca_certs=certifi.where()
-)
-url = "https://www.senate.gov/reference/Sessions/sessionDates.htm"
-req = http.request('GET', url)
-soup = bs4.BeautifulSoup(req.data, "html.parser")
+print("%s: %s to %s" % (next_session, next_start_date, next_end_date))
+values = [
+	next_session,
+	next_start_date,
+	next_end_date
+]
+cur.execute(insert_sql, values)
+
+source_path = "%s/sources/congress_sessions/congress_sessions.html" % root_dir
+with open(source_path) as source_file:
+	soup = bs4.BeautifulSoup(source_file.read(), "html.parser")
 
 last_cell = None
 
@@ -82,13 +91,6 @@ values = [
 	int(session),
 	start_date,
 	end_date
-]
-cur.execute(insert_sql, values)
-
-values = [
-	next_session,
-	next_start_date,
-	next_end_date
 ]
 cur.execute(insert_sql, values)
 

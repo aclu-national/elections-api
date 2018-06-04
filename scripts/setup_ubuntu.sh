@@ -36,7 +36,7 @@ apt update
 apt install -y postgis
 
 pip install --upgrade pip
-pip install flask flask_cors psycopg2-binary gunicorn bs4 urllib3 certifi arrow
+pip install -r "$PROJECT_PATH/scripts/requirements.txt"
 
 if [ -f "$POSTGRES_MAIN/postgresql.conf" ] ; then
 	mv "$POSTGRES_MAIN/postgresql.conf" "$POSTGRES_MAIN/postgresql.conf.bak"

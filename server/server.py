@@ -480,7 +480,6 @@ def hello():
 	<a href="/pip_congress">/pip_congress</a>
 	<a href="/pip_county">/pip_county</a>
 	<a href="/pip_state_leg">/pip_state_leg</a>
-	<a href="/congress_district">/congress_district</a></pre>
 	'''
 
 @app.route("/pip")
@@ -606,40 +605,6 @@ def state_leg():
 		'ok': 1,
 		'state_leg': rsp
 	})
-
-@app.route("/congress_district")
-def district():
-
-	id = flask.request.args.get('id', None)
-
-	if id == None:
-		return flask.jsonify({
-			'ok': 0,
-			'error': "Please include 'id' arg."
-		})
-
-	if not re.match('^\d+$', id):
-		return flask.jsonify({
-			'ok': 0,
-			'error': "Please specify one numeric 'id' arg."
-		})
-
-	district = get_district_by_id(id)
-
-	if not district:
-		rsp = {
-			'ok': 0,
-			'error': 'No congressional district found.'
-		}
-	else:
-		legislators = get_legislators_by_district(district["state"], district["district_num"])
-		rsp = {
-			'ok': 1,
-			'district': district,
-			'legislators': legislators
-		}
-
-	return flask.jsonify(rsp)
 
 if __name__ == '__main__':
 	port = os.getenv('PORT', 5000)

@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_marion",
+  "id": "aclu/elections-api/county:9142",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9142",
     "area_land":1404769593,
     "area_water":16149942,
     "geoid":"28091",

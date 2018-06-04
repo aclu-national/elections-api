@@ -1,7 +1,8 @@
 {
-  "id": "county_la_st-landry",
+  "id": "aclu/elections-api/county:8740",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8740",
     "area_land":2392904508,
     "area_water":39047412,
     "geoid":"22097",

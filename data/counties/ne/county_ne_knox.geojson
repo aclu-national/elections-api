@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_knox",
+  "id": "aclu/elections-api/county:9441",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9441",
     "area_land":2870799577,
     "area_water":81066532,
     "geoid":"31107",

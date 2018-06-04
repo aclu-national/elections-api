@@ -1,7 +1,8 @@
 {
-  "id": "county_il_calhoun",
+  "id": "aclu/elections-api/county:8279",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8279",
     "area_land":657402915,
     "area_water":77057164,
     "geoid":"17013",

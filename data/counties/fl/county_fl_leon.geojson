@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_leon",
+  "id": "aclu/elections-api/county:7933",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7933",
     "area_land":1727201409,
     "area_water":90424118,
     "geoid":"12073",

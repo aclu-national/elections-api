@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_caswell",
+  "id": "aclu/elections-api/county:9251",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9251",
     "area_land":1101692694,
     "area_water":8643882,
     "geoid":"37033",

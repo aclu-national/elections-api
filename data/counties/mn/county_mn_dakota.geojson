@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_dakota",
+  "id": "aclu/elections-api/county:8910",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8910",
     "area_land":1456715603,
     "area_water":63149548,
     "geoid":"27037",

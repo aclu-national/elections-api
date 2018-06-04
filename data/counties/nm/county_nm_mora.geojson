@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_mora",
+  "id": "aclu/elections-api/county:9530",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9530",
     "area_land":4992675873,
     "area_water":6093304,
     "geoid":"35033",

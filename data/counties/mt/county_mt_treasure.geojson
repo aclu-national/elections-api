@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_treasure",
+  "id": "aclu/elections-api/county:9230",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9230",
     "area_land":2532492080,
     "area_water":17149961,
     "geoid":"30103",

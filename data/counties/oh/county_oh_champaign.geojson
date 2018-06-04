@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_champaign",
+  "id": "aclu/elections-api/county:9634",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9634",
     "area_land":1109624422,
     "area_water":3638887,
     "geoid":"39021",

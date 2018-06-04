@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_putnam",
+  "id": "aclu/elections-api/county:10761",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10761",
     "area_land":895302287,
     "area_water":12226982,
     "geoid":"54079",

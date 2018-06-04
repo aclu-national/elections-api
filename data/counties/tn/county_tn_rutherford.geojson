@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_rutherford",
+  "id": "aclu/elections-api/county:10161",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10161",
     "area_land":1604162229,
     "area_water":12132094,
     "geoid":"47149",

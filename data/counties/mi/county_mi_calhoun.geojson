@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_calhoun",
+  "id": "aclu/elections-api/county:8821",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8821",
     "area_land":1829198151,
     "area_water":31268858,
     "geoid":"26025",

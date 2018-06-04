@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_grundy",
+  "id": "aclu/elections-api/county:10117",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10117",
     "area_land":933548197,
     "area_water":1753031,
     "geoid":"47061",

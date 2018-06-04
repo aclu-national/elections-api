@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_hardee",
+  "id": "aclu/elections-api/county:7921",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7921",
     "area_land":1651867901,
     "area_water":1439673,
     "geoid":"12049",

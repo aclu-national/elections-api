@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_uinta",
+  "id": "aclu/elections-api/county:10797",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10797",
     "area_land":5391911952,
     "area_water":16345637,
     "geoid":"56041",

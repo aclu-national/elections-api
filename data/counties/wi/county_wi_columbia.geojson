@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_columbia",
+  "id": "aclu/elections-api/county:10660",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10660",
     "area_land":1982754434,
     "area_water":78836820,
     "geoid":"55021",

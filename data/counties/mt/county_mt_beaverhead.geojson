@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_beaverhead",
+  "id": "aclu/elections-api/county:9179",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9179",
     "area_land":14355492113,
     "area_water":78345297,
     "geoid":"30001",

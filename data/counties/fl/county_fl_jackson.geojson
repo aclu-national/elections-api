@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_jackson",
+  "id": "aclu/elections-api/county:7928",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7928",
     "area_land":2378066857,
     "area_water":94243008,
     "geoid":"12063",

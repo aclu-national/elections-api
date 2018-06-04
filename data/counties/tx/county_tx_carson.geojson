@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_carson",
+  "id": "aclu/elections-api/county:10214",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10214",
     "area_land":2383359749,
     "area_water":10064086,
     "geoid":"48065",

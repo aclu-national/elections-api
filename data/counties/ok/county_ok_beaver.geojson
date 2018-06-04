@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_beaver",
+  "id": "aclu/elections-api/county:9715",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9715",
     "area_land":4700042738,
     "area_water":7347161,
     "geoid":"40007",

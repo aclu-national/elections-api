@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_sevier",
+  "id": "aclu/elections-api/county:10164",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10164",
     "area_land":1534562002,
     "area_water":13491054,
     "geoid":"47155",

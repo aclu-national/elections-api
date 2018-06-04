@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_rockingham",
+  "id": "aclu/elections-api/county:9313",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9313",
     "area_land":1464974390,
     "area_water":18468477,
     "geoid":"37157",

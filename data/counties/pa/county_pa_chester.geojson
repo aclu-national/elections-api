@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_chester",
+  "id": "aclu/elections-api/county:9839",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9839",
     "area_land":1943847580,
     "area_water":22560875,
     "geoid":"42029",

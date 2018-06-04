@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_morgan",
+  "id": "aclu/elections-api/county:8068",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8068",
     "area_land":899632962,
     "area_water":18830382,
     "geoid":"13211",

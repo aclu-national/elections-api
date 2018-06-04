@@ -1,7 +1,8 @@
 {
-  "id": "county_in_gibson",
+  "id": "aclu/elections-api/county:8400",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8400",
     "area_land":1262606254,
     "area_water":30223915,
     "geoid":"18051",

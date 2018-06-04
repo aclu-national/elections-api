@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_sherman",
+  "id": "aclu/elections-api/county:10392",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10392",
     "area_land":2390651189,
     "area_water":428754,
     "geoid":"48421",

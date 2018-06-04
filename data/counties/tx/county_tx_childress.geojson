@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_childress",
+  "id": "aclu/elections-api/county:10219",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10219",
     "area_land":1803680231,
     "area_water":44835076,
     "geoid":"48075",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_suffolk",
+  "id": "aclu/elections-api/county:8768",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8768",
     "area_land":150855462,
     "area_water":160479920,
     "geoid":"25025",

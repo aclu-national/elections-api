@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_lapeer",
+  "id": "aclu/elections-api/county:8852",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8852",
     "area_land":1668448345,
     "area_water":48310232,
     "geoid":"26087",

@@ -1,7 +1,8 @@
 {
-  "id": "county_il_macoupin",
+  "id": "aclu/elections-api/county:8328",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8328",
     "area_land":2234952037,
     "area_water":12253242,
     "geoid":"17117",

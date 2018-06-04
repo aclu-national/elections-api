@@ -1,7 +1,8 @@
 {
-  "id": "county_or_lincoln",
+  "id": "aclu/elections-api/county:9809",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9809",
     "area_land":2539209521,
     "area_water":554669104,
     "geoid":"41041",

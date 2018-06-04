@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_washtenaw",
+  "id": "aclu/elections-api/county:8889",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8889",
     "area_land":1828420670,
     "area_water":42642348,
     "geoid":"26161",

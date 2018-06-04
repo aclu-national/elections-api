@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_forest",
+  "id": "aclu/elections-api/county:9851",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9851",
     "area_land":1106623935,
     "area_water":8356610,
     "geoid":"42053",

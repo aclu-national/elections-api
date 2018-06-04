@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_osborne",
+  "id": "aclu/elections-api/county:8537",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8537",
     "area_land":2311575393,
     "area_water":4806274,
     "geoid":"20141",

@@ -1,7 +1,8 @@
 {
-  "id": "county_or_clackamas",
+  "id": "aclu/elections-api/county:9791",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9791",
     "area_land":4845049025,
     "area_water":31834351,
     "geoid":"41005",

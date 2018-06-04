@@ -1,7 +1,8 @@
 {
-  "id": "county_id_clearwater",
+  "id": "aclu/elections-api/county:8246",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8246",
     "area_land":6364399894,
     "area_water":79605439,
     "geoid":"16035",

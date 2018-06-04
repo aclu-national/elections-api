@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_del-norte",
+  "id": "aclu/elections-api/county:7771",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7771",
     "area_land":2606117992,
     "area_water":578742645,
     "geoid":"06015",

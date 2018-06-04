@@ -1,7 +1,8 @@
 {
-  "id": "county_md_washington",
+  "id": "aclu/elections-api/county:8790",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8790",
     "area_land":1185609331,
     "area_water":24803926,
     "geoid":"24043",

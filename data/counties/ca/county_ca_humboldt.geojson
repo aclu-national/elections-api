@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_humboldt",
+  "id": "aclu/elections-api/county:7775",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7775",
     "area_land":9241251740,
     "area_water":1254039383,
     "geoid":"06023",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_beltrami",
+  "id": "aclu/elections-api/county:8895",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8895",
     "area_land":6487120495,
     "area_water":1426321738,
     "geoid":"27007",

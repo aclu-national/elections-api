@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_rock",
+  "id": "aclu/elections-api/county:9462",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9462",
     "area_land":2611466209,
     "area_water":8807750,
     "geoid":"31149",

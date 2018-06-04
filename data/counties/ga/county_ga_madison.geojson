@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_madison",
+  "id": "aclu/elections-api/county:8059",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8059",
     "area_land":731184825,
     "area_water":8484621,
     "geoid":"13195",

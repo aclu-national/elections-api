@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_presidio",
+  "id": "aclu/elections-api/county:10370",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10370",
     "area_land":9985057446,
     "area_water":1773188,
     "geoid":"48377",

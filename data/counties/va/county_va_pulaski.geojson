@@ -1,7 +1,8 @@
 {
-  "id": "county_va_pulaski",
+  "id": "aclu/elections-api/county:10564",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10564",
     "area_land":828377752,
     "area_water":24877168,
     "geoid":"51155",

@@ -1,7 +1,8 @@
 {
-  "id": "county_as_manu-a",
+  "id": "aclu/elections-api/county:7745",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7745",
     "area_land":57620994,
     "area_water":464238048,
     "geoid":"60020",

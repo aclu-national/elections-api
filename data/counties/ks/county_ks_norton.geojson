@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_norton",
+  "id": "aclu/elections-api/county:8535",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8535",
     "area_land":2274122723,
     "area_water":8421464,
     "geoid":"20137",

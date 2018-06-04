@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_franklin",
+  "id": "aclu/elections-api/county:8608",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8608",
     "area_land":538073033,
     "area_water":11025563,
     "geoid":"21073",

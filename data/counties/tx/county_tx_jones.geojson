@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_jones",
+  "id": "aclu/elections-api/county:10308",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10308",
     "area_land":2404946720,
     "area_water":22227413,
     "geoid":"48253",

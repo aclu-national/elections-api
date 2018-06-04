@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_thurston",
+  "id": "aclu/elections-api/county:9474",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9474",
     "area_land":1019377255,
     "area_water":6458661,
     "geoid":"31173",

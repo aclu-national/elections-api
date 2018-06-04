@@ -1,7 +1,8 @@
 {
-  "id": "county_md_talbot",
+  "id": "aclu/elections-api/county:8789",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8789",
     "area_land":695519250,
     "area_water":539405840,
     "geoid":"24041",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_new-kent",
+  "id": "aclu/elections-api/county:10546",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10546",
     "area_land":543990076,
     "area_water":35597678,
     "geoid":"51127",

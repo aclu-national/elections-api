@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_st-croix",
+  "id": "aclu/elections-api/county:10709",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10709",
     "area_land":1871226040,
     "area_water":34193433,
     "geoid":"55109",

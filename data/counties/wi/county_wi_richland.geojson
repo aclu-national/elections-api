@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_richland",
+  "id": "aclu/elections-api/county:10702",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10702",
     "area_land":1518120269,
     "area_water":8153437,
     "geoid":"55103",

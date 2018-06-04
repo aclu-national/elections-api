@@ -1,7 +1,8 @@
 {
-  "id": "county_va_galax",
+  "id": "aclu/elections-api/county:10510",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10510",
     "area_land":21333585,
     "area_water":103777,
     "geoid":"51640",

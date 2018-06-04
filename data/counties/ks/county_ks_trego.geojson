@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_trego",
+  "id": "aclu/elections-api/county:8564",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8564",
     "area_land":2303731642,
     "area_water":26281951,
     "geoid":"20195",

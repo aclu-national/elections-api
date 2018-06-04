@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_fayette",
+  "id": "aclu/elections-api/county:9850",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9850",
     "area_land":2046968026,
     "area_water":20644021,
     "geoid":"42051",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_dukes",
+  "id": "aclu/elections-api/county:8759",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8759",
     "area_land":267309256,
     "area_water":1004275270,
     "geoid":"25007",

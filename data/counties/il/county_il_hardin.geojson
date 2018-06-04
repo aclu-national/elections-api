@@ -1,7 +1,8 @@
 {
-  "id": "county_il_hardin",
+  "id": "aclu/elections-api/county:8307",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8307",
     "area_land":459696734,
     "area_water":10588858,
     "geoid":"17069",

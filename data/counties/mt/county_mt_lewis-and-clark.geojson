@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_lewis-and-clark",
+  "id": "aclu/elections-api/county:9203",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9203",
     "area_land":8957160027,
     "area_water":101500820,
     "geoid":"30049",

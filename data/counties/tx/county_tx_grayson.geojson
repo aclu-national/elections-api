@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_grayson",
+  "id": "aclu/elections-api/county:10272",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10272",
     "area_land":2415995947,
     "area_water":120112446,
     "geoid":"48181",

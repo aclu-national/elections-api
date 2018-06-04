@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_jim-hogg",
+  "id": "aclu/elections-api/county:10305",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10305",
     "area_land":2942674729,
     "area_water":92565,
     "geoid":"48247",

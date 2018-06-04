@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_harlan",
+  "id": "aclu/elections-api/county:9429",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9429",
     "area_land":1433471291,
     "area_water":53339808,
     "geoid":"31083",

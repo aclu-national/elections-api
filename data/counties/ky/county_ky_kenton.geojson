@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_kenton",
+  "id": "aclu/elections-api/county:8630",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8630",
     "area_land":414950497,
     "area_water":10577248,
     "geoid":"21117",

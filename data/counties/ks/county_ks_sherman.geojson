@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_sherman",
+  "id": "aclu/elections-api/county:8557",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8557",
     "area_land":2735193304,
     "area_water":548248,
     "geoid":"20181",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_smyth",
+  "id": "aclu/elections-api/county:10575",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10575",
     "area_land":1168992134,
     "area_water":3519017,
     "geoid":"51173",

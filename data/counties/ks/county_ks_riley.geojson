@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_riley",
+  "id": "aclu/elections-api/county:8547",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8547",
     "area_land":1579167161,
     "area_water":31952420,
     "geoid":"20161",

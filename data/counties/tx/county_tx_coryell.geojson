@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_coryell",
+  "id": "aclu/elections-api/county:10231",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10231",
     "area_land":2725199226,
     "area_water":11781488,
     "geoid":"48099",

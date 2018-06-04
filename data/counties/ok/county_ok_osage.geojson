@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_osage",
+  "id": "aclu/elections-api/county:9768",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9768",
     "area_land":5818542165,
     "area_water":148734982,
     "geoid":"40113",

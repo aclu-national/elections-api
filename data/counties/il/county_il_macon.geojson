@@ -1,7 +1,8 @@
 {
-  "id": "county_il_macon",
+  "id": "aclu/elections-api/county:8327",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8327",
     "area_land":1503973504,
     "area_water":13409564,
     "geoid":"17115",

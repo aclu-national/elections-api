@@ -1,7 +1,8 @@
 {
-  "id": "county_co_adams",
+  "id": "aclu/elections-api/county:7822",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7822",
     "area_land":3023220812,
     "area_water":41815517,
     "geoid":"08001",

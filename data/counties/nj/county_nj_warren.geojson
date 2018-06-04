@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_warren",
+  "id": "aclu/elections-api/county:9511",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9511",
     "area_land":923327586,
     "area_water":15931292,
     "geoid":"34041",

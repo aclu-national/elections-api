@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_vernon",
+  "id": "aclu/elections-api/county:9086",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9086",
     "area_land":2140348947,
     "area_water":27015775,
     "geoid":"29217",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_maricao",
+  "id": "aclu/elections-api/county:9939",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9939",
     "area_land":94851792,
     "area_water":12487,
     "geoid":"72093",

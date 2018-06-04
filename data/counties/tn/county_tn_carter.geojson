@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_carter",
+  "id": "aclu/elections-api/county:10096",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10096",
     "area_land":883865752,
     "area_water":16654827,
     "geoid":"47019",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_essex",
+  "id": "aclu/elections-api/county:9577",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9577",
     "area_land":4646734755,
     "area_water":316368965,
     "geoid":"36031",

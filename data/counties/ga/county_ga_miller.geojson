@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_miller",
+  "id": "aclu/elections-api/county:8064",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8064",
     "area_land":731467676,
     "area_water":3215444,
     "geoid":"13201",

@@ -1,7 +1,8 @@
 {
-  "id": "county_in_steuben",
+  "id": "aclu/elections-api/county:8450",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8450",
     "area_land":799725227,
     "area_water":35458838,
     "geoid":"18151",

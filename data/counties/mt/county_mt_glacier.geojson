@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_glacier",
+  "id": "aclu/elections-api/county:9196",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9196",
     "area_land":7756795340,
     "area_water":106093201,
     "geoid":"30035",

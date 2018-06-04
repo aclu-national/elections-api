@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_galveston",
+  "id": "aclu/elections-api/county:10265",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10265",
     "area_land":981478578,
     "area_water":1281645343,
     "geoid":"48167",

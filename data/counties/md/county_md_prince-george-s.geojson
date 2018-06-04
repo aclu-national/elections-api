@@ -1,7 +1,8 @@
 {
-  "id": "county_md_prince-george-s",
+  "id": "aclu/elections-api/county:8785",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8785",
     "area_land":1250087042,
     "area_water":41892810,
     "geoid":"24033",

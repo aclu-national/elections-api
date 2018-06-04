@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_monroe",
+  "id": "aclu/elections-api/county:8657",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8657",
     "area_land":853073337,
     "area_water":6949352,
     "geoid":"21171",

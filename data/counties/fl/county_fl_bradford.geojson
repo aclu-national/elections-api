@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_bradford",
+  "id": "aclu/elections-api/county:7901",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7901",
     "area_land":761362376,
     "area_water":16904945,
     "geoid":"12007",

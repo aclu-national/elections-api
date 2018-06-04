@@ -1,7 +1,8 @@
 {
-  "id": "county_id_boise",
+  "id": "aclu/elections-api/county:8236",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8236",
     "area_land":4919826480,
     "area_water":19104287,
     "geoid":"16015",

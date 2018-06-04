@@ -1,7 +1,8 @@
 {
-  "id": "county_va_alexandria",
+  "id": "aclu/elections-api/county:10467",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10467",
     "area_land":38679307,
     "area_water":1070269,
     "geoid":"51510",

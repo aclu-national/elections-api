@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_lucas",
+  "id": "aclu/elections-api/county:8188",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8188",
     "area_land":1115257644,
     "area_water":9852833,
     "geoid":"19117",

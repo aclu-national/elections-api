@@ -1,7 +1,8 @@
 {
-  "id": "county_la_beauregard",
+  "id": "aclu/elections-api/county:8697",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8697",
     "area_land":2997502172,
     "area_water":21999001,
     "geoid":"22011",

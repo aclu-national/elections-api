@@ -1,7 +1,8 @@
 {
-  "id": "county_vt_orange",
+  "id": "aclu/elections-api/county:10605",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10605",
     "area_land":1779389357,
     "area_water":12016544,
     "geoid":"50017",

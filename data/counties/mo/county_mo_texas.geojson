@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_texas",
+  "id": "aclu/elections-api/county:9085",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9085",
     "area_land":3049104547,
     "area_water":5071080,
     "geoid":"29215",

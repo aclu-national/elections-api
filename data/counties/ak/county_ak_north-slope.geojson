@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_north-slope",
+  "id": "aclu/elections-api/county:7591",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7591",
     "area_land":230056014591,
     "area_water":15547168253,
     "geoid":"02185",

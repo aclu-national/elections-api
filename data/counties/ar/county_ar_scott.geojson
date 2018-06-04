@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_scott",
+  "id": "aclu/elections-api/county:7731",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7731",
     "area_land":2311063525,
     "area_water":14887193,
     "geoid":"05127",

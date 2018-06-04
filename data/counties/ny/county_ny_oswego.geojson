@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_oswego",
+  "id": "aclu/elections-api/county:9599",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9599",
     "area_land":2464746080,
     "area_water":933480216,
     "geoid":"36075",

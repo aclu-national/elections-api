@@ -1,7 +1,8 @@
 {
-  "id": "county_la_vernon",
+  "id": "aclu/elections-api/county:8749",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8749",
     "area_land":3439275960,
     "area_water":35153783,
     "geoid":"22115",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_lebanon",
+  "id": "aclu/elections-api/county:9862",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9862",
     "area_land":937138344,
     "area_water":1727921,
     "geoid":"42075",

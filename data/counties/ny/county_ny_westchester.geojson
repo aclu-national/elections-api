@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_westchester",
+  "id": "aclu/elections-api/county:9621",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9621",
     "area_land":1115031328,
     "area_water":179949077,
     "geoid":"36119",

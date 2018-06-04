@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_mckenzie",
+  "id": "aclu/elections-api/county:9361",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9361",
     "area_land":7149551309,
     "area_water":260198853,
     "geoid":"38053",

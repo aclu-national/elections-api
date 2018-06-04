@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_angelina",
+  "id": "aclu/elections-api/county:10184",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10184",
     "area_land":2066241599,
     "area_water":173338077,
     "geoid":"48005",

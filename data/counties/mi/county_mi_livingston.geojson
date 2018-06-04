@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_livingston",
+  "id": "aclu/elections-api/county:8855",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8855",
     "area_land":1463693558,
     "area_water":52500785,
     "geoid":"26093",

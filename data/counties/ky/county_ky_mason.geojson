@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_mason",
+  "id": "aclu/elections-api/county:8649",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8649",
     "area_land":621927922,
     "area_water":16277777,
     "geoid":"21161",

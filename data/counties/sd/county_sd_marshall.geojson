@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_marshall",
+  "id": "aclu/elections-api/county:10063",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10063",
     "area_land":2170630077,
     "area_water":124680563,
     "geoid":"46091",

@@ -1,7 +1,8 @@
 {
-  "id": "county_az_yuma",
+  "id": "aclu/elections-api/county:7763",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7763",
     "area_land":14281265651,
     "area_water":13171316,
     "geoid":"04027",

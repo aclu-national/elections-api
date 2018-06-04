@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_camp",
+  "id": "aclu/elections-api/county:10213",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10213",
     "area_land":507184763,
     "area_water":19186958,
     "geoid":"48063",

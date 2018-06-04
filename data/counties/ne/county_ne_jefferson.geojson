@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_jefferson",
+  "id": "aclu/elections-api/county:9435",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9435",
     "area_land":1476736217,
     "area_water":14232350,
     "geoid":"31095",

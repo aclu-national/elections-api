@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_williamsburg",
+  "id": "aclu/elections-api/county:10019",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10019",
     "area_land":2419464748,
     "area_water":7469568,
     "geoid":"45089",

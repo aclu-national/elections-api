@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_braxton",
+  "id": "aclu/elections-api/county:10725",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10725",
     "area_land":1322996693,
     "area_water":14144661,
     "geoid":"54007",

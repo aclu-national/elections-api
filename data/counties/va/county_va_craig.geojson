@@ -1,7 +1,8 @@
 {
-  "id": "county_va_craig",
+  "id": "aclu/elections-api/county:10494",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10494",
     "area_land":849759834,
     "area_water":2803739,
     "geoid":"51045",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_sampson",
+  "id": "aclu/elections-api/county:9316",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9316",
     "area_land":2449357429,
     "area_water":4923826,
     "geoid":"37163",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_rockcastle",
+  "id": "aclu/elections-api/county:8673",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8673",
     "area_land":819848737,
     "area_water":4016362,
     "geoid":"21203",

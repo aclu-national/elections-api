@@ -1,7 +1,8 @@
 {
-  "id": "county_hi_kauai",
+  "id": "aclu/elections-api/county:8128",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8128",
     "area_land":1605492340,
     "area_water":1674244223,
     "geoid":"15007",

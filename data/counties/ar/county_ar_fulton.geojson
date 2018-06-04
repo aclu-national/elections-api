@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_fulton",
+  "id": "aclu/elections-api/county:7693",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7693",
     "area_land":1601111649,
     "area_water":5526927,
     "geoid":"05049",

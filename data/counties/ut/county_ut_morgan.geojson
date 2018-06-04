@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_morgan",
+  "id": "aclu/elections-api/county:10450",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10450",
     "area_land":1577739361,
     "area_water":4437369,
     "geoid":"49029",

@@ -1,7 +1,8 @@
 {
-  "id": "county_co_teller",
+  "id": "aclu/elections-api/county:7882",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7882",
     "area_land":1442734233,
     "area_water":4944578,
     "geoid":"08119",

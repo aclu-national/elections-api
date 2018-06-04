@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_bucks",
+  "id": "aclu/elections-api/county:9833",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9833",
     "area_land":1565408735,
     "area_water":45201371,
     "geoid":"42017",

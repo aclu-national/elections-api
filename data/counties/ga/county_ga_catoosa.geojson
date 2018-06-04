@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_catoosa",
+  "id": "aclu/elections-api/county:7987",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7987",
     "area_land":419999268,
     "area_water":771158,
     "geoid":"13047",

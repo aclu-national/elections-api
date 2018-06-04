@@ -1,7 +1,8 @@
 {
-  "id": "county_va_dickenson",
+  "id": "aclu/elections-api/county:10498",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10498",
     "area_land":855845425,
     "area_water":8097296,
     "geoid":"51051",

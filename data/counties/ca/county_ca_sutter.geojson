@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_sutter",
+  "id": "aclu/elections-api/county:7814",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7814",
     "area_land":1560275634,
     "area_water":15717389,
     "geoid":"06101",

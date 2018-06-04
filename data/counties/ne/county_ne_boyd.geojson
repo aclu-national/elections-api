@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_boyd",
+  "id": "aclu/elections-api/county:9395",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9395",
     "area_land":1398425584,
     "area_water":11890320,
     "geoid":"31015",

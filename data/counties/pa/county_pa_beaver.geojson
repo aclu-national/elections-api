@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_beaver",
+  "id": "aclu/elections-api/county:9828",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9828",
     "area_land":1125901161,
     "area_water":24165972,
     "geoid":"42007",

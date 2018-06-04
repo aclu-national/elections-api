@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_fulton",
+  "id": "aclu/elections-api/county:8024",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8024",
     "area_land":1364081871,
     "area_water":19876730,
     "geoid":"13121",

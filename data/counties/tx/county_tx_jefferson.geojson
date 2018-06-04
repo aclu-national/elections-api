@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_jefferson",
+  "id": "aclu/elections-api/county:10304",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10304",
     "area_land":2269793052,
     "area_water":611960906,
     "geoid":"48245",

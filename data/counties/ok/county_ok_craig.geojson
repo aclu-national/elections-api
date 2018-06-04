@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_craig",
+  "id": "aclu/elections-api/county:9729",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9729",
     "area_land":1971897017,
     "area_water":3697828,
     "geoid":"40035",

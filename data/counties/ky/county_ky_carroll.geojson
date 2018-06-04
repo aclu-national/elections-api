@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_carroll",
+  "id": "aclu/elections-api/county:8592",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8592",
     "area_land":332993661,
     "area_water":22650593,
     "geoid":"21041",

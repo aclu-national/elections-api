@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_stewart",
+  "id": "aclu/elections-api/county:10167",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10167",
     "area_land":1189687496,
     "area_water":87209797,
     "geoid":"47161",

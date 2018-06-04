@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_gordon",
+  "id": "aclu/elections-api/county:8028",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8028",
     "area_land":921597971,
     "area_water":5729801,
     "geoid":"13129",

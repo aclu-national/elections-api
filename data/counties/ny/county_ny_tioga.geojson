@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_tioga",
+  "id": "aclu/elections-api/county:9615",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9615",
     "area_land":1343192581,
     "area_water":11059913,
     "geoid":"36107",

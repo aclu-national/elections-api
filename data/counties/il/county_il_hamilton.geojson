@@ -1,7 +1,8 @@
 {
-  "id": "county_il_hamilton",
+  "id": "aclu/elections-api/county:8305",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8305",
     "area_land":1125780248,
     "area_water":3172680,
     "geoid":"17065",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_camden",
+  "id": "aclu/elections-api/county:8993",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8993",
     "area_land":1699090933,
     "area_water":136351829,
     "geoid":"29029",

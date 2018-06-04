@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_coshocton",
+  "id": "aclu/elections-api/county:9639",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9639",
     "area_land":1460530916,
     "area_water":9243155,
     "geoid":"39031",

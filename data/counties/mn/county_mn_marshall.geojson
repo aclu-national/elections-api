@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_marshall",
+  "id": "aclu/elections-api/county:8935",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8935",
     "area_land":4597384434,
     "area_water":98019666,
     "geoid":"27089",

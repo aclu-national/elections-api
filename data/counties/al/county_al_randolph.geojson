@@ -1,7 +1,8 @@
 {
-  "id": "county_al_randolph",
+  "id": "aclu/elections-api/county:7657",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7657",
     "area_land":1503615934,
     "area_water":9285420,
     "geoid":"01111",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_nolan",
+  "id": "aclu/elections-api/county:10358",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10358",
     "area_land":2362061742,
     "area_water":5052158,
     "geoid":"48353",

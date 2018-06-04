@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_medina",
+  "id": "aclu/elections-api/county:10344",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10344",
     "area_land":3432663415,
     "area_water":23762579,
     "geoid":"48325",

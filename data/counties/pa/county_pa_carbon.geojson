@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_carbon",
+  "id": "aclu/elections-api/county:9837",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9837",
     "area_land":987977576,
     "area_water":15349904,
     "geoid":"42025",

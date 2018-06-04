@@ -1,7 +1,8 @@
 {
-  "id": "county_il_edgar",
+  "id": "aclu/elections-api/county:8295",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8295",
     "area_land":1614542009,
     "area_water":1600421,
     "geoid":"17045",

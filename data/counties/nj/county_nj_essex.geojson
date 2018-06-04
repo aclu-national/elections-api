@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_essex",
+  "id": "aclu/elections-api/county:9497",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9497",
     "area_land":326559360,
     "area_water":8636456,
     "geoid":"34013",

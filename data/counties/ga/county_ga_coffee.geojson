@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_coffee",
+  "id": "aclu/elections-api/county:7998",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7998",
     "area_land":1490399436,
     "area_water":70456631,
     "geoid":"13069",

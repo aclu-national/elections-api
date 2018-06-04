@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_kiowa",
+  "id": "aclu/elections-api/county:9749",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9749",
     "area_land":2629209766,
     "area_water":40296743,
     "geoid":"40075",

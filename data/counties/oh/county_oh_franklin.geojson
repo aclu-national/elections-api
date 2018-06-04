@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_franklin",
+  "id": "aclu/elections-api/county:9648",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9648",
     "area_land":1378853105,
     "area_water":29125601,
     "geoid":"39049",

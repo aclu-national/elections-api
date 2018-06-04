@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_southeast-fairbanks",
+  "id": "aclu/elections-api/county:7597",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7597",
     "area_land":64290353013,
     "area_water":752301282,
     "geoid":"02240",

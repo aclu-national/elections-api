@@ -1,7 +1,8 @@
 {
-  "id": "county_la_bienville",
+  "id": "aclu/elections-api/county:8698",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8698",
     "area_land":2101207370,
     "area_water":27945994,
     "geoid":"22013",

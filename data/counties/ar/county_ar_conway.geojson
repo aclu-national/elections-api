@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_conway",
+  "id": "aclu/elections-api/county:7683",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7683",
     "area_land":1430330693,
     "area_water":37331621,
     "geoid":"05029",

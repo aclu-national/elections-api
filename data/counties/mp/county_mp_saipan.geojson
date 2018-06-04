@@ -1,7 +1,8 @@
 {
-  "id": "county_mp_saipan",
+  "id": "aclu/elections-api/county:9095",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9095",
     "area_land":118890998,
     "area_water":532767365,
     "geoid":"69110",

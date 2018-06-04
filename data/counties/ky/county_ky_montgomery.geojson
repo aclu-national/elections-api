@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_montgomery",
+  "id": "aclu/elections-api/county:8658",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8658",
     "area_land":511177578,
     "area_water":3859635,
     "geoid":"21173",

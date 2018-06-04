@@ -1,7 +1,8 @@
 {
-  "id": "county_or_hood-river",
+  "id": "aclu/elections-api/county:9802",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9802",
     "area_land":1352203450,
     "area_water":29040461,
     "geoid":"41027",

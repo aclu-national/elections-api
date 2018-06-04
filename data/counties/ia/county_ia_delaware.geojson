@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_delaware",
+  "id": "aclu/elections-api/county:8157",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8157",
     "area_land":1496278852,
     "area_water":3185282,
     "geoid":"19055",

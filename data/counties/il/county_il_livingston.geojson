@@ -1,7 +1,8 @@
 {
-  "id": "county_il_livingston",
+  "id": "aclu/elections-api/county:8325",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8325",
     "area_land":2704538434,
     "area_water":4401361,
     "geoid":"17105",

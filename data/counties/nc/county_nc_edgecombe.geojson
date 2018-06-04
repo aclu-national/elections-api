@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_edgecombe",
+  "id": "aclu/elections-api/county:9267",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9267",
     "area_land":1309062991,
     "area_water":3717083,
     "geoid":"37065",

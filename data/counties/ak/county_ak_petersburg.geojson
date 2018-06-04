@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_petersburg",
+  "id": "aclu/elections-api/county:7593",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7593",
     "area_land":7513010884,
     "area_water":2385501229,
     "geoid":"02195",

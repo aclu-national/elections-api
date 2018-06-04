@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_woodson",
+  "id": "aclu/elections-api/county:8570",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8570",
     "area_land":1289347405,
     "area_water":19251486,
     "geoid":"20207",

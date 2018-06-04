@@ -1,7 +1,8 @@
 {
-  "id": "county_me_sagadahoc",
+  "id": "aclu/elections-api/county:8804",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8804",
     "area_land":657803472,
     "area_water":300569614,
     "geoid":"23023",

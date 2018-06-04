@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_gloucester",
+  "id": "aclu/elections-api/county:9498",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9498",
     "area_land":833862843,
     "area_water":38373885,
     "geoid":"34015",

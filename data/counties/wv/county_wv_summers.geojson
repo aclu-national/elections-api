@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_summers",
+  "id": "aclu/elections-api/county:10766",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10766",
     "area_land":933901529,
     "area_water":18506801,
     "geoid":"54089",

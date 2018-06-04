@@ -1,7 +1,8 @@
 {
-  "id": "county_me_franklin",
+  "id": "aclu/elections-api/county:8796",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8796",
     "area_land":4395190350,
     "area_water":121369621,
     "geoid":"23007",

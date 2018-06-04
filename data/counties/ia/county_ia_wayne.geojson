@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_wayne",
+  "id": "aclu/elections-api/county:8222",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8222",
     "area_land":1360940440,
     "area_water":4347639,
     "geoid":"19185",

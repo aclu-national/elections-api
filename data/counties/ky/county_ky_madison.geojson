@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_madison",
+  "id": "aclu/elections-api/county:8644",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8644",
     "area_land":1132603918,
     "area_water":15425953,
     "geoid":"21151",

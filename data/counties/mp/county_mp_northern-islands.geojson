@@ -1,7 +1,8 @@
 {
-  "id": "county_mp_northern-islands",
+  "id": "aclu/elections-api/county:9093",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9093",
     "area_land":160057011,
     "area_water":2939509407,
     "geoid":"69085",

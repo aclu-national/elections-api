@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_wilbarger",
+  "id": "aclu/elections-api/county:10425",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10425",
     "area_land":2514536080,
     "area_water":18196245,
     "geoid":"48487",

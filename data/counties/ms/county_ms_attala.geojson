@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_attala",
+  "id": "aclu/elections-api/county:9100",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9100",
     "area_land":1903529288,
     "area_water":4425860,
     "geoid":"28007",

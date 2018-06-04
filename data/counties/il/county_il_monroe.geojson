@@ -1,7 +1,8 @@
 {
-  "id": "county_il_monroe",
+  "id": "aclu/elections-api/county:8339",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8339",
     "area_land":997207732,
     "area_water":33717847,
     "geoid":"17133",

@@ -1,7 +1,8 @@
 {
-  "id": "county_id_kootenai",
+  "id": "aclu/elections-api/county:8256",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8256",
     "area_land":3205258021,
     "area_water":185023431,
     "geoid":"16055",

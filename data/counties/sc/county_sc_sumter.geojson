@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_sumter",
+  "id": "aclu/elections-api/county:10017",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10017",
     "area_land":1722537126,
     "area_water":44054520,
     "geoid":"45085",

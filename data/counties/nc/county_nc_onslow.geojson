@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_onslow",
+  "id": "aclu/elections-api/county:9301",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9301",
     "area_land":1973376983,
     "area_water":371063373,
     "geoid":"37133",

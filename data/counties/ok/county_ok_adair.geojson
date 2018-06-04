@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_adair",
+  "id": "aclu/elections-api/county:9712",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9712",
     "area_land":1485304967,
     "area_water":9254749,
     "geoid":"40001",

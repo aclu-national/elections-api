@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_mccreary",
+  "id": "aclu/elections-api/county:8651",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8651",
     "area_land":1105416732,
     "area_water":10730756,
     "geoid":"21147",

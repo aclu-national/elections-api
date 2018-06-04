@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_caguas",
+  "id": "aclu/elections-api/county:9904",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9904",
     "area_land":151782488,
     "area_water":1201689,
     "geoid":"72025",

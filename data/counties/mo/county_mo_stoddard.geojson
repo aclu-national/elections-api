@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_stoddard",
+  "id": "aclu/elections-api/county:9081",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9081",
     "area_land":2132125025,
     "area_water":15031190,
     "geoid":"29207",

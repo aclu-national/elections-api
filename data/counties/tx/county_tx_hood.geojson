@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_hood",
+  "id": "aclu/elections-api/county:10292",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10292",
     "area_land":1089567387,
     "area_water":41838592,
     "geoid":"48221",

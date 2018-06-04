@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_smith",
+  "id": "aclu/elections-api/county:8558",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8558",
     "area_land":2319241783,
     "area_water":3884267,
     "geoid":"20183",

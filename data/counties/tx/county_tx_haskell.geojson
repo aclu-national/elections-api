@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_haskell",
+  "id": "aclu/elections-api/county:10285",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10285",
     "area_land":2339103815,
     "area_water":18465208,
     "geoid":"48207",

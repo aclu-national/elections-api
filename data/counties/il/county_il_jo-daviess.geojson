@@ -1,7 +1,8 @@
 {
-  "id": "county_il_jo-daviess",
+  "id": "aclu/elections-api/county:8315",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8315",
     "area_land":1556339187,
     "area_water":45776828,
     "geoid":"17085",

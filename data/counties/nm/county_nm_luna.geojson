@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_luna",
+  "id": "aclu/elections-api/county:9528",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9528",
     "area_land":7679944778,
     "area_water":433660,
     "geoid":"35029",

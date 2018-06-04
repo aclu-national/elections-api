@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_elko",
+  "id": "aclu/elections-api/county:9549",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9549",
     "area_land":44468067633,
     "area_water":85736268,
     "geoid":"32007",

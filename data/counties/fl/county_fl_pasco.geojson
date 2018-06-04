@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_pasco",
+  "id": "aclu/elections-api/county:7948",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7948",
     "area_land":1936400029,
     "area_water":312907704,
     "geoid":"12101",

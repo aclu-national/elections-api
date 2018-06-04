@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_hawkins",
+  "id": "aclu/elections-api/county:10123",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10123",
     "area_land":1261465560,
     "area_water":32543978,
     "geoid":"47073",

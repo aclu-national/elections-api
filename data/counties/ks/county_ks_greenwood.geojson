@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_greenwood",
+  "id": "aclu/elections-api/county:8503",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8503",
     "area_land":2961121922,
     "area_water":24166737,
     "geoid":"20073",

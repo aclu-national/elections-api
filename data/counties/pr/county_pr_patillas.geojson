@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_patillas",
+  "id": "aclu/elections-api/county:9947",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9947",
     "area_land":120695652,
     "area_water":74074554,
     "geoid":"72109",

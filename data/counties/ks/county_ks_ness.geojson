@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_ness",
+  "id": "aclu/elections-api/county:8534",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8534",
     "area_land":2783557951,
     "area_water":667491,
     "geoid":"20135",

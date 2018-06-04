@@ -1,7 +1,8 @@
 {
-  "id": "county_in_ohio",
+  "id": "aclu/elections-api/county:8432",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8432",
     "area_land":223126822,
     "area_water":3352208,
     "geoid":"18115",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_platte",
+  "id": "aclu/elections-api/county:10792",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10792",
     "area_land":5398019715,
     "area_water":69035953,
     "geoid":"56031",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_montour",
+  "id": "aclu/elections-api/county:9871",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9871",
     "area_land":337326240,
     "area_water":5407948,
     "geoid":"42093",

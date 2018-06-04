@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_mineral",
+  "id": "aclu/elections-api/county:10750",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10750",
     "area_land":849173054,
     "area_water":3502975,
     "geoid":"54057",

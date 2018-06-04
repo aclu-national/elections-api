@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_anderson",
+  "id": "aclu/elections-api/county:9978",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9978",
     "area_land":1853025715,
     "area_water":108725240,
     "geoid":"45007",

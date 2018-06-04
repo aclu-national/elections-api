@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_ochiltree",
+  "id": "aclu/elections-api/county:10360",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10360",
     "area_land":2376792102,
     "area_water":1331778,
     "geoid":"48357",

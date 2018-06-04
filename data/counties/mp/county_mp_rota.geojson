@@ -1,7 +1,8 @@
 {
-  "id": "county_mp_rota",
+  "id": "aclu/elections-api/county:9094",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9094",
     "area_land":85098741,
     "area_water":539090851,
     "geoid":"69100",

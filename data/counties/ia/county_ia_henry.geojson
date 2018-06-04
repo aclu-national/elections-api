@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_henry",
+  "id": "aclu/elections-api/county:8173",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8173",
     "area_land":1124792081,
     "area_water":5768130,
     "geoid":"19087",

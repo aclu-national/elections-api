@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_snohomish",
+  "id": "aclu/elections-api/county:10641",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10641",
     "area_land":5404083801,
     "area_water":282887163,
     "geoid":"53061",

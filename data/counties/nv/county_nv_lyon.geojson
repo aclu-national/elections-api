@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_lyon",
+  "id": "aclu/elections-api/county:9555",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9555",
     "area_land":5183173279,
     "area_water":59602530,
     "geoid":"32019",

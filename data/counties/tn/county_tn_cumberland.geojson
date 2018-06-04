@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_cumberland",
+  "id": "aclu/elections-api/county:10104",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10104",
     "area_land":1763849850,
     "area_water":9823728,
     "geoid":"47035",

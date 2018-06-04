@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_comal",
+  "id": "aclu/elections-api/county:10227",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10227",
     "area_land":1449127320,
     "area_water":39800429,
     "geoid":"48091",

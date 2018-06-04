@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_wexford",
+  "id": "aclu/elections-api/county:8891",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8891",
     "area_land":1463234116,
     "area_water":27096654,
     "geoid":"26165",

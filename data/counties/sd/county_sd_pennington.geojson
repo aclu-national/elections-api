@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_pennington",
+  "id": "aclu/elections-api/county:10072",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10072",
     "area_land":7191808178,
     "area_water":19906989,
     "geoid":"46103",

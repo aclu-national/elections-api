@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_stephens",
+  "id": "aclu/elections-api/county:10396",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10396",
     "area_land":2322492638,
     "area_water":64152295,
     "geoid":"48429",

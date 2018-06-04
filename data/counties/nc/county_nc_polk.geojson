@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_polk",
+  "id": "aclu/elections-api/county:9309",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9309",
     "area_land":615606300,
     "area_water":1964035,
     "geoid":"37149",

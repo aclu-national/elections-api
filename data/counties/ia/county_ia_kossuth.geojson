@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_kossuth",
+  "id": "aclu/elections-api/county:8184",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8184",
     "area_land":2519361813,
     "area_water":4125592,
     "geoid":"19109",

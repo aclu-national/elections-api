@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_warren",
+  "id": "aclu/elections-api/county:9087",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9087",
     "area_land":1110070358,
     "area_water":23748217,
     "geoid":"29219",

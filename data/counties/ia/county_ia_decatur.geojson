@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_decatur",
+  "id": "aclu/elections-api/county:8156",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8156",
     "area_land":1377567314,
     "area_water":4140764,
     "geoid":"19053",

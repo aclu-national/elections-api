@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_rice",
+  "id": "aclu/elections-api/county:8957",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8957",
     "area_land":1284224027,
     "area_water":52057387,
     "geoid":"27131",

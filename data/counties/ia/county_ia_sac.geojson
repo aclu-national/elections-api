@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_sac",
+  "id": "aclu/elections-api/county:8210",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8210",
     "area_land":1489300182,
     "area_water":8569441,
     "geoid":"19161",

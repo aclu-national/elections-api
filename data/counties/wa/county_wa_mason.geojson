@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_mason",
+  "id": "aclu/elections-api/county:10633",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10633",
     "area_land":2484806998,
     "area_water":237381766,
     "geoid":"53045",

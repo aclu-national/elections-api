@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_toa-alta",
+  "id": "aclu/elections-api/county:9960",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9960",
     "area_land":69972584,
     "area_water":1405464,
     "geoid":"72135",

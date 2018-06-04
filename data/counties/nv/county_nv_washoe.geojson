@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_washoe",
+  "id": "aclu/elections-api/county:9560",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9560",
     "area_land":16323099293,
     "area_water":621146261,
     "geoid":"32031",

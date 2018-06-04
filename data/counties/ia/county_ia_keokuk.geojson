@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_keokuk",
+  "id": "aclu/elections-api/county:8183",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8183",
     "area_land":1500067253,
     "area_water":1929323,
     "geoid":"19107",

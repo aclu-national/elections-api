@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_corson",
+  "id": "aclu/elections-api/county:10035",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10035",
     "area_land":6396478456,
     "area_water":155287099,
     "geoid":"46031",

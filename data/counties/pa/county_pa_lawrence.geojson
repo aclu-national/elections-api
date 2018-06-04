@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_lawrence",
+  "id": "aclu/elections-api/county:9861",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9861",
     "area_land":927644463,
     "area_water":11783868,
     "geoid":"42073",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_yakima",
+  "id": "aclu/elections-api/county:10649",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10649",
     "area_land":11122757370,
     "area_water":41168172,
     "geoid":"53077",

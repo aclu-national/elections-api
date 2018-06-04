@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_gilchrist",
+  "id": "aclu/elections-api/county:7917",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7917",
     "area_land":905705520,
     "area_water":14362154,
     "geoid":"12041",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_beaufort",
+  "id": "aclu/elections-api/county:9241",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9241",
     "area_land":2154872483,
     "area_water":338892301,
     "geoid":"37013",

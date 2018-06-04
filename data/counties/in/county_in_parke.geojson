@@ -1,7 +1,8 @@
 {
-  "id": "county_in_parke",
+  "id": "aclu/elections-api/county:8435",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8435",
     "area_land":1151747431,
     "area_water":13683945,
     "geoid":"18121",

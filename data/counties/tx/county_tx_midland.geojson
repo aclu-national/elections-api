@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_midland",
+  "id": "aclu/elections-api/county:10346",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10346",
     "area_land":2331647582,
     "area_water":4520751,
     "geoid":"48329",

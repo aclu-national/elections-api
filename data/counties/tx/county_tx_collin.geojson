@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_collin",
+  "id": "aclu/elections-api/county:10224",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10224",
     "area_land":2178638821,
     "area_water":116470919,
     "geoid":"48085",

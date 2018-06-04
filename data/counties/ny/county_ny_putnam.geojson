@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_putnam",
+  "id": "aclu/elections-api/county:9601",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9601",
     "area_land":596504204,
     "area_water":41282800,
     "geoid":"36079",

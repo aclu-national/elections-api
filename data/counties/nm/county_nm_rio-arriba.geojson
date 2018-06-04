@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_rio-arriba",
+  "id": "aclu/elections-api/county:9533",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9533",
     "area_land":15179716552,
     "area_water":91476917,
     "geoid":"35039",

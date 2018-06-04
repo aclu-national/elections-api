@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_crisp",
+  "id": "aclu/elections-api/county:8004",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8004",
     "area_land":705921217,
     "area_water":21739092,
     "geoid":"13081",

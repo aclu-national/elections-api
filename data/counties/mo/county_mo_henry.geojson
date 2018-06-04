@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_henry",
+  "id": "aclu/elections-api/county:9020",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9020",
     "area_land":1805075858,
     "area_water":91636450,
     "geoid":"29083",

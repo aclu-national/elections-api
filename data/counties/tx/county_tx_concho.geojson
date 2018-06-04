@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_concho",
+  "id": "aclu/elections-api/county:10229",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10229",
     "area_land":2547913999,
     "area_water":25740027,
     "geoid":"48095",

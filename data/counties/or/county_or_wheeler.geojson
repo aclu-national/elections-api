@@ -1,7 +1,8 @@
 {
-  "id": "county_or_wheeler",
+  "id": "aclu/elections-api/county:9823",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9823",
     "area_land":4444476933,
     "area_water":1241033,
     "geoid":"41069",

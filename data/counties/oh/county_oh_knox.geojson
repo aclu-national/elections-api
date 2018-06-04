@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_knox",
+  "id": "aclu/elections-api/county:9665",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9665",
     "area_land":1361054324,
     "area_water":10718576,
     "geoid":"39083",

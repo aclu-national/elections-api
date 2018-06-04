@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_benton",
+  "id": "aclu/elections-api/county:10089",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10089",
     "area_land":1021248371,
     "area_water":108583504,
     "geoid":"47005",

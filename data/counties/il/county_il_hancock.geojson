@@ -1,7 +1,8 @@
 {
-  "id": "county_il_hancock",
+  "id": "aclu/elections-api/county:8306",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8306",
     "area_land":2055740566,
     "area_water":53535827,
     "geoid":"17067",

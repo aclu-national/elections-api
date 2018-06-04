@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_clay",
+  "id": "aclu/elections-api/county:10033",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10033",
     "area_land":1067154414,
     "area_water":13955950,
     "geoid":"46027",

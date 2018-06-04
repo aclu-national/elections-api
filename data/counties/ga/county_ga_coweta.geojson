@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_coweta",
+  "id": "aclu/elections-api/county:8002",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8002",
     "area_land":1141973686,
     "area_water":12727950,
     "geoid":"13077",

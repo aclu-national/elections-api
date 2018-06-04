@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_lavaca",
+  "id": "aclu/elections-api/county:10324",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10324",
     "area_land":2511535250,
     "area_water":1882216,
     "geoid":"48285",

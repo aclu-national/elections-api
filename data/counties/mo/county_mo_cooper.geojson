@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_cooper",
+  "id": "aclu/elections-api/county:9005",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9005",
     "area_land":1462738176,
     "area_water":11434005,
     "geoid":"29053",

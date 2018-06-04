@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_mckinley",
+  "id": "aclu/elections-api/county:9529",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9529",
     "area_land":14116799310,
     "area_water":14078537,
     "geoid":"35031",

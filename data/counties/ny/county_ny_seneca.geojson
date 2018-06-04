@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_seneca",
+  "id": "aclu/elections-api/county:9610",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9610",
     "area_land":838403626,
     "area_water":172828921,
     "geoid":"36099",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_wright",
+  "id": "aclu/elections-api/county:8228",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8228",
     "area_land":1503286935,
     "area_water":4703964,
     "geoid":"19197",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_cleveland",
+  "id": "aclu/elections-api/county:7681",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7681",
     "area_land":1548252545,
     "area_water":2500346,
     "geoid":"05025",

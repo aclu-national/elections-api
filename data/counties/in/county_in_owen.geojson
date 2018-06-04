@@ -1,7 +1,8 @@
 {
-  "id": "county_in_owen",
+  "id": "aclu/elections-api/county:8434",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8434",
     "area_land":997910783,
     "area_water":6566402,
     "geoid":"18119",

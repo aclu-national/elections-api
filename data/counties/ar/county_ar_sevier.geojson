@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_sevier",
+  "id": "aclu/elections-api/county:7734",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7734",
     "area_land":1463680831,
     "area_water":41831844,
     "geoid":"05133",

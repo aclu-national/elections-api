@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_bexar",
+  "id": "aclu/elections-api/county:10196",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10196",
     "area_land":3211308851,
     "area_water":41911545,
     "geoid":"48029",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_van-buren",
+  "id": "aclu/elections-api/county:7739",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7739",
     "area_land":1838200422,
     "area_water":37692771,
     "geoid":"05141",

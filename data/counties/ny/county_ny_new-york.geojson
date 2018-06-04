@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_new-york",
+  "id": "aclu/elections-api/county:9592",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9592",
     "area_land":58681329,
     "area_water":28550878,
     "geoid":"36061",

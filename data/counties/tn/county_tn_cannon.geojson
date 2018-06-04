@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_cannon",
+  "id": "aclu/elections-api/county:10094",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10094",
     "area_land":687992432,
     "area_water":156144,
     "geoid":"47015",

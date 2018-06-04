@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_jefferson",
+  "id": "aclu/elections-api/county:10626",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10626",
     "area_land":4671790710,
     "area_water":994835543,
     "geoid":"53031",

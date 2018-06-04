@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_duchesne",
+  "id": "aclu/elections-api/county:10442",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10442",
     "area_land":8379502703,
     "area_water":38797815,
     "geoid":"49013",

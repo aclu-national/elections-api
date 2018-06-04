@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_bronx",
+  "id": "aclu/elections-api/county:9564",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9564",
     "area_land":108910661,
     "area_water":39682657,
     "geoid":"36005",

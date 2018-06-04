@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_mahoning",
+  "id": "aclu/elections-api/county:9673",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9673",
     "area_land":1065795297,
     "area_water":35434368,
     "geoid":"39099",

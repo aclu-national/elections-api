@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_grays-harbor",
+  "id": "aclu/elections-api/county:10624",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10624",
     "area_land":4924343838,
     "area_water":834767680,
     "geoid":"53027",

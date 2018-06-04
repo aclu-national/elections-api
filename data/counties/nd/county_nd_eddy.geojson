@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_eddy",
+  "id": "aclu/elections-api/county:9348",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9348",
     "area_land":1632134148,
     "area_water":36114199,
     "geoid":"38027",

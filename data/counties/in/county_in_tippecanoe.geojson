@@ -1,7 +1,8 @@
 {
-  "id": "county_in_tippecanoe",
+  "id": "aclu/elections-api/county:8453",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8453",
     "area_land":1292138000,
     "area_water":11256312,
     "geoid":"18157",

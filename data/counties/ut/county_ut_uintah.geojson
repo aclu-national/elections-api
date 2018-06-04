@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_uintah",
+  "id": "aclu/elections-api/county:10459",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10459",
     "area_land":11609319530,
     "area_water":56115772,
     "geoid":"49047",

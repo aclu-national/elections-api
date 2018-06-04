@@ -1,7 +1,8 @@
 {
-  "id": "county_vt_essex",
+  "id": "aclu/elections-api/county:10601",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10601",
     "area_land":1718717381,
     "area_water":28683328,
     "geoid":"50009",

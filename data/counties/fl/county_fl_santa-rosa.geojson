@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_santa-rosa",
+  "id": "aclu/elections-api/county:7952",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7952",
     "area_land":2621316069,
     "area_water":418753385,
     "geoid":"12113",

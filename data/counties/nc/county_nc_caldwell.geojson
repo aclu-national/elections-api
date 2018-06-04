@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_caldwell",
+  "id": "aclu/elections-api/county:9248",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9248",
     "area_land":1222192511,
     "area_water":7038401,
     "geoid":"37027",

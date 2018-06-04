@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_naguabo",
+  "id": "aclu/elections-api/county:9944",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9944",
     "area_land":133799723,
     "area_water":53351781,
     "geoid":"72103",

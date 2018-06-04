@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_dallas",
+  "id": "aclu/elections-api/county:7688",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7688",
     "area_land":1728522517,
     "area_water":1864048,
     "geoid":"05039",

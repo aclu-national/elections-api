@@ -1,7 +1,8 @@
 {
-  "id": "county_va_madison",
+  "id": "aclu/elections-api/county:10537",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10537",
     "area_land":830426508,
     "area_water":3228803,
     "geoid":"51113",

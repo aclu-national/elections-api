@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_miami",
+  "id": "aclu/elections-api/county:9678",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9678",
     "area_land":1053028461,
     "area_water":7967436,
     "geoid":"39109",

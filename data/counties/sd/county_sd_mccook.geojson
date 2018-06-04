@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_mccook",
+  "id": "aclu/elections-api/county:10064",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10064",
     "area_land":1487182081,
     "area_water":6898508,
     "geoid":"46087",

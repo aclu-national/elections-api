@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_cerro-gordo",
+  "id": "aclu/elections-api/county:8146",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8146",
     "area_land":1471881731,
     "area_water":17668265,
     "geoid":"19033",

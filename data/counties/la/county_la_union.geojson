@@ -1,7 +1,8 @@
 {
-  "id": "county_la_union",
+  "id": "aclu/elections-api/county:8747",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8747",
     "area_land":2271359845,
     "area_water":73624039,
     "geoid":"22111",

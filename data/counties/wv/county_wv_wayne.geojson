@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_wayne",
+  "id": "aclu/elections-api/county:10771",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10771",
     "area_land":1310504124,
     "area_water":15860720,
     "geoid":"54099",

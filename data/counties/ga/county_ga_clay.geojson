@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_clay",
+  "id": "aclu/elections-api/county:7994",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7994",
     "area_land":506035793,
     "area_water":56605066,
     "geoid":"13061",

@@ -1,7 +1,8 @@
 {
-  "id": "county_il_champaign",
+  "id": "aclu/elections-api/county:8282",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8282",
     "area_land":2579733580,
     "area_water":6091992,
     "geoid":"17019",

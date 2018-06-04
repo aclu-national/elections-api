@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_milwaukee",
+  "id": "aclu/elections-api/county:10690",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10690",
     "area_land":625439443,
     "area_water":2455436199,
     "geoid":"55079",

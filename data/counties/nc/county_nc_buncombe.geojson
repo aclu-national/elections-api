@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_buncombe",
+  "id": "aclu/elections-api/county:9245",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9245",
     "area_land":1700042284,
     "area_water":8942802,
     "geoid":"37021",

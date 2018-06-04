@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_thayer",
+  "id": "aclu/elections-api/county:9472",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9472",
     "area_land":1486153357,
     "area_water":3025340,
     "geoid":"31169",

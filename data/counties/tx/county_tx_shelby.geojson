@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_shelby",
+  "id": "aclu/elections-api/county:10391",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10391",
     "area_land":2060566167,
     "area_water":101081674,
     "geoid":"48419",

@@ -1,7 +1,8 @@
 {
-  "id": "county_il_christian",
+  "id": "aclu/elections-api/county:8283",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8283",
     "area_land":1837278858,
     "area_water":16221514,
     "geoid":"17021",

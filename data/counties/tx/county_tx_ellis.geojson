@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_ellis",
+  "id": "aclu/elections-api/county:10252",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10252",
     "area_land":2423342394,
     "area_water":41672841,
     "geoid":"48139",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_garrard",
+  "id": "aclu/elections-api/county:8611",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8611",
     "area_land":595899383,
     "area_water":10017670,
     "geoid":"21079",

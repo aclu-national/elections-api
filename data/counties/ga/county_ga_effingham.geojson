@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_effingham",
+  "id": "aclu/elections-api/county:8015",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8015",
     "area_land":1237281310,
     "area_water":13464072,
     "geoid":"13103",

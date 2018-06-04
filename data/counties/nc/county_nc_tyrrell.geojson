@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_tyrrell",
+  "id": "aclu/elections-api/county:9323",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9323",
     "area_land":1012110887,
     "area_water":534568389,
     "geoid":"37177",

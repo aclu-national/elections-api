@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_dickinson",
+  "id": "aclu/elections-api/county:8159",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8159",
     "area_land":985539078,
     "area_water":60716111,
     "geoid":"19059",

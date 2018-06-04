@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_dallas",
+  "id": "aclu/elections-api/county:10238",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10238",
     "area_land":2258737472,
     "area_water":94576756,
     "geoid":"48113",

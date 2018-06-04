@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_auglaize",
+  "id": "aclu/elections-api/county:9629",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9629",
     "area_land":1039603387,
     "area_water":1345186,
     "geoid":"39011",

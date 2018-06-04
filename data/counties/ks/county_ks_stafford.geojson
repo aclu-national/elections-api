@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_stafford",
+  "id": "aclu/elections-api/county:8559",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8559",
     "area_land":2051389756,
     "area_water":7435417,
     "geoid":"20185",

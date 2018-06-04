@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_sioux",
+  "id": "aclu/elections-api/county:9377",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9377",
     "area_land":2833690974,
     "area_water":88449900,
     "geoid":"38085",

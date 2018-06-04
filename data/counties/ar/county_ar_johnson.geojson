@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_johnson",
+  "id": "aclu/elections-api/county:7704",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7704",
     "area_land":1709103300,
     "area_water":59195663,
     "geoid":"05071",

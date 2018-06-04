@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_lynn",
+  "id": "aclu/elections-api/county:10334",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10334",
     "area_land":2309924845,
     "area_water":4169719,
     "geoid":"48305",

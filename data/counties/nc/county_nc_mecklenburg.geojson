@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_mecklenburg",
+  "id": "aclu/elections-api/county:9294",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9294",
     "area_land":1356030322,
     "area_water":56685361,
     "geoid":"37119",

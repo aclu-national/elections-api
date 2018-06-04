@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_nacogdoches",
+  "id": "aclu/elections-api/county:10355",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10355",
     "area_land":2451572359,
     "area_water":89731152,
     "geoid":"48347",

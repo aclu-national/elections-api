@@ -1,7 +1,8 @@
 {
-  "id": "county_id_madison",
+  "id": "aclu/elections-api/county:8261",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8261",
     "area_land":1215396379,
     "area_water":10500827,
     "geoid":"16065",

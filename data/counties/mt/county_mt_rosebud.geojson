@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_rosebud",
+  "id": "aclu/elections-api/county:9222",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9222",
     "area_land":12971010170,
     "area_water":44234236,
     "geoid":"30087",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_highland",
+  "id": "aclu/elections-api/county:10523",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10523",
     "area_land":1075253055,
     "area_water":1805613,
     "geoid":"51091",

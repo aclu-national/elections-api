@@ -1,7 +1,8 @@
 {
-  "id": "county_il_sangamon",
+  "id": "aclu/elections-api/county:8355",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8355",
     "area_land":2248891495,
     "area_water":22577723,
     "geoid":"17167",

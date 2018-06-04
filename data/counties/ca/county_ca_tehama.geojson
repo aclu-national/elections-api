@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_tehama",
+  "id": "aclu/elections-api/county:7815",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7815",
     "area_land":7638228772,
     "area_water":33767784,
     "geoid":"06103",

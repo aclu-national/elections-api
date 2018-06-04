@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_hardeman",
+  "id": "aclu/elections-api/county:10121",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10121",
     "area_land":1729448612,
     "area_water":6829952,
     "geoid":"47069",

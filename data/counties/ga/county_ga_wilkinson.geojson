@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_wilkinson",
+  "id": "aclu/elections-api/county:8122",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8122",
     "area_land":1158541310,
     "area_water":12003359,
     "geoid":"13319",

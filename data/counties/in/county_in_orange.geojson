@@ -1,7 +1,8 @@
 {
-  "id": "county_in_orange",
+  "id": "aclu/elections-api/county:8433",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8433",
     "area_land":1031786463,
     "area_water":25425748,
     "geoid":"18117",

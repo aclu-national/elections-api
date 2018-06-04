@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_allen",
+  "id": "aclu/elections-api/county:8573",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8573",
     "area_land":891830211,
     "area_water":19490893,
     "geoid":"21003",

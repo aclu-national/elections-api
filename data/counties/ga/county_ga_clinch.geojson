@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_clinch",
+  "id": "aclu/elections-api/county:7996",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7996",
     "area_land":2072566890,
     "area_water":61565560,
     "geoid":"13065",

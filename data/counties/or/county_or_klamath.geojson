@@ -1,7 +1,8 @@
 {
-  "id": "county_or_klamath",
+  "id": "aclu/elections-api/county:9806",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9806",
     "area_land":15391613763,
     "area_water":503712593,
     "geoid":"41035",

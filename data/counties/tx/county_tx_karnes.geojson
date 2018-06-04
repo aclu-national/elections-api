@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_karnes",
+  "id": "aclu/elections-api/county:10309",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10309",
     "area_land":1936008340,
     "area_water":15671660,
     "geoid":"48255",

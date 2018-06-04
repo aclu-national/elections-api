@@ -1,7 +1,8 @@
 {
-  "id": "county_al_chilton",
+  "id": "aclu/elections-api/county:7612",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7612",
     "area_land":1794478905,
     "area_water":20590301,
     "geoid":"01021",

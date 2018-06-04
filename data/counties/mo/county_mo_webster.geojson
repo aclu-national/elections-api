@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_webster",
+  "id": "aclu/elections-api/county:9090",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9090",
     "area_land":1534730262,
     "area_water":3110547,
     "geoid":"29225",

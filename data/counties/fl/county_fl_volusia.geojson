@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_volusia",
+  "id": "aclu/elections-api/county:7961",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7961",
     "area_land":2852082296,
     "area_water":857948738,
     "geoid":"12127",

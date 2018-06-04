@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_clark",
+  "id": "aclu/elections-api/county:9635",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9635",
     "area_land":1029475869,
     "area_water":13070242,
     "geoid":"39023",

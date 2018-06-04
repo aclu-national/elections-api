@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_golden-valley",
+  "id": "aclu/elections-api/county:9351",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9351",
     "area_land":2593894350,
     "area_water":4147470,
     "geoid":"38033",

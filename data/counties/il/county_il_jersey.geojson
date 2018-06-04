@@ -1,7 +1,8 @@
 {
-  "id": "county_il_jersey",
+  "id": "aclu/elections-api/county:8314",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8314",
     "area_land":956433111,
     "area_water":20324168,
     "geoid":"17083",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_chesapeake",
+  "id": "aclu/elections-api/county:10489",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10489",
     "area_land":876737781,
     "area_water":32210024,
     "geoid":"51550",

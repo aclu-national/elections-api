@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_cocke",
+  "id": "aclu/elections-api/county:10101",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10101",
     "area_land":1125399301,
     "area_water":22117950,
     "geoid":"47029",

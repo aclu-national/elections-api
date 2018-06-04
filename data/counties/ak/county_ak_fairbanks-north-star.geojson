@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_fairbanks-north-star",
+  "id": "aclu/elections-api/county:7580",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7580",
     "area_land":18982307701,
     "area_water":274103901,
     "geoid":"02090",

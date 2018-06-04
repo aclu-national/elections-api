@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_northwest-arctic",
+  "id": "aclu/elections-api/county:7592",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7592",
     "area_land":92326483031,
     "area_water":12878258897,
     "geoid":"02188",

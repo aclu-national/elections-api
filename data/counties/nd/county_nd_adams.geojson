@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_adams",
+  "id": "aclu/elections-api/county:9335",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9335",
     "area_land":2557960600,
     "area_water":2833854,
     "geoid":"38001",

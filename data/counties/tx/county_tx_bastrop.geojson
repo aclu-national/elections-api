@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_bastrop",
+  "id": "aclu/elections-api/county:10192",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10192",
     "area_land":2300355868,
     "area_water":19105699,
     "geoid":"48021",

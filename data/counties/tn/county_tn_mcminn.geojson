@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_mcminn",
+  "id": "aclu/elections-api/county:10145",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10145",
     "area_land":1114009037,
     "area_water":5340571,
     "geoid":"47107",

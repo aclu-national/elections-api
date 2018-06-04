@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_pendleton",
+  "id": "aclu/elections-api/county:8667",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8667",
     "area_land":717836419,
     "area_water":12328246,
     "geoid":"21191",

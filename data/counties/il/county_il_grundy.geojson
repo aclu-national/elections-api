@@ -1,7 +1,8 @@
 {
-  "id": "county_il_grundy",
+  "id": "aclu/elections-api/county:8304",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8304",
     "area_land":1082840997,
     "area_water":32125709,
     "geoid":"17063",

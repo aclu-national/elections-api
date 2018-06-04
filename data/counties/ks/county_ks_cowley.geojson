@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_cowley",
+  "id": "aclu/elections-api/county:8484",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8484",
     "area_land":2915648172,
     "area_water":17322934,
     "geoid":"20035",

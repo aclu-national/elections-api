@@ -1,7 +1,8 @@
 {
-  "id": "county_va_northumberland",
+  "id": "aclu/elections-api/county:10550",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10550",
     "area_land":495728041,
     "area_water":243986806,
     "geoid":"51133",

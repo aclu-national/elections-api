@@ -1,7 +1,8 @@
 {
-  "id": "county_in_newton",
+  "id": "aclu/elections-api/county:8430",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8430",
     "area_land":1040539918,
     "area_water":4349506,
     "geoid":"18111",

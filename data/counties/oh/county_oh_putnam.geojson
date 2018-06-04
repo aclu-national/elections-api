@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_putnam",
+  "id": "aclu/elections-api/county:9692",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9692",
     "area_land":1249724511,
     "area_water":4603965,
     "geoid":"39137",

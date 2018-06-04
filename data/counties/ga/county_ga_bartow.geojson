@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_bartow",
+  "id": "aclu/elections-api/county:7972",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7972",
     "area_land":1190154332,
     "area_water":27368202,
     "geoid":"13015",

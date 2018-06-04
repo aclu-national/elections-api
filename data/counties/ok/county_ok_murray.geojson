@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_murray",
+  "id": "aclu/elections-api/county:9761",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9761",
     "area_land":1078624775,
     "area_water":22365113,
     "geoid":"40099",

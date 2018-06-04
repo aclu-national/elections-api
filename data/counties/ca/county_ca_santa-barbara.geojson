@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_santa-barbara",
+  "id": "aclu/elections-api/county:7805",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7805",
     "area_land":7084000622,
     "area_water":2729814515,
     "geoid":"06083",

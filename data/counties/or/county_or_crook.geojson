@@ -1,7 +1,8 @@
 {
-  "id": "county_or_crook",
+  "id": "aclu/elections-api/county:9795",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9795",
     "area_land":7715298889,
     "area_water":21091929,
     "geoid":"41013",

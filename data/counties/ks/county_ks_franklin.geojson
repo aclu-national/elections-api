@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_franklin",
+  "id": "aclu/elections-api/county:8496",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8496",
     "area_land":1480855486,
     "area_water":13920174,
     "geoid":"20059",

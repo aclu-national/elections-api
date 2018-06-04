@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_box-butte",
+  "id": "aclu/elections-api/county:9394",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9394",
     "area_land":2784994726,
     "area_water":6588657,
     "geoid":"31013",

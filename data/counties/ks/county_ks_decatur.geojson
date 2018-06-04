@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_decatur",
+  "id": "aclu/elections-api/county:8486",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8486",
     "area_land":2314199314,
     "area_water":1631670,
     "geoid":"20039",

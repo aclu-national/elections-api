@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_hickman",
+  "id": "aclu/elections-api/county:10127",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10127",
     "area_land":1586324705,
     "area_water":373710,
     "geoid":"47081",

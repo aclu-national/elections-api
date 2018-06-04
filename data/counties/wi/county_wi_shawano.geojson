@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_shawano",
+  "id": "aclu/elections-api/county:10707",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10707",
     "area_land":2313442856,
     "area_water":41883375,
     "geoid":"55115",

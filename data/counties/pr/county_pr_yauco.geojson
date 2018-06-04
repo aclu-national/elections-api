@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_yauco",
+  "id": "aclu/elections-api/county:9969",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9969",
     "area_land":175371914,
     "area_water":1625260,
     "geoid":"72153",

@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_marion",
+  "id": "aclu/elections-api/county:9674",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9674",
     "area_land":1045726876,
     "area_water":908577,
     "geoid":"39101",

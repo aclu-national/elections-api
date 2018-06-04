@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_lewis",
+  "id": "aclu/elections-api/county:10137",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10137",
     "area_land":730608078,
     "area_water":1031592,
     "geoid":"47101",

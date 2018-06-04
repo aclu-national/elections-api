@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_mendocino",
+  "id": "aclu/elections-api/county:7786",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7786",
     "area_land":9081426673,
     "area_water":962946204,
     "geoid":"06045",

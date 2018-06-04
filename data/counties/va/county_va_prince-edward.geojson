@@ -1,7 +1,8 @@
 {
-  "id": "county_va_prince-edward",
+  "id": "aclu/elections-api/county:10561",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10561",
     "area_land":906395961,
     "area_water":10040117,
     "geoid":"51147",

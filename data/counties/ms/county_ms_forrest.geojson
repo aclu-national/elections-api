@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_forrest",
+  "id": "aclu/elections-api/county:9114",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9114",
     "area_land":1207042799,
     "area_water":10872920,
     "geoid":"28035",

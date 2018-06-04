@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_okfuskee",
+  "id": "aclu/elections-api/county:9765",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9765",
     "area_land":1602086606,
     "area_water":26680140,
     "geoid":"40107",

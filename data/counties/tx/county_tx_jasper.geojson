@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_jasper",
+  "id": "aclu/elections-api/county:10302",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10302",
     "area_land":2431105374,
     "area_water":80399908,
     "geoid":"48241",

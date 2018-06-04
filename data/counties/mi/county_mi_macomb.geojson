@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_macomb",
+  "id": "aclu/elections-api/county:8858",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8858",
     "area_land":1241120517,
     "area_water":237557908,
     "geoid":"26099",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_perry",
+  "id": "aclu/elections-api/county:7721",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7721",
     "area_land":1428543051,
     "area_water":23226441,
     "geoid":"05105",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_greene",
+  "id": "aclu/elections-api/county:9581",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9581",
     "area_land":1676140490,
     "area_water":28201061,
     "geoid":"36039",

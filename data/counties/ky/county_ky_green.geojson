@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_green",
+  "id": "aclu/elections-api/county:8615",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8615",
     "area_land":740839712,
     "area_water":7123457,
     "geoid":"21087",

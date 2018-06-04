@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_barranquitas",
+  "id": "aclu/elections-api/county:9901",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9901",
     "area_land":88714041,
     "area_water":77812,
     "geoid":"72019",

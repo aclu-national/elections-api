@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_gu-nica",
+  "id": "aclu/elections-api/county:9920",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9920",
     "area_land":95959910,
     "area_water":109853315,
     "geoid":"72055",

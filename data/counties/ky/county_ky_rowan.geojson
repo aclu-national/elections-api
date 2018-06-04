@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_rowan",
+  "id": "aclu/elections-api/county:8674",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8674",
     "area_land":724723335,
     "area_water":16699596,
     "geoid":"21205",

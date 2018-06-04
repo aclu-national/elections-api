@@ -1,7 +1,8 @@
 {
-  "id": "county_in_boone",
+  "id": "aclu/elections-api/county:8380",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8380",
     "area_land":1095336143,
     "area_water":877936,
     "geoid":"18011",

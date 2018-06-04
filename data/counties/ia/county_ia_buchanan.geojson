@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_buchanan",
+  "id": "aclu/elections-api/county:8139",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8139",
     "area_land":1478934776,
     "area_water":5427666,
     "geoid":"19019",

@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_bamberg",
+  "id": "aclu/elections-api/county:9979",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9979",
     "area_land":1018815541,
     "area_water":5685855,
     "geoid":"45009",

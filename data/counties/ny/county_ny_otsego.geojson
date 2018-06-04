@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_otsego",
+  "id": "aclu/elections-api/county:9600",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9600",
     "area_land":2594462131,
     "area_water":36339122,
     "geoid":"36077",

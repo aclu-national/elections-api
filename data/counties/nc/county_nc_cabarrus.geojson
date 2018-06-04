@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_cabarrus",
+  "id": "aclu/elections-api/county:9247",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9247",
     "area_land":935603275,
     "area_water":7006691,
     "geoid":"37025",

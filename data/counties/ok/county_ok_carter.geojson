@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_carter",
+  "id": "aclu/elections-api/county:9721",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9721",
     "area_land":2129428214,
     "area_water":30012909,
     "geoid":"40019",

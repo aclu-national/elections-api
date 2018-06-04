@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_bergen",
+  "id": "aclu/elections-api/county:9492",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9492",
     "area_land":602859293,
     "area_water":35406803,
     "geoid":"34003",

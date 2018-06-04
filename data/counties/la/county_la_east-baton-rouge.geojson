@@ -1,7 +1,8 @@
 {
-  "id": "county_la_east-baton-rouge",
+  "id": "aclu/elections-api/county:8708",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8708",
     "area_land":1179346038,
     "area_water":38556769,
     "geoid":"22033",

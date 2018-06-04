@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_johnson",
+  "id": "aclu/elections-api/county:9029",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9029",
     "area_land":2147833558,
     "area_water":10122996,
     "geoid":"29101",

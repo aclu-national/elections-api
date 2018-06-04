@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_adjuntas",
+  "id": "aclu/elections-api/county:9893",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9893",
     "area_land":172725728,
     "area_water":1051790,
     "geoid":"72001",

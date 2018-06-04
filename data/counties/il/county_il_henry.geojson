@@ -1,7 +1,8 @@
 {
-  "id": "county_il_henry",
+  "id": "aclu/elections-api/county:8309",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8309",
     "area_land":2131552073,
     "area_water":6862245,
     "geoid":"17073",

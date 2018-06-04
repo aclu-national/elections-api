@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_wake",
+  "id": "aclu/elections-api/county:9326",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9326",
     "area_land":2162148714,
     "area_water":58100780,
     "geoid":"37183",

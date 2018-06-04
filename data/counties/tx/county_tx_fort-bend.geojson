@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_fort-bend",
+  "id": "aclu/elections-api/county:10260",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10260",
     "area_land":2231423107,
     "area_water":61595965,
     "geoid":"48157",

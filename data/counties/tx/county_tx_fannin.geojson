@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_fannin",
+  "id": "aclu/elections-api/county:10255",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10255",
     "area_land":2307250942,
     "area_water":20847063,
     "geoid":"48147",

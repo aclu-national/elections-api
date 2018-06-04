@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_bolivar",
+  "id": "aclu/elections-api/county:9102",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9102",
     "area_land":2270541554,
     "area_water":75515374,
     "geoid":"28011",

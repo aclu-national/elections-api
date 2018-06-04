@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_randolph",
+  "id": "aclu/elections-api/county:7729",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7729",
     "area_land":1689288878,
     "area_water":9852495,
     "geoid":"05121",

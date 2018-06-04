@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_campbell",
+  "id": "aclu/elections-api/county:8590",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8590",
     "area_land":391966324,
     "area_water":20930398,
     "geoid":"21037",

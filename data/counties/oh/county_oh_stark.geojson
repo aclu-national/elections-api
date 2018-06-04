@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_stark",
+  "id": "aclu/elections-api/county:9699",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9699",
     "area_land":1490043482,
     "area_water":13657023,
     "geoid":"39151",

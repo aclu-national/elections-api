@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_whitman",
+  "id": "aclu/elections-api/county:10648",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10648",
     "area_land":5592428648,
     "area_water":48281266,
     "geoid":"53075",

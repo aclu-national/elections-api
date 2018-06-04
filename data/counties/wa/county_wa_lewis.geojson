@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_lewis",
+  "id": "aclu/elections-api/county:10631",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10631",
     "area_land":6223151001,
     "area_water":86954130,
     "geoid":"53041",

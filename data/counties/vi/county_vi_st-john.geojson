@@ -1,7 +1,8 @@
 {
-  "id": "county_vi_st-john",
+  "id": "aclu/elections-api/county:10595",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10595",
     "area_land":50996518,
     "area_water":186671948,
     "geoid":"78020",

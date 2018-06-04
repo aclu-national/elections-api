@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_callahan",
+  "id": "aclu/elections-api/county:10211",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10211",
     "area_land":2329363248,
     "area_water":4898783,
     "geoid":"48059",

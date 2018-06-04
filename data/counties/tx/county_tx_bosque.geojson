@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_bosque",
+  "id": "aclu/elections-api/county:10199",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10199",
     "area_land":2545908057,
     "area_water":50666112,
     "geoid":"48035",

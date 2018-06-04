@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_hancock",
+  "id": "aclu/elections-api/county:9119",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9119",
     "area_land":1227560683,
     "area_water":204096133,
     "geoid":"28045",

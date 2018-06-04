@@ -1,7 +1,8 @@
 {
-  "id": "county_la_st-charles",
+  "id": "aclu/elections-api/county:8736",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8736",
     "area_land":719296011,
     "area_water":308712052,
     "geoid":"22089",

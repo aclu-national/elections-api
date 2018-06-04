@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_hot-springs",
+  "id": "aclu/elections-api/county:10785",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10785",
     "area_land":5190589691,
     "area_water":5964358,
     "geoid":"56017",

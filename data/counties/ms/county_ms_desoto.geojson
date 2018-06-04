@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_desoto",
+  "id": "aclu/elections-api/county:9113",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9113",
     "area_land":1233556699,
     "area_water":53624068,
     "geoid":"28033",

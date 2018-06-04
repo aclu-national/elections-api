@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_gillespie",
+  "id": "aclu/elections-api/county:10267",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10267",
     "area_land":2740716834,
     "area_water":9015052,
     "geoid":"48171",

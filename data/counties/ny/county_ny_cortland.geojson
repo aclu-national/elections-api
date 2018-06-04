@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_cortland",
+  "id": "aclu/elections-api/county:9573",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9573",
     "area_land":1291815779,
     "area_water":7112822,
     "geoid":"36023",

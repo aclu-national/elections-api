@@ -1,7 +1,8 @@
 {
-  "id": "county_la_iberville",
+  "id": "aclu/elections-api/county:8715",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8715",
     "area_land":1602243609,
     "area_water":88655983,
     "geoid":"22047",

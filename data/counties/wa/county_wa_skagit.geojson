@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_skagit",
+  "id": "aclu/elections-api/county:10639",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10639",
     "area_land":4481040001,
     "area_water":484058876,
     "geoid":"53057",

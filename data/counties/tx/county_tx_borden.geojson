@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_borden",
+  "id": "aclu/elections-api/county:10198",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10198",
     "area_land":2324366073,
     "area_water":22297610,
     "geoid":"48033",

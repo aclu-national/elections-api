@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_washington",
+  "id": "aclu/elections-api/county:9476",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9476",
     "area_land":1009985069,
     "area_water":8388604,
     "geoid":"31177",

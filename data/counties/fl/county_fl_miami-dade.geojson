@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_miami-dade",
+  "id": "aclu/elections-api/county:7940",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7940",
     "area_land":4917514967,
     "area_water":1379206478,
     "geoid":"12086",

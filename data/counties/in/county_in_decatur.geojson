@@ -1,7 +1,8 @@
 {
-  "id": "county_in_decatur",
+  "id": "aclu/elections-api/county:8390",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8390",
     "area_land":964946087,
     "area_water":1955470,
     "geoid":"18031",

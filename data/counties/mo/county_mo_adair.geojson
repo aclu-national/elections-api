@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_adair",
+  "id": "aclu/elections-api/county:8979",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8979",
     "area_land":1469362052,
     "area_water":5468507,
     "geoid":"29001",

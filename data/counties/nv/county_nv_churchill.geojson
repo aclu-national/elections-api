@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_churchill",
+  "id": "aclu/elections-api/county:9546",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9546",
     "area_land":12770128151,
     "area_water":242405502,
     "geoid":"32001",

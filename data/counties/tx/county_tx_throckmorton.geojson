@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_throckmorton",
+  "id": "aclu/elections-api/county:10405",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10405",
     "area_land":2363499442,
     "area_water":7586186,
     "geoid":"48447",

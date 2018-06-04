@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_wayne",
+  "id": "aclu/elections-api/county:8890",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8890",
     "area_land":1585060122,
     "area_water":157341390,
     "geoid":"26163",

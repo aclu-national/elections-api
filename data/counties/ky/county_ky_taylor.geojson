@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_taylor",
+  "id": "aclu/elections-api/county:8680",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8680",
     "area_land":689791858,
     "area_water":27162461,
     "geoid":"21217",

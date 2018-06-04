@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_mchenry",
+  "id": "aclu/elections-api/county:9359",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9359",
     "area_land":4853553119,
     "area_water":97384707,
     "geoid":"38049",

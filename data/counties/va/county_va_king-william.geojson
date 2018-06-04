@@ -1,7 +1,8 @@
 {
-  "id": "county_va_king-william",
+  "id": "aclu/elections-api/county:10529",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10529",
     "area_land":709481149,
     "area_water":31126025,
     "geoid":"51101",

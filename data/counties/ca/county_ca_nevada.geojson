@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_nevada",
+  "id": "aclu/elections-api/county:7792",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7792",
     "area_land":2480587331,
     "area_water":41531993,
     "geoid":"06057",

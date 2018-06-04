@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_warren",
+  "id": "aclu/elections-api/county:8113",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8113",
     "area_land":736316130,
     "area_water":6201954,
     "geoid":"13301",

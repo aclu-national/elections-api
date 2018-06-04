@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_sanpete",
+  "id": "aclu/elections-api/county:10455",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10455",
     "area_land":4117901449,
     "area_water":32049371,
     "geoid":"49039",

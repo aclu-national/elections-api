@@ -1,7 +1,8 @@
 {
-  "id": "county_in_vermillion",
+  "id": "aclu/elections-api/county:8457",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8457",
     "area_land":665311748,
     "area_water":7904759,
     "geoid":"18165",

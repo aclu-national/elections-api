@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_washington",
+  "id": "aclu/elections-api/county:10176",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10176",
     "area_land":845605969,
     "area_water":8635314,
     "geoid":"47179",

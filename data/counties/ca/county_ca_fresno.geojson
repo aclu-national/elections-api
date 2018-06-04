@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_fresno",
+  "id": "aclu/elections-api/county:7773",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7773",
     "area_land":15431410219,
     "area_water":137339029,
     "geoid":"06019",

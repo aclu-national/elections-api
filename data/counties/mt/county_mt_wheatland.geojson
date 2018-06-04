@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_wheatland",
+  "id": "aclu/elections-api/county:9232",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9232",
     "area_land":3684208406,
     "area_water":13010925,
     "geoid":"30107",

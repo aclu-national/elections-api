@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_shiawassee",
+  "id": "aclu/elections-api/county:8884",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8884",
     "area_land":1374689328,
     "area_water":26342203,
     "geoid":"26155",

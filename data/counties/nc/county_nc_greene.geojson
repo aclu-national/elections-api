@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_greene",
+  "id": "aclu/elections-api/county:9274",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9274",
     "area_land":690851081,
     "area_water":1217389,
     "geoid":"37079",

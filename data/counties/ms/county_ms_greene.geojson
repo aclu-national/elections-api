@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_greene",
+  "id": "aclu/elections-api/county:9117",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9117",
     "area_land":1846034017,
     "area_water":15380474,
     "geoid":"28041",

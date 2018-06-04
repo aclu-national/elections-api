@@ -1,7 +1,8 @@
 {
-  "id": "county_co_weld",
+  "id": "aclu/elections-api/county:7884",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7884",
     "area_land":10323705895,
     "area_water":79558079,
     "geoid":"08123",

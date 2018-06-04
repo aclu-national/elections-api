@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_san-juan",
+  "id": "aclu/elections-api/county:10454",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10454",
     "area_land":20252985182,
     "area_water":293755887,
     "geoid":"49037",

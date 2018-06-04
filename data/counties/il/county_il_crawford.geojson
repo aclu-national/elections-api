@@ -1,7 +1,8 @@
 {
-  "id": "county_il_crawford",
+  "id": "aclu/elections-api/county:8289",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8289",
     "area_land":1149004930,
     "area_water":5659945,
     "geoid":"17033",

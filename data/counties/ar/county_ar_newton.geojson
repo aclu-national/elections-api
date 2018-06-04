@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_newton",
+  "id": "aclu/elections-api/county:7719",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7719",
     "area_land":2126136365,
     "area_water":5930177,
     "geoid":"05101",

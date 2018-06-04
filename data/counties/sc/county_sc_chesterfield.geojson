@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_chesterfield",
+  "id": "aclu/elections-api/county:9987",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9987",
     "area_land":2069379207,
     "area_water":17250030,
     "geoid":"45025",

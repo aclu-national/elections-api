@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_colquitt",
+  "id": "aclu/elections-api/county:7999",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7999",
     "area_land":1416682032,
     "area_water":25006488,
     "geoid":"13071",

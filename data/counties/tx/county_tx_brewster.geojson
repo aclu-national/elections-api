@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_brewster",
+  "id": "aclu/elections-api/county:10203",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10203",
     "area_land":16015869999,
     "area_water":22063764,
     "geoid":"48043",

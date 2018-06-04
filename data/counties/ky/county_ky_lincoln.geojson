@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_lincoln",
+  "id": "aclu/elections-api/county:8640",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8640",
     "area_land":861936841,
     "area_water":9315386,
     "geoid":"21137",

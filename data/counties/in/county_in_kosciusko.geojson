@@ -1,7 +1,8 @@
 {
-  "id": "county_in_kosciusko",
+  "id": "aclu/elections-api/county:8417",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8417",
     "area_land":1376361579,
     "area_water":59509695,
     "geoid":"18085",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_randall",
+  "id": "aclu/elections-api/county:10372",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10372",
     "area_land":2361843607,
     "area_water":27235708,
     "geoid":"48381",

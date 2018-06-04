@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_otsego",
+  "id": "aclu/elections-api/county:8877",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8877",
     "area_land":1333913235,
     "area_water":28997739,
     "geoid":"26137",

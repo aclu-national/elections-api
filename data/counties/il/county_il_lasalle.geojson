@@ -1,7 +1,8 @@
 {
-  "id": "county_il_lasalle",
+  "id": "aclu/elections-api/county:8322",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8322",
     "area_land":2939990781,
     "area_water":33693285,
     "geoid":"17099",

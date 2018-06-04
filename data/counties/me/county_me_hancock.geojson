@@ -1,7 +1,8 @@
 {
-  "id": "county_me_hancock",
+  "id": "aclu/elections-api/county:8797",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8797",
     "area_land":4110284976,
     "area_water":1963056852,
     "geoid":"23009",

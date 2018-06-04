@@ -1,7 +1,8 @@
 {
-  "id": "county_or_josephine",
+  "id": "aclu/elections-api/county:9805",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9805",
     "area_land":4244087614,
     "area_water":5629244,
     "geoid":"41033",

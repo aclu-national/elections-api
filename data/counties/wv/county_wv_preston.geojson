@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_preston",
+  "id": "aclu/elections-api/county:10760",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10760",
     "area_land":1680406633,
     "area_water":6681831,
     "geoid":"54077",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_bacon",
+  "id": "aclu/elections-api/county:7967",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7967",
     "area_land":735650672,
     "area_water":4625861,
     "geoid":"13005",

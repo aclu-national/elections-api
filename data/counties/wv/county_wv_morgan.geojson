@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_morgan",
+  "id": "aclu/elections-api/county:10754",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10754",
     "area_land":593295476,
     "area_water":1401570,
     "geoid":"54065",

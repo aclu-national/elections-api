@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_somerset",
+  "id": "aclu/elections-api/county:9508",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9508",
     "area_land":781816196,
     "area_water":8009303,
     "geoid":"34035",

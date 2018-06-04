@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_fentress",
+  "id": "aclu/elections-api/county:10111",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10111",
     "area_land":1291397316,
     "area_water":829331,
     "geoid":"47049",

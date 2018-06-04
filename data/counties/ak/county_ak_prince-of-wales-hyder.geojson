@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_prince-of-wales-hyder",
+  "id": "aclu/elections-api/county:7594",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7594",
     "area_land":13630288113,
     "area_water":14625197420,
     "geoid":"02198",

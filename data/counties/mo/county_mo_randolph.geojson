@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_randolph",
+  "id": "aclu/elections-api/county:9066",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9066",
     "area_land":1250217889,
     "area_water":13254193,
     "geoid":"29175",

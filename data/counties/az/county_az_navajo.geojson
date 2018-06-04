@@ -1,7 +1,8 @@
 {
-  "id": "county_az_navajo",
+  "id": "aclu/elections-api/county:7758",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7758",
     "area_land":25770094249,
     "area_water":24078111,
     "geoid":"04017",

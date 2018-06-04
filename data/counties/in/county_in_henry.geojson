@@ -1,7 +1,8 @@
 {
-  "id": "county_in_henry",
+  "id": "aclu/elections-api/county:8407",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8407",
     "area_land":1014954735,
     "area_water":7655289,
     "geoid":"18065",

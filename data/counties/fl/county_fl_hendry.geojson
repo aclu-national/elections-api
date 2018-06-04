@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_hendry",
+  "id": "aclu/elections-api/county:7922",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7922",
     "area_land":2994620710,
     "area_water":87035817,
     "geoid":"12051",

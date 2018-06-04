@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_greer",
+  "id": "aclu/elections-api/county:9739",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9739",
     "area_land":1655842972,
     "area_water":11157422,
     "geoid":"40055",

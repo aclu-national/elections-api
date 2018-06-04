@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_culebra",
+  "id": "aclu/elections-api/county:9916",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9916",
     "area_land":30115058,
     "area_water":407158805,
     "geoid":"72049",

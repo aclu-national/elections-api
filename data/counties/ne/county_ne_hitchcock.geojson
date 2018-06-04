@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_hitchcock",
+  "id": "aclu/elections-api/county:9431",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9431",
     "area_land":1838742723,
     "area_water":22103380,
     "geoid":"31087",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_grayson",
+  "id": "aclu/elections-api/county:8614",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8614",
     "area_land":1291710298,
     "area_water":31853979,
     "geoid":"21085",

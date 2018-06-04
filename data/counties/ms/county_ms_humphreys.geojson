@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_humphreys",
+  "id": "aclu/elections-api/county:9123",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9123",
     "area_land":1083947281,
     "area_water":32942668,
     "geoid":"28053",

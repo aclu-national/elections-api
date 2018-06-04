@@ -1,7 +1,8 @@
 {
-  "id": "county_la_west-feliciana",
+  "id": "aclu/elections-api/county:8754",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8754",
     "area_land":1044342243,
     "area_water":58999603,
     "geoid":"22125",

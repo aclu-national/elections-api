@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_schley",
+  "id": "aclu/elections-api/county:8087",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8087",
     "area_land":432287212,
     "area_water":2373636,
     "geoid":"13249",

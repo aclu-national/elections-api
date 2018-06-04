@@ -1,7 +1,8 @@
 {
-  "id": "county_az_maricopa",
+  "id": "aclu/elections-api/county:7756",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7756",
     "area_land":23825875275,
     "area_water":64310266,
     "geoid":"04013",

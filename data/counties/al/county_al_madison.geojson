@@ -1,7 +1,8 @@
 {
-  "id": "county_al_madison",
+  "id": "aclu/elections-api/county:7646",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7646",
     "area_land":2076145098,
     "area_water":28777508,
     "geoid":"01089",

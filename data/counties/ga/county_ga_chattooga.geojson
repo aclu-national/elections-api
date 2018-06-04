@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_chattooga",
+  "id": "aclu/elections-api/county:7991",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7991",
     "area_land":811512406,
     "area_water":570806,
     "geoid":"13055",

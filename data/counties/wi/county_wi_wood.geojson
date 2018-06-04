@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_wood",
+  "id": "aclu/elections-api/county:10721",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10721",
     "area_land":2053928984,
     "area_water":42054151,
     "geoid":"55141",

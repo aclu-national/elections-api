@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_union",
+  "id": "aclu/elections-api/county:7738",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7738",
     "area_land":2691555882,
     "area_water":41400824,
     "geoid":"05139",

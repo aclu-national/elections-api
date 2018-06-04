@@ -1,7 +1,8 @@
 {
-  "id": "county_or_clatsop",
+  "id": "aclu/elections-api/county:9792",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9792",
     "area_land":2145196270,
     "area_water":661305228,
     "geoid":"41007",

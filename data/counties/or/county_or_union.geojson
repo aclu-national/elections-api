@@ -1,7 +1,8 @@
 {
-  "id": "county_or_union",
+  "id": "aclu/elections-api/county:9819",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9819",
     "area_land":5275597066,
     "area_water":4989941,
     "geoid":"41061",

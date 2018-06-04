@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_avery",
+  "id": "aclu/elections-api/county:9240",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9240",
     "area_land":640601890,
     "area_water":445285,
     "geoid":"37011",

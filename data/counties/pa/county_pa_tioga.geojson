@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_tioga",
+  "id": "aclu/elections-api/county:9883",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9883",
     "area_land":2936469292,
     "area_water":8257078,
     "geoid":"42117",

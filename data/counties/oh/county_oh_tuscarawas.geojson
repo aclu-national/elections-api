@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_tuscarawas",
+  "id": "aclu/elections-api/county:9702",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9702",
     "area_land":1469659271,
     "area_water":10390938,
     "geoid":"39157",

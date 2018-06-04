@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_sharkey",
+  "id": "aclu/elections-api/county:9159",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9159",
     "area_land":1118149660,
     "area_water":8806465,
     "geoid":"28125",

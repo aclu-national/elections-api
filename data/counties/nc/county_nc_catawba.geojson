@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_catawba",
+  "id": "aclu/elections-api/county:9252",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9252",
     "area_land":1039550614,
     "area_water":37945362,
     "geoid":"37035",

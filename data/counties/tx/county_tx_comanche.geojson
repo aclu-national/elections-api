@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_comanche",
+  "id": "aclu/elections-api/county:10228",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10228",
     "area_land":2428770456,
     "area_water":25718009,
     "geoid":"48093",

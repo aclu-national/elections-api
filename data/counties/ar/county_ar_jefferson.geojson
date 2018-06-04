@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_jefferson",
+  "id": "aclu/elections-api/county:7703",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7703",
     "area_land":2253166949,
     "area_water":113500176,
     "geoid":"05069",

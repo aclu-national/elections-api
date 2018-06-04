@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_laurens",
+  "id": "aclu/elections-api/county:8051",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8051",
     "area_land":2090842776,
     "area_water":28985734,
     "geoid":"13175",

@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_taylor",
+  "id": "aclu/elections-api/county:7959",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7959",
     "area_land":2702180626,
     "area_water":489194665,
     "geoid":"12123",

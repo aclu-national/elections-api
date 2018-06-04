@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_orangeburg",
+  "id": "aclu/elections-api/county:10012",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10012",
     "area_land":2864691029,
     "area_water":56516003,
     "geoid":"45075",

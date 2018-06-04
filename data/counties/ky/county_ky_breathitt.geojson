@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_breathitt",
+  "id": "aclu/elections-api/county:8584",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8584",
     "area_land":1275346433,
     "area_water":7390878,
     "geoid":"21025",

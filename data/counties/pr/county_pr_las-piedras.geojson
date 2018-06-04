@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_las-piedras",
+  "id": "aclu/elections-api/county:9935",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9935",
     "area_land":87748363,
     "area_water":32509,
     "geoid":"72085",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_baraga",
+  "id": "aclu/elections-api/county:8815",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8815",
     "area_land":2326929577,
     "area_water":441604239,
     "geoid":"26013",

@@ -1,7 +1,8 @@
 {
-  "id": "county_or_baker",
+  "id": "aclu/elections-api/county:9789",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9789",
     "area_land":7945996928,
     "area_water":51832632,
     "geoid":"41001",

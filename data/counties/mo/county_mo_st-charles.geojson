@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_st-charles",
+  "id": "aclu/elections-api/county:9076",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9076",
     "area_land":1451493239,
     "area_water":83353121,
     "geoid":"29183",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_wayne",
+  "id": "aclu/elections-api/county:9620",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9620",
     "area_land":1563903159,
     "area_water":2018194942,
     "geoid":"36117",

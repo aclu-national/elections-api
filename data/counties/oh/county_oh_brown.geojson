@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_brown",
+  "id": "aclu/elections-api/county:9631",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9631",
     "area_land":1269138602,
     "area_water":8895019,
     "geoid":"39015",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_custer",
+  "id": "aclu/elections-api/county:9408",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9408",
     "area_land":6670757281,
     "area_water":932956,
     "geoid":"31041",

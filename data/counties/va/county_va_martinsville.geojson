@@ -1,7 +1,8 @@
 {
-  "id": "county_va_martinsville",
+  "id": "aclu/elections-api/county:10540",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10540",
     "area_land":28376605,
     "area_water":133615,
     "geoid":"51690",

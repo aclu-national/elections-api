@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_brazos",
+  "id": "aclu/elections-api/county:10202",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10202",
     "area_land":1516471988,
     "area_water":14824446,
     "geoid":"48041",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_twiggs",
+  "id": "aclu/elections-api/county:8107",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8107",
     "area_land":928304208,
     "area_water":10914123,
     "geoid":"13289",

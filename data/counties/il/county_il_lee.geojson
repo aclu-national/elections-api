@@ -1,7 +1,8 @@
 {
-  "id": "county_il_lee",
+  "id": "aclu/elections-api/county:8324",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8324",
     "area_land":1877336099,
     "area_water":10634483,
     "geoid":"17103",

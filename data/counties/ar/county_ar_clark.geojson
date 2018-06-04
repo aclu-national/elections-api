@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_clark",
+  "id": "aclu/elections-api/county:7678",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7678",
     "area_land":2243130473,
     "area_water":43387485,
     "geoid":"05019",

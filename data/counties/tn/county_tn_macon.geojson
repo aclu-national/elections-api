@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_macon",
+  "id": "aclu/elections-api/county:10140",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10140",
     "area_land":795498349,
     "area_water":246690,
     "geoid":"47111",

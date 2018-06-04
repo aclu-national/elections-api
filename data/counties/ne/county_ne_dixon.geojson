@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_dixon",
+  "id": "aclu/elections-api/county:9413",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9413",
     "area_land":1233156423,
     "area_water":17075472,
     "geoid":"31051",

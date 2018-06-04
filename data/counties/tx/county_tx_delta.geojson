@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_delta",
+  "id": "aclu/elections-api/county:10241",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10241",
     "area_land":665174292,
     "area_water":54666016,
     "geoid":"48119",

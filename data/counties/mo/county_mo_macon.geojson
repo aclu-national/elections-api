@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_macon",
+  "id": "aclu/elections-api/county:9038",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9038",
     "area_land":2075118128,
     "area_water":28912824,
     "geoid":"29121",

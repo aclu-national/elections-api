@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_clarke",
+  "id": "aclu/elections-api/county:7993",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7993",
     "area_land":308764509,
     "area_water":4715185,
     "geoid":"13059",

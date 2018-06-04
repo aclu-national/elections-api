@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_jenkins",
+  "id": "aclu/elections-api/county:8046",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8046",
     "area_land":899563041,
     "area_water":13338830,
     "geoid":"13165",

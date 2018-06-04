@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_neshoba",
+  "id": "aclu/elections-api/county:9146",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9146",
     "area_land":1476641123,
     "area_water":3830971,
     "geoid":"28099",

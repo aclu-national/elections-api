@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_henderson",
+  "id": "aclu/elections-api/county:10288",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10288",
     "area_land":2263037771,
     "area_water":193234810,
     "geoid":"48213",

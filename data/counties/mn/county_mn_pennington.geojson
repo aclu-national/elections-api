@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_pennington",
+  "id": "aclu/elections-api/county:8948",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8948",
     "area_land":1596928760,
     "area_water":4332057,
     "geoid":"27113",

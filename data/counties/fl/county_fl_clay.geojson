@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_clay",
+  "id": "aclu/elections-api/county:7907",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7907",
     "area_land":1566439483,
     "area_water":100339826,
     "geoid":"12019",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_johnson",
+  "id": "aclu/elections-api/county:10132",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10132",
     "area_land":772960730,
     "area_water":11007740,
     "geoid":"47091",

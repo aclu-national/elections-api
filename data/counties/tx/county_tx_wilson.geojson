@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_wilson",
+  "id": "aclu/elections-api/county:10428",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10428",
     "area_land":2081662847,
     "area_water":12111367,
     "geoid":"48493",

@@ -1,7 +1,8 @@
 {
-  "id": "county_me_washington",
+  "id": "aclu/elections-api/county:8807",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8807",
     "area_land":6637326498,
     "area_water":1800003936,
     "geoid":"23029",

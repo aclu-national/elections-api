@@ -1,7 +1,8 @@
 {
-  "id": "county_il_schuyler",
+  "id": "aclu/elections-api/county:8356",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8356",
     "area_land":1132531697,
     "area_water":10511619,
     "geoid":"17169",

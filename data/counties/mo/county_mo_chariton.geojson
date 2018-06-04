@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_chariton",
+  "id": "aclu/elections-api/county:8999",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8999",
     "area_land":1945540984,
     "area_water":40353306,
     "geoid":"29041",

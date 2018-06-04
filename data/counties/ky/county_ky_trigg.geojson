@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_trigg",
+  "id": "aclu/elections-api/county:8682",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8682",
     "area_land":1143307587,
     "area_water":103330127,
     "geoid":"21221",

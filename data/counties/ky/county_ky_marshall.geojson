@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_marshall",
+  "id": "aclu/elections-api/county:8647",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8647",
     "area_land":780276604,
     "area_water":100761088,
     "geoid":"21157",

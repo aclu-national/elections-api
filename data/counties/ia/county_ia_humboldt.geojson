@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_humboldt",
+  "id": "aclu/elections-api/county:8175",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8175",
     "area_land":1124996886,
     "area_water":3376514,
     "geoid":"19091",

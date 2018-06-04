@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_lo-za",
+  "id": "aclu/elections-api/county:9936",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9936",
     "area_land":50086873,
     "area_water":119822959,
     "geoid":"72087",

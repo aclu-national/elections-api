@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_lafayette",
+  "id": "aclu/elections-api/county:9032",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9032",
     "area_land":1627640379,
     "area_water":27215050,
     "geoid":"29107",

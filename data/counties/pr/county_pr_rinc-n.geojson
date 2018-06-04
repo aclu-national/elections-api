@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_rinc-n",
+  "id": "aclu/elections-api/county:9952",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9952",
     "area_land":37005461,
     "area_water":103924383,
     "geoid":"72117",

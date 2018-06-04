@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_bedford",
+  "id": "aclu/elections-api/county:10088",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10088",
     "area_land":1226719784,
     "area_water":2980756,
     "geoid":"47003",

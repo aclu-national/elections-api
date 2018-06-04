@@ -1,7 +1,8 @@
 {
-  "id": "county_va_buchanan",
+  "id": "aclu/elections-api/county:10480",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10480",
     "area_land":1302387725,
     "area_water":2803981,
     "geoid":"51027",

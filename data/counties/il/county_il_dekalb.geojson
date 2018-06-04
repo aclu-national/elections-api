@@ -1,7 +1,8 @@
 {
-  "id": "county_il_dekalb",
+  "id": "aclu/elections-api/county:8292",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8292",
     "area_land":1635216352,
     "area_water":8545243,
     "geoid":"17037",

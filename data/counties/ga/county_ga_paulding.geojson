@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_paulding",
+  "id": "aclu/elections-api/county:8074",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8074",
     "area_land":808831878,
     "area_water":5309332,
     "geoid":"13223",

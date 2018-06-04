@@ -1,7 +1,8 @@
 {
-  "id": "county_va_greene",
+  "id": "aclu/elections-api/county:10515",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10515",
     "area_land":403788487,
     "area_water":1756849,
     "geoid":"51079",

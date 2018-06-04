@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_monroe",
+  "id": "aclu/elections-api/county:8197",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8197",
     "area_land":1123317229,
     "area_water":1522790,
     "geoid":"19135",

@@ -1,7 +1,8 @@
 {
-  "id": "county_co_boulder",
+  "id": "aclu/elections-api/county:7828",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7828",
     "area_land":1881281634,
     "area_water":36521204,
     "geoid":"08013",

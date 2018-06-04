@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_wayne",
+  "id": "aclu/elections-api/county:10177",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10177",
     "area_land":1901326637,
     "area_water":4023436,
     "geoid":"47181",

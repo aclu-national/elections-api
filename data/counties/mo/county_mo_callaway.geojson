@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_callaway",
+  "id": "aclu/elections-api/county:8992",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8992",
     "area_land":2161546696,
     "area_water":33099111,
     "geoid":"29027",

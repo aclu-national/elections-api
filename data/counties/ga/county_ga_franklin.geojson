@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_franklin",
+  "id": "aclu/elections-api/county:8023",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8023",
     "area_land":677294070,
     "area_water":12811302,
     "geoid":"13119",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_cleburne",
+  "id": "aclu/elections-api/county:7680",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7680",
     "area_land":1434168142,
     "area_water":98893718,
     "geoid":"05023",

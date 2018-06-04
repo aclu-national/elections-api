@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_upshur",
+  "id": "aclu/elections-api/county:10770",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10770",
     "area_land":918506896,
     "area_water":302703,
     "geoid":"54097",

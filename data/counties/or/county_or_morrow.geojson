@@ -1,7 +1,8 @@
 {
-  "id": "county_or_morrow",
+  "id": "aclu/elections-api/county:9813",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9813",
     "area_land":5259049905,
     "area_water":44372295,
     "geoid":"41049",

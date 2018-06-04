@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_outagamie",
+  "id": "aclu/elections-api/county:10694",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10694",
     "area_land":1651321050,
     "area_water":18205949,
     "geoid":"55087",

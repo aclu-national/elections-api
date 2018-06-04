@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_marshall",
+  "id": "aclu/elections-api/county:8524",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8524",
     "area_land":2331432992,
     "area_water":12743798,
     "geoid":"20117",

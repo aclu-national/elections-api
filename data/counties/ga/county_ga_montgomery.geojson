@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_montgomery",
+  "id": "aclu/elections-api/county:8067",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8067",
     "area_land":620371304,
     "area_water":13383238,
     "geoid":"13209",

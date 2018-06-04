@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_wayne",
+  "id": "aclu/elections-api/county:9173",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9173",
     "area_land":2099745578,
     "area_water":7255476,
     "geoid":"28153",

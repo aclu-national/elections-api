@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_lawrence",
+  "id": "aclu/elections-api/county:9667",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9667",
     "area_land":1174224653,
     "area_water":10110033,
     "geoid":"39087",

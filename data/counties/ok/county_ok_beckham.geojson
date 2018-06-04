@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_beckham",
+  "id": "aclu/elections-api/county:9716",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9716",
     "area_land":2335665266,
     "area_water":5527154,
     "geoid":"40009",

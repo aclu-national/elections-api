@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_madison",
+  "id": "aclu/elections-api/county:9672",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9672",
     "area_land":1206646148,
     "area_water":1919019,
     "geoid":"39097",

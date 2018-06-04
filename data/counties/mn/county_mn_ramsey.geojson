@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_ramsey",
+  "id": "aclu/elections-api/county:8953",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8953",
     "area_land":394086546,
     "area_water":46423262,
     "geoid":"27123",

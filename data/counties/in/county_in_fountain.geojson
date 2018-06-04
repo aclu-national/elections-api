@@ -1,7 +1,8 @@
 {
-  "id": "county_in_fountain",
+  "id": "aclu/elections-api/county:8397",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8397",
     "area_land":1024769248,
     "area_water":5734092,
     "geoid":"18045",

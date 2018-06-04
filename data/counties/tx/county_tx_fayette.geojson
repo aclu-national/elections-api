@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_fayette",
+  "id": "aclu/elections-api/county:10256",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10256",
     "area_land":2460152119,
     "area_water":25739448,
     "geoid":"48149",

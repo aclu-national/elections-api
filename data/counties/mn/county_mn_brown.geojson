@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_brown",
+  "id": "aclu/elections-api/county:8899",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8899",
     "area_land":1582659431,
     "area_water":18584892,
     "geoid":"27015",

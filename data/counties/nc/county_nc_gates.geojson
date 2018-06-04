@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_gates",
+  "id": "aclu/elections-api/county:9271",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9271",
     "area_land":882181715,
     "area_water":13292007,
     "geoid":"37073",

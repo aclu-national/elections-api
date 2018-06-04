@@ -1,7 +1,8 @@
 {
-  "id": "county_md_allegany",
+  "id": "aclu/elections-api/county:8770",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8770",
     "area_land":1093331712,
     "area_water":14931771,
     "geoid":"24001",

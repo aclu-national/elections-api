@@ -1,7 +1,8 @@
 {
-  "id": "county_id_payette",
+  "id": "aclu/elections-api/county:8266",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8266",
     "area_land":1053857311,
     "area_water":8870733,
     "geoid":"16075",

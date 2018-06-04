@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_haywood",
+  "id": "aclu/elections-api/county:10124",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10124",
     "area_land":1380741549,
     "area_water":2472509,
     "geoid":"47075",

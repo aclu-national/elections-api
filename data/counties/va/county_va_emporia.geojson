@@ -1,7 +1,8 @@
 {
-  "id": "county_va_emporia",
+  "id": "aclu/elections-api/county:10500",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10500",
     "area_land":17881071,
     "area_water":165621,
     "geoid":"51595",

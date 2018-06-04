@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_valdez-cordova",
+  "id": "aclu/elections-api/county:7598",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7598",
     "area_land":88635832004,
     "area_water":15763249807,
     "geoid":"02261",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_brown",
+  "id": "aclu/elections-api/county:9396",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9396",
     "area_land":3163296235,
     "area_water":9814399,
     "geoid":"31017",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_brantley",
+  "id": "aclu/elections-api/county:7977",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7977",
     "area_land":1145708458,
     "area_water":12540408,
     "geoid":"13025",

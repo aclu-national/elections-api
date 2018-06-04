@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_pickens",
+  "id": "aclu/elections-api/county:10013",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10013",
     "area_land":1285538264,
     "area_water":40609723,
     "geoid":"45077",

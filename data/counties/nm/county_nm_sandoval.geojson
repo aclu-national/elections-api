@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_sandoval",
+  "id": "aclu/elections-api/county:9537",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9537",
     "area_land":9609139504,
     "area_water":10854361,
     "geoid":"35043",

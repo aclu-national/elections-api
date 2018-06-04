@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_camuy",
+  "id": "aclu/elections-api/county:9905",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9905",
     "area_land":120058280,
     "area_water":40430074,
     "geoid":"72027",

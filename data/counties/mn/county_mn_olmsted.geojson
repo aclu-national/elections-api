@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_olmsted",
+  "id": "aclu/elections-api/county:8946",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8946",
     "area_land":1692581425,
     "area_water":3505507,
     "geoid":"27109",

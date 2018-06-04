@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_menominee",
+  "id": "aclu/elections-api/county:8863",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8863",
     "area_land":2704072756,
     "area_water":761779246,
     "geoid":"26109",

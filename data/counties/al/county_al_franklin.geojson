@@ -1,7 +1,8 @@
 {
-  "id": "county_al_franklin",
+  "id": "aclu/elections-api/county:7631",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7631",
     "area_land":1641839976,
     "area_water":32645401,
     "geoid":"01059",

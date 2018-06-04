@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_henderson",
+  "id": "aclu/elections-api/county:9279",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9279",
     "area_land":966142717,
     "area_water":5556898,
     "geoid":"37089",

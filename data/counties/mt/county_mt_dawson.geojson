@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_dawson",
+  "id": "aclu/elections-api/county:9189",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9189",
     "area_land":6143238452,
     "area_water":29905887,
     "geoid":"30021",

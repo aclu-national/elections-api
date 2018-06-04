@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_logan",
+  "id": "aclu/elections-api/county:9444",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9444",
     "area_land":1478003937,
     "area_water":1203586,
     "geoid":"31113",

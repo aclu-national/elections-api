@@ -1,7 +1,8 @@
 {
-  "id": "county_co_rio-blanco",
+  "id": "aclu/elections-api/county:7874",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7874",
     "area_land":8342275028,
     "area_water":4868111,
     "geoid":"08103",

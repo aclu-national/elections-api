@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_hansford",
+  "id": "aclu/elections-api/county:10279",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10279",
     "area_land":2382296649,
     "area_water":1548341,
     "geoid":"48195",

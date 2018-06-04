@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_hodgeman",
+  "id": "aclu/elections-api/county:8508",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8508",
     "area_land":2227369151,
     "area_water":826344,
     "geoid":"20083",

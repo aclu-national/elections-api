@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_claiborne",
+  "id": "aclu/elections-api/county:9107",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9107",
     "area_land":1262400024,
     "area_water":35711133,
     "geoid":"28021",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_crawford",
+  "id": "aclu/elections-api/county:8153",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8153",
     "area_land":1849742884,
     "area_water":2194272,
     "geoid":"19047",

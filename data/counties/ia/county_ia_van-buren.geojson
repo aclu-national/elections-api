@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_van-buren",
+  "id": "aclu/elections-api/county:8218",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8218",
     "area_land":1255646356,
     "area_water":14839917,
     "geoid":"19177",

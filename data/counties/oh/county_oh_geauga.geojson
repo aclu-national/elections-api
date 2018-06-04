@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_geauga",
+  "id": "aclu/elections-api/county:9651",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9651",
     "area_land":1036429792,
     "area_water":21045380,
     "geoid":"39055",

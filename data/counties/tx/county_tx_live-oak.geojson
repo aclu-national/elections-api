@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_live-oak",
+  "id": "aclu/elections-api/county:10330",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10330",
     "area_land":2692796908,
     "area_water":101483817,
     "geoid":"48297",

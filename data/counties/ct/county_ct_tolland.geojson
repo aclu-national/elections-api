@@ -1,7 +1,8 @@
 {
-  "id": "county_ct_tolland",
+  "id": "aclu/elections-api/county:7892",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7892",
     "area_land":1062807475,
     "area_water":17549693,
     "geoid":"09013",

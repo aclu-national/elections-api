@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_montgomery",
+  "id": "aclu/elections-api/county:9048",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9048",
     "area_land":1385765331,
     "area_water":14100636,
     "geoid":"29139",

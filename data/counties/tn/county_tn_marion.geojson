@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_marion",
+  "id": "aclu/elections-api/county:10142",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10142",
     "area_land":1290244637,
     "area_water":36484742,
     "geoid":"47115",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_floyd",
+  "id": "aclu/elections-api/county:10505",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10505",
     "area_land":986572574,
     "area_water":2190750,
     "geoid":"51063",

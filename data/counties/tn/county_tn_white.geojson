@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_white",
+  "id": "aclu/elections-api/county:10179",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10179",
     "area_land":975592111,
     "area_water":7113368,
     "geoid":"47185",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_lee",
+  "id": "aclu/elections-api/county:9137",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9137",
     "area_land":1165367719,
     "area_water":8349354,
     "geoid":"28081",

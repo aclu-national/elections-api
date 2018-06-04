@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_erath",
+  "id": "aclu/elections-api/county:10253",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10253",
     "area_land":2805191451,
     "area_water":17394954,
     "geoid":"48143",

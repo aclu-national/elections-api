@@ -1,7 +1,8 @@
 {
-  "id": "county_in_rush",
+  "id": "aclu/elections-api/county:8444",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8444",
     "area_land":1057035404,
     "area_water":872270,
     "geoid":"18139",

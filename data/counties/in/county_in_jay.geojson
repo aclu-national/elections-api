@@ -1,7 +1,8 @@
 {
-  "id": "county_in_jay",
+  "id": "aclu/elections-api/county:8412",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8412",
     "area_land":994310106,
     "area_water":458556,
     "geoid":"18075",

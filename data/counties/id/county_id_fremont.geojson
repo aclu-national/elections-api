@@ -1,7 +1,8 @@
 {
-  "id": "county_id_fremont",
+  "id": "aclu/elections-api/county:8250",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8250",
     "area_land":4827632203,
     "area_water":83441579,
     "geoid":"16043",

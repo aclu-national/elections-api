@@ -1,7 +1,8 @@
 {
-  "id": "county_va_prince-george",
+  "id": "aclu/elections-api/county:10562",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10562",
     "area_land":686941559,
     "area_water":43184612,
     "geoid":"51149",

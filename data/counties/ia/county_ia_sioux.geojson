@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_sioux",
+  "id": "aclu/elections-api/county:8213",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8213",
     "area_land":1988797652,
     "area_water":2885657,
     "geoid":"19167",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_hayes",
+  "id": "aclu/elections-api/county:9430",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9430",
     "area_land":1846821514,
     "area_water":570786,
     "geoid":"31085",

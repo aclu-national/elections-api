@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_greeley",
+  "id": "aclu/elections-api/county:8502",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8502",
     "area_land":2016057985,
     "area_water":0,
     "geoid":"20071",

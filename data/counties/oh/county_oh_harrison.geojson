@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_harrison",
+  "id": "aclu/elections-api/county:9657",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9657",
     "area_land":1042034970,
     "area_water":21847164,
     "geoid":"39067",

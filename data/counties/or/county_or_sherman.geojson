@@ -1,7 +1,8 @@
 {
-  "id": "county_or_sherman",
+  "id": "aclu/elections-api/county:9816",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9816",
     "area_land":2133151552,
     "area_water":19617470,
     "geoid":"41055",

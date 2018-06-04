@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_pushmataha",
+  "id": "aclu/elections-api/county:9775",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9775",
     "area_land":3615205224,
     "area_water":69981947,
     "geoid":"40127",

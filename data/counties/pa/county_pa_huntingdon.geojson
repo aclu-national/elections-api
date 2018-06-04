@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_huntingdon",
+  "id": "aclu/elections-api/county:9855",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9855",
     "area_land":2265337403,
     "area_water":37851955,
     "geoid":"42061",

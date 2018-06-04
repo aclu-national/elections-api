@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_greene",
+  "id": "aclu/elections-api/county:8166",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8166",
     "area_land":1475260906,
     "area_water":4255701,
     "geoid":"19073",

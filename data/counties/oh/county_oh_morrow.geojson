@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_morrow",
+  "id": "aclu/elections-api/county:9682",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9682",
     "area_land":1051881049,
     "area_water":2819351,
     "geoid":"39117",

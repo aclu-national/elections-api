@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_asotin",
+  "id": "aclu/elections-api/county:10612",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10612",
     "area_land":1647443944,
     "area_water":11275706,
     "geoid":"53003",

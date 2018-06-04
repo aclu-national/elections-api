@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_floyd",
+  "id": "aclu/elections-api/county:8607",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8607",
     "area_land":1018773537,
     "area_water":6098292,
     "geoid":"21071",

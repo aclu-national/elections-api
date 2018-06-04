@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_hancock",
+  "id": "aclu/elections-api/county:8034",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8034",
     "area_land":1220058027,
     "area_water":17479750,
     "geoid":"13141",

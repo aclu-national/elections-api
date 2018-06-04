@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_bladen",
+  "id": "aclu/elections-api/county:9243",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9243",
     "area_land":2265870801,
     "area_water":33027800,
     "geoid":"37017",

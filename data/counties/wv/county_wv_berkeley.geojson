@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_berkeley",
+  "id": "aclu/elections-api/county:10723",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10723",
     "area_land":831766640,
     "area_water":1061824,
     "geoid":"54003",

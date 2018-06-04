@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_richland",
+  "id": "aclu/elections-api/county:9693",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9693",
     "area_land":1282720846,
     "area_water":12470881,
     "geoid":"39139",

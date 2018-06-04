@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_coamo",
+  "id": "aclu/elections-api/county:9913",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9913",
     "area_land":202052316,
     "area_water":38061,
     "geoid":"72043",

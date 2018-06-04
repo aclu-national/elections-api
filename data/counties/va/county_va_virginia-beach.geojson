@@ -1,7 +1,8 @@
 {
-  "id": "county_va_virginia-beach",
+  "id": "aclu/elections-api/county:10584",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10584",
     "area_land":633823900,
     "area_water":654692027,
     "geoid":"51810",

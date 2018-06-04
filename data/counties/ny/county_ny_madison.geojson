@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_madison",
+  "id": "aclu/elections-api/county:9588",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9588",
     "area_land":1696091558,
     "area_water":16670528,
     "geoid":"36053",

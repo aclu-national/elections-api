@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_york",
+  "id": "aclu/elections-api/county:9480",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9480",
     "area_land":1482793604,
     "area_water":8595507,
     "geoid":"31185",

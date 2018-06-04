@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_hamilton",
+  "id": "aclu/elections-api/county:8169",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8169",
     "area_land":1493777024,
     "area_water":1965341,
     "geoid":"19079",

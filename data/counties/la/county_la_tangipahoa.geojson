@@ -1,7 +1,8 @@
 {
-  "id": "county_la_tangipahoa",
+  "id": "aclu/elections-api/county:8744",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8744",
     "area_land":2049488093,
     "area_water":136678798,
     "geoid":"22105",

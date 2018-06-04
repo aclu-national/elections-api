@@ -1,7 +1,8 @@
 {
-  "id": "county_id_bingham",
+  "id": "aclu/elections-api/county:8234",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8234",
     "area_land":5422887230,
     "area_water":68487087,
     "geoid":"16011",

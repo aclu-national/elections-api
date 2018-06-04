@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_sweetwater",
+  "id": "aclu/elections-api/county:10795",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10795",
     "area_land":27005738206,
     "area_water":166246301,
     "geoid":"56037",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_hettinger",
+  "id": "aclu/elections-api/county:9355",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9355",
     "area_land":2932411624,
     "area_water":4036912,
     "geoid":"38041",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_woods",
+  "id": "aclu/elections-api/county:9787",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9787",
     "area_land":3331900449,
     "area_water":9091699,
     "geoid":"40151",

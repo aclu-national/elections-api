@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_marlboro",
+  "id": "aclu/elections-api/county:10008",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10008",
     "area_land":1242867984,
     "area_water":14488283,
     "geoid":"45069",

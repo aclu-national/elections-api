@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_flagler",
+  "id": "aclu/elections-api/county:7914",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7914",
     "area_land":1257367545,
     "area_water":221045256,
     "geoid":"12035",

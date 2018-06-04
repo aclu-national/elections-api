@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_hamilton",
+  "id": "aclu/elections-api/county:9582",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9582",
     "area_land":4447987884,
     "area_water":234205889,
     "geoid":"36041",

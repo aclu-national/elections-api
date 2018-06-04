@@ -1,7 +1,8 @@
 {
-  "id": "county_md_queen-anne-s",
+  "id": "aclu/elections-api/county:8786",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8786",
     "area_land":962649223,
     "area_water":360044740,
     "geoid":"24035",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_montgomery",
+  "id": "aclu/elections-api/county:7717",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7717",
     "area_land":2019824136,
     "area_water":52913372,
     "geoid":"05097",

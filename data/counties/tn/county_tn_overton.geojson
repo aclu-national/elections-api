@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_overton",
+  "id": "aclu/elections-api/county:10153",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10153",
     "area_land":1122721529,
     "area_water":3492728,
     "geoid":"47133",

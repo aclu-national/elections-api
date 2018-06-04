@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_holt",
+  "id": "aclu/elections-api/county:9022",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9022",
     "area_land":1198369598,
     "area_water":19839056,
     "geoid":"29087",

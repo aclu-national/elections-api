@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_cooke",
+  "id": "aclu/elections-api/county:10230",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10230",
     "area_land":2265775270,
     "area_water":61333916,
     "geoid":"48097",

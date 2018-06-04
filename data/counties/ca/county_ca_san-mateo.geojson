@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_san-mateo",
+  "id": "aclu/elections-api/county:7804",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7804",
     "area_land":1161757245,
     "area_water":757313941,
     "geoid":"06081",

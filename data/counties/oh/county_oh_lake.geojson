@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_lake",
+  "id": "aclu/elections-api/county:9666",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9666",
     "area_land":593799763,
     "area_water":1942309063,
     "geoid":"39085",

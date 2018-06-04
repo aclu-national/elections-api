@@ -1,7 +1,8 @@
 {
-  "id": "county_ri_kent",
+  "id": "aclu/elections-api/county:9971",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9971",
     "area_land":436556188,
     "area_water":50710341,
     "geoid":"44003",

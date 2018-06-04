@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_pike",
+  "id": "aclu/elections-api/county:9876",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9876",
     "area_land":1411441329,
     "area_water":56692145,
     "geoid":"42103",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_washburn",
+  "id": "aclu/elections-api/county:10715",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10715",
     "area_land":2064513622,
     "area_water":145566159,
     "geoid":"55129",

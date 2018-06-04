@@ -1,7 +1,8 @@
 {
-  "id": "county_la_st-martin",
+  "id": "aclu/elections-api/county:8741",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8741",
     "area_land":1910534476,
     "area_water":204161447,
     "geoid":"22099",

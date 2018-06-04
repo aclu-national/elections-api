@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_burleson",
+  "id": "aclu/elections-api/county:10207",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10207",
     "area_land":1706886781,
     "area_water":46048550,
     "geoid":"48051",

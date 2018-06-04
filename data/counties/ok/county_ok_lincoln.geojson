@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_lincoln",
+  "id": "aclu/elections-api/county:9752",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9752",
     "area_land":2466490647,
     "area_water":34606636,
     "geoid":"40081",

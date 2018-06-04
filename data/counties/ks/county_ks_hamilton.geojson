@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_hamilton",
+  "id": "aclu/elections-api/county:8504",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8504",
     "area_land":2580958344,
     "area_water":2893322,
     "geoid":"20075",

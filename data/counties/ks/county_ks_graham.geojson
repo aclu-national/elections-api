@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_graham",
+  "id": "aclu/elections-api/county:8499",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8499",
     "area_land":2327173855,
     "area_water":599356,
     "geoid":"20065",

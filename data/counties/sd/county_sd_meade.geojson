@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_meade",
+  "id": "aclu/elections-api/county:10066",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10066",
     "area_land":8989706542,
     "area_water":30712698,
     "geoid":"46093",

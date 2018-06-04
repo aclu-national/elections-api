@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_rusk",
+  "id": "aclu/elections-api/county:10704",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10704",
     "area_land":2366092049,
     "area_water":44813688,
     "geoid":"55107",

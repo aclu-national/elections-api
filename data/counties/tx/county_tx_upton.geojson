@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_upton",
+  "id": "aclu/elections-api/county:10412",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10412",
     "area_land":3215010601,
     "area_water":464309,
     "geoid":"48461",

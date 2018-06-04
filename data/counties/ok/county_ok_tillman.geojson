@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_tillman",
+  "id": "aclu/elections-api/county:9782",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9782",
     "area_land":2256226760,
     "area_water":20894360,
     "geoid":"40141",

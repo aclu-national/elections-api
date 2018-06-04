@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_lancaster",
+  "id": "aclu/elections-api/county:9860",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9860",
     "area_land":2444600820,
     "area_water":103429249,
     "geoid":"42071",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_deuel",
+  "id": "aclu/elections-api/county:9412",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9412",
     "area_land":1139208969,
     "area_water":2230956,
     "geoid":"31049",

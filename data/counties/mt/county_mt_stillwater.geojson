@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_stillwater",
+  "id": "aclu/elections-api/county:9226",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9226",
     "area_land":4653551003,
     "area_water":23732519,
     "geoid":"30095",

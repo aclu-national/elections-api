@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_pickaway",
+  "id": "aclu/elections-api/county:9688",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9688",
     "area_land":1297966523,
     "area_water":13998877,
     "geoid":"39129",

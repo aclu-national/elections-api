@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_shelby",
+  "id": "aclu/elections-api/county:9075",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9075",
     "area_land":1297230230,
     "area_water":3764605,
     "geoid":"29205",

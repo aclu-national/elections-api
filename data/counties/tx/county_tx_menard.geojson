@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_menard",
+  "id": "aclu/elections-api/county:10345",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10345",
     "area_land":2336237920,
     "area_water":613559,
     "geoid":"48327",

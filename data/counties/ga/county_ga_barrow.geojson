@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_barrow",
+  "id": "aclu/elections-api/county:7971",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7971",
     "area_land":416283948,
     "area_water":5707989,
     "geoid":"13013",

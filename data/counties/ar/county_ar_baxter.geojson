@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_baxter",
+  "id": "aclu/elections-api/county:7671",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7671",
     "area_land":1435438032,
     "area_water":84171993,
     "geoid":"05005",

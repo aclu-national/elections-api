@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_livingston",
+  "id": "aclu/elections-api/county:8641",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8641",
     "area_land":810999158,
     "area_water":75642166,
     "geoid":"21139",

@@ -1,7 +1,8 @@
 {
-  "id": "county_co_grand",
+  "id": "aclu/elections-api/county:7847",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7847",
     "area_land":4782260517,
     "area_water":59902382,
     "geoid":"08049",

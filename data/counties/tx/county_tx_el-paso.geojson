@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_el-paso",
+  "id": "aclu/elections-api/county:10251",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10251",
     "area_land":2624144579,
     "area_water":5443740,
     "geoid":"48141",

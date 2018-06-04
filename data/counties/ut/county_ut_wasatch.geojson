@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_wasatch",
+  "id": "aclu/elections-api/county:10461",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10461",
     "area_land":3048467979,
     "area_water":79114523,
     "geoid":"49051",

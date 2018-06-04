@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_fajardo",
+  "id": "aclu/elections-api/county:9918",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9918",
     "area_land":77448647,
     "area_water":195352764,
     "geoid":"72053",

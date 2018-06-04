@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_comanche",
+  "id": "aclu/elections-api/county:9727",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9727",
     "area_land":2769447440,
     "area_water":37331078,
     "geoid":"40031",

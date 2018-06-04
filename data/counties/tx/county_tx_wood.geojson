@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_wood",
+  "id": "aclu/elections-api/county:10431",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10431",
     "area_land":1671154351,
     "area_water":130748983,
     "geoid":"48499",

@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_union",
+  "id": "aclu/elections-api/county:7960",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7960",
     "area_land":630806849,
     "area_water":16049467,
     "geoid":"12125",

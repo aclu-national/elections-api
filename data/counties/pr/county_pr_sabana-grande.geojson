@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_sabana-grande",
+  "id": "aclu/elections-api/county:9953",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9953",
     "area_land":94050249,
     "area_water":25323,
     "geoid":"72121",

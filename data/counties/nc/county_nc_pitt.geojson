@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_pitt",
+  "id": "aclu/elections-api/county:9308",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9308",
     "area_land":1689619168,
     "area_water":8248766,
     "geoid":"37147",

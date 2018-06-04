@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_washakie",
+  "id": "aclu/elections-api/county:10798",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10798",
     "area_land":5798120186,
     "area_water":10455585,
     "geoid":"56043",

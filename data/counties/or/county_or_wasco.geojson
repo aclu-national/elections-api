@@ -1,7 +1,8 @@
 {
-  "id": "county_or_wasco",
+  "id": "aclu/elections-api/county:9821",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9821",
     "area_land":6167121090,
     "area_water":35716361,
     "geoid":"41065",

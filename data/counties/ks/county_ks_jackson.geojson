@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_jackson",
+  "id": "aclu/elections-api/county:8509",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8509",
     "area_land":1699600373,
     "area_water":4666514,
     "geoid":"20085",

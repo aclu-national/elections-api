@@ -1,7 +1,8 @@
 {
-  "id": "county_me_cumberland",
+  "id": "aclu/elections-api/county:8795",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8795",
     "area_land":2164393695,
     "area_water":988818232,
     "geoid":"23005",

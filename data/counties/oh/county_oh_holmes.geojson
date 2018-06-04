@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_holmes",
+  "id": "aclu/elections-api/county:9661",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9661",
     "area_land":1094356029,
     "area_water":3745075,
     "geoid":"39075",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_moca",
+  "id": "aclu/elections-api/county:9942",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9942",
     "area_land":130383573,
     "area_water":56474,
     "geoid":"72099",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_king",
+  "id": "aclu/elections-api/county:10627",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10627",
     "area_land":5478366437,
     "area_water":497909625,
     "geoid":"53033",

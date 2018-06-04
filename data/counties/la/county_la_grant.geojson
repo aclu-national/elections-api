@@ -1,7 +1,8 @@
 {
-  "id": "county_la_grant",
+  "id": "aclu/elections-api/county:8713",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8713",
     "area_land":1665429795,
     "area_water":56013947,
     "geoid":"22043",

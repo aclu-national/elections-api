@@ -1,7 +1,8 @@
 {
-  "id": "county_in_jennings",
+  "id": "aclu/elections-api/county:8414",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8414",
     "area_land":975364386,
     "area_water":4546211,
     "geoid":"18079",

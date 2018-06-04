@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_martin",
+  "id": "aclu/elections-api/county:7939",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7939",
     "area_land":1408247995,
     "area_water":542262212,
     "geoid":"12085",

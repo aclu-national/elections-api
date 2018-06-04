@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_perry",
+  "id": "aclu/elections-api/county:8668",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8668",
     "area_land":879750403,
     "area_water":7603771,
     "geoid":"21193",

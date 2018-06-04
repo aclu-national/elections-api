@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_carroll",
+  "id": "aclu/elections-api/county:10095",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10095",
     "area_land":1547925975,
     "area_water":6308712,
     "geoid":"47017",

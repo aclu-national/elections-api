@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_crane",
+  "id": "aclu/elections-api/county:10233",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10233",
     "area_land":2033319713,
     "area_water":1695980,
     "geoid":"48103",

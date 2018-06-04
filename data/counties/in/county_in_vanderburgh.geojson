@@ -1,7 +1,8 @@
 {
-  "id": "county_in_vanderburgh",
+  "id": "aclu/elections-api/county:8456",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8456",
     "area_land":605228197,
     "area_water":7654554,
     "geoid":"18163",

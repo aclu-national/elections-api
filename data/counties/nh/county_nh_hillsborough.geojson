@@ -1,7 +1,8 @@
 {
-  "id": "county_nh_hillsborough",
+  "id": "aclu/elections-api/county:9486",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9486",
     "area_land":2269883907,
     "area_water":41627731,
     "geoid":"33011",

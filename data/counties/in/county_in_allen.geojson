@@ -1,7 +1,8 @@
 {
-  "id": "county_in_allen",
+  "id": "aclu/elections-api/county:8376",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8376",
     "area_land":1702454342,
     "area_water":6999605,
     "geoid":"18003",

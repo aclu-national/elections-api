@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_arecibo",
+  "id": "aclu/elections-api/county:9898",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9898",
     "area_land":326179591,
     "area_water":117205831,
     "geoid":"72013",

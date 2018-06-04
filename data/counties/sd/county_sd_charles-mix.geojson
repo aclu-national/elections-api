@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_charles-mix",
+  "id": "aclu/elections-api/county:10031",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10031",
     "area_land":2842481188,
     "area_water":136616766,
     "geoid":"46023",

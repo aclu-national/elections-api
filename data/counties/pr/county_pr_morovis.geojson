@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_morovis",
+  "id": "aclu/elections-api/county:9943",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9943",
     "area_land":100676181,
     "area_water":139537,
     "geoid":"72101",

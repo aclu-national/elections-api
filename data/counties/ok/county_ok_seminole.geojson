@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_seminole",
+  "id": "aclu/elections-api/county:9778",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9778",
     "area_land":1639040857,
     "area_water":19778906,
     "geoid":"40133",

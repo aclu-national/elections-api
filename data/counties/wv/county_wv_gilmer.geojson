@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_gilmer",
+  "id": "aclu/elections-api/county:10732",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10732",
     "area_land":876717634,
     "area_water":4082111,
     "geoid":"54021",

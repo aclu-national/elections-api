@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_laurens",
+  "id": "aclu/elections-api/county:10004",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10004",
     "area_land":1848783527,
     "area_water":25949287,
     "geoid":"45059",

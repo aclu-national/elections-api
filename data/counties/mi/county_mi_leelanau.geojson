@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_leelanau",
+  "id": "aclu/elections-api/county:8853",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8853",
     "area_land":899206779,
     "area_water":5659140425,
     "geoid":"26089",

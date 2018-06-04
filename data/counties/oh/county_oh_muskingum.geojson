@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_muskingum",
+  "id": "aclu/elections-api/county:9683",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9683",
     "area_land":1721328762,
     "area_water":20656658,
     "geoid":"39119",

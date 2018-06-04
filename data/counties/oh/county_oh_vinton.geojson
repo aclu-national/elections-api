@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_vinton",
+  "id": "aclu/elections-api/county:9705",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9705",
     "area_land":1068008706,
     "area_water":6781201,
     "geoid":"39163",

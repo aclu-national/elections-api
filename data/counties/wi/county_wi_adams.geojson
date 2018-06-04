@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_adams",
+  "id": "aclu/elections-api/county:10650",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10650",
     "area_land":1672140731,
     "area_water":108432130,
     "geoid":"55001",

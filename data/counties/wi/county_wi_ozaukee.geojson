@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_ozaukee",
+  "id": "aclu/elections-api/county:10695",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10695",
     "area_land":603471584,
     "area_water":2287458200,
     "geoid":"55089",

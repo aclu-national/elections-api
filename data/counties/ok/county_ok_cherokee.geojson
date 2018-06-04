@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_cherokee",
+  "id": "aclu/elections-api/county:9722",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9722",
     "area_land":1940958254,
     "area_water":69624105,
     "geoid":"40021",

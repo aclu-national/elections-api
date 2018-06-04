@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_yates",
+  "id": "aclu/elections-api/county:9623",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9623",
     "area_land":875785691,
     "area_water":97504774,
     "geoid":"36123",

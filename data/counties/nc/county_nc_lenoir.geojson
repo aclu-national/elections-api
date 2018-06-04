@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_lenoir",
+  "id": "aclu/elections-api/county:9288",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9288",
     "area_land":1033630023,
     "area_water":5900300,
     "geoid":"37107",

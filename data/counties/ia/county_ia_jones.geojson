@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_jones",
+  "id": "aclu/elections-api/county:8182",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8182",
     "area_land":1490771974,
     "area_water":3661438,
     "geoid":"19105",

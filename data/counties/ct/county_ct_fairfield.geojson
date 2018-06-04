@@ -1,7 +1,8 @@
 {
-  "id": "county_ct_fairfield",
+  "id": "aclu/elections-api/county:7886",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7886",
     "area_land":1618664433,
     "area_water":549280551,
     "geoid":"09001",

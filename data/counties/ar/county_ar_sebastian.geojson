@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_sebastian",
+  "id": "aclu/elections-api/county:7733",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7733",
     "area_land":1377601663,
     "area_water":39693809,
     "geoid":"05131",

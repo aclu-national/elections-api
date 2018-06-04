@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_butts",
+  "id": "aclu/elections-api/county:7982",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7982",
     "area_land":475759863,
     "area_water":11264566,
     "geoid":"13035",

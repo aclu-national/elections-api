@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_mcmullen",
+  "id": "aclu/elections-api/county:10343",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10343",
     "area_land":2952065876,
     "area_water":43985815,
     "geoid":"48311",

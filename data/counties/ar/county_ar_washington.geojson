@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_washington",
+  "id": "aclu/elections-api/county:7740",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7740",
     "area_land":2439678769,
     "area_water":27051804,
     "geoid":"05143",

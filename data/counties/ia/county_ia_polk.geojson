@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_polk",
+  "id": "aclu/elections-api/county:8206",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8206",
     "area_land":1482734960,
     "area_water":49332276,
     "geoid":"19153",

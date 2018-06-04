@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_burnett",
+  "id": "aclu/elections-api/county:10656",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10656",
     "area_land":2127825031,
     "area_water":151944424,
     "geoid":"55013",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_las-mar-as",
+  "id": "aclu/elections-api/county:9934",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9934",
     "area_land":120071822,
     "area_water":376224,
     "geoid":"72083",

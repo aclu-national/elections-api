@@ -1,7 +1,8 @@
 {
-  "id": "county_in_whitley",
+  "id": "aclu/elections-api/county:8466",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8466",
     "area_land":869120483,
     "area_water":6073937,
     "geoid":"18183",

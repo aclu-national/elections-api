@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_pemiscot",
+  "id": "aclu/elections-api/county:9056",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9056",
     "area_land":1275622233,
     "area_water":54164612,
     "geoid":"29155",

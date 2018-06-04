@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_webster",
+  "id": "aclu/elections-api/county:10772",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10772",
     "area_land":1433477403,
     "area_water":7148637,
     "geoid":"54101",

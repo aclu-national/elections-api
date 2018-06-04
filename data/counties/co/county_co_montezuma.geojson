@@ -1,7 +1,8 @@
 {
-  "id": "county_co_montezuma",
+  "id": "aclu/elections-api/county:7864",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7864",
     "area_land":5255937110,
     "area_water":27261088,
     "geoid":"08083",

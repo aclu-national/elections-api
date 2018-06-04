@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_dakota",
+  "id": "aclu/elections-api/county:9409",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9409",
     "area_land":684416197,
     "area_water":8199748,
     "geoid":"31043",

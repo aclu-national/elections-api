@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_rutherford",
+  "id": "aclu/elections-api/county:9315",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9315",
     "area_land":1464487608,
     "area_water":4681435,
     "geoid":"37161",

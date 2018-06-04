@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_crockett",
+  "id": "aclu/elections-api/county:10103",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10103",
     "area_land":687766537,
     "area_water":494100,
     "geoid":"47033",

@@ -1,7 +1,8 @@
 {
-  "id": "county_al_pike",
+  "id": "aclu/elections-api/county:7656",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7656",
     "area_land":1740647521,
     "area_water":2336975,
     "geoid":"01109",

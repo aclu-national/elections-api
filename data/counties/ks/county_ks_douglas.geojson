@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_douglas",
+  "id": "aclu/elections-api/county:8489",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8489",
     "area_land":1180628927,
     "area_water":48674249,
     "geoid":"20045",

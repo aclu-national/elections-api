@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_plumas",
+  "id": "aclu/elections-api/county:7795",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7795",
     "area_land":6612400919,
     "area_water":156387635,
     "geoid":"06063",

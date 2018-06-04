@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_lee",
+  "id": "aclu/elections-api/county:9287",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9287",
     "area_land":660580685,
     "area_water":10752017,
     "geoid":"37105",

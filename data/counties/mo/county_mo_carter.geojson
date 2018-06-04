@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_carter",
+  "id": "aclu/elections-api/county:8996",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8996",
     "area_land":1314052209,
     "area_water":4305247,
     "geoid":"29035",

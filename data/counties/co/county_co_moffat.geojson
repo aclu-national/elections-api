@@ -1,7 +1,8 @@
 {
-  "id": "county_co_moffat",
+  "id": "aclu/elections-api/county:7863",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7863",
     "area_land":12284943876,
     "area_water":19803412,
     "geoid":"08081",

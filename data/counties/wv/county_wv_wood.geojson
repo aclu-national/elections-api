@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_wood",
+  "id": "aclu/elections-api/county:10775",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10775",
     "area_land":948592039,
     "area_water":27228519,
     "geoid":"54107",

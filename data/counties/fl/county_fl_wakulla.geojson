@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_wakulla",
+  "id": "aclu/elections-api/county:7962",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7962",
     "area_land":1570625279,
     "area_water":334901690,
     "geoid":"12129",

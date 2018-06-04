@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_iredell",
+  "id": "aclu/elections-api/county:9283",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9283",
     "area_land":1487115275,
     "area_water":61893483,
     "geoid":"37097",

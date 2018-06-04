@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_maries",
+  "id": "aclu/elections-api/county:9040",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9040",
     "area_land":1364869337,
     "area_water":7636521,
     "geoid":"29125",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_white",
+  "id": "aclu/elections-api/county:7741",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7741",
     "area_land":2680852086,
     "area_water":18293044,
     "geoid":"05145",

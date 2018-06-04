@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_polk",
+  "id": "aclu/elections-api/county:7950",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7950",
     "area_land":4653579490,
     "area_water":553462009,
     "geoid":"12105",

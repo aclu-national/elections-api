@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_juneau",
+  "id": "aclu/elections-api/county:7583",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7583",
     "area_land":6829216436,
     "area_water":1423792753,
     "geoid":"02110",

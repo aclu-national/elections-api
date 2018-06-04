@@ -1,7 +1,8 @@
 {
-  "id": "county_in_bartholomew",
+  "id": "aclu/elections-api/county:8377",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8377",
     "area_land":1053869826,
     "area_water":6814131,
     "geoid":"18005",

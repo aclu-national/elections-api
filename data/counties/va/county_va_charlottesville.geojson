@@ -1,7 +1,8 @@
 {
-  "id": "county_va_charlottesville",
+  "id": "aclu/elections-api/county:10488",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10488",
     "area_land":26533566,
     "area_water":47160,
     "geoid":"51540",

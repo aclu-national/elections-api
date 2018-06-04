@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_barbour",
+  "id": "aclu/elections-api/county:10722",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10722",
     "area_land":883338745,
     "area_water":4639232,
     "geoid":"54001",

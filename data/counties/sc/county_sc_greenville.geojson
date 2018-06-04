@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_greenville",
+  "id": "aclu/elections-api/county:9997",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9997",
     "area_land":2033687076,
     "area_water":25132346,
     "geoid":"45045",

@@ -1,7 +1,8 @@
 {
-  "id": "county_in_blackford",
+  "id": "aclu/elections-api/county:8379",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8379",
     "area_land":427554638,
     "area_water":1303566,
     "geoid":"18009",

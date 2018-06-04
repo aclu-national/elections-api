@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_pocahontas",
+  "id": "aclu/elections-api/county:10759",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10759",
     "area_land":2435322222,
     "area_water":3978619,
     "geoid":"54075",

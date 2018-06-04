@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_decatur",
+  "id": "aclu/elections-api/county:10106",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10106",
     "area_land":864738981,
     "area_water":28503793,
     "geoid":"47039",

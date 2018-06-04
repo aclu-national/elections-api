@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_noble",
+  "id": "aclu/elections-api/county:9763",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9763",
     "area_land":1895593648,
     "area_water":27552185,
     "geoid":"40103",

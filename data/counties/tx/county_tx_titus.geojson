@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_titus",
+  "id": "aclu/elections-api/county:10406",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10406",
     "area_land":1051683607,
     "area_water":50727822,
     "geoid":"48449",

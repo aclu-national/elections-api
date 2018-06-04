@@ -1,7 +1,8 @@
 {
-  "id": "county_id_teton",
+  "id": "aclu/elections-api/county:8269",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8269",
     "area_land":1163139958,
     "area_water":2868476,
     "geoid":"16081",

@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_sanborn",
+  "id": "aclu/elections-api/county:10076",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10076",
     "area_land":1474586446,
     "area_water":2938339,
     "geoid":"46111",

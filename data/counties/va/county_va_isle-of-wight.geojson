@@ -1,7 +1,8 @@
 {
-  "id": "county_va_isle-of-wight",
+  "id": "aclu/elections-api/county:10525",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10525",
     "area_land":817464624,
     "area_water":122256020,
     "geoid":"51093",

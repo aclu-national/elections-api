@@ -1,7 +1,8 @@
 {
-  "id": "county_va_giles",
+  "id": "aclu/elections-api/county:10511",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10511",
     "area_land":925206333,
     "area_water":11233315,
     "geoid":"51071",

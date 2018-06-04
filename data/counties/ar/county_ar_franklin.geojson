@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_franklin",
+  "id": "aclu/elections-api/county:7692",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7692",
     "area_land":1576930289,
     "area_water":27936032,
     "geoid":"05047",

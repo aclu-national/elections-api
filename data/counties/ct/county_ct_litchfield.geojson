@@ -1,7 +1,8 @@
 {
-  "id": "county_ct_litchfield",
+  "id": "aclu/elections-api/county:7888",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7888",
     "area_land":2384058125,
     "area_water":62393362,
     "geoid":"09005",

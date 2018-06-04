@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_anoka",
+  "id": "aclu/elections-api/county:8893",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8893",
     "area_land":1095486322,
     "area_water":59843479,
     "geoid":"27003",

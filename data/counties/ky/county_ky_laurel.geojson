@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_laurel",
+  "id": "aclu/elections-api/county:8634",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8634",
     "area_land":1123945963,
     "area_water":25218355,
     "geoid":"21125",

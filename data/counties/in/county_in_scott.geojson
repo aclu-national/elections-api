@@ -1,7 +1,8 @@
 {
-  "id": "county_in_scott",
+  "id": "aclu/elections-api/county:8445",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8445",
     "area_land":493126036,
     "area_water":6088999,
     "geoid":"18143",

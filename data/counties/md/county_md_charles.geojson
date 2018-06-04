@@ -1,7 +1,8 @@
 {
-  "id": "county_md_charles",
+  "id": "aclu/elections-api/county:8777",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8777",
     "area_land":1185656912,
     "area_water":479539652,
     "geoid":"24017",

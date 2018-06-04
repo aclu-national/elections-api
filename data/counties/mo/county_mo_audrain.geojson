@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_audrain",
+  "id": "aclu/elections-api/county:8982",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8982",
     "area_land":1792880224,
     "area_water":11880946,
     "geoid":"29007",

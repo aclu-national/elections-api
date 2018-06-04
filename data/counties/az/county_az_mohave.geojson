@@ -1,7 +1,8 @@
 {
-  "id": "county_az_mohave",
+  "id": "aclu/elections-api/county:7757",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7757",
     "area_land":34475503964,
     "area_water":387344307,
     "geoid":"04015",

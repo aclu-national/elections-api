@@ -1,7 +1,8 @@
 {
-  "id": "county_al_elmore",
+  "id": "aclu/elections-api/county:7627",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7627",
     "area_land":1601762124,
     "area_water":99965171,
     "geoid":"01051",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_nelson",
+  "id": "aclu/elections-api/county:8661",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8661",
     "area_land":1081354955,
     "area_water":16997387,
     "geoid":"21179",

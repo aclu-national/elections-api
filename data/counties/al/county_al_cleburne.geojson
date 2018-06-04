@@ -1,7 +1,8 @@
 {
-  "id": "county_al_cleburne",
+  "id": "aclu/elections-api/county:7616",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7616",
     "area_land":1450663938,
     "area_water":2354898,
     "geoid":"01029",

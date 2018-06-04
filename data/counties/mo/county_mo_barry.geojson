@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_barry",
+  "id": "aclu/elections-api/county:8983",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8983",
     "area_land":2015661187,
     "area_water":32940075,
     "geoid":"29009",

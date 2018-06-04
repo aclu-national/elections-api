@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_muskegon",
+  "id": "aclu/elections-api/county:8869",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8869",
     "area_land":1298494539,
     "area_water":2482949902,
     "geoid":"26121",

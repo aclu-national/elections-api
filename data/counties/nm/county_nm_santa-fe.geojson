@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_santa-fe",
+  "id": "aclu/elections-api/county:9538",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9538",
     "area_land":4941709205,
     "area_water":3537550,
     "geoid":"35049",

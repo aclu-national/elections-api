@@ -1,7 +1,8 @@
 {
-  "id": "county_va_fauquier",
+  "id": "aclu/elections-api/county:10504",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10504",
     "area_land":1678273823,
     "area_water":9687703,
     "geoid":"51061",

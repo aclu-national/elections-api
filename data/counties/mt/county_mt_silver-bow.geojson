@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_silver-bow",
+  "id": "aclu/elections-api/county:9225",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9225",
     "area_land":1859568288,
     "area_water":1518177,
     "geoid":"30093",

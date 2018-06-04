@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_price",
+  "id": "aclu/elections-api/county:10700",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10700",
     "area_land":3247805080,
     "area_water":62281745,
     "geoid":"55099",

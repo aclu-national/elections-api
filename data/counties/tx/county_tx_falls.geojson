@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_falls",
+  "id": "aclu/elections-api/county:10254",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10254",
     "area_land":1982544974,
     "area_water":21693803,
     "geoid":"48145",

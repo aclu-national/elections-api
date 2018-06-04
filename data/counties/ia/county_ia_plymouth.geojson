@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_plymouth",
+  "id": "aclu/elections-api/county:8204",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8204",
     "area_land":2234715192,
     "area_water":2176851,
     "geoid":"19149",

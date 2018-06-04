@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_bristol",
+  "id": "aclu/elections-api/county:8758",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8758",
     "area_land":1432461196,
     "area_water":357549440,
     "geoid":"25005",

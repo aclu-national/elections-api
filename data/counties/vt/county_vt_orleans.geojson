@@ -1,7 +1,8 @@
 {
-  "id": "county_vt_orleans",
+  "id": "aclu/elections-api/county:10606",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10606",
     "area_land":1796376281,
     "area_water":71442197,
     "geoid":"50019",

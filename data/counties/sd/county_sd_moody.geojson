@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_moody",
+  "id": "aclu/elections-api/county:10070",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10070",
     "area_land":1345200317,
     "area_water":3679400,
     "geoid":"46101",

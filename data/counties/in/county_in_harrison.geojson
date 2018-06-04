@@ -1,7 +1,8 @@
 {
-  "id": "county_in_harrison",
+  "id": "aclu/elections-api/county:8405",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8405",
     "area_land":1254889443,
     "area_water":5193189,
     "geoid":"18061",

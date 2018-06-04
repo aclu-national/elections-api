@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_rooks",
+  "id": "aclu/elections-api/county:8548",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8548",
     "area_land":2306483733,
     "area_water":11962259,
     "geoid":"20163",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_gurabo",
+  "id": "aclu/elections-api/county:9924",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9924",
     "area_land":72228545,
     "area_water":1101116,
     "geoid":"72063",

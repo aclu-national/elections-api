@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_tooele",
+  "id": "aclu/elections-api/county:10458",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10458",
     "area_land":17979586953,
     "area_water":891043654,
     "geoid":"49045",

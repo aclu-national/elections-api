@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_clark",
+  "id": "aclu/elections-api/county:9001",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9001",
     "area_land":1307092462,
     "area_water":18528245,
     "geoid":"29045",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_jefferson",
+  "id": "aclu/elections-api/county:9129",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9129",
     "area_land":1346620561,
     "area_water":18988092,
     "geoid":"28063",

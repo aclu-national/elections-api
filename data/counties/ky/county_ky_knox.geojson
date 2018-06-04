@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_knox",
+  "id": "aclu/elections-api/county:8632",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8632",
     "area_land":1000508765,
     "area_water":3753811,
     "geoid":"21121",

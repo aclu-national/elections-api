@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_oceana",
+  "id": "aclu/elections-api/county:8872",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8872",
     "area_land":1355525949,
     "area_water":2026870042,
     "geoid":"26127",

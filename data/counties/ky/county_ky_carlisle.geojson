@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_carlisle",
+  "id": "aclu/elections-api/county:8591",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8591",
     "area_land":490632724,
     "area_water":24722530,
     "geoid":"21039",

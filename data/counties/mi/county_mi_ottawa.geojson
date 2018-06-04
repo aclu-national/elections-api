@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_ottawa",
+  "id": "aclu/elections-api/county:8878",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8878",
     "area_land":1459627896,
     "area_water":2765705477,
     "geoid":"26139",

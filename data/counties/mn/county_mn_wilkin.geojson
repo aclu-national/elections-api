@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_wilkin",
+  "id": "aclu/elections-api/county:8975",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8975",
     "area_land":1945079886,
     "area_water":482554,
     "geoid":"27167",

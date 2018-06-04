@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_grand",
+  "id": "aclu/elections-api/county:10445",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10445",
     "area_land":9512361722,
     "area_water":31552277,
     "geoid":"49019",

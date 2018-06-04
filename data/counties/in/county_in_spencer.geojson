@@ -1,7 +1,8 @@
 {
-  "id": "county_in_spencer",
+  "id": "aclu/elections-api/county:8447",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8447",
     "area_land":1027620480,
     "area_water":12069099,
     "geoid":"18147",

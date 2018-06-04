@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_darlington",
+  "id": "aclu/elections-api/county:9990",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9990",
     "area_land":1453370732,
     "area_water":14647308,
     "geoid":"45031",

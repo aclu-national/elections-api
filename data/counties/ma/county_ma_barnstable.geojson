@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_barnstable",
+  "id": "aclu/elections-api/county:8756",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8756",
     "area_land":1020989901,
     "area_water":2360346063,
     "geoid":"25001",

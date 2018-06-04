@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_clay",
+  "id": "aclu/elections-api/county:7679",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7679",
     "area_land":1656214466,
     "area_water":5097734,
     "geoid":"05021",

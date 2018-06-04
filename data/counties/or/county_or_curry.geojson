@@ -1,7 +1,8 @@
 {
-  "id": "county_or_curry",
+  "id": "aclu/elections-api/county:9796",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9796",
     "area_land":4217568363,
     "area_water":934534728,
     "geoid":"41015",

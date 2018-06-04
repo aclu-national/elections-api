@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_garfield",
+  "id": "aclu/elections-api/county:10444",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10444",
     "area_land":13403572555,
     "area_water":85610784,
     "geoid":"49017",

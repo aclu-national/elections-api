@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_huron",
+  "id": "aclu/elections-api/county:8840",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8840",
     "area_land":2165446362,
     "area_water":3368847813,
     "geoid":"26063",

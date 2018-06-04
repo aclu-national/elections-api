@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_willacy",
+  "id": "aclu/elections-api/county:10426",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10426",
     "area_land":1529611927,
     "area_water":501715022,
     "geoid":"48489",

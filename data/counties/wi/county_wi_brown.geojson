@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_brown",
+  "id": "aclu/elections-api/county:10654",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10654",
     "area_land":1372929582,
     "area_water":221812520,
     "geoid":"55009",

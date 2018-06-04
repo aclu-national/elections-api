@@ -1,7 +1,8 @@
 {
-  "id": "county_co_montrose",
+  "id": "aclu/elections-api/county:7865",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7865",
     "area_land":5804023642,
     "area_water":4923261,
     "geoid":"08085",

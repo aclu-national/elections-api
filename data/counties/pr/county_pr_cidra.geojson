@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_cidra",
+  "id": "aclu/elections-api/county:9912",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9912",
     "area_land":93294534,
     "area_water":1123798,
     "geoid":"72041",

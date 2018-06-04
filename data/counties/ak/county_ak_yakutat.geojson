@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_yakutat",
+  "id": "aclu/elections-api/county:7600",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7600",
     "area_land":19746741191,
     "area_water":35390272145,
     "geoid":"02282",

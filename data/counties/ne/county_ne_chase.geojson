@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_chase",
+  "id": "aclu/elections-api/county:9402",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9402",
     "area_land":2316533465,
     "area_water":7978174,
     "geoid":"31029",

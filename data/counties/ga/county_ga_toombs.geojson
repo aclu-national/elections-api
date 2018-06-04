@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_toombs",
+  "id": "aclu/elections-api/county:8102",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8102",
     "area_land":942770579,
     "area_water":18094405,
     "geoid":"13279",

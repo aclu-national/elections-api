@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_polk",
+  "id": "aclu/elections-api/county:7725",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7725",
     "area_land":2221382755,
     "area_water":12372286,
     "geoid":"05113",

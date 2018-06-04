@@ -1,7 +1,8 @@
 {
-  "id": "county_al_walker",
+  "id": "aclu/elections-api/county:7665",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7665",
     "area_land":2048686077,
     "area_water":36754700,
     "geoid":"01127",

@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_codington",
+  "id": "aclu/elections-api/county:10034",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10034",
     "area_land":1780837027,
     "area_water":76608850,
     "geoid":"46029",

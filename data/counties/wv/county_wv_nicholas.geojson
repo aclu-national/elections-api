@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_nicholas",
+  "id": "aclu/elections-api/county:10755",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10755",
     "area_land":1675296015,
     "area_water":19608977,
     "geoid":"54067",

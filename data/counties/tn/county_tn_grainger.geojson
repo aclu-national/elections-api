@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_grainger",
+  "id": "aclu/elections-api/county:10115",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10115",
     "area_land":726715762,
     "area_water":56600343,
     "geoid":"47057",

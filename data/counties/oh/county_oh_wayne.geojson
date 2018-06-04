@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_wayne",
+  "id": "aclu/elections-api/county:9708",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9708",
     "area_land":1437086621,
     "area_water":5055679,
     "geoid":"39169",

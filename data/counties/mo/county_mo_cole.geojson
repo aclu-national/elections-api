@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_cole",
+  "id": "aclu/elections-api/county:9004",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9004",
     "area_land":1014013382,
     "area_water":19259438,
     "geoid":"29051",

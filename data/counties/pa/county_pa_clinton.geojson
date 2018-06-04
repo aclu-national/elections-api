@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_clinton",
+  "id": "aclu/elections-api/county:9842",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9842",
     "area_land":2299868230,
     "area_water":23178794,
     "geoid":"42035",

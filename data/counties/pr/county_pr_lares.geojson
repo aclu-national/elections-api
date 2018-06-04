@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_lares",
+  "id": "aclu/elections-api/county:9933",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9933",
     "area_land":159155302,
     "area_water":485277,
     "geoid":"72081",

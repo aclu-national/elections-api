@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_osage",
+  "id": "aclu/elections-api/county:8536",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8536",
     "area_land":1827283226,
     "area_water":37107132,
     "geoid":"20139",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_shackelford",
+  "id": "aclu/elections-api/county:10390",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10390",
     "area_land":2367989256,
     "area_water":3268209,
     "geoid":"48417",

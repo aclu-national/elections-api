@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_saluda",
+  "id": "aclu/elections-api/county:10015",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10015",
     "area_land":1172692435,
     "area_water":23417452,
     "geoid":"45081",

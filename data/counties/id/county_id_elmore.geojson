@@ -1,7 +1,8 @@
 {
-  "id": "county_id_elmore",
+  "id": "aclu/elections-api/county:8248",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8248",
     "area_land":7964192255,
     "area_water":68555510,
     "geoid":"16039",

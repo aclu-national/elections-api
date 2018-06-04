@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_ionia",
+  "id": "aclu/elections-api/county:8842",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8842",
     "area_land":1479659350,
     "area_water":22641874,
     "geoid":"26067",

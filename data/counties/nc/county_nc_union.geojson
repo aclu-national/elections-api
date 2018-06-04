@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_union",
+  "id": "aclu/elections-api/county:9324",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9324",
     "area_land":1636332950,
     "area_water":20337550,
     "geoid":"37179",

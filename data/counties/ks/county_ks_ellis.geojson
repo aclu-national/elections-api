@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_ellis",
+  "id": "aclu/elections-api/county:8492",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8492",
     "area_land":2330762291,
     "area_water":1197085,
     "geoid":"20051",

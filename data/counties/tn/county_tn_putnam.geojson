@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_putnam",
+  "id": "aclu/elections-api/county:10157",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10157",
     "area_land":1038860590,
     "area_water":3777709,
     "geoid":"47141",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_pulaski",
+  "id": "aclu/elections-api/county:7728",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7728",
     "area_land":1965575733,
     "area_water":126242806,
     "geoid":"05119",

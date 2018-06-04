@@ -1,7 +1,8 @@
 {
-  "id": "county_va_williamsburg",
+  "id": "aclu/elections-api/county:10589",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10589",
     "area_land":23155312,
     "area_water":416904,
     "geoid":"51830",

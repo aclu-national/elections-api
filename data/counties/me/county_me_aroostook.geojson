@@ -1,7 +1,8 @@
 {
-  "id": "county_me_aroostook",
+  "id": "aclu/elections-api/county:8794",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8794",
     "area_land":17278038056,
     "area_water":405253238,
     "geoid":"23003",

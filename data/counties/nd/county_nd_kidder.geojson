@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_kidder",
+  "id": "aclu/elections-api/county:9356",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9356",
     "area_land":3499507647,
     "area_water":211725374,
     "geoid":"38043",

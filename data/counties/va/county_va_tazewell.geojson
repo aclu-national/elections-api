@@ -1,7 +1,8 @@
 {
-  "id": "county_va_tazewell",
+  "id": "aclu/elections-api/county:10583",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10583",
     "area_land":1343661925,
     "area_water":2921369,
     "geoid":"51185",

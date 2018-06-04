@@ -1,7 +1,8 @@
 {
-  "id": "county_id_nez-perce",
+  "id": "aclu/elections-api/county:8263",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8263",
     "area_land":2197056674,
     "area_water":21339031,
     "geoid":"16069",

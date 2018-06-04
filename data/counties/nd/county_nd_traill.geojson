@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_traill",
+  "id": "aclu/elections-api/county:9383",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9383",
     "area_land":2232438250,
     "area_water":1462184,
     "geoid":"38097",

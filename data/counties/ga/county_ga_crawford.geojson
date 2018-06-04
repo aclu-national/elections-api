@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_crawford",
+  "id": "aclu/elections-api/county:8003",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8003",
     "area_land":841521994,
     "area_water":3988980,
     "geoid":"13079",

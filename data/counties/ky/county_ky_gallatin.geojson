@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_gallatin",
+  "id": "aclu/elections-api/county:8610",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8610",
     "area_land":254699793,
     "area_water":16518583,
     "geoid":"21077",

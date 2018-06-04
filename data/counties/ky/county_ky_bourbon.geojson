@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_bourbon",
+  "id": "aclu/elections-api/county:8580",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8580",
     "area_land":750370820,
     "area_water":4849018,
     "geoid":"21017",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_yoakum",
+  "id": "aclu/elections-api/county:10432",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10432",
     "area_land":2071252452,
     "area_water":34329,
     "geoid":"48501",

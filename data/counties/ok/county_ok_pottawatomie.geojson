@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_pottawatomie",
+  "id": "aclu/elections-api/county:9774",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9774",
     "area_land":2040060549,
     "area_water":14842439,
     "geoid":"40125",

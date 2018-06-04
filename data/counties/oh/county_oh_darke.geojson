@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_darke",
+  "id": "aclu/elections-api/county:9642",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9642",
     "area_land":1549071817,
     "area_water":4245786,
     "geoid":"39037",

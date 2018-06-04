@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_washington",
+  "id": "aclu/elections-api/county:9707",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9707",
     "area_land":1636799188,
     "area_water":20784929,
     "geoid":"39167",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_gage",
+  "id": "aclu/elections-api/county:9421",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9421",
     "area_land":2205275212,
     "area_water":22010737,
     "geoid":"31067",

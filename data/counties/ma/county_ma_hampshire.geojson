@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_hampshire",
+  "id": "aclu/elections-api/county:8763",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8763",
     "area_land":1365526500,
     "area_water":46525649,
     "geoid":"25015",

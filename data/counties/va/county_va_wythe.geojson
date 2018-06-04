@@ -1,7 +1,8 @@
 {
-  "id": "county_va_wythe",
+  "id": "aclu/elections-api/county:10592",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10592",
     "area_land":1196367968,
     "area_water":7310342,
     "geoid":"51197",

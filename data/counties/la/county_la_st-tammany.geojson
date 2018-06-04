@@ -1,7 +1,8 @@
 {
-  "id": "county_la_st-tammany",
+  "id": "aclu/elections-api/county:8743",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8743",
     "area_land":2190165998,
     "area_water":647368450,
     "geoid":"22103",

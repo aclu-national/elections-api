@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_marin",
+  "id": "aclu/elections-api/county:7784",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7784",
     "area_land":1347976832,
     "area_water":797029137,
     "geoid":"06041",

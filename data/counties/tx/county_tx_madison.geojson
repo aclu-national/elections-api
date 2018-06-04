@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_madison",
+  "id": "aclu/elections-api/county:10335",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10335",
     "area_land":1207103467,
     "area_water":16493254,
     "geoid":"48313",

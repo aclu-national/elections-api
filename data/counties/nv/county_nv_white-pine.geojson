@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_white-pine",
+  "id": "aclu/elections-api/county:9561",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9561",
     "area_land":22985104192,
     "area_water":54678877,
     "geoid":"32033",

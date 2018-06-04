@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_summit",
+  "id": "aclu/elections-api/county:9700",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9700",
     "area_land":1069192868,
     "area_water":18948340,
     "geoid":"39153",

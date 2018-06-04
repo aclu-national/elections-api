@@ -1,7 +1,8 @@
 {
-  "id": "county_id_shoshone",
+  "id": "aclu/elections-api/county:8268",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8268",
     "area_land":6830709342,
     "area_water":14151673,
     "geoid":"16079",

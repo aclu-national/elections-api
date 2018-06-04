@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_manatee",
+  "id": "aclu/elections-api/county:7937",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7937",
     "area_land":1924699210,
     "area_water":387514585,
     "geoid":"12081",

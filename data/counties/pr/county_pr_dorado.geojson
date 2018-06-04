@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_dorado",
+  "id": "aclu/elections-api/county:9917",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9917",
     "area_land":59870098,
     "area_water":79238790,
     "geoid":"72051",

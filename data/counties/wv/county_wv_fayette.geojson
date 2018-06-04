@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_fayette",
+  "id": "aclu/elections-api/county:10731",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10731",
     "area_land":1713507808,
     "area_water":17505425,
     "geoid":"54019",

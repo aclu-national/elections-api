@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_pawnee",
+  "id": "aclu/elections-api/county:9770",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9770",
     "area_land":1471527632,
     "area_water":68888617,
     "geoid":"40117",

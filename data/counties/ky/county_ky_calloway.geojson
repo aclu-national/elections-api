@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_calloway",
+  "id": "aclu/elections-api/county:8589",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8589",
     "area_land":997206000,
     "area_water":66492945,
     "geoid":"21035",

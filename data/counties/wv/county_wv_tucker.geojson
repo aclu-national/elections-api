@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_tucker",
+  "id": "aclu/elections-api/county:10768",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10768",
     "area_land":1085094885,
     "area_water":5528932,
     "geoid":"54093",

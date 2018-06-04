@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_kearney",
+  "id": "aclu/elections-api/county:9437",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9437",
     "area_land":1337063632,
     "area_water":274634,
     "geoid":"31099",

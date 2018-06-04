@@ -1,7 +1,8 @@
 {
-  "id": "county_il_stephenson",
+  "id": "aclu/elections-api/county:8361",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8361",
     "area_land":1462175613,
     "area_water":1385929,
     "geoid":"17177",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_henry",
+  "id": "aclu/elections-api/county:8623",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8623",
     "area_land":741450757,
     "area_water":12552369,
     "geoid":"21103",

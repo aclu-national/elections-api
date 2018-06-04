@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_washington",
+  "id": "aclu/elections-api/county:9619",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9619",
     "area_land":2152713677,
     "area_water":38126891,
     "geoid":"36115",

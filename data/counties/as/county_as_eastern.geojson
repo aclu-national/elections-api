@@ -1,7 +1,8 @@
 {
-  "id": "county_as_eastern",
+  "id": "aclu/elections-api/county:7744",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7744",
     "area_land":65124868,
     "area_water":349724676,
     "geoid":"60010",

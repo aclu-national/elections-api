@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_chemung",
+  "id": "aclu/elections-api/county:9569",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9569",
     "area_land":1055038643,
     "area_water":8874334,
     "geoid":"36015",

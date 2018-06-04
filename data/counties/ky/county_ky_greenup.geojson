@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_greenup",
+  "id": "aclu/elections-api/county:8616",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8616",
     "area_land":892135587,
     "area_water":25884322,
     "geoid":"21089",

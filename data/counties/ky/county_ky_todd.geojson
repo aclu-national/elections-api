@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_todd",
+  "id": "aclu/elections-api/county:8681",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8681",
     "area_land":969941707,
     "area_water":6629026,
     "geoid":"21219",

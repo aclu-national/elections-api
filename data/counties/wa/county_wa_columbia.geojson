@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_columbia",
+  "id": "aclu/elections-api/county:10617",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10617",
     "area_land":2249624732,
     "area_water":12561762,
     "geoid":"53013",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_cumberland",
+  "id": "aclu/elections-api/county:8600",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8600",
     "area_land":790416910,
     "area_water":14830126,
     "geoid":"21057",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_prairie",
+  "id": "aclu/elections-api/county:9218",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9218",
     "area_land":4497780202,
     "area_water":15092932,
     "geoid":"30079",

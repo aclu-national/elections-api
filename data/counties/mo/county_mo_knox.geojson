@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_knox",
+  "id": "aclu/elections-api/county:9030",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9030",
     "area_land":1305376708,
     "area_water":7307012,
     "geoid":"29103",

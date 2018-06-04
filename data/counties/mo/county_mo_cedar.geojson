@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_cedar",
+  "id": "aclu/elections-api/county:8998",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8998",
     "area_land":1228905197,
     "area_water":62603495,
     "geoid":"29039",

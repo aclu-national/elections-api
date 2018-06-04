@@ -1,7 +1,8 @@
 {
-  "id": "county_la_catahoula",
+  "id": "aclu/elections-api/county:8704",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8704",
     "area_land":1833782911,
     "area_water":81308667,
     "geoid":"22025",

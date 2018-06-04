@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_hopkins",
+  "id": "aclu/elections-api/county:8625",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8625",
     "area_land":1403746106,
     "area_water":32182700,
     "geoid":"21107",

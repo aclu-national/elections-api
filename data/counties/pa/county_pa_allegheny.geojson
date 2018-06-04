@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_allegheny",
+  "id": "aclu/elections-api/county:9826",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9826",
     "area_land":1890889701,
     "area_water":37411492,
     "geoid":"42003",

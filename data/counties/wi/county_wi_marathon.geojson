@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_marathon",
+  "id": "aclu/elections-api/county:10686",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10686",
     "area_land":4001465174,
     "area_water":81219897,
     "geoid":"55073",

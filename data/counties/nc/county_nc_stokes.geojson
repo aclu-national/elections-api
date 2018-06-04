@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_stokes",
+  "id": "aclu/elections-api/county:9319",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9319",
     "area_land":1162938788,
     "area_water":17584342,
     "geoid":"37169",

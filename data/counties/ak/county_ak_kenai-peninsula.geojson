@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_kenai-peninsula",
+  "id": "aclu/elections-api/county:7584",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7584",
     "area_land":41499900917,
     "area_water":22525622024,
     "geoid":"02122",

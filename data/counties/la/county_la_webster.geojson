@@ -1,7 +1,8 @@
 {
-  "id": "county_la_webster",
+  "id": "aclu/elections-api/county:8751",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8751",
     "area_land":1536282650,
     "area_water":56145063,
     "geoid":"22119",

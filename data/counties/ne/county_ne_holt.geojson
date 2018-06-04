@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_holt",
+  "id": "aclu/elections-api/county:9432",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9432",
     "area_land":6248083634,
     "area_water":13201503,
     "geoid":"31089",

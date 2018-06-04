@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_pembina",
+  "id": "aclu/elections-api/county:9368",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9368",
     "area_land":2897408189,
     "area_water":7010908,
     "geoid":"38067",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_refugio",
+  "id": "aclu/elections-api/county:10377",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10377",
     "area_land":1995545559,
     "area_water":123687613,
     "geoid":"48391",

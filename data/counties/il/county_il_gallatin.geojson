@@ -1,7 +1,8 @@
 {
-  "id": "county_il_gallatin",
+  "id": "aclu/elections-api/county:8302",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8302",
     "area_land":836749960,
     "area_water":13238356,
     "geoid":"17059",

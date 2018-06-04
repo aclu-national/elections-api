@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_newton",
+  "id": "aclu/elections-api/county:9051",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9051",
     "area_land":1618104260,
     "area_water":4717267,
     "geoid":"29145",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_carroll",
+  "id": "aclu/elections-api/county:10485",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10485",
     "area_land":1229526812,
     "area_water":7645484,
     "geoid":"51035",

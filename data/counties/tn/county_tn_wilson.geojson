@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_wilson",
+  "id": "aclu/elections-api/county:10181",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10181",
     "area_land":1479053189,
     "area_water":32002365,
     "geoid":"47189",

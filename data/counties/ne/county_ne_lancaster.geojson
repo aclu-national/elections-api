@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_lancaster",
+  "id": "aclu/elections-api/county:9442",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9442",
     "area_land":2169252486,
     "area_water":22867561,
     "geoid":"31109",

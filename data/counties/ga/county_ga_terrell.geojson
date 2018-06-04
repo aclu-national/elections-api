@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_terrell",
+  "id": "aclu/elections-api/county:8099",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8099",
     "area_land":868785319,
     "area_water":5861795,
     "geoid":"13273",

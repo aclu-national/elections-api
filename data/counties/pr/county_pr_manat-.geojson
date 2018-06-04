@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_manat-",
+  "id": "aclu/elections-api/county:9938",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9938",
     "area_land":116913007,
     "area_water":66163823,
     "geoid":"72091",

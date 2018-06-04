@@ -1,7 +1,8 @@
 {
-  "id": "county_vt_franklin",
+  "id": "aclu/elections-api/county:10602",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10602",
     "area_land":1641633748,
     "area_water":150930318,
     "geoid":"50011",

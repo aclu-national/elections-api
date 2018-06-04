@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_washington",
+  "id": "aclu/elections-api/county:8973",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8973",
     "area_land":995558956,
     "area_water":99517524,
     "geoid":"27163",

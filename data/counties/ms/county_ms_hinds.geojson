@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_hinds",
+  "id": "aclu/elections-api/county:9121",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9121",
     "area_land":2252651371,
     "area_water":19495790,
     "geoid":"28049",

@@ -1,7 +1,8 @@
 {
-  "id": "county_la_lafayette",
+  "id": "aclu/elections-api/county:8719",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8719",
     "area_land":696041521,
     "area_water":1208724,
     "geoid":"22055",

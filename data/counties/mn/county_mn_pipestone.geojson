@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_pipestone",
+  "id": "aclu/elections-api/county:8950",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8950",
     "area_land":1204488112,
     "area_water":2348855,
     "geoid":"27117",

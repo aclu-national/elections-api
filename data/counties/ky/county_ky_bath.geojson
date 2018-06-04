@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_bath",
+  "id": "aclu/elections-api/county:8577",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8577",
     "area_land":722081570,
     "area_water":13486212,
     "geoid":"21011",

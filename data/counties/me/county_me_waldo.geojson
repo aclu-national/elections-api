@@ -1,7 +1,8 @@
 {
-  "id": "county_me_waldo",
+  "id": "aclu/elections-api/county:8806",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8806",
     "area_land":1890577548,
     "area_water":318053597,
     "geoid":"23027",

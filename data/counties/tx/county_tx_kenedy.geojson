@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_kenedy",
+  "id": "aclu/elections-api/county:10312",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10312",
     "area_land":3777375503,
     "area_water":1262209528,
     "geoid":"48261",

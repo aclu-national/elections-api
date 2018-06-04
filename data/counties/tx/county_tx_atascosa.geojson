@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_atascosa",
+  "id": "aclu/elections-api/county:10188",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10188",
     "area_land":3158596670,
     "area_water":4995711,
     "geoid":"48013",

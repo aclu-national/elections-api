@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_scotland",
+  "id": "aclu/elections-api/county:9072",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9072",
     "area_land":1130718763,
     "area_water":7047471,
     "geoid":"29199",

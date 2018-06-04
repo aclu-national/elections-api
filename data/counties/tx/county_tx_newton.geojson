@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_newton",
+  "id": "aclu/elections-api/county:10357",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10357",
     "area_land":2418212543,
     "area_water":15672146,
     "geoid":"48351",

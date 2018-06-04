@@ -1,7 +1,8 @@
 {
-  "id": "county_va_fredericksburg",
+  "id": "aclu/elections-api/county:10509",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10509",
     "area_land":27067954,
     "area_water":178255,
     "geoid":"51630",

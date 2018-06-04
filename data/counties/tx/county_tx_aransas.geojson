@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_aransas",
+  "id": "aclu/elections-api/county:10185",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10185",
     "area_land":652804634,
     "area_water":714591509,
     "geoid":"48007",

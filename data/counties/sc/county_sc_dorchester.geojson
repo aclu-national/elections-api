@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_dorchester",
+  "id": "aclu/elections-api/county:9992",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9992",
     "area_land":1484540310,
     "area_water":6724254,
     "geoid":"45035",

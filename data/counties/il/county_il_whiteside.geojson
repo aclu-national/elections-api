@@ -1,7 +1,8 @@
 {
-  "id": "county_il_whiteside",
+  "id": "aclu/elections-api/county:8370",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8370",
     "area_land":1772197821,
     "area_water":31797486,
     "geoid":"17195",

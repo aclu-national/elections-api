@@ -1,7 +1,8 @@
 {
-  "id": "county_co_gunnison",
+  "id": "aclu/elections-api/county:7848",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7848",
     "area_land":8389338065,
     "area_water":53067068,
     "geoid":"08051",

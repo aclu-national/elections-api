@@ -1,7 +1,8 @@
 {
-  "id": "county_id_benewah",
+  "id": "aclu/elections-api/county:8233",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8233",
     "area_land":2012070462,
     "area_water":18975652,
     "geoid":"16009",

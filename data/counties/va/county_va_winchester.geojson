@@ -1,7 +1,8 @@
 {
-  "id": "county_va_winchester",
+  "id": "aclu/elections-api/county:10590",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10590",
     "area_land":23809486,
     "area_water":54462,
     "geoid":"51840",

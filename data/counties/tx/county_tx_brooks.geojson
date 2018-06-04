@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_brooks",
+  "id": "aclu/elections-api/county:10205",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10205",
     "area_land":2443277016,
     "area_water":741627,
     "geoid":"48047",

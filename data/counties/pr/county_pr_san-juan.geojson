@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_san-juan",
+  "id": "aclu/elections-api/county:9956",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9956",
     "area_land":124029911,
     "area_water":75277891,
     "geoid":"72127",

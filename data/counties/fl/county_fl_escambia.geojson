@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_escambia",
+  "id": "aclu/elections-api/county:7913",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7913",
     "area_land":1701448275,
     "area_water":564025766,
     "geoid":"12033",

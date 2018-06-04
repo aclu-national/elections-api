@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_berks",
+  "id": "aclu/elections-api/county:9830",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9830",
     "area_land":2218035729,
     "area_water":24256617,
     "geoid":"42011",

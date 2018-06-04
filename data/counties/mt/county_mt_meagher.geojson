@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_meagher",
+  "id": "aclu/elections-api/county:9208",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9208",
     "area_land":6194911314,
     "area_water":7474581,
     "geoid":"30059",

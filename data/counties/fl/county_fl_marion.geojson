@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_marion",
+  "id": "aclu/elections-api/county:7938",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7938",
     "area_land":4114226894,
     "area_water":192048864,
     "geoid":"12083",

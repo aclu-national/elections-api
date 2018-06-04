@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_deer-lodge",
+  "id": "aclu/elections-api/county:9190",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9190",
     "area_land":1907999319,
     "area_water":12199471,
     "geoid":"30023",

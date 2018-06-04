@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_keith",
+  "id": "aclu/elections-api/county:9438",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9438",
     "area_land":2749531887,
     "area_water":124672175,
     "geoid":"31101",

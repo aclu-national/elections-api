@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_lander",
+  "id": "aclu/elections-api/county:9553",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9553",
     "area_land":14219341058,
     "area_water":76104322,
     "geoid":"32015",

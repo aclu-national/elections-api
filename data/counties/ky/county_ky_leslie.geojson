@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_leslie",
+  "id": "aclu/elections-api/county:8637",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8637",
     "area_land":1038165209,
     "area_water":9230600,
     "geoid":"21131",

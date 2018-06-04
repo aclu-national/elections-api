@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_clinton",
+  "id": "aclu/elections-api/county:8598",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8598",
     "area_land":510864294,
     "area_water":21164151,
     "geoid":"21053",

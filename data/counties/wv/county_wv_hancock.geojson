@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_hancock",
+  "id": "aclu/elections-api/county:10736",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10736",
     "area_land":213957146,
     "area_water":13879326,
     "geoid":"54029",

@@ -1,7 +1,8 @@
 {
-  "id": "county_in_wells",
+  "id": "aclu/elections-api/county:8464",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8464",
     "area_land":953341274,
     "area_water":5596377,
     "geoid":"18179",

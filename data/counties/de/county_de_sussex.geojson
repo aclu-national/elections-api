@@ -1,7 +1,8 @@
 {
-  "id": "county_de_sussex",
+  "id": "aclu/elections-api/county:7897",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7897",
     "area_land":2424522544,
     "area_water":674194633,
     "geoid":"10005",

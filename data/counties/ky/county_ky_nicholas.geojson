@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_nicholas",
+  "id": "aclu/elections-api/county:8662",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8662",
     "area_land":505465376,
     "area_water":4302413,
     "geoid":"21181",

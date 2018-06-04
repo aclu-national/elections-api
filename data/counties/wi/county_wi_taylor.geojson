@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_taylor",
+  "id": "aclu/elections-api/county:10710",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10710",
     "area_land":2525318829,
     "area_water":24686414,
     "geoid":"55119",

@@ -1,7 +1,8 @@
 {
-  "id": "county_al_cullman",
+  "id": "aclu/elections-api/county:7623",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7623",
     "area_land":1903070708,
     "area_water":52424813,
     "geoid":"01043",

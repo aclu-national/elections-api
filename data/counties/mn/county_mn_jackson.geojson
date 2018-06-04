@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_jackson",
+  "id": "aclu/elections-api/county:8923",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8923",
     "area_land":1820689421,
     "area_water":42120425,
     "geoid":"27063",

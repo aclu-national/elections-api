@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_imperial",
+  "id": "aclu/elections-api/county:7776",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7776",
     "area_land":10817291631,
     "area_water":790230304,
     "geoid":"06025",

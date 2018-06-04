@@ -1,7 +1,8 @@
 {
-  "id": "county_nh_merrimack",
+  "id": "aclu/elections-api/county:9487",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9487",
     "area_land":2415829018,
     "area_water":57547411,
     "geoid":"33013",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_haines",
+  "id": "aclu/elections-api/county:7581",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7581",
     "area_land":6233111973,
     "area_water":1054089659,
     "geoid":"02100",

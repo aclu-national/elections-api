@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_converse",
+  "id": "aclu/elections-api/county:10781",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10781",
     "area_land":11020250155,
     "area_water":26204242,
     "geoid":"56009",

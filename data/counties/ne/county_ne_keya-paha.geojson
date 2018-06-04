@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_keya-paha",
+  "id": "aclu/elections-api/county:9439",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9439",
     "area_land":2002257567,
     "area_water":2192458,
     "geoid":"31103",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_cheyenne",
+  "id": "aclu/elections-api/county:9404",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9404",
     "area_land":3098367767,
     "area_water":292549,
     "geoid":"31033",

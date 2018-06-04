@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_cuming",
+  "id": "aclu/elections-api/county:9407",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9407",
     "area_land":1477641638,
     "area_water":10701538,
     "geoid":"31039",

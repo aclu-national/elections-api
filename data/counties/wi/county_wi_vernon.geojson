@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_vernon",
+  "id": "aclu/elections-api/county:10712",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10712",
     "area_land":2050135759,
     "area_water":64289523,
     "geoid":"55123",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_powhatan",
+  "id": "aclu/elections-api/county:10560",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10560",
     "area_land":673915707,
     "area_water":5449745,
     "geoid":"51145",

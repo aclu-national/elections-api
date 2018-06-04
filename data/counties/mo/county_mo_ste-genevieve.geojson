@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_ste-genevieve",
+  "id": "aclu/elections-api/county:9080",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9080",
     "area_land":1292800497,
     "area_water":19739775,
     "geoid":"29186",

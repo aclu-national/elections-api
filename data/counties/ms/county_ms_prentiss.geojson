@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_prentiss",
+  "id": "aclu/elections-api/county:9155",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9155",
     "area_land":1074778137,
     "area_water":8353594,
     "geoid":"28117",

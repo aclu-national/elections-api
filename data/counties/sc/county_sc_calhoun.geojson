@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_calhoun",
+  "id": "aclu/elections-api/county:9983",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9983",
     "area_land":987179165,
     "area_water":29350862,
     "geoid":"45017",

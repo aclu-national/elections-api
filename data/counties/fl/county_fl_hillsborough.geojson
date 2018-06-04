@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_hillsborough",
+  "id": "aclu/elections-api/county:7925",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7925",
     "area_land":2642602901,
     "area_water":635590801,
     "geoid":"12057",

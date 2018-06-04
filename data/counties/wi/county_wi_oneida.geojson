@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_oneida",
+  "id": "aclu/elections-api/county:10693",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10693",
     "area_land":2885082781,
     "area_water":317622270,
     "geoid":"55085",

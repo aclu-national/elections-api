@@ -1,7 +1,8 @@
 {
-  "id": "county_co_yuma",
+  "id": "aclu/elections-api/county:7885",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7885",
     "area_land":6123763472,
     "area_water":11134666,
     "geoid":"08125",

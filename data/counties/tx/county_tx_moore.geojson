@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_moore",
+  "id": "aclu/elections-api/county:10352",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10352",
     "area_land":2330188755,
     "area_water":25718180,
     "geoid":"48341",

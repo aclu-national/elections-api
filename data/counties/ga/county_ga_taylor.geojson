@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_taylor",
+  "id": "aclu/elections-api/county:8097",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8097",
     "area_land":975612265,
     "area_water":7802363,
     "geoid":"13269",

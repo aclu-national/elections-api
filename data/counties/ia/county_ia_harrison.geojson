@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_harrison",
+  "id": "aclu/elections-api/county:8172",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8172",
     "area_land":1804808356,
     "area_water":12417698,
     "geoid":"19085",

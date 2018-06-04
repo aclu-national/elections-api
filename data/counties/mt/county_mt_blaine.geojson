@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_blaine",
+  "id": "aclu/elections-api/county:9181",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9181",
     "area_land":10948196395,
     "area_water":29079275,
     "geoid":"30005",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_freestone",
+  "id": "aclu/elections-api/county:10262",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10262",
     "area_land":2273311877,
     "area_water":36936952,
     "geoid":"48161",

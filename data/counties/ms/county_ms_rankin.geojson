@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_rankin",
+  "id": "aclu/elections-api/county:9157",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9157",
     "area_land":2008322209,
     "area_water":79429951,
     "geoid":"28121",

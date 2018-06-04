@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_marion",
+  "id": "aclu/elections-api/county:8523",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8523",
     "area_land":2445701362,
     "area_water":24448710,
     "geoid":"20115",

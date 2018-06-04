@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_yellow-medicine",
+  "id": "aclu/elections-api/county:8978",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8978",
     "area_land":1966062971,
     "area_water":10687958,
     "geoid":"27173",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_iron",
+  "id": "aclu/elections-api/county:10446",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10446",
     "area_land":8537474409,
     "area_water":11390956,
     "geoid":"49021",

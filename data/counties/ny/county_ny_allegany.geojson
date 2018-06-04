@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_allegany",
+  "id": "aclu/elections-api/county:9563",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9563",
     "area_land":2665875177,
     "area_water":13153776,
     "geoid":"36003",

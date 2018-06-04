@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_hot-spring",
+  "id": "aclu/elections-api/county:7698",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7698",
     "area_land":1593376791,
     "area_water":18038347,
     "geoid":"05059",

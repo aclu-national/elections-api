@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_reeves",
+  "id": "aclu/elections-api/county:10376",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10376",
     "area_land":6825534308,
     "area_water":17396681,
     "geoid":"48389",

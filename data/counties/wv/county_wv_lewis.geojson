@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_lewis",
+  "id": "aclu/elections-api/county:10742",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10742",
     "area_land":1002071716,
     "area_water":7108412,
     "geoid":"54041",

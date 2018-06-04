@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_mitchell",
+  "id": "aclu/elections-api/county:8195",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8195",
     "area_land":1215049040,
     "area_water":1118415,
     "geoid":"19131",

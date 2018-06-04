@@ -1,7 +1,8 @@
 {
-  "id": "county_va_bedford",
+  "id": "aclu/elections-api/county:10475",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10475",
     "area_land":1968605215,
     "area_water":42120242,
     "geoid":"51019",

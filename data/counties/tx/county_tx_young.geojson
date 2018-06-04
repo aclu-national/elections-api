@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_young",
+  "id": "aclu/elections-api/county:10433",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10433",
     "area_land":2368463881,
     "area_water":42447713,
     "geoid":"48503",

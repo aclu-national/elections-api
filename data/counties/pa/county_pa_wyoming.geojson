@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_wyoming",
+  "id": "aclu/elections-api/county:9890",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9890",
     "area_land":1029016039,
     "area_water":20034376,
     "geoid":"42131",

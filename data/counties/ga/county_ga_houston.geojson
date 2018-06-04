@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_houston",
+  "id": "aclu/elections-api/county:8040",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8040",
     "area_land":972671487,
     "area_water":11319233,
     "geoid":"13153",

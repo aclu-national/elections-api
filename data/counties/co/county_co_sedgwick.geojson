@@ -1,7 +1,8 @@
 {
-  "id": "county_co_sedgwick",
+  "id": "aclu/elections-api/county:7880",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7880",
     "area_land":1419419128,
     "area_water":3530746,
     "geoid":"08115",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_lauderdale",
+  "id": "aclu/elections-api/county:9134",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9134",
     "area_land":1822451131,
     "area_water":29787695,
     "geoid":"28075",

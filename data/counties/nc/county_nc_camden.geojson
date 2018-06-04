@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_camden",
+  "id": "aclu/elections-api/county:9249",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9249",
     "area_land":622448679,
     "area_water":181112904,
     "geoid":"37029",

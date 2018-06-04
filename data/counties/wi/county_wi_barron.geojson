@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_barron",
+  "id": "aclu/elections-api/county:10652",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10652",
     "area_land":2234461780,
     "area_water":70014121,
     "geoid":"55005",

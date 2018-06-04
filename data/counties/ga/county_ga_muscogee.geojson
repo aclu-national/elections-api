@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_muscogee",
+  "id": "aclu/elections-api/county:8070",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8070",
     "area_land":560544127,
     "area_water":11859741,
     "geoid":"13215",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_bracken",
+  "id": "aclu/elections-api/county:8583",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8583",
     "area_land":532533292,
     "area_water":8636823,
     "geoid":"21023",

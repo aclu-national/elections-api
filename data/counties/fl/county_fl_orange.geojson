@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_orange",
+  "id": "aclu/elections-api/county:7945",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7945",
     "area_land":2339138134,
     "area_water":259141175,
     "geoid":"12095",

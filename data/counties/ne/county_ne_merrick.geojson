@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_merrick",
+  "id": "aclu/elections-api/county:9448",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9448",
     "area_land":1258350306,
     "area_water":28301129,
     "geoid":"31121",

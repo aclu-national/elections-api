@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_williams",
+  "id": "aclu/elections-api/county:9387",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9387",
     "area_land":5381129960,
     "area_water":182522236,
     "geoid":"38105",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_lee",
+  "id": "aclu/elections-api/county:8636",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8636",
     "area_land":540937712,
     "area_water":6215038,
     "geoid":"21129",

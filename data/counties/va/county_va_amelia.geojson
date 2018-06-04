@@ -1,7 +1,8 @@
 {
-  "id": "county_va_amelia",
+  "id": "aclu/elections-api/county:10469",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10469",
     "area_land":920142764,
     "area_water":8424800,
     "geoid":"51007",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_bibb",
+  "id": "aclu/elections-api/county:7975",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7975",
     "area_land":645699773,
     "area_water":14503560,
     "geoid":"13021",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ct_new-london",
+  "id": "aclu/elections-api/county:7891",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7891",
     "area_land":1722708285,
     "area_water":276666169,
     "geoid":"09011",

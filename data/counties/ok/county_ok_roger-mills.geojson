@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_roger-mills",
+  "id": "aclu/elections-api/county:9776",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9776",
     "area_land":2955528251,
     "area_water":13695174,
     "geoid":"40129",

@@ -1,7 +1,8 @@
 {
-  "id": "county_in_posey",
+  "id": "aclu/elections-api/county:8439",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8439",
     "area_land":1060786892,
     "area_water":25260282,
     "geoid":"18129",

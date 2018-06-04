@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_wichita",
+  "id": "aclu/elections-api/county:10424",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10424",
     "area_land":1625943418,
     "area_water":13820243,
     "geoid":"48485",

@@ -1,7 +1,8 @@
 {
-  "id": "county_in_lagrange",
+  "id": "aclu/elections-api/county:8418",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8418",
     "area_land":983237213,
     "area_water":18317909,
     "geoid":"18087",

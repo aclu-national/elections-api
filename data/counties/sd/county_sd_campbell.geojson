@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_campbell",
+  "id": "aclu/elections-api/county:10030",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10030",
     "area_land":1900214168,
     "area_water":96243697,
     "geoid":"46021",

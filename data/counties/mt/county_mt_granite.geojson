@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_granite",
+  "id": "aclu/elections-api/county:9198",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9198",
     "area_land":4473328965,
     "area_water":14546368,
     "geoid":"30039",

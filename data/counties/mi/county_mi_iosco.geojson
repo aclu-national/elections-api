@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_iosco",
+  "id": "aclu/elections-api/county:8843",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8843",
     "area_land":1422175726,
     "area_water":3473066854,
     "geoid":"26069",

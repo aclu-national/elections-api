@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_sheridan",
+  "id": "aclu/elections-api/county:9468",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9468",
     "area_land":6321833793,
     "area_water":74941797,
     "geoid":"31161",

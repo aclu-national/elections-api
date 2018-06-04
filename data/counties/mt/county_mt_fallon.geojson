@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_fallon",
+  "id": "aclu/elections-api/county:9191",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9191",
     "area_land":4197205007,
     "area_water":5915331,
     "geoid":"30025",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_carver",
+  "id": "aclu/elections-api/county:8901",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8901",
     "area_land":917348283,
     "area_water":56768380,
     "geoid":"27019",

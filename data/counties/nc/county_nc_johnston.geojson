@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_johnston",
+  "id": "aclu/elections-api/county:9285",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9285",
     "area_land":2049282622,
     "area_water":11562555,
     "geoid":"37101",

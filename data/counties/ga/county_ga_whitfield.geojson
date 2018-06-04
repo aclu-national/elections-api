@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_whitfield",
+  "id": "aclu/elections-api/county:8119",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8119",
     "area_land":752293512,
     "area_water":1533754,
     "geoid":"13313",

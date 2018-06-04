@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_mitchell",
+  "id": "aclu/elections-api/county:8528",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8528",
     "area_land":1817632928,
     "area_water":44979980,
     "geoid":"20123",

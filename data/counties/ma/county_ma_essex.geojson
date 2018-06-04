@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_essex",
+  "id": "aclu/elections-api/county:8760",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8760",
     "area_land":1275355437,
     "area_water":870391710,
     "geoid":"25009",

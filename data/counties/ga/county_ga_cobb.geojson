@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_cobb",
+  "id": "aclu/elections-api/county:7997",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7997",
     "area_land":879926969,
     "area_water":12497709,
     "geoid":"13067",

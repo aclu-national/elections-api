@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_warren",
+  "id": "aclu/elections-api/county:9886",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9886",
     "area_land":2289914225,
     "area_water":37352304,
     "geoid":"42123",

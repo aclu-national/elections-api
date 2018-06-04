@@ -1,7 +1,8 @@
 {
-  "id": "county_al_shelby",
+  "id": "aclu/elections-api/county:7659",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7659",
     "area_land":2034107820,
     "area_water":62542790,
     "geoid":"01117",

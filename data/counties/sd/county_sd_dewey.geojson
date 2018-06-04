@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_dewey",
+  "id": "aclu/elections-api/county:10040",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10040",
     "area_land":5963430685,
     "area_water":369819592,
     "geoid":"46041",

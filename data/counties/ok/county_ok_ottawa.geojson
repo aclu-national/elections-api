@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_ottawa",
+  "id": "aclu/elections-api/county:9769",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9769",
     "area_land":1219467497,
     "area_water":35708902,
     "geoid":"40115",

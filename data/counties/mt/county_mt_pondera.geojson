@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_pondera",
+  "id": "aclu/elections-api/county:9215",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9215",
     "area_land":4207608379,
     "area_water":43980663,
     "geoid":"30073",

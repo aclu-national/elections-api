@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_dickinson",
+  "id": "aclu/elections-api/county:8830",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8830",
     "area_land":1970831145,
     "area_water":40519954,
     "geoid":"26043",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_villalba",
+  "id": "aclu/elections-api/county:9967",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9967",
     "area_land":92298569,
     "area_water":3622637,
     "geoid":"72149",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_carson-city",
+  "id": "aclu/elections-api/county:9545",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9545",
     "area_land":374669607,
     "area_water":32587484,
     "geoid":"32510",

@@ -1,7 +1,8 @@
 {
-  "id": "county_la_lasalle",
+  "id": "aclu/elections-api/county:8721",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8721",
     "area_land":1617924843,
     "area_water":97664776,
     "geoid":"22059",

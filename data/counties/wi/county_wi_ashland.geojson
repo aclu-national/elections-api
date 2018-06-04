@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_ashland",
+  "id": "aclu/elections-api/county:10651",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10651",
     "area_land":2706535135,
     "area_water":3230651989,
     "geoid":"55003",

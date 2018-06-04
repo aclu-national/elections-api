@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_dundy",
+  "id": "aclu/elections-api/county:9416",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9416",
     "area_land":2381956152,
     "area_water":3046330,
     "geoid":"31057",

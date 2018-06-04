@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_adams",
+  "id": "aclu/elections-api/county:10611",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10611",
     "area_land":4985663373,
     "area_water":12499935,
     "geoid":"53001",

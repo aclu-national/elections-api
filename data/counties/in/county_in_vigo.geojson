@@ -1,7 +1,8 @@
 {
-  "id": "county_in_vigo",
+  "id": "aclu/elections-api/county:8458",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8458",
     "area_land":1044993095,
     "area_water":18068475,
     "geoid":"18167",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_alfalfa",
+  "id": "aclu/elections-api/county:9713",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9713",
     "area_land":2244107192,
     "area_water":38546675,
     "geoid":"40003",

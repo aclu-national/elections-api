@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_union",
+  "id": "aclu/elections-api/county:9510",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9510",
     "area_land":266170662,
     "area_water":7046286,
     "geoid":"34039",

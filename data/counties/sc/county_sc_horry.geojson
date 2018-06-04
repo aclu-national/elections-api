@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_horry",
+  "id": "aclu/elections-api/county:10000",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10000",
     "area_land":2937082399,
     "area_water":313208767,
     "geoid":"45051",

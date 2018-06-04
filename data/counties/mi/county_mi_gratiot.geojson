@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_gratiot",
+  "id": "aclu/elections-api/county:8837",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8837",
     "area_land":1472084943,
     "area_water":8383160,
     "geoid":"26057",

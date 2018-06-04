@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_calumet",
+  "id": "aclu/elections-api/county:10657",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10657",
     "area_land":824226133,
     "area_water":204199001,
     "geoid":"55015",

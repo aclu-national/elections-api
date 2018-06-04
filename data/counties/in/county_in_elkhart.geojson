@@ -1,7 +1,8 @@
 {
-  "id": "county_in_elkhart",
+  "id": "aclu/elections-api/county:8394",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8394",
     "area_land":1199614707,
     "area_water":12423391,
     "geoid":"18039",

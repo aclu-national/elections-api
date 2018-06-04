@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_mcpherson",
+  "id": "aclu/elections-api/county:8525",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8525",
     "area_land":2326519566,
     "area_water":6031186,
     "geoid":"20113",

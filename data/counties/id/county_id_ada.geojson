@@ -1,7 +1,8 @@
 {
-  "id": "county_id_ada",
+  "id": "aclu/elections-api/county:8229",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8229",
     "area_land":2724902770,
     "area_water":21961614,
     "geoid":"16001",

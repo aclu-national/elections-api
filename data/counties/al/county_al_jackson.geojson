@@ -1,7 +1,8 @@
 {
-  "id": "county_al_jackson",
+  "id": "aclu/elections-api/county:7637",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7637",
     "area_land":2791974087,
     "area_water":126334708,
     "geoid":"01071",

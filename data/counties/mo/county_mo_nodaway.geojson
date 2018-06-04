@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_nodaway",
+  "id": "aclu/elections-api/county:9052",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9052",
     "area_land":2271326597,
     "area_water":2361588,
     "geoid":"29147",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_russell",
+  "id": "aclu/elections-api/county:8550",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8550",
     "area_land":2295402887,
     "area_water":34126777,
     "geoid":"20167",

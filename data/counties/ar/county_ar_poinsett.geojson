@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_poinsett",
+  "id": "aclu/elections-api/county:7724",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7724",
     "area_land":1964147526,
     "area_water":13521720,
     "geoid":"05111",

@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_fayette",
+  "id": "aclu/elections-api/county:9647",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9647",
     "area_land":1052469899,
     "area_water":1694037,
     "geoid":"39047",

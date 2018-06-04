@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_craven",
+  "id": "aclu/elections-api/county:9259",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9259",
     "area_land":1830335129,
     "area_water":172457083,
     "geoid":"37049",

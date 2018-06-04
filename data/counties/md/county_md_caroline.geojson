@@ -1,7 +1,8 @@
 {
-  "id": "county_md_caroline",
+  "id": "aclu/elections-api/county:8774",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8774",
     "area_land":827350251,
     "area_water":16777064,
     "geoid":"24011",

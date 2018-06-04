@@ -1,7 +1,8 @@
 {
-  "id": "county_al_coffee",
+  "id": "aclu/elections-api/county:7617",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7617",
     "area_land":1758565927,
     "area_water":3907189,
     "geoid":"01031",

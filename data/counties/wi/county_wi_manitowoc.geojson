@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_manitowoc",
+  "id": "aclu/elections-api/county:10685",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10685",
     "area_land":1526268667,
     "area_water":2343369333,
     "geoid":"55071",

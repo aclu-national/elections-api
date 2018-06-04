@@ -1,7 +1,8 @@
 {
-  "id": "county_il_franklin",
+  "id": "aclu/elections-api/county:8300",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8300",
     "area_land":1059021102,
     "area_water":58413469,
     "geoid":"17055",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_gallatin",
+  "id": "aclu/elections-api/county:9194",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9194",
     "area_land":6746899240,
     "area_water":74547800,
     "geoid":"30031",

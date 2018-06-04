@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_lee",
+  "id": "aclu/elections-api/county:8052",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8052",
     "area_land":921722888,
     "area_water":15318763,
     "geoid":"13177",

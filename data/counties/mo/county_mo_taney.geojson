@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_taney",
+  "id": "aclu/elections-api/county:9084",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9084",
     "area_land":1637993911,
     "area_water":49745785,
     "geoid":"29213",

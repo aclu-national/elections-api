@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_stutsman",
+  "id": "aclu/elections-api/county:9381",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9381",
     "area_land":5754301968,
     "area_water":197312587,
     "geoid":"38093",

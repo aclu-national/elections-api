@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_york",
+  "id": "aclu/elections-api/county:10020",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10020",
     "area_land":1763165632,
     "area_water":39248969,
     "geoid":"45091",

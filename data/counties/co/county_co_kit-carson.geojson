@@ -1,7 +1,8 @@
 {
-  "id": "county_co_kit-carson",
+  "id": "aclu/elections-api/county:7854",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7854",
     "area_land":5596501950,
     "area_water":2251930,
     "geoid":"08063",

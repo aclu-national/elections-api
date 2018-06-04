@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_bayfield",
+  "id": "aclu/elections-api/county:10653",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10653",
     "area_land":3827691502,
     "area_water":1460289843,
     "geoid":"55007",

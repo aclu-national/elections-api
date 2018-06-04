@@ -1,7 +1,8 @@
 {
-  "id": "county_va_prince-william",
+  "id": "aclu/elections-api/county:10563",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10563",
     "area_land":869614721,
     "area_water":30829977,
     "geoid":"51153",

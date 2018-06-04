@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_kleberg",
+  "id": "aclu/elections-api/county:10318",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10318",
     "area_land":2282572442,
     "area_water":541041664,
     "geoid":"48273",

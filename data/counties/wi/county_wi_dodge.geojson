@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_dodge",
+  "id": "aclu/elections-api/county:10663",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10663",
     "area_land":2267979574,
     "area_water":81401509,
     "geoid":"55027",

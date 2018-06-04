@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_marion",
+  "id": "aclu/elections-api/county:10336",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10336",
     "area_land":986503062,
     "area_water":102126745,
     "geoid":"48315",

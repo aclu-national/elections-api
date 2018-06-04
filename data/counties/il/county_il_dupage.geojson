@@ -1,7 +1,8 @@
 {
-  "id": "county_il_dupage",
+  "id": "aclu/elections-api/county:8294",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8294",
     "area_land":848222200,
     "area_water":22887251,
     "geoid":"17043",

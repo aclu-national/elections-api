@@ -1,7 +1,8 @@
 {
-  "id": "county_va_staunton",
+  "id": "aclu/elections-api/county:10579",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10579",
     "area_land":51593824,
     "area_water":147694,
     "geoid":"51790",

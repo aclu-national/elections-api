@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_sumner",
+  "id": "aclu/elections-api/county:10169",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10169",
     "area_land":1371067660,
     "area_water":35857190,
     "geoid":"47165",

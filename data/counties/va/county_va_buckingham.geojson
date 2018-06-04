@@ -1,7 +1,8 @@
 {
-  "id": "county_va_buckingham",
+  "id": "aclu/elections-api/county:10481",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10481",
     "area_land":1501214582,
     "area_water":9895206,
     "geoid":"51029",

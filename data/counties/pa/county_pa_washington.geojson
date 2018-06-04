@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_washington",
+  "id": "aclu/elections-api/county:9887",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9887",
     "area_land":2219590653,
     "area_water":10147672,
     "geoid":"42125",

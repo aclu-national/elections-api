@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_edwards",
+  "id": "aclu/elections-api/county:10250",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10250",
     "area_land":5485259829,
     "area_water":5199800,
     "geoid":"48137",

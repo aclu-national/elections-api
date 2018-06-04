@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_douglas",
+  "id": "aclu/elections-api/county:8012",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8012",
     "area_land":518261551,
     "area_water":2517004,
     "geoid":"13097",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_sublette",
+  "id": "aclu/elections-api/county:10794",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10794",
     "area_land":12655929146,
     "area_water":127353628,
     "geoid":"56035",

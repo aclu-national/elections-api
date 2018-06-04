@@ -1,7 +1,8 @@
 {
-  "id": "county_la_st-helena",
+  "id": "aclu/elections-api/county:8737",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8737",
     "area_land":1057772583,
     "area_water":2796210,
     "geoid":"22091",

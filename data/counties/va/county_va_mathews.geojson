@@ -1,7 +1,8 @@
 {
-  "id": "county_va_mathews",
+  "id": "aclu/elections-api/county:10541",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10541",
     "area_land":222554152,
     "area_water":430025572,
     "geoid":"51115",

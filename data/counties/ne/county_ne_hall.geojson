@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_hall",
+  "id": "aclu/elections-api/county:9427",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9427",
     "area_land":1414817966,
     "area_water":15229160,
     "geoid":"31079",

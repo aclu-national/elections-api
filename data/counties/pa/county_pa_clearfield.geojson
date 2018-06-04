@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_clearfield",
+  "id": "aclu/elections-api/county:9841",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9841",
     "area_land":2964714577,
     "area_water":23932649,
     "geoid":"42033",

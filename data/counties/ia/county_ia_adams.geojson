@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_adams",
+  "id": "aclu/elections-api/county:8131",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8131",
     "area_land":1096700779,
     "area_water":5353407,
     "geoid":"19003",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_wilkes",
+  "id": "aclu/elections-api/county:8121",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8121",
     "area_land":1215973894,
     "area_water":11924769,
     "geoid":"13317",

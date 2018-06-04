@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_charlotte",
+  "id": "aclu/elections-api/county:7905",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7905",
     "area_land":1764104254,
     "area_water":458735963,
     "geoid":"12015",

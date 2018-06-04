@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_shasta",
+  "id": "aclu/elections-api/county:7808",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7808",
     "area_land":9778230094,
     "area_water":186479466,
     "geoid":"06089",

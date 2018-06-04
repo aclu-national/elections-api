@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_butler",
+  "id": "aclu/elections-api/county:9632",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9632",
     "area_land":1209498280,
     "area_water":7863952,
     "geoid":"39017",

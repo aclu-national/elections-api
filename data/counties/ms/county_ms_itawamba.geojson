@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_itawamba",
+  "id": "aclu/elections-api/county:9125",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9125",
     "area_land":1379925849,
     "area_water":19832711,
     "geoid":"28057",

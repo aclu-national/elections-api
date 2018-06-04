@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_trousdale",
+  "id": "aclu/elections-api/county:10171",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10171",
     "area_land":296143587,
     "area_water":5960710,
     "geoid":"47169",

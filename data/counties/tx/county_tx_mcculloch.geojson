@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_mcculloch",
+  "id": "aclu/elections-api/county:10341",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10341",
     "area_land":2759894991,
     "area_water":20284774,
     "geoid":"48307",

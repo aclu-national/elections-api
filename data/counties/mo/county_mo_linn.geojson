@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_linn",
+  "id": "aclu/elections-api/county:9036",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9036",
     "area_land":1594366100,
     "area_water":14991073,
     "geoid":"29115",

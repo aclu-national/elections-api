@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_dawson",
+  "id": "aclu/elections-api/county:8006",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8006",
     "area_land":546042216,
     "area_water":9272655,
     "geoid":"13085",

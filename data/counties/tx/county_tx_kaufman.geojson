@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_kaufman",
+  "id": "aclu/elections-api/county:10310",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10310",
     "area_land":2021962201,
     "area_water":69763126,
     "geoid":"48257",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_patrick",
+  "id": "aclu/elections-api/county:10555",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10555",
     "area_land":1250846053,
     "area_water":7142208,
     "geoid":"51141",

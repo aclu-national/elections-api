@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_benton",
+  "id": "aclu/elections-api/county:8896",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8896",
     "area_land":1057483363,
     "area_water":12286992,
     "geoid":"27009",

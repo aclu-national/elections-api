@@ -1,7 +1,8 @@
 {
-  "id": "county_va_rockingham",
+  "id": "aclu/elections-api/county:10570",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10570",
     "area_land":2200698748,
     "area_water":10892582,
     "geoid":"51165",

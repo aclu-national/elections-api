@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_milam",
+  "id": "aclu/elections-api/county:10347",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10347",
     "area_land":2633798194,
     "area_water":12758799,
     "geoid":"48331",

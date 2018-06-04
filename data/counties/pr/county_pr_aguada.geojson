@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_aguada",
+  "id": "aclu/elections-api/county:9894",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9894",
     "area_land":79923633,
     "area_water":38025989,
     "geoid":"72003",

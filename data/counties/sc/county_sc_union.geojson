@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_union",
+  "id": "aclu/elections-api/county:10018",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10018",
     "area_land":1331696509,
     "area_water":4805060,
     "geoid":"45087",

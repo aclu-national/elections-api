@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_robertson",
+  "id": "aclu/elections-api/county:8672",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8672",
     "area_land":258799092,
     "area_water":484952,
     "geoid":"21201",

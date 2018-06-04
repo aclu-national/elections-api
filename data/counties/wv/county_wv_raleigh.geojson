@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_raleigh",
+  "id": "aclu/elections-api/county:10762",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10762",
     "area_land":1567866394,
     "area_water":10334430,
     "geoid":"54081",

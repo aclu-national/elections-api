@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_dare",
+  "id": "aclu/elections-api/county:9262",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9262",
     "area_land":992522471,
     "area_water":3000549341,
     "geoid":"37055",

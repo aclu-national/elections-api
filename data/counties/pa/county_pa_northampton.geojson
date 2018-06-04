@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_northampton",
+  "id": "aclu/elections-api/county:9872",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9872",
     "area_land":957324105,
     "area_water":19452870,
     "geoid":"42095",

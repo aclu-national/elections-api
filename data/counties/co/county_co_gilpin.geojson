@@ -1,7 +1,8 @@
 {
-  "id": "county_co_gilpin",
+  "id": "aclu/elections-api/county:7846",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7846",
     "area_land":388228996,
     "area_water":942056,
     "geoid":"08047",

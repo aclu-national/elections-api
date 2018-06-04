@@ -1,7 +1,8 @@
 {
-  "id": "county_co_saguache",
+  "id": "aclu/elections-api/county:7877",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7877",
     "area_land":8206547707,
     "area_water":4454510,
     "geoid":"08109",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_marshall",
+  "id": "aclu/elections-api/county:9756",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9756",
     "area_land":962336585,
     "area_water":143420175,
     "geoid":"40095",

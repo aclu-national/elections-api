@@ -1,7 +1,8 @@
 {
-  "id": "county_il_winnebago",
+  "id": "aclu/elections-api/county:8373",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8373",
     "area_land":1329696034,
     "area_water":15107670,
     "geoid":"17201",

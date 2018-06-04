@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_duval",
+  "id": "aclu/elections-api/county:10247",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10247",
     "area_land":4645085813,
     "area_water":5478267,
     "geoid":"48131",

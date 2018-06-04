@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_clinton",
+  "id": "aclu/elections-api/county:8152",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8152",
     "area_land":1799830900,
     "area_water":39514681,
     "geoid":"19045",

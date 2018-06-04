@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_hopkins",
+  "id": "aclu/elections-api/county:10293",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10293",
     "area_land":1987018121,
     "area_water":66250826,
     "geoid":"48223",

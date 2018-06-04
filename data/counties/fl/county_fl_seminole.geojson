@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_seminole",
+  "id": "aclu/elections-api/county:7954",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7954",
     "area_land":801709341,
     "area_water":92719341,
     "geoid":"12117",

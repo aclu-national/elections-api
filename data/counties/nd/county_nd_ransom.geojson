@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_ransom",
+  "id": "aclu/elections-api/county:9371",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9371",
     "area_land":2233494166,
     "area_water":3581125,
     "geoid":"38073",

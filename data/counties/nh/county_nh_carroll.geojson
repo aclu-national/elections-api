@@ -1,7 +1,8 @@
 {
-  "id": "county_nh_carroll",
+  "id": "aclu/elections-api/county:9482",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9482",
     "area_land":2413888299,
     "area_water":159247403,
     "geoid":"33003",

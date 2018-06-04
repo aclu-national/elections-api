@@ -1,7 +1,8 @@
 {
-  "id": "county_va_mecklenburg",
+  "id": "aclu/elections-api/county:10542",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10542",
     "area_land":1619956537,
     "area_water":139243978,
     "geoid":"51117",

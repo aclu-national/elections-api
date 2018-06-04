@@ -1,7 +1,8 @@
 {
-  "id": "county_me_piscataquis",
+  "id": "aclu/elections-api/county:8803",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8803",
     "area_land":10259016062,
     "area_water":1080049539,
     "geoid":"23021",

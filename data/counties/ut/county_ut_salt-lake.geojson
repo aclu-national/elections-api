@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_salt-lake",
+  "id": "aclu/elections-api/county:10453",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10453",
     "area_land":1921906751,
     "area_water":164903351,
     "geoid":"49035",

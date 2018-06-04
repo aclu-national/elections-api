@@ -1,7 +1,8 @@
 {
-  "id": "county_va_appomattox",
+  "id": "aclu/elections-api/county:10471",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10471",
     "area_land":865622497,
     "area_water":3234361,
     "geoid":"51011",

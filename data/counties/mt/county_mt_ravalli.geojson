@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_ravalli",
+  "id": "aclu/elections-api/county:9219",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9219",
     "area_land":6192612337,
     "area_water":24251907,
     "geoid":"30081",

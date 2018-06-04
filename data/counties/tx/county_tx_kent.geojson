@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_kent",
+  "id": "aclu/elections-api/county:10313",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10313",
     "area_land":2337482011,
     "area_water":1065195,
     "geoid":"48263",

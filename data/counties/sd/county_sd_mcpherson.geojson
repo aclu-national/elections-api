@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_mcpherson",
+  "id": "aclu/elections-api/county:10065",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10065",
     "area_land":2943892857,
     "area_water":38569612,
     "geoid":"46089",

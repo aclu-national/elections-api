@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_barber",
+  "id": "aclu/elections-api/county:8470",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8470",
     "area_land":2937248475,
     "area_water":5403867,
     "geoid":"20007",

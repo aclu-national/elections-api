@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_wyandotte",
+  "id": "aclu/elections-api/county:8571",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8571",
     "area_land":392650861,
     "area_water":11890119,
     "geoid":"20209",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_charles-city",
+  "id": "aclu/elections-api/county:10486",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10486",
     "area_land":473494108,
     "area_water":55492133,
     "geoid":"51036",

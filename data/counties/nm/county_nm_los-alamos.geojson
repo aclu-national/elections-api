@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_los-alamos",
+  "id": "aclu/elections-api/county:9527",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9527",
     "area_land":282821648,
     "area_water":229869,
     "geoid":"35028",

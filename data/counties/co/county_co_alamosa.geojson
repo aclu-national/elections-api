@@ -1,7 +1,8 @@
 {
-  "id": "county_co_alamosa",
+  "id": "aclu/elections-api/county:7823",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7823",
     "area_land":1871465873,
     "area_water":1847609,
     "geoid":"08003",

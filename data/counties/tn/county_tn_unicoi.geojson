@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_unicoi",
+  "id": "aclu/elections-api/county:10172",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10172",
     "area_land":481902939,
     "area_water":825725,
     "geoid":"47171",

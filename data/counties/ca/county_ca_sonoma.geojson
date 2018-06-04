@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_sonoma",
+  "id": "aclu/elections-api/county:7812",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7812",
     "area_land":4081450561,
     "area_water":497495823,
     "geoid":"06097",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_lamar",
+  "id": "aclu/elections-api/county:8049",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8049",
     "area_land":475262778,
     "area_water":6046030,
     "geoid":"13171",

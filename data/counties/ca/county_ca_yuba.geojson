@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_yuba",
+  "id": "aclu/elections-api/county:7821",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7821",
     "area_land":1636913850,
     "area_water":31057914,
     "geoid":"06115",

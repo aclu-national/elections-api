@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_garfield",
+  "id": "aclu/elections-api/county:9735",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9735",
     "area_land":2741479095,
     "area_water":4075930,
     "geoid":"40047",

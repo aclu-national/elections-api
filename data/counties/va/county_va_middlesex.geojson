@@ -1,7 +1,8 @@
 {
-  "id": "county_va_middlesex",
+  "id": "aclu/elections-api/county:10543",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10543",
     "area_land":337507714,
     "area_water":208357022,
     "geoid":"51119",

@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_gulf",
+  "id": "aclu/elections-api/county:7919",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7919",
     "area_land":1433785086,
     "area_water":494266609,
     "geoid":"12045",

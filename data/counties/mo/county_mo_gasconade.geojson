@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_gasconade",
+  "id": "aclu/elections-api/county:9015",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9015",
     "area_land":1344215195,
     "area_water":18009291,
     "geoid":"29073",

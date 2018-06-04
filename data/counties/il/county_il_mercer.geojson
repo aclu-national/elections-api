@@ -1,7 +1,8 @@
 {
-  "id": "county_il_mercer",
+  "id": "aclu/elections-api/county:8338",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8338",
     "area_land":1453500381,
     "area_water":19409929,
     "geoid":"17131",

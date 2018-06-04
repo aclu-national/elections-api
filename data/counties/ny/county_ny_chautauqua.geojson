@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_chautauqua",
+  "id": "aclu/elections-api/county:9568",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9568",
     "area_land":2745967850,
     "area_water":1139487496,
     "geoid":"36013",

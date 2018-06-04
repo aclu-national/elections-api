@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_nowata",
+  "id": "aclu/elections-api/county:9764",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9764",
     "area_land":1465358455,
     "area_water":38869450,
     "geoid":"40105",

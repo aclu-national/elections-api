@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_randolph",
+  "id": "aclu/elections-api/county:9310",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9310",
     "area_land":2026174233,
     "area_water":19822770,
     "geoid":"37151",

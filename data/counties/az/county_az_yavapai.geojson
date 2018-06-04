@@ -1,7 +1,8 @@
 {
-  "id": "county_az_yavapai",
+  "id": "aclu/elections-api/county:7762",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7762",
     "area_land":21039796372,
     "area_water":11501575,
     "geoid":"04025",

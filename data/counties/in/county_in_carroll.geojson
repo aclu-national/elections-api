@@ -1,7 +1,8 @@
 {
-  "id": "county_in_carroll",
+  "id": "aclu/elections-api/county:8382",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8382",
     "area_land":964054634,
     "area_water":7239098,
     "geoid":"18015",

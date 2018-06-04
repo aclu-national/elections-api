@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_lamar",
+  "id": "aclu/elections-api/county:9133",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9133",
     "area_land":1287499611,
     "area_water":8599890,
     "geoid":"28073",

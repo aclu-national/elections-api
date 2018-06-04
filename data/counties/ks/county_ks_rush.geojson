@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_rush",
+  "id": "aclu/elections-api/county:8549",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8549",
     "area_land":1858997545,
     "area_water":544720,
     "geoid":"20165",

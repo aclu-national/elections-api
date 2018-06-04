@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_big-horn",
+  "id": "aclu/elections-api/county:9180",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9180",
     "area_land":12942465259,
     "area_water":49210403,
     "geoid":"30003",

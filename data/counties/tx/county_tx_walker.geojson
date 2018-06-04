@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_walker",
+  "id": "aclu/elections-api/county:10417",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10417",
     "area_land":2031033548,
     "area_water":44838548,
     "geoid":"48471",

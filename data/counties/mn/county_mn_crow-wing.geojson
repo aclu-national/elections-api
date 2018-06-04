@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_crow-wing",
+  "id": "aclu/elections-api/county:8909",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8909",
     "area_land":2585785629,
     "area_water":409661410,
     "geoid":"27035",

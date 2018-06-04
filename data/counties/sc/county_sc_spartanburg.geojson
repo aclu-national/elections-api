@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_spartanburg",
+  "id": "aclu/elections-api/county:10016",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10016",
     "area_land":2092673515,
     "area_water":29211230,
     "geoid":"45083",

@@ -1,7 +1,8 @@
 {
-  "id": "county_la_assumption",
+  "id": "aclu/elections-api/county:8695",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8695",
     "area_land":877133400,
     "area_water":66996288,
     "geoid":"22007",

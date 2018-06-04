@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_christian",
+  "id": "aclu/elections-api/county:9000",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9000",
     "area_land":1457243595,
     "area_water":3012641,
     "geoid":"29043",

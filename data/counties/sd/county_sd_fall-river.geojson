@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_fall-river",
+  "id": "aclu/elections-api/county:10043",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10043",
     "area_land":4506227705,
     "area_water":24080933,
     "geoid":"46047",

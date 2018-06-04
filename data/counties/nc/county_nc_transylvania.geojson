@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_transylvania",
+  "id": "aclu/elections-api/county:9322",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9322",
     "area_land":980105287,
     "area_water":5145714,
     "geoid":"37175",

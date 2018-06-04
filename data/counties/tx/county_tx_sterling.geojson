@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_sterling",
+  "id": "aclu/elections-api/county:10397",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10397",
     "area_land":2391722776,
     "area_water":167451,
     "geoid":"48431",

@@ -1,7 +1,8 @@
 {
-  "id": "county_or_lake",
+  "id": "aclu/elections-api/county:9807",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9807",
     "area_land":21078875989,
     "area_water":568514572,
     "geoid":"41037",

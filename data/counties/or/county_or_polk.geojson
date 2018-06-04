@@ -1,7 +1,8 @@
 {
-  "id": "county_or_polk",
+  "id": "aclu/elections-api/county:9815",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9815",
     "area_land":1918983329,
     "area_water":8153115,
     "geoid":"41053",

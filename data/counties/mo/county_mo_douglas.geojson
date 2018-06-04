@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_douglas",
+  "id": "aclu/elections-api/county:9012",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9012",
     "area_land":2107273796,
     "area_water":2520175,
     "geoid":"29067",

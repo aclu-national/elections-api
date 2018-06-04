@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_otoe",
+  "id": "aclu/elections-api/county:9453",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9453",
     "area_land":1594610575,
     "area_water":8640423,
     "geoid":"31131",

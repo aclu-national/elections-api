@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_harrison",
+  "id": "aclu/elections-api/county:8620",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8620",
     "area_land":793480924,
     "area_water":9057368,
     "geoid":"21097",

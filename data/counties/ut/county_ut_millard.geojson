@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_millard",
+  "id": "aclu/elections-api/county:10449",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10449",
     "area_land":17106839735,
     "area_water":600835682,
     "geoid":"49027",

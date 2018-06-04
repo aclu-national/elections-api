@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_blaine",
+  "id": "aclu/elections-api/county:9392",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9392",
     "area_land":1840674086,
     "area_water":9443894,
     "geoid":"31009",

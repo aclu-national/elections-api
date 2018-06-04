@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_pottawattamie",
+  "id": "aclu/elections-api/county:8207",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8207",
     "area_land":2461903582,
     "area_water":22261204,
     "geoid":"19155",

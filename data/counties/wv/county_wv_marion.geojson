@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_marion",
+  "id": "aclu/elections-api/county:10745",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10745",
     "area_land":799642461,
     "area_water":7186185,
     "geoid":"54049",

@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_hamilton",
+  "id": "aclu/elections-api/county:7920",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7920",
     "area_land":1330689579,
     "area_water":13659798,
     "geoid":"12047",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_jones",
+  "id": "aclu/elections-api/county:8048",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8048",
     "area_land":1020296386,
     "area_water":3827965,
     "geoid":"13169",

@@ -1,7 +1,8 @@
 {
-  "id": "county_md_wicomico",
+  "id": "aclu/elections-api/county:8791",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8791",
     "area_land":969736578,
     "area_water":66797773,
     "geoid":"24045",

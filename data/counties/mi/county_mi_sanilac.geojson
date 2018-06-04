@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_sanilac",
+  "id": "aclu/elections-api/county:8882",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8882",
     "area_land":2493045473,
     "area_water":1624882510,
     "geoid":"26151",

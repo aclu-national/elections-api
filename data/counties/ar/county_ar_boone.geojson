@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_boone",
+  "id": "aclu/elections-api/county:7673",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7673",
     "area_land":1528076369,
     "area_water":31092507,
     "geoid":"05009",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_burnet",
+  "id": "aclu/elections-api/county:10208",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10208",
     "area_land":2575134235,
     "area_water":69922923,
     "geoid":"48053",

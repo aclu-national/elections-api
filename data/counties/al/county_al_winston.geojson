@@ -1,7 +1,8 @@
 {
-  "id": "county_al_winston",
+  "id": "aclu/elections-api/county:7668",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7668",
     "area_land":1587608917,
     "area_water":48922729,
     "geoid":"01133",

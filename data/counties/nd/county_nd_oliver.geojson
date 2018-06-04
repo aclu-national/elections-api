@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_oliver",
+  "id": "aclu/elections-api/county:9367",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9367",
     "area_land":1871296135,
     "area_water":22476236,
     "geoid":"38065",

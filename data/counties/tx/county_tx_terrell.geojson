@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_terrell",
+  "id": "aclu/elections-api/county:10403",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10403",
     "area_land":6107235409,
     "area_water":105866,
     "geoid":"48443",

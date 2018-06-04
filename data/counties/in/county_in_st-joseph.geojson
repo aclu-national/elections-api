@@ -1,7 +1,8 @@
 {
-  "id": "county_in_st-joseph",
+  "id": "aclu/elections-api/county:8448",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8448",
     "area_land":1185912330,
     "area_water":9070753,
     "geoid":"18141",

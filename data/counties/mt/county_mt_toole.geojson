@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_toole",
+  "id": "aclu/elections-api/county:9229",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9229",
     "area_land":4959868816,
     "area_water":78026225,
     "geoid":"30101",

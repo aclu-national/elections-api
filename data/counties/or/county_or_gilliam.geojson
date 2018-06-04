@@ -1,7 +1,8 @@
 {
-  "id": "county_or_gilliam",
+  "id": "aclu/elections-api/county:9799",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9799",
     "area_land":3120213951,
     "area_water":46914718,
     "geoid":"41021",

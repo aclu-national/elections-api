@@ -1,7 +1,8 @@
 {
-  "id": "county_az_gila",
+  "id": "aclu/elections-api/county:7752",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7752",
     "area_land":12323146398,
     "area_water":97119865,
     "geoid":"04007",

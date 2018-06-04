@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_wilson",
+  "id": "aclu/elections-api/county:9332",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9332",
     "area_land":952010950,
     "area_water":14334531,
     "geoid":"37195",

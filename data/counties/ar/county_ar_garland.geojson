@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_garland",
+  "id": "aclu/elections-api/county:7694",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7694",
     "area_land":1755290919,
     "area_water":147383373,
     "geoid":"05051",

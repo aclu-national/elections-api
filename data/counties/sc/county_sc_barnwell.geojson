@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_barnwell",
+  "id": "aclu/elections-api/county:9980",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9980",
     "area_land":1420294943,
     "area_water":23008120,
     "geoid":"45011",

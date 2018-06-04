@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_mason",
+  "id": "aclu/elections-api/county:10747",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10747",
     "area_land":1115633278,
     "area_water":36174540,
     "geoid":"54053",

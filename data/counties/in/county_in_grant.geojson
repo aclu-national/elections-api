@@ -1,7 +1,8 @@
 {
-  "id": "county_in_grant",
+  "id": "aclu/elections-api/county:8401",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8401",
     "area_land":1072452772,
     "area_water":2133506,
     "geoid":"18053",

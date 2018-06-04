@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_fremont",
+  "id": "aclu/elections-api/county:10783",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10783",
     "area_land":23784954724,
     "area_water":213202754,
     "geoid":"56013",

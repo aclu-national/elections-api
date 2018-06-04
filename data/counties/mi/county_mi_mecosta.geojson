@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_mecosta",
+  "id": "aclu/elections-api/county:8862",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8862",
     "area_land":1437745751,
     "area_water":41762966,
     "geoid":"26107",

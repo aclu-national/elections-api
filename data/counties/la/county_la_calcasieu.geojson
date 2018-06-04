@@ -1,7 +1,8 @@
 {
-  "id": "county_la_calcasieu",
+  "id": "aclu/elections-api/county:8701",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8701",
     "area_land":2756538198,
     "area_water":77608623,
     "geoid":"22019",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_knott",
+  "id": "aclu/elections-api/county:8631",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8631",
     "area_land":910427757,
     "area_water":3453309,
     "geoid":"21119",

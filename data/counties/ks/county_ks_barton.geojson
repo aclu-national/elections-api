@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_barton",
+  "id": "aclu/elections-api/county:8471",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8471",
     "area_land":2318718654,
     "area_water":13913626,
     "geoid":"20009",

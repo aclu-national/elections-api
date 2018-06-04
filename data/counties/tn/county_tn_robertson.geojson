@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_robertson",
+  "id": "aclu/elections-api/county:10160",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10160",
     "area_land":1233605511,
     "area_water":451691,
     "geoid":"47147",

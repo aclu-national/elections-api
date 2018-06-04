@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_cambria",
+  "id": "aclu/elections-api/county:9835",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9835",
     "area_land":1782804173,
     "area_water":13696237,
     "geoid":"42021",

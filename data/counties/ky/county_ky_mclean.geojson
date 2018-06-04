@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_mclean",
+  "id": "aclu/elections-api/county:8652",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8652",
     "area_land":653906323,
     "area_water":9734358,
     "geoid":"21149",

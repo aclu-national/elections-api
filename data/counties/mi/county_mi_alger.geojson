@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_alger",
+  "id": "aclu/elections-api/county:8810",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8810",
     "area_land":2369911333,
     "area_water":10703533792,
     "geoid":"26003",

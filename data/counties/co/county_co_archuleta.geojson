@@ -1,7 +1,8 @@
 {
-  "id": "county_co_archuleta",
+  "id": "aclu/elections-api/county:7825",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7825",
     "area_land":3496731609,
     "area_water":13720776,
     "geoid":"08007",

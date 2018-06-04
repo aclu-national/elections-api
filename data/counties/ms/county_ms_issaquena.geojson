@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_issaquena",
+  "id": "aclu/elections-api/county:9124",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9124",
     "area_land":1069782900,
     "area_water":73507441,
     "geoid":"28055",

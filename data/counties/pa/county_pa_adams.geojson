@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_adams",
+  "id": "aclu/elections-api/county:9825",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9825",
     "area_land":1343396471,
     "area_water":7887889,
     "geoid":"42001",

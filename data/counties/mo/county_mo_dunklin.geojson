@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_dunklin",
+  "id": "aclu/elections-api/county:9013",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9013",
     "area_land":1401432378,
     "area_water":15767988,
     "geoid":"29069",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_culpeper",
+  "id": "aclu/elections-api/county:10495",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10495",
     "area_land":982079080,
     "area_water":9015222,
     "geoid":"51047",

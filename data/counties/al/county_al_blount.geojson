@@ -1,7 +1,8 @@
 {
-  "id": "county_al_blount",
+  "id": "aclu/elections-api/county:7606",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7606",
     "area_land":1670079465,
     "area_water":15039864,
     "geoid":"01009",

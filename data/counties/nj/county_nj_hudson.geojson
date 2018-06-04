@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_hudson",
+  "id": "aclu/elections-api/county:9499",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9499",
     "area_land":119764738,
     "area_water":41834804,
     "geoid":"34017",

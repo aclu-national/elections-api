@@ -1,7 +1,8 @@
 {
-  "id": "county_la_jackson",
+  "id": "aclu/elections-api/county:8716",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8716",
     "area_land":1474195902,
     "area_water":28714912,
     "geoid":"22049",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_flathead",
+  "id": "aclu/elections-api/county:9193",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9193",
     "area_land":13175679131,
     "area_water":437280390,
     "geoid":"30029",

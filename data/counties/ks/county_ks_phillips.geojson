@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_phillips",
+  "id": "aclu/elections-api/county:8540",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8540",
     "area_land":2294395642,
     "area_water":22493382,
     "geoid":"20147",

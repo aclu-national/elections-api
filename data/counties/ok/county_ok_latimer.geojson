@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_latimer",
+  "id": "aclu/elections-api/county:9750",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9750",
     "area_land":1870180320,
     "area_water":18213565,
     "geoid":"40077",

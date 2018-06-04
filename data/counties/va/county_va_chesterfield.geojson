@@ -1,7 +1,8 @@
 {
-  "id": "county_va_chesterfield",
+  "id": "aclu/elections-api/county:10490",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10490",
     "area_land":1096572169,
     "area_water":35123317,
     "geoid":"51041",

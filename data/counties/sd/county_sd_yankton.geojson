@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_yankton",
+  "id": "aclu/elections-api/county:10085",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10085",
     "area_land":1349873574,
     "area_water":28676624,
     "geoid":"46135",

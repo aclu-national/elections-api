@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_jewell",
+  "id": "aclu/elections-api/county:8511",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8511",
     "area_land":2356317389,
     "area_water":11863330,
     "geoid":"20089",

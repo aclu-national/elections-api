@@ -1,7 +1,8 @@
 {
-  "id": "county_va_albemarle",
+  "id": "aclu/elections-api/county:10466",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10466",
     "area_land":1866002205,
     "area_water":14235728,
     "geoid":"51003",

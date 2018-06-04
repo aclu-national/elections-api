@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_yellowstone",
+  "id": "aclu/elections-api/county:9234",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9234",
     "area_land":6820738870,
     "area_water":39856668,
     "geoid":"30111",

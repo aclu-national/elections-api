@@ -1,7 +1,8 @@
 {
-  "id": "county_in_warrick",
+  "id": "aclu/elections-api/county:8461",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8461",
     "area_land":996664713,
     "area_water":16155577,
     "geoid":"18173",

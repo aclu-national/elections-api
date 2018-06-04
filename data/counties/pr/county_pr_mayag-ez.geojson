@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_mayag-ez",
+  "id": "aclu/elections-api/county:9941",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9941",
     "area_land":201174437,
     "area_water":508705758,
     "geoid":"72097",

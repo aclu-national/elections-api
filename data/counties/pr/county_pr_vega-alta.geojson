@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_vega-alta",
+  "id": "aclu/elections-api/county:9964",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9964",
     "area_land":71816290,
     "area_water":25307600,
     "geoid":"72143",

@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_union",
+  "id": "aclu/elections-api/county:9703",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9703",
     "area_land":1118204745,
     "area_water":13288624,
     "geoid":"39159",

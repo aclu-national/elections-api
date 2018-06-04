@@ -1,7 +1,8 @@
 {
-  "id": "county_al_dekalb",
+  "id": "aclu/elections-api/county:7626",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7626",
     "area_land":2012676476,
     "area_water":4121538,
     "geoid":"01049",

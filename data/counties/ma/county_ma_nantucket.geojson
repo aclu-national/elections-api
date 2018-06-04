@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_nantucket",
+  "id": "aclu/elections-api/county:8765",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8765",
     "area_land":119431680,
     "area_water":667032050,
     "geoid":"25019",

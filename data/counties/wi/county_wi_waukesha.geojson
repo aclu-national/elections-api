@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_waukesha",
+  "id": "aclu/elections-api/county:10717",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10717",
     "area_land":1423675192,
     "area_water":79851458,
     "geoid":"55133",

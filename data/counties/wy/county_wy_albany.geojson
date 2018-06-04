@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_albany",
+  "id": "aclu/elections-api/county:10777",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10777",
     "area_land":11070455501,
     "area_water":89161368,
     "geoid":"56001",

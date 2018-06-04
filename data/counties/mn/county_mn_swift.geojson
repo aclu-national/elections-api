@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_swift",
+  "id": "aclu/elections-api/county:8967",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8967",
     "area_land":1921870987,
     "area_water":26208987,
     "geoid":"27151",

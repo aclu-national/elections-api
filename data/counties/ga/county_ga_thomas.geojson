@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_thomas",
+  "id": "aclu/elections-api/county:8100",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8100",
     "area_land":1410520995,
     "area_water":19717343,
     "geoid":"13275",

@@ -1,7 +1,8 @@
 {
-  "id": "county_al_marshall",
+  "id": "aclu/elections-api/county:7649",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7649",
     "area_land":1465528724,
     "area_water":148498594,
     "geoid":"01095",

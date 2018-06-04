@@ -1,7 +1,8 @@
 {
-  "id": "county_il_pope",
+  "id": "aclu/elections-api/county:8348",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8348",
     "area_land":955109669,
     "area_water":14328523,
     "geoid":"17151",

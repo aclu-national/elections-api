@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_henry",
+  "id": "aclu/elections-api/county:8039",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8039",
     "area_land":825201574,
     "area_water":20443113,
     "geoid":"13151",

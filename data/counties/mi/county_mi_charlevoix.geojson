@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_charlevoix",
+  "id": "aclu/elections-api/county:8823",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8823",
     "area_land":1078286047,
     "area_water":2522933853,
     "geoid":"26029",

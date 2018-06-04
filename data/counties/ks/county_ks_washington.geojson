@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_washington",
+  "id": "aclu/elections-api/county:8567",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8567",
     "area_land":2317419238,
     "area_water":10139803,
     "geoid":"20201",

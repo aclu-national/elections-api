@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_garvin",
+  "id": "aclu/elections-api/county:9736",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9736",
     "area_land":2077332600,
     "area_water":30111858,
     "geoid":"40049",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_itasca",
+  "id": "aclu/elections-api/county:8922",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8922",
     "area_land":6907775594,
     "area_water":675388758,
     "geoid":"27061",

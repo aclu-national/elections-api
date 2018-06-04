@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_jeff-davis",
+  "id": "aclu/elections-api/county:8044",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8044",
     "area_land":856690612,
     "area_water":11986249,
     "geoid":"13161",

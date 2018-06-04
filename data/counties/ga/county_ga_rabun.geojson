@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_rabun",
+  "id": "aclu/elections-api/county:8083",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8083",
     "area_land":958635596,
     "area_water":17839179,
     "geoid":"13241",

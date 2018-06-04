@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_tattnall",
+  "id": "aclu/elections-api/county:8096",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8096",
     "area_land":1241979177,
     "area_water":22837730,
     "geoid":"13267",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_randolph",
+  "id": "aclu/elections-api/county:8084",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8084",
     "area_land":1109126226,
     "area_water":6830041,
     "geoid":"13243",

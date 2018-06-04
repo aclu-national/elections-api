@@ -1,7 +1,8 @@
 {
-  "id": "county_il_henderson",
+  "id": "aclu/elections-api/county:8308",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8308",
     "area_land":981273713,
     "area_water":42340542,
     "geoid":"17071",

@@ -1,7 +1,8 @@
 {
-  "id": "county_la_orleans",
+  "id": "aclu/elections-api/county:8727",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8727",
     "area_land":438813602,
     "area_water":467285512,
     "geoid":"22071",

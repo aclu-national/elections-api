@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_luzerne",
+  "id": "aclu/elections-api/county:9864",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9864",
     "area_land":2305976986,
     "area_water":41237262,
     "geoid":"42079",

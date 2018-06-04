@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_lincoln",
+  "id": "aclu/elections-api/county:9035",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9035",
     "area_land":1622786223,
     "area_water":36005143,
     "geoid":"29113",

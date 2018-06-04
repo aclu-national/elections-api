@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_desoto",
+  "id": "aclu/elections-api/county:7910",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7910",
     "area_land":1649978043,
     "area_water":6247257,
     "geoid":"12027",

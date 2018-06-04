@@ -1,7 +1,8 @@
 {
-  "id": "county_vi_st-thomas",
+  "id": "aclu/elections-api/county:10596",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10596",
     "area_land":81102199,
     "area_water":717927568,
     "geoid":"78030",

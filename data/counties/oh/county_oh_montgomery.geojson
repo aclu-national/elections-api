@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_montgomery",
+  "id": "aclu/elections-api/county:9680",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9680",
     "area_land":1195936288,
     "area_water":6693457,
     "geoid":"39113",

@@ -1,7 +1,8 @@
 {
-  "id": "county_md_garrett",
+  "id": "aclu/elections-api/county:8780",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8780",
     "area_land":1681276216,
     "area_water":22324651,
     "geoid":"24023",

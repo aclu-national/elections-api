@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_hoke",
+  "id": "aclu/elections-api/county:9281",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9281",
     "area_land":1010380313,
     "area_water":3981006,
     "geoid":"37093",

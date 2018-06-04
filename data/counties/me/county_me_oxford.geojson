@@ -1,7 +1,8 @@
 {
-  "id": "county_me_oxford",
+  "id": "aclu/elections-api/county:8801",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8801",
     "area_land":5379066664,
     "area_water":256039480,
     "geoid":"23017",

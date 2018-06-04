@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_rains",
+  "id": "aclu/elections-api/county:10371",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10371",
     "area_land":594280566,
     "area_water":76080004,
     "geoid":"48379",

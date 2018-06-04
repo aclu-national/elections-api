@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_oregon",
+  "id": "aclu/elections-api/county:9053",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9053",
     "area_land":2045563369,
     "area_water":4528610,
     "geoid":"29149",

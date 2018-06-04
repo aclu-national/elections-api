@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_scott",
+  "id": "aclu/elections-api/county:10162",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10162",
     "area_land":1378656638,
     "area_water":2414254,
     "geoid":"47151",

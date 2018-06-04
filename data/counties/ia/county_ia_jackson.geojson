@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_jackson",
+  "id": "aclu/elections-api/county:8178",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8178",
     "area_land":1647332487,
     "area_water":35141496,
     "geoid":"19097",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_pleasants",
+  "id": "aclu/elections-api/county:10758",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10758",
     "area_land":337015703,
     "area_water":11459910,
     "geoid":"54073",

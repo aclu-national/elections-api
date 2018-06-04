@@ -1,7 +1,8 @@
 {
-  "id": "county_al_montgomery",
+  "id": "aclu/elections-api/county:7652",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7652",
     "area_land":2033764493,
     "area_water":37997545,
     "geoid":"01101",

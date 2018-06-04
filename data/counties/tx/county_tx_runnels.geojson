@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_runnels",
+  "id": "aclu/elections-api/county:10381",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10381",
     "area_land":2721934030,
     "area_water":15930084,
     "geoid":"48399",

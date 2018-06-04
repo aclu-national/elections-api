@@ -1,7 +1,8 @@
 {
-  "id": "county_va_essex",
+  "id": "aclu/elections-api/county:10501",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10501",
     "area_land":665909923,
     "area_water":74784989,
     "geoid":"51057",

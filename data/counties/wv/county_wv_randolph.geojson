@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_randolph",
+  "id": "aclu/elections-api/county:10763",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10763",
     "area_land":2692810852,
     "area_water":667359,
     "geoid":"54083",

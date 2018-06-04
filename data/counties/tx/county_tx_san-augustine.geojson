@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_san-augustine",
+  "id": "aclu/elections-api/county:10384",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10384",
     "area_land":1374395181,
     "area_water":159644687,
     "geoid":"48405",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_hooker",
+  "id": "aclu/elections-api/county:9433",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9433",
     "area_land":1867796192,
     "area_water":882994,
     "geoid":"31091",

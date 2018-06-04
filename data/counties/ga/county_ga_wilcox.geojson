@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_wilcox",
+  "id": "aclu/elections-api/county:8120",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8120",
     "area_land":978282707,
     "area_water":11390302,
     "geoid":"13315",

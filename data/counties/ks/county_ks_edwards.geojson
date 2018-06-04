@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_edwards",
+  "id": "aclu/elections-api/county:8490",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8490",
     "area_land":1610699247,
     "area_water":206413,
     "geoid":"20047",

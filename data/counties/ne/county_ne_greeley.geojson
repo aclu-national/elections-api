@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_greeley",
+  "id": "aclu/elections-api/county:9426",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9426",
     "area_land":1475804206,
     "area_water":2188873,
     "geoid":"31077",

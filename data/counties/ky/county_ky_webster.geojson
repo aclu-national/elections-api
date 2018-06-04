@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_webster",
+  "id": "aclu/elections-api/county:8688",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8688",
     "area_land":859730022,
     "area_water":9613810,
     "geoid":"21233",

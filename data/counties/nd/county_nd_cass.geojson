@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_cass",
+  "id": "aclu/elections-api/county:9343",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9343",
     "area_land":4571107601,
     "area_water":7732062,
     "geoid":"38017",

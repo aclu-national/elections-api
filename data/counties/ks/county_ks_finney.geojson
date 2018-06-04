@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_finney",
+  "id": "aclu/elections-api/county:8494",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8494",
     "area_land":3372066557,
     "area_water":1794398,
     "geoid":"20055",

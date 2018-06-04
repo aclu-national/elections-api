@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_oglethorpe",
+  "id": "aclu/elections-api/county:8073",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8073",
     "area_land":1137034765,
     "area_water":7838679,
     "geoid":"13221",

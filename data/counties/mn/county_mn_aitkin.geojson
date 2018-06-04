@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_aitkin",
+  "id": "aclu/elections-api/county:8892",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8892",
     "area_land":4718271444,
     "area_water":449535492,
     "geoid":"27001",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_clarke",
+  "id": "aclu/elections-api/county:10491",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10491",
     "area_land":455661684,
     "area_water":5693068,
     "geoid":"51043",

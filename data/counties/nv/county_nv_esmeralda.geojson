@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_esmeralda",
+  "id": "aclu/elections-api/county:9550",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9550",
     "area_land":9277050041,
     "area_water":18552011,
     "geoid":"32009",

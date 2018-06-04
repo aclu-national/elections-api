@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_grant",
+  "id": "aclu/elections-api/county:9521",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9521",
     "area_land":10259427302,
     "area_water":15346268,
     "geoid":"35017",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_pawnee",
+  "id": "aclu/elections-api/county:8539",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8539",
     "area_land":1953531655,
     "area_water":992041,
     "geoid":"20145",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_cimarron",
+  "id": "aclu/elections-api/county:9724",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9724",
     "area_land":4752113920,
     "area_water":15923999,
     "geoid":"40025",

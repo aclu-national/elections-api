@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_peach",
+  "id": "aclu/elections-api/county:8075",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8075",
     "area_land":389188297,
     "area_water":2678495,
     "geoid":"13225",

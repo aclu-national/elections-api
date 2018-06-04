@@ -1,7 +1,8 @@
 {
-  "id": "county_va_spotsylvania",
+  "id": "aclu/elections-api/county:10577",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10577",
     "area_land":1039771765,
     "area_water":33231063,
     "geoid":"51177",

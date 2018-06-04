@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_anderson",
+  "id": "aclu/elections-api/county:8468",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8468",
     "area_land":1501277564,
     "area_water":10586104,
     "geoid":"20003",

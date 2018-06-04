@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_lawrence",
+  "id": "aclu/elections-api/county:10136",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10136",
     "area_land":1598356130,
     "area_water":2228678,
     "geoid":"47099",

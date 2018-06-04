@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_reynolds",
+  "id": "aclu/elections-api/county:9068",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9068",
     "area_land":2093947210,
     "area_water":15372862,
     "geoid":"29179",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_northampton",
+  "id": "aclu/elections-api/county:10549",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10549",
     "area_land":548282864,
     "area_water":1511417329,
     "geoid":"51131",

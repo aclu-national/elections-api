@@ -1,7 +1,8 @@
 {
-  "id": "county_vt_grand-isle",
+  "id": "aclu/elections-api/county:10603",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10603",
     "area_land":211881636,
     "area_water":292317315,
     "geoid":"50013",

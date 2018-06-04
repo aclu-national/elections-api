@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_st-lucie",
+  "id": "aclu/elections-api/county:7956",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7956",
     "area_land":1480655532,
     "area_water":300844721,
     "geoid":"12111",

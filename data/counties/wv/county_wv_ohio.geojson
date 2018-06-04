@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_ohio",
+  "id": "aclu/elections-api/county:10756",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10756",
     "area_land":274098959,
     "area_water":8274296,
     "geoid":"54069",

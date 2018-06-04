@@ -1,7 +1,8 @@
 {
-  "id": "county_al_marion",
+  "id": "aclu/elections-api/county:7648",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7648",
     "area_land":1922656984,
     "area_water":3183684,
     "geoid":"01093",

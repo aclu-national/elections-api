@@ -1,7 +1,8 @@
 {
-  "id": "county_md_st-mary-s",
+  "id": "aclu/elections-api/county:8788",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8788",
     "area_land":928885370,
     "area_water":1050517131,
     "geoid":"24037",

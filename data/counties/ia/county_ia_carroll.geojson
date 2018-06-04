@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_carroll",
+  "id": "aclu/elections-api/county:8143",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8143",
     "area_land":1474835092,
     "area_water":2145349,
     "geoid":"19027",

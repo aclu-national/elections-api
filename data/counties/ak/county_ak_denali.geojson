@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_denali",
+  "id": "aclu/elections-api/county:7578",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7578",
     "area_land":32729613863,
     "area_water":66068878,
     "geoid":"02068",

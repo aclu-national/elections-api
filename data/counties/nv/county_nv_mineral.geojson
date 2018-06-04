@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_mineral",
+  "id": "aclu/elections-api/county:9556",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9556",
     "area_land":9719815219,
     "area_water":155746682,
     "geoid":"32021",

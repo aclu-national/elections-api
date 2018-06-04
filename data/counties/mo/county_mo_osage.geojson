@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_osage",
+  "id": "aclu/elections-api/county:9054",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9054",
     "area_land":1571017654,
     "area_water":17751408,
     "geoid":"29151",

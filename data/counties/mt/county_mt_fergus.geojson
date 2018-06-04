@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_fergus",
+  "id": "aclu/elections-api/county:9192",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9192",
     "area_land":11238811043,
     "area_water":27700320,
     "geoid":"30027",

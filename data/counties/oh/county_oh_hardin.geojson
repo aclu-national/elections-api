@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_hardin",
+  "id": "aclu/elections-api/county:9656",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9656",
     "area_land":1218342693,
     "area_water":629922,
     "geoid":"39065",

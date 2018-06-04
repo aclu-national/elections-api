@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_cheyenne",
+  "id": "aclu/elections-api/county:8478",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8478",
     "area_land":2641501922,
     "area_water":2738021,
     "geoid":"20023",

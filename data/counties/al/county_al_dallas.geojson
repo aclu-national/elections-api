@@ -1,7 +1,8 @@
 {
-  "id": "county_al_dallas",
+  "id": "aclu/elections-api/county:7625",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7625",
     "area_land":2534863481,
     "area_water":39131006,
     "geoid":"01047",

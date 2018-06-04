@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_faulk",
+  "id": "aclu/elections-api/county:10044",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10044",
     "area_land":2542575647,
     "area_water":62678931,
     "geoid":"46049",

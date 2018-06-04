@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_beaver",
+  "id": "aclu/elections-api/county:10436",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10436",
     "area_land":6689681822,
     "area_water":5298466,
     "geoid":"49001",

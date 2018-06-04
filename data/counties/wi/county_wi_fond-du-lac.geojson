@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_fond-du-lac",
+  "id": "aclu/elections-api/county:10669",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10669",
     "area_land":1863635236,
     "area_water":119885776,
     "geoid":"55039",

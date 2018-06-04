@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_abbeville",
+  "id": "aclu/elections-api/county:9975",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9975",
     "area_land":1270337025,
     "area_water":53126680,
     "geoid":"45001",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_cleveland",
+  "id": "aclu/elections-api/county:9725",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9725",
     "area_land":1395529148,
     "area_water":49908184,
     "geoid":"40027",

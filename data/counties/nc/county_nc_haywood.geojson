@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_haywood",
+  "id": "aclu/elections-api/county:9278",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9278",
     "area_land":1433738456,
     "area_water":2414518,
     "geoid":"37087",

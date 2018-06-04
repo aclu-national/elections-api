@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_medina",
+  "id": "aclu/elections-api/county:9675",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9675",
     "area_land":1091406463,
     "area_water":4198457,
     "geoid":"39103",

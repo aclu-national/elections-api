@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_greene",
+  "id": "aclu/elections-api/county:9652",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9652",
     "area_land":1071555583,
     "area_water":6535068,
     "geoid":"39057",

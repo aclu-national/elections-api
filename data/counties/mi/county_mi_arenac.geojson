@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_arenac",
+  "id": "aclu/elections-api/county:8814",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8814",
     "area_land":940623611,
     "area_water":822317353,
     "geoid":"26011",

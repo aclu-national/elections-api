@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_calhoun",
+  "id": "aclu/elections-api/county:10728",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10728",
     "area_land":723252434,
     "area_water":3704539,
     "geoid":"54013",

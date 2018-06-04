@@ -1,7 +1,8 @@
 {
-  "id": "county_la_franklin",
+  "id": "aclu/elections-api/county:8712",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8712",
     "area_land":1617667694,
     "area_water":28107882,
     "geoid":"22041",

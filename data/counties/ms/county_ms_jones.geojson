@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_jones",
+  "id": "aclu/elections-api/county:9130",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9130",
     "area_land":1799558905,
     "area_water":12676802,
     "geoid":"28067",

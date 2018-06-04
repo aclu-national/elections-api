@@ -1,7 +1,8 @@
 {
-  "id": "county_va_nelson",
+  "id": "aclu/elections-api/county:10545",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10545",
     "area_land":1219239663,
     "area_water":8987274,
     "geoid":"51125",

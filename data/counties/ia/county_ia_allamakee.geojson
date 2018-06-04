@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_allamakee",
+  "id": "aclu/elections-api/county:8132",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8132",
     "area_land":1655214176,
     "area_water":50995532,
     "geoid":"19005",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_gaston",
+  "id": "aclu/elections-api/county:9270",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9270",
     "area_land":921400770,
     "area_water":20560593,
     "geoid":"37071",

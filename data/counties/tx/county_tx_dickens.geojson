@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_dickens",
+  "id": "aclu/elections-api/county:10244",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10244",
     "area_land":2335454690,
     "area_water":9057848,
     "geoid":"48125",

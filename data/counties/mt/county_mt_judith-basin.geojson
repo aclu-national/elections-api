@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_judith-basin",
+  "id": "aclu/elections-api/county:9201",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9201",
     "area_land":4842466690,
     "area_water":2066739,
     "geoid":"30045",

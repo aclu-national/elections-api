@@ -1,7 +1,8 @@
 {
-  "id": "county_va_james-city",
+  "id": "aclu/elections-api/county:10526",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10526",
     "area_land":368881354,
     "area_water":95089229,
     "geoid":"51095",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_dallas",
+  "id": "aclu/elections-api/county:9008",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9008",
     "area_land":1400714729,
     "area_water":5252024,
     "geoid":"29059",

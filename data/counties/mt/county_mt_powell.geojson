@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_powell",
+  "id": "aclu/elections-api/county:9217",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9217",
     "area_land":6024448193,
     "area_water":16220811,
     "geoid":"30077",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_baldwin",
+  "id": "aclu/elections-api/county:7969",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7969",
     "area_land":670027550,
     "area_water":24802965,
     "geoid":"13009",

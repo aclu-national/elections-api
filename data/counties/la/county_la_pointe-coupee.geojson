@@ -1,7 +1,8 @@
 {
-  "id": "county_la_pointe-coupee",
+  "id": "aclu/elections-api/county:8730",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8730",
     "area_land":1443519879,
     "area_water":86418272,
     "geoid":"22077",

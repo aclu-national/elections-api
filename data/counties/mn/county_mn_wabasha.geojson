@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_wabasha",
+  "id": "aclu/elections-api/county:8970",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8970",
     "area_land":1354359268,
     "area_water":68954671,
     "geoid":"27157",

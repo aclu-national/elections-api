@@ -1,7 +1,8 @@
 {
-  "id": "county_la_caddo",
+  "id": "aclu/elections-api/county:8700",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8700",
     "area_land":2275369596,
     "area_water":150398853,
     "geoid":"22017",

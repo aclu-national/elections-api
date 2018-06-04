@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_greene",
+  "id": "aclu/elections-api/county:8030",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8030",
     "area_land":1003451710,
     "area_water":48630003,
     "geoid":"13133",

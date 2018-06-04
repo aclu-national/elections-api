@@ -1,7 +1,8 @@
 {
-  "id": "county_co_dolores",
+  "id": "aclu/elections-api/county:7839",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7839",
     "area_land":2763958520,
     "area_water":2716141,
     "geoid":"08033",

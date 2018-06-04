@@ -1,7 +1,8 @@
 {
-  "id": "county_va_accomack",
+  "id": "aclu/elections-api/county:10465",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10465",
     "area_land":1163743170,
     "area_water":2229242744,
     "geoid":"51001",

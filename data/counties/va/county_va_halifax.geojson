@@ -1,7 +1,8 @@
 {
-  "id": "county_va_halifax",
+  "id": "aclu/elections-api/county:10517",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10517",
     "area_land":2117910304,
     "area_water":30527401,
     "geoid":"51083",

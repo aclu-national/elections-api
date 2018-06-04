@@ -1,7 +1,8 @@
 {
-  "id": "county_il_edwards",
+  "id": "aclu/elections-api/county:8296",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8296",
     "area_land":576062000,
     "area_water":781203,
     "geoid":"17047",

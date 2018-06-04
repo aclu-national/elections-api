@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_schuyler",
+  "id": "aclu/elections-api/county:9071",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9071",
     "area_land":795916406,
     "area_water":2216011,
     "geoid":"29197",

@@ -1,7 +1,8 @@
 {
-  "id": "county_co_garfield",
+  "id": "aclu/elections-api/county:7845",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7845",
     "area_land":7634095739,
     "area_water":21408198,
     "geoid":"08045",

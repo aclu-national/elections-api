@@ -1,7 +1,8 @@
 {
-  "id": "county_il_wayne",
+  "id": "aclu/elections-api/county:8368",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8368",
     "area_land":1848771790,
     "area_water":4328965,
     "geoid":"17191",

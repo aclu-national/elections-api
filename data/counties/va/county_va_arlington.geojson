@@ -1,7 +1,8 @@
 {
-  "id": "county_va_arlington",
+  "id": "aclu/elections-api/county:10472",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10472",
     "area_land":67362395,
     "area_water":244142,
     "geoid":"51013",

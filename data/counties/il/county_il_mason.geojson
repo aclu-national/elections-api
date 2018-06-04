@@ -1,7 +1,8 @@
 {
-  "id": "county_il_mason",
+  "id": "aclu/elections-api/county:8332",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8332",
     "area_land":1396619099,
     "area_water":62745252,
     "geoid":"17125",

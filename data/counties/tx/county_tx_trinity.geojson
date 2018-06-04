@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_trinity",
+  "id": "aclu/elections-api/county:10409",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10409",
     "area_land":1796914248,
     "area_water":52267270,
     "geoid":"48455",

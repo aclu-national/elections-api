@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_martin",
+  "id": "aclu/elections-api/county:9292",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9292",
     "area_land":1182135018,
     "area_water":746610,
     "geoid":"37117",

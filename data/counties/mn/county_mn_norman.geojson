@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_norman",
+  "id": "aclu/elections-api/county:8945",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8945",
     "area_land":2260512389,
     "area_water":10208057,
     "geoid":"27107",

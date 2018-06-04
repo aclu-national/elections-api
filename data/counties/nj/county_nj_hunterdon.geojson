@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_hunterdon",
+  "id": "aclu/elections-api/county:9500",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9500",
     "area_land":1108047582,
     "area_water":24800279,
     "geoid":"34019",

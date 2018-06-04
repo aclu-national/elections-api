@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_carter",
+  "id": "aclu/elections-api/county:9184",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9184",
     "area_land":8651792773,
     "area_water":19503321,
     "geoid":"30011",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_el-dorado",
+  "id": "aclu/elections-api/county:7772",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7772",
     "area_land":4423290535,
     "area_water":203328338,
     "geoid":"06017",

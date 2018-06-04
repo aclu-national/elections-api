@@ -1,7 +1,8 @@
 {
-  "id": "county_co_elbert",
+  "id": "aclu/elections-api/county:7843",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7843",
     "area_land":4793658887,
     "area_water":442148,
     "geoid":"08039",

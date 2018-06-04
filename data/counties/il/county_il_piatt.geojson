@@ -1,7 +1,8 @@
 {
-  "id": "county_il_piatt",
+  "id": "aclu/elections-api/county:8346",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8346",
     "area_land":1137445090,
     "area_water":756346,
     "geoid":"17147",

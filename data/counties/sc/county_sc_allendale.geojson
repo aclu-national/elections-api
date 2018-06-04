@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_allendale",
+  "id": "aclu/elections-api/county:9977",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9977",
     "area_land":1056949849,
     "area_water":11205143,
     "geoid":"45005",

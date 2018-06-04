@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_rockwall",
+  "id": "aclu/elections-api/county:10380",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10380",
     "area_land":329205133,
     "area_water":56076769,
     "geoid":"48397",

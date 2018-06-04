@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_ben-hill",
+  "id": "aclu/elections-api/county:7973",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7973",
     "area_land":647813382,
     "area_water":9803106,
     "geoid":"13017",

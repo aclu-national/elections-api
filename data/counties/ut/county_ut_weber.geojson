@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_weber",
+  "id": "aclu/elections-api/county:10464",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10464",
     "area_land":1492520445,
     "area_water":216460044,
     "geoid":"49057",

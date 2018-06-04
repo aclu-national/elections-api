@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_candler",
+  "id": "aclu/elections-api/county:7985",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7985",
     "area_land":629508737,
     "area_water":15030369,
     "geoid":"13043",

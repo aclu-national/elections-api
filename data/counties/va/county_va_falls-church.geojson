@@ -1,7 +1,8 @@
 {
-  "id": "county_va_falls-church",
+  "id": "aclu/elections-api/county:10503",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10503",
     "area_land":5300264,
     "area_water":32,
     "geoid":"51610",

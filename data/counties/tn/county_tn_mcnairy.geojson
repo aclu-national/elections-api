@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_mcnairy",
+  "id": "aclu/elections-api/county:10146",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10146",
     "area_land":1457753417,
     "area_water":1994987,
     "geoid":"47109",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_jayuya",
+  "id": "aclu/elections-api/county:9929",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9929",
     "area_land":115340543,
     "area_water":3091,
     "geoid":"72073",

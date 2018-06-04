@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_nome",
+  "id": "aclu/elections-api/county:7590",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7590",
     "area_land":59496552709,
     "area_water":13774839669,
     "geoid":"02180",

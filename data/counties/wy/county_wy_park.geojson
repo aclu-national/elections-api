@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_park",
+  "id": "aclu/elections-api/county:10791",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10791",
     "area_land":17974153917,
     "area_water":65512584,
     "geoid":"56029",

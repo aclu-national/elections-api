@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_ballard",
+  "id": "aclu/elections-api/county:8575",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8575",
     "area_land":638850964,
     "area_water":70009832,
     "geoid":"21007",

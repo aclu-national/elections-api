@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_polk",
+  "id": "aclu/elections-api/county:8951",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8951",
     "area_land":5105067510,
     "area_water":69169913,
     "geoid":"27119",

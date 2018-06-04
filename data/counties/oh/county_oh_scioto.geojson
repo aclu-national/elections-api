@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_scioto",
+  "id": "aclu/elections-api/county:9696",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9696",
     "area_land":1580451539,
     "area_water":15363856,
     "geoid":"39145",

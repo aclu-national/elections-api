@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_pickens",
+  "id": "aclu/elections-api/county:8076",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8076",
     "area_land":601027940,
     "area_water":1693768,
     "geoid":"13227",

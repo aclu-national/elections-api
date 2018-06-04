@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_montmorency",
+  "id": "aclu/elections-api/county:8868",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8868",
     "area_land":1415822785,
     "area_water":41410946,
     "geoid":"26119",

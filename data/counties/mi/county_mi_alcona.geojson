@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_alcona",
+  "id": "aclu/elections-api/county:8809",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8809",
     "area_land":1747349262,
     "area_water":2890404971,
     "geoid":"26001",

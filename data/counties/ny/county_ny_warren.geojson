@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_warren",
+  "id": "aclu/elections-api/county:9618",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9618",
     "area_land":2246154434,
     "area_water":166682934,
     "geoid":"36113",

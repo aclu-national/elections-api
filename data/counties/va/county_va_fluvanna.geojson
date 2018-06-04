@@ -1,7 +1,8 @@
 {
-  "id": "county_va_fluvanna",
+  "id": "aclu/elections-api/county:10506",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10506",
     "area_land":743630411,
     "area_water":10746124,
     "geoid":"51065",

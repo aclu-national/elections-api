@@ -1,7 +1,8 @@
 {
-  "id": "county_co_park",
+  "id": "aclu/elections-api/county:7869",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7869",
     "area_land":5682181421,
     "area_water":43520913,
     "geoid":"08093",

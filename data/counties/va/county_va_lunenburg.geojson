@@ -1,7 +1,8 @@
 {
-  "id": "county_va_lunenburg",
+  "id": "aclu/elections-api/county:10535",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10535",
     "area_land":1118051114,
     "area_water":1795027,
     "geoid":"51111",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_red-willow",
+  "id": "aclu/elections-api/county:9460",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9460",
     "area_land":1856984023,
     "area_water":2643458,
     "geoid":"31145",

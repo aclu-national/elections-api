@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_oktibbeha",
+  "id": "aclu/elections-api/county:9149",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9149",
     "area_land":1186750731,
     "area_water":9649656,
     "geoid":"28105",

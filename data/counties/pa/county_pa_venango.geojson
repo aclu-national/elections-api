@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_venango",
+  "id": "aclu/elections-api/county:9885",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9885",
     "area_land":1746388722,
     "area_water":22148538,
     "geoid":"42121",

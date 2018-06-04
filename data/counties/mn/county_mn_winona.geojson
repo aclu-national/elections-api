@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_winona",
+  "id": "aclu/elections-api/county:8976",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8976",
     "area_land":1621558336,
     "area_water":40131783,
     "geoid":"27169",

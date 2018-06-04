@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_pender",
+  "id": "aclu/elections-api/county:9305",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9305",
     "area_land":2256645184,
     "area_water":162833567,
     "geoid":"37141",

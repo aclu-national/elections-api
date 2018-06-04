@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_lake",
+  "id": "aclu/elections-api/county:7931",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7931",
     "area_land":2436872973,
     "area_water":559601970,
     "geoid":"12069",

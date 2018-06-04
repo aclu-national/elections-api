@@ -1,7 +1,8 @@
 {
-  "id": "county_il_randolph",
+  "id": "aclu/elections-api/county:8351",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8351",
     "area_land":1490498589,
     "area_water":56254913,
     "geoid":"17157",

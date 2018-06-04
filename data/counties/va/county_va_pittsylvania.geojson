@@ -1,7 +1,8 @@
 {
-  "id": "county_va_pittsylvania",
+  "id": "aclu/elections-api/county:10557",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10557",
     "area_land":2509683753,
     "area_water":23925747,
     "geoid":"51143",

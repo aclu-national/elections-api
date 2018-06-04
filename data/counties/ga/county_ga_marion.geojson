@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_marion",
+  "id": "aclu/elections-api/county:8060",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8060",
     "area_land":947978209,
     "area_water":3791374,
     "geoid":"13197",

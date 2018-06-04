@@ -1,7 +1,8 @@
 {
-  "id": "county_or_benton",
+  "id": "aclu/elections-api/county:9790",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9790",
     "area_land":1748712527,
     "area_water":7740249,
     "geoid":"41003",

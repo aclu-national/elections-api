@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_carroll",
+  "id": "aclu/elections-api/county:7986",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7986",
     "area_land":1292475855,
     "area_water":12301426,
     "geoid":"13045",

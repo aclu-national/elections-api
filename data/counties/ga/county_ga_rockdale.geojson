@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_rockdale",
+  "id": "aclu/elections-api/county:8086",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8086",
     "area_land":336212809,
     "area_water":5918272,
     "geoid":"13247",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_whitley",
+  "id": "aclu/elections-api/county:8689",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8689",
     "area_land":1133976430,
     "area_water":18875138,
     "geoid":"21235",

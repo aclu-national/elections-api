@@ -1,7 +1,8 @@
 {
-  "id": "county_in_cass",
+  "id": "aclu/elections-api/county:8383",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8383",
     "area_land":1067475985,
     "area_water":6974423,
     "geoid":"18017",

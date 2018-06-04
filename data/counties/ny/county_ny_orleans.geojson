@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_orleans",
+  "id": "aclu/elections-api/county:9598",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9598",
     "area_land":1013366849,
     "area_water":1103741896,
     "geoid":"36073",

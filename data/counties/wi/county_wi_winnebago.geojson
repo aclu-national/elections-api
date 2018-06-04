@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_winnebago",
+  "id": "aclu/elections-api/county:10720",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10720",
     "area_land":1125258751,
     "area_water":373232751,
     "geoid":"55139",

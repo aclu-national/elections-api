@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_humboldt",
+  "id": "aclu/elections-api/county:9552",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9552",
     "area_land":24969533279,
     "area_water":44196979,
     "geoid":"32013",

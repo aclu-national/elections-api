@@ -1,7 +1,8 @@
 {
-  "id": "county_al_washington",
+  "id": "aclu/elections-api/county:7666",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7666",
     "area_land":2797720370,
     "area_water":21652733,
     "geoid":"01129",

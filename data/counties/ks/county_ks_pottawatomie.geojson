@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_pottawatomie",
+  "id": "aclu/elections-api/county:8541",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8541",
     "area_land":2177617398,
     "area_water":54039076,
     "geoid":"20149",

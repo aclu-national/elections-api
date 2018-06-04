@@ -1,7 +1,8 @@
 {
-  "id": "county_il_menard",
+  "id": "aclu/elections-api/county:8337",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8337",
     "area_land":814389209,
     "area_water":2641080,
     "geoid":"17129",

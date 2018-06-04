@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_morris",
+  "id": "aclu/elections-api/county:10353",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10353",
     "area_land":652648672,
     "area_water":17382822,
     "geoid":"48343",

@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_cherokee",
+  "id": "aclu/elections-api/county:9985",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9985",
     "area_land":1017382887,
     "area_water":11701702,
     "geoid":"45021",

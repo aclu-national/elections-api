@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_graves",
+  "id": "aclu/elections-api/county:8613",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8613",
     "area_land":1429025286,
     "area_water":13047565,
     "geoid":"21083",

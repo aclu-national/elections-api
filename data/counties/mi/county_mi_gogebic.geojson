@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_gogebic",
+  "id": "aclu/elections-api/county:8835",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8835",
     "area_land":2854517985,
     "area_water":970153168,
     "geoid":"26053",

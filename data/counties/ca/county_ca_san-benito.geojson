@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_san-benito",
+  "id": "aclu/elections-api/county:7798",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7798",
     "area_land":3596588882,
     "area_water":4721397,
     "geoid":"06069",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_pike",
+  "id": "aclu/elections-api/county:9060",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9060",
     "area_land":1736428536,
     "area_water":36976453,
     "geoid":"29163",

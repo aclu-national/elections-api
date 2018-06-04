@@ -1,7 +1,8 @@
 {
-  "id": "county_il_marshall",
+  "id": "aclu/elections-api/county:8331",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8331",
     "area_land":1001787870,
     "area_water":30368315,
     "geoid":"17123",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_doddridge",
+  "id": "aclu/elections-api/county:10730",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10730",
     "area_land":828070519,
     "area_water":1958441,
     "geoid":"54017",

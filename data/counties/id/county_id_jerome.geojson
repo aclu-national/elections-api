@@ -1,7 +1,8 @@
 {
-  "id": "county_id_jerome",
+  "id": "aclu/elections-api/county:8255",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8255",
     "area_land":1547386409,
     "area_water":13152108,
     "geoid":"16053",

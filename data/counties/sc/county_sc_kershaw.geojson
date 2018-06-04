@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_kershaw",
+  "id": "aclu/elections-api/county:10002",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10002",
     "area_land":1881777515,
     "area_water":35709172,
     "geoid":"45055",

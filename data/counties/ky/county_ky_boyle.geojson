@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_boyle",
+  "id": "aclu/elections-api/county:8582",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8582",
     "area_land":467093981,
     "area_water":6460546,
     "geoid":"21021",

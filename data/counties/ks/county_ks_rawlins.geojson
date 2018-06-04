@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_rawlins",
+  "id": "aclu/elections-api/county:8543",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8543",
     "area_land":2769775729,
     "area_water":415527,
     "geoid":"20153",

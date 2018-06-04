@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_christian",
+  "id": "aclu/elections-api/county:8595",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8595",
     "area_land":1858332405,
     "area_water":16928991,
     "geoid":"21047",

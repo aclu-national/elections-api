@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_pierce",
+  "id": "aclu/elections-api/county:10637",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10637",
     "area_land":4320445281,
     "area_water":355666719,
     "geoid":"53053",

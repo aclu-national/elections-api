@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_juniata",
+  "id": "aclu/elections-api/county:9858",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9858",
     "area_land":1013592887,
     "area_water":5606074,
     "geoid":"42067",

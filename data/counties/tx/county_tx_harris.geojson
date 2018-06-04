@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_harris",
+  "id": "aclu/elections-api/county:10282",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10282",
     "area_land":4415733152,
     "area_water":187863191,
     "geoid":"48201",

@@ -1,7 +1,8 @@
 {
-  "id": "county_id_butte",
+  "id": "aclu/elections-api/county:8240",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8240",
     "area_land":5792509562,
     "area_water":5260331,
     "geoid":"16023",

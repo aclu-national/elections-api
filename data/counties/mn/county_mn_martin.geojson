@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_martin",
+  "id": "aclu/elections-api/county:8936",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8936",
     "area_land":1844947511,
     "area_water":44649915,
     "geoid":"27091",

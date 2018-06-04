@@ -1,7 +1,8 @@
 {
-  "id": "county_va_surry",
+  "id": "aclu/elections-api/county:10581",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10581",
     "area_land":722475755,
     "area_water":81216907,
     "geoid":"51181",

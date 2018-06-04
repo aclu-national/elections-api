@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_sullivan",
+  "id": "aclu/elections-api/county:9614",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9614",
     "area_land":2507463254,
     "area_water":74035009,
     "geoid":"36105",

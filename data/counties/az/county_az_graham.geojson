@@ -1,7 +1,8 @@
 {
-  "id": "county_az_graham",
+  "id": "aclu/elections-api/county:7753",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7753",
     "area_land":11972778533,
     "area_water":47436491,
     "geoid":"04009",

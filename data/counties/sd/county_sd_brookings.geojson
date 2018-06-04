@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_brookings",
+  "id": "aclu/elections-api/county:10025",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10025",
     "area_land":2051804710,
     "area_water":32967600,
     "geoid":"46011",

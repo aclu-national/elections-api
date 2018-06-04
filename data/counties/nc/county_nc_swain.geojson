@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_swain",
+  "id": "aclu/elections-api/county:9321",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9321",
     "area_land":1366812262,
     "area_water":32414382,
     "geoid":"37173",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_antelope",
+  "id": "aclu/elections-api/county:9389",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9389",
     "area_land":2220183804,
     "area_water":3558463,
     "geoid":"31003",

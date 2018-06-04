@@ -1,7 +1,8 @@
 {
-  "id": "county_in_miami",
+  "id": "aclu/elections-api/county:8426",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8426",
     "area_land":968246952,
     "area_water":9184624,
     "geoid":"18103",

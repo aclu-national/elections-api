@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_crockett",
+  "id": "aclu/elections-api/county:10234",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10234",
     "area_land":7270935065,
     "area_water":53329,
     "geoid":"48105",

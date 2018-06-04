@@ -1,7 +1,8 @@
 {
-  "id": "county_la_tensas",
+  "id": "aclu/elections-api/county:8745",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8745",
     "area_land":1561204507,
     "area_water":99471076,
     "geoid":"22107",

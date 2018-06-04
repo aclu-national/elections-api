@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_aiken",
+  "id": "aclu/elections-api/county:9976",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9976",
     "area_land":2774109851,
     "area_water":24619610,
     "geoid":"45003",

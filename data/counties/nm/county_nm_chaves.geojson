@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_chaves",
+  "id": "aclu/elections-api/county:9514",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9514",
     "area_land":15713841748,
     "area_water":20545303,
     "geoid":"35005",

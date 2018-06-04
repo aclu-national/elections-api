@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_los-angeles",
+  "id": "aclu/elections-api/county:7782",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7782",
     "area_land":10510588451,
     "area_water":1794793532,
     "geoid":"06037",

@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_aurora",
+  "id": "aclu/elections-api/county:10021",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10021",
     "area_land":1834813747,
     "area_water":11201379,
     "geoid":"46003",

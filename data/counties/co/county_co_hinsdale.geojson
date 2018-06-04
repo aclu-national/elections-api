@@ -1,7 +1,8 @@
 {
-  "id": "county_co_hinsdale",
+  "id": "aclu/elections-api/county:7849",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7849",
     "area_land":2893614470,
     "area_water":15324686,
     "geoid":"08053",

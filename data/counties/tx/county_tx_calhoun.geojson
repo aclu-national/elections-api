@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_calhoun",
+  "id": "aclu/elections-api/county:10210",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10210",
     "area_land":1312707024,
     "area_water":1361884769,
     "geoid":"48057",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_atkinson",
+  "id": "aclu/elections-api/county:7966",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7966",
     "area_land":878787518,
     "area_water":13550957,
     "geoid":"13003",

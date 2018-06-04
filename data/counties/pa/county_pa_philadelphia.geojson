@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_philadelphia",
+  "id": "aclu/elections-api/county:9875",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9875",
     "area_land":347520038,
     "area_water":22086063,
     "geoid":"42101",

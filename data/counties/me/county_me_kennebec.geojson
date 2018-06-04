@@ -1,7 +1,8 @@
 {
-  "id": "county_me_kennebec",
+  "id": "aclu/elections-api/county:8798",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8798",
     "area_land":2246806176,
     "area_water":216724439,
     "geoid":"23011",

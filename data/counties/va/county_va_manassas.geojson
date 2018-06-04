@@ -1,7 +1,8 @@
 {
-  "id": "county_va_manassas",
+  "id": "aclu/elections-api/county:10539",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10539",
     "area_land":25508044,
     "area_water":147721,
     "geoid":"51683",

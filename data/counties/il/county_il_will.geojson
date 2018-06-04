@@ -1,7 +1,8 @@
 {
-  "id": "county_il_will",
+  "id": "aclu/elections-api/county:8371",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8371",
     "area_land":2166099738,
     "area_water":33374154,
     "geoid":"17197",

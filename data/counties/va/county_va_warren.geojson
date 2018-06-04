@@ -1,7 +1,8 @@
 {
-  "id": "county_va_warren",
+  "id": "aclu/elections-api/county:10585",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10585",
     "area_land":555629182,
     "area_water":8590279,
     "geoid":"51187",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_buffalo",
+  "id": "aclu/elections-api/county:10655",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10655",
     "area_land":1739529649,
     "area_water":98310686,
     "geoid":"55011",

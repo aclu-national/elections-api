@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_torrance",
+  "id": "aclu/elections-api/county:9542",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9542",
     "area_land":8664074710,
     "area_water":2303485,
     "geoid":"35057",

@@ -1,7 +1,8 @@
 {
-  "id": "county_co_bent",
+  "id": "aclu/elections-api/county:7827",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7827",
     "area_land":3918303427,
     "area_water":73093229,
     "geoid":"08011",

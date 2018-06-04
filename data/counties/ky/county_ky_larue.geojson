@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_larue",
+  "id": "aclu/elections-api/county:8633",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8633",
     "area_land":677386387,
     "area_water":5418290,
     "geoid":"21123",

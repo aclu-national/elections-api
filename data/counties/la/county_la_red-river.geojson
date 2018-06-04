@@ -1,7 +1,8 @@
 {
-  "id": "county_la_red-river",
+  "id": "aclu/elections-api/county:8732",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8732",
     "area_land":1007739206,
     "area_water":34327512,
     "geoid":"22081",

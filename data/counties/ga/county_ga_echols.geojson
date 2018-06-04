@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_echols",
+  "id": "aclu/elections-api/county:8014",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8014",
     "area_land":1074571647,
     "area_water":15087403,
     "geoid":"13101",

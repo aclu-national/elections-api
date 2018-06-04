@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_simpson",
+  "id": "aclu/elections-api/county:8678",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8678",
     "area_land":606584079,
     "area_water":5857862,
     "geoid":"21213",

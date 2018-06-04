@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_redwood",
+  "id": "aclu/elections-api/county:8955",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8955",
     "area_land":2275500535,
     "area_water":8220933,
     "geoid":"27127",

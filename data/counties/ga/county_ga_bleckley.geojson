@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_bleckley",
+  "id": "aclu/elections-api/county:7976",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7976",
     "area_land":559100209,
     "area_water":8447343,
     "geoid":"13023",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_onondaga",
+  "id": "aclu/elections-api/county:9595",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9595",
     "area_land":2016012328,
     "area_water":70528316,
     "geoid":"36067",

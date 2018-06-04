@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_antrim",
+  "id": "aclu/elections-api/county:8813",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8813",
     "area_land":1232000354,
     "area_water":326539096,
     "geoid":"26009",

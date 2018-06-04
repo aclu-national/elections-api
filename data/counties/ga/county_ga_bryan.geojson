@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_bryan",
+  "id": "aclu/elections-api/county:7979",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7979",
     "area_land":1130182689,
     "area_water":46852821,
     "geoid":"13029",

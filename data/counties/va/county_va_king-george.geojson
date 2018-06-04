@@ -1,7 +1,8 @@
 {
-  "id": "county_va_king-george",
+  "id": "aclu/elections-api/county:10528",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10528",
     "area_land":465080763,
     "area_water":21140635,
     "geoid":"51099",

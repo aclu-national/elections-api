@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_norfolk",
+  "id": "aclu/elections-api/county:8766",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8766",
     "area_land":1025865057,
     "area_water":124987270,
     "geoid":"25021",

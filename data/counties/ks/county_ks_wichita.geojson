@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_wichita",
+  "id": "aclu/elections-api/county:8568",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8568",
     "area_land":1861078210,
     "area_water":61987,
     "geoid":"20203",

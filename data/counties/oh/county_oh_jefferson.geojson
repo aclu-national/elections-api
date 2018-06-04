@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_jefferson",
+  "id": "aclu/elections-api/county:9664",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9664",
     "area_land":1057248945,
     "area_water":7120755,
     "geoid":"39081",

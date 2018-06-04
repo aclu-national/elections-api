@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_quebradillas",
+  "id": "aclu/elections-api/county:9950",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9950",
     "area_land":58747685,
     "area_water":30224116,
     "geoid":"72115",

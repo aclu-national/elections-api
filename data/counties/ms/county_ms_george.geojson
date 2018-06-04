@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_george",
+  "id": "aclu/elections-api/county:9116",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9116",
     "area_land":1239817244,
     "area_water":12838126,
     "geoid":"28039",

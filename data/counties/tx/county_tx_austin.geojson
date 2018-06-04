@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_austin",
+  "id": "aclu/elections-api/county:10189",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10189",
     "area_land":1674405635,
     "area_water":25606133,
     "geoid":"48015",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_frontier",
+  "id": "aclu/elections-api/county:9419",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9419",
     "area_land":2524180462,
     "area_water":14212842,
     "geoid":"31063",

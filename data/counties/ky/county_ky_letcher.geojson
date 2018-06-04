@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_letcher",
+  "id": "aclu/elections-api/county:8638",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8638",
     "area_land":875192042,
     "area_water":2898572,
     "geoid":"21133",

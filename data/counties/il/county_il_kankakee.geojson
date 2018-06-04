@@ -1,7 +1,8 @@
 {
-  "id": "county_il_kankakee",
+  "id": "aclu/elections-api/county:8318",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8318",
     "area_land":1752331448,
     "area_water":12418602,
     "geoid":"17091",

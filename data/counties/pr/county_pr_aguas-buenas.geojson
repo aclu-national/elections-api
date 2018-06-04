@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_aguas-buenas",
+  "id": "aclu/elections-api/county:9896",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9896",
     "area_land":77919490,
     "area_water":28383,
     "geoid":"72007",

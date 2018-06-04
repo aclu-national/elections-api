@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_love",
+  "id": "aclu/elections-api/county:9754",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9754",
     "area_land":1331240598,
     "area_water":47493019,
     "geoid":"40085",

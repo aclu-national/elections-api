@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_mckean",
+  "id": "aclu/elections-api/county:9866",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9866",
     "area_land":2536105992,
     "area_water":13010718,
     "geoid":"42083",

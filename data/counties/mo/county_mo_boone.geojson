@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_boone",
+  "id": "aclu/elections-api/county:8988",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8988",
     "area_land":1775563346,
     "area_water":14239688,
     "geoid":"29019",

@@ -1,7 +1,8 @@
 {
-  "id": "county_al_conecuh",
+  "id": "aclu/elections-api/county:7619",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7619",
     "area_land":2201948618,
     "area_water":6643480,
     "geoid":"01035",

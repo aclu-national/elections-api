@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_nance",
+  "id": "aclu/elections-api/county:9450",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9450",
     "area_land":1143826263,
     "area_water":17085923,
     "geoid":"31125",

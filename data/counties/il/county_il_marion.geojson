@@ -1,7 +1,8 @@
 {
-  "id": "county_il_marion",
+  "id": "aclu/elections-api/county:8330",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8330",
     "area_land":1482448747,
     "area_water":9481542,
     "geoid":"17121",

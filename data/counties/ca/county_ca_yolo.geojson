@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_yolo",
+  "id": "aclu/elections-api/county:7820",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7820",
     "area_land":2628256658,
     "area_water":22688556,
     "geoid":"06113",

@@ -1,7 +1,8 @@
 {
-  "id": "county_la_st-james",
+  "id": "aclu/elections-api/county:8738",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8738",
     "area_land":625582188,
     "area_water":42168610,
     "geoid":"22093",

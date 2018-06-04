@@ -1,7 +1,8 @@
 {
-  "id": "county_id_valley",
+  "id": "aclu/elections-api/county:8271",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8271",
     "area_land":9492623106,
     "area_water":177058013,
     "geoid":"16085",

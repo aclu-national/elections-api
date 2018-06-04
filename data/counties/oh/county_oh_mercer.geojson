@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_mercer",
+  "id": "aclu/elections-api/county:9677",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9677",
     "area_land":1197738404,
     "area_water":28425902,
     "geoid":"39107",

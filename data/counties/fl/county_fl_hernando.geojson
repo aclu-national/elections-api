@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_hernando",
+  "id": "aclu/elections-api/county:7923",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7923",
     "area_land":1224692722,
     "area_water":300863005,
     "geoid":"12053",

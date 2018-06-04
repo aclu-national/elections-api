@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_holmes",
+  "id": "aclu/elections-api/county:7926",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7926",
     "area_land":1239988859,
     "area_water":26637585,
     "geoid":"12059",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_alpena",
+  "id": "aclu/elections-api/county:8812",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8812",
     "area_land":1481123848,
     "area_water":2908714548,
     "geoid":"26007",

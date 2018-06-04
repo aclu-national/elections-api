@@ -1,7 +1,8 @@
 {
-  "id": "county_la_east-feliciana",
+  "id": "aclu/elections-api/county:8710",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8710",
     "area_land":1174307241,
     "area_water":6151756,
     "geoid":"22037",

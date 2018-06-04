@@ -1,7 +1,8 @@
 {
-  "id": "county_al_crenshaw",
+  "id": "aclu/elections-api/county:7622",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7622",
     "area_land":1576952826,
     "area_water":5388561,
     "geoid":"01041",

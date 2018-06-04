@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_jasper",
+  "id": "aclu/elections-api/county:10001",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10001",
     "area_land":1696775859,
     "area_water":114287450,
     "geoid":"45053",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_nash",
+  "id": "aclu/elections-api/county:9298",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9298",
     "area_land":1399739716,
     "area_water":6177826,
     "geoid":"37127",

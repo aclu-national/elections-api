@@ -1,7 +1,8 @@
 {
-  "id": "county_me_penobscot",
+  "id": "aclu/elections-api/county:8802",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8802",
     "area_land":8798662789,
     "area_water":414019982,
     "geoid":"23019",

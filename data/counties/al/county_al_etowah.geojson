@@ -1,7 +1,8 @@
 {
-  "id": "county_al_etowah",
+  "id": "aclu/elections-api/county:7629",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7629",
     "area_land":1386383039,
     "area_water":34559412,
     "geoid":"01055",

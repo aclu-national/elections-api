@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_saratoga",
+  "id": "aclu/elections-api/county:9606",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9606",
     "area_land":2097880370,
     "area_water":87571838,
     "geoid":"36091",

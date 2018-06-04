@@ -1,7 +1,8 @@
 {
-  "id": "county_in_ripley",
+  "id": "aclu/elections-api/county:8443",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8443",
     "area_land":1156236802,
     "area_water":4237459,
     "geoid":"18137",

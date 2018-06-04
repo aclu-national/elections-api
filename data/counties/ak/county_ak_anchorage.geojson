@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_anchorage",
+  "id": "aclu/elections-api/county:7575",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7575",
     "area_land":4419537010,
     "area_water":615526050,
     "geoid":"02020",

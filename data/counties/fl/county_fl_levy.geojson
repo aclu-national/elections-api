@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_levy",
+  "id": "aclu/elections-api/county:7934",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7934",
     "area_land":2896206276,
     "area_water":762912636,
     "geoid":"12075",

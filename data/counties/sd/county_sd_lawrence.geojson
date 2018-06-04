@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_lawrence",
+  "id": "aclu/elections-api/county:10060",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10060",
     "area_land":2072127374,
     "area_water":667509,
     "geoid":"46081",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nh_coos",
+  "id": "aclu/elections-api/county:9484",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9484",
     "area_land":4647904964,
     "area_water":92563568,
     "geoid":"33007",

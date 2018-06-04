@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_mcintosh",
+  "id": "aclu/elections-api/county:9360",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9360",
     "area_land":2524546488,
     "area_water":51817666,
     "geoid":"38051",

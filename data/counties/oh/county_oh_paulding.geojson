@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_paulding",
+  "id": "aclu/elections-api/county:9686",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9686",
     "area_land":1078561239,
     "area_water":6245392,
     "geoid":"39125",

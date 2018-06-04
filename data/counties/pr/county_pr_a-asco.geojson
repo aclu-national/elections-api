@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_a-asco",
+  "id": "aclu/elections-api/county:9892",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9892",
     "area_land":101747426,
     "area_water":14607646,
     "geoid":"72011",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_mercer",
+  "id": "aclu/elections-api/county:8655",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8655",
     "area_land":644463522,
     "area_water":11600781,
     "geoid":"21167",

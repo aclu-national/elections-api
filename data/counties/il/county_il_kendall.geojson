@@ -1,7 +1,8 @@
 {
-  "id": "county_il_kendall",
+  "id": "aclu/elections-api/county:8319",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8319",
     "area_land":829446935,
     "area_water":5141326,
     "geoid":"17093",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_burlington",
+  "id": "aclu/elections-api/county:9493",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9493",
     "area_land":2069239325,
     "area_water":55032009,
     "geoid":"34005",

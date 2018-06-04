@@ -1,7 +1,8 @@
 {
-  "id": "county_md_worcester",
+  "id": "aclu/elections-api/county:8792",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8792",
     "area_land":1212832597,
     "area_water":586845178,
     "geoid":"24047",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_portage",
+  "id": "aclu/elections-api/county:10699",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10699",
     "area_land":2074125052,
     "area_water":56939082,
     "geoid":"55097",

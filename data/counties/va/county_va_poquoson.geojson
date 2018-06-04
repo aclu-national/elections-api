@@ -1,7 +1,8 @@
 {
-  "id": "county_va_poquoson",
+  "id": "aclu/elections-api/county:10558",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10558",
     "area_land":39839069,
     "area_water":163454357,
     "geoid":"51735",

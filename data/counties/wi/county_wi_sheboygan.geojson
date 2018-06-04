@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_sheboygan",
+  "id": "aclu/elections-api/county:10708",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10708",
     "area_land":1324905935,
     "area_water":1967592839,
     "geoid":"55117",

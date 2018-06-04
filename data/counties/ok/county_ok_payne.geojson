@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_payne",
+  "id": "aclu/elections-api/county:9771",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9771",
     "area_land":1773393745,
     "area_water":31771425,
     "geoid":"40119",

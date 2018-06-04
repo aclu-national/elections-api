@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_cherokee",
+  "id": "aclu/elections-api/county:10218",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10218",
     "area_land":2727141725,
     "area_water":23873001,
     "geoid":"48073",

@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_cuyahoga",
+  "id": "aclu/elections-api/county:9641",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9641",
     "area_land":1184013873,
     "area_water":2041890563,
     "geoid":"39035",

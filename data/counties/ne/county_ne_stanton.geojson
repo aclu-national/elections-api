@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_stanton",
+  "id": "aclu/elections-api/county:9471",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9471",
     "area_land":1107496313,
     "area_water":8793984,
     "geoid":"31167",

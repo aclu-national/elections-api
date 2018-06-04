@@ -1,7 +1,8 @@
 {
-  "id": "county_va_russell",
+  "id": "aclu/elections-api/county:10571",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10571",
     "area_land":1226378115,
     "area_water":7588460,
     "geoid":"51167",

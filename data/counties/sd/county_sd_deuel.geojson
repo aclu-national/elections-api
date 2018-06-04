@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_deuel",
+  "id": "aclu/elections-api/county:10039",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10039",
     "area_land":1612756368,
     "area_water":36065238,
     "geoid":"46039",

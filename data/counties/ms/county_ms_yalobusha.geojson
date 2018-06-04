@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_yalobusha",
+  "id": "aclu/elections-api/county:9177",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9177",
     "area_land":1209858146,
     "area_water":72197127,
     "geoid":"28161",

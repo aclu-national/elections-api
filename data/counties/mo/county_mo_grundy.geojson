@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_grundy",
+  "id": "aclu/elections-api/county:9018",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9018",
     "area_land":1127383741,
     "area_water":7118002,
     "geoid":"29079",

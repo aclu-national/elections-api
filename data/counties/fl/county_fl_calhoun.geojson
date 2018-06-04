@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_calhoun",
+  "id": "aclu/elections-api/county:7904",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7904",
     "area_land":1469389207,
     "area_water":18074798,
     "geoid":"12013",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_carbon",
+  "id": "aclu/elections-api/county:9183",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9183",
     "area_land":5303530750,
     "area_water":35410727,
     "geoid":"30009",

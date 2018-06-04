@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_rock",
+  "id": "aclu/elections-api/county:10703",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10703",
     "area_land":1859979851,
     "area_water":20695904,
     "geoid":"55105",

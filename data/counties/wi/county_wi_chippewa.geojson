@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_chippewa",
+  "id": "aclu/elections-api/county:10658",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10658",
     "area_land":2611629940,
     "area_water":85231859,
     "geoid":"55017",

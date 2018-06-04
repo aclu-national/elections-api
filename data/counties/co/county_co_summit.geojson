@@ -1,7 +1,8 @@
 {
-  "id": "county_co_summit",
+  "id": "aclu/elections-api/county:7881",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7881",
     "area_land":1575590697,
     "area_water":28283469,
     "geoid":"08117",

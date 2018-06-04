@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_cumberland",
+  "id": "aclu/elections-api/county:9845",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9845",
     "area_land":1412834149,
     "area_water":12521844,
     "geoid":"42041",

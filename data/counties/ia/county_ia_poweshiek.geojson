@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_poweshiek",
+  "id": "aclu/elections-api/county:8208",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8208",
     "area_land":1514929499,
     "area_water":2977605,
     "geoid":"19157",

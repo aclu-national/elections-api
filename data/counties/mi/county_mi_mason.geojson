@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_mason",
+  "id": "aclu/elections-api/county:8861",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8861",
     "area_land":1281901694,
     "area_water":1935678152,
     "geoid":"26105",

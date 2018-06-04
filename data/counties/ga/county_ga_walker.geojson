@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_walker",
+  "id": "aclu/elections-api/county:8110",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8110",
     "area_land":1156145994,
     "area_water":1672676,
     "geoid":"13295",

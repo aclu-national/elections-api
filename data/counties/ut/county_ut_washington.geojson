@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_washington",
+  "id": "aclu/elections-api/county:10462",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10462",
     "area_land":6285757433,
     "area_water":9061293,
     "geoid":"49053",

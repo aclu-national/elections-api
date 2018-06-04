@@ -1,7 +1,8 @@
 {
-  "id": "county_in_pulaski",
+  "id": "aclu/elections-api/county:8440",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8440",
     "area_land":1123146087,
     "area_water":2291536,
     "geoid":"18131",

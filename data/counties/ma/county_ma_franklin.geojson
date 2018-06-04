@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_franklin",
+  "id": "aclu/elections-api/county:8761",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8761",
     "area_land":1810952650,
     "area_water":65556538,
     "geoid":"25011",

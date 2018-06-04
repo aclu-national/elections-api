@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_eau-claire",
+  "id": "aclu/elections-api/county:10667",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10667",
     "area_land":1652211293,
     "area_water":18848535,
     "geoid":"55035",

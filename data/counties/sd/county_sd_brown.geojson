@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_brown",
+  "id": "aclu/elections-api/county:10026",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10026",
     "area_land":4436728163,
     "area_water":46414610,
     "geoid":"46013",

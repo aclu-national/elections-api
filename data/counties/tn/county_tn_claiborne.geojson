@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_claiborne",
+  "id": "aclu/elections-api/county:10099",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10099",
     "area_land":1125581216,
     "area_water":18090601,
     "geoid":"47025",

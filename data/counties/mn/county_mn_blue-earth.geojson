@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_blue-earth",
+  "id": "aclu/elections-api/county:8898",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8898",
     "area_land":1936830865,
     "area_water":46082217,
     "geoid":"27013",

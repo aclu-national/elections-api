@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_russell",
+  "id": "aclu/elections-api/county:8675",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8675",
     "area_land":656969509,
     "area_water":75674970,
     "geoid":"21207",

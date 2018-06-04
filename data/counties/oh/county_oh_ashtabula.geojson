@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_ashtabula",
+  "id": "aclu/elections-api/county:9627",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9627",
     "area_land":1818360011,
     "area_water":1724498213,
     "geoid":"39007",

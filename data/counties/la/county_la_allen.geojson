@@ -1,7 +1,8 @@
 {
-  "id": "county_la_allen",
+  "id": "aclu/elections-api/county:8693",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8693",
     "area_land":1973083800,
     "area_water":10634064,
     "geoid":"22003",

@@ -1,7 +1,8 @@
 {
-  "id": "county_hi_hawaii",
+  "id": "aclu/elections-api/county:8125",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8125",
     "area_land":10433637860,
     "area_water":2739470030,
     "geoid":"15001",

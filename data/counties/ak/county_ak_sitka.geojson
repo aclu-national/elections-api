@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_sitka",
+  "id": "aclu/elections-api/county:7595",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7595",
     "area_land":7433222810,
     "area_water":5037940435,
     "geoid":"02220",

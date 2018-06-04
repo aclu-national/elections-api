@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_elbert",
+  "id": "aclu/elections-api/county:8016",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8016",
     "area_land":909303700,
     "area_water":59911773,
     "geoid":"13105",

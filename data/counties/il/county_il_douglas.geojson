@@ -1,7 +1,8 @@
 {
-  "id": "county_il_douglas",
+  "id": "aclu/elections-api/county:8293",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8293",
     "area_land":1079156592,
     "area_water":1448702,
     "geoid":"17041",

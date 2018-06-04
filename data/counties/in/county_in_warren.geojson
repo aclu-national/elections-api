@@ -1,7 +1,8 @@
 {
-  "id": "county_in_warren",
+  "id": "aclu/elections-api/county:8460",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8460",
     "area_land":944520568,
     "area_water":4466121,
     "geoid":"18171",

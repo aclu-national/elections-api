@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_montgomery",
+  "id": "aclu/elections-api/county:9870",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9870",
     "area_land":1250824558,
     "area_water":11016543,
     "geoid":"42091",

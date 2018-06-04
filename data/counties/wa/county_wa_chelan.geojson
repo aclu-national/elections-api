@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_chelan",
+  "id": "aclu/elections-api/county:10614",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10614",
     "area_land":7565788660,
     "area_water":189679746,
     "geoid":"53007",

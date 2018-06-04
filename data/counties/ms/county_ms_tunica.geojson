@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_tunica",
+  "id": "aclu/elections-api/county:9168",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9168",
     "area_land":1177602383,
     "area_water":67538891,
     "geoid":"28143",

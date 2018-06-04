@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_rock",
+  "id": "aclu/elections-api/county:8958",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8958",
     "area_land":1249560774,
     "area_water":698231,
     "geoid":"27133",

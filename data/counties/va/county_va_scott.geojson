@@ -1,7 +1,8 @@
 {
-  "id": "county_va_scott",
+  "id": "aclu/elections-api/county:10573",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10573",
     "area_land":1387786118,
     "area_water":8105331,
     "geoid":"51169",

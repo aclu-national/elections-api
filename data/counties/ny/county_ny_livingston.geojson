@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_livingston",
+  "id": "aclu/elections-api/county:9587",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9587",
     "area_land":1636256623,
     "area_water":22006106,
     "geoid":"36051",

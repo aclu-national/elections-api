@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_guayanilla",
+  "id": "aclu/elections-api/county:9922",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9922",
     "area_land":109480387,
     "area_water":56911386,
     "geoid":"72059",

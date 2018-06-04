@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_lake-of-the-woods",
+  "id": "aclu/elections-api/county:8929",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8929",
     "area_land":3361462398,
     "area_water":1247519338,
     "geoid":"27077",

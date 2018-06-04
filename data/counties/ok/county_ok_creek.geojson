@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_creek",
+  "id": "aclu/elections-api/county:9730",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9730",
     "area_land":2460877094,
     "area_water":50957689,
     "geoid":"40037",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_phelps",
+  "id": "aclu/elections-api/county:9456",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9456",
     "area_land":1398048570,
     "area_water":1646534,
     "geoid":"31137",

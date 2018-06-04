@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_wilkinson",
+  "id": "aclu/elections-api/county:9175",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9175",
     "area_land":1756287150,
     "area_water":25019144,
     "geoid":"28157",

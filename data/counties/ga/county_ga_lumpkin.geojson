@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_lumpkin",
+  "id": "aclu/elections-api/county:8057",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8057",
     "area_land":732786481,
     "area_water":3280165,
     "geoid":"13187",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_jefferson",
+  "id": "aclu/elections-api/county:8180",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8180",
     "area_land":1127999784,
     "area_water":3524824,
     "geoid":"19101",

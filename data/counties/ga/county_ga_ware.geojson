@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_ware",
+  "id": "aclu/elections-api/county:8112",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8112",
     "area_land":2312599086,
     "area_water":39076860,
     "geoid":"13299",

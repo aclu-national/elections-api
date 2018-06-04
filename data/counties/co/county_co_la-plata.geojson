@@ -1,7 +1,8 @@
 {
-  "id": "county_co_la-plata",
+  "id": "aclu/elections-api/county:7855",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7855",
     "area_land":4376522002,
     "area_water":25375721,
     "geoid":"08067",

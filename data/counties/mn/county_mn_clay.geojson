@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_clay",
+  "id": "aclu/elections-api/county:8905",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8905",
     "area_land":2707039036,
     "area_water":19306174,
     "geoid":"27027",

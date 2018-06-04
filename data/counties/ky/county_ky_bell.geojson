@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_bell",
+  "id": "aclu/elections-api/county:8578",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8578",
     "area_land":929806778,
     "area_water":5480741,
     "geoid":"21013",

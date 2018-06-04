@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_perquimans",
+  "id": "aclu/elections-api/county:9306",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9306",
     "area_land":640099676,
     "area_water":211829497,
     "geoid":"37143",

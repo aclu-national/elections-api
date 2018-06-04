@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_warren",
+  "id": "aclu/elections-api/county:10175",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10175",
     "area_land":1120619142,
     "area_water":3524884,
     "geoid":"47177",

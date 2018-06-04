@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_leavenworth",
+  "id": "aclu/elections-api/county:8518",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8518",
     "area_land":1200335284,
     "area_water":14221659,
     "geoid":"20103",

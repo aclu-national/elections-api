@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_niobrara",
+  "id": "aclu/elections-api/county:10790",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10790",
     "area_land":6801380679,
     "area_water":4969450,
     "geoid":"56027",

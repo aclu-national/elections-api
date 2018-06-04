@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_monroe",
+  "id": "aclu/elections-api/county:10753",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10753",
     "area_land":1224426774,
     "area_water":2297605,
     "geoid":"54063",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_eureka",
+  "id": "aclu/elections-api/county:9551",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9551",
     "area_land":10814958250,
     "area_water":11082875,
     "geoid":"32011",

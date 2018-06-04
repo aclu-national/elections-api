@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_tama",
+  "id": "aclu/elections-api/county:8215",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8215",
     "area_land":1867411148,
     "area_water":2769421,
     "geoid":"19171",

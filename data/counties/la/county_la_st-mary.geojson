@@ -1,7 +1,8 @@
 {
-  "id": "county_la_st-mary",
+  "id": "aclu/elections-api/county:8742",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8742",
     "area_land":1438845622,
     "area_water":1460445312,
     "geoid":"22101",

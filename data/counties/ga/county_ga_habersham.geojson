@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_habersham",
+  "id": "aclu/elections-api/county:8032",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8032",
     "area_land":716858330,
     "area_water":5814561,
     "geoid":"13137",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_susquehanna",
+  "id": "aclu/elections-api/county:9882",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9882",
     "area_land":2132850304,
     "area_water":22385627,
     "geoid":"42115",

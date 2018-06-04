@@ -1,7 +1,8 @@
 {
-  "id": "county_va_covington",
+  "id": "aclu/elections-api/county:10493",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10493",
     "area_land":14163308,
     "area_water":522024,
     "geoid":"51580",

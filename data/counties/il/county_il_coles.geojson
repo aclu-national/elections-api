@@ -1,7 +1,8 @@
 {
-  "id": "county_il_coles",
+  "id": "aclu/elections-api/county:8287",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8287",
     "area_land":1316459192,
     "area_water":4631825,
     "geoid":"17029",

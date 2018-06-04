@@ -1,7 +1,8 @@
 {
-  "id": "county_co_las-animas",
+  "id": "aclu/elections-api/county:7858",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7858",
     "area_land":12361852569,
     "area_water":6929970,
     "geoid":"08071",

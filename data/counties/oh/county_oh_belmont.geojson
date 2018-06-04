@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_belmont",
+  "id": "aclu/elections-api/county:9630",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9630",
     "area_land":1378212692,
     "area_water":23682282,
     "geoid":"39013",

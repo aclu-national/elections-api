@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_cass",
+  "id": "aclu/elections-api/county:9400",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9400",
     "area_land":1443578140,
     "area_water":22073649,
     "geoid":"31025",

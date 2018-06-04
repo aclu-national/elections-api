@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_garden",
+  "id": "aclu/elections-api/county:9422",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9422",
     "area_land":4414069977,
     "area_water":68874632,
     "geoid":"31069",

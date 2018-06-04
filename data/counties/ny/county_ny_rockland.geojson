@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_rockland",
+  "id": "aclu/elections-api/county:9605",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9605",
     "area_land":449199631,
     "area_water":66861670,
     "geoid":"36087",

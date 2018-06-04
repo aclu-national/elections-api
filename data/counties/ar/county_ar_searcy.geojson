@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_searcy",
+  "id": "aclu/elections-api/county:7732",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7732",
     "area_land":1725176973,
     "area_water":6256687,
     "geoid":"05129",

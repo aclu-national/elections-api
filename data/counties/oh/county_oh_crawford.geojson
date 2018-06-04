@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_crawford",
+  "id": "aclu/elections-api/county:9640",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9640",
     "area_land":1040619677,
     "area_water":2359515,
     "geoid":"39033",

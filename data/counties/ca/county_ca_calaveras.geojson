@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_calaveras",
+  "id": "aclu/elections-api/county:7768",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7768",
     "area_land":2641829199,
     "area_water":43797662,
     "geoid":"06009",

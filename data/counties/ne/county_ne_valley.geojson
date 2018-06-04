@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_valley",
+  "id": "aclu/elections-api/county:9475",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9475",
     "area_land":1471402787,
     "area_water":6076915,
     "geoid":"31175",

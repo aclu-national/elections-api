@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_sumner",
+  "id": "aclu/elections-api/county:8562",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8562",
     "area_land":3060416043,
     "area_water":8602566,
     "geoid":"20191",

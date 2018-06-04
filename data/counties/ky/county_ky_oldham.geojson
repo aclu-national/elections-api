@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_oldham",
+  "id": "aclu/elections-api/county:8664",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8664",
     "area_land":484931825,
     "area_water":23831645,
     "geoid":"21185",

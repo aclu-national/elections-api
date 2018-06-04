@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_miller",
+  "id": "aclu/elections-api/county:9044",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9044",
     "area_land":1534813236,
     "area_water":19159074,
     "geoid":"29131",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_lincoln",
+  "id": "aclu/elections-api/county:10788",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10788",
     "area_land":10555073751,
     "area_water":49947392,
     "geoid":"56023",

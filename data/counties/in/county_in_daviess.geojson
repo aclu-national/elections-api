@@ -1,7 +1,8 @@
 {
-  "id": "county_in_daviess",
+  "id": "aclu/elections-api/county:8388",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8388",
     "area_land":1112375531,
     "area_water":19123262,
     "geoid":"18027",

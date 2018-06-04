@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_clinton",
+  "id": "aclu/elections-api/county:8827",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8827",
     "area_land":1467009545,
     "area_water":21106020,
     "geoid":"26037",

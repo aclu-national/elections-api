@@ -1,7 +1,8 @@
 {
-  "id": "county_me_androscoggin",
+  "id": "aclu/elections-api/county:8793",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8793",
     "area_land":1211961731,
     "area_water":75575386,
     "geoid":"23001",

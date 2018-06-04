@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_washington",
+  "id": "aclu/elections-api/county:8221",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8221",
     "area_land":1473243904,
     "area_water":5353677,
     "geoid":"19183",

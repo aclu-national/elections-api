@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_lowndes",
+  "id": "aclu/elections-api/county:9140",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9140",
     "area_land":1309077220,
     "area_water":28560499,
     "geoid":"28087",

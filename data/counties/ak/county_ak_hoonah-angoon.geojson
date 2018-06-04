@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_hoonah-angoon",
+  "id": "aclu/elections-api/county:7582",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7582",
     "area_land":16981434901,
     "area_water":7808657621,
     "geoid":"02105",

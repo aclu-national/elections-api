@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_jasper",
+  "id": "aclu/elections-api/county:9127",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9127",
     "area_land":1751451429,
     "area_water":3181592,
     "geoid":"28061",

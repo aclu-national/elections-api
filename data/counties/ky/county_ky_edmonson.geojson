@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_edmonson",
+  "id": "aclu/elections-api/county:8602",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8602",
     "area_land":784468319,
     "area_water":13258106,
     "geoid":"21061",

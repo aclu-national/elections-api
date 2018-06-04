@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_hart",
+  "id": "aclu/elections-api/county:8621",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8621",
     "area_land":1068313096,
     "area_water":13912256,
     "geoid":"21099",

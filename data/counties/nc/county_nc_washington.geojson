@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_washington",
+  "id": "aclu/elections-api/county:9328",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9328",
     "area_land":897456200,
     "area_water":195282200,
     "geoid":"37187",

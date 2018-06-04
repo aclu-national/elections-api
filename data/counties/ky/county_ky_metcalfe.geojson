@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_metcalfe",
+  "id": "aclu/elections-api/county:8656",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8656",
     "area_land":750178423,
     "area_water":3999881,
     "geoid":"21169",

@@ -1,7 +1,8 @@
 {
-  "id": "county_in_fayette",
+  "id": "aclu/elections-api/county:8395",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8395",
     "area_land":556901556,
     "area_water":366408,
     "geoid":"18041",

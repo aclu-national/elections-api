@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_houston",
+  "id": "aclu/elections-api/county:8919",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8919",
     "area_land":1429784922,
     "area_water":43495762,
     "geoid":"27055",

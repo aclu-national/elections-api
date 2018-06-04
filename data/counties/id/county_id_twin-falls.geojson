@@ -1,7 +1,8 @@
 {
-  "id": "county_id_twin-falls",
+  "id": "aclu/elections-api/county:8270",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8270",
     "area_land":4977213745,
     "area_water":18063174,
     "geoid":"16083",

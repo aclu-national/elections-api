@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_erie",
+  "id": "aclu/elections-api/county:9576",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9576",
     "area_land":2700590735,
     "area_water":476948860,
     "geoid":"36029",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_humacao",
+  "id": "aclu/elections-api/county:9927",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9927",
     "area_land":115929990,
     "area_water":68988203,
     "geoid":"72069",

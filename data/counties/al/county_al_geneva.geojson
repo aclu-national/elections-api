@@ -1,7 +1,8 @@
 {
-  "id": "county_al_geneva",
+  "id": "aclu/elections-api/county:7632",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7632",
     "area_land":1487870866,
     "area_water":11604964,
     "geoid":"01061",

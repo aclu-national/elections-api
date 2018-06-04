@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_howard",
+  "id": "aclu/elections-api/county:7699",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7699",
     "area_land":1524380220,
     "area_water":17475726,
     "geoid":"05061",

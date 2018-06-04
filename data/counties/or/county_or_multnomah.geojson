@@ -1,7 +1,8 @@
 {
-  "id": "county_or_multnomah",
+  "id": "aclu/elections-api/county:9814",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9814",
     "area_land":1116597726,
     "area_water":88213123,
     "geoid":"41051",

@@ -1,7 +1,8 @@
 {
-  "id": "county_az_cochise",
+  "id": "aclu/elections-api/county:7750",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7750",
     "area_land":15966166113,
     "area_water":137024922,
     "geoid":"04003",

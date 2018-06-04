@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_harnett",
+  "id": "aclu/elections-api/county:9277",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9277",
     "area_land":1541116844,
     "area_water":16361414,
     "geoid":"37085",

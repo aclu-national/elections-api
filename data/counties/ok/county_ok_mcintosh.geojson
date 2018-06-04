@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_mcintosh",
+  "id": "aclu/elections-api/county:9760",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9760",
     "area_land":1601897950,
     "area_water":242913899,
     "geoid":"40091",

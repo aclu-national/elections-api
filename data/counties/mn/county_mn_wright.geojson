@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_wright",
+  "id": "aclu/elections-api/county:8977",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8977",
     "area_land":1712598664,
     "area_water":137298052,
     "geoid":"27171",

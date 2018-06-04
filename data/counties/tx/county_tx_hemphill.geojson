@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_hemphill",
+  "id": "aclu/elections-api/county:10287",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10287",
     "area_land":2347270020,
     "area_water":15205585,
     "geoid":"48211",

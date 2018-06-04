@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_noble",
+  "id": "aclu/elections-api/county:9684",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9684",
     "area_land":1030846457,
     "area_water":16984489,
     "geoid":"39121",

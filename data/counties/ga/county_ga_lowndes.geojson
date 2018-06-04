@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_lowndes",
+  "id": "aclu/elections-api/county:8056",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8056",
     "area_land":1285022595,
     "area_water":37361466,
     "geoid":"13185",

@@ -1,7 +1,8 @@
 {
-  "id": "county_va_goochland",
+  "id": "aclu/elections-api/county:10513",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10513",
     "area_land":726830013,
     "area_water":21963164,
     "geoid":"51075",

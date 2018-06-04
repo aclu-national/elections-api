@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_stephens",
+  "id": "aclu/elections-api/county:9780",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9780",
     "area_land":2253930695,
     "area_water":54690951,
     "geoid":"40137",

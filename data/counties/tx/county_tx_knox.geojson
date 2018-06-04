@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_knox",
+  "id": "aclu/elections-api/county:10319",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10319",
     "area_land":2203109038,
     "area_water":12577261,
     "geoid":"48275",

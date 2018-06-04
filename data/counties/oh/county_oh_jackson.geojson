@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_jackson",
+  "id": "aclu/elections-api/county:9663",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9663",
     "area_land":1088598925,
     "area_water":3167846,
     "geoid":"39079",

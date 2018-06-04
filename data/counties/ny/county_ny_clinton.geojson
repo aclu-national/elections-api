@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_clinton",
+  "id": "aclu/elections-api/county:9571",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9571",
     "area_land":2687771451,
     "area_water":206611024,
     "geoid":"36019",

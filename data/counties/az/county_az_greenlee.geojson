@@ -1,7 +1,8 @@
 {
-  "id": "county_az_greenlee",
+  "id": "aclu/elections-api/county:7754",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7754",
     "area_land":4770701078,
     "area_water":13750461,
     "geoid":"04011",

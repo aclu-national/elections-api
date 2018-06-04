@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_jefferson",
+  "id": "aclu/elections-api/county:9745",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9745",
     "area_land":1965365168,
     "area_water":39497494,
     "geoid":"40067",

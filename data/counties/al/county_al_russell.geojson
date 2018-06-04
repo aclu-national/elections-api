@@ -1,7 +1,8 @@
 {
-  "id": "county_al_russell",
+  "id": "aclu/elections-api/county:7658",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7658",
     "area_land":1660557977,
     "area_water":15661281,
     "geoid":"01113",

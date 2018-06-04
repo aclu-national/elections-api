@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_herkimer",
+  "id": "aclu/elections-api/county:9583",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9583",
     "area_land":3655805548,
     "area_water":120422420,
     "geoid":"36043",

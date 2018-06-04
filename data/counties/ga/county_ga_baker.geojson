@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_baker",
+  "id": "aclu/elections-api/county:7968",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7968",
     "area_land":885665382,
     "area_water":18598655,
     "geoid":"13007",

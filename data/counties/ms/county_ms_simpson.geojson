@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_simpson",
+  "id": "aclu/elections-api/county:9160",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9160",
     "area_land":1525930832,
     "area_water":3378529,
     "geoid":"28127",

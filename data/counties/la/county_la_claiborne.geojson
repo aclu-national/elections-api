@@ -1,7 +1,8 @@
 {
-  "id": "county_la_claiborne",
+  "id": "aclu/elections-api/county:8705",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8705",
     "area_land":1955125391,
     "area_water":32473222,
     "geoid":"22027",

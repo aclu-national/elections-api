@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_le-flore",
+  "id": "aclu/elections-api/county:9751",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9751",
     "area_land":4116222830,
     "area_water":50024113,
     "geoid":"40079",

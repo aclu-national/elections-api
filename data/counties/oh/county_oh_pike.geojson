@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_pike",
+  "id": "aclu/elections-api/county:9689",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9689",
     "area_land":1140324458,
     "area_water":9567612,
     "geoid":"39131",

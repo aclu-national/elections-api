@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_union",
+  "id": "aclu/elections-api/county:9169",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9169",
     "area_land":1076399403,
     "area_water":3387488,
     "geoid":"28145",

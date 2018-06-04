@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_teton",
+  "id": "aclu/elections-api/county:9228",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9228",
     "area_land":5883425292,
     "area_water":52657849,
     "geoid":"30099",

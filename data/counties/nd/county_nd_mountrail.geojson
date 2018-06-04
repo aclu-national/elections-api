@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_mountrail",
+  "id": "aclu/elections-api/county:9365",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9365",
     "area_land":4727469721,
     "area_water":301107657,
     "geoid":"38061",

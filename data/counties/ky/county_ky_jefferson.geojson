@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_jefferson",
+  "id": "aclu/elections-api/county:8627",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8627",
     "area_land":985870988,
     "area_water":44122247,
     "geoid":"21111",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_sarpy",
+  "id": "aclu/elections-api/county:9464",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9464",
     "area_land":618872493,
     "area_water":22209229,
     "geoid":"31153",

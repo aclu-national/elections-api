@@ -1,7 +1,8 @@
 {
-  "id": "county_va_stafford",
+  "id": "aclu/elections-api/county:10578",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10578",
     "area_land":697237227,
     "area_water":28088013,
     "geoid":"51179",

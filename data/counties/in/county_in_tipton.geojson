@@ -1,7 +1,8 @@
 {
-  "id": "county_in_tipton",
+  "id": "aclu/elections-api/county:8454",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8454",
     "area_land":674797600,
     "area_water":68028,
     "geoid":"18159",

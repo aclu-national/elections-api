@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_newberry",
+  "id": "aclu/elections-api/county:10010",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10010",
     "area_land":1631805477,
     "area_water":44657974,
     "geoid":"45071",

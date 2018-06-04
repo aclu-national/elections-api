@@ -1,7 +1,8 @@
 {
-  "id": "county_de_new-castle",
+  "id": "aclu/elections-api/county:7896",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7896",
     "area_land":1104150372,
     "area_water":175375756,
     "geoid":"10003",

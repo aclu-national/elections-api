@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_madison",
+  "id": "aclu/elections-api/county:10141",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10141",
     "area_land":1442901129,
     "area_water":3930429,
     "geoid":"47113",

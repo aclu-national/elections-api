@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_thomas",
+  "id": "aclu/elections-api/county:8563",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8563",
     "area_land":2783425154,
     "area_water":288241,
     "geoid":"20193",

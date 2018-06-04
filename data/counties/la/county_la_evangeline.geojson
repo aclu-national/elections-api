@@ -1,7 +1,8 @@
 {
-  "id": "county_la_evangeline",
+  "id": "aclu/elections-api/county:8711",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8711",
     "area_land":1715552082,
     "area_water":44665790,
     "geoid":"22039",

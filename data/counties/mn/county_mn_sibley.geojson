@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_sibley",
+  "id": "aclu/elections-api/county:8962",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8962",
     "area_land":1524941287,
     "area_water":30470667,
     "geoid":"27143",

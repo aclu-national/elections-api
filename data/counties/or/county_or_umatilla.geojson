@@ -1,7 +1,8 @@
 {
-  "id": "county_or_umatilla",
+  "id": "aclu/elections-api/county:9818",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9818",
     "area_land":8327941915,
     "area_water":41647897,
     "geoid":"41059",

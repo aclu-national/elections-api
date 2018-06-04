@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_coahoma",
+  "id": "aclu/elections-api/county:9110",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9110",
     "area_land":1431035290,
     "area_water":79322563,
     "geoid":"28027",

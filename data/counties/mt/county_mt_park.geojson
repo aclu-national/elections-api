@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_park",
+  "id": "aclu/elections-api/county:9212",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9212",
     "area_land":7258393601,
     "area_water":27856467,
     "geoid":"30067",

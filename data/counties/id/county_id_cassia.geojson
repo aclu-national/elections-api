@@ -1,7 +1,8 @@
 {
-  "id": "county_id_cassia",
+  "id": "aclu/elections-api/county:8244",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8244",
     "area_land":6644895767,
     "area_water":39160685,
     "geoid":"16031",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_schoharie",
+  "id": "aclu/elections-api/county:9608",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9608",
     "area_land":1610503572,
     "area_water":11676949,
     "geoid":"36095",

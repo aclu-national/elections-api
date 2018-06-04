@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_cross",
+  "id": "aclu/elections-api/county:7687",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7687",
     "area_land":1596421812,
     "area_water":15344834,
     "geoid":"05037",

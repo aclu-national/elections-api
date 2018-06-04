@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_kings",
+  "id": "aclu/elections-api/county:9585",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9585",
     "area_land":179672197,
     "area_water":71097153,
     "geoid":"36047",

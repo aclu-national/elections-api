@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_albany",
+  "id": "aclu/elections-api/county:9562",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9562",
     "area_land":1354083642,
     "area_water":27161700,
     "geoid":"36001",

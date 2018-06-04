@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_pike",
+  "id": "aclu/elections-api/county:9153",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9153",
     "area_land":1059350502,
     "area_water":4341105,
     "geoid":"28113",

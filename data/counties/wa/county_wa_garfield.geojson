@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_garfield",
+  "id": "aclu/elections-api/county:10622",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10622",
     "area_land":1841054914,
     "area_water":19294817,
     "geoid":"53023",

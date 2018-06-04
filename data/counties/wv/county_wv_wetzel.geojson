@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_wetzel",
+  "id": "aclu/elections-api/county:10773",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10773",
     "area_land":927380674,
     "area_water":8458366,
     "geoid":"54103",

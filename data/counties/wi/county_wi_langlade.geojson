@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_langlade",
+  "id": "aclu/elections-api/county:10683",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10683",
     "area_land":2254971901,
     "area_water":44403904,
     "geoid":"55067",

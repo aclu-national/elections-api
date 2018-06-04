@@ -1,7 +1,8 @@
 {
-  "id": "county_la_madison",
+  "id": "aclu/elections-api/county:8724",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8724",
     "area_land":1617282478,
     "area_water":68539547,
     "geoid":"22065",

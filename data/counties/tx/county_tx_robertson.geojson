@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_robertson",
+  "id": "aclu/elections-api/county:10379",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10379",
     "area_land":2214719320,
     "area_water":26358042,
     "geoid":"48395",

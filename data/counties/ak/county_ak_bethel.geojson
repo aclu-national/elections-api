@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_bethel",
+  "id": "aclu/elections-api/county:7576",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7576",
     "area_land":105228855314,
     "area_water":12768607553,
     "geoid":"02050",

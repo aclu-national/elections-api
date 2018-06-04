@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_williamson",
+  "id": "aclu/elections-api/county:10180",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10180",
     "area_land":1508923182,
     "area_water":3012752,
     "geoid":"47187",

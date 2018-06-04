@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_boone",
+  "id": "aclu/elections-api/county:8579",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8579",
     "area_land":637796403,
     "area_water":26558591,
     "geoid":"21015",

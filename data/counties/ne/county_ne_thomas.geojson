@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_thomas",
+  "id": "aclu/elections-api/county:9473",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9473",
     "area_land":1846403658,
     "area_water":2028358,
     "geoid":"31171",

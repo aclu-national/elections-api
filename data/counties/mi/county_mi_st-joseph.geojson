@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_st-joseph",
+  "id": "aclu/elections-api/county:8886",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8886",
     "area_land":1296530601,
     "area_water":52921099,
     "geoid":"26149",

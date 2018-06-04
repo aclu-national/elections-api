@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_ellsworth",
+  "id": "aclu/elections-api/county:8493",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8493",
     "area_land":1854037822,
     "area_water":19262994,
     "geoid":"20053",

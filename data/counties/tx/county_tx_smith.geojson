@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_smith",
+  "id": "aclu/elections-api/county:10393",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10393",
     "area_land":2386701635,
     "area_water":73066272,
     "geoid":"48423",

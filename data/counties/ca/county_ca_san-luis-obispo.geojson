@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_san-luis-obispo",
+  "id": "aclu/elections-api/county:7803",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7803",
     "area_land":8548552397,
     "area_water":815578711,
     "geoid":"06079",

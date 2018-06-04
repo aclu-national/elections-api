@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_fulton",
+  "id": "aclu/elections-api/county:9649",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9649",
     "area_land":1050092648,
     "area_water":4621138,
     "geoid":"39051",

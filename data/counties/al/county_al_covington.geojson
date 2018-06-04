@@ -1,7 +1,8 @@
 {
-  "id": "county_al_covington",
+  "id": "aclu/elections-api/county:7621",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7621",
     "area_land":2668871125,
     "area_water":34489285,
     "geoid":"01039",

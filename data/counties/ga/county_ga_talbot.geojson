@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_talbot",
+  "id": "aclu/elections-api/county:8094",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8094",
     "area_land":1013662791,
     "area_water":8766849,
     "geoid":"13263",

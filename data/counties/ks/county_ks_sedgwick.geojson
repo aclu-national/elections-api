@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_sedgwick",
+  "id": "aclu/elections-api/county:8553",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8553",
     "area_land":2583496854,
     "area_water":30113787,
     "geoid":"20173",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_fleming",
+  "id": "aclu/elections-api/county:8606",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8606",
     "area_land":902719721,
     "area_water":7185948,
     "geoid":"21069",

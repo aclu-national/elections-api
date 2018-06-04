@@ -1,7 +1,8 @@
 {
-  "id": "county_az_coconino",
+  "id": "aclu/elections-api/county:7751",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7751",
     "area_land":48222181220,
     "area_water":110085803,
     "geoid":"04005",

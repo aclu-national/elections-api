@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_genesee",
+  "id": "aclu/elections-api/county:9580",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9580",
     "area_land":1276698028,
     "area_water":6142605,
     "geoid":"36037",

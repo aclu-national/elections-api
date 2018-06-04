@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_irwin",
+  "id": "aclu/elections-api/county:8041",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8041",
     "area_land":917793238,
     "area_water":21758147,
     "geoid":"13155",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_saline",
+  "id": "aclu/elections-api/county:9463",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9463",
     "area_land":1486698710,
     "area_water":5934626,
     "geoid":"31151",

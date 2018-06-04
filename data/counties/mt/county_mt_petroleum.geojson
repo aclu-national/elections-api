@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_petroleum",
+  "id": "aclu/elections-api/county:9213",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9213",
     "area_land":4288047856,
     "area_water":48927318,
     "geoid":"30069",

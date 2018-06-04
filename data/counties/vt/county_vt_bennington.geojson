@@ -1,7 +1,8 @@
 {
-  "id": "county_vt_bennington",
+  "id": "aclu/elections-api/county:10598",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10598",
     "area_land":1748244447,
     "area_water":6928011,
     "geoid":"50003",

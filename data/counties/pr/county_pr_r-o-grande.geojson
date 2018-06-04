@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_r-o-grande",
+  "id": "aclu/elections-api/county:9951",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9951",
     "area_land":157008580,
     "area_water":74876344,
     "geoid":"72119",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_vieques",
+  "id": "aclu/elections-api/county:9966",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9966",
     "area_land":131527813,
     "area_water":552206400,
     "geoid":"72147",

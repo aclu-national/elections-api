@@ -1,7 +1,8 @@
 {
-  "id": "county_il_mcdonough",
+  "id": "aclu/elections-api/county:8334",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8334",
     "area_land":1526558090,
     "area_water":2012555,
     "geoid":"17109",

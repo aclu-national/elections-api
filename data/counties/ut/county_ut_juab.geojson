@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_juab",
+  "id": "aclu/elections-api/county:10447",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10447",
     "area_land":8784407434,
     "area_water":36542088,
     "geoid":"49023",

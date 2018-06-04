@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_hughes",
+  "id": "aclu/elections-api/county:10052",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10052",
     "area_land":1920594002,
     "area_water":153254264,
     "geoid":"46065",

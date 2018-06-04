@@ -1,7 +1,8 @@
 {
-  "id": "county_ri_bristol",
+  "id": "aclu/elections-api/county:9970",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9970",
     "area_land":62513687,
     "area_water":53346252,
     "geoid":"44001",

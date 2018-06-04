@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_lamb",
+  "id": "aclu/elections-api/county:10322",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10322",
     "area_land":2631897577,
     "area_water":3973764,
     "geoid":"48279",

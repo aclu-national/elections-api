@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_indian-river",
+  "id": "aclu/elections-api/county:7927",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7927",
     "area_land":1302197699,
     "area_water":295585012,
     "geoid":"12061",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_meeker",
+  "id": "aclu/elections-api/county:8938",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8938",
     "area_land":1575108557,
     "area_water":94852453,
     "geoid":"27093",

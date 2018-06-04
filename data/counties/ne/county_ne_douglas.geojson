@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_douglas",
+  "id": "aclu/elections-api/county:9415",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9415",
     "area_land":850764861,
     "area_water":28139501,
     "geoid":"31055",

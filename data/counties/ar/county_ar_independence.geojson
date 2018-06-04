@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_independence",
+  "id": "aclu/elections-api/county:7700",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7700",
     "area_land":1978631574,
     "area_water":19593589,
     "geoid":"05063",

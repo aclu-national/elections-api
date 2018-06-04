@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_mercer",
+  "id": "aclu/elections-api/county:9867",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9867",
     "area_land":1741978098,
     "area_water":25963051,
     "geoid":"42085",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_howard",
+  "id": "aclu/elections-api/county:8174",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8174",
     "area_land":1225706339,
     "area_water":927963,
     "geoid":"19089",

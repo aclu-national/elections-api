@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_jasper",
+  "id": "aclu/elections-api/county:8043",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8043",
     "area_land":953536358,
     "area_water":13732175,
     "geoid":"13159",

@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_sandusky",
+  "id": "aclu/elections-api/county:9695",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9695",
     "area_land":1057906601,
     "area_water":23958602,
     "geoid":"39143",

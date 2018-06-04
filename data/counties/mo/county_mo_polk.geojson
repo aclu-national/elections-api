@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_polk",
+  "id": "aclu/elections-api/county:9062",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9062",
     "area_land":1646005964,
     "area_water":17838300,
     "geoid":"29167",

@@ -1,7 +1,8 @@
 {
-  "id": "county_il_massac",
+  "id": "aclu/elections-api/county:8333",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8333",
     "area_land":614391211,
     "area_water":11903724,
     "geoid":"17127",

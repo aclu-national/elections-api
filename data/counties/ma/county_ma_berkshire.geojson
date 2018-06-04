@@ -1,7 +1,8 @@
 {
-  "id": "county_ma_berkshire",
+  "id": "aclu/elections-api/county:8757",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8757",
     "area_land":2400678868,
     "area_water":50642922,
     "geoid":"25003",

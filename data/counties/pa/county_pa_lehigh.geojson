@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_lehigh",
+  "id": "aclu/elections-api/county:9863",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9863",
     "area_land":894010291,
     "area_water":7898528,
     "geoid":"42077",

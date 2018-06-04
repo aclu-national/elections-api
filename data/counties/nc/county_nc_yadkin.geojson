@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_yadkin",
+  "id": "aclu/elections-api/county:9333",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9333",
     "area_land":867492667,
     "area_water":7236018,
     "geoid":"37197",

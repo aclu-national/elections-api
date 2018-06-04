@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_ferry",
+  "id": "aclu/elections-api/county:10620",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10620",
     "area_land":5706360692,
     "area_water":140294376,
     "geoid":"53019",

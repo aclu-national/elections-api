@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_carroll",
+  "id": "aclu/elections-api/county:8995",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8995",
     "area_land":1799061775,
     "area_water":17533485,
     "geoid":"29033",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_loudon",
+  "id": "aclu/elections-api/county:10139",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10139",
     "area_land":593760987,
     "area_water":46923925,
     "geoid":"47105",

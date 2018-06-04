@@ -1,7 +1,8 @@
 {
-  "id": "county_or_harney",
+  "id": "aclu/elections-api/county:9801",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9801",
     "area_land":26248071434,
     "area_water":241568256,
     "geoid":"41025",

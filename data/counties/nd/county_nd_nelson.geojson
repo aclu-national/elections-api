@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_nelson",
+  "id": "aclu/elections-api/county:9366",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9366",
     "area_land":2542787677,
     "area_water":70033883,
     "geoid":"38063",

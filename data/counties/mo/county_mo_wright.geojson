@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_wright",
+  "id": "aclu/elections-api/county:9092",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9092",
     "area_land":1765780148,
     "area_water":3533325,
     "geoid":"29229",

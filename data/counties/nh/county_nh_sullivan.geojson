@@ -1,7 +1,8 @@
 {
-  "id": "county_nh_sullivan",
+  "id": "aclu/elections-api/county:9490",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9490",
     "area_land":1392157812,
     "area_water":37865613,
     "geoid":"33019",

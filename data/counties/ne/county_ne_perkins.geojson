@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_perkins",
+  "id": "aclu/elections-api/county:9455",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9455",
     "area_land":2287828022,
     "area_water":2840176,
     "geoid":"31135",

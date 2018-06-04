@@ -1,7 +1,8 @@
 {
-  "id": "county_al_calhoun",
+  "id": "aclu/elections-api/county:7609",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7609",
     "area_land":1569244078,
     "area_water":16573120,
     "geoid":"01015",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_schenectady",
+  "id": "aclu/elections-api/county:9607",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9607",
     "area_land":529856261,
     "area_water":12600384,
     "geoid":"36093",

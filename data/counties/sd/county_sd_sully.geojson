@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_sully",
+  "id": "aclu/elections-api/county:10079",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10079",
     "area_land":2607664601,
     "area_water":164384696,
     "geoid":"46119",

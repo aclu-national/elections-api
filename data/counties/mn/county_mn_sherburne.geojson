@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_sherburne",
+  "id": "aclu/elections-api/county:8961",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8961",
     "area_land":1121229505,
     "area_water":46967228,
     "geoid":"27141",

@@ -1,7 +1,8 @@
 {
-  "id": "county_al_greene",
+  "id": "aclu/elections-api/county:7633",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7633",
     "area_land":1675782063,
     "area_water":33416143,
     "geoid":"01063",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ct_new-haven",
+  "id": "aclu/elections-api/county:7890",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7890",
     "area_land":1565653728,
     "area_water":667092277,
     "geoid":"09009",

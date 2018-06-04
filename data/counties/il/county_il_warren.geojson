@@ -1,7 +1,8 @@
 {
-  "id": "county_il_warren",
+  "id": "aclu/elections-api/county:8366",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8366",
     "area_land":1404823489,
     "area_water":1674135,
     "geoid":"17187",

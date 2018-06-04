@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_maury",
+  "id": "aclu/elections-api/county:10144",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10144",
     "area_land":1588021148,
     "area_water":6319196,
     "geoid":"47119",

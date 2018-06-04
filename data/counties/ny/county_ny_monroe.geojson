@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_monroe",
+  "id": "aclu/elections-api/county:9589",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9589",
     "area_land":1702151431,
     "area_water":1837595092,
     "geoid":"36055",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_loving",
+  "id": "aclu/elections-api/county:10332",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10332",
     "area_land":1732059386,
     "area_water":20151852,
     "geoid":"48301",

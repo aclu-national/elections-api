@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_phelps",
+  "id": "aclu/elections-api/county:9059",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9059",
     "area_land":1739898257,
     "area_water":6587831,
     "geoid":"29161",

@@ -1,7 +1,8 @@
 {
-  "id": "county_az_pima",
+  "id": "aclu/elections-api/county:7759",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7759",
     "area_land":23794788865,
     "area_water":5259325,
     "geoid":"04019",

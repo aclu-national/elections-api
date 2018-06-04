@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_trinity",
+  "id": "aclu/elections-api/county:7816",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7816",
     "area_land":8234265086,
     "area_water":73407949,
     "geoid":"06105",

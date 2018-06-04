@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_columbia",
+  "id": "aclu/elections-api/county:7682",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7682",
     "area_land":1983889573,
     "area_water":1990757,
     "geoid":"05027",

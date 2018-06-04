@@ -1,7 +1,8 @@
 {
-  "id": "county_as_swains-island",
+  "id": "aclu/elections-api/county:7747",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7747",
     "area_land":2432605,
     "area_water":149170814,
     "geoid":"60040",

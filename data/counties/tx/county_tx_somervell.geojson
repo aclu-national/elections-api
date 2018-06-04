@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_somervell",
+  "id": "aclu/elections-api/county:10394",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10394",
     "area_land":482938558,
     "area_water":14221312,
     "geoid":"48425",

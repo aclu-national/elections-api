@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_mahnomen",
+  "id": "aclu/elections-api/county:8934",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8934",
     "area_land":1444886580,
     "area_water":64851262,
     "geoid":"27087",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_wallace",
+  "id": "aclu/elections-api/county:8566",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8566",
     "area_land":2366348295,
     "area_water":140932,
     "geoid":"20199",

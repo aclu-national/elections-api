@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_big-stone",
+  "id": "aclu/elections-api/county:8897",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8897",
     "area_land":1292477791,
     "area_water":75340289,
     "geoid":"27011",

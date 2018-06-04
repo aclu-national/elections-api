@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_orocovis",
+  "id": "aclu/elections-api/county:9946",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9946",
     "area_land":164788358,
     "area_water":402899,
     "geoid":"72107",

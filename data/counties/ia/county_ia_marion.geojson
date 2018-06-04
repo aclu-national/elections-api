@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_marion",
+  "id": "aclu/elections-api/county:8192",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8192",
     "area_land":1436124182,
     "area_water":41487001,
     "geoid":"19125",

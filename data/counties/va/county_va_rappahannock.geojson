@@ -1,7 +1,8 @@
 {
-  "id": "county_va_rappahannock",
+  "id": "aclu/elections-api/county:10566",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10566",
     "area_land":689901003,
     "area_water":2142395,
     "geoid":"51157",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_cumberland",
+  "id": "aclu/elections-api/county:9496",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9496",
     "area_land":1251898435,
     "area_water":503712955,
     "geoid":"34011",

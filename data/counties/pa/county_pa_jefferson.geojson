@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_jefferson",
+  "id": "aclu/elections-api/county:9857",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9857",
     "area_land":1689784203,
     "area_water":11321806,
     "geoid":"42065",

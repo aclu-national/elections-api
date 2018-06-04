@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_cherokee",
+  "id": "aclu/elections-api/county:8147",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8147",
     "area_land":1494180443,
     "area_water":423160,
     "geoid":"19035",

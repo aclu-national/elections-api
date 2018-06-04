@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_dane",
+  "id": "aclu/elections-api/county:10662",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10662",
     "area_land":3098774789,
     "area_water":106341440,
     "geoid":"55025",

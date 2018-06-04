@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_alcorn",
+  "id": "aclu/elections-api/county:9098",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9098",
     "area_land":1036100568,
     "area_water":3417891,
     "geoid":"28003",

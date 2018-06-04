@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_seward",
+  "id": "aclu/elections-api/county:9467",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9467",
     "area_land":1479990669,
     "area_water":11547536,
     "geoid":"31159",

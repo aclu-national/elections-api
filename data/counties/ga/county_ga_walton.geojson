@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_walton",
+  "id": "aclu/elections-api/county:8111",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8111",
     "area_land":845768028,
     "area_water":8927725,
     "geoid":"13297",

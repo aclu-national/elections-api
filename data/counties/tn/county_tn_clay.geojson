@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_clay",
+  "id": "aclu/elections-api/county:10100",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10100",
     "area_land":612626310,
     "area_water":59071215,
     "geoid":"47027",

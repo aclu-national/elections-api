@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_yazoo",
+  "id": "aclu/elections-api/county:9178",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9178",
     "area_land":2387955940,
     "area_water":31503956,
     "geoid":"28163",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_martin",
+  "id": "aclu/elections-api/county:8648",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8648",
     "area_land":594701951,
     "area_water":2564962,
     "geoid":"21159",

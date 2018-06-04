@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_traverse",
+  "id": "aclu/elections-api/county:8969",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8969",
     "area_land":1486320975,
     "area_water":31025234,
     "geoid":"27155",

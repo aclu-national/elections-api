@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_fulton",
+  "id": "aclu/elections-api/county:9579",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9579",
     "area_land":1283234678,
     "area_water":96916405,
     "geoid":"36035",

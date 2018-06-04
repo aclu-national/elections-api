@@ -1,7 +1,8 @@
 {
-  "id": "county_co_pueblo",
+  "id": "aclu/elections-api/county:7873",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7873",
     "area_land":6180089507,
     "area_water":30094812,
     "geoid":"08101",

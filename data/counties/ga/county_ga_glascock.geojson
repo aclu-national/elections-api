@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_glascock",
+  "id": "aclu/elections-api/county:8026",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8026",
     "area_land":372284127,
     "area_water":1847843,
     "geoid":"13125",

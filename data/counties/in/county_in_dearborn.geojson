@@ -1,7 +1,8 @@
 {
-  "id": "county_in_dearborn",
+  "id": "aclu/elections-api/county:8389",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8389",
     "area_land":790138587,
     "area_water":6033369,
     "geoid":"18029",

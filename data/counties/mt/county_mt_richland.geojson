@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_richland",
+  "id": "aclu/elections-api/county:9220",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9220",
     "area_land":5398268971,
     "area_water":49652120,
     "geoid":"30083",

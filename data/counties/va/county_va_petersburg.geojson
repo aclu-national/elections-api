@@ -1,7 +1,8 @@
 {
-  "id": "county_va_petersburg",
+  "id": "aclu/elections-api/county:10556",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10556",
     "area_land":58813627,
     "area_water":609780,
     "geoid":"51730",

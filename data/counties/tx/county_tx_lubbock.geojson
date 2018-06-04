@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_lubbock",
+  "id": "aclu/elections-api/county:10333",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10333",
     "area_land":2319602826,
     "area_water":13205756,
     "geoid":"48303",

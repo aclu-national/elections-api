@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_jackson",
+  "id": "aclu/elections-api/county:8626",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8626",
     "area_land":894055741,
     "area_water":3407438,
     "geoid":"21109",

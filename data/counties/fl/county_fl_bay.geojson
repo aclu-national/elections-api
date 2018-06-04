@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_bay",
+  "id": "aclu/elections-api/county:7900",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7900",
     "area_land":1964404472,
     "area_water":711449254,
     "geoid":"12005",

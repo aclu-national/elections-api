@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_lake",
+  "id": "aclu/elections-api/county:10059",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10059",
     "area_land":1457893335,
     "area_water":31769730,
     "geoid":"46079",

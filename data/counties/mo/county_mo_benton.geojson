@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_benton",
+  "id": "aclu/elections-api/county:8986",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8986",
     "area_land":1823463551,
     "area_water":125579913,
     "geoid":"29015",

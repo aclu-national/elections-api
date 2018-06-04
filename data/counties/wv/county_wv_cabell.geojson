@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_cabell",
+  "id": "aclu/elections-api/county:10727",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10727",
     "area_land":727837364,
     "area_water":18122707,
     "geoid":"54011",

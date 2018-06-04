@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_duplin",
+  "id": "aclu/elections-api/county:9265",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9265",
     "area_land":2110160392,
     "area_water":14193280,
     "geoid":"37061",

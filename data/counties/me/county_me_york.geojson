@@ -1,7 +1,8 @@
 {
-  "id": "county_me_york",
+  "id": "aclu/elections-api/county:8808",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8808",
     "area_land":2566235154,
     "area_water":722302593,
     "geoid":"23031",

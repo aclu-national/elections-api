@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_santa-isabel",
+  "id": "aclu/elections-api/county:9959",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9959",
     "area_land":88144282,
     "area_water":111140897,
     "geoid":"72133",

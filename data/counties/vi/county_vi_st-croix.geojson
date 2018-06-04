@@ -1,7 +1,8 @@
 {
-  "id": "county_vi_st-croix",
+  "id": "aclu/elections-api/county:10594",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10594",
     "area_land":215914994,
     "area_water":645644841,
     "geoid":"78010",

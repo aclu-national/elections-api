@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_columbus",
+  "id": "aclu/elections-api/county:9258",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9258",
     "area_land":2429714643,
     "area_water":43719396,
     "geoid":"37047",

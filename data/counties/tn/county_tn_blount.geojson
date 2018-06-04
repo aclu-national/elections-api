@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_blount",
+  "id": "aclu/elections-api/county:10091",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10091",
     "area_land":1447309647,
     "area_water":20304906,
     "geoid":"47009",

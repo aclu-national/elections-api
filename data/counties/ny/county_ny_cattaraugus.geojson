@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_cattaraugus",
+  "id": "aclu/elections-api/county:9566",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9566",
     "area_land":3388633499,
     "area_water":36608250,
     "geoid":"36009",

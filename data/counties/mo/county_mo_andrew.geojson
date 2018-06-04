@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_andrew",
+  "id": "aclu/elections-api/county:8980",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8980",
     "area_land":1120659795,
     "area_water":9686701,
     "geoid":"29003",

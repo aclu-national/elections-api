@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_montgomery",
+  "id": "aclu/elections-api/county:9296",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9296",
     "area_land":1273046508,
     "area_water":25919921,
     "geoid":"37123",

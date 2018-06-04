@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_yabucoa",
+  "id": "aclu/elections-api/county:9968",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9968",
     "area_land":143005178,
     "area_water":72592521,
     "geoid":"72151",

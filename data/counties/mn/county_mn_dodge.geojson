@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_dodge",
+  "id": "aclu/elections-api/county:8911",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8911",
     "area_land":1137724830,
     "area_water":800245,
     "geoid":"27039",

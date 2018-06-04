@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_dawson",
+  "id": "aclu/elections-api/county:10239",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10239",
     "area_land":2331781556,
     "area_water":4720730,
     "geoid":"48115",

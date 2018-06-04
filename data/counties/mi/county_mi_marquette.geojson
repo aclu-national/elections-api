@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_marquette",
+  "id": "aclu/elections-api/county:8860",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8860",
     "area_land":4685386476,
     "area_water":4185372277,
     "geoid":"26103",

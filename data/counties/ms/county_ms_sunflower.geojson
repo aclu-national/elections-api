@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_sunflower",
+  "id": "aclu/elections-api/county:9163",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9163",
     "area_land":1807187009,
     "area_water":23747315,
     "geoid":"28133",

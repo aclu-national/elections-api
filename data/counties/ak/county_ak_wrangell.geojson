@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_wrangell",
+  "id": "aclu/elections-api/county:7599",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7599",
     "area_land":6619614514,
     "area_water":2384746838,
     "geoid":"02275",

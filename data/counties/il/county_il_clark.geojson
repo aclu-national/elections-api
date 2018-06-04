@@ -1,7 +1,8 @@
 {
-  "id": "county_il_clark",
+  "id": "aclu/elections-api/county:8284",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8284",
     "area_land":1298676804,
     "area_water":8796711,
     "geoid":"17023",

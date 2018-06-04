@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_stevens",
+  "id": "aclu/elections-api/county:10643",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10643",
     "area_land":6416413114,
     "area_water":163008888,
     "geoid":"53065",

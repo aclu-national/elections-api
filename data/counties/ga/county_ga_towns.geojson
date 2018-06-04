@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_towns",
+  "id": "aclu/elections-api/county:8103",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8103",
     "area_land":431313630,
     "area_water":13975835,
     "geoid":"13281",

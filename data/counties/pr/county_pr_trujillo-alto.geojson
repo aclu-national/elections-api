@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_trujillo-alto",
+  "id": "aclu/elections-api/county:9962",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9962",
     "area_land":53786135,
     "area_water":1592601,
     "geoid":"72139",

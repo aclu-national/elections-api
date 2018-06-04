@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_keweenaw",
+  "id": "aclu/elections-api/county:8850",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8850",
     "area_land":1398883253,
     "area_water":14053673397,
     "geoid":"26083",

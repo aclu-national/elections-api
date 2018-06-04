@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_neosho",
+  "id": "aclu/elections-api/county:8533",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8533",
     "area_land":1480106489,
     "area_water":16374155,
     "geoid":"20133",

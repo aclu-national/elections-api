@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_sioux",
+  "id": "aclu/elections-api/county:9470",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9470",
     "area_land":5352538105,
     "area_water":1872668,
     "geoid":"31165",

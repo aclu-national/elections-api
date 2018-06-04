@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_arthur",
+  "id": "aclu/elections-api/county:9390",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9390",
     "area_land":1852759732,
     "area_water":7644719,
     "geoid":"31005",

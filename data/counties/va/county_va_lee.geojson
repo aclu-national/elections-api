@@ -1,7 +1,8 @@
 {
-  "id": "county_va_lee",
+  "id": "aclu/elections-api/county:10531",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10531",
     "area_land":1127622408,
     "area_water":4896872,
     "geoid":"51105",

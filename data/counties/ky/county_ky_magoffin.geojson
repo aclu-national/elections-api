@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_magoffin",
+  "id": "aclu/elections-api/county:8645",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8645",
     "area_land":798866697,
     "area_water":1847051,
     "geoid":"21153",

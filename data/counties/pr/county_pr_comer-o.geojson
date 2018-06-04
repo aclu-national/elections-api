@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_comer-o",
+  "id": "aclu/elections-api/county:9914",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9914",
     "area_land":73557184,
     "area_water":319738,
     "geoid":"72045",

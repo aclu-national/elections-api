@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_jefferson",
+  "id": "aclu/elections-api/county:10131",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10131",
     "area_land":711873311,
     "area_water":102176879,
     "geoid":"47089",

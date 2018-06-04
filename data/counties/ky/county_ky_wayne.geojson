@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_wayne",
+  "id": "aclu/elections-api/county:8687",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8687",
     "area_land":1186687833,
     "area_water":67286710,
     "geoid":"21231",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_clark",
+  "id": "aclu/elections-api/county:10616",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10616",
     "area_land":1627728322,
     "area_water":70264672,
     "geoid":"53011",

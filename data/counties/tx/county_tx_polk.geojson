@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_polk",
+  "id": "aclu/elections-api/county:10368",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10368",
     "area_land":2737733230,
     "area_water":136271619,
     "geoid":"48373",

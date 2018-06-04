@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_sullivan",
+  "id": "aclu/elections-api/county:9083",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9083",
     "area_land":1678264466,
     "area_water":9123184,
     "geoid":"29211",

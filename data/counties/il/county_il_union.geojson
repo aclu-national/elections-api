@@ -1,7 +1,8 @@
 {
-  "id": "county_il_union",
+  "id": "aclu/elections-api/county:8363",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8363",
     "area_land":1070855939,
     "area_water":22502264,
     "geoid":"17181",

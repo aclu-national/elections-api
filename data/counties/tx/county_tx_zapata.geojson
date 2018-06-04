@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_zapata",
+  "id": "aclu/elections-api/county:10434",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10434",
     "area_land":2585876220,
     "area_water":154370982,
     "geoid":"48505",

@@ -1,7 +1,8 @@
 {
-  "id": "county_il_effingham",
+  "id": "aclu/elections-api/county:8297",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8297",
     "area_land":1240027659,
     "area_water":3183217,
     "geoid":"17049",

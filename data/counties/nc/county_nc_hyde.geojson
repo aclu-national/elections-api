@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_hyde",
+  "id": "aclu/elections-api/county:9282",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9282",
     "area_land":1585933592,
     "area_water":2192961833,
     "geoid":"37095",

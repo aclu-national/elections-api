@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_watonwan",
+  "id": "aclu/elections-api/county:8974",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8974",
     "area_land":1126526382,
     "area_water":12370135,
     "geoid":"27165",

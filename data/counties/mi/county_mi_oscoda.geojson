@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_oscoda",
+  "id": "aclu/elections-api/county:8876",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8876",
     "area_land":1465088065,
     "area_water":15136485,
     "geoid":"26135",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_douglas",
+  "id": "aclu/elections-api/county:9548",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9548",
     "area_land":1838170316,
     "area_water":72317570,
     "geoid":"32005",

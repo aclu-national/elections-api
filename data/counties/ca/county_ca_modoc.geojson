@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_modoc",
+  "id": "aclu/elections-api/county:7788",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7788",
     "area_land":10140960164,
     "area_water":745420669,
     "geoid":"06049",

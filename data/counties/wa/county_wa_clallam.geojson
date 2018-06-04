@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_clallam",
+  "id": "aclu/elections-api/county:10615",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10615",
     "area_land":4503153141,
     "area_water":2413877536,
     "geoid":"53009",

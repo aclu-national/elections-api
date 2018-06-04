@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_merced",
+  "id": "aclu/elections-api/county:7787",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7787",
     "area_land":5012175320,
     "area_water":112509475,
     "geoid":"06047",

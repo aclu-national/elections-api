@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_mono",
+  "id": "aclu/elections-api/county:7789",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7789",
     "area_land":7896838493,
     "area_water":214695673,
     "geoid":"06051",

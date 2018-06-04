@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_butler",
+  "id": "aclu/elections-api/county:9834",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9834",
     "area_land":2042451307,
     "area_water":15948099,
     "geoid":"42019",

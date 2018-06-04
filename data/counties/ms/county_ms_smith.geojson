@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_smith",
+  "id": "aclu/elections-api/county:9161",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9161",
     "area_land":1647926085,
     "area_water":2599432,
     "geoid":"28129",

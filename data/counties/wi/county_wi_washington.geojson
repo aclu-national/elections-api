@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_washington",
+  "id": "aclu/elections-api/county:10716",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10716",
     "area_land":1115370272,
     "area_water":12999403,
     "geoid":"55131",

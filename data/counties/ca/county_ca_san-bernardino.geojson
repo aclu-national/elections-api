@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_san-bernardino",
+  "id": "aclu/elections-api/county:7799",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7799",
     "area_land":51948123813,
     "area_water":123845007,
     "geoid":"06071",

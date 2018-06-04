@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_alamance",
+  "id": "aclu/elections-api/county:9235",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9235",
     "area_land":1096654286,
     "area_water":28025249,
     "geoid":"37001",

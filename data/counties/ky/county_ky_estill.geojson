@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_estill",
+  "id": "aclu/elections-api/county:8604",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8604",
     "area_land":655468668,
     "area_water":6557602,
     "geoid":"21065",

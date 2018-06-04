@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_houghton",
+  "id": "aclu/elections-api/county:8839",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8839",
     "area_land":2613557367,
     "area_water":1275355802,
     "geoid":"26061",

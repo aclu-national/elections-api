@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_san-juan",
+  "id": "aclu/elections-api/county:9535",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9535",
     "area_land":14289427705,
     "area_water":55030762,
     "geoid":"35045",

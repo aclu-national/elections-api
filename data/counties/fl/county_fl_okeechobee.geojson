@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_okeechobee",
+  "id": "aclu/elections-api/county:7944",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7944",
     "area_land":1991433070,
     "area_water":318578493,
     "geoid":"12093",

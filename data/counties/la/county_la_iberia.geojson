@@ -1,7 +1,8 @@
 {
-  "id": "county_la_iberia",
+  "id": "aclu/elections-api/county:8714",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8714",
     "area_land":1486941064,
     "area_water":1182115493,
     "geoid":"22045",

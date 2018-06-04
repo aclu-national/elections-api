@@ -1,7 +1,8 @@
 {
-  "id": "county_me_somerset",
+  "id": "aclu/elections-api/county:8805",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8805",
     "area_land":10164120486,
     "area_water":437867472,
     "geoid":"23025",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_tulsa",
+  "id": "aclu/elections-api/county:9783",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9783",
     "area_land":1477021879,
     "area_water":43361035,
     "geoid":"40143",

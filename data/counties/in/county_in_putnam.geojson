@@ -1,7 +1,8 @@
 {
-  "id": "county_in_putnam",
+  "id": "aclu/elections-api/county:8441",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8441",
     "area_land":1244585902,
     "area_water":5585892,
     "geoid":"18133",

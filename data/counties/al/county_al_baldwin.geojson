@@ -1,7 +1,8 @@
 {
-  "id": "county_al_baldwin",
+  "id": "aclu/elections-api/county:7603",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7603",
     "area_land":4117605847,
     "area_water":1133109409,
     "geoid":"01003",

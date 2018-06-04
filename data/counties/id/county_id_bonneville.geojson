@@ -1,7 +1,8 @@
 {
-  "id": "county_id_bonneville",
+  "id": "aclu/elections-api/county:8238",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8238",
     "area_land":4832874977,
     "area_water":88853019,
     "geoid":"16019",

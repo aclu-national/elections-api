@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_menominee",
+  "id": "aclu/elections-api/county:10689",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10689",
     "area_land":926201674,
     "area_water":19038372,
     "geoid":"55078",

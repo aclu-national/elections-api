@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_anderson",
+  "id": "aclu/elections-api/county:8574",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8574",
     "area_land":522773659,
     "area_water":6311541,
     "geoid":"21005",

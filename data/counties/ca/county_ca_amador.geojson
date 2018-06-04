@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_amador",
+  "id": "aclu/elections-api/county:7766",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7766",
     "area_land":1539933576,
     "area_water":29470568,
     "geoid":"06005",

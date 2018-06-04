@@ -1,7 +1,8 @@
 {
-  "id": "county_co_ouray",
+  "id": "aclu/elections-api/county:7868",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7868",
     "area_land":1402719352,
     "area_water":1599543,
     "geoid":"08091",

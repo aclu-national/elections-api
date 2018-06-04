@@ -1,7 +1,8 @@
 {
-  "id": "county_co_chaffee",
+  "id": "aclu/elections-api/county:7830",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7830",
     "area_land":2624715691,
     "area_water":3999975,
     "geoid":"08015",

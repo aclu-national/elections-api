@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_adams",
+  "id": "aclu/elections-api/county:9097",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9097",
     "area_land":1197464269,
     "area_water":65273640,
     "geoid":"28001",

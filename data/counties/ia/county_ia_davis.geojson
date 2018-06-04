@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_davis",
+  "id": "aclu/elections-api/county:8155",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8155",
     "area_land":1300661857,
     "area_water":6904096,
     "geoid":"19051",

@@ -1,7 +1,8 @@
 {
-  "id": "county_il_boone",
+  "id": "aclu/elections-api/county:8276",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8276",
     "area_land":727092582,
     "area_water":3348032,
     "geoid":"17007",

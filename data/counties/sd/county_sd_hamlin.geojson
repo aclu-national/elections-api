@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_hamlin",
+  "id": "aclu/elections-api/county:10048",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10048",
     "area_land":1313733694,
     "area_water":79864241,
     "geoid":"46057",

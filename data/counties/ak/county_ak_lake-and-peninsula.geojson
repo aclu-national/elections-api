@@ -1,7 +1,8 @@
 {
-  "id": "county_ak_lake-and-peninsula",
+  "id": "aclu/elections-api/county:7588",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7588",
     "area_land":61894488750,
     "area_water":25991759519,
     "geoid":"02164",

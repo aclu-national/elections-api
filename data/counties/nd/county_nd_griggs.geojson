@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_griggs",
+  "id": "aclu/elections-api/county:9354",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9354",
     "area_land":1835826857,
     "area_water":19759408,
     "geoid":"38039",

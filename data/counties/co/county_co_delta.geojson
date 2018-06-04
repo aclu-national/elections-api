@@ -1,7 +1,8 @@
 {
-  "id": "county_co_delta",
+  "id": "aclu/elections-api/county:7837",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7837",
     "area_land":2958099789,
     "area_water":16777978,
     "geoid":"08029",

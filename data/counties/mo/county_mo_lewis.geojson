@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_lewis",
+  "id": "aclu/elections-api/county:9034",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9034",
     "area_land":1308052634,
     "area_water":14901556,
     "geoid":"29111",

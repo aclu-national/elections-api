@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_franklin",
+  "id": "aclu/elections-api/county:9269",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9269",
     "area_land":1273631713,
     "area_water":7304032,
     "geoid":"37069",

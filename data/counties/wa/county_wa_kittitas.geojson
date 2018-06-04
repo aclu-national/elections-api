@@ -1,7 +1,8 @@
 {
-  "id": "county_wa_kittitas",
+  "id": "aclu/elections-api/county:10629",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10629",
     "area_land":5949976954,
     "area_water":92436005,
     "geoid":"53037",

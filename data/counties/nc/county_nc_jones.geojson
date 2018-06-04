@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_jones",
+  "id": "aclu/elections-api/county:9286",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9286",
     "area_land":1220837016,
     "area_water":6031827,
     "geoid":"37103",

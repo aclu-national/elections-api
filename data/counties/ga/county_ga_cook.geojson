@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_cook",
+  "id": "aclu/elections-api/county:8001",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8001",
     "area_land":588450813,
     "area_water":15542061,
     "geoid":"13075",

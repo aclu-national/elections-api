@@ -1,7 +1,8 @@
 {
-  "id": "county_va_campbell",
+  "id": "aclu/elections-api/county:10483",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10483",
     "area_land":1303240046,
     "area_water":8955341,
     "geoid":"51031",

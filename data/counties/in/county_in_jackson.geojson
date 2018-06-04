@@ -1,7 +1,8 @@
 {
-  "id": "county_in_jackson",
+  "id": "aclu/elections-api/county:8410",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8410",
     "area_land":1319087093,
     "area_water":11923424,
     "geoid":"18071",

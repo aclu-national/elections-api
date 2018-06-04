@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_hockley",
+  "id": "aclu/elections-api/county:10291",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10291",
     "area_land":2352723906,
     "area_water":446119,
     "geoid":"48219",

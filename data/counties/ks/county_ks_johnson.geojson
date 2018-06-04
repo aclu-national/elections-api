@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_johnson",
+  "id": "aclu/elections-api/county:8512",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8512",
     "area_land":1226262480,
     "area_water":16736159,
     "geoid":"20091",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_steele",
+  "id": "aclu/elections-api/county:9380",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9380",
     "area_land":1844613572,
     "area_water":8424876,
     "geoid":"38091",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_oakland",
+  "id": "aclu/elections-api/county:8871",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8871",
     "area_land":2246869568,
     "area_water":102863438,
     "geoid":"26125",

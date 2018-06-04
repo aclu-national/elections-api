@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_franklin",
+  "id": "aclu/elections-api/county:9578",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9578",
     "area_land":4219632482,
     "area_water":176707575,
     "geoid":"36033",

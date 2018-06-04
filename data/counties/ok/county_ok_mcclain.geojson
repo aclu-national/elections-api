@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_mcclain",
+  "id": "aclu/elections-api/county:9758",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9758",
     "area_land":1478114523,
     "area_water":24734523,
     "geoid":"40087",

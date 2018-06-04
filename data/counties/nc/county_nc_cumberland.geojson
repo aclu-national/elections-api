@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_cumberland",
+  "id": "aclu/elections-api/county:9260",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9260",
     "area_land":1690029281,
     "area_water":15379703,
     "geoid":"37051",

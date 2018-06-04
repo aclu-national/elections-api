@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_palo-pinto",
+  "id": "aclu/elections-api/county:10363",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10363",
     "area_land":2466313772,
     "area_water":86141064,
     "geoid":"48363",

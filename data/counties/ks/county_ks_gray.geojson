@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_gray",
+  "id": "aclu/elections-api/county:8501",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8501",
     "area_land":2250356164,
     "area_water":1113338,
     "geoid":"20069",

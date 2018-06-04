@@ -1,7 +1,8 @@
 {
-  "id": "county_la_winn",
+  "id": "aclu/elections-api/county:8755",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8755",
     "area_land":2460711982,
     "area_water":17448075,
     "geoid":"22127",

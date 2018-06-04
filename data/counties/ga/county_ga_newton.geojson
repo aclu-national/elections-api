@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_newton",
+  "id": "aclu/elections-api/county:8071",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8071",
     "area_land":708857834,
     "area_water":14261429,
     "geoid":"13217",

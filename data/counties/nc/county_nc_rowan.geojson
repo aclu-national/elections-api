@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_rowan",
+  "id": "aclu/elections-api/county:9314",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9314",
     "area_land":1324722118,
     "area_water":32235596,
     "geoid":"37159",

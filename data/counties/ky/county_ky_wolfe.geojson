@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_wolfe",
+  "id": "aclu/elections-api/county:8690",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8690",
     "area_land":575419099,
     "area_water":1505157,
     "geoid":"21237",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_howard",
+  "id": "aclu/elections-api/county:9023",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9023",
     "area_land":1201192546,
     "area_water":19893064,
     "geoid":"29089",

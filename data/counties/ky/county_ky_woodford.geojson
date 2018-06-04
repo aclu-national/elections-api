@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_woodford",
+  "id": "aclu/elections-api/county:8691",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8691",
     "area_land":489012357,
     "area_water":8307144,
     "geoid":"21239",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_texas",
+  "id": "aclu/elections-api/county:9781",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9781",
     "area_land":5286926133,
     "area_water":19215617,
     "geoid":"40139",

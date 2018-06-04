@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_nobles",
+  "id": "aclu/elections-api/county:8944",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8944",
     "area_land":1852077339,
     "area_water":19323570,
     "geoid":"27105",

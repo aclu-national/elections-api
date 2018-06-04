@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_bandera",
+  "id": "aclu/elections-api/county:10191",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10191",
     "area_land":2048666851,
     "area_water":17288354,
     "geoid":"48019",

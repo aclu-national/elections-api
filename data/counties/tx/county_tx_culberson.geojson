@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_culberson",
+  "id": "aclu/elections-api/county:10236",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10236",
     "area_land":9873439554,
     "area_water":556134,
     "geoid":"48109",

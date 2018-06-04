@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_san-francisco",
+  "id": "aclu/elections-api/county:7801",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7801",
     "area_land":121485107,
     "area_water":479107241,
     "geoid":"06075",

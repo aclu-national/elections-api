@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_moore",
+  "id": "aclu/elections-api/county:10150",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10150",
     "area_land":334684865,
     "area_water":3093435,
     "geoid":"47127",

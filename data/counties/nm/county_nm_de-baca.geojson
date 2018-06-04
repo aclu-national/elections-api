@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_de-baca",
+  "id": "aclu/elections-api/county:9518",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9518",
     "area_land":6016761648,
     "area_water":29147345,
     "geoid":"35011",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_clayton",
+  "id": "aclu/elections-api/county:7995",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7995",
     "area_land":366881210,
     "area_water":7038080,
     "geoid":"13063",

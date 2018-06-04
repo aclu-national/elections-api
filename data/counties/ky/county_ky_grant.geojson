@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_grant",
+  "id": "aclu/elections-api/county:8612",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8612",
     "area_land":668161261,
     "area_water":7236760,
     "geoid":"21081",

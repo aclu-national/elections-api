@@ -1,7 +1,8 @@
 {
-  "id": "county_il_cumberland",
+  "id": "aclu/elections-api/county:8290",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8290",
     "area_land":896203087,
     "area_water":2531272,
     "geoid":"17035",

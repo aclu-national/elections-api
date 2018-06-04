@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_granville",
+  "id": "aclu/elections-api/county:9273",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9273",
     "area_land":1377849157,
     "area_water":14503651,
     "geoid":"37077",

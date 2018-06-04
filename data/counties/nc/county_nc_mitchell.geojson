@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_mitchell",
+  "id": "aclu/elections-api/county:9295",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9295",
     "area_land":573038008,
     "area_water":1629508,
     "geoid":"37121",

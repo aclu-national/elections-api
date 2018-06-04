@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_owen",
+  "id": "aclu/elections-api/county:8665",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8665",
     "area_land":909364763,
     "area_water":8129649,
     "geoid":"21187",

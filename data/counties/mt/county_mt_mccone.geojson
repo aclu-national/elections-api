@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_mccone",
+  "id": "aclu/elections-api/county:9207",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9207",
     "area_land":6843265262,
     "area_water":103091384,
     "geoid":"30055",

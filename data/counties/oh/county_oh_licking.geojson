@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_licking",
+  "id": "aclu/elections-api/county:9668",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9668",
     "area_land":1767338086,
     "area_water":12924074,
     "geoid":"39089",

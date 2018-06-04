@@ -1,7 +1,8 @@
 {
-  "id": "county_co_jefferson",
+  "id": "aclu/elections-api/county:7852",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7852",
     "area_land":1979380402,
     "area_water":25428019,
     "geoid":"08059",

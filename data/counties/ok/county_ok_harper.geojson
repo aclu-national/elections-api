@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_harper",
+  "id": "aclu/elections-api/county:9741",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9741",
     "area_land":2691041192,
     "area_water":5259447,
     "geoid":"40059",

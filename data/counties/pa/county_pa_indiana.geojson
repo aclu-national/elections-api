@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_indiana",
+  "id": "aclu/elections-api/county:9856",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9856",
     "area_land":2142009116,
     "area_water":18802621,
     "geoid":"42063",

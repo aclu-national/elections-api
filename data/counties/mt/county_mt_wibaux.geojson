@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_wibaux",
+  "id": "aclu/elections-api/county:9233",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9233",
     "area_land":2301488703,
     "area_water":1756846,
     "geoid":"30109",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_madison",
+  "id": "aclu/elections-api/county:8190",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8190",
     "area_land":1452999208,
     "area_water":2983840,
     "geoid":"19121",

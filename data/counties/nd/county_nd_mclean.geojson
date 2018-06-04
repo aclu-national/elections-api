@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_mclean",
+  "id": "aclu/elections-api/county:9362",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9362",
     "area_land":5466428300,
     "area_water":563112245,
     "geoid":"38055",

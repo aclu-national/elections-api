@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_briscoe",
+  "id": "aclu/elections-api/county:10204",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10204",
     "area_land":2330991085,
     "area_water":4068657,
     "geoid":"48045",

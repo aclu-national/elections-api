@@ -1,7 +1,8 @@
 {
-  "id": "county_al_escambia",
+  "id": "aclu/elections-api/county:7628",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7628",
     "area_land":2447822304,
     "area_water":20797758,
     "geoid":"01053",

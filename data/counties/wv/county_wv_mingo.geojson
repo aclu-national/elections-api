@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_mingo",
+  "id": "aclu/elections-api/county:10751",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10751",
     "area_land":1095926624,
     "area_water":2177833,
     "geoid":"54059",

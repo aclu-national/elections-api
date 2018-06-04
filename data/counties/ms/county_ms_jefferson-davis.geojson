@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_jefferson-davis",
+  "id": "aclu/elections-api/county:9128",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9128",
     "area_land":1057871313,
     "area_water":1791496,
     "geoid":"28065",

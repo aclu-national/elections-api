@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_madera",
+  "id": "aclu/elections-api/county:7783",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7783",
     "area_land":5534850492,
     "area_water":42012923,
     "geoid":"06039",

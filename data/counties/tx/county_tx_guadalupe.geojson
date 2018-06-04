@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_guadalupe",
+  "id": "aclu/elections-api/county:10275",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10275",
     "area_land":1842135388,
     "area_water":9163416,
     "geoid":"48187",

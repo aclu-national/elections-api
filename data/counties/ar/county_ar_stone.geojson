@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_stone",
+  "id": "aclu/elections-api/county:7737",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7737",
     "area_land":1570579424,
     "area_water":7841928,
     "geoid":"05137",

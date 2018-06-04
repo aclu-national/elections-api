@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_ector",
+  "id": "aclu/elections-api/county:10249",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10249",
     "area_land":2325100483,
     "area_water":10596946,
     "geoid":"48135",

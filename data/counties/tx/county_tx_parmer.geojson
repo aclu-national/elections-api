@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_parmer",
+  "id": "aclu/elections-api/county:10366",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10366",
     "area_land":2281312151,
     "area_water":11355762,
     "geoid":"48369",

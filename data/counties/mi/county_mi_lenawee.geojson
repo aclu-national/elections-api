@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_lenawee",
+  "id": "aclu/elections-api/county:8854",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8854",
     "area_land":1941336570,
     "area_water":30687108,
     "geoid":"26091",

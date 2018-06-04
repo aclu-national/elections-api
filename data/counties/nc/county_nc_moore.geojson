@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_moore",
+  "id": "aclu/elections-api/county:9297",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9297",
     "area_land":1806961891,
     "area_water":20736340,
     "geoid":"37125",

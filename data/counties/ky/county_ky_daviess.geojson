@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_daviess",
+  "id": "aclu/elections-api/county:8601",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8601",
     "area_land":1187163564,
     "area_water":47158145,
     "geoid":"21059",

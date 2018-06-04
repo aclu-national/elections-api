@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_coke",
+  "id": "aclu/elections-api/county:10222",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10222",
     "area_land":2360696264,
     "area_water":42788774,
     "geoid":"48081",

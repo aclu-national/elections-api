@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_franklin",
+  "id": "aclu/elections-api/county:9852",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9852",
     "area_land":2000052118,
     "area_water":1544300,
     "geoid":"42055",

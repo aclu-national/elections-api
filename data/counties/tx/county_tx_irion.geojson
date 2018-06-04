@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_irion",
+  "id": "aclu/elections-api/county:10299",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10299",
     "area_land":2723485996,
     "area_water":176317,
     "geoid":"48235",

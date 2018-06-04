@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_perry",
+  "id": "aclu/elections-api/county:9874",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9874",
     "area_land":1428244405,
     "area_water":10589698,
     "geoid":"42099",

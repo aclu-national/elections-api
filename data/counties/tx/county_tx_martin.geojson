@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_martin",
+  "id": "aclu/elections-api/county:10337",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10337",
     "area_land":2369724595,
     "area_water":1931832,
     "geoid":"48317",

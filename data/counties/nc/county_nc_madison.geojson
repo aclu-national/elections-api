@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_madison",
+  "id": "aclu/elections-api/county:9291",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9291",
     "area_land":1164497728,
     "area_water":4840762,
     "geoid":"37115",

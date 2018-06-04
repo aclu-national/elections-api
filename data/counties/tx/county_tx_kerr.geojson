@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_kerr",
+  "id": "aclu/elections-api/county:10314",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10314",
     "area_land":2857602924,
     "area_water":10246419,
     "geoid":"48265",

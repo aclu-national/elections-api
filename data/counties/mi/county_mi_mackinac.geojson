@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_mackinac",
+  "id": "aclu/elections-api/county:8857",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8857",
     "area_land":2646602337,
     "area_water":2793796394,
     "geoid":"26097",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_aguadilla",
+  "id": "aclu/elections-api/county:9895",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9895",
     "area_land":94613892,
     "area_water":101131781,
     "geoid":"72005",

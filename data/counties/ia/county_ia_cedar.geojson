@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_cedar",
+  "id": "aclu/elections-api/county:8145",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8145",
     "area_land":1500730782,
     "area_water":6385832,
     "geoid":"19031",

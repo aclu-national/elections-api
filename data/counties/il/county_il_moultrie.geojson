@@ -1,7 +1,8 @@
 {
-  "id": "county_il_moultrie",
+  "id": "aclu/elections-api/county:8342",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8342",
     "area_land":870088233,
     "area_water":22103176,
     "geoid":"17139",

@@ -1,7 +1,8 @@
 {
-  "id": "county_id_camas",
+  "id": "aclu/elections-api/county:8241",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8241",
     "area_land":2782253889,
     "area_water":11548052,
     "geoid":"16025",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_scott",
+  "id": "aclu/elections-api/county:9073",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9073",
     "area_land":1087765645,
     "area_water":15199712,
     "geoid":"29201",

@@ -1,7 +1,8 @@
 {
-  "id": "county_co_baca",
+  "id": "aclu/elections-api/county:7826",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7826",
     "area_land":6617400584,
     "area_water":6142193,
     "geoid":"08009",

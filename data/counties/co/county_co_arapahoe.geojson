@@ -1,7 +1,8 @@
 {
-  "id": "county_co_arapahoe",
+  "id": "aclu/elections-api/county:7824",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7824",
     "area_land":2066634438,
     "area_water":19499590,
     "geoid":"08005",

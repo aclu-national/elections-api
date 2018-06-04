@@ -1,7 +1,8 @@
 {
-  "id": "county_la_morehouse",
+  "id": "aclu/elections-api/county:8725",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8725",
     "area_land":2058870205,
     "area_water":28878805,
     "geoid":"22067",

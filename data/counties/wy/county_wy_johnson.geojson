@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_johnson",
+  "id": "aclu/elections-api/county:10786",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10786",
     "area_land":10759208728,
     "area_water":52947545,
     "geoid":"56019",

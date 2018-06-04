@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_inyo",
+  "id": "aclu/elections-api/county:7777",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7777",
     "area_land":26368508430,
     "area_water":119088140,
     "geoid":"06027",

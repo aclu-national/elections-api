@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_lawrence",
+  "id": "aclu/elections-api/county:8635",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8635",
     "area_land":1076385464,
     "area_water":11584860,
     "geoid":"21127",

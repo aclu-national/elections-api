@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_haskell",
+  "id": "aclu/elections-api/county:8507",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8507",
     "area_land":1495773052,
     "area_water":910409,
     "geoid":"20081",

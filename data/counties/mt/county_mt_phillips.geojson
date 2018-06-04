@@ -1,7 +1,8 @@
 {
-  "id": "county_mt_phillips",
+  "id": "aclu/elections-api/county:9214",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9214",
     "area_land":13313706952,
     "area_water":185563449,
     "geoid":"30071",

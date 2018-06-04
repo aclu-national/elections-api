@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_calhoun",
+  "id": "aclu/elections-api/county:7675",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7675",
     "area_land":1627975434,
     "area_water":9926146,
     "geoid":"05013",

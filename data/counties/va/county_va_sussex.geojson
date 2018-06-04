@@ -1,7 +1,8 @@
 {
-  "id": "county_va_sussex",
+  "id": "aclu/elections-api/county:10582",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10582",
     "area_land":1269664389,
     "area_water":6755317,
     "geoid":"51183",

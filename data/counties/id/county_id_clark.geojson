@@ -1,7 +1,8 @@
 {
-  "id": "county_id_clark",
+  "id": "aclu/elections-api/county:8245",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8245",
     "area_land":4566524491,
     "area_water":2476454,
     "geoid":"16033",

@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_columbia",
+  "id": "aclu/elections-api/county:7909",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7909",
     "area_land":2065628007,
     "area_water":9773963,
     "geoid":"12023",

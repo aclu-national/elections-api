@@ -1,7 +1,8 @@
 {
-  "id": "county_md_howard",
+  "id": "aclu/elections-api/county:8782",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8782",
     "area_land":649942723,
     "area_water":6345542,
     "geoid":"24027",

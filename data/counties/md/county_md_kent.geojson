@@ -1,7 +1,8 @@
 {
-  "id": "county_md_kent",
+  "id": "aclu/elections-api/county:8783",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8783",
     "area_land":717515665,
     "area_water":353303064,
     "geoid":"24029",

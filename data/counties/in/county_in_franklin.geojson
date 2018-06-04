@@ -1,7 +1,8 @@
 {
-  "id": "county_in_franklin",
+  "id": "aclu/elections-api/county:8398",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8398",
     "area_land":995670602,
     "area_water":17143494,
     "geoid":"18047",

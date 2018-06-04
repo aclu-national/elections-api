@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_winneshiek",
+  "id": "aclu/elections-api/county:8225",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8225",
     "area_land":1786713778,
     "area_water":698598,
     "geoid":"19191",

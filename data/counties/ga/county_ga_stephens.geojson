@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_stephens",
+  "id": "aclu/elections-api/county:8091",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8091",
     "area_land":463974775,
     "area_water":13095267,
     "geoid":"13257",

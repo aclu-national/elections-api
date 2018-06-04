@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_jackson",
+  "id": "aclu/elections-api/county:9026",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9026",
     "area_land":1565601892,
     "area_water":30717815,
     "geoid":"29095",

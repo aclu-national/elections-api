@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_hanson",
+  "id": "aclu/elections-api/county:10050",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10050",
     "area_land":1125387966,
     "area_water":2248724,
     "geoid":"46061",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_baylor",
+  "id": "aclu/elections-api/county:10193",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10193",
     "area_land":2246768188,
     "area_water":86991036,
     "geoid":"48023",

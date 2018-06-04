@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_moniteau",
+  "id": "aclu/elections-api/county:9046",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9046",
     "area_land":1074911084,
     "area_water":9960533,
     "geoid":"29135",

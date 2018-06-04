@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_ohio",
+  "id": "aclu/elections-api/county:8663",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8663",
     "area_land":1521032968,
     "area_water":23189052,
     "geoid":"21183",

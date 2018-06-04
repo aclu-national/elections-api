@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_tuscola",
+  "id": "aclu/elections-api/county:8887",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8887",
     "area_land":2080718000,
     "area_water":286299930,
     "geoid":"26157",

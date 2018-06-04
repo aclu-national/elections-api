@@ -1,7 +1,8 @@
 {
-  "id": "county_pr_san-germ-n",
+  "id": "aclu/elections-api/county:9955",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9955",
     "area_land":141145018,
     "area_water":29360,
     "geoid":"72125",

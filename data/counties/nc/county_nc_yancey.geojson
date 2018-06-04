@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_yancey",
+  "id": "aclu/elections-api/county:9334",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9334",
     "area_land":809602887,
     "area_water":1531168,
     "geoid":"37199",

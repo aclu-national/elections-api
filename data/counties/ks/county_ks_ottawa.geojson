@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_ottawa",
+  "id": "aclu/elections-api/county:8538",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8538",
     "area_land":1866683174,
     "area_water":1567629,
     "geoid":"20143",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_harvey",
+  "id": "aclu/elections-api/county:8506",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8506",
     "area_land":1397961182,
     "area_water":2503283,
     "geoid":"20079",

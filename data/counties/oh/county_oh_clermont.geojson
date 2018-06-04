@@ -1,7 +1,8 @@
 {
-  "id": "county_oh_clermont",
+  "id": "aclu/elections-api/county:9636",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9636",
     "area_land":1170958177,
     "area_water":19831170,
     "geoid":"39025",

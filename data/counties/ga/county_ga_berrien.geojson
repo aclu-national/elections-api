@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_berrien",
+  "id": "aclu/elections-api/county:7974",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7974",
     "area_land":1170501546,
     "area_water":15409110,
     "geoid":"13019",

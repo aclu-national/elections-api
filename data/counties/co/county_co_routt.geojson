@@ -1,7 +1,8 @@
 {
-  "id": "county_co_routt",
+  "id": "aclu/elections-api/county:7876",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7876",
     "area_land":6117602774,
     "area_water":15831744,
     "geoid":"08107",

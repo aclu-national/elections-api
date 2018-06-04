@@ -1,7 +1,8 @@
 {
-  "id": "county_la_bossier",
+  "id": "aclu/elections-api/county:8699",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8699",
     "area_land":2176185432,
     "area_water":70496339,
     "geoid":"22015",

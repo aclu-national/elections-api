@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_northampton",
+  "id": "aclu/elections-api/county:9300",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9300",
     "area_land":1389889811,
     "area_water":36034131,
     "geoid":"37131",

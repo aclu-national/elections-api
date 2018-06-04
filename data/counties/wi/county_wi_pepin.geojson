@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_pepin",
+  "id": "aclu/elections-api/county:10696",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10696",
     "area_land":600892978,
     "area_water":43242987,
     "geoid":"55091",

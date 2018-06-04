@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_quitman",
+  "id": "aclu/elections-api/county:9156",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9156",
     "area_land":1048975544,
     "area_water":3676001,
     "geoid":"28119",

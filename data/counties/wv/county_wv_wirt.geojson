@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_wirt",
+  "id": "aclu/elections-api/county:10774",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10774",
     "area_land":602201080,
     "area_water":5839706,
     "geoid":"54105",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_santa-cruz",
+  "id": "aclu/elections-api/county:7807",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7807",
     "area_land":1152967426,
     "area_water":419570389,
     "geoid":"06087",

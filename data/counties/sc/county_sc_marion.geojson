@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_marion",
+  "id": "aclu/elections-api/county:10007",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10007",
     "area_land":1267162021,
     "area_water":12643194,
     "geoid":"45067",

@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_colleton",
+  "id": "aclu/elections-api/county:9989",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9989",
     "area_land":2736299925,
     "area_water":198896760,
     "geoid":"45029",

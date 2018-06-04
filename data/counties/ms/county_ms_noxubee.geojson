@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_noxubee",
+  "id": "aclu/elections-api/county:9148",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9148",
     "area_land":1800451886,
     "area_water":12487951,
     "geoid":"28103",

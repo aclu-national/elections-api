@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_campbell",
+  "id": "aclu/elections-api/county:10779",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10779",
     "area_land":12437264300,
     "area_water":11038017,
     "geoid":"56005",

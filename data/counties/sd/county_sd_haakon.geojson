@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_haakon",
+  "id": "aclu/elections-api/county:10047",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10047",
     "area_land":4689280303,
     "area_water":42449686,
     "geoid":"46055",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_lafayette",
+  "id": "aclu/elections-api/county:7705",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7705",
     "area_land":1368278178,
     "area_water":43469442,
     "geoid":"05073",

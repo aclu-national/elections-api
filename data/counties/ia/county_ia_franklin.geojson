@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_franklin",
+  "id": "aclu/elections-api/county:8164",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8164",
     "area_land":1507301123,
     "area_water":1428932,
     "geoid":"19069",

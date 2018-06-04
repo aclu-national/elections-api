@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_washington",
+  "id": "aclu/elections-api/county:8686",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8686",
     "area_land":769158640,
     "area_water":10943099,
     "geoid":"21229",

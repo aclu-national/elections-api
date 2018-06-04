@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_campbell",
+  "id": "aclu/elections-api/county:10093",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10093",
     "area_land":1243615773,
     "area_water":46494677,
     "geoid":"47013",

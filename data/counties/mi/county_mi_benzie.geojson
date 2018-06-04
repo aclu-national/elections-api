@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_benzie",
+  "id": "aclu/elections-api/county:8818",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8818",
     "area_land":828049220,
     "area_water":1398210900,
     "geoid":"26019",

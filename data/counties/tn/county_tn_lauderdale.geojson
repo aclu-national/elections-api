@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_lauderdale",
+  "id": "aclu/elections-api/county:10135",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10135",
     "area_land":1222389178,
     "area_water":92231159,
     "geoid":"47097",

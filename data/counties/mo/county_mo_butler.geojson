@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_butler",
+  "id": "aclu/elections-api/county:8990",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8990",
     "area_land":1799185018,
     "area_water":11195137,
     "geoid":"29023",

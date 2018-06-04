@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_charleston",
+  "id": "aclu/elections-api/county:9984",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9984",
     "area_land":2376245593,
     "area_water":1141008039,
     "geoid":"45019",

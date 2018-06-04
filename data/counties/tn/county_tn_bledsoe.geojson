@@ -1,7 +1,8 @@
 {
-  "id": "county_tn_bledsoe",
+  "id": "aclu/elections-api/county:10090",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10090",
     "area_land":1052635794,
     "area_water":838360,
     "geoid":"47007",

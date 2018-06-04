@@ -1,7 +1,8 @@
 {
-  "id": "county_vt_chittenden",
+  "id": "aclu/elections-api/county:10600",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10600",
     "area_land":1389740233,
     "area_water":214237435,
     "geoid":"50007",

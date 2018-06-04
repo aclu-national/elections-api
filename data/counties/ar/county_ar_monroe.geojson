@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_monroe",
+  "id": "aclu/elections-api/county:7716",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7716",
     "area_land":1572480973,
     "area_water":36694917,
     "geoid":"05095",

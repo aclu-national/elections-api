@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_baker",
+  "id": "aclu/elections-api/county:7899",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7899",
     "area_land":1515738965,
     "area_water":9686120,
     "geoid":"12003",

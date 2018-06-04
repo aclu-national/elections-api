@@ -1,7 +1,8 @@
 {
-  "id": "county_id_bear-lake",
+  "id": "aclu/elections-api/county:8232",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8232",
     "area_land":2527122948,
     "area_water":191364283,
     "geoid":"16007",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_delaware",
+  "id": "aclu/elections-api/county:9574",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9574",
     "area_land":3735952964,
     "area_water":64717114,
     "geoid":"36025",

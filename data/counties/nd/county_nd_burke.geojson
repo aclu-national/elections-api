@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_burke",
+  "id": "aclu/elections-api/county:9341",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9341",
     "area_land":2858266385,
     "area_water":65700367,
     "geoid":"38013",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_travis",
+  "id": "aclu/elections-api/county:10408",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10408",
     "area_land":2569073026,
     "area_water":80592292,
     "geoid":"48453",

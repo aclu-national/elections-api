@@ -1,7 +1,8 @@
 {
-  "id": "county_va_harrisonburg",
+  "id": "aclu/elections-api/county:10520",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10520",
     "area_land":44890270,
     "area_water":149190,
     "geoid":"51660",

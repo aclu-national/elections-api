@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_roscommon",
+  "id": "aclu/elections-api/county:8880",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8880",
     "area_land":1345827533,
     "area_water":156421850,
     "geoid":"26143",

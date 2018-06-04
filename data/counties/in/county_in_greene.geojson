@@ -1,7 +1,8 @@
 {
-  "id": "county_in_greene",
+  "id": "aclu/elections-api/county:8402",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8402",
     "area_land":1404983930,
     "area_water":8919620,
     "geoid":"18055",

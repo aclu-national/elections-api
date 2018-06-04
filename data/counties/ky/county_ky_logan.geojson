@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_logan",
+  "id": "aclu/elections-api/county:8642",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8642",
     "area_land":1430014646,
     "area_water":12688607,
     "geoid":"21141",

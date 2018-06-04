@@ -1,7 +1,8 @@
 {
-  "id": "county_nd_bottineau",
+  "id": "aclu/elections-api/county:9339",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9339",
     "area_land":4321196493,
     "area_water":74864998,
     "geoid":"38009",

@@ -1,7 +1,8 @@
 {
-  "id": "county_mn_lac-qui-parle",
+  "id": "aclu/elections-api/county:8928",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8928",
     "area_land":1981394520,
     "area_water":33643131,
     "geoid":"27073",

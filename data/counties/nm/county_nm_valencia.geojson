@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_valencia",
+  "id": "aclu/elections-api/county:9544",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9544",
     "area_land":2762826562,
     "area_water":2787804,
     "geoid":"35061",

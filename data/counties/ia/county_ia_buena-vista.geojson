@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_buena-vista",
+  "id": "aclu/elections-api/county:8140",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8140",
     "area_land":1488989049,
     "area_water":13791660,
     "geoid":"19021",

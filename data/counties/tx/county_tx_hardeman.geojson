@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_hardeman",
+  "id": "aclu/elections-api/county:10280",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10280",
     "area_land":1800337387,
     "area_water":4548860,
     "geoid":"48197",

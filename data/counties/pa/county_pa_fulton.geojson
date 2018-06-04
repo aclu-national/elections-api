@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_fulton",
+  "id": "aclu/elections-api/county:9853",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9853",
     "area_land":1133252798,
     "area_water":1305486,
     "geoid":"42057",

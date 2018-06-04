@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_quitman",
+  "id": "aclu/elections-api/county:8082",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8082",
     "area_land":391703077,
     "area_water":24158294,
     "geoid":"13239",

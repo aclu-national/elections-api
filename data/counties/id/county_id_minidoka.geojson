@@ -1,7 +1,8 @@
 {
-  "id": "county_id_minidoka",
+  "id": "aclu/elections-api/county:8262",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8262",
     "area_land":1960659281,
     "area_water":13928460,
     "geoid":"16067",

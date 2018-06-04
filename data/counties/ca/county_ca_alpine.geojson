@@ -1,7 +1,8 @@
 {
-  "id": "county_ca_alpine",
+  "id": "aclu/elections-api/county:7765",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7765",
     "area_land":1912292631,
     "area_water":12557304,
     "geoid":"06003",

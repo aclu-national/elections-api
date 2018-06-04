@@ -1,7 +1,8 @@
 {
-  "id": "county_ga_chattahoochee",
+  "id": "aclu/elections-api/county:7990",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7990",
     "area_land":644222675,
     "area_water":6292704,
     "geoid":"13053",

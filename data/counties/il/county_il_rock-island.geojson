@@ -1,7 +1,8 @@
 {
-  "id": "county_il_rock-island",
+  "id": "aclu/elections-api/county:8353",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8353",
     "area_land":1107115477,
     "area_water":61715041,
     "geoid":"17161",

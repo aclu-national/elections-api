@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_lincoln",
+  "id": "aclu/elections-api/county:7708",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7708",
     "area_land":1454438336,
     "area_water":27514921,
     "geoid":"05079",

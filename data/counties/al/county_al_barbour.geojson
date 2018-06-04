@@ -1,7 +1,8 @@
 {
-  "id": "county_al_barbour",
+  "id": "aclu/elections-api/county:7604",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7604",
     "area_land":2292144656,
     "area_water":50538698,
     "geoid":"01005",

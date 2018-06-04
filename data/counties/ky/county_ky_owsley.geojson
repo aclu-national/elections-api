@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_owsley",
+  "id": "aclu/elections-api/county:8666",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8666",
     "area_land":511282856,
     "area_water":2285944,
     "geoid":"21189",

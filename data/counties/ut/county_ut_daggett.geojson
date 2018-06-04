@@ -1,7 +1,8 @@
 {
-  "id": "county_ut_daggett",
+  "id": "aclu/elections-api/county:10440",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10440",
     "area_land":1805185918,
     "area_water":61230035,
     "geoid":"49009",

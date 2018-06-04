@@ -1,7 +1,8 @@
 {
-  "id": "county_ky_boyd",
+  "id": "aclu/elections-api/county:8581",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8581",
     "area_land":414050310,
     "area_water":5584870,
     "geoid":"21019",

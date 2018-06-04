@@ -1,7 +1,8 @@
 {
-  "id": "county_ms_amite",
+  "id": "aclu/elections-api/county:9099",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9099",
     "area_land":1890950867,
     "area_water":3877823,
     "geoid":"28005",

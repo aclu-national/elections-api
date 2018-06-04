@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_schuylkill",
+  "id": "aclu/elections-api/county:9878",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9878",
     "area_land":2016645900,
     "area_water":10834897,
     "geoid":"42107",

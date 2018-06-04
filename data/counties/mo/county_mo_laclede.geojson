@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_laclede",
+  "id": "aclu/elections-api/county:9031",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9031",
     "area_land":1980565357,
     "area_water":8515352,
     "geoid":"29105",

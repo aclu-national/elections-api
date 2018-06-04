@@ -1,7 +1,8 @@
 {
-  "id": "county_va_rockbridge",
+  "id": "aclu/elections-api/county:10569",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10569",
     "area_land":1544997746,
     "area_water":8878371,
     "geoid":"51163",

@@ -1,7 +1,8 @@
 {
-  "id": "county_nm_san-miguel",
+  "id": "aclu/elections-api/county:9536",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9536",
     "area_land":12230067556,
     "area_water":51380263,
     "geoid":"35047",

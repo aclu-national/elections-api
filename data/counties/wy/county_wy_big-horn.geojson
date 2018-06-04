@@ -1,7 +1,8 @@
 {
-  "id": "county_wy_big-horn",
+  "id": "aclu/elections-api/county:10778",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10778",
     "area_land":8123500143,
     "area_water":56402796,
     "geoid":"56003",

@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_miller",
+  "id": "aclu/elections-api/county:7714",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7714",
     "area_land":1620232433,
     "area_water":31271179,
     "geoid":"05091",

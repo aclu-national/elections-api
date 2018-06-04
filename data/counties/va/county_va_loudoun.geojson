@@ -1,7 +1,8 @@
 {
-  "id": "county_va_loudoun",
+  "id": "aclu/elections-api/county:10533",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10533",
     "area_land":1335692947,
     "area_water":14556679,
     "geoid":"51107",

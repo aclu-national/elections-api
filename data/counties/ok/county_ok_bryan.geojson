@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_bryan",
+  "id": "aclu/elections-api/county:9718",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9718",
     "area_land":2342528103,
     "area_water":102267324,
     "geoid":"40013",

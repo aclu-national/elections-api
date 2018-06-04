@@ -1,7 +1,8 @@
 {
-  "id": "county_nh_rockingham",
+  "id": "aclu/elections-api/county:9488",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9488",
     "area_land":1800358797,
     "area_water":259322531,
     "geoid":"33015",

@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_hays",
+  "id": "aclu/elections-api/county:10286",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10286",
     "area_land":1755978743,
     "area_water":5037781,
     "geoid":"48209",

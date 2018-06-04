@@ -1,7 +1,8 @@
 {
-  "id": "county_ok_sequoyah",
+  "id": "aclu/elections-api/county:9779",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9779",
     "area_land":1743779422,
     "area_water":105832791,
     "geoid":"40135",

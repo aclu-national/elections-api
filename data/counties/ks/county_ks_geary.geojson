@@ -1,7 +1,8 @@
 {
-  "id": "county_ks_geary",
+  "id": "aclu/elections-api/county:8497",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8497",
     "area_land":996280339,
     "area_water":51594747,
     "geoid":"20061",

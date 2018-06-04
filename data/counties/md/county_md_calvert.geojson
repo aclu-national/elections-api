@@ -1,7 +1,8 @@
 {
-  "id": "county_md_calvert",
+  "id": "aclu/elections-api/county:8773",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8773",
     "area_land":552178309,
     "area_water":341560885,
     "geoid":"24009",

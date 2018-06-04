@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_pasquotank",
+  "id": "aclu/elections-api/county:9304",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9304",
     "area_land":587616451,
     "area_water":161745166,
     "geoid":"37139",

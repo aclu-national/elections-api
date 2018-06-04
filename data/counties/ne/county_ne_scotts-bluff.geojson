@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_scotts-bluff",
+  "id": "aclu/elections-api/county:9466",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9466",
     "area_land":1915079274,
     "area_water":15397684,
     "geoid":"31157",

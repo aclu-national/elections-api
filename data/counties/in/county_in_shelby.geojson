@@ -1,7 +1,8 @@
 {
-  "id": "county_in_shelby",
+  "id": "aclu/elections-api/county:8446",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8446",
     "area_land":1064884352,
     "area_water":4149819,
     "geoid":"18145",

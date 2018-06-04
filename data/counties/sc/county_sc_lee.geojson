@@ -1,7 +1,8 @@
 {
-  "id": "county_sc_lee",
+  "id": "aclu/elections-api/county:10005",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10005",
     "area_land":1062372377,
     "area_water":2715077,
     "geoid":"45061",

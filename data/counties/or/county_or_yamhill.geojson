@@ -1,7 +1,8 @@
 {
-  "id": "county_or_yamhill",
+  "id": "aclu/elections-api/county:9824",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9824",
     "area_land":1854169174,
     "area_water":6491586,
     "geoid":"41071",

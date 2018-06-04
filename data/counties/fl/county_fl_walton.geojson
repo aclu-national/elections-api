@@ -1,7 +1,8 @@
 {
-  "id": "county_fl_walton",
+  "id": "aclu/elections-api/county:7963",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7963",
     "area_land":2687686788,
     "area_water":522848570,
     "geoid":"12131",

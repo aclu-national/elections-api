@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_lee",
+  "id": "aclu/elections-api/county:10325",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10325",
     "area_land":1629205103,
     "area_water":13106451,
     "geoid":"48287",

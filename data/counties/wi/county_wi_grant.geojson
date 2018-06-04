@@ -1,7 +1,8 @@
 {
-  "id": "county_wi_grant",
+  "id": "aclu/elections-api/county:10671",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10671",
     "area_land":2970364997,
     "area_water":94558771,
     "geoid":"55043",

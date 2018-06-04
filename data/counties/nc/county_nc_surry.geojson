@@ -1,7 +1,8 @@
 {
-  "id": "county_nc_surry",
+  "id": "aclu/elections-api/county:9320",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9320",
     "area_land":1382436644,
     "area_water":10286511,
     "geoid":"37171",

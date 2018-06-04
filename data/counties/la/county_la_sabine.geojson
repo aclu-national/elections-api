@@ -1,7 +1,8 @@
 {
-  "id": "county_la_sabine",
+  "id": "aclu/elections-api/county:8734",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8734",
     "area_land":2244636627,
     "area_water":375317817,
     "geoid":"22085",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_hampshire",
+  "id": "aclu/elections-api/county:10735",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10735",
     "area_land":1658614732,
     "area_water":10922070,
     "geoid":"54027",

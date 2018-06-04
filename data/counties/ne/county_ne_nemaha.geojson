@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_nemaha",
+  "id": "aclu/elections-api/county:9451",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9451",
     "area_land":1055100608,
     "area_water":5769943,
     "geoid":"31127",

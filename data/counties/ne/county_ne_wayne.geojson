@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_wayne",
+  "id": "aclu/elections-api/county:9477",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9477",
     "area_land":1147143905,
     "area_water":1087702,
     "geoid":"31179",

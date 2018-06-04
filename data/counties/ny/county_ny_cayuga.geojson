@@ -1,7 +1,8 @@
 {
-  "id": "county_ny_cayuga",
+  "id": "aclu/elections-api/county:9567",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9567",
     "area_land":1791190504,
     "area_water":445708175,
     "geoid":"36011",

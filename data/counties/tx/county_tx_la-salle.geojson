@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_la-salle",
+  "id": "aclu/elections-api/county:10320",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10320",
     "area_land":3850545746,
     "area_water":19503743,
     "geoid":"48283",

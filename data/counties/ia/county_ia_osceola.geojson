@@ -1,7 +1,8 @@
 {
-  "id": "county_ia_osceola",
+  "id": "aclu/elections-api/county:8201",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8201",
     "area_land":1032593860,
     "area_water":1835265,
     "geoid":"19143",

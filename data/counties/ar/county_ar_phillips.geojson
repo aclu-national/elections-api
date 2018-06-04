@@ -1,7 +1,8 @@
 {
-  "id": "county_ar_phillips",
+  "id": "aclu/elections-api/county:7722",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7722",
     "area_land":1801429477,
     "area_water":82378714,
     "geoid":"05107",

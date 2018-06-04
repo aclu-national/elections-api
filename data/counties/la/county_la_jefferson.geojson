@@ -1,7 +1,8 @@
 {
-  "id": "county_la_jefferson",
+  "id": "aclu/elections-api/county:8718",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8718",
     "area_land":765682137,
     "area_water":897184724,
     "geoid":"22051",

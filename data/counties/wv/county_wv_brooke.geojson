@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_brooke",
+  "id": "aclu/elections-api/county:10726",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10726",
     "area_land":231034166,
     "area_water":8714144,
     "geoid":"54009",

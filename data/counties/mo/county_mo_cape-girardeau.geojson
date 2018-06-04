@@ -1,7 +1,8 @@
 {
-  "id": "county_mo_cape-girardeau",
+  "id": "aclu/elections-api/county:8994",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8994",
     "area_land":1498398283,
     "area_water":20174864,
     "geoid":"29031",

@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_blair",
+  "id": "aclu/elections-api/county:9831",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9831",
     "area_land":1361815246,
     "area_water":3285511,
     "geoid":"42013",

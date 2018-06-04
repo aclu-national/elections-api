@@ -1,7 +1,8 @@
 {
-  "id": "county_mi_ogemaw",
+  "id": "aclu/elections-api/county:8873",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8873",
     "area_land":1459425379,
     "area_water":29682543,
     "geoid":"26129",

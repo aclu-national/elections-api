@@ -1,7 +1,8 @@
 {
-  "id": "county_pa_bedford",
+  "id": "aclu/elections-api/county:9829",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9829",
     "area_land":2621836594,
     "area_water":11935889,
     "geoid":"42009",

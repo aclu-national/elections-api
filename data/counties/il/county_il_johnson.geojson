@@ -1,7 +1,8 @@
 {
-  "id": "county_il_johnson",
+  "id": "aclu/elections-api/county:8316",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8316",
     "area_land":890741064,
     "area_water":12811451,
     "geoid":"17087",

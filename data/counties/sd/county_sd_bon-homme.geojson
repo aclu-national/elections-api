@@ -1,7 +1,8 @@
 {
-  "id": "county_sd_bon-homme",
+  "id": "aclu/elections-api/county:10024",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10024",
     "area_land":1459866820,
     "area_water":46518944,
     "geoid":"46009",

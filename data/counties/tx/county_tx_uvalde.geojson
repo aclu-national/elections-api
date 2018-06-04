@@ -1,7 +1,8 @@
 {
-  "id": "county_tx_uvalde",
+  "id": "aclu/elections-api/county:10413",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10413",
     "area_land":4019521039,
     "area_water":17320583,
     "geoid":"48463",

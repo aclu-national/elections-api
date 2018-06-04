@@ -1,7 +1,8 @@
 {
-  "id": "county_co_mesa",
+  "id": "aclu/elections-api/county:7861",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:7861",
     "area_land":8621911419,
     "area_water":31428360,
     "geoid":"08077",

@@ -1,7 +1,8 @@
 {
-  "id": "county_wv_ritchie",
+  "id": "aclu/elections-api/county:10764",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:10764",
     "area_land":1170648844,
     "area_water":4424610,
     "geoid":"54085",

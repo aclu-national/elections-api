@@ -1,7 +1,8 @@
 {
-  "id": "county_nv_nye",
+  "id": "aclu/elections-api/county:9557",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9557",
     "area_land":47090938928,
     "area_water":43207981,
     "geoid":"32023",

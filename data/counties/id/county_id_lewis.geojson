@@ -1,7 +1,8 @@
 {
-  "id": "county_id_lewis",
+  "id": "aclu/elections-api/county:8259",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:8259",
     "area_land":1240137223,
     "area_water":2345525,
     "geoid":"16061",

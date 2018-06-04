@@ -1,7 +1,8 @@
 {
-  "id": "county_ne_butler",
+  "id": "aclu/elections-api/county:9399",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9399",
     "area_land":1514884892,
     "area_water":15309107,
     "geoid":"31023",

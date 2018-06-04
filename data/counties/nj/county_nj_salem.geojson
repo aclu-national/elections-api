@@ -1,7 +1,8 @@
 {
-  "id": "county_nj_salem",
+  "id": "aclu/elections-api/county:9507",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/county:9507",
     "area_land":859474410,
     "area_water":105430413,
     "geoid":"34033",

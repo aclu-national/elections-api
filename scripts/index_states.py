@@ -1,7 +1,7 @@
 #!/bin/env python
 
 import os, sys, psycopg2, re, json
-import postgres_db, aclu_id
+import postgres_db
 
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)

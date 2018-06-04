@@ -191,7 +191,7 @@ def get_county_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, ocd_id, name, state, area_land, area_water
+		SELECT aclu_id, geoid, ocd_id, name, state, area_land, area_water
 		FROM counties
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 	'''.format(lat=lat, lng=lng))
@@ -203,7 +203,7 @@ def get_county_by_coords(lat, lng):
 		for row in rs:
 
 			county = {
-				'id': row[0],
+				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
 				'name': row[3],
@@ -219,7 +219,7 @@ def get_state_legs_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT id, geoid, ocd_id, name, state, chamber, district_num, area_land, area_water
+		SELECT aclu_id, geoid, ocd_id, name, state, chamber, district_num, area_land, area_water
 		FROM state_leg
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 	'''.format(lat=lat, lng=lng))
@@ -233,7 +233,7 @@ def get_state_legs_by_coords(lat, lng):
 			chamber = row[5]
 
 			state_legs[chamber] = {
-				'id': row[0],
+				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
 				'name': row[3],

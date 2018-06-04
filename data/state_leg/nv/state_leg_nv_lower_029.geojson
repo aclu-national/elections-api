@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_nv_lower_029",
+  "id": "aclu/elections-api/state_leg:4617",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:4617",
     "area_land":45072101,
     "area_water":0,
     "chamber":"lower",

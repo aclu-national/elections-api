@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_ky_lower_051",
+  "id": "aclu/elections-api/state_leg:3050",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:3050",
     "area_land":1739469952,
     "area_water":45593244,
     "chamber":"lower",

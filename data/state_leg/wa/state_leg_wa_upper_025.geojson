@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_wa_upper_025",
+  "id": "aclu/elections-api/state_leg:7192",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:7192",
     "area_land":173242371,
     "area_water":1244964,
     "chamber":"upper",

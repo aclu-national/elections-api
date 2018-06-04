@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_nm_lower_037",
+  "id": "aclu/elections-api/state_leg:4953",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:4953",
     "area_land":63733060,
     "area_water":56931,
     "chamber":"lower",

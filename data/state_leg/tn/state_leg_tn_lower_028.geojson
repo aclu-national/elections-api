@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_tn_lower_028",
+  "id": "aclu/elections-api/state_leg:6472",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:6472",
     "area_land":105560839,
     "area_water":8115816,
     "chamber":"lower",

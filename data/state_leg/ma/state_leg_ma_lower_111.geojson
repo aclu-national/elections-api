@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_ma_lower_111",
+  "id": "aclu/elections-api/state_leg:3637",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:3637",
     "area_land":14709572,
     "area_water":1327947,
     "chamber":"lower",

@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_fl_lower_013",
+  "id": "aclu/elections-api/state_leg:1886",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:1886",
     "area_land":122433551,
     "area_water":25841379,
     "chamber":"lower",

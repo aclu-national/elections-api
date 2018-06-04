@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_ri_lower_020",
+  "id": "aclu/elections-api/state_leg:6109",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:6109",
     "area_land":15300890,
     "area_water":954088,
     "chamber":"lower",

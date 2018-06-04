@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_nh_lower_302",
+  "id": "aclu/elections-api/state_leg:4679",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:4679",
     "area_land":533910262,
     "area_water":10264008,
     "chamber":"lower",

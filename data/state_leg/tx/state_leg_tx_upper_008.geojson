@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_tx_upper_008",
+  "id": "aclu/elections-api/state_leg:6734",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:6734",
     "area_land":797109328,
     "area_water":15002431,
     "chamber":"upper",

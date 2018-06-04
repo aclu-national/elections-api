@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_ny_lower_028",
+  "id": "aclu/elections-api/state_leg:5014",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:5014",
     "area_land":12513848,
     "area_water":0,
     "chamber":"lower",

@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_nc_lower_067",
+  "id": "aclu/elections-api/state_leg:5266",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:5266",
     "area_land":1929219678,
     "area_water":50089111,
     "chamber":"lower",

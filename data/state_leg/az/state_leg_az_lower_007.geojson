@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_az_lower_007",
+  "id": "aclu/elections-api/state_leg:1236",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:1236",
     "area_land":95540089480,
     "area_water":212268861,
     "chamber":"lower",

@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_ok_lower_035",
+  "id": "aclu/elections-api/state_leg:5632",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:5632",
     "area_land":2778750261,
     "area_water":108972539,
     "chamber":"lower",

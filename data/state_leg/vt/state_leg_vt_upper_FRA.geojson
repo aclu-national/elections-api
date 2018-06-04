@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_vt_upper_FRA",
+  "id": "aclu/elections-api/state_leg:6972",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:6972",
     "area_land":1459010475,
     "area_water":201018850,
     "chamber":"upper",

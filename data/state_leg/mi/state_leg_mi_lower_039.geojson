@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_mi_lower_039",
+  "id": "aclu/elections-api/state_leg:3825",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:3825",
     "area_land":134202461,
     "area_water":15249730,
     "chamber":"lower",

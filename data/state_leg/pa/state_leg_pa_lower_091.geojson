@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_pa_lower_091",
+  "id": "aclu/elections-api/state_leg:5927",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:5927",
     "area_land":837411256,
     "area_water":3772424,
     "chamber":"lower",

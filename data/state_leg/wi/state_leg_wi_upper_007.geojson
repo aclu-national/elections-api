@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_wi_upper_007",
+  "id": "aclu/elections-api/state_leg:7406",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:7406",
     "area_land":150247824,
     "area_water":1407420735,
     "chamber":"upper",

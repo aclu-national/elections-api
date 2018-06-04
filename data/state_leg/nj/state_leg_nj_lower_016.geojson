@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_nj_lower_016",
+  "id": "aclu/elections-api/state_leg:4852",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:4852",
     "area_land":763656527,
     "area_water":7282272,
     "chamber":"lower",

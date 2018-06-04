@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_id_upper_016",
+  "id": "aclu/elections-api/state_leg:2396",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:2396",
     "area_land":30832372,
     "area_water":818984,
     "chamber":"upper",

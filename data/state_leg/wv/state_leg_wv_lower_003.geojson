@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_wv_lower_003",
+  "id": "aclu/elections-api/state_leg:7219",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:7219",
     "area_land":194677779,
     "area_water":7736933,
     "chamber":"lower",

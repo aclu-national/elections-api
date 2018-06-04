@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_ks_upper_029",
+  "id": "aclu/elections-api/state_leg:2988",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:2988",
     "area_land":61980839,
     "area_water":928783,
     "chamber":"upper",

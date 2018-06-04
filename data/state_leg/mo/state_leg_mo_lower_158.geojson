@@ -1,7 +1,8 @@
 {
-  "id": "state_leg_mo_lower_158",
+  "id": "aclu/elections-api/state_leg:4350",
   "type": "Feature",
   "properties": {
+    "aclu_id":"aclu/elections-api/state_leg:4350",
     "area_land":2075930488,
     "area_water":33068150,
     "chamber":"lower",

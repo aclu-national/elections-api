@@ -3,6 +3,7 @@
 import json, os, sys, re, us, area
 import mapzen.whosonfirst.geojson
 import mapzen.whosonfirst.utils
+import data_index
 
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
@@ -51,8 +52,9 @@ for filename in files:
 			print("skipping %s" % path)
 			continue
 
-		name = "state_leg_%s_%s_%s" % (state, chamber, district_num)
-		path = "%s/%s/%s.geojson" % (data_dir, state, name)
+		name = "state_leg_%s_%s_%s.geojson" % (state, chamber, district_num)
+		path = "state_leg/%s/%s" % (state, name)
+		abs_path = "%s/data/%s" % (root_dir, path)
 
 		non_zero_padded = re.search('^0+(\d+)', district_num)
 		if not non_zero_padded:
@@ -61,9 +63,11 @@ for filename in files:
 			non_zero_padded = non_zero_padded.group(1)
 
 		ocd_id = 'ocd-division/country:us/state:%s/%s:%s' % (state, chamber_id, non_zero_padded)
+		aclu_id = data_index.get_id('elections-api', 'state_leg', path, props["NAMELSAD"])
 
 		print("Saving %s" % path)
 		feature["properties"] = {
+			"aclu_id": aclu_id,
 			"geoid": props["GEOID"],
 			"ocd_id": ocd_id,
 			"name": props["NAMELSAD"],
@@ -73,15 +77,18 @@ for filename in files:
 			"area_land": props["ALAND"],
 			"area_water": props["AWATER"]
 		}
-		feature["id"] = name
+		feature["id"] = aclu_id
 
 		mapzen.whosonfirst.utils.ensure_bbox(feature)
 
-		dirname = os.path.dirname(path)
+		dirname = os.path.dirname(abs_path)
 		if not os.path.exists(dirname):
 			os.makedirs(dirname)
 
-		with open(path, 'w') as outfile:
+		with open(abs_path, 'w') as outfile:
 			encoder.encode_feature(feature, outfile)
 
-	print("Done")
+print("Saving index")
+data_index.save_index('elections-api')
+
+print("Done")

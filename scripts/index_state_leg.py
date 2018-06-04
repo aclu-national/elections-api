@@ -13,7 +13,7 @@ cur = conn.cursor()
 cur.execute("DROP TABLE IF EXISTS state_leg CASCADE")
 cur.execute('''
 	CREATE TABLE state_leg (
-		id SERIAL PRIMARY KEY,
+		aclu_id VARCHAR(255) PRIMARY KEY,
 		geoid VARCHAR(255),
 		ocd_id VARCHAR(255),
 		name VARCHAR(255),
@@ -29,6 +29,7 @@ conn.commit()
 
 insert_sql = '''
 	INSERT INTO state_leg (
+		aclu_id,
 		geoid,
 		ocd_id,
 		name,
@@ -38,7 +39,7 @@ insert_sql = '''
 		area_land,
 		area_water,
 		boundary
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 cur = conn.cursor()
@@ -63,6 +64,7 @@ for filename in files:
 	with open(filename) as geojson:
 		feature = json.load(geojson)
 
+	aclu_id = feature["properties"]["aclu_id"]
 	geoid = feature["properties"]["geoid"]
 	ocd_id = feature["properties"]["ocd_id"]
 	name = feature["properties"]["name"]
@@ -75,6 +77,7 @@ for filename in files:
 	boundary = json.dumps(geometry)
 
 	state_leg = [
+		aclu_id,
 		geoid,
 		ocd_id,
 		name,

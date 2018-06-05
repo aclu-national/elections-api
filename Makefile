@@ -4,7 +4,8 @@ all: congress_sessions \
      congress_scores \
      states \
      counties \
-     state_leg
+     state_leg \
+     ballotpedia_races
 
 congress_sessions:
 	python scripts/index_congress_sessions.py
@@ -26,3 +27,6 @@ counties:
 
 state_leg:
 	python scripts/index_state_leg.py
+
+ballotpedia_races:
+	python scripts/index_ballotpedia_races.py

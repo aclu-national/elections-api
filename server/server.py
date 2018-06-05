@@ -179,7 +179,8 @@ def get_district_by_coords(lat, lng, session_num=115):
 				'district_num': district_num,
 				'area': area,
 				'at_large': at_large,
-				'non_voting': non_voting
+				'non_voting': non_voting,
+				'races': get_races_by_ocd_id(ocd_id)
 			}
 
 	cur.close()
@@ -226,7 +227,8 @@ def get_district_by_id(id):
 				'district_num': district_num,
 				'area': area,
 				'at_large': at_large,
-				'non_voting': non_voting
+				'non_voting': non_voting,
+				'races': get_races_by_ocd_id(ocd_id)
 			}
 
 	cur.close()
@@ -254,7 +256,8 @@ def get_county_by_coords(lat, lng):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6]
+				'area_water': row[6],
+				'races': get_races_by_ocd_id(row[2])
 			}
 
 	cur.close()
@@ -286,7 +289,8 @@ def get_state_legs_by_coords(lat, lng):
 				'chamber': chamber,
 				'district_num': row[6],
 				'area_land': row[7],
-				'area_water': row[8]
+				'area_water': row[8],
+				'races': get_races_by_ocd_id(row[2])
 			}
 
 	cur.close()
@@ -586,7 +590,7 @@ def pip_state():
 	})
 
 @app.route("/pip_congress")
-def congress():
+def pip_congress():
 	req = get_lat_lng()
 	if type(req) == str:
 		return flask.jsonify({
@@ -604,7 +608,7 @@ def congress():
 	})
 
 @app.route("/pip_county")
-def county():
+def pip_county():
 	req = get_lat_lng()
 
 	if type(req) == str:
@@ -629,7 +633,7 @@ def county():
 	})
 
 @app.route("/pip_state_leg")
-def state_leg():
+def pip_state_leg():
 	req = get_lat_lng()
 
 	if type(req) == str:

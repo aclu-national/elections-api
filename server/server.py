@@ -34,6 +34,50 @@ def setup_sessions():
 				"end_date": str(row[2])
 			}
 
+def get_races_by_ocd_id(ocd_id, year = '2018'):
+
+	races = {}
+	election_dates = [
+		'primary_date',
+		'primary_runoff_date',
+		'general_date',
+		'general_runoff_date'
+	]
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT name, year, type, primary_date, primary_runoff_date,
+		       general_date, general_runoff_date
+		FROM election_races
+		WHERE ocd_id = %s
+		  AND year = %s
+	''', (ocd_id, year))
+
+	rs = cur.fetchall()
+
+	if rs:
+		for row in rs:
+
+			elections = {
+				'primary_date': row[3],
+				'primary_runoff_date': row[4],
+				'general_date': row[5],
+				'general_runoff_date': row[6]
+			}
+
+			for date in election_dates:
+				if elections[date]:
+					date_formatted = arrow.get(elections[date]).format('YYYY-MM-DD')
+					if not date_formatted in races:
+						races[date_formatted] = []
+					races[date_formatted].append({
+						'name': row[0],
+						'election': re.sub('_date$', '', date),
+						'type': row[2].lower()
+					})
+
+	return races
+
 def get_state_by_coords(lat, lng):
 
 	cur = flask.g.db.cursor()
@@ -48,14 +92,15 @@ def get_state_by_coords(lat, lng):
 
 	if rs:
 		for row in rs:
-
 			state = {
 				'aclu_id': row[0],
-				'name': row[1],
-				'state': row[2],
-				'area_land': row[3],
-				'area_water': row[4],
-				'fips_id': row[5]
+				'geoid': row[1],
+				'ocd_id': row[2],
+				'name': row[3],
+				'state': row[4],
+				'area_land': row[5],
+				'area_water': row[6],
+				'races': get_races_by_ocd_id(row[2])
 			}
 
 	cur.close()
@@ -75,7 +120,6 @@ def get_state_by_abbrev(abbrev):
 
 	if rs:
 		for row in rs:
-
 			state = {
 				'aclu_id': row[0],
 				'geoid': row[1],
@@ -83,7 +127,8 @@ def get_state_by_abbrev(abbrev):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6]
+				'area_water': row[6],
+				'races': get_races_by_ocd_id(row[2])
 			}
 
 	cur.close()
@@ -511,7 +556,7 @@ def pip():
 	})
 
 @app.route("/pip_state")
-def state():
+def pip_state():
 	req = get_lat_lng()
 
 	if type(req) == str:
@@ -535,7 +580,9 @@ def state():
 	return flask.jsonify({
 		'ok': 1,
 		'state': rsp,
-		'legislators': legislators
+		'congress': {
+			'legislators': legislators
+		}
 	})
 
 @app.route("/pip_congress")

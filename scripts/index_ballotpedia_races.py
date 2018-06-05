@@ -24,6 +24,7 @@ cur.execute('''
 		general_runoff_date DATE
 	)
 ''')
+conn.commit()
 
 insert_sql = '''
 	INSERT INTO election_races (
@@ -91,3 +92,6 @@ for path in files:
 				cur.execute(insert_sql, values)
 
 			row_num = row_num + 1
+		conn.commit()
+
+print("Done")

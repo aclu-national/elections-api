@@ -1,0 +1,19 @@
+#!/bin/bash
+
+project="elections-api"
+project_path="/usr/local/aclu/$project"
+source_path="$project_path/sources/congress_photos"
+data_path="$project_path/data/congress_photos"
+
+node="/usr/local/bin/node"
+smartcrop="$project_path/node_modules/smartcrop-cli/smartcrop-cli.js"
+width="175"
+height="175"
+
+mkdir -p "$data_path"
+
+for path in `ls $source_path/*.jpg` ; do
+	filename=`basename $path`
+	cropped="$data_path/$filename"
+	$node $smartcrop --width $width --height $height $path $cropped
+done

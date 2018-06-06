@@ -420,7 +420,10 @@ def get_legislators(cur):
 				path = 'congress_photos/%s.jpg' % value
 				abs_path = '/usr/local/aclu/elections-api/data/%s' % path
 				if os.path.isfile(abs_path):
-					legislators[aclu_id]['photo'] = "%s%s" % (flask.request.url_root, path)
+					url_root = flask.request.url_root
+					if re.search('elb\.amazonaws\.com', url_root):
+						url_root = 'https://elections.api.aclu.org/'
+					legislators[aclu_id]['photo'] = "%s%s" % (url_root, path)
 
 	cur.execute('''
 		SELECT aclu_id, social_media_name, social_media_value

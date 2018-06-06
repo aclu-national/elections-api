@@ -1,6 +1,7 @@
 all: congress_districts_113 \
      congress_districts_116_pa \
      congress_legislators \
+     congress_photos \
      states \
      counties \
      state_leg
@@ -13,6 +14,9 @@ congress_districts_116_pa:
 
 congress_legislators:
 	python ../scripts/data_congress_legislators.py
+
+congress_photos:
+	../scripts/data_congress_photos.sh
 
 states:
 	python ../scripts/data_states.py

@@ -16,7 +16,7 @@ for legislator in data:
 	bioguide = legislator["id"]["bioguide"]
 	url = "http://bioguide.congress.gov/bioguide/photo/%s/%s.jpg" % (bioguide[0], bioguide)
 	path = "%s/sources/congress_photos/%s.jpg" % (root_dir, bioguide)
-	cmd = ["/usr/bin/curl", "-s", "-o", path, url]
+	cmd = ["/usr/bin/curl", "--fail", "-s", "-o", path, url]
 	print("Downloading %s" % url)
 	call(cmd)
 

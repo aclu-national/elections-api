@@ -14,6 +14,8 @@ mkdir -p "$data_path"
 
 for path in `ls $source_path/*.jpg` ; do
 	filename=`basename $path`
+	echo "Cropping $filename"
 	cropped="$data_path/$filename"
-	$node $smartcrop --width $width --height $height $path $cropped
+	json=`echo $cropped | sed 's/.jpg/.json/'`
+	$node $smartcrop --width $width --height $height $path $cropped > $json
 done

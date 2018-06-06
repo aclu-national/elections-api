@@ -417,10 +417,10 @@ def get_legislators(cur):
 				legislators[aclu_id]['id'] = {}
 			legislators[aclu_id]['id'][key] = value
 			if key == 'bioguide':
-				url = '/congress_photos/%s.jpg' % value
-				path = '/usr/local/aclu/elections-api/data%s' % url
-				if os.path.isfile(path):
-					legislators[aclu_id]['photo'] = url
+				path = 'congress_photos/%s.jpg' % value
+				abs_path = '/usr/local/aclu/elections-api/data/%s' % path
+				if os.path.isfile(abs_path):
+					legislators[aclu_id]['photo'] = "%s%s" % (flask.request.url_root, path)
 
 	cur.execute('''
 		SELECT aclu_id, social_media_name, social_media_value

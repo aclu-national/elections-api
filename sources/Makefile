@@ -1,6 +1,7 @@
 all: congress_sessions \
      congress_districts \
      congress_legislators \
+     congress_photos \
      states \
      counties \
      state_leg
@@ -28,6 +29,10 @@ congress_legislators:
 	mkdir -p congress_legislators
 	curl -o congress_legislators/congress_legislators-current.yaml https://raw.githubusercontent.com/unitedstates/congress-congress_legislators/master/congress_legislators-current.yaml
 	curl -o congress_legislators/congress_legislators-social-media.yaml https://raw.githubusercontent.com/unitedstates/congress-congress_legislators/master/congress_legislators-social-media.yaml
+
+congress_photos:
+	mkdir -p congress_photos
+	python ../scripts/source_congress_photos.py
 
 states:
 	mkdir -p states

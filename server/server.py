@@ -416,6 +416,11 @@ def get_legislators(cur):
 			if not 'id' in legislators[aclu_id]:
 				legislators[aclu_id]['id'] = {}
 			legislators[aclu_id]['id'][key] = value
+			if key == 'bioguide':
+				url = '/congress_photos/%s.jpg' % value
+				path = '/usr/local/aclu/elections-api/data%s' % url
+				if os.path.isfile(path):
+					legislators[aclu_id]['photo'] = url
 
 	cur.execute('''
 		SELECT aclu_id, social_media_name, social_media_value

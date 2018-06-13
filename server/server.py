@@ -461,11 +461,14 @@ def get_legislators(cur):
 			if name == 'total':
 				legislators[aclu_id]['total_score'] = value
 			else:
-				legislators[aclu_id]['scores'].append({
-					'name': name,
-					'aclu_position': position,
-					'value': value
-				})
+				if value == '1' or value == '0':
+					value = int(value)
+					score = {
+						'name': name,
+						'aclu_position': position,
+						'value': value
+					}
+					legislators[aclu_id]['scores'].append(score)
 
 	cur.close()
 

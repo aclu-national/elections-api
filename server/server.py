@@ -442,7 +442,7 @@ def get_legislators(cur):
 			legislators[aclu_id]['social'][key] = value
 
 	cur.execute('''
-		SELECT aclu_id, category, subcategory, position, name, value
+		SELECT aclu_id, position, name, value
 		FROM congress_legislator_scores
 		WHERE aclu_id IN ({aclu_ids})
 	'''.format(aclu_ids=aclu_ids))
@@ -451,33 +451,19 @@ def get_legislators(cur):
 	if rs:
 		for row in rs:
 			aclu_id = row[0]
-			category = row[1].strip()
-			subcategory = row[2].strip()
-			position = row[3]
-			name = row[4]
-			value = row[5]
+			position = row[1]
+			name = row[2]
+			value = row[3]
 
 			if not 'scores' in legislators[aclu_id]:
-				legislators[aclu_id]['scores'] = {}
+				legislators[aclu_id]['scores'] = []
 
-			if category == '':
-				if not 'summary' in legislators[aclu_id]['scores']:
-					legislators[aclu_id]['scores']['summary'] = []
-				legislators[aclu_id]['scores']['summary'].append({
-					'name': position,
-					'value': value
-				})
+			if name == 'total':
+				legislators[aclu_id]['total_score'] = value
 			else:
-
-				if not category in legislators[aclu_id]['scores']:
-					legislators[aclu_id]['scores'][category] = {}
-
-				if not subcategory in legislators[aclu_id]['scores'][category]:
-					legislators[aclu_id]['scores'][category][subcategory] = []
-
-				legislators[aclu_id]['scores'][category][subcategory].append({
+				legislators[aclu_id]['scores'].append({
 					'name': name,
-					'position': position,
+					'aclu_position': position,
 					'value': value
 				})
 

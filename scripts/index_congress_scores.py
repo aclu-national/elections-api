@@ -21,8 +21,6 @@ cur.execute("DROP TABLE IF EXISTS congress_legislator_scores CASCADE")
 cur.execute('''
 	CREATE TABLE congress_legislator_scores (
 		aclu_id VARCHAR(255),
-		category VARCHAR(255),
-		subcategory VARCHAR(255),
 		position VARCHAR(255),
 		name VARCHAR(512),
 		value VARCHAR(255)
@@ -32,12 +30,10 @@ cur.execute('''
 legislator_score_insert_sql = '''
 	INSERT INTO congress_legislator_scores (
 		aclu_id,
-		category,
-		subcategory,
 		position,
 		name,
 		value
-	) VALUES (%s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s)
 '''
 
 reps = {}
@@ -75,6 +71,10 @@ if rs:
 				'last_name': row[4]
 			})
 
+# NOTE: there are two blocks of code here that look pretty similar, but vary
+# a bit, so don't make the mistake of changing one and not the other.
+# (20180613/dphiffer)
+
 rep_scores_csv = '%s/sources/aclu_scores/aclu_rep_scores.csv' % root_dir
 with open(rep_scores_csv, 'rb') as csvfile:
 
@@ -82,8 +82,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 
 	row_num = 0
 	headers = []
-	categories = []
-	subcategories = []
+	bills = []
 	aclu_position = []
 
 	for row in reader:
@@ -91,30 +90,47 @@ with open(rep_scores_csv, 'rb') as csvfile:
 		name = row.pop(0)
 		state_district = row.pop(0)
 		party = row.pop(0)
+		total_score = row.pop(0)
+
+		if name == 'LEGEND:':
+			break
 
 		if row_num == 0:
 			headers = row
 		elif row_num == 1:
-			categories = row
+			bills = row
 		elif row_num == 2:
-			subcategories = row
-		elif row_num == 3:
 			aclu_position = row
-		else:
+		elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
 			print name
+
 			if state_district in reps:
 				col_num = 0
+
+				aclu_id = reps[state_district]
+
+				values = [
+					aclu_id,
+					'',
+					'total',
+					total_score
+				]
+				values = tuple(values)
+				cur.execute(legislator_score_insert_sql, values)
+
 				for col in row:
-					aclu_id = reps[state_district]
-					category = categories[col_num]
-					subcategory = subcategories[col_num]
-					position = aclu_position[col_num]
-					name = headers[col_num]
+
+					if aclu_position[col_num] == 'ACLU Opposed':
+						position = 'opposed'
+					elif aclu_position[col_num] == 'ACLU Supported':
+						position = 'supported'
+					else:
+						print('WARNING: unknown position for column num %s' % col_num)
+						position = 'unknown'
+					name = bills[col_num]
 					value = row[col_num]
 					values = [
 						aclu_id,
-						category,
-						subcategory,
 						position,
 						name,
 						value
@@ -127,6 +143,10 @@ with open(rep_scores_csv, 'rb') as csvfile:
 
 		conn.commit()
 
+# NOTE: there are two blocks of code here that look pretty similar, but vary
+# a bit, so don't make the mistake of changing one and not the other.
+# (20180613/dphiffer)
+
 sen_scores_csv = '%s/sources/aclu_scores/aclu_sen_scores.csv' % root_dir
 with open(sen_scores_csv, 'rb') as csvfile:
 
@@ -134,8 +154,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 
 	row_num = 0
 	headers = []
-	categories = []
-	subcategories = []
+	bills = []
 	aclu_position = []
 
 	for row in reader:
@@ -143,16 +162,18 @@ with open(sen_scores_csv, 'rb') as csvfile:
 		name = row.pop(0)
 		state = row.pop(0)
 		party = row.pop(0)
+		total_score = row.pop(0)
+
+		if name == 'LEGEND:':
+			break
 
 		if row_num == 0:
 			headers = row
 		elif row_num == 1:
-			categories = row
+			bills = row
 		elif row_num == 2:
-			subcategories = row
-		elif row_num == 3:
 			aclu_position = row
-		else:
+		elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
 			print name
 
 			lname0 = strip_accents(sens[state][0]["last_name"])
@@ -166,17 +187,30 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				print "COULD NOT FIND %s" % name
 				continue
 
+			values = [
+				aclu_id,
+				'',
+				'total',
+				total_score
+			]
+			values = tuple(values)
+			cur.execute(legislator_score_insert_sql, values)
+
 			col_num = 0
 			for col in row:
-				category = categories[col_num]
-				subcategory = subcategories[col_num]
-				position = aclu_position[col_num]
-				name = headers[col_num]
+
+				if aclu_position[col_num] == 'ACLU Opposed' or aclu_position[col_num] == 'ACLU ACLU Opposed':
+					position = 'opposed'
+				elif aclu_position[col_num] == 'ACLU Supported':
+					position = 'supported'
+				else:
+					print('WARNING: unknown position for column num %s' % col_num)
+					position = 'unknown'
+
+				name = bills[col_num]
 				value = row[col_num]
 				values = [
 					aclu_id,
-					category,
-					subcategory,
 					position,
 					name,
 					value

@@ -21,6 +21,7 @@ cur.execute("DROP TABLE IF EXISTS congress_legislator_scores CASCADE")
 cur.execute('''
 	CREATE TABLE congress_legislator_scores (
 		aclu_id VARCHAR(255),
+		legislator_id VARCHAR(255),
 		position VARCHAR(255),
 		name VARCHAR(512),
 		value VARCHAR(255)
@@ -30,10 +31,11 @@ cur.execute('''
 legislator_score_insert_sql = '''
 	INSERT INTO congress_legislator_scores (
 		aclu_id,
+		legislator_id,
 		position,
 		name,
 		value
-	) VALUES (%s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s)
 '''
 
 reps = {}
@@ -107,10 +109,11 @@ with open(rep_scores_csv, 'rb') as csvfile:
 			if state_district in reps:
 				col_num = 0
 
-				aclu_id = reps[state_district]
+				legislator_id = reps[state_district]
 
 				values = [
-					aclu_id,
+					legislator_id + '/score:0',
+					legislator_id,
 					'',
 					'total',
 					total_score
@@ -127,10 +130,15 @@ with open(rep_scores_csv, 'rb') as csvfile:
 					else:
 						print('WARNING: unknown position for column num %s' % col_num)
 						position = 'unknown'
+
+					score_num = headers[col_num]
+					aclu_id = '%s/score:%s' % (legislator_id, score_num)
 					name = bills[col_num]
 					value = row[col_num]
+
 					values = [
 						aclu_id,
+						legislator_id,
 						position,
 						name,
 						value
@@ -180,15 +188,16 @@ with open(sen_scores_csv, 'rb') as csvfile:
 			lname1 = strip_accents(sens[state][1]["last_name"])
 
 			if name.find(lname0) != -1:
-				aclu_id = sens[state][0]["aclu_id"]
+				legislator_id = sens[state][0]["aclu_id"]
 			elif name.find(lname1) != -1:
-				aclu_id = sens[state][1]["aclu_id"]
+				legislator_id = sens[state][1]["aclu_id"]
 			else:
 				print "COULD NOT FIND %s" % name
 				continue
 
 			values = [
-				aclu_id,
+				legislator_id + '/score:0',
+				legislator_id,
 				'',
 				'total',
 				total_score
@@ -207,10 +216,14 @@ with open(sen_scores_csv, 'rb') as csvfile:
 					print('WARNING: unknown position for column num %s' % col_num)
 					position = 'unknown'
 
+				score_num = headers[col_num]
+				aclu_id = '%s/score:%s' % (legislator_id, score_num)
 				name = bills[col_num]
 				value = row[col_num]
+
 				values = [
 					aclu_id,
+					legislator_id,
 					position,
 					name,
 					value

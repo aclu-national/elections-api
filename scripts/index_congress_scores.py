@@ -145,7 +145,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 				legislator_id = reps[state_district]
 
 				values = [
-					legislator_id + '/rep_score:0',
+					'',
 					legislator_id,
 					'',
 					'total',
@@ -165,7 +165,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 						position = 'unknown'
 
 					score_num = headers[col_num]
-					aclu_id = '%s/rep_score:%s' % (legislator_id, score_num)
+					aclu_id = 'aclu/elections-api/rep_score:%s' % score_num
 					name = bills[col_num]
 					value = row[col_num]
 
@@ -229,7 +229,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				continue
 
 			values = [
-				legislator_id + '/sen_score:0',
+				'',
 				legislator_id,
 				'',
 				'total',
@@ -250,7 +250,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 					position = 'unknown'
 
 				score_num = headers[col_num]
-				aclu_id = '%s/sen_score:%s' % (legislator_id, score_num)
+				aclu_id = 'aclu/elections-api/sen_score:%s' % score_num
 				name = bills[col_num]
 				value = row[col_num]
 

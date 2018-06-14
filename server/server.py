@@ -441,6 +441,8 @@ def get_legislators(cur):
 				legislators[aclu_id]['social'] = {}
 			legislators[aclu_id]['social'][key] = value
 
+	score_filter = flask.request.args.get('scores', 'voted')
+
 	cur.execute('''
 		SELECT aclu_id, position, name, value
 		FROM congress_legislator_scores
@@ -461,13 +463,22 @@ def get_legislators(cur):
 			if name == 'total':
 				legislators[aclu_id]['total_score'] = value
 			else:
+				score = {
+					'name': name,
+					'aclu_position': position,
+					'status': 'unknown'
+				}
 				if value == '1' or value == '0':
-					value = int(value)
-					score = {
-						'name': name,
-						'aclu_position': position,
-						'value': value
-					}
+					score['voted_for'] = int(value)
+					score['status'] = 'voted'
+				elif value == 'Missed':
+					score['status'] = 'missed'
+				elif value == 'Not yet in office':
+					score['status'] = 'not_in_office'
+				elif value == 'Not on committee':
+					score['status'] = 'not_on_committee'
+
+				if score_filter == 'all' or score_filter == score['status']:
 					legislators[aclu_id]['scores'].append(score)
 
 	cur.close()

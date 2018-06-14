@@ -1,6 +1,6 @@
 #!/bin/env python
 
-import psycopg2, os, re, sys, csv
+import psycopg2, os, re, sys, csv, arrow
 import postgres_db
 import unicodedata
 
@@ -28,6 +28,23 @@ cur.execute('''
 	)
 ''')
 
+cur.execute("DROP TABLE IF EXISTS congress_legislator_score_index CASCADE")
+cur.execute('''
+	CREATE TABLE congress_legislator_score_index (
+		aclu_id VARCHAR(255),
+		vote_context VARCHAR(255),
+		roll_call INTEGER,
+		vote_date DATE,
+		vote_type VARCHAR(255),
+		bill VARCHAR(255),
+		amendment VARCHAR(255),
+		title VARCHAR(512),
+		description TEXT,
+		committee VARCHAR(255),
+		link VARCHAR(255)
+	)
+''')
+
 legislator_score_insert_sql = '''
 	INSERT INTO congress_legislator_scores (
 		aclu_id,
@@ -36,6 +53,22 @@ legislator_score_insert_sql = '''
 		name,
 		value
 	) VALUES (%s, %s, %s, %s, %s)
+'''
+
+legislator_score_index_insert_sql = '''
+	INSERT INTO congress_legislator_score_index (
+		aclu_id,
+		vote_context,
+		roll_call,
+		vote_date,
+		vote_type,
+		bill,
+		amendment,
+		title,
+		description,
+		committee,
+		link
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 reps = {}
@@ -112,7 +145,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 				legislator_id = reps[state_district]
 
 				values = [
-					legislator_id + '/score:0',
+					legislator_id + '/rep_score:0',
 					legislator_id,
 					'',
 					'total',
@@ -132,7 +165,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 						position = 'unknown'
 
 					score_num = headers[col_num]
-					aclu_id = '%s/score:%s' % (legislator_id, score_num)
+					aclu_id = '%s/rep_score:%s' % (legislator_id, score_num)
 					name = bills[col_num]
 					value = row[col_num]
 
@@ -196,7 +229,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				continue
 
 			values = [
-				legislator_id + '/score:0',
+				legislator_id + '/sen_score:0',
 				legislator_id,
 				'',
 				'total',
@@ -217,7 +250,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 					position = 'unknown'
 
 				score_num = headers[col_num]
-				aclu_id = '%s/score:%s' % (legislator_id, score_num)
+				aclu_id = '%s/sen_score:%s' % (legislator_id, score_num)
 				name = bills[col_num]
 				value = row[col_num]
 
@@ -236,5 +269,67 @@ with open(sen_scores_csv, 'rb') as csvfile:
 
 		conn.commit()
 
+for chamber in ['rep', 'sen']:
+
+	filename = '%s/sources/aclu_scores/aclu_%s_score_index.csv' % (root_dir, chamber)
+	with open(filename, 'rb') as csvfile:
+
+		reader = csv.reader(csvfile)
+
+		row_num = 0
+		headers = []
+
+		for row in reader:
+
+			row_num = row_num + 1 # 1-indexed
+
+			if row_num == 1:
+				headers = row
+				continue
+			elif row[1] == 'FLOOR VOTES':
+				vote_context = 'floor'
+				continue
+			elif row[1] == 'COMMITTEE VOTES':
+				vote_context = 'committee'
+				continue
+			elif not re.search('^\d+$', row[0]):
+				continue
+
+			score_num = row[0]
+			aclu_id = 'aclu/elections-api/%s_score:%s' % (chamber, score_num)
+
+			if re.search('^\d+$', row[1]):
+				roll_call = int(row[1])
+			else:
+				roll_call = None
+
+			vote_date = arrow.get(row[2], 'M/D/YYYY').format('YYYY-MM-DD')
+			vote_type = row[3]
+			bill = row[4]
+			amendment = row[5]
+			title = row[6]
+			description = row[7]
+			committee = row[8]
+			link = row[9]
+
+			print(aclu_id)
+
+			values = (
+				aclu_id,
+				vote_context,
+				roll_call,
+				vote_date,
+				vote_type,
+				bill,
+				amendment,
+				title,
+				description,
+				committee,
+				link
+			)
+			cur.execute(legislator_score_index_insert_sql, values)
+			conn.commit()
+
 conn.close()
+
 print("Done")

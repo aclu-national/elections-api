@@ -25,7 +25,7 @@ __Required arguments__
 * `lng` - longitude
 
 __Optional arguments__
-* `scores` - legislator score filter, defaults to `voted`. Set to `all` to get all scores, including those where the legislators did not vote.
+* `scores` - congressional legislator score filter, defaults to `voted`. Set to `all` to get all scores, including those where the legislators did not vote. Only applies to `/pip` and `/pip_congress`.
 
 ## Dependencies
 

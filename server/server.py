@@ -667,6 +667,41 @@ def pip_state_leg():
 		'state_leg': rsp
 	})
 
+@app.route("/congress_scores")
+def congress_scores():
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT aclu_id, vote_context, roll_call, vote_date, vote_type, bill,
+		       amendment, title, description, committee, link
+		FROM congress_legislator_score_index
+		ORDER BY aclu_id
+	''')
+
+	scores = []
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			scores.append({
+				'aclu_id': row[0],
+				'vote_context': row[1],
+				'roll_call': row[2],
+				'vote_date': arrow.get(row[3]).format('YYYY-MM-DD'),
+				'vote_type': row[4],
+				'bill': row[5],
+				'amendment': row[6],
+				'title': row[7],
+				'description': row[8],
+				'committee': row[9],
+				'link': row[10]
+			})
+
+	return flask.jsonify({
+		'ok': 1,
+		'congress_scores': scores
+	})
+
 if __name__ == '__main__':
 	port = os.getenv('PORT', 5000)
 	port = int(port)

@@ -444,32 +444,34 @@ def get_legislators(cur):
 	score_filter = flask.request.args.get('scores', 'voted')
 
 	cur.execute('''
-		SELECT aclu_id, position, name, value
+		SELECT aclu_id, legislator_id, position, name, value
 		FROM congress_legislator_scores
-		WHERE aclu_id IN ({aclu_ids})
+		WHERE legislator_id IN ({aclu_ids})
 	'''.format(aclu_ids=aclu_ids))
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
 			aclu_id = row[0]
-			position = row[1]
-			name = row[2]
-			value = row[3]
+			legislator_id = row[1]
+			position = row[2]
+			name = row[3]
+			value = row[4]
 
-			if not 'scores' in legislators[aclu_id]:
-				legislators[aclu_id]['scores'] = []
+			if not 'scores' in legislators[legislator_id]:
+				legislators[legislator_id]['scores'] = []
 
 			if name == 'total':
-				legislators[aclu_id]['total_score'] = value
+				legislators[legislator_id]['total_score'] = value
 			else:
 				score = {
-					'name': name,
+					'aclu_id': aclu_id,
 					'aclu_position': position,
+					'name': name,
 					'status': 'unknown'
 				}
 				if value == '1' or value == '0':
-					score['voted_for'] = int(value)
+					score['vote'] = int(value)
 					score['status'] = 'voted'
 				elif value == 'Missed':
 					score['status'] = 'missed'
@@ -479,7 +481,7 @@ def get_legislators(cur):
 					score['status'] = 'not_on_committee'
 
 				if score_filter == 'all' or score_filter == score['status']:
-					legislators[aclu_id]['scores'].append(score)
+					legislators[legislator_id]['scores'].append(score)
 
 	cur.close()
 

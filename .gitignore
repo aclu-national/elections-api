@@ -1,6 +1,6 @@
 .DS_Store
+*.pyc
 /node_modules
-/scripts/*.pyc
 /sources/congress_districts_113
 /sources/congress_districts_116_pa
 /sources/congress_legislators

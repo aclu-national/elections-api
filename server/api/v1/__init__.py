@@ -1,40 +1,8 @@
-#!/usr/bin/env python
+__import__('pkg_resources').declare_namespace(__name__)
 
-import flask, flask_cors, json, os, psycopg2, re, sys, arrow
-from api.v1 import api as api_v1
+import flask
 
-app = flask.Flask(__name__)
-flask_cors.CORS(app)
-app.register_blueprint(api_v1, url_prefix='/v1')
-
-@app.before_request
-def init():
-	db_connect()
-	setup_sessions()
-
-def db_connect():
-	default_dsn = 'dbname=elections'
-	db_dsn = os.getenv('POSTGRES_DSN', default_dsn)
-	flask.g.db = psycopg2.connect(db_dsn)
-
-def setup_sessions():
-	flask.g.sessions = {}
-	cur = flask.g.db.cursor()
-	cur.execute('''
-		SELECT id, start_date, end_date
-		FROM congress_sessions
-		ORDER BY id DESC
-	''')
-
-	rs = cur.fetchall()
-	results = []
-	if rs:
-		for row in rs:
-			id = row[0]
-			flask.g.sessions[id] = {
-				"start_date": str(row[1]),
-				"end_date": str(row[2])
-			}
+api = flask.Blueprint('api', __name__)
 
 def get_races_by_ocd_id(ocd_id, year = '2018'):
 
@@ -531,19 +499,21 @@ def get_congress(lat, lng):
 
 	return rsp
 
-@app.route("/")
-def hello():
-	return '''
-<pre>Hello, you probably want to use:
+@api.route("/")
+def index():
+	return flask.jsonify({
+		'ok': 0,
+		'error': 'Please pick a valid endpoint.',
+		'valid_endpoints': [
+			'/v1/pip',
+			'/v1/pip_congress',
+			'/v1/pip_state',
+			'/v1/county',
+			'/v1/state_leg'
+		]
+	})
 
-	<a href="/pip">/pip</a>
-	<a href="/pip_state">/pip_state</a>
-	<a href="/pip_congress">/pip_congress</a>
-	<a href="/pip_county">/pip_county</a>
-	<a href="/pip_state_leg">/pip_state_leg</a>
-	'''
-
-@app.route("/pip")
+@api.route("/pip")
 def pip():
 	req = get_lat_lng()
 	if type(req) == str:
@@ -571,7 +541,7 @@ def pip():
 		'state_leg': state_legs
 	})
 
-@app.route("/pip_state")
+@api.route("/pip_state")
 def pip_state():
 	req = get_lat_lng()
 
@@ -601,7 +571,7 @@ def pip_state():
 		}
 	})
 
-@app.route("/pip_congress")
+@api.route("/pip_congress")
 def pip_congress():
 	req = get_lat_lng()
 	if type(req) == str:
@@ -619,7 +589,7 @@ def pip_congress():
 		'congress': rsp
 	})
 
-@app.route("/pip_county")
+@api.route("/pip_county")
 def pip_county():
 	req = get_lat_lng()
 
@@ -644,7 +614,7 @@ def pip_county():
 		'county': rsp
 	})
 
-@app.route("/pip_state_leg")
+@api.route("/pip_state_leg")
 def pip_state_leg():
 	req = get_lat_lng()
 
@@ -669,7 +639,7 @@ def pip_state_leg():
 		'state_leg': rsp
 	})
 
-@app.route("/congress_scores")
+@api.route("/congress_scores")
 def congress_scores():
 
 	cur = flask.g.db.cursor()
@@ -703,8 +673,3 @@ def congress_scores():
 		'ok': 1,
 		'congress_scores': scores
 	})
-
-if __name__ == '__main__':
-	port = os.getenv('PORT', 5000)
-	port = int(port)
-	app.run(host='0.0.0.0', port=port)

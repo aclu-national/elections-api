@@ -5,7 +5,8 @@ all: congress_sessions \
      states \
      counties \
      state_leg \
-     ballotpedia_races
+     ballotpedia_races \
+     elections
 
 congress_sessions:
 	python scripts/index_congress_sessions.py
@@ -30,3 +31,6 @@ state_leg:
 
 ballotpedia_races:
 	python scripts/index_ballotpedia_races.py
+
+elections:
+	python scripts/index_elections.py

@@ -110,7 +110,12 @@ if rs:
 # a bit, so don't make the mistake of changing one and not the other.
 # (20180613/dphiffer)
 
-rep_scores_csv = '%s/sources/aclu_scores/aclu_rep_scores.csv' % root_dir
+rep_details_csv = '%s/sources/aclu/aclu_rep_details.csv' % root_dir
+details = open(rep_details_csv, 'wb')
+writer = csv.writer(details)
+writer.writerow(['aclu_id', 'display_name'])
+
+rep_scores_csv = '%s/sources/aclu/aclu_rep_scores.csv' % root_dir
 with open(rep_scores_csv, 'rb') as csvfile:
 
 	reader = csv.reader(csvfile)
@@ -137,7 +142,8 @@ with open(rep_scores_csv, 'rb') as csvfile:
 		elif row_num == 2:
 			aclu_position = row
 		elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
-			print name
+
+			print(name)
 
 			if state_district in reps:
 				col_num = 0
@@ -153,6 +159,8 @@ with open(rep_scores_csv, 'rb') as csvfile:
 				]
 				values = tuple(values)
 				cur.execute(legislator_score_insert_sql, values)
+
+				writer.writerow([legislator_id, name])
 
 				for col in row:
 
@@ -188,7 +196,12 @@ with open(rep_scores_csv, 'rb') as csvfile:
 # a bit, so don't make the mistake of changing one and not the other.
 # (20180613/dphiffer)
 
-sen_scores_csv = '%s/sources/aclu_scores/aclu_sen_scores.csv' % root_dir
+sen_details_csv = '%s/sources/aclu/aclu_sen_details.csv' % root_dir
+details = open(sen_details_csv, 'wb')
+writer = csv.writer(details)
+writer.writerow(['aclu_id', 'display_name'])
+
+sen_scores_csv = '%s/sources/aclu/aclu_sen_scores.csv' % root_dir
 with open(sen_scores_csv, 'rb') as csvfile:
 
 	reader = csv.reader(csvfile)
@@ -238,6 +251,8 @@ with open(sen_scores_csv, 'rb') as csvfile:
 			values = tuple(values)
 			cur.execute(legislator_score_insert_sql, values)
 
+			writer.writerow([legislator_id, name])
+
 			col_num = 0
 			for col in row:
 
@@ -269,9 +284,11 @@ with open(sen_scores_csv, 'rb') as csvfile:
 
 		conn.commit()
 
+details.close()
+
 for chamber in ['rep', 'sen']:
 
-	filename = '%s/sources/aclu_scores/aclu_%s_score_index.csv' % (root_dir, chamber)
+	filename = '%s/sources/aclu/aclu_%s_score_index.csv' % (root_dir, chamber)
 	with open(filename, 'rb') as csvfile:
 
 		reader = csv.reader(csvfile)

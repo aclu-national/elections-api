@@ -69,8 +69,7 @@ def get_state_by_coords(lat, lng):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6],
-				'races': get_races_by_ocd_id(row[2])
+				'area_water': row[6]
 			}
 
 	cur.close()
@@ -97,8 +96,7 @@ def get_state_by_abbrev(abbrev):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6],
-				'races': get_races_by_ocd_id(row[2])
+				'area_water': row[6]
 			}
 
 	cur.close()
@@ -149,8 +147,7 @@ def get_district_by_coords(lat, lng, session_num=115):
 				'district_num': district_num,
 				'area': area,
 				'at_large': at_large,
-				'non_voting': non_voting,
-				'races': get_races_by_ocd_id(ocd_id)
+				'non_voting': non_voting
 			}
 
 	cur.close()
@@ -197,8 +194,7 @@ def get_district_by_id(id):
 				'district_num': district_num,
 				'area': area,
 				'at_large': at_large,
-				'non_voting': non_voting,
-				'races': get_races_by_ocd_id(ocd_id)
+				'non_voting': non_voting
 			}
 
 	cur.close()
@@ -226,8 +222,7 @@ def get_county_by_coords(lat, lng):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6],
-				'races': get_races_by_ocd_id(row[2])
+				'area_water': row[6]
 			}
 
 	cur.close()
@@ -259,8 +254,7 @@ def get_state_legs_by_coords(lat, lng):
 				'chamber': chamber,
 				'district_num': row[6],
 				'area_land': row[7],
-				'area_water': row[8],
-				'races': get_races_by_ocd_id(row[2])
+				'area_water': row[8]
 			}
 
 	cur.close()
@@ -510,24 +504,28 @@ def index():
 				'lng': 'Longitude',
 				'scores': 'Congress legislator score filter (optional)'
 			},
-			'/v1/pip_state': {
+			'/v1/state': {
 				'lat': 'Latitude',
 				'lng': 'Longitude'
 			},
-			'/v1/pip_congress': {
+			'/v1/congress': {
 				'lat': 'Latitude',
 				'lng': 'Longitude',
 				'scores': 'Congress legislator score filter (optional)'
 			},
-			'/v1/pip_county': {
+			'/v1/congress/district': {
+				'lat': 'Latitude',
+				'lng': 'Longitude'
+			},
+			'/v1/congress/scores': {},
+			'/v1/county': {
 				'lat': 'Latitude',
 				'lng': 'Longitude'
 			},
 			'/v1/state_leg': {
 				'lat': 'Latitude',
 				'lng': 'Longitude'
-			},
-			'/v1/congress_scores': {}
+			}
 		}
 	})
 
@@ -559,8 +557,8 @@ def pip():
 		'state_leg': state_legs
 	})
 
-@api.route("/pip_state")
-def pip_state():
+@api.route("/state")
+def state():
 	req = get_lat_lng()
 
 	if type(req) == str:
@@ -589,8 +587,8 @@ def pip_state():
 		}
 	})
 
-@api.route("/pip_congress")
-def pip_congress():
+@api.route("/congress")
+def congress():
 	req = get_lat_lng()
 	if type(req) == str:
 		return flask.jsonify({
@@ -607,8 +605,8 @@ def pip_congress():
 		'congress': rsp
 	})
 
-@api.route("/pip_county")
-def pip_county():
+@api.route("/congress/district")
+def congress_district():
 	req = get_lat_lng()
 
 	if type(req) == str:
@@ -620,44 +618,14 @@ def pip_county():
 	lat = req['lat']
 	lng = req['lng']
 
-	rsp = get_county_by_coords(lat, lng)
-	if rsp == None:
-		return flask.jsonify({
-			'ok': 0,
-			'error': 'No county found.'
-		})
+	district = get_district_by_coords(lat, lng)
 
 	return flask.jsonify({
 		'ok': 1,
-		'county': rsp
+		'district': district
 	})
 
-@api.route("/pip_state_leg")
-def pip_state_leg():
-	req = get_lat_lng()
-
-	if type(req) == str:
-		return flask.jsonify({
-			'ok': 0,
-			'error': req
-		})
-
-	lat = req['lat']
-	lng = req['lng']
-
-	rsp = get_state_legs_by_coords(lat, lng)
-	if len(rsp) == 0:
-		return flask.jsonify({
-			'ok': 0,
-			'error': 'No state legislation found.'
-		})
-
-	return flask.jsonify({
-		'ok': 1,
-		'state_leg': rsp
-	})
-
-@api.route("/congress_scores")
+@api.route("/congress/scores")
 def congress_scores():
 
 	cur = flask.g.db.cursor()
@@ -690,4 +658,54 @@ def congress_scores():
 	return flask.jsonify({
 		'ok': 1,
 		'congress_scores': scores
+	})
+
+@api.route("/county")
+def pip_county():
+	req = get_lat_lng()
+
+	if type(req) == str:
+		return flask.jsonify({
+			'ok': 0,
+			'error': req
+		})
+
+	lat = req['lat']
+	lng = req['lng']
+
+	rsp = get_county_by_coords(lat, lng)
+	if rsp == None:
+		return flask.jsonify({
+			'ok': 0,
+			'error': 'No county found.'
+		})
+
+	return flask.jsonify({
+		'ok': 1,
+		'county': rsp
+	})
+
+@api.route("/state_leg")
+def pip_state_leg():
+	req = get_lat_lng()
+
+	if type(req) == str:
+		return flask.jsonify({
+			'ok': 0,
+			'error': req
+		})
+
+	lat = req['lat']
+	lng = req['lng']
+
+	rsp = get_state_legs_by_coords(lat, lng)
+	if len(rsp) == 0:
+		return flask.jsonify({
+			'ok': 0,
+			'error': 'No state legislation found.'
+		})
+
+	return flask.jsonify({
+		'ok': 1,
+		'state_leg': rsp
 	})

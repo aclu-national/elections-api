@@ -1,0 +1,92 @@
+{
+	"races": [
+		{
+			"ocd_id": "ocd-division/country:us/state:ks",
+			"title": "Governor",
+			"description": "<p>Kris Kobach is amongst the candidates for Kansas Governor in the Republican primary on August 7th, which both Independents and Republicans are eligible to vote in. Highlights of his abysmal civil liberties record civil rights include exposing voters’ personal information, including names, birthdates, partial Social Security numbers, and addresses, to hackers by storing that sensitive information on an insecure server in Arkansas. He also wasted government funds by misleading a federal judge about his work to undermine the voting rights of Americans, leading to a fine by the court that he used Kansas taxpayer funds to pay.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:az",
+			"title": "US Senate",
+			"description": "<p>Joe Arpaio, who the ACLU has been challenging in the courts for years, is amongst the candidates for U.S. Senate in Arizona in the Republican primary on August 28th.  The former sheriff terrorized Latino residents of Maricopa County with illegal detentions and racial profiling, forced incarcerated people to live in a brutal, outdoor facility that he described as a “concentration camp”. See more on his record and the civil liberties at stake in this race <a href=\"https://peoplepower.org/joe-arpaio/\">here</a>.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:mo/county:st_louis",
+			"title": "Prosecuting Attorney",
+			"description": "<p>Wesley Bell is challenging Bob McCulloch in the Democratic primary for Prosecuting Attorney on August 7th. Bell and McCulloch differ on the issues of bail reform and capitol punishment. Bell wants to end the cash bail system and opposes the death penalty, McCulloch has the opposite views. See more on their stances on civil liberties issues [HERE].</p>"
+		}
+	],
+	"ballot_initiatives": [
+		{
+			"ocd_id": "ocd-division/country:us/state:fl",
+			"title": "<strong>Vote Yes</strong> on Amendment 4, Voting Restoration Amendment",
+			"description": "<p>The Voting Restoration Amendment restores the voting rights of Floridians with felony convictions (with exception of murder or sexual offenses) after they complete all terms of their sentence including parole or probation. Voting Yes on Amendment 4 would mean 1.4 million people who have served their time and paid their debts would become eligible to register and vote.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:mi",
+			"title": "<strong>Vote Yes</strong> on Promote the Vote",
+			"description": "<p>[will need to change name once we get ballot number] The Promote the Vote ballot amendment is seeking to amend the Michigan Constitution by creating fair rules that remove barriers and make voting more accessible and secure so all eligible voters are heard on Election Day. Voting Yes for the amendment will ensure that all residents eligible to vote in Michigan have access to a secure vote, an up-to-date system and accurate voter lists.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:wv",
+			"title": "<strong>Vote No</strong> on Amendment 1, No Right to Abortion in Constitution Measure",
+			"description": "<p>The amendment would remove state protections for abortion, which is particularly worrisome if we lose federal protections at the Supreme Court. This initiative is part of a broader agenda to push abortion out of reach, but the most immediate impact would be that the state could take away coverage of abortion care from women enrolled in Medicaid for their health insurance.  Voting no will defend West Virginia women against politically motivated attacks.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:ut",
+			"title": "<strong>Vote Yes</strong> on Better Boundaries",
+			"description": "<p>[will need to change name once we get ballot number] The Better Boundaries ballot initiative seeks to modify the current system of redistricting by establishing an independent redistricting commission and prescribing redistricting standards and requirements. Voting Yes for Better Boundaries would create a more responsive, transparent, and accountable redistricting process in Utah.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:mt",
+			"title": "<strong>Vote No</strong> on Initiative 183",
+			"description": "<p>Montana is one of the three places with ballot initiatives in 2018 that specifically target the transgender community. Initiative 183 would force people to use the bathroom that aligns with the gender on their original birth certificate as opposed to the gender they identify as. It would make work, school, and recreation unsafe for transgender Montanans, and would also put local government and state agencies at risk of expensive, unnecessary lawsuits. But worst of all, it sends a message that Montana doesn’t welcome or embrace everyone in our communities.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:ma",
+			"title": "<strong>Vote Yes</strong> on Massachusetts Gender Identity Anti-Discrimination Veto Referendum",
+			"description": "<p>The referendum would strike down a law passed in 2016  that now protects transgender people from discrimination in public accommodations, such as being able to use the bathroom that aligns with your gender identity. A “Yes” vote will keep in place the current law which prohibits discrimination on the basis of gender identity in places of public accommodations; a “No” vote will repeal the protections.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:ma",
+			"title": "<strong>Vote Yes</strong> paid leave",
+			"description": "<p>[TBD if it’ll be on the ballot]</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:or",
+			"title": "<strong>Vote No</strong> on Oregon Ban Public Funds for Abortions Initiative",
+			"description": "<p>[Hasn’t qualified for the ballot yet] The initiative would take away insurance coverage for abortion care and reduce abortion rights.  A “no” vote will maintain Oregon’s 40-year tradition of ensuring that all pregnancy-related care, including abortion, is affordable and accessible.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:or",
+			"title": "<strong>Vote No</strong> on sanctuary cities IP-22",
+			"description": "<p>[Hasn’t qualified for the ballot yet, issue folks want to wait]</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:al",
+			"title": "<strong>Vote No</strong> on Alabama State Abortion Policy Amendment",
+			"description": "<p>The amendment would remove state protections for abortion, which is particularly worrisome if we lose federal protections at the Supreme Court.  This initiative is part of a broader agenda to push abortion out of reach. Voting no will defend Alabama women against politically motivated attacks.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:ar",
+			"title": "<strong>Vote No</strong> on Issue 2, Voter ID Amendment",
+			"description": "<p>The amendment seeks to establish photo ID requirements for voting. Vote no on Issue 2 to ensure that all eligible Arkansans are able to vote in future elections.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:md",
+			"title": "<strong>Vote Yes</strong> on Election Day Voter Registration Amendment",
+			"description": "<p>The Maryland Election Day Voter Registration Amendment seeks to authorize the state legislature to enact a process for registering qualified individuals to vote at a precinct polling place on Election Day. Voting Yes for the amendment will streamline the voting process, ease the burden on voters, and increase voter participation.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:co",
+			"title": "<strong>Vote Yes</strong> on Amendments Y and Z",
+			"description": "<p>Amendments Y and Z  create independent redistricting commissions with clear criteria for map drawing for congressional and legislative districts. Voting Yes for Amendments Y and Z will prohibit gerrymandering and create fair and competitive congressional and legislative districts.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:la",
+			"title": "<strong>Vote Yes</strong> on Unanimous Jury Verdict for Felony Trials Amendment",
+			"description": "<p>The constitutional amendment  would require unanimous jury verdicts in felony trials. Louisiana is one of only two states that allow non-unanimous jury verdicts, meaning only 10 out of 12 jurors are to determine the verdict versus needing all 12 to be in agreement Voting “Yes” to require a unanimous verdict would provide greater due process protection to defendants in criminal cases, lessen the discriminatory impact on black defendants, and do away with a rule rooted in white supremacy from the 19th century.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:wa",
+			"title": "I-940",
+			"description": "<p>[TBD if it’ll be on the ballot]</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:ne",
+			"title": "<strong>Vote Yes</strong> on Nebraska Medicaid Expansion Initiative",
+			"description": "<p>[It’s not officially on the ballot yet, we’ll want to alter text when it is] The initiative would enable 90,000 Nebraskans to finally get the health care they need, which is critical to disability rights and reproductive justice. For millions of people with disabilities, Medicaid is a lifeline. Their ability to live free depends on the services and supports that Medicaid provides and allows them to get out of bed, go to work, and live in the community instead of an institution. Medicaid also ensures that women have access to critical family planning services. It enables many women to decide when, whether, and how to start families, and provides maternity care and care for newborns. Find out more about the initiative <a href=\"https://insurethegoodlife.com/\">here</a>.</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:id",
+			"title": "<strong>Vote Yes</strong> medicaid expansion",
+			"description": "<p>[TBD if affiliate wants it included]</p>"
+		}, {
+			"ocd_id": "ocd-division/country:us/state:nc",
+			"title": "<strong>Vote No</strong> photo ID",
+			"description": "<p>[TBD if it makes it to the ballot]</p>"
+		}
+	]
+}

@@ -18,6 +18,7 @@ cur.execute('''
 		state CHAR(2),
 		year CHAR(4),
 		type VARCHAR(20),
+		office_level VARCHAR(20),
 		primary_date DATE,
 		primary_runoff_date DATE,
 		general_date DATE,
@@ -33,16 +34,17 @@ insert_sql = '''
 		state,
 		year,
 		type,
+		office_level,
 		primary_date,
 		primary_runoff_date,
 		general_date,
 		general_runoff_date
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 files = []
 
-source_dir = "%s/sources/ballotpedia_races" % root_dir
+source_dir = "%s/sources/ballotpedia" % root_dir
 for filename in os.listdir(source_dir):
 	if not filename.endswith(".csv"):
 		continue
@@ -67,7 +69,8 @@ for path in files:
 				name = row[1]
 				state = row[0].lower()
 				year = row[2]
-				type = row[14]
+				type = row[14].lower()
+				office_level = row[4].lower()
 				primary_date = row[10]
 				primary_runoff_date = row[11]
 				general_date = row[12]
@@ -84,11 +87,11 @@ for path in files:
 
 				print("indexing %s: %s" % (ocd_id, name))
 
-				values = [
-					ocd_id, name, state, year, type, primary_date,
-					primary_runoff_date, general_date, general_runoff_date
-				]
-				values = tuple(values)
+				values = (
+					ocd_id, name, state, year, type, office_level,
+					primary_date, primary_runoff_date,
+					general_date, general_runoff_date
+				)
 				cur.execute(insert_sql, values)
 
 			row_num = row_num + 1

@@ -4,9 +4,83 @@ import flask, json, os, re, sys, arrow
 
 api = flask.Blueprint('api', __name__)
 
-def get_races_by_ocd_id(ocd_id, year = '2018'):
+def get_ocd_ids(areas):
+	ocd_ids = []
+	for area in areas:
+		if 'ocd_id' in area:
+			ocd_ids.append(area['ocd_id'])
+	return ocd_ids
 
-	races = {}
+def format_date(date):
+	if date == None:
+		return None
+	else:
+		return arrow.get(date).format('YYYY-MM-DD')
+
+def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
+
+	elections = {}
+
+	if len(ocd_ids) == 0:
+		return elections
+
+	state = re.search('state:(\w\w)', ocd_ids[0]).group(1)
+	jan1 = '%s-01-01' % year
+	dec31 = '%s-12-31' % year
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT state, description, type, election_date,
+		       primary_reg_deadline, primary_reg_mail_online_deadline,
+		       general_reg_deadline, general_reg_mail_online_deadline,
+		       online_url, same_day, absentee, early, early_start,
+		       early_end, vbm_apply, vbm_ballot_due, id_required,
+		       sos_info_url, polling_place_locator_url, ballotpedia_url,
+		       notes
+		FROM elections
+		WHERE state = %s
+		  AND election_date >= %s
+		  AND election_date < %s
+	''', (state, jan1, dec31))
+
+	rs = cur.fetchall()
+
+	if rs:
+		for row in rs:
+
+			election_date = format_date(row[3])
+
+			elections[election_date] = {
+				'info': {
+					'state': row[0],
+					'description': row[1],
+					'type': row[2],
+					'same_day': row[9],
+					'absentee': row[10],
+					'early': row[11],
+					'id_required': row[16],
+					'notes': row[20]
+				},
+				'links': {
+					'online_url': row[8],
+					'sos_info_url': row[17],
+					'polling_place_locator_url': row[18],
+					'ballotpedia_url': row[19]
+				},
+				'dates': {
+					'general_date': election_date,
+					'primary_reg_deadline': format_date(row[4]),
+					'primary_reg_mail_online_deadline': format_date(row[5]),
+					'general_reg_deadline': format_date(row[6]),
+					'general_reg_mail_online_deadline': format_date(row[7]),
+					'early_start': format_date(row[12]),
+					'early_end': format_date(row[13]),
+					'vbm_apply': format_date(row[14]),
+					'vbm_ballot_due': format_date(row[15])
+				},
+				'races': {}
+			}
+
 	election_dates = [
 		'primary_date',
 		'primary_runoff_date',
@@ -14,21 +88,24 @@ def get_races_by_ocd_id(ocd_id, year = '2018'):
 		'general_runoff_date'
 	]
 
-	cur = flask.g.db.cursor()
+	ocd_id_list = ', '.join(['%s'] * len(ocd_ids))
+	values = tuple(ocd_ids + [year])
+
 	cur.execute('''
-		SELECT name, year, type, primary_date, primary_runoff_date,
+		SELECT name, type, office_level,
+		       primary_date, primary_runoff_date,
 		       general_date, general_runoff_date
 		FROM election_races
-		WHERE ocd_id = %s
+		WHERE ocd_id IN ({ocd_ids})
 		  AND year = %s
-	''', (ocd_id, year))
+	'''.format(ocd_ids=ocd_id_list), values)
 
 	rs = cur.fetchall()
 
 	if rs:
 		for row in rs:
 
-			elections = {
+			election_date_lookup = {
 				'primary_date': row[3],
 				'primary_runoff_date': row[4],
 				'general_date': row[5],
@@ -36,17 +113,25 @@ def get_races_by_ocd_id(ocd_id, year = '2018'):
 			}
 
 			for date in election_dates:
-				if elections[date]:
-					date_formatted = arrow.get(elections[date]).format('YYYY-MM-DD')
-					if not date_formatted in races:
-						races[date_formatted] = []
-					races[date_formatted].append({
+				if election_date_lookup[date]:
+
+					date_formatted = format_date(election_date_lookup[date])
+					office_level = row[2]
+
+					if not date_formatted in elections:
+						elections[date_formatted] = {
+							'races': {}
+						}
+
+					if not office_level in elections[date_formatted]['races']:
+						elections[date_formatted]['races'][office_level] = []
+
+					elections[date_formatted]['races'][office_level].append({
 						'name': row[0],
-						'election': re.sub('_date$', '', date),
-						'type': row[2].lower()
+						'type': row[1]
 					})
 
-	return races
+	return elections
 
 def get_state_by_coords(lat, lng):
 
@@ -238,24 +323,22 @@ def get_state_legs_by_coords(lat, lng):
 	'''.format(lat=lat, lng=lng))
 
 	rs = cur.fetchall()
-	state_legs = {}
+	state_legs = []
 
 	if rs:
 		for row in rs:
 
-			chamber = row[5]
-
-			state_legs[chamber] = {
+			state_legs.append({
 				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
 				'name': row[3],
 				'state': row[4],
-				'chamber': chamber,
+				'chamber': row[5],
 				'district_num': row[6],
 				'area_land': row[7],
 				'area_water': row[8]
-			}
+			})
 
 	cur.close()
 	return state_legs
@@ -502,7 +585,7 @@ def index():
 			'/v1/pip': {
 				'lat': 'Latitude',
 				'lng': 'Longitude',
-				'scores': 'Congress legislator score filter (optional)'
+				'scores': 'Congress legislator score filter (optional; scores=all)'
 			},
 			'/v1/state': {
 				'lat': 'Latitude',
@@ -511,7 +594,7 @@ def index():
 			'/v1/congress': {
 				'lat': 'Latitude',
 				'lng': 'Longitude',
-				'scores': 'Congress legislator score filter (optional)'
+				'scores': 'Congress legislator score filter (optional; scores=all)'
 			},
 			'/v1/congress/district': {
 				'lat': 'Latitude',
@@ -549,10 +632,15 @@ def pip():
 	county = get_county_by_coords(lat, lng)
 	state_legs = get_state_legs_by_coords(lat, lng)
 
+	areas = [state, congress['district'], county] + state_legs
+	ocd_ids = get_ocd_ids(areas)
+	elections = get_elections_by_ocd_ids(ocd_ids)
+
 	return flask.jsonify({
 		'ok': 1,
-		'congress': congress,
+		'elections': elections,
 		'state': state,
+		'congress': congress,
 		'county': county,
 		'state_leg': state_legs
 	})

@@ -38,3 +38,6 @@ elections:
 
 targeted:
 	python scripts/index_targeted.py
+
+blurbs:
+	python scripts/index_blurbs.py

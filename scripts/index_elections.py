@@ -73,14 +73,14 @@ def format_date(date):
 	if date == '':
 		return None
 	else:
-		arrow.get(date, 'M/D/YYYY').format('YYYY-MM-DD')
+		return arrow.get(date, 'M/D/YYYY').format('YYYY-MM-DD')
 
 for row in reader:
 	if row_num == 0:
 		header = row
 	else:
 
-		print("%s - %s - %s" % (row[0], row[1], row[3]))
+		print("%s - %s - %s" % (row[0], row[1], format_date(row[3])))
 
 		state = us.states.lookup(unicode(row[0])).abbr.lower()
 		values = (

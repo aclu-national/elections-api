@@ -504,13 +504,31 @@ def index():
 	return flask.jsonify({
 		'ok': 0,
 		'error': 'Please pick a valid endpoint.',
-		'valid_endpoints': [
-			'/v1/pip',
-			'/v1/pip_congress',
-			'/v1/pip_state',
-			'/v1/county',
-			'/v1/state_leg'
-		]
+		'valid_endpoints': {
+			'/v1/pip': {
+				'lat': 'Latitude',
+				'lng': 'Longitude',
+				'scores': 'Congress legislator score filter (optional)'
+			},
+			'/v1/pip_state': {
+				'lat': 'Latitude',
+				'lng': 'Longitude'
+			},
+			'/v1/pip_congress': {
+				'lat': 'Latitude',
+				'lng': 'Longitude',
+				'scores': 'Congress legislator score filter (optional)'
+			},
+			'/v1/pip_county': {
+				'lat': 'Latitude',
+				'lng': 'Longitude'
+			},
+			'/v1/state_leg': {
+				'lat': 'Latitude',
+				'lng': 'Longitude'
+			},
+			'/v1/congress_scores': {}
+		}
 	})
 
 @api.route("/pip")

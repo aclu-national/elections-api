@@ -6,7 +6,8 @@ all: congress_sessions \
      counties \
      state_leg \
      ballotpedia_races \
-     elections
+     elections \
+     targeted
 
 congress_sessions:
 	python scripts/index_congress_sessions.py
@@ -34,3 +35,6 @@ ballotpedia_races:
 
 elections:
 	python scripts/index_elections.py
+
+targeted:
+	python scripts/index_targeted.py

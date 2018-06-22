@@ -405,15 +405,14 @@ def get_legislators(cur):
 	if len(aclu_ids) == 0:
 		return {}
 
-	aclu_ids = "'" + "', '".join(aclu_ids) + "'"
-	term_ids = ", ".join(term_ids)
+	aclu_id_list = ', '.join(['%s'] * len(aclu_ids))
+	aclu_id_values = tuple(aclu_ids)
 
 	cur.execute('''
 		SELECT aclu_id, first_name, last_name, full_name, birthday, gender
 		FROM congress_legislators
 		WHERE aclu_id IN ({aclu_ids})
-		ORDER BY last_name, first_name
-	'''.format(aclu_ids=aclu_ids))
+	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
 
 	rs = cur.fetchall()
 	if rs:
@@ -430,10 +429,25 @@ def get_legislators(cur):
 			}
 
 	cur.execute('''
+		SELECT aclu_id, display_name, running_in_2018
+		FROM congress_legislator_details
+		WHERE aclu_id IN ({aclu_ids})
+	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			aclu_id = row[0]
+			legislators[aclu_id]['name']['display_name'] = row[1]
+			legislators[aclu_id]['running_in_2018'] = row[2]
+
+	term_id_list = ', '.join(['%s'] * len(term_ids))
+	term_id_values = tuple(term_ids)
+	cur.execute('''
 		SELECT aclu_id, detail_name, detail_value
 		FROM congress_legislator_term_details
 		WHERE term_id IN ({term_ids})
-	'''.format(term_ids=term_ids))
+	'''.format(term_ids=term_id_list), term_id_values)
 
 	rs = cur.fetchall()
 	if rs:
@@ -452,7 +466,7 @@ def get_legislators(cur):
 		SELECT aclu_id, concordance_name, concordance_value
 		FROM congress_legislator_concordances
 		WHERE aclu_id IN ({aclu_ids})
-	'''.format(aclu_ids=aclu_ids))
+	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
 
 	rs = cur.fetchall()
 	if rs:
@@ -476,7 +490,7 @@ def get_legislators(cur):
 		SELECT aclu_id, social_media_name, social_media_value
 		FROM congress_legislator_social_media
 		WHERE aclu_id IN ({aclu_ids})
-	'''.format(aclu_ids=aclu_ids))
+	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
 
 	rs = cur.fetchall()
 	if rs:
@@ -494,7 +508,7 @@ def get_legislators(cur):
 		SELECT aclu_id, legislator_id, position, name, value
 		FROM congress_legislator_scores
 		WHERE legislator_id IN ({aclu_ids})
-	'''.format(aclu_ids=aclu_ids))
+	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
 
 	rs = cur.fetchall()
 	if rs:

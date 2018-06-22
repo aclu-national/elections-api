@@ -2,12 +2,14 @@ all: congress_sessions \
      congress_districts \
      congress_legislators \
      congress_scores \
+     congress_details \
      states \
      counties \
      state_leg \
      ballotpedia_races \
      elections \
-     targeted
+     targeted \
+     blurbs
 
 congress_sessions:
 	python scripts/index_congress_sessions.py
@@ -20,6 +22,9 @@ congress_legislators:
 
 congress_scores:
 	python scripts/index_congress_scores.py
+
+congress_details:
+	python scripts/index_congress_details.py
 
 states:
 	python scripts/index_states.py

@@ -533,15 +533,7 @@ def get_congress(lat, lng):
 
 @app.route("/")
 def hello():
-	return '''
-<pre>Hello, you probably want to use:
-
-	<a href="/pip">/pip</a>
-	<a href="/pip_state">/pip_state</a>
-	<a href="/pip_congress">/pip_congress</a>
-	<a href="/pip_county">/pip_county</a>
-	<a href="/pip_state_leg">/pip_state_leg</a>
-	'''
+	return flask.redirect('/v1/', code=302)
 
 @app.route("/pip")
 def pip():

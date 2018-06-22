@@ -79,7 +79,6 @@ cur.execute("DROP TABLE IF EXISTS election_dates CASCADE")
 cur.execute('''
 CREATE TABLE election_dates (
 	state CHAR(2),
-	type VARCHAR(20),
 	name VARCHAR(255),
 	value DATE
 )''')
@@ -88,10 +87,9 @@ conn.commit()
 insert_sql = '''
 	INSERT INTO election_dates (
 		state,
-		type,
 		name,
 		value
-	) VALUES (%s, %s, %s, %s)
+	) VALUES (%s, %s, %s)
 '''
 
 for type in ['primary', 'general']:
@@ -117,12 +115,16 @@ for type in ['primary', 'general']:
 				name = header[col_num]
 				if name == 'notes':
 					break
+				elif value == '':
+					col_num = col_num + 1
+					continue
+				elif not name.startswith(type):
+					name = '%s_%s' % (type, name)
 
-				print("election_date - %s - %s - %s" % (state, type, name))
+				print("election_date - %s - %s" % (state, name))
 
 				values = (
 					state,
-					type,
 					name,
 					format_date(value)
 				)

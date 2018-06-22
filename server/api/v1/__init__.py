@@ -597,31 +597,56 @@ def index():
 		'error': 'Please pick a valid endpoint.',
 		'valid_endpoints': {
 			'/v1/pip': {
-				'lat': 'Latitude',
-				'lng': 'Longitude',
-				'scores': 'Congress legislator score filter (optional; scores=all)'
+				'description': 'Point in polygon election lookup by location.',
+				'args': {
+					'lat': 'Latitude',
+					'lng': 'Longitude',
+					'scores': 'Congress legislator score filter (optional; scores=all)'
+				}
 			},
 			'/v1/state': {
-				'lat': 'Latitude',
-				'lng': 'Longitude'
+				'description': 'State election lookup by location.',
+				'args': {
+					'lat': 'Latitude',
+					'lng': 'Longitude'
+				}
 			},
 			'/v1/congress': {
-				'lat': 'Latitude',
-				'lng': 'Longitude',
-				'scores': 'Congress legislator score filter (optional; scores=all)'
+				'description': 'Congress election lookup by location.',
+				'args': {
+					'lat': 'Latitude',
+					'lng': 'Longitude',
+					'scores': 'Congress legislator score filter (optional; scores=all)'
+				}
 			},
 			'/v1/congress/district': {
-				'lat': 'Latitude',
-				'lng': 'Longitude'
+				'description': 'Congressional district lookup by location.',
+				'args': {
+					'lat': 'Latitude',
+					'lng': 'Longitude'
+				}
 			},
-			'/v1/congress/scores': {},
+			'/v1/congress/scores': {
+				'description': 'Index of congressional legislator scores.',
+				'args': {}
+			},
 			'/v1/county': {
-				'lat': 'Latitude',
-				'lng': 'Longitude'
+				'description': 'County election lookup by location.',
+				'args': {
+					'lat': 'Latitude',
+					'lng': 'Longitude'
+				}
 			},
 			'/v1/state_leg': {
-				'lat': 'Latitude',
-				'lng': 'Longitude'
+				'description': 'State legislature election lookup by location.',
+				'args': {
+					'lat': 'Latitude',
+					'lng': 'Longitude'
+				}
+			},
+			'/v1/blurbs': {
+				'description': 'Descriptive blurbs about various elected positions.',
+				'args': {}
 			}
 		}
 	})
@@ -810,4 +835,29 @@ def pip_state_leg():
 	return flask.jsonify({
 		'ok': 1,
 		'state_leg': rsp
+	})
+
+@api.route("/blurbs")
+def blurbs():
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT position, description
+		FROM election_blurbs
+		ORDER BY position
+	''')
+
+	blurbs = []
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			blurbs.append({
+				'position': row[0],
+				'description': row[1]
+			})
+
+	return flask.jsonify({
+		'ok': 1,
+		'blurbs': blurbs
 	})

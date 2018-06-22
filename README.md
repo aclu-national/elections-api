@@ -10,28 +10,18 @@ All endpoints support `GET` requests and respond in JSON format.
 curl https://elections.api.aclu.org/pip?lat=40.7023699&lng=-74.012632 | jq .
 ```
 
-### Point in polygon endpoint
-
 You can query the Elections API by location using one of the following endpoints:
 
-* `/pip` - point in polygon lookup for __all__ records
-* `/pip_state` - point in polygon lookup for __state__ records
-* `/pip_congress` - point in polygon lookup for __congressional district__ records
-* `/pip_county` - point in polygon lookup for __county__ records
-* `/pip_state_leg` - point in polygon lookup for __state legislature__ records
+* `/v1/pip` - Point in polygon election lookup by location.
+* `/v1/state` - State election lookup by location.
+* `/v1/congress` - Congress election lookup by location.
+* `/v1/congress/district` - Congressional district lookup by location.
+* `/v1/congress/scores` - Index of congressional legislator scores.
+* `/v1/county` - County election lookup by location.
+* `/v1/state_leg` - State legislature election lookup by location.
+* `/v1/blurbs` - Descriptive blurbs about various elected positions.
 
-__Required arguments__  
-* `lat` - latitude
-* `lng` - longitude
-
-__Optional arguments__
-* `scores` - congressional legislator score filter, defaults to `voted`. Set to `all` to get all scores, including those where the legislators did not vote. Only applies to `/pip` and `/pip_congress`.
-
-### Congress scores endpoint
-
-You can retrieve a list of the congressional scores at the endpoint:
-
-* `/congress_scores`
+You can also load `/v1` for more documentation about each endpoint.
 
 ## Dependencies
 

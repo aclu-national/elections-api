@@ -7,7 +7,7 @@ US elections data API.
 All endpoints support `GET` requests and respond in JSON format.
 
 ```
-curl https://elections.api.aclu.org/pip?lat=40.7023699&lng=-74.012632 | jq .
+curl https://elections.api.aclu.org/v1/pip?lat=40.7023699&lng=-74.012632 | jq .
 ```
 
 You can query the Elections API by location using one of the following endpoints:

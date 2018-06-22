@@ -533,7 +533,13 @@ def get_congress(lat, lng):
 
 @app.route("/")
 def hello():
-	return flask.redirect('/v1/', code=302)
+	return flask.jsonify({
+		'ok': 0,
+		'error': 'This API has versioned endpoints.',
+		'valid_versions': [
+			'/v1/'
+		]
+	})
 
 @app.route("/pip")
 def pip():

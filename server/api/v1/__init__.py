@@ -25,61 +25,48 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		return elections
 
 	state = re.search('state:(\w\w)', ocd_ids[0]).group(1)
-	jan1 = '%s-01-01' % year
-	dec31 = '%s-12-31' % year
+	print(state)
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT state, description, type, election_date,
-		       primary_reg_deadline, primary_reg_mail_online_deadline,
-		       general_reg_deadline, general_reg_mail_online_deadline,
-		       online_url, same_day, absentee, early, early_start,
-		       early_end, vbm_apply, vbm_ballot_due, id_required,
-		       sos_info_url, polling_place_locator_url, ballotpedia_url,
-		       notes
-		FROM elections
+		SELECT state, online_reg_url, check_reg_url, polling_place_url,
+		       voter_id_req, same_day, vote_by_mail, early_voting
+		FROM election_info
 		WHERE state = %s
-		  AND election_date >= %s
-		  AND election_date < %s
-	''', (state, jan1, dec31))
+	''', (state,))
 
 	rs = cur.fetchall()
 
 	if rs:
 		for row in rs:
-
-			election_date = format_date(row[3])
-
-			elections[election_date] = {
-				'info': {
-					'state': row[0],
-					'description': row[1],
-					'type': row[2],
-					'same_day': row[9],
-					'absentee': row[10],
-					'early': row[11],
-					'id_required': row[16],
-					'notes': row[20]
-				},
-				'links': {
-					'online_url': row[8],
-					'sos_info_url': row[17],
-					'polling_place_locator_url': row[18],
-					'ballotpedia_url': row[19]
-				},
-				'dates': {
-					'general_date': election_date,
-					'primary_reg_deadline': format_date(row[4]),
-					'primary_reg_mail_online_deadline': format_date(row[5]),
-					'general_reg_deadline': format_date(row[6]),
-					'general_reg_mail_online_deadline': format_date(row[7]),
-					'early_start': format_date(row[12]),
-					'early_end': format_date(row[13]),
-					'vbm_apply': format_date(row[14]),
-					'vbm_ballot_due': format_date(row[15])
-				},
-				'races': {}
+			elections['info'] = {
+				'state': row[0],
+				'voter_id_req': row[4],
+				'same_day': row[5],
+				'vote_by_mail': row[6],
+				'early_voting': row[7]
 			}
+			elections['links'] = {
+				'online_reg_url': row[1],
+				'check_reg_url': row[2],
+				'polling_place_url': row[3],
+			}
+			elections['dates'] = {}
+			elections['ballots'] = {}
+
+	cur.execute('''
+		SELECT name, value
+		FROM election_dates
+		WHERE state = %s
+	''', (state,))
+
+	rs = cur.fetchall()
+
+	if rs:
+		for row in rs:
+			name = row[0]
+			value = row[1]
+			elections['dates'][name] = format_date(value)
 
 	election_dates = [
 		'primary_date',
@@ -116,20 +103,25 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 				if election_date_lookup[date]:
 
 					date_formatted = format_date(election_date_lookup[date])
-					office_level = row[2]
 
-					if not date_formatted in elections:
-						elections[date_formatted] = {
-							'races': {}
-						}
+					if date == 'primary_date' or date == 'general_date':
 
-					if not office_level in elections[date_formatted]['races']:
-						elections[date_formatted]['races'][office_level] = []
+						date = date.replace('_date', '_election_date')
+						office_level = row[2]
 
-					elections[date_formatted]['races'][office_level].append({
-						'name': row[0],
-						'type': row[1]
-					})
+						if not date_formatted in elections['ballots']:
+							elections['ballots'][date_formatted] = {}
+
+						if not office_level in elections['ballots'][date_formatted]:
+							elections['ballots'][date_formatted][office_level] = []
+
+						elections['ballots'][date_formatted][office_level].append({
+							'name': row[0],
+							'type': row[1]
+						})
+
+					else:
+						elections['dates'][date] = date_formatted
 
 	return elections
 

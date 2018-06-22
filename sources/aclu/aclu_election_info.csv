@@ -1,0 +1,52 @@
+code,state,online_reg_url,check_reg_url,polling_place_url,voter_id_req,same_day,vote_by_mail,early_voting
+AL,Alabama,https://www.alabamavotes.gov/olvr/default.aspx,https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do,https://myinfo.alabamavotes.gov/VoterView/PollingPlaceSearch.do,photo-id,no,excuse-only,no
+AK,Alaska,https://voterregistration.alaska.gov/,https://myvoterinformation.alaska.gov/,https://myvoterinformation.alaska.gov/,non-photo-id,no,available-all,yes
+AZ,Arizona,https://servicearizona.com/webapp/evoter/,https://voter.azsos.gov/VoterView/RegistrantSearch.do,https://voter.azsos.gov/VoterView/PollingPlaceSearch.do,non-photo-id,no,available-all,yes
+AR,Arkansas,,https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do,https://www.voterview.ar-nova.org/VoterView/RegistrantSearch.do,photo-id,no,excuse-only,yes
+CA,California,http://registertovote.ca.gov/,http://www.sos.ca.gov/elections/registration-status/,http://www.sos.ca.gov/elections/polling-place,none,yes,available-all,yes
+CO,Colorado,https://www.sos.state.co.us/voter-classic/secuRegVoterIntro.do,https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml,http://www.justvotecolorado.org/,non-photo-id,yes,all-mail,all-mail
+CT,Connecticut,https://voterregistration.ct.gov/OLVR/,http://www.dir.ct.gov/sots/LookUp.aspx,http://www.dir.ct.gov/sots/LookUp.aspx,non-photo-id,yes,excuse-only,no
+DE,Delaware,https://ivote.de.gov/,https://delaware.gov/locationsdirectory/delawarepollingplaces/,https://ivote.de.gov/voterlogin.aspx,non-photo-id,no,excuse-only,no
+FL,Florida,https://registertovoteflorida.gov/,http://registration.elections.myflorida.com/CheckVoterStatus,http://registration.elections.myflorida.com/CheckVoterStatus,photo-id,no,available-all,yes
+GA,Georgia,https://registertovote.sos.ga.gov/GAOLVR/#no-back-button,https://www.mvp.sos.ga.gov/,https://www.mvp.sos.ga.gov/MVP/mvp.do,photo-id,no,available-all,yes
+HI,Hawaii,https://olvr.hawaii.gov/,http://hawaii.gov/elections/factsheets/html/fsvs513.htm,https://olvr.hawaii.gov/altpollingplacesearch.aspx,non-photo-id,yes,available-all,yes
+ID,Idaho,https://apps.idahovotes.gov/OnlineVoterRegistration,https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx,http://idahovotes.gov/YourPollingPlace/WhereDoIVote.aspx,photo-id,yes,available-all,yes
+IL,Illinois,https://ova.elections.il.gov/,https://ova.elections.il.gov/RegistrationLookup.aspx,https://ova.elections.il.gov/PollingPlaceLookup.aspx,none,yes,available-all,yes
+IN,Indiana,https://indianavoters.in.gov/PublicSite/OVR/Introduction.aspx,https://indianavoters.in.gov//,https://indianavoters.in.gov//,photo-id,no,excuse-only,yes
+IA,Iowa,https://sos.iowa.gov/elections/voterinformation/voterregistration.html,https://sos.iowa.gov/elections/VoterReg/RegToVote/search.aspx,https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx,photo-id,yes,available-all,yes
+KS,Kansas,https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx,https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do,https://myvoteinfo.voteks.org/VoterView/PollingPlaceSearch.do,photo-id,no,available-all,yes
+KY,Kentucky,https://vrsws.sos.ky.gov/ovrweb/,https://vrsws.sos.ky.gov/VIC/,https://vrsws.sos.ky.gov/vic/,non-photo-id,no,excuse-only,no
+LA,Louisiana,http://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoterRegistration.aspx,https://voterportal.sos.la.gov/,https://voterportal.sos.la.gov/,photo-id,no,excuse-only,yes
+ME,Maine,,http://www.maine.gov/portal/government/edemocracy/voter_lookup.php,http://www.maine.gov/portal/government/edemocracy/voter_lookup.php,none,yes,available-all,yes
+MD,Maryland,https://voterservices.elections.state.md.us/OnlineVoterRegistration/VoterType,https://voterservices.elections.maryland.gov/votersearch,http://www.elections.state.md.us/voting/where.html,none,no,available-all,yes
+MA,Massachusetts,https://www.sec.state.ma.us/ovr/,https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx,http://www.wheredoivotema.com/bal/MyElectionInfo.aspx,none,no,excuse-only,yes
+MI,Michigan,,https://webapps.sos.state.mi.us/mivote/,https://webapps.sos.state.mi.us/mivote/,photo-id,no,excuse-only,no
+MN,Minnesota,http://www.sos.state.mn.us/index.aspx?page=204,https://mnvotes.sos.state.mn.us/VoterStatus.aspx,http://pollfinder.sos.state.mn.us/,none,yes,available-all,yes
+MS,Mississippi,,http://www.sos.state.ms.us/elections/VoterRegistrars.asp,http://www.sos.ms.gov/PollingPlace/Pages/default.aspx,photo-id,no,excuse-only,no
+MO,Missouri,http://www.sos.mo.gov/elections/goVoteMissouri/register.aspx,http://www.sos.mo.gov/elections/voterlookup/,http://www.sos.mo.gov/elections/pollingplacelookup/,non-photo-id,no,excuse-only,no
+MT,Montana,,https://app.mt.gov/voterinfo/,https://app.mt.gov/voterinfo/,non-photo-id,yes,available-all,yes
+NE,Nebraska,https://www.nebraska.gov/apps-sos-voter-registration/,https://www.votercheck.necvr.ne.gov/VoterView/RegistrantSearch.do,https://www.votercheck.necvr.ne.gov/VoterView/PollingPlaceSearch.do,none,no,available-all,yes
+NV,Nevada,https://nvsos.gov/sosvoterservices/Registration/step1.aspx,https://nvsos.gov/votersearch/,http://nvsos.gov/votersearch/,none,no,available-all,yes
+NH,New Hampshire,,https://app.sos.nh.gov/Public/PartyInfo.aspx,http://app.sos.nh.gov/Public/PollingPlaceSearch.aspx,photo-id,yes,excuse-only,no
+NJ,New Jersey,,https://voter.njsvrs.com/PublicAccess/jsp/UserLogin/Login.jsp,https://voter.njsvrs.com/PublicAccess/jsp/PollPlace/PollPlaceSearch.jsp,none,no,available-all,yes
+NM,New Mexico,https://portal.sos.state.nm.us/OVR/(S(hwzs5tvnusbzkrrm3mjcufdq))/WebPages/InstructionsStep1.aspx,https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx,https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?AspxAutoDetectCookieSupport=1,none,no,available-all,yes
+NY,New York,http://www.elections.ny.gov/NYSBOE/download/voting/voteform_enterable.pdf,http://voterlookup.elections.state.ny.us/,https://voterlookup.elections.state.ny.us/votersearch.aspx,none,no,excuse-only,no
+NC,North Carolina,,https://vt.ncsbe.gov/RegLkup/,https://vt.ncsbe.gov/PPLkup/,none,no,available-all,yes
+ND,North Dakota,,https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=51&ptlPKID=7,https://vip.sos.nd.gov/wheretovote.aspx,non-photo-id,yes,available-all,yes
+OH,Ohio,https://olvr.sos.state.oh.us/ovru/ModifyAddress.aspx,http://voterlookup.sos.state.oh.us/voterlookup.aspx?http://www.sos.state.oh.us/SOS/voterquery.aspx,https://www.sos.state.oh.us/elections/voters/toolkit/polling-location/,non-photo-id,no,available-all,yes
+OK,Oklahoma,,https://services.okelections.us/voterSearch.aspx,https://services.okelections.us/voterSearch.aspx,non-photo-id,no,available-all,yes
+OR,Oregon,https://secure.sos.state.or.us/orestar/vr/register.do?lang=eng&source=SOS,https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do,http://sos.oregon.gov/voting/Pages/drop-box-locator.aspx,none,no,all-mail,all-mail
+PA,Pennsylvania,http://www.votespa.com/portal/server.pt/community/home/13514,https://www.pavoterservices.state.pa.us/Pages/VoterRegistrationStatus.aspx,https://www.pavoterservices.state.pa.us/Pages/PollingPlaceInfo.aspx,none,no,excuse-only,no
+RI,Rhode Island,https://vote.sos.ri.gov/,https://sos.ri.gov/vic/,https://sos.ri.gov/vic/,photo-id,no,excuse-only,no
+SC,South Carolina,https://info.scvotes.sc.gov/eng/ovr/start.aspx,https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo,https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=VoterInfo,photo-id,no,excuse-only,no
+SD,South Dakota,,https://sos.sd.gov/Elections/VIPLogin.aspx,https://sos.sd.gov/Elections/VIPLogin.aspx,photo-id,no,available-all,yes
+TN,Tennessee,https://ovr.govote.tn.gov/,https://tnmap.tn.gov/voterlookup/,https://tnmap.tn.gov/voterlookup/,photo-id,no,available-all,yes
+TX,Texas,,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do,photo-id,no,excuse-only,yes
+UT,Utah,https://secure.utah.gov/voterreg/index.html,https://vote.utah.gov/vote/menu/index,http://vote.utah.gov/vote/menu/index,non-photo-id,no,available-all,yes
+VT,Vermont,https://olvr.sec.state.vt.us/,https://mvp.sec.state.vt.us/,https://mvp.sec.state.vt.us/,none,yes,available-all,yes
+VA,Virginia,https://www.vote.virginia.gov/,https://vote.elections.virginia.gov/VoterInformation,https://vote.elections.virginia.gov/VoterInformation/PollingPlaceLookup,photo-id,no,excuse-only,no
+WA,Washington,https://wei.sos.wa.gov/agency/osos/en/pages/myvote.aspx,https://www.sos.wa.gov/elections/myvote/,https://www.sos.wa.gov/elections/auditors.aspx,none,no,all-mail,all-mail
+WV,West Virginia,https://ovr.sos.wv.gov/Register#Landing,https://apps.sos.wv.gov/elections/voter/,https://services.sos.wv.gov/Elections/Voter/FindMyPollingPlace,non-photo-id,no,excuse-only,yes
+WI,Wisconsin,https://myvote.wi.gov/en-us/registertovote,https://myvote.wi.gov/en-us/ViewMyVotingActivity,https://myvote.wi.gov/en-US/FindMyPollingPlace,photo-id,yes,available-all,yes
+WY,Wyoming,,http://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf,http://soswy.state.wy.us/Elections/PollPlace/Default.aspx,none,yes,available-all,yes
+DC,"Washington, D.C.",https://www.vote4dc.com/UpdateApply/SearchOldVoter,https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status,https://www.vote4dc.com/SearchElection/SearchByAddress,none,yes,available-all,yes

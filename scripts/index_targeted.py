@@ -11,8 +11,9 @@ conn = postgres_db.connect()
 cur = conn.cursor()
 
 cur.execute("DROP TABLE IF EXISTS elections_targeted CASCADE")
+cur.execute("DROP TABLE IF EXISTS election_targeted CASCADE")
 cur.execute('''
-CREATE TABLE elections_targeted (
+CREATE TABLE election_targeted (
 	type VARCHAR(20),
 	ocd_id VARCHAR(255),
 	title VARCHAR(255),
@@ -21,7 +22,7 @@ CREATE TABLE elections_targeted (
 conn.commit()
 
 insert_sql = '''
-	INSERT INTO elections_targeted (
+	INSERT INTO election_targeted (
 		type,
 		ocd_id,
 		title,

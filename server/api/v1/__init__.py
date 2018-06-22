@@ -123,6 +123,12 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 					else:
 						elections['dates'][date] = date_formatted
 
+	elections['targeted'] = []
+
+	for ocd_id in ocd_ids:
+		if ocd_id in flask.g.targeted:
+			elections['targeted'] = elections['targeted'] + flask.g.targeted[ocd_id]
+
 	return elections
 
 def get_state_by_coords(lat, lng):

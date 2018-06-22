@@ -11,6 +11,8 @@ app.register_blueprint(api_v1, url_prefix='/v1')
 def init():
 	db_connect()
 	setup_sessions()
+	setup_targeted()
+	setup_blurbs()
 
 def db_connect():
 	default_dsn = 'dbname=elections'
@@ -35,6 +37,46 @@ def setup_sessions():
 				"start_date": str(row[1]),
 				"end_date": str(row[2])
 			}
+
+def setup_targeted():
+	flask.g.targeted = {
+		'races': {},
+		'ballot_initiatives': {}
+	}
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT type, ocd_id, title, description
+		FROM election_targeted
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			ocd_id = row[1]
+
+			if not ocd_id in flask.g.targeted:
+				flask.g.targeted[ocd_id] = []
+
+			flask.g.targeted[ocd_id].append({
+				'type': row[0],
+				'title': row[2],
+				'description': row[3]
+			})
+
+def setup_blurbs():
+	flask.g.blurbs = {}
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT position, description
+		FROM election_blurbs
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			position = row[0]
+			description = row[1]
+			flask.g.blurbs[position] = description
 
 if __name__ == '__main__':
 	port = os.getenv('PORT', 5000)

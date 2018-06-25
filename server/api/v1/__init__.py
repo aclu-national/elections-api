@@ -51,7 +51,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 				'check_reg_url': row[2],
 				'polling_place_url': row[3],
 			}
-			elections['dates'] = {}
+			elections['dates'] = {
+				'primary': {},
+				'general': {}
+			}
 			elections['ballots'] = {}
 
 	cur.execute('''
@@ -66,7 +69,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		for row in rs:
 			name = row[0]
 			value = row[1]
-			elections['dates'][name] = format_date(value)
+			if name.startswith('primary_'):
+				elections['dates']['primary'][name] = format_date(value)
+			elif name.startswith('general_'):
+				elections['dates']['general'][name] = format_date(value)
 
 	election_dates = [
 		'primary_date',
@@ -120,8 +126,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							'type': row[1]
 						})
 
-					else:
-						elections['dates'][date] = date_formatted
+					if date.startswith('primary_'):
+						elections['dates']['primary'][date] = date_formatted
+					elif date.startswith('general_'):
+						elections['dates']['general'][date] = date_formatted
 
 	elections['targeted'] = []
 

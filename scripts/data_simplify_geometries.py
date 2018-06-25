@@ -32,6 +32,8 @@ if __name__ == "__main__":
 	for data_dir in data_dirs:
 		if data_dir == 'congress_districts_116_pa':
 			dirs.append("%s/data/congress_districts_116_pa" % root_dir)
+		elif data_dir == 'states':
+			dirs.append("%s/data/states" % root_dir)
 		else:
 			for state in os.listdir("%s/data/%s" % (root_dir, data_dir)):
 				dir = "%s/data/%s/%s" % (root_dir, data_dir, state)

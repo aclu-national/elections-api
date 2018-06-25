@@ -145,12 +145,19 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 def get_state_by_coords(lat, lng):
 
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = "aclu_id, geoid, ocd_id, name, state, area_land, area_water"
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT aclu_id, geoid, ocd_id, name, state, area_land, area_water, boundary_simple
+		SELECT {columns}
 		FROM states
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
-	'''.format(lat=lat, lng=lng))
+	'''.format(columns=columns, lng=lng, lat=lat))
 
 	rs = cur.fetchall()
 	state = None
@@ -164,21 +171,30 @@ def get_state_by_coords(lat, lng):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6],
-				'geometry': row[7]
+				'area_water': row[6]
 			}
+
+			if include_geometry == '1':
+				state['geometry'] = row[7]
 
 	cur.close()
 	return state
 
 def get_state_by_abbrev(abbrev):
 
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = "aclu_id, geoid, ocd_id, name, state, area_land, area_water"
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT aclu_id, geoid, ocd_id, name, state, area_land, area_water, boundary_simple
+		SELECT {columns}
 		FROM states
-		WHERE state = '{state}'
-	'''.format(state=abbrev))
+		WHERE state = %s
+	'''.format(columns=columns), (abbrev,))
 
 	rs = cur.fetchall()
 	state = None
@@ -192,25 +208,33 @@ def get_state_by_abbrev(abbrev):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6],
-				'geometry': row[7]
+				'area_water': row[6]
 			}
+
+			if include_geometry == '1':
+				state['geometry'] = row[7]
 
 	cur.close()
 	return state
 
 def get_district_by_coords(lat, lng, session_num=115):
 
-	columns = 'aclu_id, geoid, ocd_id, name, start_session, end_session, state, district_num, boundary_simple, area'
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = 'aclu_id, geoid, ocd_id, name, start_session, end_session, state, district_num, area'
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT {columns}
 		FROM congress_districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		  AND (district_num > 0 OR at_large_only = 'Y')
-		  AND start_session <= {session_num}
-		  AND end_session >= {session_num}
-	'''.format(columns=columns, lat=lat, lng=lng, session_num=session_num))
+		  AND start_session <= %s
+		  AND end_session >= %s
+	'''.format(columns=columns, lng=lng, lat=lat), (session_num, session_num))
 
 	rs = cur.fetchall()
 	district = None
@@ -226,8 +250,7 @@ def get_district_by_coords(lat, lng, session_num=115):
 			end_session = row[5]
 			state = row[6]
 			district_num = row[7]
-			boundary_simple = row[8]
-			area = row[9]
+			area = row[8]
 
 			at_large = (district_num == 0)
 			non_voting = (district_num == 98)
@@ -243,23 +266,32 @@ def get_district_by_coords(lat, lng, session_num=115):
 				'end_date': flask.g.sessions[end_session]['end_date'],
 				'state': state,
 				'district_num': district_num,
-				'geometry': boundary_simple,
 				'area': area,
 				'at_large': at_large,
 				'non_voting': non_voting
 			}
+
+			if include_geometry == '1':
+				district['geometry'] = row[9]
 
 	cur.close()
 	return district
 
 def get_district_by_id(id):
 
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = 'aclu_id, geoid, ocd_id, name, start_session, end_session, state, district_num, area'
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT aclu_id, geoid, ocd_id, name, start_session, end_session, state, district_num, boundary_simple, area
+		SELECT {columns}
 		FROM congress_districts
-		WHERE id = {id}
-	'''.format(id=id))
+		WHERE id = %s
+	'''.format(columns=columns), (id,))
 
 	rs = cur.fetchall()
 	district = None
@@ -275,8 +307,7 @@ def get_district_by_id(id):
 			end_session = row[5]
 			state = row[6]
 			district_num = row[7]
-			boundary_simple = row[8]
-			area = row[9]
+			area = row[8]
 
 			at_large = (district_num == 0)
 			non_voting = (district_num == 98)
@@ -292,26 +323,35 @@ def get_district_by_id(id):
 				'end_date': flask.g.sessions[end_session]['end_date'],
 				'state': state,
 				'district_num': district_num,
-				'geometry': boundary_simple,
 				'area': area,
 				'at_large': at_large,
 				'non_voting': non_voting
 			}
+
+			if include_geometry == '1':
+				district['geometry'] = row[9]
 
 	cur.close()
 	return district
 
 def get_county_by_coords(lat, lng):
 
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = 'aclu_id, geoid, ocd_id, name, state, area_land, area_water'
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT aclu_id, geoid, ocd_id, name, state, area_land, area_water, boundary_simple
+		SELECT {columns}
 		FROM counties
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
-	'''.format(lat=lat, lng=lng))
+	'''.format(columns=columns, lng=lng, lat=lat))
 
 	rs = cur.fetchall()
-	state = None
+	county = None
 
 	if rs:
 		for row in rs:
@@ -323,21 +363,30 @@ def get_county_by_coords(lat, lng):
 				'name': row[3],
 				'state': row[4],
 				'area_land': row[5],
-				'area_water': row[6],
-				'geometry': row[7]
+				'area_water': row[6]
 			}
+
+			if include_geometry == '1':
+				county['geometry'] = row[7]
 
 	cur.close()
 	return county
 
 def get_state_legs_by_coords(lat, lng):
 
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = 'aclu_id, geoid, ocd_id, name, state, chamber, district_num, area_land, area_water'
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT aclu_id, geoid, ocd_id, name, state, chamber, district_num, area_land, area_water, boundary_simple
+		SELECT {columns}
 		FROM state_leg
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
-	'''.format(lat=lat, lng=lng))
+	'''.format(columns=columns, lng=lng, lat=lat))
 
 	rs = cur.fetchall()
 	state_legs = []
@@ -345,7 +394,7 @@ def get_state_legs_by_coords(lat, lng):
 	if rs:
 		for row in rs:
 
-			state_legs.append({
+			state_leg = {
 				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
@@ -354,9 +403,13 @@ def get_state_legs_by_coords(lat, lng):
 				'chamber': row[5],
 				'district_num': row[6],
 				'area_land': row[7],
-				'area_water': row[8],
-				'geometry': row[9]
-			})
+				'area_water': row[8]
+			}
+
+			if include_geometry == '1':
+				state_leg['geometry'] = row[9]
+
+			state_legs.append(state_leg)
 
 	cur.close()
 	return state_legs
@@ -639,14 +692,16 @@ def index():
 				'args': {
 					'lat': 'Latitude',
 					'lng': 'Longitude',
-					'scores': 'Congress legislator score filter (optional; scores=all)'
+					'scores': 'Congress legislator score filter (optional; scores=all)',
+					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
 			'/v1/state': {
 				'description': 'State election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
-					'lng': 'Longitude'
+					'lng': 'Longitude',
+					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
 			'/v1/congress': {
@@ -654,14 +709,16 @@ def index():
 				'args': {
 					'lat': 'Latitude',
 					'lng': 'Longitude',
-					'scores': 'Congress legislator score filter (optional; scores=all)'
+					'scores': 'Congress legislator score filter (optional; scores=all)',
+					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
 			'/v1/congress/district': {
 				'description': 'Congressional district lookup by location.',
 				'args': {
 					'lat': 'Latitude',
-					'lng': 'Longitude'
+					'lng': 'Longitude',
+					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
 			'/v1/congress/scores': {
@@ -672,14 +729,16 @@ def index():
 				'description': 'County election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
-					'lng': 'Longitude'
+					'lng': 'Longitude',
+					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
 			'/v1/state_leg': {
 				'description': 'State legislature election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
-					'lng': 'Longitude'
+					'lng': 'Longitude',
+					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
 			'/v1/blurbs': {

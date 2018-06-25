@@ -61,7 +61,7 @@ for row in reader:
 		ocd_id = row[8]
 		name = row[0]
 
-		ocd_id_match = re.search('state:(\w\w)', ocd_id)
+		ocd_id_match = re.search('(state|district):(\w\w)', ocd_id)
 
 		if not ocd_id_match:
 			print("skipping %s (bad ocd_id)" % name)
@@ -70,7 +70,7 @@ for row in reader:
 		else:
 			print("indexing %s: %s" % (ocd_id, name))
 
-		state = ocd_id_match.group(1)
+		state = ocd_id_match.group(2)
 		year = row[1]
 		type = row[13].lower()
 		office_level = row[3].lower()

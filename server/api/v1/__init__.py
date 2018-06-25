@@ -350,29 +350,29 @@ def get_legislators_by_state(state, session_num=115):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE end_date >= CURRENT_DATE
-		  AND state = '{state}'
+		  AND state = %s
 		  AND type = 'sen'
 		ORDER BY end_date DESC
-	'''.format(state=state))
+	''', (state,))
 
 	return get_legislators(cur)
 
 def get_legislators_by_district(state, district_num, session_num=115):
 
-	session = flask.g.sessions[session_num]
+	print('%s - %s' % (state, district_num))
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE end_date >= CURRENT_DATE
-		  AND state = '{state}'
+		  AND state = %s
 		  AND (
 			district_num IS NULL OR
-			district_num = {district_num}
+			district_num = %s
 		  )
 		ORDER BY end_date DESC
-	'''.format(state=state, district_num=district_num))
+	''', (state, district_num))
 
 	return get_legislators(cur)
 
@@ -547,6 +547,26 @@ def get_legislators(cur):
 	legislator_list = []
 	for aclu_id in legislators:
 		legislator_list.append(legislators[aclu_id])
+
+	def sort_legislators(a, b):
+		if a['term']['type'] == 'sen' and b['term']['type'] == 'sen':
+			if a['term']['class'] > b['term']['class']:
+				return -1
+			elif a['term']['class'] < b['term']['class']:
+				return 1
+		elif a['term']['type'] == 'sen' and b['term']['type'] == 'rep':
+			return -1
+		elif a['term']['type'] == 'rep' and b['term']['type'] == 'sen':
+			return 1
+
+		if a['name']['last_name'] < b['name']['last_name']:
+			return -1
+		elif a['name']['last_name'] > b['name']['last_name']:
+			return 1
+		else:
+			return 0
+
+	legislator_list.sort(cmp=sort_legislators)
 
 	return legislator_list
 

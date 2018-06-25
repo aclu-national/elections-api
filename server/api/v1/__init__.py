@@ -70,8 +70,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 			name = row[0]
 			value = row[1]
 			if name.startswith('primary_'):
+				name = name.replace('primary_', '')
 				elections['dates']['primary'][name] = format_date(value)
 			elif name.startswith('general_'):
+				name = name.replace('general_', '')
 				elections['dates']['general'][name] = format_date(value)
 
 	election_dates = [
@@ -127,8 +129,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 						})
 
 					if date.startswith('primary_'):
+						date = date.replace('primary_', '')
 						elections['dates']['primary'][date] = date_formatted
 					elif date.startswith('general_'):
+						date = date.replace('general_', '')
 						elections['dates']['general'][date] = date_formatted
 
 	elections['targeted'] = []

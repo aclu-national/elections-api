@@ -4,7 +4,8 @@ all: congress_districts_113 \
      congress_photos \
      states \
      counties \
-     state_leg
+     state_leg \
+     simplify_geometries
 
 congress_districts_113:
 	python ../scripts/data_congress_districts_tiger.py --start 113 --end 115
@@ -26,3 +27,6 @@ counties:
 
 state_leg:
 	python ../scripts/data_state_leg.py
+
+simplify_geometries:
+	python ../scripts/data_simplify_geometries.py

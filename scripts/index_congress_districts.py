@@ -24,6 +24,7 @@ cur.execute('''
 		district_num INTEGER,
 		at_large_only CHAR DEFAULT 'N',
 		boundary TEXT,
+		boundary_simple TEXT,
 		boundary_geom GEOMETRY,
 		area FLOAT
 	)''')
@@ -40,8 +41,9 @@ insert_sql = '''
 		end_session,
 		district_num,
 		boundary,
+		boundary_simple,
 		area
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 directories = []
@@ -66,6 +68,9 @@ for dir in directories:
 	files.sort()
 	for filename in files:
 
+		if filename.endswith('.display.geojson'):
+			continue
+
 		regex = '^congress_district_(\d+)_([a-z][a-z])_(\d+)\.geojson$'
 		matches = re.search(regex, filename)
 		if matches == None:
@@ -78,6 +83,10 @@ for dir in directories:
 		with open(path) as geojson:
 			feature = json.load(geojson)
 
+		display_path = path.replace('.geojson', '.display.geojson')
+		with open(display_path) as display_geojson:
+			display_feature = json.load(display_geojson)
+
 		aclu_id = feature["properties"]["aclu_id"]
 		geoid = feature["properties"]["geoid"]
 		ocd_id = feature["properties"]["ocd_id"]
@@ -86,8 +95,8 @@ for dir in directories:
 		start_session = int(feature["properties"]["start_session"])
 		end_session = int(feature["properties"]["end_session"])
 		district_num = int(feature["properties"]["district_num"])
-		geometry = feature["geometry"]
-		boundary = json.dumps(geometry)
+		boundary = json.dumps(feature["geometry"])
+		boundary_simple = json.dumps(display_feature["geometry"])
 		area = float(feature["properties"]["area"])
 
 		district = [
@@ -100,6 +109,7 @@ for dir in directories:
 			end_session,
 			district_num,
 			boundary,
+			boundary_simple,
 			area
 		]
 		cur.execute(insert_sql, district)

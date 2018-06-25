@@ -21,6 +21,7 @@ cur.execute('''
 		area_land BIGINT,
 		area_water BIGINT,
 		boundary TEXT,
+		boundary_simple TEXT,
 		boundary_geom GEOMETRY
 	)''')
 conn.commit()
@@ -34,8 +35,9 @@ insert_sql = '''
 		state,
 		area_land,
 		area_water,
-		boundary
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+		boundary,
+		boundary_simple
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 cur = conn.cursor()
@@ -49,6 +51,8 @@ files = []
 for state_dir in state_dirs:
 	for filename in os.listdir("%s/%s" % (counties_dir, state_dir)):
 		if not filename.endswith(".geojson"):
+			continue
+		elif filename.endswith(".display.geojson"):
 			continue
 		files.append("%s/%s/%s" % (counties_dir, state_dir, filename))
 
@@ -66,6 +70,10 @@ for filename in files:
 	with open(filename) as geojson:
 		feature = json.load(geojson)
 
+	display_path = filename.replace('.geojson', '.display.geojson')
+	with open(display_path) as display_geojson:
+		display_feature = json.load(display_geojson)
+
 	aclu_id = feature["properties"]["aclu_id"]
 	geoid = feature["properties"]["geoid"]
 	ocd_id = feature["properties"]["ocd_id"]
@@ -73,8 +81,8 @@ for filename in files:
 	state = feature["properties"]["state"]
 	area_land = int(feature["properties"]["area_land"])
 	area_water = int(feature["properties"]["area_water"])
-	geometry = feature["geometry"]
-	boundary = json.dumps(geometry)
+	boundary = json.dumps(feature["geometry"])
+	boundary_simple = json.dumps(display_feature["geometry"])
 
 	county = [
 		aclu_id,
@@ -84,7 +92,8 @@ for filename in files:
 		state,
 		area_land,
 		area_water,
-		boundary
+		boundary,
+		boundary_simple
 	]
 	cur.execute(insert_sql, county)
 	conn.commit()

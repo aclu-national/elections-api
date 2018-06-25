@@ -45,56 +45,57 @@ insert_sql = '''
 files = []
 
 source_dir = "%s/sources/ballotpedia" % root_dir
-for filename in os.listdir(source_dir):
-	if not filename.endswith(".csv"):
-		continue
-	files.append("%s/%s" % (source_dir, filename))
+path = "%s/ballotpedia_races.csv" % source_dir
+csvfile = open(path, 'rb')
 
-files.sort()
+reader = csv.reader(csvfile)
 
-for path in files:
+row_num = 0
+headers = []
+skipped = 0
 
-	with open(path, 'rb') as csvfile:
+for row in reader:
+	if row_num == 0:
+		headers = row
+	else:
+		ocd_id = row[8]
+		name = row[0]
 
-		reader = csv.reader(csvfile)
+		ocd_id_match = re.search('state:(\w\w)', ocd_id)
 
-		row_num = 0
-		headers = []
+		if not ocd_id_match:
+			print("skipping %s (bad ocd_id)" % name)
+			skipped = skipped + 1
+			continue
+		else:
+			print("indexing %s: %s" % (ocd_id, name))
 
-		for row in reader:
-			if row_num == 0:
-				headers = row
-			else:
-				ocd_id = row[9]
-				name = row[1]
-				state = row[0].lower()
-				year = row[2]
-				type = row[14].lower()
-				office_level = row[4].lower()
-				primary_date = row[10]
-				primary_runoff_date = row[11]
-				general_date = row[12]
-				general_runoff_date = row[13]
+		state = ocd_id_match.group(1)
+		year = row[1]
+		type = row[13].lower()
+		office_level = row[3].lower()
+		primary_date = row[9]
+		primary_runoff_date = row[10]
+		general_date = row[11]
+		general_runoff_date = row[12]
 
-				if primary_date == 'None':
-					primary_date = None
-				if primary_runoff_date == 'None':
-					primary_runoff_date = None
-				if general_date == 'None':
-					general_date = None
-				if general_runoff_date == 'None':
-					general_runoff_date = None
+		if primary_date == 'None' or primary_date == '':
+			primary_date = None
+		if primary_runoff_date == 'None' or primary_runoff_date == '':
+			primary_runoff_date = None
+		if general_date == 'None' or general_date == '':
+			general_date = None
+		if general_runoff_date == 'None' or general_runoff_date == '':
+			general_runoff_date = None
 
-				print("indexing %s: %s" % (ocd_id, name))
+		values = (
+			ocd_id, name, state, year, type, office_level,
+			primary_date, primary_runoff_date,
+			general_date, general_runoff_date
+		)
+		cur.execute(insert_sql, values)
 
-				values = (
-					ocd_id, name, state, year, type, office_level,
-					primary_date, primary_runoff_date,
-					general_date, general_runoff_date
-				)
-				cur.execute(insert_sql, values)
-
-			row_num = row_num + 1
-		conn.commit()
+	row_num = row_num + 1
+conn.commit()
 
 print("Done")

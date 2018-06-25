@@ -38,64 +38,64 @@ aclu/elections-api/congress_legislator:728,Sen. John Kennedy (R-LA),
 aclu/elections-api/congress_legislator:732,"Sen. Edward ""Ed"" Markey (D-MA)",
 aclu/elections-api/congress_legislator:733,Sen. Elizabeth Warren (D-MA),1
 aclu/elections-api/congress_legislator:745,Sen. Ben Cardin (D-MD),1
-aclu/elections-api/congress_legislator:747,Sen. Chris Van Hollen (D-MD),
+aclu/elections-api/congress_legislator:747,Sen. Chris Van Hollen (D-MD),0
 aclu/elections-api/congress_legislator:753,Sen. Angus King (I-ME),1
-aclu/elections-api/congress_legislator:756,Sen. Susan Collins (R-ME),
+aclu/elections-api/congress_legislator:756,Sen. Susan Collins (R-ME),0
 aclu/elections-api/congress_legislator:762,Sen. Debbie Stabenow (D-MI),1
-aclu/elections-api/congress_legislator:764,Sen. Gary Peters (D-MI),
+aclu/elections-api/congress_legislator:764,Sen. Gary Peters (D-MI),0
 aclu/elections-api/congress_legislator:772,Sen. Amy Klobuchar (D-MN),1
 aclu/elections-api/congress_legislator:779,Sen. Tina Smith (D-MN)*,1
-aclu/elections-api/congress_legislator:787,Sen. Roy Blunt (R-MO),
+aclu/elections-api/congress_legislator:787,Sen. Roy Blunt (R-MO),0
 aclu/elections-api/congress_legislator:784,Sen. Claire McCaskill (D-MO),1
 aclu/elections-api/congress_legislator:1046,Sen. Cindy Hyde-Smith (R-MS)*,1
 aclu/elections-api/congress_legislator:794,Sen. Roger Wicker (R-MS),1
-aclu/elections-api/congress_legislator:798,Sen. Steve Daines (R-MT),
+aclu/elections-api/congress_legislator:798,Sen. Steve Daines (R-MT),0
 aclu/elections-api/congress_legislator:797,Sen. Jon Tester (D-MT),1
-aclu/elections-api/congress_legislator:807,Sen. Richard Burr (R-NC),
-aclu/elections-api/congress_legislator:811,Sen. Thom Tillis (R-NC),
-aclu/elections-api/congress_legislator:815,Sen. John Hoeven (R-ND),
-aclu/elections-api/congress_legislator:814,Sen. Heidi Heitkamp (D-ND),
-aclu/elections-api/congress_legislator:818,"Sen. Benjamin ""Ben"" Sasse (R-NE) ",
+aclu/elections-api/congress_legislator:807,Sen. Richard Burr (R-NC),0
+aclu/elections-api/congress_legislator:811,Sen. Thom Tillis (R-NC),0
+aclu/elections-api/congress_legislator:815,Sen. John Hoeven (R-ND),0
+aclu/elections-api/congress_legislator:814,Sen. Heidi Heitkamp (D-ND),1
+aclu/elections-api/congress_legislator:818,"Sen. Benjamin ""Ben"" Sasse (R-NE) ",0
 aclu/elections-api/congress_legislator:819,Sen. Deb Fischer (R-NE),1
-aclu/elections-api/congress_legislator:824,Sen. Jeanne Shaheen (D-NH),
-aclu/elections-api/congress_legislator:825,Sen. Maggie Hassan (D-NH),
-aclu/elections-api/congress_legislator:830,Sen. Cory Booker (D-NJ),
-aclu/elections-api/congress_legislator:837,"Sen. Robert ""Bob"" Menendez (D-NJ)",
-aclu/elections-api/congress_legislator:841,Sen. Martin Heinrich (D-NM),
-aclu/elections-api/congress_legislator:844,Sen. Tom Udall (D-NM),
-aclu/elections-api/congress_legislator:846,Sen. Dean Heller (R-NV),
-aclu/elections-api/congress_legislator:845,Sen. Catherine Cortez Masto (D-NV),
-aclu/elections-api/congress_legislator:854,"Leader Charles ""Chuck"" Schumer (D-NY)",
-aclu/elections-api/congress_legislator:869,Sen. Kirsten Gillibrand (D-NY),
-aclu/elections-api/congress_legislator:890,Sen. Rob Portman (R-OH),
-aclu/elections-api/congress_legislator:891,Sen. Sherrod Brown (D-OH),
-aclu/elections-api/congress_legislator:897,"Sen. James ""Jim"" Inhofe (R-OK)",
-aclu/elections-api/congress_legislator:898,Sen. James Lankford (R-OK),
-aclu/elections-api/congress_legislator:904,Sen. Jeff Merkley (D-OR),
-aclu/elections-api/congress_legislator:907,Sen. Ron Wyden (D-OR),
-aclu/elections-api/congress_legislator:920,Sen. Pat Toomey (R-PA),
-aclu/elections-api/congress_legislator:922,"Sen. Robert ""Bob"" Casey (D-PA)",
-aclu/elections-api/congress_legislator:929,Sen. Jack Reed (D-RI),
-aclu/elections-api/congress_legislator:930,Sen. Sheldon Whitehouse (D-RI),
-aclu/elections-api/congress_legislator:934,Sen. Lindsey Graham (R-SC),
-aclu/elections-api/congress_legislator:937,Sen. Tim Scott (R-SC),
-aclu/elections-api/congress_legislator:940,Sen. John Thune (R-SD),
-aclu/elections-api/congress_legislator:942,Sen. Mike Rounds (R-SD),
+aclu/elections-api/congress_legislator:824,Sen. Jeanne Shaheen (D-NH),0
+aclu/elections-api/congress_legislator:825,Sen. Maggie Hassan (D-NH),0
+aclu/elections-api/congress_legislator:830,Sen. Cory Booker (D-NJ),0
+aclu/elections-api/congress_legislator:837,"Sen. Robert ""Bob"" Menendez (D-NJ)",1
+aclu/elections-api/congress_legislator:841,Sen. Martin Heinrich (D-NM),1
+aclu/elections-api/congress_legislator:844,Sen. Tom Udall (D-NM),0
+aclu/elections-api/congress_legislator:846,Sen. Dean Heller (R-NV),1
+aclu/elections-api/congress_legislator:845,Sen. Catherine Cortez Masto (D-NV),0
+aclu/elections-api/congress_legislator:854,"Leader Charles ""Chuck"" Schumer (D-NY)",0
+aclu/elections-api/congress_legislator:869,Sen. Kirsten Gillibrand (D-NY),1
+aclu/elections-api/congress_legislator:890,Sen. Rob Portman (R-OH),0
+aclu/elections-api/congress_legislator:891,Sen. Sherrod Brown (D-OH),1
+aclu/elections-api/congress_legislator:897,"Sen. James ""Jim"" Inhofe (R-OK)",0
+aclu/elections-api/congress_legislator:898,Sen. James Lankford (R-OK),0
+aclu/elections-api/congress_legislator:904,Sen. Jeff Merkley (D-OR),0
+aclu/elections-api/congress_legislator:907,Sen. Ron Wyden (D-OR),0
+aclu/elections-api/congress_legislator:920,Sen. Pat Toomey (R-PA),0
+aclu/elections-api/congress_legislator:922,"Sen. Robert ""Bob"" Casey (D-PA)",1
+aclu/elections-api/congress_legislator:929,Sen. Jack Reed (D-RI),0
+aclu/elections-api/congress_legislator:930,Sen. Sheldon Whitehouse (D-RI),1
+aclu/elections-api/congress_legislator:934,Sen. Lindsey Graham (R-SC),0
+aclu/elections-api/congress_legislator:937,Sen. Tim Scott (R-SC),0
+aclu/elections-api/congress_legislator:940,Sen. John Thune (R-SD),0
+aclu/elections-api/congress_legislator:942,Sen. Mike Rounds (R-SD),0
 aclu/elections-api/congress_legislator:943,Sen. Bob Corker (R-TN),0
-aclu/elections-api/congress_legislator:950,Sen. Lamar Alexander (R-TN),
-aclu/elections-api/congress_legislator:987,Sen. Ted Cruz (R-TX),
-aclu/elections-api/congress_legislator:967,Whip John Cornyn (R-TX),
-aclu/elections-api/congress_legislator:993,Sen. Mike Lee (R-UT),
+aclu/elections-api/congress_legislator:950,Sen. Lamar Alexander (R-TN),0
+aclu/elections-api/congress_legislator:987,Sen. Ted Cruz (R-TX),1
+aclu/elections-api/congress_legislator:967,Whip John Cornyn (R-TX),0
+aclu/elections-api/congress_legislator:993,Sen. Mike Lee (R-UT),0
 aclu/elections-api/congress_legislator:994,Sen. Orrin Hatch (R-UT),0
-aclu/elections-api/congress_legislator:1003,Sen. Mark Warner (D-VA),
-aclu/elections-api/congress_legislator:1008,Sen. Tim Kaine (D-VA),
-aclu/elections-api/congress_legislator:1010,Sen. Bernie Sanders (I-VT),
-aclu/elections-api/congress_legislator:1011,"Sen. Patrick ""Pat"" Leahy (D-VT) ",
-aclu/elections-api/congress_legislator:1020,Sen. Maria Cantwell (D-WA),
-aclu/elections-api/congress_legislator:1021,Sen. Patty Murray (D-WA),
-aclu/elections-api/congress_legislator:1031,Sen. Ron Johnson (R-WI),
-aclu/elections-api/congress_legislator:1034,Sen. Tammy Baldwin (D-WI),
-aclu/elections-api/congress_legislator:1039,Sen. Shelley Capito (R-WV),
-aclu/elections-api/congress_legislator:1038,Sen. Joe Manchin (D-WV),
-aclu/elections-api/congress_legislator:1040,Sen. John Barrasso (R-WY),
-aclu/elections-api/congress_legislator:1042,Sen. Mike Enzi (R-WY),
+aclu/elections-api/congress_legislator:1003,Sen. Mark Warner (D-VA),0
+aclu/elections-api/congress_legislator:1008,Sen. Tim Kaine (D-VA),1
+aclu/elections-api/congress_legislator:1010,Sen. Bernie Sanders (I-VT),1
+aclu/elections-api/congress_legislator:1011,"Sen. Patrick ""Pat"" Leahy (D-VT) ",0
+aclu/elections-api/congress_legislator:1020,Sen. Maria Cantwell (D-WA),1
+aclu/elections-api/congress_legislator:1021,Sen. Patty Murray (D-WA),0
+aclu/elections-api/congress_legislator:1031,Sen. Ron Johnson (R-WI),0
+aclu/elections-api/congress_legislator:1034,Sen. Tammy Baldwin (D-WI),1
+aclu/elections-api/congress_legislator:1039,Sen. Shelley Capito (R-WV),0
+aclu/elections-api/congress_legislator:1038,Sen. Joe Manchin (D-WV),1
+aclu/elections-api/congress_legislator:1040,Sen. John Barrasso (R-WY),1
+aclu/elections-api/congress_legislator:1042,Sen. Mike Enzi (R-WY),0

@@ -7,6 +7,8 @@ api = flask.Blueprint('api', __name__)
 def get_ocd_ids(areas):
 	ocd_ids = []
 	for area in areas:
+		if area == None:
+			continue
 		if 'ocd_id' in area:
 			ocd_ids.append(area['ocd_id'])
 	return ocd_ids
@@ -25,7 +27,6 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		return elections
 
 	state = re.search('state:(\w\w)', ocd_ids[0]).group(1)
-	print(state)
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -87,7 +88,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	values = tuple(ocd_ids + [year])
 
 	cur.execute('''
-		SELECT name, type, office_level,
+		SELECT name, race_type, office_type, office_level,
 		       primary_date, primary_runoff_date,
 		       general_date, general_runoff_date
 		FROM election_races
@@ -101,10 +102,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		for row in rs:
 
 			election_date_lookup = {
-				'primary_date': row[3],
-				'primary_runoff_date': row[4],
-				'general_date': row[5],
-				'general_runoff_date': row[6]
+				'primary_date': row[4],
+				'primary_runoff_date': row[5],
+				'general_date': row[6],
+				'general_runoff_date': row[7]
 			}
 
 			for date in election_dates:
@@ -115,7 +116,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 					if date == 'primary_date' or date == 'general_date':
 
 						date = date.replace('_date', '_election_date')
-						office_level = row[2]
+						office_level = row[3]
 
 						if not date_formatted in elections['ballots']:
 							elections['ballots'][date_formatted] = {}
@@ -125,7 +126,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 						elections['ballots'][date_formatted][office_level].append({
 							'name': row[0],
-							'type': row[1]
+							'type': row[1],
+							'office': row[2]
 						})
 
 					if date.startswith('primary_'):
@@ -431,8 +433,6 @@ def get_legislators_by_state(state, session_num=115):
 	return get_legislators(cur)
 
 def get_legislators_by_district(state, district_num, session_num=115):
-
-	print('%s - %s' % (state, district_num))
 
 	cur = flask.g.db.cursor()
 	cur.execute('''

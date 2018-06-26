@@ -54,8 +54,12 @@ reader = csv.reader(csvfile)
 
 row_num = 0
 headers = []
+
 skipped = []
 guessed = {}
+
+empty_office_type = []
+guessed_office_type = {}
 
 def csv_row(row, headers):
 	col_num = 0
@@ -96,6 +100,48 @@ def guess_ocd_id(name):
 
 	return ''
 
+def guess_office_type(name):
+
+	match = re.search('^(.+?) (County .+)$', name)
+	if match:
+		return match.group(1)
+
+	match = re.search('^(.+?) Community College', name)
+	if match:
+		return 'Community College Board'
+
+	match = re.search('University.* Board', name)
+	if match:
+		return 'University Board'
+
+	match = re.search('(Natural Resources|Water Reclamation)', name)
+	if match:
+		return 'Natural Resources Board'
+
+	match = re.search('(Public Power|Metropolitan Utilities)', name)
+	if match:
+		return 'Public Utilities Board'
+
+	match = re.search('Traffic Court', name)
+	if match:
+		return 'Traffic Court Judge'
+
+	match = re.search('Board of Alderman', name)
+	if match:
+		return 'Board of Alderman'
+
+	for state in us.states.STATES:
+
+		match = re.match('^%s (.+)$' % state.name, name)
+		if match:
+			return match.group(1)
+
+		match = re.match('^(.+) of %s$' % state.name, name)
+		if match:
+			return match.group(1)
+
+	return ''
+
 for row in reader:
 	if row_num == 0:
 		headers = row
@@ -128,6 +174,11 @@ for row in reader:
 		general_date = row['general_election_date']
 		general_runoff_date = row['general_runoff_election_date']
 
+		if office_type == '':
+			office_type = guess_office_type(name)
+			if not office_type:
+				empty_office_type.append(name)
+
 		if primary_date == 'None' or primary_date == '':
 			primary_date = None
 		if primary_runoff_date == 'None' or primary_runoff_date == '':
@@ -149,14 +200,16 @@ conn.commit()
 
 print("Done")
 
-if len(guessed) > 0:
-	print("Guessed ocd_ids:")
-	for name in guessed:
-		print("\t%s: %s" % (name, guessed[name]))
-
 if len(skipped) > 0:
 	print("Skipped:")
 	for name in skipped:
 		print("\t%s" % name)
 
-print("Skipped %d rows" % len(skipped))
+print("%d rows with empty ocd_id" % len(skipped))
+
+if len(empty_office_type) > 0:
+	print("Empty office_type:")
+	for name in empty_office_type:
+		print("\t%s" % name)
+
+print("%d rows with empty office_type" % len(empty_office_type))

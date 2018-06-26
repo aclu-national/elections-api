@@ -209,6 +209,8 @@ def normalize_office_type(office_type, office_level):
 	office_type = office_type.replace('commissioner_of_agriculture_and_industries', 'commissioner_of_agriculture')
 	office_type = office_type.replace('commissioner_of_state_lands', 'commissioner_of_public_lands')
 	office_type = office_type.replace('superindendent', 'superintendent')
+	office_type = office_type.replace('state_attorney_general', 'attorney_general')
+	office_type = office_type.replace('state_lieutenant_governor', 'lieutenant_governor')
 
 	return office_type
 

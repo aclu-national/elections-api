@@ -1,6 +1,6 @@
 #!/bin/env python
 
-import psycopg2, os, re, sys, csv
+import psycopg2, os, re, sys, csv, us
 import postgres_db
 
 script = os.path.realpath(sys.argv[0])
@@ -17,7 +17,8 @@ cur.execute('''
 		name VARCHAR(255),
 		state CHAR(2),
 		year CHAR(4),
-		type VARCHAR(20),
+		race_type VARCHAR(20),
+		office_type VARCHAR(64),
 		office_level VARCHAR(20),
 		primary_date DATE,
 		primary_runoff_date DATE,
@@ -33,13 +34,14 @@ insert_sql = '''
 		name,
 		state,
 		year,
-		type,
+		race_type,
+		office_type,
 		office_level,
 		primary_date,
 		primary_runoff_date,
 		general_date,
 		general_runoff_date
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 files = []
@@ -52,32 +54,79 @@ reader = csv.reader(csvfile)
 
 row_num = 0
 headers = []
-skipped = 0
+skipped = []
+guessed = {}
+
+def csv_row(row, headers):
+	col_num = 0
+	row_obj = {}
+	for key in headers:
+		row_obj[key] = row[col_num]
+		col_num = col_num + 1
+	return row_obj
+
+def guess_ocd_id(name):
+
+	match = re.match('^U.S. House (.+) At-large District$', name, re.I)
+	if match:
+		state_name = unicode(match.group(1))
+		state = us.states.lookup(state_name)
+		if state:
+			return "ocd-division/country:us/state:%s" % state.abbr.lower()
+
+	match = re.match('^(.+?) Supreme Court', name)
+	if match:
+		state_name = unicode(match.group(1))
+		state = us.states.lookup(state_name)
+		if state:
+			return "ocd-division/country:us/state:%s" % state.abbr.lower()
+
+	# Maryland Court of Appeals
+	match = re.match('^(.+?) Court of (Criminal )?Appeals', name)
+	if match:
+		state_name = unicode(match.group(1))
+		state = us.states.lookup(state_name)
+		if state:
+			return "ocd-division/country:us/state:%s" % state.abbr.lower()
+
+	match = re.match('^New Hampshire House of Representatives (.+?) (\d+)$', name)
+	if match:
+		sldl = match.group(2)
+		return "ocd-division/country:us/state:nh/sldl:%s" % sldl
+
+	return ''
 
 for row in reader:
 	if row_num == 0:
 		headers = row
 	else:
-		ocd_id = row[8]
-		name = row[0]
+		row = csv_row(row, headers)
+		ocd_id = row['ocdid']
+		name = row['office_name']
 
 		ocd_id_match = re.search('(state|district):(\w\w)', ocd_id)
 
 		if not ocd_id_match:
-			print("skipping %s (bad ocd_id)" % name)
-			skipped = skipped + 1
-			continue
+			ocd_id = guess_ocd_id(name)
+			ocd_id_match = re.search('(state|district):(\w\w)', ocd_id)
+			if ocd_id_match:
+				guessed[name] = ocd_id
+			else:
+				print("skipping %s (bad ocd_id)" % name)
+				skipped.append(name)
+				continue
 		else:
 			print("indexing %s: %s" % (ocd_id, name))
 
 		state = ocd_id_match.group(2)
-		year = row[1]
-		type = row[13].lower()
-		office_level = row[3].lower()
-		primary_date = row[9]
-		primary_runoff_date = row[10]
-		general_date = row[11]
-		general_runoff_date = row[12]
+		year = row['year']
+		race_type = row['type'].lower()
+		office_type = row['office_type']
+		office_level = row['office_level'].lower()
+		primary_date = row['primary_election_date']
+		primary_runoff_date = row['primary_runoff_election_date']
+		general_date = row['general_election_date']
+		general_runoff_date = row['general_runoff_election_date']
 
 		if primary_date == 'None' or primary_date == '':
 			primary_date = None
@@ -89,7 +138,7 @@ for row in reader:
 			general_runoff_date = None
 
 		values = (
-			ocd_id, name, state, year, type, office_level,
+			ocd_id, name, state, year, race_type, office_type, office_level,
 			primary_date, primary_runoff_date,
 			general_date, general_runoff_date
 		)
@@ -99,3 +148,15 @@ for row in reader:
 conn.commit()
 
 print("Done")
+
+if len(guessed) > 0:
+	print("Guessed ocd_ids:")
+	for name in guessed:
+		print("\t%s: %s" % (name, guessed[name]))
+
+if len(skipped) > 0:
+	print("Skipped:")
+	for name in skipped:
+		print("\t%s" % name)
+
+print("Skipped %d rows" % len(skipped))

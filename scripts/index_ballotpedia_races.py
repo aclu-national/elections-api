@@ -104,7 +104,7 @@ def guess_office_type(name):
 
 	match = re.search('Superior Court of .+ County California', name)
 	if match:
-		return 'State Supreme Court'
+		return 'County Judge'
 
 	match = re.search('Supreme Court', name)
 	if match:
@@ -112,7 +112,7 @@ def guess_office_type(name):
 
 	match = re.search('County Justice of the Peace', name)
 	if match:
-		return 'County Judge'
+		return 'Justice of the Peace'
 
 	match = re.search('District Court', name)
 	if match:

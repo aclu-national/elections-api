@@ -18,7 +18,7 @@ cur.execute('''
 		state CHAR(2),
 		year CHAR(4),
 		race_type VARCHAR(20),
-		office_type VARCHAR(64),
+		office_type VARCHAR(255),
 		office_level VARCHAR(20),
 		primary_date DATE,
 		primary_runoff_date DATE,
@@ -102,9 +102,45 @@ def guess_ocd_id(name):
 
 def guess_office_type(name):
 
+	match = re.search('Superior Court of .+ County California', name)
+	if match:
+		return 'State Supreme Court'
+
+	match = re.search('Supreme Court', name)
+	if match:
+		return 'State Supreme Court'
+
+	match = re.search('County Justice of the Peace', name)
+	if match:
+		return 'County Judge'
+
+	match = re.search('District Court', name)
+	if match:
+		return 'County Judge'
+
+	match = re.search('Parish Traffic Court', name)
+	if match:
+		return 'County Judge'
+
+	match = re.search('County Court', name)
+	if match:
+		return 'County Judge'
+
+	match = re.search('County Magistrate', name)
+	if match:
+		return 'County Judge'
+
+	match = re.search('County.* Clerk', name)
+	if match:
+		return 'County Clerk'
+
+	match = re.search('County Constable', name)
+	if match:
+		return 'County Constable'
+
 	match = re.search('^(.+?) (County .+)$', name)
 	if match:
-		return match.group(1)
+		return match.group(2)
 
 	match = re.search('^(.+?) Community College', name)
 	if match:
@@ -122,10 +158,6 @@ def guess_office_type(name):
 	if match:
 		return 'Public Utilities Board'
 
-	match = re.search('Traffic Court', name)
-	if match:
-		return 'Traffic Court Judge'
-
 	match = re.search('Board of Alderman', name)
 	if match:
 		return 'Board of Alderman'
@@ -134,13 +166,51 @@ def guess_office_type(name):
 
 		match = re.match('^%s (.+)$' % state.name, name)
 		if match:
-			return match.group(1)
+			return 'State %s' % match.group(1)
 
 		match = re.match('^(.+) of %s$' % state.name, name)
 		if match:
-			return match.group(1)
+			return 'State %s' % match.group(1)
 
 	return ''
+
+def normalize_office_type(office_type, office_level):
+
+	match = re.search("(District|Prosecuting|County|Commonwealth's|State's) Attorney", office_type, re.I)
+	if match:
+		before = office_type
+		office_type = 'District Attorney'
+
+	office_type = re.sub('(Precinct|Place|District|Office|Area|Position|Ward|Zone|Division) \d+', '', office_type, re.I)
+	office_type = office_type.lower()
+	office_type = re.sub('\W+', '_', office_type)
+	office_type = re.sub('_$', '', office_type)
+
+	if office_type == 'representative' or office_type == 'senator':
+		if office_level == 'federal':
+			office_type = 'us_%s' % office_type
+		elif office_level == 'state':
+			office_type = 'state_%s' % office_type
+
+	office_type = re.sub('_commission$', '_commissioner', office_type)
+	office_type = re.sub('^state_state_', 'state_', office_type)
+	office_type = re.sub('^state_(.+_of_state)$', '\g<1>', office_type)
+	office_type = re.sub('(_public_instruction|_schools)$', '_education', office_type)
+
+	office_type = office_type.replace('governor_s_', 'governors_')
+	office_type = office_type.replace('state_u_s_shadow_', 'us_shadow_')
+	office_type = office_type.replace('county_sheriff_al', 'county_sheriff')
+	office_type = office_type.replace('insurance_and_safety_fire_commissioner', 'insurance_commissioner')
+	office_type = office_type.replace('county_assessor_of_property', 'county_assessor')
+	office_type = office_type.replace('county_assessor_county_clerk_recorder', 'county_assessor_clerk_recorder')
+	office_type = office_type.replace('county_assessor_recorder_county_clerk', 'county_assessor_clerk_recorder')
+	office_type = office_type.replace('commissioner_of_labor_and_industries', 'commissioner_of_labor')
+	office_type = office_type.replace('commissioner_of_agriculture_and_consumer_services', 'commissioner_of_agriculture')
+	office_type = office_type.replace('commissioner_of_agriculture_and_industries', 'commissioner_of_agriculture')
+	office_type = office_type.replace('commissioner_of_state_lands', 'commissioner_of_public_lands')
+	office_type = office_type.replace('superindendent', 'superintendent')
+
+	return office_type
 
 for row in reader:
 	if row_num == 0:
@@ -178,6 +248,8 @@ for row in reader:
 			office_type = guess_office_type(name)
 			if not office_type:
 				empty_office_type.append(name)
+
+		office_type = normalize_office_type(office_type, office_level)
 
 		if primary_date == 'None' or primary_date == '':
 			primary_date = None

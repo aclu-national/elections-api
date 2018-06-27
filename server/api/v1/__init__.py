@@ -638,7 +638,7 @@ def get_legislators(cur):
 				legislators[legislator_id]['scores'] = []
 
 			if name == 'total':
-				legislators[legislator_id]['total_score'] = True if value else False
+				legislators[legislator_id]['total_score'] = value
 			else:
 				score = {
 					'aclu_id': aclu_id,

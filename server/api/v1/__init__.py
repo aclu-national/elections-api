@@ -152,6 +152,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							type = row[1]
 							if type == 'regular':
 								type = 'primary' if name == 'primary_election_date' else 'general'
+							elif type == 'special':
+								type = 'special_primary' if name == 'primary_election_date' else 'special_general'
 							elections['ballots'][ballot]['type'] = type
 
 						elections['ballots'][ballot]['races'][office_level].append({

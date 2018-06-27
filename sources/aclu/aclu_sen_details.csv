@@ -1,41 +1,41 @@
 aclu_id,display_name,running_in_2018
-aclu/elections-api/congress_legislator:516,Sen. Dan Sullivan (R-AK),
-aclu/elections-api/congress_legislator:518,Sen. Lisa Murkowski (R-AK),
-aclu/elections-api/congress_legislator:525,Sen. Richard Shelby (R-AL),
-aclu/elections-api/congress_legislator:520,Sen. Doug Jones (D-AL)*,
-aclu/elections-api/congress_legislator:531,Sen. John Boozman (R-AR),
-aclu/elections-api/congress_legislator:533,Sen. Tom Cotton (R-AR),
+aclu/elections-api/congress_legislator:516,Sen. Dan Sullivan (R-AK),0
+aclu/elections-api/congress_legislator:518,Sen. Lisa Murkowski (R-AK),0
+aclu/elections-api/congress_legislator:525,Sen. Richard Shelby (R-AL),0
+aclu/elections-api/congress_legislator:520,Sen. Doug Jones (D-AL)*,0
+aclu/elections-api/congress_legislator:531,Sen. John Boozman (R-AR),0
+aclu/elections-api/congress_legislator:533,Sen. Tom Cotton (R-AR),0
 aclu/elections-api/congress_legislator:537,Sen. Jeff Flake (R-AZ),0
-aclu/elections-api/congress_legislator:538,Sen. John McCain (R-AZ)!,
+aclu/elections-api/congress_legislator:538,Sen. John McCain (R-AZ)!,0
 aclu/elections-api/congress_legislator:555,Sen. Dianne Feinstein (D-CA),1
-aclu/elections-api/congress_legislator:574,Sen. Kamala Harris (D-CA),
-aclu/elections-api/congress_legislator:600,Sen. Cory Gardner (R-CO),
-aclu/elections-api/congress_legislator:606,Sen. Michael Bennet (D-CO),
+aclu/elections-api/congress_legislator:574,Sen. Kamala Harris (D-CA),0
+aclu/elections-api/congress_legislator:600,Sen. Cory Gardner (R-CO),0
+aclu/elections-api/congress_legislator:606,Sen. Michael Bennet (D-CO),0
 aclu/elections-api/congress_legislator:609,Sen. Chris Murphy (D-CT),1
-aclu/elections-api/congress_legislator:614,"Sen. Richard ""Dick"" Blumenthal (D-CT) ",
-aclu/elections-api/congress_legislator:617,"Sen. Christopher ""Chris"" Coons (D-DE) ",
+aclu/elections-api/congress_legislator:614,"Sen. Richard ""Dick"" Blumenthal (D-CT) ",0
+aclu/elections-api/congress_legislator:617,"Sen. Christopher ""Chris"" Coons (D-DE) ",0
 aclu/elections-api/congress_legislator:619,Sen. Tom Carper (D-DE),1
-aclu/elections-api/congress_legislator:638,Sen. Marco Rubio (R-FL),
+aclu/elections-api/congress_legislator:638,Sen. Marco Rubio (R-FL),0
 aclu/elections-api/congress_legislator:622,Sen. Bill Nelson (D-FL),1
-aclu/elections-api/congress_legislator:653,Sen. David Perdue (R-GA),
-aclu/elections-api/congress_legislator:658,Sen. Johnny Isakson (R-GA),
-aclu/elections-api/congress_legislator:665,Sen. Brian Schatz (D-HI),
+aclu/elections-api/congress_legislator:653,Sen. David Perdue (R-GA),0
+aclu/elections-api/congress_legislator:658,Sen. Johnny Isakson (R-GA),0
+aclu/elections-api/congress_legislator:665,Sen. Brian Schatz (D-HI),0
 aclu/elections-api/congress_legislator:667,Sen. Mazie Hirono (D-HI),1
-aclu/elections-api/congress_legislator:669,Sen. Chuck Grassley (R-IA),
-aclu/elections-api/congress_legislator:672,Sen. Joni Ernst (R-IA),
-aclu/elections-api/congress_legislator:675,"Sen. James ""Jim"" Risch (R-ID)",
-aclu/elections-api/congress_legislator:676,Sen. Mike Crapo (R-ID),
-aclu/elections-api/congress_legislator:698,Sen. Tammy Duckworth (D-IL),
-aclu/elections-api/congress_legislator:695,Whip Dick Durbin (D-IL),
-aclu/elections-api/congress_legislator:708,Sen. Todd Young (R-IN),
+aclu/elections-api/congress_legislator:669,Sen. Chuck Grassley (R-IA),0
+aclu/elections-api/congress_legislator:672,Sen. Joni Ernst (R-IA),0
+aclu/elections-api/congress_legislator:675,"Sen. James ""Jim"" Risch (R-ID)",0
+aclu/elections-api/congress_legislator:676,Sen. Mike Crapo (R-ID),0
+aclu/elections-api/congress_legislator:698,Sen. Tammy Duckworth (D-IL),0
+aclu/elections-api/congress_legislator:695,Whip Dick Durbin (D-IL),0
+aclu/elections-api/congress_legislator:708,Sen. Todd Young (R-IN),0
 aclu/elections-api/congress_legislator:702,Sen. Joe Donnelly (D-IN),1
-aclu/elections-api/congress_legislator:710,Sen. Jerry Moran (R-KS),
-aclu/elections-api/congress_legislator:713,Sen. Pat Roberts (R-KS),
-aclu/elections-api/congress_legislator:721,Leader Mitch McConnell (R-KY),
-aclu/elections-api/congress_legislator:722,Sen. Rand Paul (R-KY),
-aclu/elections-api/congress_legislator:724,Sen. Bill Cassidy (R-LA),
-aclu/elections-api/congress_legislator:728,Sen. John Kennedy (R-LA),
-aclu/elections-api/congress_legislator:732,"Sen. Edward ""Ed"" Markey (D-MA)",
+aclu/elections-api/congress_legislator:710,Sen. Jerry Moran (R-KS),0
+aclu/elections-api/congress_legislator:713,Sen. Pat Roberts (R-KS),0
+aclu/elections-api/congress_legislator:721,Leader Mitch McConnell (R-KY),0
+aclu/elections-api/congress_legislator:722,Sen. Rand Paul (R-KY),0
+aclu/elections-api/congress_legislator:724,Sen. Bill Cassidy (R-LA),0
+aclu/elections-api/congress_legislator:728,Sen. John Kennedy (R-LA),0
+aclu/elections-api/congress_legislator:732,"Sen. Edward ""Ed"" Markey (D-MA)",0
 aclu/elections-api/congress_legislator:733,Sen. Elizabeth Warren (D-MA),1
 aclu/elections-api/congress_legislator:745,Sen. Ben Cardin (D-MD),1
 aclu/elections-api/congress_legislator:747,Sen. Chris Van Hollen (D-MD),0

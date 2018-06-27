@@ -24,7 +24,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	elections = {}
 
 	if len(ocd_ids) == 0:
-		return elections
+		return None
 
 	state = re.search('state:(\w\w)', ocd_ids[0]).group(1)
 
@@ -36,51 +36,68 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		WHERE state = %s
 	''', (state,))
 
-	rs = cur.fetchall()
+	row = cur.fetchone()
+	if not row:
+		return None
 
-	if rs:
-		for row in rs:
-			elections['info'] = {
-				'state': row[0],
-				'voter_id_req': row[4],
-				'same_day': row[5],
-				'vote_by_mail': row[6],
-				'early_voting': row[7]
-			}
-			elections['links'] = {
-				'online_reg_url': row[1],
-				'check_reg_url': row[2],
-				'polling_place_url': row[3],
-			}
-			elections['dates'] = {
-				'primary': {},
-				'general': {}
-			}
-			elections['ballots'] = {}
+	elections = {
+		'info': {
+			'state': row[0],
+			'voter_id_req': row[4],
+			'same_day': row[5],
+			'vote_by_mail': row[6],
+			'early_voting': row[7]
+		},
+		'links': {
+			'online_reg_url': row[1],
+			'check_reg_url': row[2],
+			'polling_place_url': row[3]
+		},
+		'calendar': [],
+		'ballots': []
+	}
 
 	cur.execute('''
 		SELECT name, value
 		FROM election_dates
 		WHERE state = %s
+		ORDER BY value
 	''', (state,))
 
 	rs = cur.fetchall()
 
+	primary_index = None
+	general_index = None
+
 	if rs:
 		for row in rs:
 			name = row[0]
-			value = row[1]
+			date = format_date(row[1])
 			if name.startswith('primary_'):
 				name = name.replace('primary_', '')
-				elections['dates']['primary'][name] = format_date(value)
+				type = 'primary'
+				if primary_index == None:
+					primary_index = len(elections['calendar'])
+					elections['calendar'].append({
+						'type': type,
+						'dates': {}
+					})
+				elections['calendar'][primary_index]['dates'][name] = date
 			elif name.startswith('general_'):
 				name = name.replace('general_', '')
-				elections['dates']['general'][name] = format_date(value)
+				type = 'general'
+				if general_index == None:
+					general_index = len(elections['calendar'])
+					elections['calendar'].append({
+						'type': type,
+						'dates': {}
+					})
+				elections['calendar'][general_index]['dates'][name] = date
 
 	election_dates = [
 		'primary_date',
-		'primary_runoff_date',
 		'general_date',
+		'primary_runoff_date',
 		'general_runoff_date'
 	]
 
@@ -97,45 +114,65 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	'''.format(ocd_ids=ocd_id_list), values)
 
 	rs = cur.fetchall()
+	ballot_lookup = {}
 
 	if rs:
 		for row in rs:
 
+			office_level = row[3]
+
 			election_date_lookup = {
 				'primary_date': row[4],
-				'primary_runoff_date': row[5],
 				'general_date': row[6],
+				'primary_runoff_date': row[5],
 				'general_runoff_date': row[7]
 			}
 
-			for date in election_dates:
-				if election_date_lookup[date]:
+			for name in election_dates:
+				if election_date_lookup[name]:
 
-					date_formatted = format_date(election_date_lookup[date])
+					date = format_date(election_date_lookup[name])
 
-					if date == 'primary_date' or date == 'general_date':
+					if name == 'primary_date' or name == 'general_date':
+						name = name.replace('_date', '_election_date')
 
-						date = date.replace('_date', '_election_date')
-						office_level = row[3]
+						if not date in ballot_lookup:
+							ballot_lookup[date] = len(elections['ballots'])
+							elections['ballots'].append({
+								'date': date,
+								'races': {}
+							})
 
-						if not date_formatted in elections['ballots']:
-							elections['ballots'][date_formatted] = {}
+						ballot = ballot_lookup[date]
 
-						if not office_level in elections['ballots'][date_formatted]:
-							elections['ballots'][date_formatted][office_level] = []
+						if not office_level in elections['ballots'][ballot]['races']:
+							elections['ballots'][ballot]['races'][office_level] = []
 
-						elections['ballots'][date_formatted][office_level].append({
+						if not 'type' in elections['ballots'][ballot]:
+							type = row[1]
+							if type == 'regular':
+								type = 'primary' if name == 'primary_election_date' else 'general'
+							elections['ballots'][ballot]['type'] = type
+
+						elections['ballots'][ballot]['races'][office_level].append({
 							'name': row[0],
-							'type': row[1],
 							'office': row[2]
 						})
 
-					if date.startswith('primary_'):
-						date = date.replace('primary_', '')
-						elections['dates']['primary'][date] = date_formatted
-					elif date.startswith('general_'):
-						date = date.replace('general_', '')
-						elections['dates']['general'][date] = date_formatted
+					if name.startswith('primary_'):
+						name = name.replace('primary_', '')
+						elections['calendar'][primary_index]['dates'][name] = date
+					elif name.startswith('general_'):
+						name = name.replace('general_', '')
+						elections['calendar'][general_index]['dates'][name] = date
+
+	def sort_ballots(a, b):
+		return 1 if a['date'] > b['date'] else -1
+	elections['ballots'].sort(cmp=sort_ballots)
+
+	def sort_calendar(a, b):
+		return 1 if a['dates']['election_date'] > b['dates']['election_date'] else -1
+	elections['calendar'].sort(cmp=sort_calendar)
 
 	elections['targeted'] = []
 
@@ -459,11 +496,12 @@ def get_legislators(cur):
 	if rs:
 		for row in rs:
 			aclu_id = row[1]
+			office = 'us_representative' if row[4] == 'rep' else 'us_senator'
 			legislators[aclu_id] = {
 				'term': {
 					'start_date': arrow.get(row[2]).format('YYYY-MM-DD'),
 					'end_date': arrow.get(row[3]).format('YYYY-MM-DD'),
-					'type': row[4],
+					'office': office,
 					'state': row[5],
 					'party': row[7]
 				}
@@ -510,7 +548,7 @@ def get_legislators(cur):
 		for row in rs:
 			aclu_id = row[0]
 			legislators[aclu_id]['name']['display_name'] = row[1]
-			legislators[aclu_id]['running_in_2018'] = row[2]
+			legislators[aclu_id]['running_in_2018'] = True if row[2] else False
 
 	term_id_list = ', '.join(['%s'] * len(term_ids))
 	term_id_values = tuple(term_ids)
@@ -526,7 +564,9 @@ def get_legislators(cur):
 			aclu_id = row[0]
 			key = row[1]
 			value = row[2]
-			if key == 'class' or key == 'state_rank':
+			if key == 'class':
+				legislators[aclu_id]['term'][key] = int(value)
+			elif key == 'state_rank':
 				legislators[aclu_id]['term'][key] = value
 			else:
 				if not 'contact' in legislators[aclu_id]:
@@ -554,6 +594,8 @@ def get_legislators(cur):
 				if os.path.isfile(abs_path):
 					url_root = flask.request.url_root
 					if re.search('elb\.amazonaws\.com', url_root):
+						url_root = 'https://elections.api.aclu.org/'
+					elif url_root == 'http://elections.api.aclu.org/':
 						url_root = 'https://elections.api.aclu.org/'
 					legislators[aclu_id]['photo'] = "%s%s" % (url_root, path)
 
@@ -594,7 +636,7 @@ def get_legislators(cur):
 				legislators[legislator_id]['scores'] = []
 
 			if name == 'total':
-				legislators[legislator_id]['total_score'] = value
+				legislators[legislator_id]['total_score'] = True if value else False
 			else:
 				score = {
 					'aclu_id': aclu_id,
@@ -603,7 +645,7 @@ def get_legislators(cur):
 					'status': 'unknown'
 				}
 				if value == '1' or value == '0':
-					score['vote'] = int(value)
+					score['vote'] = True if value == '1' else False
 					score['status'] = 'voted'
 				elif value == 'Missed':
 					score['status'] = 'missed'
@@ -622,14 +664,14 @@ def get_legislators(cur):
 		legislator_list.append(legislators[aclu_id])
 
 	def sort_legislators(a, b):
-		if a['term']['type'] == 'sen' and b['term']['type'] == 'sen':
+		if a['term']['office'] == 'us_senator' and b['term']['office'] == 'us_senator':
 			if a['term']['class'] > b['term']['class']:
 				return -1
 			elif a['term']['class'] < b['term']['class']:
 				return 1
-		elif a['term']['type'] == 'sen' and b['term']['type'] == 'rep':
+		elif a['term']['office'] == 'us_senator' and b['term']['office'] == 'us_representative':
 			return -1
-		elif a['term']['type'] == 'rep' and b['term']['type'] == 'sen':
+		elif a['term']['office'] == 'us_representative' and b['term']['office'] == 'us_senator':
 			return 1
 
 		if a['name']['last_name'] < b['name']['last_name']:
@@ -668,13 +710,13 @@ def get_congress(lat, lng):
 
 	if not district:
 		rsp = {
-			'ok': 0,
+			'ok': False,
 			'error': 'No congressional district found.'
 		}
 	else:
 		legislators = get_legislators_by_district(district["state"], district["district_num"])
 		rsp = {
-			'ok': 1,
+			'ok': True,
 			'district': district,
 			'legislators': legislators
 		}
@@ -684,7 +726,7 @@ def get_congress(lat, lng):
 @api.route("/")
 def index():
 	return flask.jsonify({
-		'ok': 0,
+		'ok': False,
 		'error': 'Please pick a valid endpoint.',
 		'valid_endpoints': {
 			'/v1/pip': {
@@ -753,7 +795,7 @@ def pip():
 	req = get_lat_lng()
 	if type(req) == str:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': req
 		})
 
@@ -761,7 +803,7 @@ def pip():
 	lng = req['lng']
 
 	congress = get_congress(lat, lng)
-	if (congress["ok"] == 1):
+	if (congress["ok"]):
 		del congress["ok"]
 
 	state = get_state_by_abbrev(congress['district']['state'])
@@ -773,7 +815,7 @@ def pip():
 	elections = get_elections_by_ocd_ids(ocd_ids)
 
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'elections': elections,
 		'state': state,
 		'congress': congress,
@@ -787,7 +829,7 @@ def state():
 
 	if type(req) == str:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': req
 		})
 
@@ -797,14 +839,14 @@ def state():
 	rsp = get_state_by_coords(lat, lng)
 	if rsp == None:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': 'No state found.'
 		})
 
 	legislators = get_legislators_by_state(rsp['state'])
 
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'state': rsp,
 		'congress': {
 			'legislators': legislators
@@ -816,7 +858,7 @@ def congress():
 	req = get_lat_lng()
 	if type(req) == str:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': req
 		})
 
@@ -825,7 +867,7 @@ def congress():
 
 	rsp = get_congress(lat, lng)
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'congress': rsp
 	})
 
@@ -835,7 +877,7 @@ def congress_district():
 
 	if type(req) == str:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': req
 		})
 
@@ -845,7 +887,7 @@ def congress_district():
 	district = get_district_by_coords(lat, lng)
 
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'district': district
 	})
 
@@ -880,7 +922,7 @@ def congress_scores():
 			})
 
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'congress_scores': scores
 	})
 
@@ -890,7 +932,7 @@ def pip_county():
 
 	if type(req) == str:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': req
 		})
 
@@ -900,12 +942,12 @@ def pip_county():
 	rsp = get_county_by_coords(lat, lng)
 	if rsp == None:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': 'No county found.'
 		})
 
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'county': rsp
 	})
 
@@ -915,7 +957,7 @@ def pip_state_leg():
 
 	if type(req) == str:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': req
 		})
 
@@ -925,12 +967,12 @@ def pip_state_leg():
 	rsp = get_state_legs_by_coords(lat, lng)
 	if len(rsp) == 0:
 		return flask.jsonify({
-			'ok': 0,
+			'ok': False,
 			'error': 'No state legislation found.'
 		})
 
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'state_leg': rsp
 	})
 
@@ -955,6 +997,6 @@ def blurbs():
 			})
 
 	return flask.jsonify({
-		'ok': 1,
+		'ok': True,
 		'blurbs': blurbs
 	})

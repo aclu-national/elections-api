@@ -1,0 +1,111 @@
+{
+	"us_representative": {
+		"title": "What does your U.S. House Representative do?",
+		"summary": "Your U.S. House Representative represents their constituents in your district and also serves an important role in passing the laws of the land and in acting as a check on the President, and should put the civil rights and civil liberties of their constituents above all else.",
+		"details_title": "Vote for a U.S. House Representative who will vote to",
+
+		"details": [
+			"Pass the Dream Act",
+			"Pass the Equality Act",
+			"End mandatory minimums",
+			"Protect access to birth control"
+		]
+	},
+	"us_senator": {
+		"title": "What does your U.S. Senator do?",
+		"summary": "Your Senator serves an important role in passing the laws of the land, acting as a check on the President, confirming presidential nominees and federal judges, and defend civil rights and civil liberties for everyone, even when it’s hard.",
+		"details_title": "Vote for a U.S. Senator who will vote to",
+		"details": [
+			"Pass the Dream Act",
+			"Pass the Equality Act",
+			"End mandatory minimums",
+			"Protect access to birth control"
+		]
+	},
+	"district_attorney": {
+		"title": "What does your district attorney do?",
+		"summary": "Prosecutors are the most influential actors in the criminal justice system. As the county's top prosecutor, it’s the District Attorney who decides whether you’re going to get a second chance or if you’re going to prison and for how long. Their daily decisions with regard to who to charge, how to charge them, what prison sentence to seek, has been one of the primary drivers of incarceration that compounds racial disparities throughout the justice system. The top prosecutor sets the policies that guide all of these decisions, and influences the passage of local and state criminal justice reforms.",
+		"details_title": "Vote for a district attorney who will help end mass incarceration and racial disparities in the criminal justice system through",
+		"details": [
+			"Ending cash bail",
+			"Expanding diversion programs and other alternatives to incarceration",
+			"Increasing transparency",
+			"Holding law enforcement accountable for misconduct"
+		]
+	},
+	"county_sheriff": {
+		"title": "What does your county sheriff do?",
+		"summary": "Your sheriff helps shape the county’s priorities so that your community is safe as well as ensures that law enforcement policies promote justice, fairness, and non-discrimination.  The county sheriff is usually also responsible for running the local county jail where people charged with crimes might be incarcerated while waiting their day in court.",
+		"details_title": "Vote for a sheriff who will",
+		"details": [
+			"End 287g ICE agreements that deputize local law enforcement to join the President’s deportation force",
+			"Hold law enforcement accountable for misconduct",
+			"Refuse to incarcerate people in their jails who are simply too poor to pay bail",
+			"End the use of solitary confinement"
+		]
+	},
+	"attorney_general": {
+		"title": "What does your Attorney General do?",
+		"summary": "The Attorney General is your state’s chief lawyer and legal advisor tasked with upholding your state’s constitution.",
+		"details_title": "Vote for an attorney general who will",
+		"details": [
+			"Uphold the rule of law",
+			"Defend and expand your civil rights and civil liberties",
+			"Stand up to the President"
+		]
+	},
+	"governor": {
+		"title": "What does your Governor do?",
+		"summary": "The Governor serves as the head of your state with the power to pass executive orders and veto bills that pass the state legislature. The governor also has pardon power, controls the state prison system, and has the power to appoint, hire and fire, and direct the work of thousands of state employees to preserve civil rights and liberties, and should be held accountable for their work.",
+		"details_title": "Vote for a governor who will",
+		"details": [
+			"Protect reproductive freedom",
+			"Enact online voter registration",
+			"Legalize marijuana",
+			"Fight for anti-discrimination protections for LGBT people"
+		]
+	},
+	"state_representative": {
+		"title": "What do your state representatives do?",
+		"summary": "As members of the state legislature, they introduce and vote on bills, oversee the state budget, provide oversight to the governor, and often oversee the drawing of legislative districts.",
+		"details_title": "Vote for state representatives who will vote to",
+		"details": [
+			"Protect LGBT people from discrimination",
+			"End cash bail",
+			"Prevent voter suppression schemes",
+			"Protect reproductive freedom"
+		]
+	},
+	"state_senator": {
+		"title": "What do your state senators do?",
+		"summary": "As members of the state senate, they introduce and vote on bills, oversee the state budget, provide oversight to the governor, and often oversee the drawing of legislative districts.",
+		"details_title": "Vote for state representatives who will vote to",
+		"details": [
+			"Protect LGBT people from discrimination",
+			"End cash bail",
+			"Prevent voter suppression schemes",
+			"Protect reproductive freedom"
+		]
+	},
+	"secretary_of_state": {
+		"title": "What does your Secretary of State do?",
+		"summary": "In most states, the Secretary of State serves as the state's chief elections official and chief clerk.",
+		"details_title": "Vote for a secretary of state who will",
+		"details": [
+			"Make it easier, not harder, for people to vote",
+			"Defend against voter suppression schemes and attacks on the right to vote",
+			"Restore the right to vote to people who have served their time",
+			"End partisan gerrymandering"
+		]
+	},
+	"state_supreme_court": {
+		"title": "What do your State Supreme Court Justices do?",
+		"summary": "State Supreme Court Justices are critical to the protection of civil liberties, civil rights, and the rule of law across every issue, and will often have the final say or be the crucial stopgap in the rollback of rights.",
+		"details_title": "Vote for a state supreme court justice who will protect",
+		"details": [
+			"Reproductive freedom",
+			"Against partisan gerrymandering and voter suppression",
+			"Against discrimination no matter race, ethnicity, gender, gender identity, sexual orientation, disability or religion."
+		]
+	}
+}

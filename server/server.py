@@ -41,26 +41,47 @@ def setup_sessions():
 def setup_targeted():
 	flask.g.targeted = {
 		'races': {},
-		'ballot_initiatives': {}
+		'initiatives': {}
 	}
 	cur = flask.g.db.cursor()
+
 	cur.execute('''
-		SELECT type, ocd_id, title, description
-		FROM election_targeted
+		SELECT ocd_id, office, summary, url
+		FROM election_targeted_races
 	''')
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			ocd_id = row[1]
+			ocd_id = row[0]
 
-			if not ocd_id in flask.g.targeted:
-				flask.g.targeted[ocd_id] = []
+			if not ocd_id in flask.g.targeted['races']:
+				flask.g.targeted['races'][ocd_id] = []
 
-			flask.g.targeted[ocd_id].append({
-				'type': row[0],
-				'title': row[2],
-				'description': row[3]
+			flask.g.targeted['races'][ocd_id].append({
+				'office': row[1],
+				'summary': row[2],
+				'url': row[3]
+			})
+
+	cur.execute('''
+		SELECT ocd_id, name, position, blurb, url
+		FROM election_targeted_initiatives
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			ocd_id = row[0]
+
+			if not ocd_id in flask.g.targeted['initiatives']:
+				flask.g.targeted['initiatives'][ocd_id] = []
+
+			flask.g.targeted['initiatives'][ocd_id].append({
+				'name': row[1],
+				'position': row[2],
+				'blurb': row[3],
+				'url': row[4]
 			})
 
 def setup_blurbs():

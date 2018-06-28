@@ -207,7 +207,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							ballot_lookup[date] = len(elections['ballots'])
 							elections['ballots'].append({
 								'date': date,
-								'offices': deepcopy(offices_template)
+								'offices': deepcopy(offices_template),
+								'initiatives': []
 							})
 							office_lookup[date] = deepcopy(office_lookup_template)
 
@@ -235,9 +236,15 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 						office_index = office_lookup[date][office]
 						if office_index <= len(elections['ballots'][ballot]['offices'][office_level]) - 1:
-							elections['ballots'][ballot]['offices'][office_level][office_index]['races'].append({
+							race = {
 								'name': row[0]
-							})
+							}
+							for ocd_id in ocd_ids:
+								if ocd_id in flask.g.targeted['races']:
+									for targeted in flask.g.targeted['races'][ocd_id]:
+										if targeted['office'] == office:
+											race['targeted'] = [targeted]
+							elections['ballots'][ballot]['offices'][office_level][office_index]['races'].append(race)
 						else:
 							print("Warning: could not add %s to %s office %d" % (row[0], office_level, office_index))
 
@@ -263,11 +270,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		return 1 if a['dates']['election_date'] > b['dates']['election_date'] else -1
 	elections['calendar'].sort(cmp=sort_calendar)
 
-	elections['targeted'] = []
-
 	for ocd_id in ocd_ids:
-		if ocd_id in flask.g.targeted:
-			elections['targeted'] = elections['targeted'] + flask.g.targeted[ocd_id]
+		if ocd_id in flask.g.targeted['initiatives']:
+			for ballot in elections['ballots']:
+				ballot['initiatives'] = flask.g.targeted['initiatives'][ocd_id]
 
 	return elections
 

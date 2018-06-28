@@ -1,6 +1,7 @@
 __import__('pkg_resources').declare_namespace(__name__)
 
 import flask, json, os, re, sys, arrow
+from copy import deepcopy
 
 api = flask.Blueprint('api', __name__)
 
@@ -115,6 +116,72 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 	rs = cur.fetchall()
 	ballot_lookup = {}
+	office_lookup = {}
+
+	offices_template = {
+		"federal": [
+			{
+				"office": "us_senator",
+				"blurb": flask.g.blurbs['us_senator'],
+				"races": []
+			}, {
+				"office": "us_representative",
+				"blurb": flask.g.blurbs['us_representative'],
+				"races": []
+			}
+		],
+		"state": [
+			{
+				"office": "governor",
+				"blurb": flask.g.blurbs['governor'],
+				"races": []
+			}, {
+				"office": "attorney_general",
+				"blurb": flask.g.blurbs['attorney_general'],
+				"races": []
+			}, {
+				"office": "secretary_of_state",
+				"blurb": flask.g.blurbs['secretary_of_state'],
+				"races": []
+			}, {
+				"office": "state_supreme_court",
+				"blurb": flask.g.blurbs['state_supreme_court'],
+				"races": []
+			}, {
+				"office": "state_senator",
+				"blurb": flask.g.blurbs['state_senator'],
+				"races": []
+			}, {
+				"office": "state_representative",
+				"blurb": flask.g.blurbs['state_representative'],
+				"races": []
+			}
+		],
+		"county": [
+			{
+				"office": "district_attorney",
+				"blurb": flask.g.blurbs['district_attorney'],
+				"races": []
+			}, {
+				"office": "county_sheriff",
+				"blurb": flask.g.blurbs['county_sheriff'],
+				"races": []
+			}
+		]
+	}
+
+	office_lookup_template = {
+		'us_senator': 0,
+		'us_representative': 1,
+		'governor': 0,
+		'attorney_general': 1,
+		'secretary_of_state': 2,
+		'state_supreme_court': 3,
+		'state_senator': 4,
+		'state_representative': 5,
+		'district_attorney': 0,
+		'county_sheriff': 1
+	}
 
 	if rs:
 		for row in rs:
@@ -140,13 +207,11 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							ballot_lookup[date] = len(elections['ballots'])
 							elections['ballots'].append({
 								'date': date,
-								'races': {}
+								'offices': deepcopy(offices_template)
 							})
+							office_lookup[date] = deepcopy(office_lookup_template)
 
 						ballot = ballot_lookup[date]
-
-						if not office_level in elections['ballots'][ballot]['races']:
-							elections['ballots'][ballot]['races'][office_level] = []
 
 						if not 'type' in elections['ballots'][ballot]:
 							type = row[1]
@@ -156,9 +221,21 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 								type = 'special_primary' if name == 'primary_election_date' else 'special_general'
 							elections['ballots'][ballot]['type'] = type
 
-						elections['ballots'][ballot]['races'][office_level].append({
-							'name': row[0],
-							'office': row[2]
+						office = row[2]
+
+						if not office_level in elections['ballots'][ballot]['offices']:
+							elections['ballots'][ballot]['offices'][office_level] = []
+
+						if not office in office_lookup[date]:
+							office_lookup[date][office] = len(elections['ballots'][ballot]['offices'][office_level])
+							elections['ballots'][ballot]['offices'][office_level].append({
+								'office': office,
+								'races': []
+							})
+
+						office_index = office_lookup[date][office]
+						elections['ballots'][ballot]['offices'][office_level][office_index]['races'].append({
+							'name': row[0]
 						})
 
 					if name.startswith('primary_'):
@@ -167,6 +244,13 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 					elif name.startswith('general_'):
 						name = name.replace('general_', '')
 						elections['calendar'][general_index]['dates'][name] = date
+
+	def filter_offices(office):
+		return len(office['races']) > 0
+
+	for ballot in elections['ballots']:
+		for office_level in ballot['offices']:
+			ballot['offices'][office_level] = filter(filter_offices, ballot['offices'][office_level])
 
 	def sort_ballots(a, b):
 		return 1 if a['date'] > b['date'] else -1

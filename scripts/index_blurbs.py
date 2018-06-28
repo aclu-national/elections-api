@@ -13,35 +13,64 @@ cur = conn.cursor()
 cur.execute("DROP TABLE IF EXISTS election_blurbs CASCADE")
 cur.execute('''
 CREATE TABLE election_blurbs (
-	position VARCHAR(255) PRIMARY KEY,
-	description TEXT
+	office VARCHAR(255) PRIMARY KEY,
+	title TEXT,
+	summary TEXT,
+	details_title TEXT
 )''')
+
+cur.execute("DROP TABLE IF EXISTS election_blurb_details CASCADE")
+cur.execute('''
+CREATE TABLE election_blurb_details (
+	office VARCHAR(255),
+	detail TEXT,
+	detail_number INTEGER
+)''')
+
 conn.commit()
 
-insert_sql = '''
+blurb_insert_sql = '''
 	INSERT INTO election_blurbs (
-		position,
-		description
-	) VALUES (%s, %s)
+		office,
+		title,
+		summary,
+		details_title
+	) VALUES (%s, %s, %s, %s)
 '''
 
-dir = "%s/sources/aclu/blurbs" % root_dir
-for filename in os.listdir(dir):
-	if not filename.endswith(".html"):
-		continue
+detail_insert_sql = '''
+	INSERT INTO election_blurb_details (
+		office,
+		detail,
+		detail_number
+	) VALUES (%s, %s, %s)
+'''
 
-	position = filename.replace('.html', '')
-	with open("%s/%s" % (dir, filename)) as file:
-		description = file.read()
-		file.close()
+filename = "%s/sources/aclu/aclu_blurbs.json" % root_dir
+file = open(filename, 'rb')
+data = json.load(file)
 
-	print(position)
+for office in data:
+
+	print(office)
 
 	values = (
-		position,
-		description
+		office,
+		data[office]['title'],
+		data[office]['summary'],
+		data[office]['details_title']
 	)
-	cur.execute(insert_sql, values)
+	cur.execute(blurb_insert_sql, values)
+
+	detail_num = 0
+	for detail in data[office]['details']:
+		values = (
+			office,
+			detail,
+			detail_num
+		)
+		cur.execute(detail_insert_sql, values)
+		detail_num = detail_num + 1
 
 conn.commit()
 print("Done")

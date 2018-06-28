@@ -12,46 +12,69 @@ cur = conn.cursor()
 
 cur.execute("DROP TABLE IF EXISTS elections_targeted CASCADE")
 cur.execute("DROP TABLE IF EXISTS election_targeted CASCADE")
+cur.execute("DROP TABLE IF EXISTS election_targeted_races CASCADE")
 cur.execute('''
-CREATE TABLE election_targeted (
-	type VARCHAR(20),
+CREATE TABLE election_targeted_races (
 	ocd_id VARCHAR(255),
-	title VARCHAR(255),
-	description TEXT
+	office VARCHAR(255),
+	summary TEXT,
+	url VARCHAR(255)
 )''')
+
+cur.execute("DROP TABLE IF EXISTS election_targeted_initiatives CASCADE")
+cur.execute('''
+CREATE TABLE election_targeted_initiatives (
+	ocd_id VARCHAR(255),
+	name VARCHAR(255),
+	position VARCHAR(16),
+	blurb TEXT,
+	url VARCHAR(255)
+)''')
+
 conn.commit()
 
-insert_sql = '''
-	INSERT INTO election_targeted (
-		type,
+race_insert_sql = '''
+	INSERT INTO election_targeted_races (
 		ocd_id,
-		title,
-		description
+		office,
+		summary,
+		url
 	) VALUES (%s, %s, %s, %s)
+'''
+
+initiative_insert_sql = '''
+	INSERT INTO election_targeted_initiatives (
+		ocd_id,
+		name,
+		position,
+		blurb,
+		url
+	) VALUES (%s, %s, %s, %s, %s)
 '''
 
 fh = open('%s/sources/aclu/aclu_targeted.json' % root_dir, 'rb')
 data = json.load(fh)
 
 for item in data["races"]:
-	print("race - %s - %s" % (item['ocd_id'], item['title']))
+	print("race - %s - %s" % (item['ocd_id'], item['office']))
 	values = (
-		'race',
 		item['ocd_id'],
-		item['title'],
-		item['description']
+		item['office'],
+		item['summary'],
+		item['url']
 	)
-	cur.execute(insert_sql, values)
+	cur.execute(race_insert_sql, values)
 
-for item in data["ballot_initiatives"]:
-	print("ballot initiative - %s - %s" % (item['ocd_id'], item['title']))
+for item in data["initiatives"]:
+	print("ballot initiative - %s - %s" % (item['ocd_id'], item['name']))
 	values = (
-		'ballot_initiative',
 		item['ocd_id'],
-		item['title'],
-		item['description']
+		item['name'],
+		item['position'],
+		item['blurb'],
+		item['url']
 	)
-	cur.execute(insert_sql, values)
+	cur.execute(initiative_insert_sql, values)
 
 conn.commit()
 print("Done")

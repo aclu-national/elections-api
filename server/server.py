@@ -67,16 +67,32 @@ def setup_blurbs():
 	flask.g.blurbs = {}
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT position, description
+		SELECT office, title, summary, details_title
 		FROM election_blurbs
 	''')
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
-			position = row[0]
-			description = row[1]
-			flask.g.blurbs[position] = description
+			office = row[0]
+			flask.g.blurbs[office] = {
+				'title': row[1],
+				'summary': row[2],
+				'details_title': row[3],
+				'details': []
+			}
+
+	cur.execute('''
+		SELECT office, detail
+		FROM election_blurb_details
+		ORDER BY office, detail_number
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			office = row[0]
+			flask.g.blurbs[office]['details'].append(row[1])
 
 if __name__ == '__main__':
 	port = os.getenv('PORT', 5000)

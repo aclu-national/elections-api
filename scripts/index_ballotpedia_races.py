@@ -241,6 +241,10 @@ for row in reader:
 		race_type = row['type'].lower()
 		office_type = row['office_type']
 		office_level = row['office_level'].lower()
+
+		if office_level == 'local':
+			office_level = 'county'
+
 		primary_date = row['primary_election_date']
 		primary_runoff_date = row['primary_runoff_election_date']
 		general_date = row['general_election_date']

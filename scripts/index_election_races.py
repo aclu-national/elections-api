@@ -276,6 +276,41 @@ for row in reader:
 	row_num = row_num + 1
 conn.commit()
 
+path = "%s/sources/aclu/aclu_election_races.csv" % root_dir
+csvfile = open(path, 'rb')
+reader = csv.reader(csvfile)
+
+row_num = 0
+headers = []
+
+for row in reader:
+	if row_num == 0:
+		headers = row
+	else:
+		if row[0] == "":
+			continue
+		primary_date = None if row[7] == "" else row[7]
+		primary_runoff_date = None if row[8] == "" else row[8]
+		general_date = None if row[9] == "" else row[9]
+		general_runoff_date = None if row[10] == "" else row[10]
+		values = (
+			row[0],
+			row[1],
+			row[2],
+			row[3],
+			row[4],
+			row[5],
+			row[6],
+			primary_date,
+			primary_runoff_date,
+			general_date,
+			general_runoff_date
+		)
+		cur.execute(insert_sql, values)
+
+	row_num = row_num + 1
+conn.commit()
+
 print("Done")
 
 if len(skipped) > 0:
@@ -291,3 +326,4 @@ if len(empty_office_type) > 0:
 		print("\t%s" % name)
 
 print("%d rows with empty office_type" % len(empty_office_type))
+print("%d from aclu_election_races.csv" % (row_num - 1,))

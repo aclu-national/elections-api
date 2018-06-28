@@ -234,7 +234,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							})
 
 						office_index = office_lookup[date][office]
-						if office_index in elections['ballots'][ballot]['offices'][office_level]:
+						if office_index <= len(elections['ballots'][ballot]['offices'][office_level]) - 1:
 							elections['ballots'][ballot]['offices'][office_level][office_index]['races'].append({
 								'name': row[0]
 							})

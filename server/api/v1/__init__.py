@@ -31,14 +31,14 @@ def format_date(date):
 		return arrow.get(date).format('YYYY-MM-DD')
 
 def localize_blurb(office_blurb, race_name):
-	for alt in office_blurb['alt_names']:
-		if re.search(alt, race_name):
+	for search in office_blurb['alt_names']:
+		if re.search(search, race_name):
 			blurb = deepcopy(office_blurb)
-			orig_name = blurb['name']
-			blurb['name'] = alt
-			blurb['title'] = blurb['title'].replace(orig_name, alt)
-			blurb['summary'] = blurb['summary'].replace(orig_name, alt)
-			blurb['details_title'] = blurb['details_title'].replace(orig_name, alt)
+			replace = office_blurb['alt_names'][search]
+			blurb['name'] = blurb['name'].replace(replace, search)
+			blurb['title'] = blurb['title'].replace(replace, search)
+			blurb['summary'] = blurb['summary'].replace(replace, search)
+			blurb['details_title'] = blurb['details_title'].replace(replace, search)
 			return blurb
 	return office_blurb
 
@@ -269,7 +269,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							office_obj = elections['ballots'][ballot]['offices'][office_level][office_index]
 							office_obj['races'].append(race)
 
-							if 'blurb' in office_obj and len(office_obj['blurb']['alt_names']) > 0:
+							if 'blurb' in office_obj and 'alt_names' in office_obj['blurb']:
 								office_obj['blurb'] = localize_blurb(office_obj['blurb'], race['name'])
 						else:
 							print("Warning: could not add %s to %s office %d" % (row[0], office_level, office_index))

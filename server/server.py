@@ -102,8 +102,7 @@ def setup_blurbs():
 				'title': row[2],
 				'summary': row[3],
 				'details_title': row[4],
-				'details': [],
-				'alt_names': []
+				'details': []
 			}
 
 	cur.execute('''
@@ -119,7 +118,7 @@ def setup_blurbs():
 			flask.g.blurbs[office]['details'].append(row[1])
 
 	cur.execute('''
-		SELECT office, alt_name
+		SELECT office, search, replace
 		FROM election_blurb_alt_names
 	''')
 
@@ -127,7 +126,11 @@ def setup_blurbs():
 	if rs:
 		for row in rs:
 			office = row[0]
-			flask.g.blurbs[office]['alt_names'].append(row[1])
+			search = row[1]
+			replace = row[2]
+			if not 'alt_names' in flask.g.blurbs[office]:
+				flask.g.blurbs[office]['alt_names'] = {}
+			flask.g.blurbs[office]['alt_names'][search] = replace
 
 if __name__ == '__main__':
 	port = os.getenv('PORT', 5000)

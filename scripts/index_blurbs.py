@@ -14,6 +14,7 @@ cur.execute("DROP TABLE IF EXISTS election_blurbs CASCADE")
 cur.execute('''
 CREATE TABLE election_blurbs (
 	office VARCHAR(255) PRIMARY KEY,
+	name VARCHAR(255),
 	title TEXT,
 	summary TEXT,
 	details_title TEXT
@@ -27,15 +28,23 @@ CREATE TABLE election_blurb_details (
 	detail_number INTEGER
 )''')
 
+cur.execute("DROP TABLE IF EXISTS election_blurb_alt_names CASCADE")
+cur.execute('''
+CREATE TABLE election_blurb_alt_names (
+	office VARCHAR(255),
+	alt_name VARCHAR(255)
+)''')
+
 conn.commit()
 
 blurb_insert_sql = '''
 	INSERT INTO election_blurbs (
 		office,
+		name,
 		title,
 		summary,
 		details_title
-	) VALUES (%s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s)
 '''
 
 detail_insert_sql = '''
@@ -44,6 +53,13 @@ detail_insert_sql = '''
 		detail,
 		detail_number
 	) VALUES (%s, %s, %s)
+'''
+
+alt_name_insert_sql = '''
+	INSERT INTO election_blurb_alt_names (
+		office,
+		alt_name
+	) VALUES (%s, %s)
 '''
 
 filename = "%s/sources/aclu/aclu_blurbs.json" % root_dir
@@ -56,6 +72,7 @@ for office in data:
 
 	values = (
 		office,
+		data[office]['name'],
 		data[office]['title'],
 		data[office]['summary'],
 		data[office]['details_title']
@@ -71,6 +88,14 @@ for office in data:
 		)
 		cur.execute(detail_insert_sql, values)
 		detail_num = detail_num + 1
+
+	if 'alt_names' in data[office]:
+		for alt_name in data[office]['alt_names']:
+			values = (
+				office,
+				alt_name
+			)
+			cur.execute(alt_name_insert_sql, values)
 
 conn.commit()
 print("Done")

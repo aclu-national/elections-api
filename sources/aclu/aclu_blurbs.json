@@ -1,5 +1,6 @@
 {
 	"us_senator": {
+		"name": "U.S. Senator",
 		"title": "What does your U.S. Senator do?",
 		"summary": "Your Senator serves an important role in passing the laws of the land, acting as a check on the President, confirming presidential nominees and federal judges, and defend civil rights and civil liberties for everyone, even when it’s hard.",
 		"details_title": "Vote for a U.S. Senator who will vote to",
@@ -11,6 +12,7 @@
 		]
 	},
 	"us_representative": {
+		"name": "U.S. House Representative",
 		"title": "What does your U.S. House Representative do?",
 		"summary": "Your U.S. House Representative represents their constituents in your district and also serves an important role in passing the laws of the land and in acting as a check on the President, and should put the civil rights and civil liberties of their constituents above all else.",
 		"details_title": "Vote for a U.S. House Representative who will vote to",
@@ -24,6 +26,7 @@
 		]
 	},
 	"governor": {
+		"name": "Governor",
 		"title": "What does your Governor do?",
 		"summary": "The Governor serves as the head of your state with the power to pass executive orders and veto bills that pass the state legislature. The governor also has pardon power, controls the state prison system, and has the power to appoint, hire and fire, and direct the work of thousands of state employees to preserve civil rights and liberties, and should be held accountable for their work.",
 		"details_title": "Vote for a governor who will",
@@ -35,6 +38,7 @@
 		]
 	},
 	"attorney_general": {
+		"name": "Attorney General",
 		"title": "What does your Attorney General do?",
 		"summary": "The Attorney General is your state’s chief lawyer and legal advisor tasked with upholding your state’s constitution.",
 		"details_title": "Vote for an attorney general who will",
@@ -45,6 +49,7 @@
 		]
 	},
 	"secretary_of_state": {
+		"name": "Secretary of State",
 		"title": "What does your Secretary of State do?",
 		"summary": "In most states, the Secretary of State serves as the state’s chief elections official and chief clerk.",
 		"details_title": "Vote for a secretary of state who will",
@@ -56,6 +61,7 @@
 		]
 	},
 	"state_supreme_court": {
+		"name": "State Supreme Court Justice",
 		"title": "What do your State Supreme Court Justices do?",
 		"summary": "State Supreme Court Justices are critical to the protection of civil liberties, civil rights, and the rule of law across every issue, and will often have the final say or be the crucial stopgap in the rollback of rights.",
 		"details_title": "Vote for a state supreme court justice who will protect",
@@ -66,6 +72,7 @@
 		]
 	},
 	"state_senator": {
+		"name": "State Senator",
 		"title": "What do your state senators do?",
 		"summary": "As members of the state senate, they introduce and vote on bills, oversee the state budget, provide oversight to the governor, and often oversee the drawing of legislative districts.",
 		"details_title": "Vote for state representatives who will vote to",
@@ -77,6 +84,7 @@
 		]
 	},
 	"state_representative": {
+		"name": "State House Representative",
 		"title": "What do your state representatives do?",
 		"summary": "As members of the state legislature, they introduce and vote on bills, oversee the state budget, provide oversight to the governor, and often oversee the drawing of legislative districts.",
 		"details_title": "Vote for state representatives who will vote to",
@@ -88,20 +96,28 @@
 		]
 	},
 	"district_attorney": {
-		"title": "What does your district attorney do?",
+		"name": "District Attorney",
+		"title": "What does your District Attorney do?",
 		"summary": "Prosecutors are the most influential actors in the criminal justice system. As the county’s top prosecutor, it’s the District Attorney who decides whether you’re going to get a second chance or if you’re going to prison and for how long. Their daily decisions with regard to who to charge, how to charge them, what prison sentence to seek, has been one of the primary drivers of incarceration that compounds racial disparities throughout the justice system. The top prosecutor sets the policies that guide all of these decisions, and influences the passage of local and state criminal justice reforms.",
-		"details_title": "Vote for a district attorney who will help end mass incarceration and racial disparities in the criminal justice system through",
+		"details_title": "Vote for a District Attorney who will help end mass incarceration and racial disparities in the criminal justice system through",
 		"details": [
 			"Ending cash bail",
 			"Expanding diversion programs and other alternatives to incarceration",
 			"Increasing transparency",
 			"Holding law enforcement accountable for misconduct"
+		],
+		"alt_names": [
+			"Prosecuting Attorney",
+			"County Attorney",
+			"Commonwealth's Attorney",
+			"State's attorney"
 		]
 	},
 	"county_sheriff": {
-		"title": "What does your county sheriff do?",
+		"name": "County Sheriff",
+		"title": "What does your County Sheriff do?",
 		"summary": "Your sheriff helps shape the county’s priorities so that your community is safe as well as ensures that law enforcement policies promote justice, fairness, and non-discrimination.  The county sheriff is usually also responsible for running the local county jail where people charged with crimes might be incarcerated while waiting their day in court.",
-		"details_title": "Vote for a sheriff who will",
+		"details_title": "Vote for a Sheriff who will",
 		"details": [
 			"End 287g ICE agreements that deputize local law enforcement to join the President’s deportation force",
 			"Hold law enforcement accountable for misconduct",

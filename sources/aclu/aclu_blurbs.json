@@ -93,7 +93,10 @@
 			"End cash bail",
 			"Prevent voter suppression schemes",
 			"Protect reproductive freedom"
-		]
+		],
+		"alt_names": {
+			"Assembly": "House"
+		}
 	},
 	"district_attorney": {
 		"name": "District Attorney",
@@ -106,12 +109,12 @@
 			"Increasing transparency",
 			"Holding law enforcement accountable for misconduct"
 		],
-		"alt_names": [
-			"Prosecuting Attorney",
-			"County Attorney",
-			"Commonwealth's Attorney",
-			"State's attorney"
-		]
+		"alt_names": {
+			"Prosecuting Attorney": "District Attorney",
+			"County Attorney": "District Attorney",
+			"Commonwealth's Attorney": "District Attorney",
+			"State's attorney": "District Attorney"
+		}
 	},
 	"county_sheriff": {
 		"name": "County Sheriff",

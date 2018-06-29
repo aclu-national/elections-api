@@ -14,6 +14,16 @@ def get_ocd_ids(areas):
 			ocd_ids.append(area['ocd_id'])
 	return ocd_ids
 
+def get_aclu_ids(areas):
+	aclu_ids = []
+	for area in areas:
+		if area == None:
+			continue
+		if 'aclu_id' in area:
+			id = re.search('\d+$', area['aclu_id']).group(0)
+			aclu_ids.append(id)
+	return '-'.join(aclu_ids)
+
 def format_date(date):
 	if date == None:
 		return None
@@ -411,7 +421,7 @@ def get_district_by_coords(lat, lng, session_num=115):
 	cur.close()
 	return district
 
-def get_district_by_id(id):
+def get_district_by_id(aclu_id):
 
 	include_geometry = flask.request.args.get('geometry', False)
 
@@ -424,8 +434,8 @@ def get_district_by_id(id):
 	cur.execute('''
 		SELECT {columns}
 		FROM congress_districts
-		WHERE id = %s
-	'''.format(columns=columns), (id,))
+		WHERE aclu_id = %s
+	'''.format(columns=columns), (aclu_id,))
 
 	rs = cur.fetchall()
 	district = None
@@ -506,6 +516,44 @@ def get_county_by_coords(lat, lng):
 	cur.close()
 	return county
 
+def get_county_by_id(aclu_id):
+
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = 'aclu_id, geoid, ocd_id, name, state, area_land, area_water'
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT {columns}
+		FROM counties
+		WHERE aclu_id = %s
+	'''.format(columns=columns), (aclu_id,))
+
+	rs = cur.fetchall()
+	county = None
+
+	if rs:
+		for row in rs:
+
+			county = {
+				'aclu_id': row[0],
+				'geoid': row[1],
+				'ocd_id': row[2],
+				'name': row[3],
+				'state': row[4],
+				'area_land': row[5],
+				'area_water': row[6]
+			}
+
+			if include_geometry == '1':
+				county['geometry'] = row[7]
+
+	cur.close()
+	return county
+
 def get_state_legs_by_coords(lat, lng):
 
 	include_geometry = flask.request.args.get('geometry', False)
@@ -521,6 +569,51 @@ def get_state_legs_by_coords(lat, lng):
 		FROM state_leg
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 	'''.format(columns=columns, lng=lng, lat=lat))
+
+	rs = cur.fetchall()
+	state_legs = []
+
+	if rs:
+		for row in rs:
+
+			state_leg = {
+				'aclu_id': row[0],
+				'geoid': row[1],
+				'ocd_id': row[2],
+				'name': row[3],
+				'state': row[4],
+				'chamber': row[5],
+				'district_num': row[6],
+				'area_land': row[7],
+				'area_water': row[8]
+			}
+
+			if include_geometry == '1':
+				state_leg['geometry'] = row[9]
+
+			state_legs.append(state_leg)
+
+	cur.close()
+	return state_legs
+
+def get_state_legs_by_ids(aclu_ids):
+
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = 'aclu_id, geoid, ocd_id, name, state, chamber, district_num, area_land, area_water'
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
+	aclu_id_list = ', '.join(['%s'] * len(aclu_ids))
+	aclu_id_values = tuple(aclu_ids)
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT {columns}
+		FROM state_leg
+		WHERE aclu_id IN ({aclu_ids})
+	'''.format(columns=columns, aclu_ids=aclu_id_list), aclu_id_values)
 
 	rs = cur.fetchall()
 	state_legs = []
@@ -780,28 +873,82 @@ def get_legislators(cur):
 
 	return legislator_list
 
-def get_lat_lng():
+def get_spatial_request():
 
 	lat = flask.request.args.get('lat', None)
 	lng = flask.request.args.get('lng', None)
+	id = flask.request.args.get('id', None)
 
-	if lat == None or lng == None:
-		return "Please include 'lat' and 'lng' args."
+	if (lat == None or lng == None) and id == None:
+		return "Please include either 'lat' and 'lng' args or an 'id' arg."
 
-	if not re.match('^-?\d+(\.\d+)?', lat):
-		return "Please include a numeric 'lat'."
+	if lat != None and lng != None:
 
-	if not re.match('^-?\d+(\.\d+)?', lng):
-		return "Please include a numeric 'lng'."
+		if not re.search('^-?\d+(\.\d+)?', lat):
+			return "Please include a numeric 'lat'."
 
-	return {
-		'lat': lat,
-		'lng': lng
-	}
+		if not re.search('^-?\d+(\.\d+)?', lng):
+			return "Please include a numeric 'lng'."
 
-def get_congress(lat, lng):
+		return {
+			'lat': lat,
+			'lng': lng
+		}
+
+	elif re.search('^(\d+)(-\d+)*$', id):
+
+		id_list = map(int, id.split('-'))
+
+		placeholders = ', '.join(['%s'] * len(id_list))
+		values = tuple(id_list)
+
+		cur = flask.g.db.cursor()
+		cur.execute('''
+			SELECT aclu_id, type
+			FROM aclu_ids
+			WHERE id IN ({id_list})
+		'''.format(id_list=placeholders), values)
+
+		rsp = {}
+		rs = cur.fetchall()
+		if rs:
+			for row in rs:
+				type = row[1]
+				aclu_id = row[0]
+				if type == 'state_leg':
+					if not 'state_leg' in rsp:
+						rsp['state_leg'] = []
+					rsp['state_leg'].append(aclu_id)
+				else:
+					rsp[type] = aclu_id
+
+		return rsp
+
+	else:
+		return 'Could not understand spatial request.'
+
+def get_congress_by_coords(lat, lng):
 
 	district = get_district_by_coords(lat, lng)
+
+	if not district:
+		rsp = {
+			'ok': False,
+			'error': 'No congressional district found.'
+		}
+	else:
+		legislators = get_legislators_by_district(district["state"], district["district_num"])
+		rsp = {
+			'ok': True,
+			'district': district,
+			'legislators': legislators
+		}
+
+	return rsp
+
+def get_congress_by_id(aclu_id):
+
+	district = get_district_by_id(aclu_id)
 
 	if not district:
 		rsp = {
@@ -829,6 +976,7 @@ def index():
 				'args': {
 					'lat': 'Latitude',
 					'lng': 'Longitude',
+					'id': 'Hyphen-separated list of numeric IDs (alternative to lat/lng)',
 					'scores': 'Congress legislator score filter (optional; scores=all)',
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
@@ -887,30 +1035,42 @@ def index():
 
 @api.route("/pip")
 def pip():
-	req = get_lat_lng()
+	req = get_spatial_request()
 	if type(req) == str:
 		return flask.jsonify({
 			'ok': False,
 			'error': req
 		})
 
-	lat = req['lat']
-	lng = req['lng']
+	if 'lat' in req and 'lng' in req:
+		lat = req['lat']
+		lng = req['lng']
 
-	congress = get_congress(lat, lng)
-	if (congress["ok"]):
-		del congress["ok"]
+		congress = get_congress_by_coords(lat, lng)
+		if (congress["ok"]):
+			del congress["ok"]
 
-	state = get_state_by_abbrev(congress['district']['state'])
-	county = get_county_by_coords(lat, lng)
-	state_legs = get_state_legs_by_coords(lat, lng)
+		state = get_state_by_abbrev(congress['district']['state'])
+		county = get_county_by_coords(lat, lng)
+		state_legs = get_state_legs_by_coords(lat, lng)
+
+	else:
+		congress = get_congress_by_id(req['congress_district'])
+		if (congress["ok"]):
+			del congress["ok"]
+
+		state = get_state_by_abbrev(congress['district']['state'])
+		county = get_county_by_id(req['county'])
+		state_legs = get_state_legs_by_ids(req['state_leg'])
 
 	areas = [state, congress['district'], county] + state_legs
 	ocd_ids = get_ocd_ids(areas)
+	aclu_ids = get_aclu_ids(areas)
 	elections = get_elections_by_ocd_ids(ocd_ids)
 
 	return flask.jsonify({
 		'ok': True,
+		'id': aclu_ids,
 		'elections': elections,
 		'state': state,
 		'congress': congress,
@@ -920,7 +1080,7 @@ def pip():
 
 @api.route("/state")
 def state():
-	req = get_lat_lng()
+	req = get_spatial_request()
 
 	if type(req) == str:
 		return flask.jsonify({
@@ -950,7 +1110,7 @@ def state():
 
 @api.route("/congress")
 def congress():
-	req = get_lat_lng()
+	req = get_spatial_request()
 	if type(req) == str:
 		return flask.jsonify({
 			'ok': False,
@@ -960,7 +1120,7 @@ def congress():
 	lat = req['lat']
 	lng = req['lng']
 
-	rsp = get_congress(lat, lng)
+	rsp = get_congress_by_coords(lat, lng)
 	return flask.jsonify({
 		'ok': True,
 		'congress': rsp
@@ -968,7 +1128,7 @@ def congress():
 
 @api.route("/congress/district")
 def congress_district():
-	req = get_lat_lng()
+	req = get_spatial_request()
 
 	if type(req) == str:
 		return flask.jsonify({
@@ -1023,7 +1183,7 @@ def congress_scores():
 
 @api.route("/county")
 def pip_county():
-	req = get_lat_lng()
+	req = get_spatial_request()
 
 	if type(req) == str:
 		return flask.jsonify({
@@ -1048,7 +1208,7 @@ def pip_county():
 
 @api.route("/state_leg")
 def pip_state_leg():
-	req = get_lat_lng()
+	req = get_spatial_request()
 
 	if type(req) == str:
 		return flask.jsonify({

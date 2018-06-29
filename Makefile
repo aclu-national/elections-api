@@ -9,7 +9,8 @@ all: congress_sessions \
      elections \
      election_races \
      targeted \
-     blurbs
+     blurbs \
+     aclu_ids
 
 congress_sessions:
 	python scripts/index_congress_sessions.py
@@ -46,3 +47,6 @@ targeted:
 
 blurbs:
 	python scripts/index_blurbs.py
+
+aclu_ids:
+	python scripts/index_aclu_ids.py

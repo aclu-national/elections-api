@@ -130,7 +130,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	cur.execute('''
 		SELECT name, race_type, office_type, office_level,
 		       primary_date, primary_runoff_date,
-		       general_date, general_runoff_date
+		       general_date, general_runoff_date,
+		       ocd_id
 		FROM election_races
 		WHERE ocd_id IN ({ocd_ids})
 		  AND year = %s
@@ -259,7 +260,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 						office_index = office_lookup[date][office]
 						if office_index <= len(elections['ballots'][ballot]['offices'][office_level]) - 1:
 							race = {
-								'name': row[0]
+								'name': row[0],
+								'ocd_id': row[8]
 							}
 							for ocd_id in ocd_ids:
 								if ocd_id in flask.g.targeted['races']:
@@ -1084,7 +1086,7 @@ def pip():
 	aclu_ids = get_aclu_ids(areas)
 	elections = get_elections_by_ocd_ids(ocd_ids)
 
-	return flask.jsonify({
+	rsp = {
 		'ok': True,
 		'id': aclu_ids,
 		'elections': elections,
@@ -1092,7 +1094,24 @@ def pip():
 		'congress': congress,
 		'county': county,
 		'state_leg': state_legs
-	})
+	}
+
+	include_geometry = flask.request.args.get('geometry', False)
+	if include_geometry == '1':
+		rsp['geometry'] = {
+			state['ocd_id']: state['geometry'],
+			congress['district']['ocd_id']: congress['district']['geometry'],
+			county['ocd_id']: county['geometry']
+		}
+		del state['geometry']
+		del congress['district']['geometry']
+		del county['geometry']
+		for leg in state_legs:
+			ocd_id = leg['ocd_id']
+			rsp['geometry'][ocd_id] = leg['geometry']
+			del leg['geometry']
+
+	return flask.jsonify(rsp)
 
 @api.route("/state")
 def state():

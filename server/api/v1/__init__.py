@@ -1100,16 +1100,28 @@ def pip():
 	include_geometry = flask.request.args.get('geometry', False)
 	if include_geometry == '1':
 		rsp['geometry'] = {
-			state['ocd_id']: state['geometry'],
-			congress['district']['ocd_id']: congress['district']['geometry'],
-			county['ocd_id']: county['geometry']
+			state['ocd_id']: {
+				'name': state['name'],
+				'geometry': state['geometry']
+			},
+			congress['district']['ocd_id']: {
+				'name': congress['district']['name'],
+				'geometry': congress['district']['geometry']
+			},
+			county['ocd_id']: {
+				'name': county['name'],
+				'geometry': county['geometry']
+			}
 		}
 		del state['geometry']
 		del congress['district']['geometry']
 		del county['geometry']
 		for leg in state_legs:
 			ocd_id = leg['ocd_id']
-			rsp['geometry'][ocd_id] = leg['geometry']
+			rsp['geometry'][ocd_id] = {
+				'name': leg['name'],
+				'geometry': leg['geometry']
+			}
 			del leg['geometry']
 
 	return flask.jsonify(rsp)

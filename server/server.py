@@ -132,6 +132,16 @@ def setup_blurbs():
 				flask.g.blurbs[office]['alt_names'] = {}
 			flask.g.blurbs[office]['alt_names'][search] = replace
 
+@app.route("/")
+def index():
+	return flask.jsonify({
+		'ok': False,
+		'error': 'Please use the /v1 endpoint.',
+		'valid_endpoints': [
+			'/v1/'
+		]
+	})
+
 if __name__ == '__main__':
 	port = os.getenv('PORT', 5000)
 	port = int(port)

@@ -258,10 +258,11 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							})
 
 						office_index = office_lookup[date][office]
+						elections['ballots'][ballot]['offices'][office_level][office_index]['ocd_id'] = row[8]
+
 						if office_index <= len(elections['ballots'][ballot]['offices'][office_level]) - 1:
 							race = {
-								'name': row[0],
-								'ocd_id': row[8]
+								'name': row[0]
 							}
 							for ocd_id in ocd_ids:
 								if ocd_id in flask.g.targeted['races']:

@@ -1104,14 +1104,17 @@ def pip():
 		rsp['geometry'] = {
 			state['ocd_id']: {
 				'name': state['name'],
+				'type': 'state',
 				'geometry': state['geometry']
 			},
 			congress['district']['ocd_id']: {
 				'name': congress['district']['name'],
+				'type': 'congress',
 				'geometry': congress['district']['geometry']
 			},
 			county['ocd_id']: {
 				'name': county['name'],
+				'type': 'county',
 				'geometry': county['geometry']
 			}
 		}
@@ -1122,6 +1125,7 @@ def pip():
 			ocd_id = leg['ocd_id']
 			rsp['geometry'][ocd_id] = {
 				'name': leg['name'],
+				'type': 'state_leg',
 				'geometry': leg['geometry']
 			}
 			del leg['geometry']

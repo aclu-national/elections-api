@@ -327,13 +327,17 @@ def get_state_by_coords(lat, lng):
 	rs = cur.fetchall()
 	state = None
 
+	name = row[3]
+	if name == 'District of Columbia':
+		name = 'Washington, D.C.'
+
 	if rs:
 		for row in rs:
 			state = {
 				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
-				'name': row[3],
+				'name': name,
 				'state': row[4],
 				'area_land': row[5],
 				'area_water': row[6]
@@ -364,13 +368,17 @@ def get_state_by_abbrev(abbrev):
 	rs = cur.fetchall()
 	state = None
 
+	name = row[3]
+	if name == 'District of Columbia':
+		name = 'Washington, D.C.'
+
 	if rs:
 		for row in rs:
 			state = {
 				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
-				'name': row[3],
+				'name': name,
 				'state': row[4],
 				'area_land': row[5],
 				'area_water': row[6]
@@ -518,6 +526,10 @@ def get_county_by_coords(lat, lng):
 	rs = cur.fetchall()
 	county = None
 
+	name = row[3]
+	if name == 'District of Columbia':
+		name = 'Washington, D.C.'
+
 	if rs:
 		for row in rs:
 
@@ -525,7 +537,7 @@ def get_county_by_coords(lat, lng):
 				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
-				'name': row[3],
+				'name': name,
 				'state': row[4],
 				'area_land': row[5],
 				'area_water': row[6]
@@ -556,6 +568,10 @@ def get_county_by_id(aclu_id):
 	rs = cur.fetchall()
 	county = None
 
+	name = row[3]
+	if name == 'District of Columbia':
+		name = 'Washington, D.C.'
+
 	if rs:
 		for row in rs:
 
@@ -563,7 +579,7 @@ def get_county_by_id(aclu_id):
 				'aclu_id': row[0],
 				'geoid': row[1],
 				'ocd_id': row[2],
-				'name': row[3],
+				'name': name,
 				'state': row[4],
 				'area_land': row[5],
 				'area_water': row[6]

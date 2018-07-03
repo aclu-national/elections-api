@@ -279,10 +279,12 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 					if name.startswith('primary_'):
 						name = name.replace('primary_', '')
-						elections['calendar'][primary_index]['dates'][name] = date
+						if not name in elections['calendar'][primary_index]['dates']:
+							elections['calendar'][primary_index]['dates'][name] = date
 					elif name.startswith('general_'):
 						name = name.replace('general_', '')
-						elections['calendar'][general_index]['dates'][name] = date
+						if not name in elections['calendar'][general_index]['dates']:
+							elections['calendar'][general_index]['dates'][name] = date
 
 	def filter_offices(office):
 		return len(office['races']) > 0

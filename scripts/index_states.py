@@ -74,6 +74,10 @@ for filename in files:
 	geoid = feature["properties"]["geoid"]
 	ocd_id = feature["properties"]["ocd_id"]
 	name = feature["properties"]["name"]
+
+	if name == 'District of Columbia':
+		name = 'Washington, D.C.'
+
 	state = feature["properties"]["state"]
 	area_land = int(feature["properties"]["area_land"])
 	area_water = int(feature["properties"]["area_water"])

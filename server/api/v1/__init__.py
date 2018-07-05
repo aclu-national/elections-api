@@ -382,6 +382,43 @@ def get_state_by_abbrev(abbrev):
 	cur.close()
 	return state
 
+def get_state_by_id(id):
+
+	include_geometry = flask.request.args.get('geometry', False)
+
+	columns = "aclu_id, geoid, ocd_id, name, state, area_land, area_water"
+
+	if include_geometry == '1':
+		columns += ', boundary_simple'
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT {columns}
+		FROM states
+		WHERE aclu_id = %s
+	'''.format(columns=columns), (id,))
+
+	rs = cur.fetchall()
+	state = None
+
+	if rs:
+		for row in rs:
+			state = {
+				'aclu_id': row[0],
+				'geoid': row[1],
+				'ocd_id': row[2],
+				'name': row[3],
+				'state': row[4],
+				'area_land': row[5],
+				'area_water': row[6]
+			}
+
+			if include_geometry == '1':
+				state['geometry'] = row[7]
+
+	cur.close()
+	return state
+
 def get_district_by_coords(lat, lng, session_num=115):
 
 	include_geometry = flask.request.args.get('geometry', False)
@@ -1056,7 +1093,10 @@ def index():
 
 @api.route("/pip")
 def pip():
+
 	req = get_spatial_request()
+	areas = []
+
 	if type(req) == str:
 		return flask.jsonify({
 			'ok': False,
@@ -1076,15 +1116,34 @@ def pip():
 		state_legs = get_state_legs_by_coords(lat, lng)
 
 	else:
-		congress = get_congress_by_id(req['congress_district'])
-		if (congress["ok"]):
-			del congress["ok"]
+		congress = None
+		state = None
+		if 'congress_district' in req:
+			congress = get_congress_by_id(req['congress_district'])
+			if (congress["ok"]):
+				del congress["ok"]
+				state = get_state_by_abbrev(congress['district']['state'])
 
-		state = get_state_by_abbrev(congress['district']['state'])
-		county = get_county_by_id(req['county'])
-		state_legs = get_state_legs_by_ids(req['state_leg'])
+		if not state and 'state' in req:
+			state = get_state_by_id(req['state'])
 
-	areas = [state, congress['district'], county] + state_legs
+		county = None
+		if 'county' in req:
+			county = get_county_by_id(req['county'])
+
+		state_legs = []
+		if 'state_leg' in req:
+			state_legs = get_state_legs_by_ids(req['state_leg'])
+
+	if state:
+		areas.append(state)
+	if congress and 'district' in congress:
+		areas.append(congress['district'])
+	if county:
+		areas.append(county)
+	if len(state_legs) > 0:
+		areas = areas + state_legs
+
 	ocd_ids = get_ocd_ids(areas)
 	aclu_ids = get_aclu_ids(areas)
 	elections = get_elections_by_ocd_ids(ocd_ids)

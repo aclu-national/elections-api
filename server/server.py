@@ -46,7 +46,7 @@ def setup_targeted():
 	cur = flask.g.db.cursor()
 
 	cur.execute('''
-		SELECT ocd_id, office, summary, url
+		SELECT ocd_id, office, summary, url, link_text, disclaimer
 		FROM election_targeted_races
 	''')
 
@@ -61,11 +61,13 @@ def setup_targeted():
 			flask.g.targeted['races'][ocd_id].append({
 				'office': row[1],
 				'summary': row[2],
-				'url': row[3]
+				'url': row[3],
+				'link_text': row[4],
+				'disclaimer': row[5]
 			})
 
 	cur.execute('''
-		SELECT ocd_id, name, position, blurb, url
+		SELECT ocd_id, name, position, blurb, url, link_text, disclaimer
 		FROM election_targeted_initiatives
 	''')
 
@@ -81,7 +83,9 @@ def setup_targeted():
 				'name': row[1],
 				'position': row[2],
 				'blurb': row[3],
-				'url': row[4]
+				'url': row[4],
+				'link_text': row[5],
+				'disclaimer': row[6]
 			})
 
 def setup_blurbs():

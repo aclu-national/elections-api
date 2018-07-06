@@ -24,6 +24,136 @@ def get_aclu_ids(areas):
 			aclu_ids.append(id)
 	return '-'.join(aclu_ids)
 
+def get_sessions():
+
+	sessions = {}
+
+	cur = flask.g.db.cursor()
+
+	cur.execute('''
+		SELECT id, start_date, end_date
+		FROM congress_sessions
+		ORDER BY id DESC
+	''')
+
+	rs = cur.fetchall()
+	results = []
+	if rs:
+		for row in rs:
+			id = row[0]
+			sessions[id] = {
+				"start_date": str(row[1]),
+				"end_date": str(row[2])
+			}
+
+	return sessions
+
+def get_targeted():
+
+	targeted = {
+		'races': {},
+		'initiatives': {}
+	}
+
+	cur = flask.g.db.cursor()
+
+	cur.execute('''
+		SELECT ocd_id, office, summary, url, link_text, disclaimer
+		FROM election_targeted_races
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			ocd_id = row[0]
+
+			if not ocd_id in targeted['races']:
+				targeted['races'][ocd_id] = []
+
+			targeted['races'][ocd_id].append({
+				'office': row[1],
+				'summary': row[2],
+				'url': row[3],
+				'link_text': row[4],
+				'disclaimer': row[5]
+			})
+
+	cur.execute('''
+		SELECT ocd_id, name, position, blurb, url, link_text, disclaimer
+		FROM election_targeted_initiatives
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			ocd_id = row[0]
+
+			if not ocd_id in targeted['initiatives']:
+				targeted['initiatives'][ocd_id] = []
+
+			targeted['initiatives'][ocd_id].append({
+				'name': row[1],
+				'position': row[2],
+				'blurb': row[3],
+				'url': row[4],
+				'link_text': row[5],
+				'disclaimer': row[6]
+			})
+
+	return targeted
+
+def get_blurbs():
+
+	blurbs = {}
+
+	cur = flask.g.db.cursor()
+
+	cur.execute('''
+		SELECT office, name, title, summary, details_title
+		FROM election_blurbs
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			office = row[0]
+			blurbs[office] = {
+				'name': row[1],
+				'title': row[2],
+				'summary': row[3],
+				'details_title': row[4],
+				'details': []
+			}
+
+	cur.execute('''
+		SELECT office, detail
+		FROM election_blurb_details
+		ORDER BY office, detail_number
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			office = row[0]
+			blurbs[office]['details'].append(row[1])
+
+	cur.execute('''
+		SELECT office, search, replace
+		FROM election_blurb_alt_names
+	''')
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			office = row[0]
+			search = row[1]
+			replace = row[2]
+			if not 'alt_names' in blurbs[office]:
+				blurbs[office]['alt_names'] = {}
+			blurbs[office]['alt_names'][search] = replace
+
+	return blurbs
+
 def format_date(date):
 	if date == None:
 		return None
@@ -45,6 +175,8 @@ def localize_blurb(office_blurb, race_name):
 def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 	elections = {}
+	targeted = get_targeted()
+	blurbs = get_blurbs()
 
 	if len(ocd_ids) == 0:
 		return None
@@ -145,49 +277,49 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		"federal": [
 			{
 				"office": "us_senator",
-				"blurb": flask.g.blurbs['us_senator'],
+				"blurb": blurbs['us_senator'],
 				"races": []
 			}, {
 				"office": "us_representative",
-				"blurb": flask.g.blurbs['us_representative'],
+				"blurb": blurbs['us_representative'],
 				"races": []
 			}
 		],
 		"state": [
 			{
 				"office": "governor",
-				"blurb": flask.g.blurbs['governor'],
+				"blurb": blurbs['governor'],
 				"races": []
 			}, {
 				"office": "attorney_general",
-				"blurb": flask.g.blurbs['attorney_general'],
+				"blurb": blurbs['attorney_general'],
 				"races": []
 			}, {
 				"office": "secretary_of_state",
-				"blurb": flask.g.blurbs['secretary_of_state'],
+				"blurb": blurbs['secretary_of_state'],
 				"races": []
 			}, {
 				"office": "state_supreme_court",
-				"blurb": flask.g.blurbs['state_supreme_court'],
+				"blurb": blurbs['state_supreme_court'],
 				"races": []
 			}, {
 				"office": "state_senator",
-				"blurb": flask.g.blurbs['state_senator'],
+				"blurb": blurbs['state_senator'],
 				"races": []
 			}, {
 				"office": "state_representative",
-				"blurb": flask.g.blurbs['state_representative'],
+				"blurb": blurbs['state_representative'],
 				"races": []
 			}
 		],
 		"county": [
 			{
 				"office": "district_attorney",
-				"blurb": flask.g.blurbs['district_attorney'],
+				"blurb": blurbs['district_attorney'],
 				"races": []
 			}, {
 				"office": "county_sheriff",
-				"blurb": flask.g.blurbs['county_sheriff'],
+				"blurb": blurbs['county_sheriff'],
 				"races": []
 			}
 		]
@@ -265,10 +397,10 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 								'name': row[0]
 							}
 							for ocd_id in ocd_ids:
-								if ocd_id in flask.g.targeted['races']:
-									for targeted in flask.g.targeted['races'][ocd_id]:
-										if targeted['office'] == office:
-											race['targeted'] = [targeted]
+								if ocd_id in targeted['races']:
+									for t in targeted['races'][ocd_id]:
+										if t['office'] == office:
+											race['targeted'] = [t]
 							office_obj = elections['ballots'][ballot]['offices'][office_level][office_index]
 							office_obj['races'].append(race)
 
@@ -302,9 +434,9 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	elections['calendar'].sort(cmp=sort_calendar)
 
 	for ocd_id in ocd_ids:
-		if ocd_id in flask.g.targeted['initiatives']:
+		if ocd_id in targeted['initiatives']:
 			for ballot in elections['ballots']:
-				ballot['initiatives'] = flask.g.targeted['initiatives'][ocd_id]
+				ballot['initiatives'] = targeted['initiatives'][ocd_id]
 
 	return elections
 
@@ -441,6 +573,8 @@ def get_district_by_coords(lat, lng, session_num=115):
 	rs = cur.fetchall()
 	district = None
 
+	sessions = get_sessions()
+
 	if rs:
 		for row in rs:
 
@@ -464,8 +598,8 @@ def get_district_by_coords(lat, lng, session_num=115):
 				'name': name,
 				'start_session': start_session,
 				'end_session': end_session,
-				'start_date': flask.g.sessions[start_session]['start_date'],
-				'end_date': flask.g.sessions[end_session]['end_date'],
+				'start_date': sessions[start_session]['start_date'],
+				'end_date': sessions[end_session]['end_date'],
 				'state': state,
 				'district_num': district_num,
 				'area': area,
@@ -498,6 +632,8 @@ def get_district_by_id(aclu_id):
 	rs = cur.fetchall()
 	district = None
 
+	sessions = get_sessions()
+
 	if rs:
 		for row in rs:
 
@@ -521,8 +657,8 @@ def get_district_by_id(aclu_id):
 				'name': name,
 				'start_session': start_session,
 				'end_session': end_session,
-				'start_date': flask.g.sessions[start_session]['start_date'],
-				'end_date': flask.g.sessions[end_session]['end_date'],
+				'start_date': sessions[start_session]['start_date'],
+				'end_date': sessions[end_session]['end_date'],
 				'state': state,
 				'district_num': district_num,
 				'area': area,
@@ -701,7 +837,8 @@ def get_state_legs_by_ids(aclu_ids):
 
 def get_legislators_by_state(state, session_num=115):
 
-	session = flask.g.sessions[session_num]
+	sessions = get_sessions()
+	session = sessions[session_num]
 
 	cur = flask.g.db.cursor()
 	cur.execute('''

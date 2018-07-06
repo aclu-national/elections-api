@@ -205,6 +205,8 @@ for filename in files:
 					value = value.lower()
 				elif key == "district":
 					key = "district_num"
+					if term['state'] in ['AS', 'DC', 'GU', 'MP', 'PR', 'VI']:
+						value = 98
 
 				columns.append(key)
 				values.append(value)

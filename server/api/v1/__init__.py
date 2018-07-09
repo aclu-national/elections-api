@@ -1297,26 +1297,36 @@ def pip():
 
 	include_geometry = flask.request.args.get('geometry', False)
 	if include_geometry == '1':
-		rsp['geometry'] = {
-			state['ocd_id']: {
+
+		rsp['geometry'] = {}
+
+		if state:
+			ocd_id = state['ocd_id']
+			rsp['geometry'][ocd_id] = {
 				'name': state['name'],
 				'type': 'state',
 				'geometry': state['geometry']
-			},
-			congress['district']['ocd_id']: {
+			}
+			del state['geometry']
+
+		if congress['district']:
+			ocd_id = congress['district']['ocd_id']
+			rsp['geometry'][ocd_id] = {
 				'name': congress['district']['name'],
 				'type': 'congress',
 				'geometry': congress['district']['geometry']
-			},
-			county['ocd_id']: {
+			}
+			del congress['district']['geometry']
+
+		if county:
+			ocd_id = county['ocd_id']
+			rsp['geometry'][ocd_id] = {
 				'name': county['name'],
 				'type': 'county',
 				'geometry': county['geometry']
 			}
-		}
-		del state['geometry']
-		del congress['district']['geometry']
-		del county['geometry']
+			del county['geometry']
+
 		for leg in state_legs:
 			ocd_id = leg['ocd_id']
 			rsp['geometry'][ocd_id] = {

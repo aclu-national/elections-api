@@ -37,9 +37,12 @@ congress_photos:
 
 states:
 	mkdir -p states
-	curl -o states/states.zip https://www2.census.gov/geo/tiger/TIGER2017/STATE/tl_2017_us_state.zip
-	unzip -d states states/states.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 states/states.geojson states/tl_2017_us_state.shp
+	curl -o states/states_lookup.zip https://www2.census.gov/geo/tiger/TIGER2017/STATE/tl_2017_us_state.zip
+	unzip -d states states/states_lookup.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 states/states_lookup.geojson states/tl_2017_us_state.shp
+	curl -o states/states_display.zip https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_state_500k.zip
+	unzip -d states states/states_display.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 states/states_display.geojson states/cb_2017_us_state_500k.shp
 
 counties:
 	mkdir -p counties

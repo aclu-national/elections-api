@@ -8,6 +8,7 @@ def simplify(path):
 	output_args = "-o format=geojson geojson-type=Feature force"
 	cmd = "mapshaper %s %s %s %s" % (path, simplify_args, output_args, output_path)
 	os.system(cmd)
+	return output_path
 
 if __name__ == "__main__":
 	script = os.path.realpath(sys.argv[0])
@@ -33,7 +34,7 @@ if __name__ == "__main__":
 		if data_dir == 'congress_districts_116_pa':
 			dirs.append("%s/data/congress_districts_116_pa" % root_dir)
 		elif data_dir == 'states':
-			dirs.append("%s/data/states" % root_dir)
+			continue
 		else:
 			for state in os.listdir("%s/data/%s" % (root_dir, data_dir)):
 				dir = "%s/data/%s/%s" % (root_dir, data_dir, state)

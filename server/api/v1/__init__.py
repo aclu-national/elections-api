@@ -140,7 +140,7 @@ def pip():
 	ocd_ids = helpers.get_ocd_ids(areas)
 	aclu_ids = helpers.get_aclu_ids(areas)
 	elections = elections_api.get_elections_by_ocd_ids(ocd_ids)
-	available = google_civic_info.get_available_elections(ocd_ids)
+	available = google_civic_info_api.get_available_elections(ocd_ids)
 
 	rsp = {
 		'ok': True,

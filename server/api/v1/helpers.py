@@ -1,4 +1,5 @@
 import flask, json, os, re, sys, arrow
+from copy import deepcopy
 
 def get_ocd_ids(areas):
 	ocd_ids = []

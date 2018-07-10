@@ -64,7 +64,6 @@ def get_elections():
 	cached = cache_get('elections', ttl)
 
 	if cached:
-		print("from cache")
 		rsp = json.loads(cached)
 	else:
 		print("from API")

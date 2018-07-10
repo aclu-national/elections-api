@@ -7,8 +7,11 @@ import state as state_api
 import county as county_api
 import state_leg as state_leg_api
 import elections as elections_api
+import google_civic_info as google_civic_info_api
 
 api = flask.Blueprint('api', __name__)
+
+google_civic_info_api.setup()
 
 @api.route("/")
 def index():
@@ -70,6 +73,13 @@ def index():
 					'lng': 'Longitude',
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
+			},
+			'/v1/google_civic_info': {
+				'description': 'Lookup Google Civic Info for an election.',
+				'args': {
+					'ocd_id': 'An Open Civic Data ID for the election.',
+					'address': 'Address search string.'
+				}
 			}
 		}
 	})
@@ -130,11 +140,13 @@ def pip():
 	ocd_ids = helpers.get_ocd_ids(areas)
 	aclu_ids = helpers.get_aclu_ids(areas)
 	elections = elections_api.get_elections_by_ocd_ids(ocd_ids)
+	available = google_civic_info.get_available_elections(ocd_ids)
 
 	rsp = {
 		'ok': True,
 		'id': aclu_ids,
 		'elections': elections,
+		'google_civic_info': available,
 		'state': state,
 		'congress': congress,
 		'county': county,
@@ -335,4 +347,30 @@ def pip_state_leg():
 	return flask.jsonify({
 		'ok': True,
 		'state_leg': rsp
+	})
+
+@api.route("/google_civic_info")
+def google_civic_info():
+
+	ocd_id = flask.request.args.get('ocd_id', None)
+	address = flask.request.args.get('address', None)
+
+	if not ocd_id or not address:
+		return flask.jsonify({
+			'ok': False,
+			'error': "Please include 'ocd_id' and 'address' args."
+		})
+
+	election_id = google_civic_info_api.get_election_id(ocd_id)
+
+	if not election_id:
+		return flask.jsonify({
+			'ok': False,
+			'error': "Sorry, no election found for ocd_id '%s'." % ocd_id
+		})
+
+	rsp = google_civic_info_api.get_voter_info(election_id, address)
+	return flask.jsonify({
+		'ok': True,
+		'google_civic_info': rsp
 	})

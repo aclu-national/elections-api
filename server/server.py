@@ -24,6 +24,13 @@ def index():
 	})
 
 if __name__ == '__main__':
+
 	port = os.getenv('PORT', 5000)
 	port = int(port)
+
+	google_api_key = os.getenv('GOOGLE_API_KEY', None)
+	if not google_api_key:
+		print("Please define GOOGLE_API_KEY")
+		exit(1)
+
 	app.run(host='0.0.0.0', port=port)

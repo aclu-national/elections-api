@@ -235,7 +235,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							office_obj['races'].append(race)
 
 							if 'blurb' in office_obj and 'alt_names' in office_obj['blurb']:
-								office_obj['blurb'] = localize_blurb(office_obj['blurb'], race['name'])
+								office_obj['blurb'] = helpers.localize_blurb(office_obj['blurb'], race['name'])
 						else:
 							print("Warning: could not add %s to %s office %d" % (row[0], office_level, office_index))
 

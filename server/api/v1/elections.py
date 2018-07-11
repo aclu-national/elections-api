@@ -16,7 +16,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT state, online_reg_url, check_reg_url, polling_place_url,
-		       voter_id_req, same_day, vote_by_mail, early_voting
+		       voter_id_req, same_day, vote_by_mail, early_voting,
+		       vbm_req_url, voter_id_url, election_info_url, same_day_url
 		FROM election_info
 		WHERE state = %s
 	''', (state,))
@@ -36,7 +37,11 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		'links': {
 			'online_reg_url': row[1],
 			'check_reg_url': row[2],
-			'polling_place_url': row[3]
+			'polling_place_url': row[3],
+			'vbm_req_url': row[8],
+			'voter_id_url': row[9],
+			'election_info_url': row[10],
+			'same_day_url': row[11]
 		},
 		'calendar': [],
 		'ballots': []

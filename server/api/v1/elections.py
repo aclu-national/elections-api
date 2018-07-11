@@ -26,6 +26,12 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	if not row:
 		return None
 
+	def url_value(url):
+		if url == '':
+			return None
+		else:
+			return url
+
 	elections = {
 		'info': {
 			'state': row[0],
@@ -35,13 +41,13 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 			'early_voting': row[7]
 		},
 		'links': {
-			'online_reg_url': row[1],
-			'check_reg_url': row[2],
-			'polling_place_url': row[3],
-			'vbm_req_url': row[8],
-			'voter_id_url': row[9],
-			'election_info_url': row[10],
-			'same_day_url': row[11]
+			'online_reg_url': url_value(row[1]),
+			'check_reg_url': url_value(row[2]),
+			'polling_place_url': url_value(row[3]),
+			'vbm_req_url': url_value(row[8]),
+			'voter_id_url': url_value(row[9]),
+			'election_info_url': url_value(row[10]),
+			'same_day_url': url_value(row[11])
 		},
 		'calendar': [],
 		'ballots': []

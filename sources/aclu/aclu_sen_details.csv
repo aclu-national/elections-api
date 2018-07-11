@@ -2,11 +2,11 @@ aclu_id,display_name,running_in_2018
 aclu/elections-api/congress_legislator:516,Sen. Dan Sullivan (R-AK),0
 aclu/elections-api/congress_legislator:518,Sen. Lisa Murkowski (R-AK),0
 aclu/elections-api/congress_legislator:525,Sen. Richard Shelby (R-AL),0
-aclu/elections-api/congress_legislator:520,Sen. Doug Jones (D-AL)*,0
+aclu/elections-api/congress_legislator:520,Sen. Doug Jones (D-AL),0
 aclu/elections-api/congress_legislator:531,Sen. John Boozman (R-AR),0
 aclu/elections-api/congress_legislator:533,Sen. Tom Cotton (R-AR),0
 aclu/elections-api/congress_legislator:537,Sen. Jeff Flake (R-AZ),0
-aclu/elections-api/congress_legislator:538,Sen. John McCain (R-AZ)!,0
+aclu/elections-api/congress_legislator:538,Sen. John McCain (R-AZ),0
 aclu/elections-api/congress_legislator:555,Sen. Dianne Feinstein (D-CA),1
 aclu/elections-api/congress_legislator:574,Sen. Kamala Harris (D-CA),0
 aclu/elections-api/congress_legislator:600,Sen. Cory Gardner (R-CO),0
@@ -44,10 +44,10 @@ aclu/elections-api/congress_legislator:756,Sen. Susan Collins (R-ME),0
 aclu/elections-api/congress_legislator:762,Sen. Debbie Stabenow (D-MI),1
 aclu/elections-api/congress_legislator:764,Sen. Gary Peters (D-MI),0
 aclu/elections-api/congress_legislator:772,Sen. Amy Klobuchar (D-MN),1
-aclu/elections-api/congress_legislator:779,Sen. Tina Smith (D-MN)*,1
+aclu/elections-api/congress_legislator:779,Sen. Tina Smith (D-MN),1
 aclu/elections-api/congress_legislator:787,Sen. Roy Blunt (R-MO),0
 aclu/elections-api/congress_legislator:784,Sen. Claire McCaskill (D-MO),1
-aclu/elections-api/congress_legislator:1046,Sen. Cindy Hyde-Smith (R-MS)*,1
+aclu/elections-api/congress_legislator:1046,Sen. Cindy Hyde-Smith (R-MS),1
 aclu/elections-api/congress_legislator:794,Sen. Roger Wicker (R-MS),1
 aclu/elections-api/congress_legislator:798,Sen. Steve Daines (R-MT),0
 aclu/elections-api/congress_legislator:797,Sen. Jon Tester (D-MT),1

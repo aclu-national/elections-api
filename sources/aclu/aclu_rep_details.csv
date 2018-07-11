@@ -18,7 +18,7 @@ aclu/elections-api/congress_legislator:541,Rep. Paul Gosar (R-AZ-4),1
 aclu/elections-api/congress_legislator:535,Rep. Andy Biggs (R-AZ-5),1
 aclu/elections-api/congress_legislator:536,Rep. David Schweikert (R-AZ-6),1
 aclu/elections-api/congress_legislator:543,Rep. Ruben Gallego (D-AZ-7),1
-aclu/elections-api/congress_legislator:1043,Rep. Debbie Lesko (R-AZ-8)*,1
+aclu/elections-api/congress_legislator:1043,Rep. Debbie Lesko (R-AZ-8),1
 aclu/elections-api/congress_legislator:539,Rep. Kyrsten Sinema (D-AZ-9),0
 aclu/elections-api/congress_legislator:557,Rep. Doug LaMalfa (R-CA-1),1
 aclu/elections-api/congress_legislator:564,Rep. Jared Huffman (D-CA-2),1
@@ -53,10 +53,10 @@ aclu/elections-api/congress_legislator:550,Rep. Brad Sherman (D-CA-30),1
 aclu/elections-api/congress_legislator:589,"Rep. Peter ""Pete"" Aguilar (D-CA-31)",1
 aclu/elections-api/congress_legislator:561,Rep. Grace Napolitano (D-CA-32),1
 aclu/elections-api/congress_legislator:596,Rep. Ted Lieu (D-CA-33),1
-aclu/elections-api/congress_legislator:568,Rep. Jimmy Gomez (D-CA-34)*,1
+aclu/elections-api/congress_legislator:568,Rep. Jimmy Gomez (D-CA-34),1
 aclu/elections-api/congress_legislator:587,Rep. Norma Torres (D-CA-35),1
 aclu/elections-api/congress_legislator:590,Rep. Raul Ruiz (D-CA-36),1
-aclu/elections-api/congress_legislator:575,Rep. Karen Bass (D-CA-37)!,1
+aclu/elections-api/congress_legislator:575,Rep. Karen Bass (D-CA-37),1
 aclu/elections-api/congress_legislator:578,Rep. Linda Sanchez (D-CA-38),1
 aclu/elections-api/congress_legislator:559,Rep. Ed Royce (R-CA-39),0
 aclu/elections-api/congress_legislator:579,Rep. Lucille Roybal-Allard (D-CA-40),1
@@ -118,7 +118,7 @@ aclu/elections-api/congress_legislator:662,Rep. Sanford Bishop (D-GA-2),1
 aclu/elections-api/congress_legislator:649,Rep. Drew Ferguson (R-GA-3),1
 aclu/elections-api/congress_legislator:656,Rep. Hank Johnson (D-GA-4),1
 aclu/elections-api/congress_legislator:659,Rep. John Lewis (D-GA-5),1
-aclu/elections-api/congress_legislator:1044,Rep. Karen Handel (R-GA-6)*,1
+aclu/elections-api/congress_legislator:1044,Rep. Karen Handel (R-GA-6),1
 aclu/elections-api/congress_legislator:661,Rep. Rob Woodall (R-GA-7),1
 aclu/elections-api/congress_legislator:650,Rep. Austin Scott (R-GA-8),1
 aclu/elections-api/congress_legislator:655,Rep. Doug Collins (R-GA-9),1
@@ -165,7 +165,7 @@ aclu/elections-api/congress_legislator:709,Rep. Trey Hollingsworth (R-IN-9),1
 aclu/elections-api/congress_legislator:714,Rep. Roger Marshall (R-KS-1),1
 aclu/elections-api/congress_legislator:712,Rep. Lynn Jenkins (R-KS-2),0
 aclu/elections-api/congress_legislator:711,Rep. Kevin Yoder (R-KS-3),1
-aclu/elections-api/congress_legislator:715,Rep. Ron Estes (R-KS-4)*,1
+aclu/elections-api/congress_legislator:715,Rep. Ron Estes (R-KS-4),1
 aclu/elections-api/congress_legislator:719,Rep. James Comer (R-KY-1),1
 aclu/elections-api/congress_legislator:716,Rep. Brett Guthrie (R-KY-2),1
 aclu/elections-api/congress_legislator:720,Rep. John Yarmuth (D-KY-3),1
@@ -193,7 +193,7 @@ aclu/elections-api/congress_legislator:751,Rep. John Sarbanes (D-MD-3),1
 aclu/elections-api/congress_legislator:744,Rep. Anthony Brown (D-MD-4),1
 aclu/elections-api/congress_legislator:752,Whip Steny Hoyer (D-MD-5),1
 aclu/elections-api/congress_legislator:750,Rep. John Delaney (D-MD-6),0
-aclu/elections-api/congress_legislator:748,Rep. Elijah Cummings (D-MD-7)!,1
+aclu/elections-api/congress_legislator:748,Rep. Elijah Cummings (D-MD-7),1
 aclu/elections-api/congress_legislator:749,Rep. Jamie Raskin (D-MD-8),1
 aclu/elections-api/congress_legislator:755,Rep. Chellie Pingree (D-ME-1),1
 aclu/elections-api/congress_legislator:754,Rep. Bruce Poliquin (R-ME-2),1
@@ -230,7 +230,7 @@ aclu/elections-api/congress_legislator:796,Rep. Trent Kelly (R-MS-1),1
 aclu/elections-api/congress_legislator:792,Rep. Bennie Thompson (D-MS-2),1
 aclu/elections-api/congress_legislator:793,Rep. Gregg Harper (R-MS-3),0
 aclu/elections-api/congress_legislator:795,Rep. Steven Palazzo (R-MS-4),1
-aclu/elections-api/congress_legislator:1047,Rep. Greg Gianforte (R-MT-1)*,1
+aclu/elections-api/congress_legislator:1047,Rep. Greg Gianforte (R-MT-1),1
 aclu/elections-api/congress_legislator:802,Rep. G.K. Butterfield (D-NC-1),1
 aclu/elections-api/congress_legislator:803,Rep. George Holding (R-NC-2),1
 aclu/elections-api/congress_legislator:813,Rep. Walter Jones (R-NC-3),1
@@ -239,12 +239,12 @@ aclu/elections-api/congress_legislator:812,Rep. Virginia Foxx (R-NC-5),1
 aclu/elections-api/congress_legislator:805,Rep. Mark Walker (R-NC-6),1
 aclu/elections-api/congress_legislator:801,Rep. David Rouzer (R-NC-7),1
 aclu/elections-api/congress_legislator:808,Rep. Richard Hudson (R-NC-8),1
-aclu/elections-api/congress_legislator:809,Rep. Robert Pittenger (R-NC-9),0
+aclu/elections-api/congress_legislator:809,Rep. Robert Pittenger (R-NC-9),1
 aclu/elections-api/congress_legislator:806,Rep. Patrick McHenry (R-NC-10),1
 aclu/elections-api/congress_legislator:804,Rep. Mark Meadows (R-NC-11),1
 aclu/elections-api/congress_legislator:799,Rep. Alma Adams (D-NC-12),1
 aclu/elections-api/congress_legislator:810,Rep. Ted Budd (R-NC-13),1
-aclu/elections-api/congress_legislator:816,Rep. Kevin Cramer (R-ND-1),0
+aclu/elections-api/congress_legislator:816,Rep. Kevin Cramer (R-ND-1),1
 aclu/elections-api/congress_legislator:821,Rep. Jeff Fortenberry (R-NE-1),1
 aclu/elections-api/congress_legislator:820,Rep. Don Bacon (R-NE-2),1
 aclu/elections-api/congress_legislator:817,Rep. Adrian Smith (R-NE-3),1
@@ -282,7 +282,7 @@ aclu/elections-api/congress_legislator:863,Rep. Jerry Nadler (D-NY-10),1
 aclu/elections-api/congress_legislator:857,"Rep. Daniel ""Dan"" Donovan (R-NY-11)",1
 aclu/elections-api/congress_legislator:853,Rep. Carolyn Maloney (D-NY-12),1
 aclu/elections-api/congress_legislator:851,Rep. Adriano Espaillat (D-NY-13),1
-aclu/elections-api/congress_legislator:867,"Rep. Joseph ""Joe"" Crowley (D-NY-14)",0
+aclu/elections-api/congress_legislator:867,"Rep. Joseph ""Joe"" Crowley (D-NY-14)",1
 aclu/elections-api/congress_legislator:866,Rep. Jose Serrano (D-NY-15),1
 aclu/elections-api/congress_legislator:858,Rep. Eliot Engel (D-NY-16),1
 aclu/elections-api/congress_legislator:871,Rep. Nita Lowey (D-NY-17),1
@@ -334,14 +334,14 @@ aclu/elections-api/congress_legislator:910,Rep. Brendan Boyle (D-PA-13),1
 aclu/elections-api/congress_legislator:918,Rep. Mike Doyle (D-PA-14),1
 aclu/elections-api/congress_legislator:915,Rep. Lloyd Smucker (R-PA-16),1
 aclu/elections-api/congress_legislator:917,"Rep. Matthew ""Matt"" Cartwright (D-PA-17)",1
-aclu/elections-api/congress_legislator:1048,Rep. Conor Lamb (D-PA-18)*,1
+aclu/elections-api/congress_legislator:1048,Rep. Conor Lamb (D-PA-18),1
 aclu/elections-api/congress_legislator:927,Rep. David Cicilline (D-RI-1),1
 aclu/elections-api/congress_legislator:928,Rep. Jim Langevin (D-RI-2),1
-aclu/elections-api/congress_legislator:935,Rep. Mark Sanford (R-SC-1),0
+aclu/elections-api/congress_legislator:935,Rep. Mark Sanford (R-SC-1),1
 aclu/elections-api/congress_legislator:933,Rep. Joe Wilson (R-SC-2),1
 aclu/elections-api/congress_legislator:932,Rep. Jeff Duncan (R-SC-3),1
 aclu/elections-api/congress_legislator:939,Rep. Trey Gowdy (R-SC-4),0
-aclu/elections-api/congress_legislator:936,Rep. Ralph Norman (R-SC-5)*,1
+aclu/elections-api/congress_legislator:936,Rep. Ralph Norman (R-SC-5),1
 aclu/elections-api/congress_legislator:931,"Rep. James ""Jim"" Clyburn (D-SC-6)",1
 aclu/elections-api/congress_legislator:938,Rep. Tom Rice (R-SC-7),1
 aclu/elections-api/congress_legislator:941,Rep. Kristi Noem (R-SD-1),0
@@ -391,7 +391,7 @@ aclu/elections-api/congress_legislator:975,Rep. Lloyd Doggett (D-TX-35),1
 aclu/elections-api/congress_legislator:957,Rep. Brian Babin (R-TX-36),1
 aclu/elections-api/congress_legislator:995,Rep. Rob Bishop (R-UT-1),1
 aclu/elections-api/congress_legislator:991,Rep. Chris Stewart (R-UT-2),1
-aclu/elections-api/congress_legislator:1049,Rep. John Curtis (R-UT-3)*,1
+aclu/elections-api/congress_legislator:1049,Rep. John Curtis (R-UT-3),1
 aclu/elections-api/congress_legislator:992,Rep. Mia Love (R-UT-4),1
 aclu/elections-api/congress_legislator:1005,Rep. Rob Wittman (R-VA-1),1
 aclu/elections-api/congress_legislator:1006,Rep. Scott Taylor (R-VA-2),1
@@ -415,7 +415,7 @@ aclu/elections-api/congress_legislator:1022,Rep. Pramila Jayapal (D-WA-7),1
 aclu/elections-api/congress_legislator:1016,Rep. Dave Reichert (R-WA-8),0
 aclu/elections-api/congress_legislator:1013,Rep. Adam Smith (D-WA-9),1
 aclu/elections-api/congress_legislator:1017,Rep. Denny Heck (D-WA-10),1
-aclu/elections-api/congress_legislator:1030,Speaker Paul Ryan (R-WI-1)!,0
+aclu/elections-api/congress_legislator:1030,Speaker Paul Ryan (R-WI-1),0
 aclu/elections-api/congress_legislator:1028,Rep. Mark Pocan (D-WI-2),1
 aclu/elections-api/congress_legislator:1032,Rep. Ron Kind (D-WI-3),1
 aclu/elections-api/congress_legislator:1027,Rep. Gwen Moore (D-WI-4),1

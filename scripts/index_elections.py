@@ -27,7 +27,11 @@ CREATE TABLE election_info (
 	voter_id_req VARCHAR(255),
 	same_day VARCHAR(255),
 	vote_by_mail VARCHAR(255),
-	early_voting VARCHAR(255)
+	early_voting VARCHAR(255),
+	vbm_req_url VARCHAR(255),
+	voter_id_url VARCHAR(255),
+	election_info_url VARCHAR(255),
+	same_day_url VARCHAR(255)
 )''')
 conn.commit()
 
@@ -40,8 +44,12 @@ insert_sql = '''
 		voter_id_req,
 		same_day,
 		vote_by_mail,
-		early_voting
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+		early_voting,
+		vbm_req_url,
+		voter_id_url,
+		election_info_url,
+		same_day_url
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 fh = open('%s/sources/aclu/aclu_election_info.csv' % root_dir, 'rb')
@@ -67,7 +75,11 @@ for row in reader:
 			row[5],
 			row[6],
 			row[7],
-			row[8]
+			row[8],
+			row[9],
+			row[10],
+			row[11],
+			row[12]
 		)
 		cur.execute(insert_sql, values)
 

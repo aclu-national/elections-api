@@ -66,7 +66,6 @@ def get_elections():
 	if cached:
 		rsp = json.loads(cached)
 	else:
-		print("from API")
 		url = "https://www.googleapis.com/civicinfo/v2/elections?key=%s" % api_key
 		rsp = requests.get(url)
 		cache_set('elections', rsp.text)

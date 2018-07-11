@@ -103,8 +103,10 @@ def pip():
 		congress = congress_api.get_congress_by_coords(lat, lng)
 		if (congress["ok"]):
 			del congress["ok"]
+			state = state_api.get_state_by_abbrev(congress['district']['state'])
+		else:
+			state = state_api.get_state_by_coords(lat, lng)
 
-		state = state_api.get_state_by_abbrev(congress['district']['state'])
 		county = county_api.get_county_by_coords(lat, lng)
 		state_legs = state_leg.get_state_legs_by_coords(lat, lng)
 

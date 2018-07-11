@@ -61,6 +61,16 @@ When the API server code changes, the application server needs to be restarted a
 sudo service elections restart
 ```
 
+## Load testing the server
+
+Here's how you can use [`siege`](https://www.joedog.org/siege-home/) to simulate 50 concurrent requests using a list of 1,000 random lat/lng lookups within the U.S.A.
+
+```
+export SIEGE_SCHEME="https"
+export SIEGE_HOST="elections.api.aclu.org"
+siege -c 50 -t 15S -f server/test_urls.txt -i
+```
+
 ## Data sources
 
 * [Census TIGER/Line](https://www.census.gov/geo/maps-data/data/tiger-line.html)

@@ -24,7 +24,7 @@ def get_sessions():
 
 	return sessions
 
-def get_district_by_coords(lat, lng, session_num=115):
+def get_district_by_coords(lat, lng):
 
 	include_geometry = flask.request.args.get('geometry', False)
 
@@ -39,9 +39,9 @@ def get_district_by_coords(lat, lng, session_num=115):
 		FROM congress_districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		  AND (district_num > 0 OR at_large_only = 'Y')
-		  AND start_session <= %s
-		  AND end_session >= %s
-	'''.format(columns=columns, lng=lng, lat=lat), (session_num, session_num))
+		ORDER BY district_num DESC
+		LIMIT 1
+	'''.format(columns=columns, lng=lng, lat=lat))
 
 	rs = cur.fetchall()
 	district = None

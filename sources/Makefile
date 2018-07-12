@@ -15,9 +15,12 @@ congress_districts: congress_districts_115 \
 
 congress_districts_115:
 	mkdir -p congress_districts_115
-	curl -o congress_districts_115/congress_districts_115.zip https://www2.census.gov/geo/tiger/TIGER2017/CD/tl_2017_us_cd115.zip
-	unzip -d congress_districts_115 congress_districts_115/congress_districts_115.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 congress_districts_115/congress_districts_115.geojson congress_districts_115/tl_2017_us_cd115.shp
+	curl -o congress_districts_115/congress_districts_115_lookup.zip https://www2.census.gov/geo/tiger/TIGER2017/CD/tl_2017_us_cd115.zip
+	unzip -d congress_districts_115 congress_districts_115/congress_districts_115_lookup.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 congress_districts_115/congress_districts_115_lookup.geojson congress_districts_115/tl_2017_us_cd115.shp
+	curl -o congress_districts_115/congress_districts_115_display.zip https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_cd115_500k.zip
+	unzip -d congress_districts_115 congress_districts_115/congress_districts_115_display.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 congress_districts_115/congress_districts_115_display.geojson congress_districts_115/cb_2017_us_cd115_500k.shp
 
 congress_districts_116_pa:
 	mkdir -p congress_districts_116_pa

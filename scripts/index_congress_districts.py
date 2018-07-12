@@ -47,10 +47,10 @@ insert_sql = '''
 '''
 
 directories = []
-for state in os.listdir("%s/data/congress_districts_113" % root_dir):
+for state in os.listdir("%s/data/congress_districts_115" % root_dir):
 	if state.startswith("."):
 		continue
-	directories.append("%s/data/congress_districts_113/%s" % (root_dir, state))
+	directories.append("%s/data/congress_districts_115/%s" % (root_dir, state))
 
 directories.append("%s/data/congress_districts_116_pa" % root_dir)
 directories.sort()

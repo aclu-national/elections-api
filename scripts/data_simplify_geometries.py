@@ -15,26 +15,16 @@ if __name__ == "__main__":
 	scripts_dir = os.path.dirname(script)
 	root_dir = os.path.dirname(scripts_dir)
 
-	#min_interval = 10.0
-	#max_interval = 100.0
-	#min_area = 1225433.0
-	#max_area = 1716598874914.0
-	#area_range = max_area - min_area
-
 	data_dirs = [
-		'congress_districts_113',
 		'congress_districts_116_pa',
 		'counties',
-		'state_leg',
-		'states'
+		'state_leg'
 	]
 
 	dirs = []
 	for data_dir in data_dirs:
 		if data_dir == 'congress_districts_116_pa':
 			dirs.append("%s/data/congress_districts_116_pa" % root_dir)
-		elif data_dir == 'states':
-			continue
 		else:
 			for state in os.listdir("%s/data/%s" % (root_dir, data_dir)):
 				dir = "%s/data/%s/%s" % (root_dir, data_dir, state)

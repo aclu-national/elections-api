@@ -15,7 +15,6 @@ opt_parser.add_option('-e', '--end', dest='end', type='int', default=None, actio
 options, args = opt_parser.parse_args()
 
 session = options.start
-district_prop = "CD%sFP" % session
 source_path = "%s/sources/congress_districts_%s/congress_districts_%s.geojson" % (root_dir, session, session)
 
 conn = postgres_db.connect()
@@ -36,13 +35,18 @@ encoder = mapzen.whosonfirst.geojson.encoder(precision=None)
 
 def get_filename(props):
 
-	global district_prop
+	global options
 
 	state_geoid = props["STATEFP"]
 	state_upper = str(us.states.lookup(state_geoid).abbr)
 	state = state_upper.lower()
 
-	district_num = props[district_prop]
+	for session in range(options.start, options.end + 1):
+		district_prop = "CD%sFP" % session
+		if district_prop in props:
+			district_num = props[district_prop]
+			break
+
 	filename = "congress_district_%s_%s_%s.geojson" % (session, state, district_num)
 	return filename
 
@@ -64,13 +68,18 @@ for feature in data["features"]:
 
 	props = feature["properties"]
 
-	if props[district_prop] == "ZZ":
+	for session in range(options.start, options.end + 1):
+		district_prop = "CD%sFP" % session
+		if district_prop in props:
+			district_num = props[district_prop]
+			break
+
+	if district_num == "ZZ":
 		continue
 
 	state_geoid = props["STATEFP"]
 	state_upper = str(us.states.lookup(state_geoid).abbr)
 	state = state_upper.lower()
-	district_num = props[district_prop]
 
 	filename = get_filename(props)
 	path = "congress_districts_%s/%s/%s" % (session, state, filename)
@@ -95,8 +104,8 @@ for feature in data["features"]:
 		"ocd_id": ocd_id,
 		"name": name,
 		"state": state,
-		"start_session": options.start,
-		"start_date": sessions[options.start]["start_date"],
+		"start_session": session,
+		"start_date": sessions[session]["start_date"],
 		"end_session": options.end,
 		"end_date": sessions[options.end]["end_date"],
 		"district_num": district_num

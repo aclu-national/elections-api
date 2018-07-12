@@ -10,14 +10,14 @@ congress_sessions:
 	mkdir -p congress_sessions
 	curl -o congress_sessions/congress_sessions.html https://www.senate.gov/reference/Sessions/sessionDates.htm
 
-congress_districts: congress_districts_113 \
+congress_districts: congress_districts_115 \
                     congress_districts_116_pa
 
-congress_districts_113:
-	mkdir -p congress_districts_113
-	curl -o congress_districts_113/congress_districts_113.zip https://www2.census.gov/geo/tiger/TIGERrd13_st/nation/tl_rd13_us_cd113.zip
-	unzip -d congress_districts_113 congress_districts_113/congress_districts_113.zip
-	ogr2ogr -f GeoJSON -t_srs crs:84 congress_districts_113/congress_districts_113.geojson congress_districts_113/tl_rd13_us_cd113.shp
+congress_districts_115:
+	mkdir -p congress_districts_115
+	curl -o congress_districts_115/congress_districts_115.zip https://www2.census.gov/geo/tiger/TIGER2017/CD/tl_2017_us_cd115.zip
+	unzip -d congress_districts_115 congress_districts_115/congress_districts_115.zip
+	ogr2ogr -f GeoJSON -t_srs crs:84 congress_districts_115/congress_districts_115.geojson congress_districts_115/tl_2017_us_cd115.shp
 
 congress_districts_116_pa:
 	mkdir -p congress_districts_116_pa

@@ -1,4 +1,4 @@
-all: congress_districts_113 \
+all: congress_districts_115 \
      congress_districts_116_pa \
      congress_legislators \
      congress_photos \
@@ -7,8 +7,8 @@ all: congress_districts_113 \
      state_leg \
      simplify_geometries
 
-congress_districts_113:
-	python ../scripts/data_congress_districts_tiger.py --start 113 --end 115
+congress_districts_115:
+	python ../scripts/data_congress_districts_tiger.py --start 115 --end 115
 
 congress_districts_116_pa:
 	python ../scripts/data_congress_districts_116_pa.py

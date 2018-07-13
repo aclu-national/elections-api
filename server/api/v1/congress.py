@@ -38,7 +38,6 @@ def get_district_by_coords(lat, lng):
 		SELECT {columns}
 		FROM congress_districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
-		  AND (district_num > 0 OR at_large_only = 'Y')
 		ORDER BY start_session DESC
 		LIMIT 1
 	'''.format(columns=columns, lng=lng, lat=lat))

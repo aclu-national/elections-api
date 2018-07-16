@@ -24,7 +24,7 @@ def get_sessions():
 
 	return sessions
 
-def get_district_by_coords(lat, lng):
+def get_district_by_coords(lat, lng, session=None):
 
 	include_geometry = flask.request.args.get('geometry', False)
 
@@ -33,14 +33,19 @@ def get_district_by_coords(lat, lng):
 	if include_geometry == '1':
 		columns += ', boundary_simple'
 
+	if not session:
+		filter = 'ORDER BY start_session DESC'
+	else:
+		filter = 'AND start_session >= %d AND end_session <= %d' % (session, session)
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT {columns}
 		FROM congress_districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
-		ORDER BY start_session DESC
+		{filter}
 		LIMIT 1
-	'''.format(columns=columns, lng=lng, lat=lat))
+	'''.format(columns=columns, lng=lng, lat=lat, filter=filter))
 
 	rs = cur.fetchall()
 	district = None
@@ -379,18 +384,31 @@ def get_legislators(cur):
 
 def get_congress_by_coords(lat, lng):
 
-	district = get_district_by_coords(lat, lng)
+	# HELLO quick warning here: these next to vars are hardcoded, and we are
+	# going to oneed to need to update them or make them ~less~ hardecoded.
+	# (20180716/dphiffer)
 
-	if not district:
+	curr_session = 115
+	redistricted = ['pa']
+
+	curr_district = get_district_by_coords(lat, lng, curr_session)
+
+	if curr_district and curr_district['state'] in redistricted:
+		next_district = get_district_by_coords(lat, lng)
+	else:
+		next_district = curr_district
+
+	if not curr_district:
 		rsp = {
 			'ok': False,
 			'error': 'No congressional district found.'
 		}
 	else:
-		legislators = get_legislators_by_district(district["state"], district["district_num"])
+		legislators = get_legislators_by_district(curr_district["state"], curr_district["district_num"])
 		rsp = {
 			'ok': True,
-			'district': district,
+			'district': curr_district,
+			'next_district': next_district,
 			'legislators': legislators
 		}
 

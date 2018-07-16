@@ -132,10 +132,15 @@ def pip():
 
 	if state:
 		areas.append(state)
-	if congress and 'district' in congress:
-		areas.append(congress['district'])
+
+	if congress and 'next_district' in congress:
+		areas.append(congress['next_district'])
+	elif congress and 'district' in congress:
+		areas.append(congress['next_district'])
+
 	if county:
 		areas.append(county)
+
 	if len(state_legs) > 0:
 		areas = areas + state_legs
 

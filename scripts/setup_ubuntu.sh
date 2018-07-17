@@ -24,6 +24,7 @@ apt upgrade -y
 
 apt install -y fail2ban ufw htop emacs24-nox postgresql postgresql-contrib \
                build-essential gdal-bin python python-pip python-gevent nginx
+               unzip
 
 ufw allow 5000
 ufw allow 80

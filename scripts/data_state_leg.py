@@ -56,7 +56,7 @@ for filename in files:
 		path = "state_leg/%s/%s" % (state, name)
 		abs_path = "%s/data/%s" % (root_dir, path)
 
-		non_zero_padded = re.search('^0+(\d+)', district_num)
+		non_zero_padded = re.search('^0+(.+)', district_num)
 		if not non_zero_padded:
 			non_zero_padded = district_num
 		else:

@@ -154,6 +154,8 @@ def pip():
 		if 'next_district' in congress:
 			areas.append(congress['next_district'])
 		areas_plus_curr_congress = deepcopy(areas)
+	else:
+		areas_plus_curr_congress = deepcopy(areas)
 
 	ocd_ids = helpers.get_ocd_ids(areas)
 	aclu_ids = helpers.get_aclu_ids(areas_plus_curr_congress)

@@ -8,6 +8,7 @@ import county as county_api
 import state_leg as state_leg_api
 import elections as elections_api
 import google_civic_info as google_civic_info_api
+from copy import deepcopy
 
 api = flask.Blueprint('api', __name__)
 
@@ -138,13 +139,13 @@ def pip():
 		areas.append(state)
 
 	if congress and 'next_district' in congress:
-		areas_plus_curr_congress = areas
+		areas_plus_curr_congress = deepcopy(areas)
 		if 'district' in congress:
 			areas_plus_curr_congress.append(congress['district'])
 		areas.append(congress['next_district'])
 	elif congress and 'district' in congress:
 		areas.append(congress['next_district'])
-		areas_plus_curr_congress = areas
+		areas_plus_curr_congress = deepcopy(areas)
 
 	if county:
 		areas.append(county)

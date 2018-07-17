@@ -187,7 +187,17 @@ def pip():
 			}
 			del state['geometry']
 
-		if congress and 'district' in congress:
+		if congress and 'next_district' in congress:
+			ocd_id = congress['next_district']['ocd_id']
+			rsp['geometry'][ocd_id] = {
+				'name': congress['next_district']['name'],
+				'type': 'congress',
+				'geometry': congress['next_district']['geometry']
+			}
+			del congress['next_district']['geometry']
+			if congress and 'district' in congress:
+				del congress['district']['geometry']
+		elif congress and 'district' in congress:
 			ocd_id = congress['district']['ocd_id']
 			rsp['geometry'][ocd_id] = {
 				'name': congress['district']['name'],

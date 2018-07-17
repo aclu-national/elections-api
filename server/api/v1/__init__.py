@@ -195,7 +195,7 @@ def pip():
 				'geometry': congress['next_district']['geometry']
 			}
 			del congress['next_district']['geometry']
-			if congress and 'district' in congress:
+			if congress and 'district' in congress and 'geometry' in congress['district']:
 				del congress['district']['geometry']
 		elif congress and 'district' in congress:
 			ocd_id = congress['district']['ocd_id']

@@ -151,8 +151,8 @@ def pip():
 			areas_plus_curr_congress.append(congress['next_district'])
 		areas.append(congress['next_district'])
 	elif congress and 'district' in congress:
-		if 'next_district' in congress:
-			areas.append(congress['next_district'])
+		if 'district' in congress:
+			areas.append(congress['district'])
 		areas_plus_curr_congress = deepcopy(areas)
 	else:
 		areas_plus_curr_congress = deepcopy(areas)

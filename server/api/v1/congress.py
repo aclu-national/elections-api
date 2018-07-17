@@ -384,8 +384,8 @@ def get_legislators(cur):
 
 def get_congress_by_coords(lat, lng):
 
-	# HELLO quick warning here: these next to vars are hardcoded, and we are
-	# going to oneed to need to update them or make them ~less~ hardecoded.
+	# HELLO quick warning here: these next two vars are hardcoded, and we are
+	# going to need to make them ~less~ hardecoded.
 	# (20180716/dphiffer)
 
 	curr_session = 115

@@ -138,20 +138,21 @@ def pip():
 	if state:
 		areas.append(state)
 
-	if congress and 'next_district' in congress:
-		areas_plus_curr_congress = deepcopy(areas)
-		if 'district' in congress:
-			areas_plus_curr_congress.append(congress['district'])
-		areas.append(congress['next_district'])
-	elif congress and 'district' in congress:
-		areas.append(congress['next_district'])
-		areas_plus_curr_congress = deepcopy(areas)
-
 	if county:
 		areas.append(county)
 
 	if len(state_legs) > 0:
 		areas = areas + state_legs
+
+	if congress and 'next_district' in congress:
+		areas_plus_curr_congress = deepcopy(areas)
+		if 'district' in congress:
+			areas_plus_curr_congress.append(congress['district'])
+			areas_plus_curr_congress.append(congress['next_district'])
+		areas.append(congress['next_district'])
+	elif congress and 'district' in congress:
+		areas.append(congress['next_district'])
+		areas_plus_curr_congress = deepcopy(areas)
 
 	ocd_ids = helpers.get_ocd_ids(areas)
 	aclu_ids = helpers.get_aclu_ids(areas_plus_curr_congress)

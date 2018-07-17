@@ -151,7 +151,8 @@ def pip():
 			areas_plus_curr_congress.append(congress['next_district'])
 		areas.append(congress['next_district'])
 	elif congress and 'district' in congress:
-		areas.append(congress['next_district'])
+		if 'next_district' in congress:
+			areas.append(congress['next_district'])
 		areas_plus_curr_congress = deepcopy(areas)
 
 	ocd_ids = helpers.get_ocd_ids(areas)

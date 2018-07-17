@@ -190,6 +190,11 @@ def get_spatial_request():
 					if not 'state_leg' in rsp:
 						rsp['state_leg'] = []
 					rsp['state_leg'].append(aclu_id)
+				elif type == 'congress_district':
+					if not 'congress_district' in rsp:
+						rsp['congress_district'] = aclu_id
+					else:
+						rsp['next_congress_district'] = aclu_id
 				else:
 					rsp[type] = aclu_id
 

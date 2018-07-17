@@ -119,6 +119,10 @@ def pip():
 				del congress["ok"]
 				state = state_api.get_state_by_abbrev(congress['district']['state'])
 
+		if congress and 'next_congress_district' in req:
+			next_congress = congress_api.get_congress_by_id(req['next_congress_district'])
+			congress['next_district'] = next_congress['district']
+
 		if not state and 'state' in req:
 			state = state_api.get_state_by_id(req['state'])
 

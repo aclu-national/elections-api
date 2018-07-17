@@ -270,8 +270,6 @@ with open(sen_scores_csv, 'rb') as csvfile:
 
 		conn.commit()
 
-details.close()
-
 for chamber in ['rep', 'sen']:
 
 	filename = '%s/sources/aclu/aclu_%s_score_index.csv' % (root_dir, chamber)

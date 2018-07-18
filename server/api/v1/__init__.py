@@ -158,7 +158,11 @@ def pip():
 		areas_plus_curr_congress = deepcopy(areas)
 
 	ocd_ids = helpers.get_ocd_ids(areas)
-	aclu_ids = helpers.get_aclu_ids(areas_plus_curr_congress)
+
+	aclu_ids = flask.request.args.get('id', None)
+	if not aclu_ids:
+		aclu_ids = helpers.get_aclu_ids(areas_plus_curr_congress)
+
 	elections = elections_api.get_elections_by_ocd_ids(ocd_ids)
 	available = google_civic_info_api.get_available_elections(ocd_ids)
 

@@ -41,6 +41,7 @@ elections:
 
 election_races:
 	python scripts/index_election_races.py
+	psql elections < sources/aclu/aclu_election_races.sql
 
 targeted:
 	python scripts/index_targeted.py

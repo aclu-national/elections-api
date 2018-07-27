@@ -12,3 +12,16 @@ WHERE state = 'ca'
 	'ocd-division/country:us/state:ca/county:san_joaquin',
 	'ocd-division/country:us/state:ca/county:santa_clara'
 );
+
+DELETE FROM election_races
+WHERE state = 'ca'
+  AND office_type = 'county_sheriff'
+  AND ocd_id IN (
+	'ocd-division/country:us/state:ca/county:kern',
+	'ocd-division/country:us/state:ca/county:los_angeles',
+	'ocd-division/country:us/state:ca/county:orange',
+	'ocd-division/country:us/state:ca/county:sacramento',
+	'ocd-division/country:us/state:ca/county:san_bernardino',
+	'ocd-division/country:us/state:ca/county:san_diego',
+	'ocd-division/country:us/state:ca/county:san_joaquin'
+);

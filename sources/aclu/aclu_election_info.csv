@@ -44,7 +44,7 @@ TN,Tennessee,https://ovr.govote.tn.gov/,https://tnmap.tn.gov/voterlookup/,https:
 TX,Texas,https://www.votetexas.gov/register-to-vote/,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do,https://teamrv-mvp.sos.texas.gov/MVP/mvp.do,photo-id,no,excuse-only,yes,,,,
 UT,Utah,https://secure.utah.gov/voterreg/index.html,https://vote.utah.gov/vote/menu/index,http://vote.utah.gov/vote/menu/index,non-photo-id,no,available-all,yes,,,,
 VT,Vermont,https://olvr.sec.state.vt.us/,https://mvp.sec.state.vt.us/,https://mvp.sec.state.vt.us/,none,yes,available-all,yes,,,,
-VA,Virginia,https://www.vote.virginia.gov/,https://vote.elections.virginia.gov/VoterInformation,https://vote.elections.virginia.gov/VoterInformation/PollingPlaceLookup,photo-id,no,excuse-only,no,,,,
+VA,Virginia,https://vote.virginia.gov/,https://vote.elections.virginia.gov/VoterInformation,https://vote.elections.virginia.gov/VoterInformation/PollingPlaceLookup,photo-id,no,excuse-only,no,,,,
 WA,Washington,https://wei.sos.wa.gov/agency/osos/en/pages/myvote.aspx,https://www.sos.wa.gov/elections/myvote/,https://www.sos.wa.gov/elections/auditors.aspx,none,no,all-mail,all-mail,,,,
 WV,West Virginia,https://ovr.sos.wv.gov/Register#Landing,https://apps.sos.wv.gov/elections/voter/,https://services.sos.wv.gov/Elections/Voter/FindMyPollingPlace,non-photo-id,no,excuse-only,yes,,,,
 WI,Wisconsin,https://myvote.wi.gov/en-us/registertovote,https://myvote.wi.gov/en-us/ViewMyVotingActivity,https://myvote.wi.gov/en-US/FindMyPollingPlace,photo-id,yes,available-all,yes,,,,

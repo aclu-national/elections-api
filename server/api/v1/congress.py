@@ -294,6 +294,8 @@ def get_legislators(cur):
 						url_root = 'https://elections.api.aclu.org/'
 					elif url_root == 'http://elections.api.aclu.org/':
 						url_root = 'https://elections.api.aclu.org/'
+					elif url_root == 'http://elections-stg.api.aclu.org/':
+						url_root = 'https://elections-stg.api.aclu.org/'
 					legislators[aclu_id]['photo'] = "%s%s" % (url_root, path)
 
 	cur.execute('''

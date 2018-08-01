@@ -1,6 +1,6 @@
 __import__('pkg_resources').declare_namespace(__name__)
 
-import flask, json, os, re, sys, arrow
+import flask, json, os, re, sys, arrow, us
 import helpers
 import congress as congress_api
 import state as state_api
@@ -9,6 +9,7 @@ import state_leg as state_leg_api
 import elections as elections_api
 import google_civic_info as google_civic_info_api
 from copy import deepcopy
+from ics import Calendar, Event
 
 api = flask.Blueprint('api', __name__)
 
@@ -81,6 +82,13 @@ def index():
 					'ocd_id': 'An Open Civic Data ID for the election.',
 					'address': 'Address search string.'
 				}
+			},
+			'/v1/calendar': {
+				'description': 'Get an election calendar for a given state.',
+				'args': {
+					'state': 'The state to load (e.g., ny).',
+					'format': 'Response format (optional; json or ics).'
+				}
 			}
 		}
 	})
@@ -90,6 +98,7 @@ def pip():
 
 	req = helpers.get_spatial_request()
 	areas = []
+	calendar_url = None
 
 	if type(req) == str:
 		return flask.jsonify({
@@ -137,6 +146,8 @@ def pip():
 
 	if state:
 		areas.append(state)
+		api_url = os.getenv('API_URL', '')
+		calendar_url = "%s/v1/calendar?state=%s&format=ics" % (api_url, state['state'])
 
 	if county:
 		areas.append(county)
@@ -166,11 +177,15 @@ def pip():
 	elections = elections_api.get_elections_by_ocd_ids(ocd_ids)
 	available = google_civic_info_api.get_available_elections(ocd_ids)
 
+
+
+
 	rsp = {
 		'ok': True,
 		'id': aclu_ids,
 		'elections': elections,
 		'google_civic_info': available,
+		'calendar_url': calendar_url,
 		'state': state,
 		'congress': congress,
 		'county': county,
@@ -408,3 +423,62 @@ def google_civic_info():
 		'ok': True,
 		'google_civic_info': rsp
 	})
+
+@api.route("/calendar")
+def calendar():
+
+	global elections
+
+	state = flask.request.args.get('state', None)
+	format = flask.request.args.get('format', 'json')
+
+	if not state:
+		return flask.jsonify({
+			'ok': False,
+			'error': "Please include a 'state' arg."
+		})
+
+	ocd_ids = ['ocd-division/country:us/state:%s' % state]
+	print(ocd_ids)
+	rsp = elections.get_elections_by_ocd_ids(ocd_ids)
+
+	if not 'calendar' in rsp:
+		return flask.jsonify({
+			'ok': False,
+			'error': 'Calendar data not found.'
+		})
+
+	if format == 'ics':
+
+		human_readable = {
+			'election_date': 'election',
+			'vbm_start': 'vote by mail starts',
+			'vbm_end': 'vote by mail ends'
+		}
+
+		state_name = us.states.lookup(state).name
+
+		c = Calendar()
+		c.name = "%s Elections" % state_name
+
+		for election in rsp['calendar']:
+			for name, date in election['dates'].iteritems():
+				e = Event()
+
+				if name in human_readable:
+					name = human_readable[name]
+
+				type = election['type'].capitalize()
+				name = "%s %s" % (type, name)
+				name = name.replace('_', ' ')
+
+				e.name = name
+				e.begin = date
+				c.events.add(e)
+
+		return flask.Response(c, mimetype='text/calendar')
+	else:
+		return flask.jsonify({
+			'ok': True,
+			'calendar': rsp['calendar']
+		})

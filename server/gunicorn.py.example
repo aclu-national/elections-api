@@ -3,6 +3,7 @@
 
 import multiprocessing, os
 
+os.environ['API_URL'] = 'http://localhost:5000'
 os.environ['POSTGRES_DSN'] = 'user=postgres dbname=elections'
 os.environ['GOOGLE_API_KEY'] = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 

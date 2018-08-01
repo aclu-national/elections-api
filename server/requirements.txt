@@ -3,5 +3,6 @@ flask_cors
 psycopg2-binary
 gunicorn
 bs4
-arrow
+arrow==0.12.1
 pyyaml
+ics

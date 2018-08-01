@@ -149,6 +149,18 @@ def get_district_by_id(aclu_id):
 	cur.close()
 	return district
 
+def get_all_legislators(session_num=115):
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
+		FROM congress_legislator_terms
+		WHERE end_date >= CURRENT_DATE
+		ORDER BY end_date DESC
+	''')
+
+	return get_legislators(cur)
+
 def get_legislators_by_state(state, session_num=115):
 
 	sessions = get_sessions()
@@ -166,7 +178,7 @@ def get_legislators_by_state(state, session_num=115):
 
 	return get_legislators(cur)
 
-def get_legislators_by_district(state, district_num, session_num=115):
+def get_legislators_by_district(state, district_num):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -183,7 +195,7 @@ def get_legislators_by_district(state, district_num, session_num=115):
 
 	return get_legislators(cur)
 
-def get_legislators(cur):
+def get_legislators(cur, score_filter="total"):
 
 	legislators = {}
 	aclu_ids = []
@@ -314,47 +326,51 @@ def get_legislators(cur):
 				legislators[aclu_id]['social'] = {}
 			legislators[aclu_id]['social'][key] = value
 
-	score_filter = flask.request.args.get('scores', 'voted')
+		sql_filter = ''
+		if score_filter == "total":
+			sql_filter = "AND name = 'total'"
 
-	cur.execute('''
-		SELECT aclu_id, legislator_id, position, name, value
-		FROM congress_legislator_scores
-		WHERE legislator_id IN ({aclu_ids})
-	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
+		cur.execute('''
+			SELECT aclu_id, legislator_id, position, name, value
+			FROM congress_legislator_scores
+			WHERE legislator_id IN ({aclu_ids})
+			{filter}
+		'''.format(aclu_ids=aclu_id_list, filter=sql_filter), aclu_id_values)
 
-	rs = cur.fetchall()
-	if rs:
-		for row in rs:
-			aclu_id = row[0]
-			legislator_id = row[1]
-			position = row[2]
-			name = row[3]
-			value = row[4]
+		rs = cur.fetchall()
+		if rs:
+			for row in rs:
+				aclu_id = row[0]
+				legislator_id = row[1]
+				position = row[2]
+				name = row[3]
+				value = row[4]
 
-			if not 'scores' in legislators[legislator_id]:
-				legislators[legislator_id]['scores'] = []
+				if name == 'total':
+					legislators[legislator_id]['total_score'] = value
+				else:
 
-			if name == 'total':
-				legislators[legislator_id]['total_score'] = value
-			else:
-				score = {
-					'aclu_id': aclu_id,
-					'aclu_position': position,
-					'name': name,
-					'status': 'unknown'
-				}
-				if value == '1' or value == '0':
-					score['vote'] = True if value == '1' else False
-					score['status'] = 'voted'
-				elif value == 'Missed':
-					score['status'] = 'missed'
-				elif value == 'Not yet in office':
-					score['status'] = 'not_in_office'
-				elif value == 'Not on committee':
-					score['status'] = 'not_on_committee'
+					if not 'scores' in legislators[legislator_id]:
+						legislators[legislator_id]['scores'] = []
 
-				if score_filter == 'all' or score_filter == score['status']:
-					legislators[legislator_id]['scores'].append(score)
+					score = {
+						'aclu_id': aclu_id,
+						'aclu_position': position,
+						'name': name,
+						'status': 'unknown'
+					}
+					if value == '1' or value == '0':
+						score['vote'] = True if value == '1' else False
+						score['status'] = 'voted'
+					elif value == 'Missed':
+						score['status'] = 'missed'
+					elif value == 'Not yet in office':
+						score['status'] = 'not_in_office'
+					elif value == 'Not on committee':
+						score['status'] = 'not_on_committee'
+
+					if score_filter == 'all' or score_filter == score['status']:
+						legislators[legislator_id]['scores'].append(score)
 
 	cur.close()
 

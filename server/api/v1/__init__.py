@@ -60,6 +60,10 @@ def index():
 				'description': 'Index of congressional legislator scores.',
 				'args': {}
 			},
+			'/v1/congress/legislators': {
+				'description': 'Index of all congressional legislators.',
+				'args': {}
+			},
 			'/v1/county': {
 				'description': 'County election lookup by location.',
 				'args': {
@@ -346,6 +350,16 @@ def congress_scores():
 	return flask.jsonify({
 		'ok': True,
 		'congress_scores': scores
+	})
+
+@api.route("/congress/legislators")
+def congress_legislators():
+
+	legislators = congress_api.get_all_legislators()
+
+	return flask.jsonify({
+		'ok': True,
+		'congress_legislators': legislators
 	})
 
 @api.route("/county")

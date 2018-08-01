@@ -44,6 +44,14 @@ def get_filename(legislator):
 	filename = "congress_legislator_%s_%s.json" % (state, slug)
 	return filename
 
+def get_url_slug(legislator):
+	lname = strip_accents(legislator["name"]["last"])
+	fname = strip_accents(legislator["name"]["first"])
+	name = "%s-%s" % (fname, lname)
+	name = re.sub('[^A-Za-z]+', '-', name).lower()
+	state = legislator["terms"][0]["state"].lower()
+	return "%s-%s" % (state, name)
+
 def sort_legislators(a, b):
 	a_filename = get_filename(a)
 	b_filename = get_filename(b)
@@ -68,6 +76,7 @@ for legislator in legislator_list:
 	aclu_id = data_index.get_id('elections-api', 'congress_legislator', path, name)
 
 	legislator["id"]["aclu_id"] = aclu_id
+	legislator["url_slug"] = get_url_slug(legislator)
 
 	print("Saving %s" % path)
 

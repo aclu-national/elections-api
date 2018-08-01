@@ -15,6 +15,7 @@ cur.execute("DROP TABLE IF EXISTS congress_legislators CASCADE")
 cur.execute('''
 	CREATE TABLE congress_legislators (
 		aclu_id VARCHAR(255) PRIMARY KEY,
+		url_slug VARCHAR(255) UNIQUE,
 		first_name VARCHAR(255),
 		last_name VARCHAR(255),
 		full_name VARCHAR(255),
@@ -82,10 +83,11 @@ conn.commit()
 legislator_insert_sql = '''
 	INSERT INTO congress_legislators (
 		aclu_id,
+		url_slug,
 		first_name,
 		last_name,
 		full_name
-	) VALUES (%s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s)
 '''
 
 concordances_insert_sql = '''
@@ -146,6 +148,7 @@ for filename in files:
 
 	values = [
 		aclu_id,
+		legislator["url_slug"],
 		legislator["name"]["first"],
 		legislator["name"]["last"]
 	]

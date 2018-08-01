@@ -476,7 +476,9 @@ def calendar():
 				e.begin = date
 				c.events.add(e)
 
-		return flask.Response(c, mimetype='text/calendar')
+		rsp = flask.Response(c, mimetype='text/calendar')
+		rsp.headers['Content-Disposition'] = 'inline; filename="Elections.ics"'
+		return rsp
 	else:
 		return flask.jsonify({
 			'ok': True,

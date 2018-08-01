@@ -62,7 +62,10 @@ def index():
 			},
 			'/v1/congress/legislators': {
 				'description': 'Index of all congressional legislators.',
-				'args': {}
+				'args': {
+					'id': 'Numeric part of aclu_id (optional; returns a single match).',
+					'url_slug': 'State and name URL slug (optional; returns a single match).'
+				}
 			},
 			'/v1/county': {
 				'description': 'County election lookup by location.',
@@ -355,7 +358,15 @@ def congress_scores():
 @api.route("/congress/legislators")
 def congress_legislators():
 
-	legislators = congress_api.get_all_legislators()
+	id = flask.request.args.get('id', None)
+	url_slug = flask.request.args.get('url_slug', None)
+
+	if id:
+		legislators = congress_api.get_legislators_by_id(id)
+	elif url_slug:
+		legislators = congress_api.get_legislators_by_url_slug(url_slug)
+	else:
+		legislators = congress_api.get_all_legislators()
 
 	return flask.jsonify({
 		'ok': True,

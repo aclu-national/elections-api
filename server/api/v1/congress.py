@@ -195,6 +195,38 @@ def get_legislators_by_district(state, district_num):
 
 	return get_legislators(cur)
 
+def get_legislators_by_url_slug(url_slug):
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT t.id, t.aclu_id, t.start_date, t.end_date, t.type, t.state, t.district_num, t.party
+		FROM congress_legislator_terms AS t,
+		     congress_legislators AS l
+		WHERE l.url_slug = %s
+		  AND l.aclu_id = t.aclu_id
+		  AND t.end_date >= CURRENT_DATE
+		ORDER BY t.end_date DESC
+	''', (url_slug,))
+
+	return get_legislators(cur, 'all')
+
+def get_legislators_by_id(id):
+
+	id = int(id)
+
+	cur = flask.g.db.cursor()
+	cur.execute('''
+		SELECT t.id, t.aclu_id, t.start_date, t.end_date, t.type, t.state, t.district_num, t.party
+		FROM congress_legislator_terms AS t,
+		     congress_legislators AS l
+		WHERE l.aclu_id LIKE '%congress_legislator:{id}'
+		  AND l.aclu_id = t.aclu_id
+		  AND t.end_date >= CURRENT_DATE
+		ORDER BY t.end_date DESC
+	'''.format(id=id))
+
+	return get_legislators(cur, 'all')
+
 def get_legislators(cur, score_filter="total"):
 
 	legislators = {}
@@ -227,7 +259,7 @@ def get_legislators(cur, score_filter="total"):
 	aclu_id_values = tuple(aclu_ids)
 
 	cur.execute('''
-		SELECT aclu_id, first_name, last_name, full_name, birthday, gender
+		SELECT aclu_id, url_slug, first_name, last_name, full_name, birthday, gender
 		FROM congress_legislators
 		WHERE aclu_id IN ({aclu_ids})
 	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
@@ -236,14 +268,15 @@ def get_legislators(cur, score_filter="total"):
 	if rs:
 		for row in rs:
 			aclu_id = row[0]
+			legislators[aclu_id]['url_slug'] = row[1]
 			legislators[aclu_id]['name'] = {
-				'first_name': row[1],
-				'last_name': row[2],
-				'full_name': row[3]
+				'first_name': row[2],
+				'last_name': row[3],
+				'full_name': row[4]
 			}
 			legislators[aclu_id]['bio'] = {
-				'birthday': arrow.get(row[4]).format('YYYY-MM-DD'),
-				'gender': row[5]
+				'birthday': arrow.get(row[5]).format('YYYY-MM-DD'),
+				'gender': row[6]
 			}
 
 	cur.execute('''

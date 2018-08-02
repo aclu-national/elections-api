@@ -65,6 +65,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 	primary_index = None
 	general_index = None
 
+	election_type_lookup = {}
+
 	if rs:
 		for row in rs:
 			name = row[0]
@@ -79,6 +81,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 						'dates': {}
 					})
 				elections['calendar'][primary_index]['dates'][name] = date
+				election_type_lookup[date] = 'primary'
 			elif name.startswith('general_'):
 				name = name.replace('general_', '')
 				type = 'general'
@@ -89,6 +92,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 						'dates': {}
 					})
 				elections['calendar'][general_index]['dates'][name] = date
+				election_type_lookup[date] = 'general'
 
 	election_dates = [
 		'primary_date',
@@ -211,11 +215,17 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 						ballot = ballot_lookup[date]
 
 						if not 'type' in elections['ballots'][ballot]:
-							type = row[1]
-							if type == 'regular':
-								type = 'primary' if name == 'primary_election_date' else 'general'
-							elif type == 'special':
-								type = 'special_primary' if name == 'primary_election_date' else 'special_general'
+
+							if date in election_type_lookup:
+								type = election_type_lookup[date]
+
+							else:
+								type = row[1]
+								if type == 'regular':
+									type = 'primary' if name == 'primary_election_date' else 'general'
+								elif type == 'special':
+									type = 'special_primary' if name == 'primary_election_date' else 'special_general'
+
 							elections['ballots'][ballot]['type'] = type
 
 						office = row[2]

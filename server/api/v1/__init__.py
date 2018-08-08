@@ -184,9 +184,6 @@ def pip():
 	elections = elections_api.get_elections_by_ocd_ids(ocd_ids)
 	available = google_civic_info_api.get_available_elections(ocd_ids)
 
-
-
-
 	rsp = {
 		'ok': True,
 		'id': aclu_ids,
@@ -430,9 +427,18 @@ def google_civic_info():
 	address = flask.request.args.get('address', None)
 
 	if not ocd_id or not address:
+		elections = google_civic_info_api.get_elections()
+		available = []
+		print(elections)
+		for election in elections:
+			if election['id'] != "2000": # test election
+				available.append({
+					'ocd_id': election['ocdDivisionId'],
+					'name': election['name']
+				})
 		return flask.jsonify({
-			'ok': False,
-			'error': "Please include 'ocd_id' and 'address' args."
+			'ok': True,
+			'elections': available
 		})
 
 	election_id = google_civic_info_api.get_election_id(ocd_id)

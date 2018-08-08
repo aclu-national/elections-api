@@ -8,6 +8,7 @@ import county as county_api
 import state_leg as state_leg_api
 import elections as elections_api
 import google_civic_info as google_civic_info_api
+import mapbox as mapbox_api
 from copy import deepcopy
 from ics import Calendar, Event
 
@@ -450,6 +451,27 @@ def google_civic_info():
 		})
 
 	rsp = google_civic_info_api.get_voter_info(election_id, address)
+
+	if 'pollingLocations' in rsp:
+		for location in rsp['pollingLocations']:
+			if location['address']['line1'] == "":
+				continue
+			address = '%s, %s, %s %s' % (
+				location['address']['line1'],
+				location['address']['city'],
+				location['address']['state'],
+				location['address']['zip']
+			)
+
+			geocoded = mapbox_api.geocode(address)
+
+			if 'features' in geocoded and len(geocoded['features']) > 0:
+				location['geocoded'] = {
+					'lat': geocoded['features'][0]['center'][1],
+					'lng': geocoded['features'][0]['center'][0],
+					'raw': geocoded
+				}
+
 	return flask.jsonify({
 		'ok': True,
 		'google_civic_info': rsp

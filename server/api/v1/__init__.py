@@ -430,7 +430,6 @@ def google_civic_info():
 	if not ocd_id or not address:
 		elections = google_civic_info_api.get_elections()
 		available = []
-		print(elections)
 		for election in elections:
 			if election['id'] != "2000": # test election
 				available.append({
@@ -492,7 +491,6 @@ def calendar():
 		})
 
 	ocd_ids = ['ocd-division/country:us/state:%s' % state]
-	print(ocd_ids)
 	rsp = elections.get_elections_by_ocd_ids(ocd_ids)
 
 	if not 'calendar' in rsp:
@@ -504,7 +502,7 @@ def calendar():
 	if format == 'ics':
 
 		human_readable = {
-			'election_date': 'election',
+			'election_date': 'ELECTION DAY',
 			'vbm_start': 'vote by mail starts',
 			'vbm_end': 'vote by mail ends'
 		}
@@ -521,12 +519,22 @@ def calendar():
 				if name in human_readable:
 					name = human_readable[name]
 
-				type = election['type'].capitalize()
-				name = "%s %s" % (type, name)
+				type = election['type']
+				if type == 'primary':
+					name = "%s %s" % (type, name)
+				elif name == 'registration_deadline':
+					name = "Election registration deadline"
+
+				if name == 'ELECTION DAY' or name == 'primary ELECTION DAY':
+					name = name.upper()
+				else:
+					name = name.capitalize()
+
 				name = name.replace('_', ' ')
 
 				e.name = name
 				e.begin = date
+				e.make_all_day()
 				c.events.add(e)
 
 		rsp = flask.Response(c, mimetype='text/calendar')

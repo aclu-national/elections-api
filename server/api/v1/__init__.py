@@ -467,8 +467,7 @@ def google_civic_info():
 			if 'features' in geocoded and len(geocoded['features']) > 0:
 				location['geocoded'] = {
 					'lat': geocoded['features'][0]['center'][1],
-					'lng': geocoded['features'][0]['center'][0],
-					'raw': geocoded
+					'lng': geocoded['features'][0]['center'][0]
 				}
 
 	return flask.jsonify({

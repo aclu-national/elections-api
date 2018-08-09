@@ -502,9 +502,12 @@ def calendar():
 	if format == 'ics':
 
 		human_readable = {
-			'election_date': 'ELECTION DAY',
+			'registration_online_deadline': 'online registration deadline',
+			'election_date': 'election day',
 			'vbm_start': 'vote by mail starts',
-			'vbm_end': 'vote by mail ends'
+			'vbm_end': 'vote by mail ends',
+			'early_vote_start': 'early voting starts',
+			'early_vote_end': 'early voting ends'
 		}
 
 		state_name = us.states.lookup(state).name
@@ -520,15 +523,12 @@ def calendar():
 					name = human_readable[name]
 
 				type = election['type']
-				if type == 'primary':
-					name = "%s %s" % (type, name)
-				elif name == 'registration_deadline':
-					name = "Election registration deadline"
-
-				if name == 'ELECTION DAY' or name == 'primary ELECTION DAY':
+				if name == 'election day' or name == 'primary election day':
 					name = name.upper()
+				elif type == 'primary':
+					name = "Primary election: %s" % name
 				else:
-					name = name.capitalize()
+					name = "Election: %s" % name
 
 				name = name.replace('_', ' ')
 

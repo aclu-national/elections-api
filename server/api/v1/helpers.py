@@ -20,6 +20,13 @@ def get_aclu_ids(areas):
 			aclu_ids.append(id)
 	return '-'.join(aclu_ids)
 
+def get_remote_ip():
+	ip = flask.request.remote_addr
+	forwarded_for = flask.request.headers.get('X-Forwarded-For')
+	if forwarded_for:
+		ip = forwarded_for
+	return ip
+
 def get_targeted():
 
 	targeted = {

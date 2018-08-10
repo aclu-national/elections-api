@@ -555,7 +555,7 @@ def calendar():
 @api.route("/geoip")
 def geoip():
 
-	ip = flask.request.args.get('ip', flask.request.remote_addr)
+	ip = flask.request.args.get('ip', helpers.get_remote_ip())
 
 	# yeah, this is hardcoded and probably shouldn't be
 	root_dir = "/usr/local/aclu/elections-api"

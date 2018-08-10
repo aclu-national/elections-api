@@ -56,3 +56,9 @@ counties:
 state_leg:
 	mkdir -p state_leg
 	../scripts/source_state_leg.sh
+
+maxmind:
+	mkdir -p maxmind
+	curl -o maxmind/GeoLite2-City.tar.gz http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz
+	tar xf maxmind/GeoLite2-City.tar.gz -C maxmind
+	mv maxmind/GeoLite2-City_*/GeoLite2-City.mmdb maxmind/geolite2_city.mmdb

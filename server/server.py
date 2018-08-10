@@ -30,7 +30,12 @@ if __name__ == '__main__':
 
 	google_api_key = os.getenv('GOOGLE_API_KEY', None)
 	if not google_api_key:
-		print("Please define GOOGLE_API_KEY")
+		print("Please define GOOGLE_API_KEY environment var")
+		exit(1)
+
+	mapbox_api_key = os.getenv('MAPBOX_API_KEY', None)
+	if not mapbox_api_key:
+		print("Please define MAPBOX_API_KEY environment var")
 		exit(1)
 
 	app.run(host='0.0.0.0', port=port)

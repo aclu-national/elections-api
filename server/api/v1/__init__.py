@@ -11,6 +11,7 @@ import google_civic_info as google_civic_info_api
 import mapbox as mapbox_api
 from copy import deepcopy
 from ics import Calendar, Event
+import maxminddb
 
 api = flask.Blueprint('api', __name__)
 
@@ -96,6 +97,12 @@ def index():
 				'args': {
 					'state': 'The state to load (e.g., ny).',
 					'format': 'Response format (optional; json or ics).'
+				}
+			},
+			'/v1/geoip': {
+				'description': 'Get an approximate lat/lng location based on IPv4.',
+				'args': {
+					'ip': 'The IPv4 address to look up (e.g., 38.109.115.130)'
 				}
 			}
 		}
@@ -544,3 +551,34 @@ def calendar():
 			'ok': True,
 			'calendar': rsp['calendar']
 		})
+
+@api.route("/geoip")
+def geoip():
+
+	ip = flask.request.args.get('ip', None)
+
+	if not ip:
+		return flask.jsonify({
+			'ok': False,
+			'error': "Please include an 'ip' arg."
+		})
+
+	script = os.path.realpath(sys.argv[0])
+	server_dir = os.path.dirname(script)
+	root_dir = os.path.dirname(server_dir)
+
+	db_path = '%s/sources/maxmind/geolite2_city.mmdb' % root_dir
+	reader = maxminddb.open_database(db_path)
+
+	rsp = reader.get(ip)
+
+	if not rsp or not 'location' in rsp:
+		return flask.jsonify({
+			'ok': False,
+			'error': 'Could not locate that ip address.'
+		})
+
+	return flask.jsonify({
+		'ok': True,
+		'location': rsp['location']
+	})

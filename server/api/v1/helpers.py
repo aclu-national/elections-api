@@ -24,7 +24,7 @@ def get_remote_ip():
 	ip = flask.request.remote_addr
 	forwarded_for = flask.request.headers.get('X-Forwarded-For')
 	if forwarded_for:
-		ip = forwarded_for
+		ip = forwarded_for.split(',')[0]
 	return ip
 
 def get_targeted():

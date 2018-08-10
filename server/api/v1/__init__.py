@@ -566,14 +566,18 @@ def geoip():
 	rsp = reader.get(ip)
 
 	if not rsp or not 'location' in rsp:
-		return flask.jsonify({
+		rsp_json = json.dumps({
 			'ok': False,
 			'ip': ip,
 			'error': 'Could not locate that ip address.'
 		})
+	else:
+		rsp_json = json.dumps({
+			'ok': True,
+			'ip': ip,
+			'location': rsp['location']
+		})
 
-	return flask.jsonify({
-		'ok': True,
-		'ip': ip,
-		'location': rsp['location']
-	})
+	rsp = flask.make_response(rsp_json)
+	rsp.headers['Cache-Control'] = 'no-cache'
+	return rsp

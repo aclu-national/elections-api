@@ -102,7 +102,7 @@ def index():
 			'/v1/geoip': {
 				'description': 'Get an approximate lat/lng location based on IPv4.',
 				'args': {
-					'ip': 'The IPv4 address to look up (e.g., 38.109.115.130)'
+					'ip': 'The IPv4 address to look up (optional; e.g., 38.109.115.130)'
 				}
 			}
 		}
@@ -555,13 +555,7 @@ def calendar():
 @api.route("/geoip")
 def geoip():
 
-	ip = flask.request.args.get('ip', None)
-
-	if not ip:
-		return flask.jsonify({
-			'ok': False,
-			'error': "Please include an 'ip' arg."
-		})
+	ip = flask.request.args.get('ip', flask.request.remote_addr)
 
 	# yeah, this is hardcoded and probably shouldn't be
 	root_dir = "/usr/local/aclu/elections-api"
@@ -574,10 +568,12 @@ def geoip():
 	if not rsp or not 'location' in rsp:
 		return flask.jsonify({
 			'ok': False,
+			'ip': ip,
 			'error': 'Could not locate that ip address.'
 		})
 
 	return flask.jsonify({
 		'ok': True,
+		'ip': ip,
 		'location': rsp['location']
 	})

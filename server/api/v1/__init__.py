@@ -563,9 +563,8 @@ def geoip():
 			'error': "Please include an 'ip' arg."
 		})
 
-	script = os.path.realpath(sys.argv[0])
-	server_dir = os.path.dirname(script)
-	root_dir = os.path.dirname(server_dir)
+	# yeah, this is hardcoded and probably shouldn't be
+	root_dir = "/usr/local/aclu/elections-api"
 
 	db_path = '%s/sources/maxmind/geolite2_city.mmdb' % root_dir
 	reader = maxminddb.open_database(db_path)

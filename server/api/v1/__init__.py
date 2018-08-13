@@ -579,5 +579,6 @@ def geoip():
 		})
 
 	rsp = flask.make_response(rsp_json)
+	rsp.headers['Content-Type'] = 'application/json'
 	rsp.headers['Cache-Control'] = 'no-cache'
 	return rsp

@@ -39,6 +39,7 @@ def get_targeted():
 	cur.execute('''
 		SELECT ocd_id, office, summary, url, link_text, disclaimer
 		FROM election_targeted_races
+		WHERE expires >= CURRENT_DATE OR expires IS NULL
 	''')
 
 	rs = cur.fetchall()
@@ -60,6 +61,7 @@ def get_targeted():
 	cur.execute('''
 		SELECT ocd_id, name, position, blurb, url, link_text, disclaimer
 		FROM election_targeted_initiatives
+		WHERE expires >= CURRENT_DATE OR expires IS NULL
 	''')
 
 	rs = cur.fetchall()

@@ -20,7 +20,8 @@ CREATE TABLE election_targeted_races (
 	summary TEXT,
 	url VARCHAR(255),
 	link_text VARCHAR(255),
-	disclaimer VARCHAR(255)
+	disclaimer VARCHAR(255),
+	expires DATE
 )''')
 
 cur.execute("DROP TABLE IF EXISTS election_targeted_initiatives CASCADE")
@@ -32,7 +33,8 @@ CREATE TABLE election_targeted_initiatives (
 	blurb TEXT,
 	url VARCHAR(255),
 	link_text VARCHAR(255),
-	disclaimer VARCHAR(255)
+	disclaimer VARCHAR(255),
+	expires DATE
 )''')
 
 conn.commit()
@@ -44,8 +46,9 @@ race_insert_sql = '''
 		summary,
 		url,
 		link_text,
-		disclaimer
-	) VALUES (%s, %s, %s, %s, %s, %s)
+		disclaimer,
+		expires
+	) VALUES (%s, %s, %s, %s, %s, %s, %s)
 '''
 
 initiative_insert_sql = '''
@@ -56,8 +59,9 @@ initiative_insert_sql = '''
 		blurb,
 		url,
 		link_text,
-		disclaimer
-	) VALUES (%s, %s, %s, %s, %s, %s, %s)
+		disclaimer,
+		expires
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 fh = open('%s/sources/aclu/aclu_targeted.json' % root_dir, 'rb')
@@ -68,13 +72,15 @@ for item in data["races"]:
 	url = None if not 'url' in item else item['url']
 	link_text = None if not 'link_text' in item else item['link_text']
 	disclaimer = None if not 'disclaimer' in item else item['disclaimer']
+	expires = None if not 'expires' in item else item['expires']
 	values = (
 		item['ocd_id'],
 		item['office'],
 		item['summary'],
 		url,
 		link_text,
-		disclaimer
+		disclaimer,
+		expires
 	)
 	cur.execute(race_insert_sql, values)
 
@@ -83,6 +89,7 @@ for item in data["initiatives"]:
 	url = None if not 'url' in item else item['url']
 	link_text = None if not 'link_text' in item else item['link_text']
 	disclaimer = None if not 'disclaimer' in item else item['disclaimer']
+	expires = None if not 'expires' in item else item['expires']
 	values = (
 		item['ocd_id'],
 		item['name'],
@@ -90,7 +97,8 @@ for item in data["initiatives"]:
 		item['blurb'],
 		url,
 		link_text,
-		disclaimer
+		disclaimer,
+		expires
 	)
 	cur.execute(initiative_insert_sql, values)
 

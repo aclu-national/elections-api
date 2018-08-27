@@ -6,8 +6,11 @@
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1046", 
     "bioguide": "H001079", 
+    "google_entity_id": "kg:/m/03wc2px", 
     "govtrack": 412743, 
+    "icpsr": 41707, 
     "lis": "S395", 
+    "opensecrets": "N00043298", 
     "wikidata": "Q5120540", 
     "wikipedia": "Cindy Hyde-Smith"
   }, 
@@ -16,11 +19,16 @@
     "last": "Hyde-Smith", 
     "official_full": "Cindy Hyde-Smith"
   }, 
+  "social": {
+    "instagram": "sencindyhydesmith", 
+    "twitter": "SenHydeSmith", 
+    "youtube_id": "UCJHxkJhGST0NTlkzJHWV03Q"
+  }, 
   "terms": [
     {
       "address": "G12 Dirksen Senate Office Building Washington DC 20510", 
       "class": 2, 
-      "contact_form": "", 
+      "contact_form": "https://www.hydesmith.senate.gov/content/contact-senator", 
       "end": "2021-01-03", 
       "office": "G12 Dirksen Senate Office Building", 
       "party": "Republican", 
@@ -29,7 +37,7 @@
       "state": "MS", 
       "state_rank": "junior", 
       "type": "sen", 
-      "url": "https://www.senate.gov/senators/115thCongress/Hyde-Smith_Cindy.htm"
+      "url": "https://www.hydesmith.senate.gov"
     }
   ], 
   "url_slug": "ms-cindy-hyde-smith"

@@ -30,8 +30,8 @@ congress_districts_116_pa:
 
 congress_legislators:
 	mkdir -p congress_legislators
-	curl -o congress_legislators/congress_legislators-current.yaml https://raw.githubusercontent.com/unitedstates/congress-congress_legislators/master/congress_legislators-current.yaml
-	curl -o congress_legislators/congress_legislators-social-media.yaml https://raw.githubusercontent.com/unitedstates/congress-congress_legislators/master/congress_legislators-social-media.yaml
+	curl -o congress_legislators/legislators-current.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-current.yaml
+	curl -o congress_legislators/legislators-social-media.yaml https://raw.githubusercontent.com/unitedstates/congress-legislators/master/legislators-social-media.yaml
 
 congress_photos:
 	mkdir -p congress_photos

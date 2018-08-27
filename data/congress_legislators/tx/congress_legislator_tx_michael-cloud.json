@@ -1,0 +1,40 @@
+{
+  "bio": {
+    "birthday": "1975-05-13", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11512", 
+    "ballotpedia": "Michael Cloud (Texas)", 
+    "bioguide": "C001115", 
+    "cspan": 10322, 
+    "fec": [
+      "H8TX27049"
+    ], 
+    "govtrack": 412746, 
+    "opensecrets": "N00041882", 
+    "votesmart": 177350, 
+    "wikidata": "Q55313952", 
+    "wikipedia": "Michael Cloud"
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "Cloud", 
+    "official_full": "Michael Cloud"
+  }, 
+  "terms": [
+    {
+      "address": "2331 Rayburn House Office Building; Washington DC 20515-4327", 
+      "district": 27, 
+      "end": "2019-01-03", 
+      "office": "2331 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-7742", 
+      "start": "2018-07-10", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://cloud.house.gov/"
+    }
+  ], 
+  "url_slug": "tx-michael-cloud"
+}

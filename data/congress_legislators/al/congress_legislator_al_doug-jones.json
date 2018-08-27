@@ -13,6 +13,7 @@
     ], 
     "google_entity_id": "kg:/g/11dyzdzg1j", 
     "govtrack": 412741, 
+    "icpsr": 41705, 
     "lis": "S393", 
     "maplight": 2252, 
     "opensecrets": "N00024817", 
@@ -26,7 +27,9 @@
     "official_full": "Doug Jones"
   }, 
   "social": {
-    "twitter": "sendougjones"
+    "facebook": "senatordougjones", 
+    "twitter": "sendougjones", 
+    "youtube_id": "UCL8akobkoN2lB5U3kaEjdBw"
   }, 
   "terms": [
     {

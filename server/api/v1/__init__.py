@@ -102,16 +102,19 @@ def index():
 			'/v1/geoip': {
 				'description': 'Get an approximate lat/lng location based on IPv4.',
 				'args': {
-					'ip': 'The IPv4 address to look up (optional; e.g., 38.109.115.130)'
+					'ip': 'The IPv4 address to look up (optional; e.g., 38.109.115.130)',
+					'pip': 'Use the resulting location to do a point-in-polygon lookup. (optional; set to 1 to include state-level pip results)'
 				}
 			}
 		}
 	})
 
 @api.route("/pip")
-def pip():
+def pip(req=None):
 
-	req = helpers.get_spatial_request()
+	if not req:
+		req = helpers.get_spatial_request()
+
 	areas = []
 	calendar_url = None
 
@@ -158,6 +161,16 @@ def pip():
 		state_legs = []
 		if 'state_leg' in req:
 			state_legs = state_leg.get_state_legs_by_ids(req['state_leg'])
+
+	if 'include' in req:
+		if not 'congress' in req['include']:
+			congress = None
+		if not 'state' in req['include']:
+			state = None
+		if not 'county' in req['include']:
+			county = None
+		if not 'state_leg' in req['include']:
+			state_legs = []
 
 	if state:
 		areas.append(state)
@@ -574,11 +587,34 @@ def geoip():
 			'error': 'Could not locate that ip address.'
 		})
 	else:
-		rsp_json = json.dumps({
+
+		result = {
 			'ok': True,
 			'ip': ip,
 			'location': rsp['location']
-		})
+		}
+
+		pip_filter = flask.request.args.get('pip', None)
+		if pip_filter == '1' and 'latitude' in rsp['location'] and 'longitude' in rsp['location']:
+			pip_rsp = pip({
+				'lat': rsp['location']['latitude'],
+				'lng': rsp['location']['longitude'],
+				'include': ['congress', 'state']
+			})
+			result['pip'] = json.loads(pip_rsp.data)
+
+			if 'congress' in result['pip']:
+				legislators = []
+				for legislator in result['pip']['congress']['legislators']:
+					if legislator['term']['office'] == 'us_senator':
+						legislators.append(legislator)
+
+				result['pip']['congress']['legislators'] = legislators
+				result['pip']['congress']['district'] = None
+				result['pip']['congress']['next_district'] = None
+				result['pip']['id'] = re.search('\d+$', result['pip']['state']['aclu_id']).group(0)
+
+		rsp_json = json.dumps(result)
 
 	rsp = flask.make_response(rsp_json)
 	rsp.headers['Content-Type'] = 'application/json'

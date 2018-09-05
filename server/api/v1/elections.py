@@ -64,6 +64,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 	primary_index = None
 	general_index = None
+	primary_runoff_index = None
+	general_runoff_index = None
 
 	election_type_lookup = {}
 
@@ -93,6 +95,28 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 					})
 				elections['calendar'][general_index]['dates'][name] = date
 				election_type_lookup[date] = 'general'
+			elif name.startswith('primary_runoff_'):
+				name = name.replace('primary_runoff_', '')
+				type = 'primary_runoff'
+				if primary_runoff_index == None:
+					primary_runoff_index = len(elections['calendar'])
+					elections['calendar'].append({
+						'type': type,
+						'dates': {}
+					})
+				elections['calendar'][primary_runoff_index]['dates'][name] = date
+				election_type_lookup[date] = 'primary_runoff'
+			elif name.startswith('general_runoff_'):
+				name = name.replace('general_runoff_', '')
+				type = 'general_runoff'
+				if general_runoff_index == None:
+					general_runoff_index = len(elections['calendar'])
+					elections['calendar'].append({
+						'type': type,
+						'dates': {}
+					})
+				elections['calendar'][general_runoff_index]['dates'][name] = date
+				election_type_lookup[date] = 'general_runoff'
 
 	election_dates = [
 		'primary_date',
@@ -200,7 +224,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 					date = helpers.format_date(election_date_lookup[name])
 
-					if name == 'primary_date' or name == 'general_date':
+					if name in election_date_lookup:
 						name = name.replace('_date', '_election_date')
 
 						if not date in ballot_lookup:
@@ -222,9 +246,19 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 							else:
 								type = row[1]
 								if type == 'regular':
-									type = 'primary' if name == 'primary_election_date' else 'general'
+									if name == 'primary_election_date':
+										type = 'primary'
+									elif name == 'general_election_date':
+										type = 'general'
+									elif name == 'primary_runoff_election_date':
+										type = 'primary_runoff'
+									elif name == 'general_runoff_election_date':
+										type = 'general_runoff'
 								elif type == 'special':
-									type = 'special_primary' if name == 'primary_election_date' else 'special_general'
+									if name == 'primary_election_date':
+										type = 'special_primary'
+									else:
+										type = 'special_general'
 
 							elections['ballots'][ballot]['type'] = type
 
@@ -260,14 +294,24 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 						else:
 							print("Warning: could not add %s to %s office %d" % (row[0], office_level, office_index))
 
-					if name.startswith('primary_'):
-						name = name.replace('primary_', '')
-						if not name in elections['calendar'][primary_index]['dates']:
-							elections['calendar'][primary_index]['dates'][name] = date
-					elif name.startswith('general_'):
-						name = name.replace('general_', '')
-						if not name in elections['calendar'][general_index]['dates']:
-							elections['calendar'][general_index]['dates'][name] = date
+				if name.startswith('primary_runoff_'):
+					name = name.replace('primary_runoff_', '')
+					if primary_runoff_index and primary_runoff_index in elections['calendar']:
+						if not name in elections['calendar'][primary_runoff_index]['dates']:
+							elections['calendar'][primary_runoff_index]['dates'][name] = date
+				elif name.startswith('general_runoff_'):
+					name = name.replace('general_runoff_', '')
+					if general_runoff_index and general_runoff_index in elections['calendar']:
+						if not name in elections['calendar'][general_runoff_index]['dates']:
+							elections['calendar'][general_runoff_index]['dates'][name] = date
+				elif name.startswith('primary_'):
+					name = name.replace('primary_', '')
+					if not name in elections['calendar'][primary_index]['dates']:
+						elections['calendar'][primary_index]['dates'][name] = date
+				elif name.startswith('general_'):
+					name = name.replace('general_', '')
+					if not name in elections['calendar'][general_index]['dates']:
+						elections['calendar'][general_index]['dates'][name] = date
 
 	def filter_offices(office):
 		return len(office['races']) > 0

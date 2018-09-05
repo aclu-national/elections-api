@@ -118,11 +118,15 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 				elections['calendar'][general_runoff_index]['dates'][name] = date
 				election_type_lookup[date] = 'general_runoff'
 
+
+	# Runoff elections are not ready yet, so we will skip those for now.
+	# (20180905/dphiffer)
+
 	election_dates = [
 		'primary_date',
-		'general_date',
-		'primary_runoff_date',
-		'general_runoff_date'
+		'general_date'
+		#'primary_runoff_date',
+		#'general_runoff_date'
 	]
 
 	ocd_id_list = ', '.join(['%s'] * len(ocd_ids))

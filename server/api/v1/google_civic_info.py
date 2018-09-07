@@ -60,7 +60,7 @@ def get_elections():
 
 	global api_key
 
-	ttl = 60 * 60 * 24
+	ttl = 60 * 60
 	cached = cache_get('elections', ttl)
 
 	if cached:

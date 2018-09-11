@@ -164,6 +164,8 @@ def pip(req=None):
 
 	if 'include' in req:
 		if not 'congress' in req['include']:
+			if 'state' in req['include']:
+				state_only_congress = deepcopy(congress)
 			congress = None
 		if not 'state' in req['include']:
 			state = None
@@ -204,6 +206,16 @@ def pip(req=None):
 
 	elections = elections_api.get_elections_by_ocd_ids(ocd_ids)
 	available = google_civic_info_api.get_available_elections(ocd_ids)
+
+	if state_only_congress:
+		legislators = []
+		congress = state_only_congress
+		for legislator in congress['legislators']:
+			if legislator['term']['office'] == 'us_senator':
+				legislators.append(legislator)
+		congress['legislators'] = legislators
+		congress['district'] = None
+		congress['next_district'] = None
 
 	rsp = {
 		'ok': True,
@@ -599,20 +611,9 @@ def geoip():
 			pip_rsp = pip({
 				'lat': rsp['location']['latitude'],
 				'lng': rsp['location']['longitude'],
-				'include': ['congress', 'state']
+				'include': ['state']
 			})
 			result['pip'] = json.loads(pip_rsp.data)
-
-			if 'congress' in result['pip']:
-				legislators = []
-				for legislator in result['pip']['congress']['legislators']:
-					if legislator['term']['office'] == 'us_senator':
-						legislators.append(legislator)
-
-				result['pip']['congress']['legislators'] = legislators
-				result['pip']['congress']['district'] = None
-				result['pip']['congress']['next_district'] = None
-				result['pip']['id'] = re.search('\d+$', result['pip']['state']['aclu_id']).group(0)
 
 		rsp_json = json.dumps(result)
 

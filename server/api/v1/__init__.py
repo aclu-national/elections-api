@@ -9,9 +9,9 @@ import state_leg as state_leg_api
 import elections as elections_api
 import google_civic_info as google_civic_info_api
 import mapbox as mapbox_api
+import geoip as geoip_api
 from copy import deepcopy
 from ics import Calendar, Event
-import maxminddb
 
 api = flask.Blueprint('api', __name__)
 
@@ -583,39 +583,28 @@ def calendar():
 def geoip():
 
 	ip = flask.request.args.get('ip', helpers.get_remote_ip())
+	rsp = geoip_api.get_coords(ip)
 
-	# yeah, this is hardcoded and probably shouldn't be
-	root_dir = "/usr/local/aclu/elections-api"
-
-	db_path = '%s/sources/maxmind/geolite2_city.mmdb' % root_dir
-	reader = maxminddb.open_database(db_path)
-
-	rsp = reader.get(ip)
-
-	if not rsp or not 'location' in rsp:
+	if not rsp or not 'ok' in rsp:
 		rsp_json = json.dumps({
 			'ok': False,
 			'ip': ip,
 			'error': 'Could not locate that ip address.'
 		})
+	elif not rsp['ok']:
+		rsp_json = json.dumps(rsp)
 	else:
 
-		result = {
-			'ok': True,
-			'ip': ip,
-			'location': rsp['location']
-		}
-
 		pip_filter = flask.request.args.get('pip', None)
-		if pip_filter == '1' and 'latitude' in rsp['location'] and 'longitude' in rsp['location']:
+		if pip_filter == '1' and 'lat' in rsp and 'lng' in rsp:
 			pip_rsp = pip({
-				'lat': rsp['location']['latitude'],
-				'lng': rsp['location']['longitude'],
+				'lat': rsp['lat'],
+				'lng': rsp['lng'],
 				'include': ['state']
 			})
-			result['pip'] = json.loads(pip_rsp.data)
+			rsp['pip'] = json.loads(pip_rsp.data)
 
-		rsp_json = json.dumps(result)
+		rsp_json = json.dumps(rsp)
 
 	rsp = flask.make_response(rsp_json)
 	rsp.headers['Content-Type'] = 'application/json'

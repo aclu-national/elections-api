@@ -596,13 +596,16 @@ def geoip():
 	else:
 
 		pip_filter = flask.request.args.get('pip', None)
-		if pip_filter == '1' and 'lat' in rsp and 'lng' in rsp:
-			pip_rsp = pip({
-				'lat': rsp['lat'],
-				'lng': rsp['lng'],
-				'include': ['state']
-			})
-			rsp['pip'] = json.loads(pip_rsp.data)
+		if pip_filter == '1':
+			try:
+				pip_rsp = pip({
+					'lat': rsp['location']['latitude'],
+					'lng': rsp['location']['longitude'],
+					'include': ['state']
+				})
+				rsp['pip'] = json.loads(pip_rsp.data)
+			except:
+				print("error doing pip on geoip")
 
 		rsp_json = json.dumps(rsp)
 

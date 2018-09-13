@@ -15,7 +15,6 @@ def get_coords(ip):
 def get_ipstack_coords(ip):
 
 	global api_key
-	print(api_key)
 
 	try:
 		base_url = "http://api.ipstack.com"
@@ -25,9 +24,12 @@ def get_ipstack_coords(ip):
 		return {
 			'ok': True,
 			'source': 'ipstack',
+			'ipstack_details': rsp,
 			'ip': ip,
-			'lat': rsp['latitude'],
-			'lng': rsp['longitude']
+			'location': {
+				'latitude': rsp['latitude'],
+				'longitude': rsp['longitude']
+			}
 		}
 	except:
 		return {
@@ -46,9 +48,12 @@ def get_maxmind_coords(ip):
 		return {
 			'ok': True,
 			'source': 'maxmind',
+			'maxmind_details': rsp,
 			'ip': ip,
-			'lat': rsp['location']['latitude'],
-			'lng': rsp['location']['longitude']
+			'location': {
+				'latitude': rsp['location']['latitude'],
+				'longitude': rsp['location']['longitude']
+			}
 		}
 	except:
 		return {

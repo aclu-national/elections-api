@@ -117,6 +117,7 @@ def pip(req=None):
 
 	areas = []
 	calendar_url = None
+	state_only_congress = None
 
 	if type(req) == str:
 		return flask.jsonify({

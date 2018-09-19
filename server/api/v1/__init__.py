@@ -209,12 +209,8 @@ def pip(req=None):
 	available = google_civic_info_api.get_available_elections(ocd_ids)
 
 	if state_only_congress:
-		legislators = []
 		congress = state_only_congress
-		for legislator in congress['legislators']:
-			if legislator['term']['office'] == 'us_senator':
-				legislators.append(legislator)
-		congress['legislators'] = legislators
+		congress['legislators'] = congress_api.get_legislators_by_state(state['state'])
 		congress['district'] = None
 		congress['next_district'] = None
 

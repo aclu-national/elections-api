@@ -172,7 +172,6 @@ def get_legislators_by_state(state, session_num=115):
 		FROM congress_legislator_terms
 		WHERE end_date >= CURRENT_DATE
 		  AND state = %s
-		  AND type = 'sen'
 		ORDER BY end_date DESC
 	''', (state,))
 

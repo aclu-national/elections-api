@@ -29,7 +29,6 @@ def index():
 					'lat': 'Latitude',
 					'lng': 'Longitude',
 					'id': 'Hyphen-separated list of numeric IDs (alternative to lat/lng)',
-					'scores': 'Congress legislator score filter (optional; scores=all)',
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
@@ -46,7 +45,6 @@ def index():
 				'args': {
 					'lat': 'Latitude',
 					'lng': 'Longitude',
-					'scores': 'Congress legislator score filter (optional; scores=all)',
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
@@ -66,7 +64,8 @@ def index():
 				'description': 'Index of all congressional legislators.',
 				'args': {
 					'id': 'Numeric part of aclu_id (optional; returns a single match).',
-					'url_slug': 'State and name URL slug (optional; returns a single match).'
+					'url_slug': 'State and name URL slug (optional; returns a single match).',
+					'include': 'Fields to include (optional; include=name)'
 				}
 			},
 			'/v1/county': {
@@ -387,13 +386,14 @@ def congress_legislators():
 
 	id = flask.request.args.get('id', None)
 	url_slug = flask.request.args.get('url_slug', None)
+	include = flask.request.args.get('include', None)
 
 	if id:
-		legislators = congress_api.get_legislators_by_id(id)
+		legislators = congress_api.get_legislators_by_id(id, include)
 	elif url_slug:
-		legislators = congress_api.get_legislators_by_url_slug(url_slug)
+		legislators = congress_api.get_legislators_by_url_slug(url_slug, include)
 	else:
-		legislators = congress_api.get_all_legislators()
+		legislators = congress_api.get_all_legislators(include)
 
 	return flask.jsonify({
 		'ok': True,

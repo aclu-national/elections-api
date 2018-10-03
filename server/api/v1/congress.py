@@ -149,7 +149,7 @@ def get_district_by_id(aclu_id):
 	cur.close()
 	return district
 
-def get_all_legislators(session_num=115):
+def get_all_legislators(include=None):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -159,7 +159,7 @@ def get_all_legislators(session_num=115):
 		ORDER BY end_date DESC
 	''')
 
-	return get_legislators(cur)
+	return get_legislators(cur, "total", include)
 
 def get_legislators_by_state(state, session_num=115):
 
@@ -194,7 +194,7 @@ def get_legislators_by_district(state, district_num):
 
 	return get_legislators(cur)
 
-def get_legislators_by_url_slug(url_slug):
+def get_legislators_by_url_slug(url_slug, include):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -207,9 +207,9 @@ def get_legislators_by_url_slug(url_slug):
 		ORDER BY t.end_date DESC
 	''', (url_slug,))
 
-	return get_legislators(cur, 'all')
+	return get_legislators(cur, "all", include)
 
-def get_legislators_by_id(id):
+def get_legislators_by_id(id, include):
 
 	id = int(id)
 
@@ -224,9 +224,9 @@ def get_legislators_by_id(id):
 		ORDER BY t.end_date DESC
 	'''.format(id=id))
 
-	return get_legislators(cur, 'all')
+	return get_legislators(cur, 'all', include)
 
-def get_legislators(cur, score_filter="total"):
+def get_legislators(cur, score_filter="total", include=None):
 
 	legislators = {}
 	aclu_ids = []
@@ -277,6 +277,16 @@ def get_legislators(cur, score_filter="total"):
 				'birthday': arrow.get(row[5]).format('YYYY-MM-DD'),
 				'gender': row[6]
 			}
+
+	if include == "name":
+		legislator_list = []
+		for aclu_id in legislators:
+			legislator_list.append({
+				'aclu_id': aclu_id,
+				'name': legislators[aclu_id]['name']
+			})
+		cur.close()
+		return legislator_list
 
 	cur.execute('''
 		SELECT aclu_id, display_name, running_in_2018

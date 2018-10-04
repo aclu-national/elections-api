@@ -102,7 +102,8 @@ def index():
 				'description': 'Get an approximate lat/lng location based on IPv4.',
 				'args': {
 					'ip': 'The IPv4 address to look up (optional; e.g., 38.109.115.130)',
-					'pip': 'Use the resulting location to do a point-in-polygon lookup. (optional; set to 1 to include state-level pip results)'
+					'pip': 'Use the resulting location to do a point-in-polygon lookup. (optional; set to 1 to include state-level pip results)',
+					'legislators': 'Use the resulting location to do a point-in-polygon congress_legislators lookup. (optional; set to 1 to include)'
 				}
 			}
 		}
@@ -593,14 +594,20 @@ def geoip():
 	else:
 
 		pip_filter = flask.request.args.get('pip', None)
-		if pip_filter == '1':
+		legislator_filter = flask.request.args.get('legislators', None)
+
+		if pip_filter == '1' or legislator_filter == '1':
 			try:
 				pip_rsp = pip({
 					'lat': rsp['location']['latitude'],
 					'lng': rsp['location']['longitude'],
 					'include': ['state']
 				})
-				rsp['pip'] = json.loads(pip_rsp.data)
+				if pip_filter == '1':
+					rsp['pip'] = json.loads(pip_rsp.data)
+				if legislator_filter == '1':
+					pip_data = json.loads(pip_rsp.data)
+					rsp['congress_legislators'] = pip_data['congress']['legislators']
 			except:
 				print("error doing pip on geoip")
 

@@ -77,15 +77,27 @@ def get_available_elections(ocd_ids):
 	elections = get_elections()
 	available = []
 	for el in elections:
+
+		election_id = el["id"]
 		ocd_id = el['ocdDivisionId']
+
+		# VIP Test Election
+		if election_id == "2000":
+			continue
+
+		if ocd_id in available:
+			continue
+
 		if ocd_id in ocd_ids:
+			available.append(ocd_id)
+		elif election_id == "6000" and election_available(6000, ocd_ids):
 			available.append(ocd_id)
 	return available
 
 def get_election_id(ocd_id):
 	elections = get_elections()
 	for el in elections:
-		if ocd_id == el['ocdDivisionId']:
+		if ocd_id.startswith(el['ocdDivisionId']):
 			return el['id']
 	return None
 
@@ -103,3 +115,7 @@ def get_voter_info(election_id, address):
 
 	rsp = requests.get(url)
 	return rsp.json()
+
+def election_available(election_id, ocd_ids):
+	# TODO: respond according to https://docs.google.com/spreadsheets/d/11XD-WNjtNo3QMrGhDsiZH9qZ4N8RYmfpszJOZ_qH1g8/edit#gid=0
+	return True

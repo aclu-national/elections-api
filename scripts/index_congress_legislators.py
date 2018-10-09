@@ -19,6 +19,7 @@ cur.execute('''
 		first_name VARCHAR(255),
 		last_name VARCHAR(255),
 		full_name VARCHAR(255),
+		nickname VARCHAR(255),
 		birthday DATE,
 		gender VARCHAR(255)
 	)
@@ -86,8 +87,9 @@ legislator_insert_sql = '''
 		url_slug,
 		first_name,
 		last_name,
-		full_name
-	) VALUES (%s, %s, %s, %s, %s)
+		full_name,
+		nickname
+	) VALUES (%s, %s, %s, %s, %s, %s)
 '''
 
 concordances_insert_sql = '''
@@ -161,6 +163,11 @@ for filename in files:
 			legislator["name"]["last"]
 		)
 		values.append(full_name)
+
+	if "nickname" in legislator["name"]:
+		values.append(legislator["name"]["nickname"])
+	else:
+		values.append(None)
 
 	values = tuple(values)
 	cur.execute(legislator_insert_sql, values)

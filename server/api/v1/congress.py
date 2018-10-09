@@ -258,7 +258,7 @@ def get_legislators(cur, score_filter="total", include=None):
 	aclu_id_values = tuple(aclu_ids)
 
 	cur.execute('''
-		SELECT aclu_id, url_slug, first_name, last_name, full_name, birthday, gender
+		SELECT aclu_id, url_slug, first_name, last_name, full_name, nickname, birthday, gender
 		FROM congress_legislators
 		WHERE aclu_id IN ({aclu_ids})
 	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
@@ -271,19 +271,21 @@ def get_legislators(cur, score_filter="total", include=None):
 			legislators[aclu_id]['name'] = {
 				'first_name': row[2],
 				'last_name': row[3],
-				'full_name': row[4]
+				'full_name': row[4],
+				'nickname': row[5]
 			}
+			legislators[aclu_id]['name']['full_name'] = normalize_full_name(legislators[aclu_id]['name'])
 			legislators[aclu_id]['bio'] = {
-				'birthday': arrow.get(row[5]).format('YYYY-MM-DD'),
-				'gender': row[6]
+				'birthday': arrow.get(row[6]).format('YYYY-MM-DD'),
+				'gender': row[7]
 			}
 
 	if include == "name":
 		legislator_list = []
 		for aclu_id in legislators:
 			legislator_list.append({
-				'aclu_id': aclu_id,
-				'name': legislators[aclu_id]['name']
+				'name': legislators[aclu_id]['name']['full_name'],
+				'url_slug': legislators[aclu_id]['url_slug']
 			})
 		cur.close()
 		return legislator_list
@@ -492,3 +494,10 @@ def get_congress_by_id(aclu_id):
 		}
 
 	return rsp
+
+def normalize_full_name(name):
+	if name["nickname"] and name["nickname"] not in name["full_name"]:
+		nicknamed = "%s \"%s\"" % (name["first_name"], name["nickname"])
+		normalized = name["full_name"].replace(name["first_name"], nicknamed)
+		name["full_name"] = normalized
+	return name["full_name"]

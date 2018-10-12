@@ -107,6 +107,7 @@
     {
       "class": 1, 
       "end": "2007-01-03", 
+      "how": "appointment", 
       "party": "Democrat", 
       "start": "2006-01-18", 
       "state": "NJ", 

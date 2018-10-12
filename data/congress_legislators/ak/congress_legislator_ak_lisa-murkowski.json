@@ -48,6 +48,7 @@
     {
       "class": 3, 
       "end": "2005-01-03", 
+      "how": "appointment", 
       "party": "Republican", 
       "start": "2003-01-07", 
       "state": "AK", 

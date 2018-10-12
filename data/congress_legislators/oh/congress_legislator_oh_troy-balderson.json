@@ -1,0 +1,38 @@
+{
+  "bio": {
+    "birthday": "1962-01-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11514", 
+    "ballotpedia": "Troy Balderson", 
+    "bioguide": "B001306", 
+    "fec": [
+      "H8OH12180"
+    ], 
+    "govtrack": 412747, 
+    "opensecrets": "N00042194", 
+    "wikidata": "Q16194422", 
+    "wikipedia": "Troy Balderson"
+  }, 
+  "name": {
+    "first": "Troy", 
+    "last": "Balderson", 
+    "official_full": "Troy Balderson"
+  }, 
+  "terms": [
+    {
+      "address": "1203 Longworth House Office Building; Washington DC 20515-3512", 
+      "district": 12, 
+      "end": "2019-01-03", 
+      "office": "1203 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5355", 
+      "start": "2018-09-05", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://balderson.house.gov/"
+    }
+  ], 
+  "url_slug": "oh-troy-balderson"
+}

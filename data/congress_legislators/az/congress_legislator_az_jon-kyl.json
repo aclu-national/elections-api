@@ -1,0 +1,112 @@
+{
+  "bio": {
+    "birthday": "1942-04-25", 
+    "gender": "M", 
+    "religion": "Presbyterian"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11513", 
+    "bioguide": "K000352", 
+    "fec": [
+      "S4AZ00030"
+    ], 
+    "google_entity_id": "kg:/m/01y0mp", 
+    "govtrack": 300062, 
+    "house_history": 16529, 
+    "icpsr": 15429, 
+    "lis": "S243", 
+    "opensecrets": "N00006406", 
+    "thomas": "00655", 
+    "votesmart": 26721, 
+    "wikidata": "Q371031", 
+    "wikipedia": "Jon Kyl"
+  }, 
+  "name": {
+    "first": "Jon", 
+    "last": "Kyl", 
+    "official_full": "Jon Kyl"
+  }, 
+  "terms": [
+    {
+      "district": 4, 
+      "end": "1989-01-03", 
+      "party": "Republican", 
+      "start": "1987-01-06", 
+      "state": "AZ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "1991-01-03", 
+      "party": "Republican", 
+      "start": "1989-01-03", 
+      "state": "AZ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "1993-01-03", 
+      "party": "Republican", 
+      "start": "1991-01-03", 
+      "state": "AZ", 
+      "type": "rep"
+    }, 
+    {
+      "district": 4, 
+      "end": "1995-01-03", 
+      "party": "Republican", 
+      "start": "1993-01-05", 
+      "state": "AZ", 
+      "type": "rep"
+    }, 
+    {
+      "class": 1, 
+      "end": "2001-01-03", 
+      "party": "Republican", 
+      "start": "1995-01-04", 
+      "state": "AZ", 
+      "type": "sen"
+    }, 
+    {
+      "class": 1, 
+      "end": "2007-01-03", 
+      "party": "Republican", 
+      "start": "2001-01-03", 
+      "state": "AZ", 
+      "type": "sen", 
+      "url": "http://kyl.senate.gov/"
+    }, 
+    {
+      "address": "730 HART SENATE OFFICE BUILDING WASHINGTON DC 20510", 
+      "class": 1, 
+      "contact_form": "http://www.kyl.senate.gov/contact.cfm", 
+      "end": "2013-01-03", 
+      "fax": "202-224-2207", 
+      "office": "730 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4521", 
+      "start": "2007-01-04", 
+      "state": "AZ", 
+      "type": "sen", 
+      "url": "http://kyl.senate.gov/"
+    }, 
+    {
+      "address": "G12 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "", 
+      "end": "2020-11-03", 
+      "end-type": "special-election", 
+      "fax": "202-228-2862", 
+      "how": "appointment", 
+      "office": "G12 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2235", 
+      "start": "2018-09-05", 
+      "state": "AZ", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.senate.gov/senators/115thCongress/Kyl_Jon.htm"
+    }
+  ], 
+  "url_slug": "az-jon-kyl"
+}

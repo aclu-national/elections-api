@@ -1,4 +1,4 @@
-import flask, json, os, re, sys, arrow
+import flask, json, os, re, sys, arrow, us
 
 def get_sessions():
 
@@ -78,6 +78,7 @@ def get_district_by_coords(lat, lng, session=None):
 				'start_date': sessions[start_session]['start_date'],
 				'end_date': sessions[end_session]['end_date'],
 				'state': state,
+				'state_full': us.states.lookup(state).name,
 				'district_num': district_num,
 				'area': area,
 				'at_large': at_large,
@@ -137,6 +138,7 @@ def get_district_by_id(aclu_id):
 				'start_date': sessions[start_session]['start_date'],
 				'end_date': sessions[end_session]['end_date'],
 				'state': state,
+				'state_full': us.states.lookup(state).name,
 				'district_num': district_num,
 				'area': area,
 				'at_large': at_large,
@@ -243,6 +245,7 @@ def get_legislators(cur, score_filter="total", include=None):
 					'end_date': arrow.get(row[3]).format('YYYY-MM-DD'),
 					'office': office,
 					'state': row[5],
+					'state_full': us.states.lookup(row[5]).name,
 					'party': row[7]
 				}
 			}

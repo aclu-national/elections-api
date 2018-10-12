@@ -39,6 +39,7 @@ cur.execute('''
 		bill VARCHAR(255),
 		amendment VARCHAR(255),
 		title VARCHAR(512),
+		bill_summary VARCHAR(512),
 		description TEXT,
 		committee VARCHAR(255),
 		link VARCHAR(255)
@@ -65,10 +66,11 @@ legislator_score_index_insert_sql = '''
 		bill,
 		amendment,
 		title,
+		bill_summary,
 		description,
 		committee,
 		link
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 reps = {}
@@ -162,7 +164,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 					elif aclu_position[col_num] == 'ACLU Supported':
 						position = 'supported'
 					else:
-						print('WARNING: unknown position for column num %s' % col_num)
+						print('WARNING: unknown position for column num %s: %s' % (col_num, aclu_position[col_num]))
 						position = 'unknown'
 
 					score_num = headers[col_num]
@@ -304,14 +306,22 @@ for chamber in ['rep', 'sen']:
 			else:
 				roll_call = None
 
-			vote_date = arrow.get(row[2], 'M/D/YYYY').format('YYYY-MM-DD')
+			if re.match('\d*/\d*/\d{4}', row[2]):
+				vote_date = arrow.get(row[2], 'M/D/YYYY').format('YYYY-MM-DD')
+			elif re.match('\d*/\d*/\d{2}', row[2]):
+				vote_date = arrow.get(row[2], 'M/D/YY').format('YYYY-MM-DD')
+			else:
+				print("WARNING: could not parse date")
+				continue
+
 			vote_type = row[3]
 			bill = row[4]
 			amendment = row[5]
 			title = row[6]
-			description = row[7]
-			committee = row[8]
-			link = row[9]
+			bill_summary = row[7]
+			description = row[8]
+			committee = row[9]
+			link = row[10]
 
 			print(aclu_id)
 
@@ -324,6 +334,7 @@ for chamber in ['rep', 'sen']:
 				bill,
 				amendment,
 				title,
+				bill_summary,
 				description,
 				committee,
 				link

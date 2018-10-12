@@ -97,7 +97,7 @@ def get_available_elections(ocd_ids):
 def get_election_id(ocd_id):
 	elections = get_elections()
 	for el in elections:
-		if ocd_id.startswith(el['ocdDivisionId']):
+		if ocd_id.startswith(el['ocdDivisionId']) and el['id'] != "2000":
 			return el['id']
 	return None
 

@@ -341,6 +341,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		SELECT name, party, office_name
 		FROM election_candidates
 		WHERE ocd_id IN ({ocd_ids})
+		  AND general_status = 'On the Ballot'
 	'''.format(ocd_ids=ocd_id_list), tuple(ocd_ids))
 
 	candidate_lookup = {}
@@ -356,6 +357,11 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 			})
 
 	for ballot in elections['ballots']:
+
+		# Only show candidates in the General Election (20181018/dphiffer)
+		if ballot['type'] != 'general':
+			continue
+
 		for office_level in ballot['offices']:
 			for office in ballot['offices'][office_level]:
 				for race in office['races']:

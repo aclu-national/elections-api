@@ -13,6 +13,7 @@ cur = conn.cursor()
 cur.execute("DROP TABLE IF EXISTS election_candidates CASCADE")
 cur.execute('''
 	CREATE TABLE election_candidates (
+		ocd_id VARCHAR(255),
 		state CHAR(2),
 		name VARCHAR(255),
 		first_name VARCHAR(255),
@@ -41,6 +42,7 @@ conn.commit()
 
 insert_sql = '''
 	INSERT INTO election_candidates (
+		ocd_id,
 		state,
 		name,
 		first_name,
@@ -63,7 +65,7 @@ insert_sql = '''
 		contact_website,
 		campaign_website_url,
 		campaign_facebook_url
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 def valid_date(date_str):
@@ -91,12 +93,6 @@ reader = csv.reader(csvfile)
 row_num = 0
 headers = []
 
-skipped = []
-guessed = {}
-
-empty_office_type = []
-guessed_office_type = {}
-
 def csv_row(row, headers):
 	col_num = 0
 	row_obj = {}
@@ -110,8 +106,10 @@ for row in reader:
 		headers = row
 	else:
 		row = csv_row(row, headers)
+		print("%s: %s" % (row['ocdid'], row['name']))
 
 		values = (
+			row['ocdid'].lower(),
 			row['state'].lower(),
 			row['name'],
 			row['first_name'],

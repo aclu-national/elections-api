@@ -3,6 +3,21 @@
 import psycopg2, os, re, sys, csv, us
 import postgres_db
 
+# We only import Federal candidates from states where we're approved to display
+# them. (20181018/dphiffer)
+state_filter = [
+	"fl",
+	"mi",
+	"ga",
+	"ks",
+	"wi",
+	"pa",
+	"ia",
+	"mn",
+	"oh",
+	"tn"
+]
+
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
@@ -106,7 +121,16 @@ for row in reader:
 		headers = row
 	else:
 		row = csv_row(row, headers)
-		print("%s: %s" % (row['ocdid'], row['name']))
+
+		# Only show Federal-level candidates from a list of approved states.
+		# (20181018/dphiffer)
+		if row['state'].lower() not in state_filter or row['office_level'] != 'Federal':
+			continue
+
+		# Note that special elections seem not to have OCD IDs associated with
+		# them. (20181018/dphiffer)
+
+		print("%s: %s (%s)" % (row['ocdid'], row['name'], row['office_name']))
 
 		values = (
 			row['ocdid'].lower(),

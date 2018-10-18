@@ -3,8 +3,8 @@
 import psycopg2, os, re, sys, csv, us
 import postgres_db
 
-# We only import Federal candidates from states where we're approved to display
-# them. (20181018/dphiffer)
+# We only import Federal candidates and State candidates from states where we're
+# approved to display them. (20181018/dphiffer)
 state_filter = [
 	"fl",
 	"mi",
@@ -122,43 +122,43 @@ for row in reader:
 	else:
 		row = csv_row(row, headers)
 
-		# Only show Federal-level candidates from a list of approved states.
-		# (20181018/dphiffer)
-		if row['state'].lower() not in state_filter or row['office_level'] != 'Federal':
-			continue
+		level = row['office_level'].lower()
+		state = row['state'].lower()
 
-		# Note that special elections seem not to have OCD IDs associated with
-		# them. (20181018/dphiffer)
+		# Only show Federal-level candidates and State candidates from a list of
+		# approved states. Note that special elections seem not to have OCD IDs
+		# associated with them. (20181018/dphiffer)
+		if level == 'federal' or (level == 'state' and state in state_filter):
 
-		print("%s: %s (%s)" % (row['ocdid'], row['name'], row['office_name']))
+			print("%s: %s (%s)" % (row['ocdid'], row['name'], row['office_name']))
 
-		values = (
-			row['ocdid'].lower(),
-			row['state'].lower(),
-			row['name'],
-			row['first_name'],
-			row['last_name'],
-			row['url'], # ballotpedia_url
-			int(row['candidates_id']),
-			int(row['person_id']),
-			row['party'],
-			int(row['race_id']),
-			row['office_name'],
-			row['office_level'],
-			row['district_type'],
-			valid_bool(row['is_incumbent?']), # is_incumbent
-			valid_date(row['primary']), # primary_date
-			row['primary_status'],
-			valid_date(row['primary_runoff']), # primary_runoff_date
-			row['primary_runoff_status'],
-			valid_date(row['general']), # general_date
-			row['general_status'],
-			row['contact_website'],
-			row['campaign_website_url'],
-			row['campaign_facebook_url']
-		)
+			values = (
+				row['ocdid'].lower(),
+				state,
+				row['name'],
+				row['first_name'],
+				row['last_name'],
+				row['url'], # ballotpedia_url
+				int(row['candidates_id']),
+				int(row['person_id']),
+				row['party'],
+				int(row['race_id']),
+				row['office_name'],
+				level,
+				row['district_type'],
+				valid_bool(row['is_incumbent?']), # is_incumbent
+				valid_date(row['primary']), # primary_date
+				row['primary_status'],
+				valid_date(row['primary_runoff']), # primary_runoff_date
+				row['primary_runoff_status'],
+				valid_date(row['general']), # general_date
+				row['general_status'],
+				row['contact_website'],
+				row['campaign_website_url'],
+				row['campaign_facebook_url']
+			)
 
-		cur.execute(insert_sql, values)
+			cur.execute(insert_sql, values)
 
 	row_num = row_num + 1
 conn.commit()

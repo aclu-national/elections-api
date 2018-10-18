@@ -337,4 +337,30 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 			for ballot in elections['ballots']:
 				ballot['initiatives'] = targeted['initiatives'][ocd_id]
 
+	cur.execute('''
+		SELECT name, party, office_name
+		FROM election_candidates
+		WHERE ocd_id IN ({ocd_ids})
+	'''.format(ocd_ids=ocd_id_list), tuple(ocd_ids))
+
+	candidate_lookup = {}
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			office_name = row[2]
+			if not office_name in candidate_lookup:
+				candidate_lookup[office_name] = []
+			candidate_lookup[office_name].append({
+				'name': row[0],
+				'party': row[1]
+			})
+
+	for ballot in elections['ballots']:
+		for office_level in ballot['offices']:
+			for office in ballot['offices'][office_level]:
+				for race in office['races']:
+					if race['name'] in candidate_lookup:
+						name = race['name']
+						race['candidates'] = candidate_lookup[name]
+
 	return elections

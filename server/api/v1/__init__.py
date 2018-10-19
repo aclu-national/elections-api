@@ -632,6 +632,12 @@ def geoip():
 @api.route("/apple_wallet")
 def apple_wallet():
 
+	if not os.getenv('ENABLE_FEATURE_APPLE_WALLET', False):
+		return flask.jsonify({
+			'ok': False,
+			'error': 'This feature is disabled.'
+		})
+
 	address = flask.request.args.get('address', None)
 	hours = flask.request.args.get('hours', None)
 	lat = flask.request.args.get('lat', None)

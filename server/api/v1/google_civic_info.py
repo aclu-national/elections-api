@@ -95,6 +95,10 @@ def get_available_elections(ocd_ids):
 	return available
 
 def get_election_id(ocd_id):
+
+	# just use the 2018 Midterms
+	return "6000"
+
 	elections = get_elections()
 	for el in elections:
 		if ocd_id.startswith(el['ocdDivisionId']) and el['id'] != "2000":

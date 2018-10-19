@@ -10,6 +10,7 @@ import elections as elections_api
 import google_civic_info as google_civic_info_api
 import mapbox as mapbox_api
 import geoip as geoip_api
+import apple_wallet as apple_wallet_api
 from copy import deepcopy
 from ics import Calendar, Event
 
@@ -104,6 +105,15 @@ def index():
 					'ip': 'The IPv4 address to look up (optional; e.g., 38.109.115.130)',
 					'pip': 'Use the resulting location to do a point-in-polygon lookup. (optional; set to 1 to include state-level pip results)',
 					'legislators': 'Use the resulting location to do a point-in-polygon congress_legislators lookup. (optional; set to 1 to include)'
+				}
+			},
+			'/v1/apple_wallet': {
+				'description': 'Get an Apple Wallet pkpass based on polling place info.',
+				'args': {
+					'address': 'The polling place address',
+					'hours': 'The polling place hours',
+					'lat': 'Latitude',
+					'lng': 'Longitude'
 				}
 			}
 		}
@@ -617,4 +627,25 @@ def geoip():
 	rsp = flask.make_response(rsp_json)
 	rsp.headers['Content-Type'] = 'application/json'
 	rsp.headers['Cache-Control'] = 'no-cache'
+	return rsp
+
+@api.route("/apple_wallet")
+def apple_wallet():
+
+	address = flask.request.args.get('address', None)
+	hours = flask.request.args.get('hours', None)
+	lat = flask.request.args.get('lat', None)
+	lng = flask.request.args.get('lng', None)
+
+	if not address or not hours or not lat or not lng:
+		return flask.jsonify({
+			'ok': False,
+			'error': "Please include 'address', 'hours', 'lat', 'lng' args."
+		})
+
+	path = apple_wallet_api.get_pass(address, hours, lat, lng)
+	file = open(path, 'r')
+
+	rsp = flask.Response(file, mimetype='application/vnd.apple.pkpass')
+	rsp.headers['Content-Disposition'] = 'inline; filename="aclu_voter.pkpass"'
 	return rsp

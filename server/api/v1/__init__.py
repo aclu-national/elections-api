@@ -483,36 +483,12 @@ def google_civic_info():
 			'elections': available
 		})
 
-	election_id = google_civic_info_api.get_election_id(ocd_id)
-
-	if not election_id:
+	rsp = google_civic_info_api.get_polling_places(ocd_id, address)
+	if not rsp:
 		return flask.jsonify({
 			'ok': False,
-			'error': "Sorry, no election found for ocd_id '%s'." % ocd_id
+			'error': 'Could not get polling places.'
 		})
-
-	rsp = google_civic_info_api.get_voter_info(election_id, address)
-
-	for key in ['pollingLocations', 'earlyVoteSites']:
-
-		if key in rsp:
-			for location in rsp[key]:
-				if location['address']['line1'] == "":
-					continue
-				address = '%s, %s, %s %s' % (
-					location['address']['line1'],
-					location['address']['city'],
-					location['address']['state'],
-					location['address']['zip']
-				)
-
-				geocoded = mapbox_api.geocode(address)
-
-				if 'features' in geocoded and len(geocoded['features']) > 0:
-					location['geocoded'] = {
-						'lat': geocoded['features'][0]['center'][1],
-						'lng': geocoded['features'][0]['center'][0]
-					}
 
 	return flask.jsonify({
 		'ok': True,

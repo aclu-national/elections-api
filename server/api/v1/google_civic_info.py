@@ -105,19 +105,75 @@ def get_election_id(ocd_id):
 			return el['id']
 	return None
 
+def get_polling_places(ocd_id, address):
+
+	election_id = google_civic_info_api.get_election_id(ocd_id)
+
+	if not election_id:
+		return None
+
+	rsp = google_civic_info_api.get_voter_info(election_id, address)
+
+	for key in ['pollingLocations', 'earlyVoteSites', 'dropOffLocations']:
+
+		if key in rsp:
+			for location in rsp[key]:
+				if location['address']['line1'] == "":
+					continue
+				address = '%s, %s, %s %s' % (
+					location['address']['line1'],
+					location['address']['city'],
+					location['address']['state'],
+					location['address']['zip']
+				)
+
+				cache_key = "polling_place:%s" % address
+				ttl = 60 * 60 * 24
+				cached = cache_get(cache_key, ttl)
+
+				if cached:
+					print("CACHE HIT civic info lookup")
+					rsp = json.loads(cached)
+				else:
+					print("CACHE MISS civic info lookup")
+					query = urllib.urlencode({
+						'key': api_key,
+						'electionId': election_id,
+						'address': address
+					})
+					url = "https://www.googleapis.com/civicinfo/v2/voterinfo?%s" % query
+					rsp = requests.get(url)
+				geocoded = mapbox_api.geocode(address)
+
+				if 'features' in geocoded and len(geocoded['features']) > 0:
+					location['geocoded'] = {
+						'lat': geocoded['features'][0]['center'][1],
+						'lng': geocoded['features'][0]['center'][0]
+					}
+
+
 def get_voter_info(election_id, address):
 
 	global api_key
 
-	query = urllib.urlencode({
-		'key': api_key,
-		'electionId': election_id,
-		'address': address
-	})
+	cache_key = "voter_info:%s:%s" % (election_id, address)
+	ttl = 60 * 60
+	cached = cache_get(cache_key, ttl)
 
-	url = "https://www.googleapis.com/civicinfo/v2/voterinfo?%s" % query
+	if cached:
+		print("CACHE HIT civic info lookup")
+		rsp = json.loads(cached)
+	else:
+		print("CACHE MISS civic info lookup")
+		query = urllib.urlencode({
+			'key': api_key,
+			'electionId': election_id,
+			'address': address
+		})
+		url = "https://www.googleapis.com/civicinfo/v2/voterinfo?%s" % query
+		rsp = requests.get(url)
+		cache_set(cache_key, rsp.text)
 
-	rsp = requests.get(url)
 	return rsp.json()
 
 def election_available(election_id, ocd_ids):

@@ -338,7 +338,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 				ballot['initiatives'] = targeted['initiatives'][ocd_id]
 
 	cur.execute('''
-		SELECT name, party, office_name
+		SELECT name, party, office_name, last_name, first_name, ballotpedia_url
 		FROM election_candidates
 		WHERE ocd_id IN ({ocd_ids})
 		  AND general_status = 'On the Ballot'
@@ -353,8 +353,24 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 				candidate_lookup[office_name] = []
 			candidate_lookup[office_name].append({
 				'name': row[0],
-				'party': row[1]
+				'party': row[1],
+				'last_name': row[3],
+				'first_name': row[4],
+				'ballotpedia_url': row[5]
 			})
+
+	def sort_candidates(a, b):
+		if a['party'] == b['party']:
+			if a['last_name'] == b['last_name']:
+				return 1 if a['first_name'] > b['first_name'] else -1
+			else:
+				return 1 if a['last_name'] > b['last_name'] else -1
+		elif a['party'] == 'Independent':
+			return 1
+		elif b['party'] == 'Independent':
+			return -1
+		else:
+			return 1 if a['party'] > b['party'] else -1
 
 	for ballot in elections['ballots']:
 
@@ -368,5 +384,9 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 					if race['name'] in candidate_lookup:
 						name = race['name']
 						race['candidates'] = candidate_lookup[name]
+						race['candidates'].sort(cmp=sort_candidates)
+						for candidate in race['candidates']:
+							del candidate['last_name']
+							del candidate['first_name']
 
 	return elections

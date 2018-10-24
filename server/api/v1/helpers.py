@@ -158,9 +158,10 @@ def get_spatial_request():
 	lat = flask.request.args.get('lat', None)
 	lng = flask.request.args.get('lng', None)
 	id = flask.request.args.get('id', None)
+	state = flask.request.args.get('state', None)
 
-	if (lat == None or lng == None) and id == None:
-		return "Please include either 'lat' and 'lng' args or an 'id' arg."
+	if (lat == None or lng == None) and id == None and state == None:
+		return "Please include either 'lat' and 'lng' args, or an 'id', or a 'state' arg."
 
 	if lat != None and lng != None:
 
@@ -174,6 +175,23 @@ def get_spatial_request():
 			'lat': lat,
 			'lng': lng
 		}
+
+	elif re.search('^[a-z][a-z]$', state):
+
+		path = "states/state_%s.geojson" % state
+
+		cur = flask.g.db.cursor()
+		cur.execute('''
+			SELECT aclu_id
+			FROM states
+			WHERE state = %s
+		''', (state,))
+
+		rsp = {}
+		row = cur.fetchone()
+		if row:
+			rsp['state'] = row[0]
+		return rsp
 
 	elif re.search('^(\d+)(-\d+)*$', id):
 

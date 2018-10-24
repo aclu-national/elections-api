@@ -30,7 +30,8 @@ def index():
 					'lat': 'Latitude',
 					'lng': 'Longitude',
 					'id': 'Hyphen-separated list of numeric IDs (alternative to lat/lng)',
-					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
+					'state': 'Instead of lat/lng or id, specify a state (e.g., state=ny)',
+					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)',
 				}
 			},
 			'/v1/state': {

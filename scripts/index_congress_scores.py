@@ -66,11 +66,10 @@ legislator_score_index_insert_sql = '''
 		bill,
 		amendment,
 		title,
-		bill_summary,
 		description,
 		committee,
 		link
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 reps = {}
@@ -318,10 +317,10 @@ for chamber in ['rep', 'sen']:
 			bill = row[4]
 			amendment = row[5]
 			title = row[6]
-			bill_summary = row[7]
-			description = row[8]
-			committee = row[9]
-			link = row[10]
+			#bill_summary = row[7]
+			description = row[7]
+			committee = row[8]
+			link = row[9]
 
 			print(aclu_id)
 
@@ -334,7 +333,7 @@ for chamber in ['rep', 'sen']:
 				bill,
 				amendment,
 				title,
-				bill_summary,
+				#bill_summary,
 				description,
 				committee,
 				link

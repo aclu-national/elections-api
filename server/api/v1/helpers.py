@@ -176,7 +176,7 @@ def get_spatial_request():
 			'lng': lng
 		}
 
-	elif re.search('^[a-z][a-z]$', state):
+	elif state and re.search('^[a-z][a-z]$', state):
 
 		path = "states/state_%s.geojson" % state
 

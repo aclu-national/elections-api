@@ -343,6 +343,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		WHERE ocd_id IN ({ocd_ids})
 		  AND general_status = 'On the Ballot'
 	'''.format(ocd_ids=ocd_id_list), tuple(ocd_ids))
+	print(ocd_ids)
 
 	candidate_lookup = {}
 	rs = cur.fetchall()
@@ -385,8 +386,5 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 						name = race['name']
 						race['candidates'] = candidate_lookup[name]
 						race['candidates'].sort(cmp=sort_candidates)
-						for candidate in race['candidates']:
-							del candidate['last_name']
-							del candidate['first_name']
 
 	return elections

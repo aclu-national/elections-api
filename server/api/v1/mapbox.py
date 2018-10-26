@@ -21,4 +21,9 @@ def geocode(address, near_lat=None, near_lng=None):
 	rsp = requests.get(url)
 	print("geocoded: (%d) %s" % (rsp.status_code, url))
 
-	return rsp.json()
+	if rsp.status_code == 200:
+		return rsp.json()
+	else:
+		print("ERROR could not geocode %s" % address)
+		print(rsp.text)
+		return None

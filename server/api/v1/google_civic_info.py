@@ -142,6 +142,7 @@ def get_polling_places(ocd_id, address):
 	for key in ['pollingLocations', 'earlyVoteSites', 'dropOffLocations']:
 
 		if key in rsp:
+			rsp[key] = rsp[key][:5] # only return the first 5 locations
 			for location in rsp[key]:
 				if location['address']['line1'] == "":
 					continue

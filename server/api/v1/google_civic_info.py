@@ -1,4 +1,5 @@
 import flask, json, os, re, sys, arrow, requests, psycopg2, urllib
+import mapbox as mapbox_api
 
 api_key = os.getenv('GOOGLE_API_KEY', None)
 
@@ -68,7 +69,8 @@ def get_elections():
 	else:
 		url = "https://www.googleapis.com/civicinfo/v2/elections?key=%s" % api_key
 		rsp = requests.get(url)
-		cache_set('elections', rsp.text)
+		if rsp.status_code == 200:
+			cache_set('elections', rsp.text)
 		rsp = rsp.json()
 
 	return rsp['elections']
@@ -107,12 +109,35 @@ def get_election_id(ocd_id):
 
 def get_polling_places(ocd_id, address):
 
-	election_id = google_civic_info_api.get_election_id(ocd_id)
+	election_id = get_election_id(ocd_id)
 
 	if not election_id:
 		return None
 
-	rsp = google_civic_info_api.get_voter_info(election_id, address)
+	focus_lat = None
+	focus_lng = None
+
+	cache_key = "polling_places_focus:%s" % address
+	ttl = 60 * 60 * 24
+	cached = cache_get(cache_key, ttl)
+
+	if cached:
+		print("CACHE HIT focus lookup")
+		focus = json.loads(cached)
+	else:
+		print("CACHE MISS focus lookup")
+		focus = mapbox_api.geocode(address)
+		if focus:
+			focus_json = json.dumps(focus)
+			cache_set(cache_key, focus_json)
+
+	try:
+		focus_lat = focus['features'][0]['center'][1]
+		focus_lng = focus['features'][0]['center'][0]
+	except:
+		print("could not get polling place focus")
+
+	rsp = get_voter_info(election_id, address)
 
 	for key in ['pollingLocations', 'earlyVoteSites', 'dropOffLocations']:
 
@@ -120,11 +145,16 @@ def get_polling_places(ocd_id, address):
 			for location in rsp[key]:
 				if location['address']['line1'] == "":
 					continue
+				zip = location['address']['zip']
+
+				if len(zip) > 5:
+					zip = zip[:5]
+
 				address = '%s, %s, %s %s' % (
 					location['address']['line1'],
 					location['address']['city'],
 					location['address']['state'],
-					location['address']['zip']
+					zip
 				)
 
 				cache_key = "polling_place:%s" % address
@@ -132,24 +162,22 @@ def get_polling_places(ocd_id, address):
 				cached = cache_get(cache_key, ttl)
 
 				if cached:
-					print("CACHE HIT civic info lookup")
-					rsp = json.loads(cached)
+					print("CACHE HIT polling place lookup")
+					geocoded = json.loads(cached)
 				else:
-					print("CACHE MISS civic info lookup")
-					query = urllib.urlencode({
-						'key': api_key,
-						'electionId': election_id,
-						'address': address
-					})
-					url = "https://www.googleapis.com/civicinfo/v2/voterinfo?%s" % query
-					rsp = requests.get(url)
-				geocoded = mapbox_api.geocode(address)
+					print("CACHE MISS polling place lookup")
+					geocoded = mapbox_api.geocode(address, focus_lat, focus_lng)
+					if geocoded:
+						geocoded_json = json.dumps(geocoded)
+						cache_set(cache_key, geocoded_json)
 
-				if 'features' in geocoded and len(geocoded['features']) > 0:
+				if geocoded and 'features' in geocoded and len(geocoded['features']) > 0:
 					location['geocoded'] = {
 						'lat': geocoded['features'][0]['center'][1],
 						'lng': geocoded['features'][0]['center'][0]
 					}
+
+	return rsp
 
 
 def get_voter_info(election_id, address):
@@ -172,9 +200,11 @@ def get_voter_info(election_id, address):
 		})
 		url = "https://www.googleapis.com/civicinfo/v2/voterinfo?%s" % query
 		rsp = requests.get(url)
-		cache_set(cache_key, rsp.text)
+		if rsp.status_code == 200:
+			cache_set(cache_key, rsp.text)
+		rsp = rsp.json()
 
-	return rsp.json()
+	return rsp
 
 def election_available(election_id, ocd_ids):
 	# TODO: respond according to https://docs.google.com/spreadsheets/d/11XD-WNjtNo3QMrGhDsiZH9qZ4N8RYmfpszJOZ_qH1g8/edit#gid=0

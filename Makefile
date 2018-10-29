@@ -54,3 +54,6 @@ blurbs:
 
 aclu_ids:
 	python scripts/index_aclu_ids.py
+
+decache:
+	python scripts/decache_google_civic_info.py

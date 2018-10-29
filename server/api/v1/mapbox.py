@@ -1,4 +1,4 @@
-import os, requests, urllib
+import os, requests, urllib, traceback
 
 api_key = os.getenv('MAPBOX_API_KEY', None)
 
@@ -19,11 +19,17 @@ def geocode(address, near_lat=None, near_lng=None):
 	url += "&country=us"
 
 	rsp = requests.get(url)
-	print("geocoded: (%d) %s" % (rsp.status_code, url))
 
-	if rsp.status_code == 200:
-		return rsp.json()
-	else:
+	if rsp.status_code != 200:
+		return None
+
+	try:
+		rsp = rsp.json()
+		return {
+			'lat': rsp['features'][0]['center'][1],
+			'lng': rsp['features'][0]['center'][0]
+		}
+	except:
 		print("ERROR could not geocode %s" % address)
-		print(rsp.text)
+		print(traceback.format_exc())
 		return None

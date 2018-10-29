@@ -1,4 +1,4 @@
-import flask, json, os, re, sys, arrow, requests, psycopg2, urllib
+import flask, json, os, re, sys, arrow, requests, psycopg2, urllib, traceback
 import mapbox as mapbox_api
 
 api_key = os.getenv('GOOGLE_API_KEY', None)
@@ -109,13 +109,18 @@ def get_election_id(ocd_id):
 
 def get_polling_places(ocd_id, address):
 
+	cur = flask.g.db.cursor()
 	election_id = get_election_id(ocd_id)
 
 	if not election_id:
 		return None
 
-	focus_lat = None
-	focus_lng = None
+	rsp = get_voter_info(election_id, address)
+
+	focus = {
+		'lat': None,
+		'lng': None
+	}
 
 	cache_key = "polling_places_focus:%s" % address
 	ttl = 60 * 60 * 24
@@ -126,23 +131,25 @@ def get_polling_places(ocd_id, address):
 		focus = json.loads(cached)
 	else:
 		print("CACHE MISS focus lookup")
-		focus = mapbox_api.geocode(address)
+
+		if os.getenv('ENABLE_FEATURE_GOOGLE_GEOCODE', False):
+			focus = google_geocode(address)
+		else:
+			focus = mapbox_api.geocode(address)
+
 		if focus:
 			focus_json = json.dumps(focus)
 			cache_set(cache_key, focus_json)
 
-	try:
-		focus_lat = focus['features'][0]['center'][1]
-		focus_lng = focus['features'][0]['center'][0]
-	except:
-		print("could not get polling place focus")
-
-	rsp = get_voter_info(election_id, address)
+	rsp['focus'] = focus
 
 	for key in ['pollingLocations', 'earlyVoteSites', 'dropOffLocations']:
 
 		if key in rsp:
-			rsp[key] = rsp[key][:5] # only return the first 5 locations
+
+			if not os.getenv('ENABLE_FEATURE_POLLING_PLACE_DISTANCE', False):
+				rsp[key] = rsp[key][:5] # only return the first 5 locations
+
 			for location in rsp[key]:
 				if location['address']['line1'] == "":
 					continue
@@ -167,16 +174,33 @@ def get_polling_places(ocd_id, address):
 					geocoded = json.loads(cached)
 				else:
 					print("CACHE MISS polling place lookup")
-					geocoded = mapbox_api.geocode(address, focus_lat, focus_lng)
+
+					if os.getenv('ENABLE_FEATURE_GOOGLE_GEOCODE', False):
+						geocoded = google_geocode(address)
+					else:
+						geocoded = mapbox_api.geocode(address, focus['lat'], focus['lng'])
+
 					if geocoded:
 						geocoded_json = json.dumps(geocoded)
 						cache_set(cache_key, geocoded_json)
 
-				if geocoded and 'features' in geocoded and len(geocoded['features']) > 0:
-					location['geocoded'] = {
-						'lat': geocoded['features'][0]['center'][1],
-						'lng': geocoded['features'][0]['center'][0]
-					}
+					location['geocoded'] = geocoded
+
+					if os.getenv('ENABLE_FEATURE_POLLING_PLACE_DISTANCE', False):
+						cur.execute('''
+							select st_distance(
+								ST_Transform('SRID=4326;POINT({lng1} {lat1})'::geometry, 3857),
+								ST_Transform('SRID=4326;POINT({lng2} {lat2})'::geometry, 3857)
+							)
+						'''.format(
+							lat1=focus['lat'],
+							lng1=focus['lng'],
+							lat2=geocoded['lat'],
+							lng2=geocoded['lng']
+						))
+
+						row = cur.fetchone()
+						location['geocoded']['distance'] = row[0]
 
 	return rsp
 
@@ -210,3 +234,27 @@ def get_voter_info(election_id, address):
 def election_available(election_id, ocd_ids):
 	# TODO: respond according to https://docs.google.com/spreadsheets/d/11XD-WNjtNo3QMrGhDsiZH9qZ4N8RYmfpszJOZ_qH1g8/edit#gid=0
 	return True
+
+def google_geocode(address):
+
+	# Takes an address string and returns a dict with lat/lng properties or
+	# None. (20181029/dphiffer)
+
+	global api_key
+
+	address = address.encode("utf-8")
+	query = urllib.quote_plus(address)
+	url = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s" % (query, api_key)
+	rsp = requests.get(url)
+
+	if rsp.status_code != 200:
+		return None
+
+	try:
+		rsp = rsp.json()
+		result = rsp['results'][0]
+		return result['geometry']['location']
+	except:
+		print("ERROR could not geocode %s" % address)
+		print(traceback.format_exc())
+		return None

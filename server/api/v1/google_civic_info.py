@@ -2,11 +2,17 @@ import flask, json, os, re, sys, arrow, requests, psycopg2, urllib, traceback
 import mapbox as mapbox_api
 
 api_key = os.getenv('GOOGLE_API_KEY', None)
+postgres_dsn = os.getenv('POSTGRES_DSN', 'dbname=elections')
+features = {
+	'google_geocode': int(os.getenv('ENABLE_FEATURE_GOOGLE_GEOCODE', 0)),
+	'polling_place_distance': int(os.getenv('ENABLE_FEATURE_POLLING_PLACE_DISTANCE', 0))
+}
 
 def setup():
-	default_dsn = 'dbname=elections'
-	db_dsn = os.getenv('POSTGRES_DSN', default_dsn)
-	db = psycopg2.connect(db_dsn)
+
+	global postgres_dsn
+
+	db = psycopg2.connect(postgres_dsn)
 	cur = db.cursor()
 
 	cur.execute('''
@@ -109,6 +115,8 @@ def get_election_id(ocd_id):
 
 def get_polling_places(ocd_id, address):
 
+	global features
+
 	cur = flask.g.db.cursor()
 	election_id = get_election_id(ocd_id)
 
@@ -132,7 +140,7 @@ def get_polling_places(ocd_id, address):
 	else:
 		print("CACHE MISS focus lookup")
 
-		if os.getenv('ENABLE_FEATURE_GOOGLE_GEOCODE', False):
+		if features['google_geocode']:
 			focus = google_geocode(address)
 		else:
 			focus = mapbox_api.geocode(address)
@@ -147,7 +155,7 @@ def get_polling_places(ocd_id, address):
 
 		if key in rsp:
 
-			if not os.getenv('ENABLE_FEATURE_POLLING_PLACE_DISTANCE', False):
+			if not features['polling_place_distance']:
 				rsp[key] = rsp[key][:5] # only return the first 5 locations
 
 			for location in rsp[key]:
@@ -175,7 +183,7 @@ def get_polling_places(ocd_id, address):
 				else:
 					print("CACHE MISS polling place lookup")
 
-					if os.getenv('ENABLE_FEATURE_GOOGLE_GEOCODE', False):
+					if features['google_geocode']:
 						geocoded = google_geocode(address)
 					else:
 						geocoded = mapbox_api.geocode(address, focus['lat'], focus['lng'])
@@ -184,11 +192,12 @@ def get_polling_places(ocd_id, address):
 						geocoded_json = json.dumps(geocoded)
 						cache_set(cache_key, geocoded_json)
 
+				if geocoded:
 					location['geocoded'] = geocoded
 
-					if os.getenv('ENABLE_FEATURE_POLLING_PLACE_DISTANCE', False):
+					if features['polling_place_distance']:
 						cur.execute('''
-							select st_distance(
+							SELECT st_distance(
 								ST_Transform('SRID=4326;POINT({lng1} {lat1})'::geometry, 3857),
 								ST_Transform('SRID=4326;POINT({lng2} {lat2})'::geometry, 3857)
 							)
@@ -224,6 +233,7 @@ def get_voter_info(election_id, address):
 			'address': address
 		})
 		url = "https://www.googleapis.com/civicinfo/v2/voterinfo?%s" % query
+		url += "&fields=dropOffLocations,earlyVoteSites,pollingLocations"
 		rsp = requests.get(url)
 		if rsp.status_code == 200:
 			cache_set(cache_key, rsp.text)

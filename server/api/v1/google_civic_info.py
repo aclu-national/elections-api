@@ -31,7 +31,7 @@ def cache_get(name, ttl):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
-		SELECT value, updated
+		SELECT value
 		FROM google_civic_info
 		WHERE name = %s
 		  AND updated > %s
@@ -39,9 +39,9 @@ def cache_get(name, ttl):
 
 	rsp = cur.fetchone()
 	if rsp:
-		return (rsp[0], rsp[1])
+		return rsp[0]
 	else:
-		return (None, None)
+		return None
 
 def cache_set(name, value):
 
@@ -68,19 +68,16 @@ def get_elections():
 	global api_key
 
 	ttl = 60 * 60
-	(cached, updated) = cache_get('elections', ttl)
+	cached = cache_get('elections', ttl)
 
 	if cached:
 		rsp = json.loads(cached)
-		rsp['elections']['_cache'] = 'hit'
-		rsp['elections']['_cache_generated'] = arrow.get(updated).to('US/Eastern').format('YYYY-MM-DD HH:mm:ss')
 	else:
 		url = "https://www.googleapis.com/civicinfo/v2/elections?key=%s" % api_key
 		rsp = requests.get(url)
 		if rsp.status_code == 200:
 			cache_set('elections', rsp.text)
 		rsp = rsp.json()
-		rsp['elections']['_cache'] = 'miss'
 
 	return rsp['elections']
 
@@ -135,13 +132,14 @@ def get_polling_places(ocd_id, address):
 
 	cache_key = "polling_places_focus:%s" % address
 	ttl = 60 * 60 * 24
-	(cached, updated) = cache_get(cache_key, ttl)
+	cached = cache_get(cache_key, ttl)
 
 	if cached:
+		print("CACHE HIT focus lookup")
 		focus = json.loads(cached)
-		focus['_cache'] = 'hit'
-		focus['_cache_generated'] = arrow.get(updated).to('US/Eastern').format('YYYY-MM-DD HH:mm:ss')
 	else:
+		print("CACHE MISS focus lookup")
+
 		if features['google_geocode']:
 			focus = google_geocode(address)
 		else:
@@ -149,7 +147,6 @@ def get_polling_places(ocd_id, address):
 
 		if focus:
 			focus_json = json.dumps(focus)
-			focus['_cache'] = 'miss'
 			cache_set(cache_key, focus_json)
 
 	rsp['focus'] = focus
@@ -178,13 +175,14 @@ def get_polling_places(ocd_id, address):
 
 				cache_key = "polling_place:%s" % address
 				ttl = 60 * 60 * 24
-				(cached, updated) = cache_get(cache_key, ttl)
+				cached = cache_get(cache_key, ttl)
 
 				if cached:
+					print("CACHE HIT polling place lookup")
 					geocoded = json.loads(cached)
-					geocoded['_cache'] = 'hit'
-					geocoded['_cache_generated'] = arrow.get(updated).to('US/Eastern').format('YYYY-MM-DD HH:mm:ss')
 				else:
+					print("CACHE MISS polling place lookup")
+
 					if features['google_geocode']:
 						geocoded = google_geocode(address)
 					else:
@@ -193,7 +191,6 @@ def get_polling_places(ocd_id, address):
 					if geocoded:
 						geocoded_json = json.dumps(geocoded)
 						cache_set(cache_key, geocoded_json)
-						geocoded['_cache'] = 'miss'
 
 				if geocoded:
 					location['geocoded'] = geocoded
@@ -223,13 +220,13 @@ def get_voter_info(election_id, address):
 
 	cache_key = "voter_info:%s:%s" % (election_id, address)
 	ttl = 60 * 60
-	(cached, updated) = cache_get(cache_key, ttl)
+	cached = cache_get(cache_key, ttl)
 
 	if cached:
+		print("CACHE HIT civic info lookup")
 		rsp = json.loads(cached)
-		rsp['_cache'] = 'hit'
-		rsp['_cache_generated'] = arrow.get(updated).to('US/Eastern').format('YYYY-MM-DD HH:mm:ss')
 	else:
+		print("CACHE MISS civic info lookup")
 		query = urllib.urlencode({
 			'key': api_key,
 			'electionId': election_id,
@@ -241,7 +238,6 @@ def get_voter_info(election_id, address):
 		if rsp.status_code == 200:
 			cache_set(cache_key, rsp.text)
 		rsp = rsp.json()
-		rsp['_cache'] = 'miss'
 
 	return rsp
 

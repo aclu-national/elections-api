@@ -490,10 +490,15 @@ def google_civic_info():
 			'error': 'Could not get polling places.'
 		})
 
-	return flask.jsonify({
+	rsp_json = json.dumps({
 		'ok': True,
 		'google_civic_info': rsp
 	})
+
+	rsp = flask.make_response(rsp_json)
+	rsp.headers['Content-Type'] = 'application/json'
+	rsp.headers['Cache-Control'] = 'no-cache'
+	return rsp
 
 @api.route("/calendar")
 def calendar():

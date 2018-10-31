@@ -493,7 +493,7 @@ def google_civic_info():
 	rsp_json = json.dumps({
 		'ok': True,
 		'google_civic_info': rsp
-	})
+	}, sort_keys=True)
 
 	rsp = flask.make_response(rsp_json)
 	rsp.headers['Content-Type'] = 'application/json'

@@ -72,15 +72,12 @@ def get_elections():
 
 	if cached:
 		rsp = json.loads(cached)
-		rsp['elections']['_cache'] = 'hit'
-		rsp['elections']['_cache_generated'] = arrow.get(updated).to('US/Eastern').format('YYYY-MM-DD HH:mm:ss')
 	else:
 		url = "https://www.googleapis.com/civicinfo/v2/elections?key=%s" % api_key
 		rsp = requests.get(url)
 		if rsp.status_code == 200:
 			cache_set('elections', rsp.text)
 		rsp = rsp.json()
-		rsp['elections']['_cache'] = 'miss'
 
 	return rsp['elections']
 

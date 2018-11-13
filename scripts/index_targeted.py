@@ -64,7 +64,7 @@ initiative_insert_sql = '''
 	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
-fh = open('%s/sources/aclu/aclu_targeted.json' % root_dir, 'rb')
+fh = open('%s/elections-api-private/aclu/aclu_targeted.json' % root_dir, 'rb')
 data = json.load(fh)
 
 for item in data["races"]:

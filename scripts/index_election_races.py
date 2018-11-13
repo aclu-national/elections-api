@@ -46,7 +46,7 @@ insert_sql = '''
 
 files = []
 
-source_dir = "%s/sources/ballotpedia" % root_dir
+source_dir = "%s/elections-api-private/ballotpedia" % root_dir
 path = "%s/ballotpedia_races.csv" % source_dir
 csvfile = open(path, 'rb')
 

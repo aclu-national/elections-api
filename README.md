@@ -12,11 +12,11 @@ __Point-in-polygon example:__
 curl https://elections.api.aclu.org/v1/pip?lat=40.7023699&lng=-74.012632 | jq .
 ```
 
-[example output](example-output.json)
+See also: [example output](example-output.json)
 
 ## Endpoints
 
-All requests are HTTP GET and respond in JSON format.
+All endpoints expect an HTTP GET request and respond in JSON format. The base URL for the hosted service is `https://elections.api.aclu.org`.
 
 * `/v1/apple_wallet`  
   *Get an Apple Wallet pkpass based on polling place info.*  
@@ -147,8 +147,13 @@ export SIEGE_HOST="elections.api.aclu.org"
 siege -c 50 -t 15S -f server/test_urls.txt -i
 ```
 
+## Apple Wallet Pass generator
+
+The Apple Wallet Pass generator is not currently released publicly, but please [get in touch](dphiffer@aclu.org) if you're interested.
+
 ## Data sources
 
 * [Census TIGER/Line](https://www.census.gov/geo/maps-data/data/tiger-line.html)
 * [The Unified Judicial System of Pennsylvania](http://www.pacourts.us/news-and-statistics/cases-of-public-interest/league-of-women-voters-et-al-v-the-commonwealth-of-pennsylvania-et-al-159-mm-2017)
 * [@unitedstates](https://github.com/unitedstates/congress-legislators)
+* [Ballotpedia](https://ballotpedia.org/Main_Page) (not available for public release)

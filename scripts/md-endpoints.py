@@ -10,7 +10,9 @@ for path in sorted(rsp['valid_endpoints']):
 	endpoint = rsp['valid_endpoints'][path]
 	description = endpoint['description']
 
-	print("* `%s`  \n  *%s*  \n  Arguments:  " % (path, description))
+	print("### `%s`\n\n*%s*\n\nArguments:" % (path, description))
 
 	for arg in sorted(endpoint['args']):
-		print("    - `%s`: %s" % (arg, endpoint['args'][arg]))
+		print("* `%s`: %s" % (arg, endpoint['args'][arg]))
+
+	print("")

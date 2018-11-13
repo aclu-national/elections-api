@@ -67,7 +67,7 @@ Arguments:
 
 *Index of congressional legislator scores.*
 
-Arguments:
+No arguments.
 
 ### `/v1/county`
 
@@ -123,8 +123,6 @@ Arguments:
 * `geometry`: Include GeoJSON geometries with districts (optional; geometry=1)
 * `lat`: Latitude
 * `lng`: Longitude
-
-
 
 You can also load `/v1` for a structured summary of the endpoints.
 

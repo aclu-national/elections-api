@@ -1,0 +1,3 @@
+[submodule "elections-api-private"]
+	path = elections-api-private
+	url = git@github.com:aclu-national/elections-api-private.git

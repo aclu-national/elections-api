@@ -4,19 +4,17 @@ US elections data API.
 
 ## Summary
 
-Structured data about your local elections.
-
-__Point-in-polygon example:__
+An API for retrieving locally-relevant structured data about US elections.
 
 ```
-curl https://elections.api.aclu.org/v1/pip?lat=40.7023699&lng=-74.012632 | jq .
+$ curl -s https://elections.api.aclu.org/v1/pip?lat=40.7023699&lng=-74.012632
 ```
 
-See also: [example output](example-output.json)
+Output: [example-output.json](example-output.json)
 
 ## Endpoints
 
-All endpoints expect an HTTP GET request and respond in JSON format. The base URL for the hosted service is `https://elections.api.aclu.org`.
+All endpoints expect an HTTP GET request and respond in JSON format. The base URL for API requests is `https://elections.api.aclu.org`.
 
 ### `/v1/apple_wallet`
 
@@ -126,32 +124,63 @@ Arguments:
 
 You can also load `/v1` for a structured summary of the endpoints.
 
+## Data and sources
+
+You can browse the included `data` and `sources` folders. Each has a `Makefile` for downloading, processing, and indexing source data.
+
 ## Dependencies
 
+* [Python 2.7](https://www.python.org/)
 * [PostgreSQL](https://www.postgresql.org/)
 * [PostGIS](http://postgis.net/)
 * [Flask](http://flask.pocoo.org/)
 * [Gunicorn](http://gunicorn.org/)
 * [nginx](https://www.nginx.com/)
 
-## Setup process
+## Services
+
+The API relies on other upstream services and expects some API keys to be defined as environment variables.
+
+* [Google Civic Info API](https://developers.google.com/civic-information/): `GOOGLE_API_KEY`
+* [Mapbox Geocoding API](https://www.mapbox.com/api-documentation/#endpoints): `MAPBOX_API_KEY`
+* [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start): `GOOGLE_API_KEY` (optional; only used for polling places)
+* [ipstack](https://ipstack.com/): `IPSTACK_API_KEY` (optional; defaults to Maxmind)
+
+## Running the server
+
+Here are the steps to run the server locally.
+
+```
+$ cd elections-api
+$ createdb elections
+$ make
+$ cd server/
+$ pip install -r requirements.txt
+$ export GOOGLE_API_KEY="..."
+$ export MAPBOX_API_KEY="..."
+$ python server.py
+```
+
+## Server setup
 
 The API server is designed to run on Ubuntu 16.04.
 
 ```
-sudo mkdir -p /usr/local/aclu
-sudo chown $USER:$USER /usr/local/aclu
-cd /usr/local/aclu
-git clone https://github.com/aclu-national/elections-api.git
-cd elections-api
-sudo ./scripts/setup_ubuntu.sh
+$ sudo mkdir -p /usr/local/aclu
+$ sudo chown $USER:$USER /usr/local/aclu
+$ cd /usr/local/aclu
+$ git clone https://github.com/aclu-national/elections-api.git
+$ cd elections-api
+$ sudo ./scripts/setup_ubuntu.sh
 ```
 
-There is also a private repo of data we cannot release. You can include it as a submodule if you work at the ACLU and have access to the repo.
+The config file `server/gunicorn.py` has environment variables and feature flags that you will need to edit.
+
+There is also a [private repo](https://github.com/aclu-national/elections-api-private) of data we cannot release. You can include it as a submodule if you work at the ACLU and have access to the repo.
 
 ```
-git submodule init
-git submodule update
+$ git submodule init
+$ git submodule update
 ```
 
 ## Reindexing the data
@@ -159,8 +188,14 @@ git submodule update
 Whenever updates are made to the data, PostGIS needs to be reindexed. This can take several minutes, so you'll want to be careful to only reindex machines that are out of the load balancer rotation.
 
 ```
-cd /usr/local/aclu/elections-api
-make
+$ cd /usr/local/aclu/elections-api
+$ make
+```
+
+You can also reindex selected database tables.
+
+```
+$ make elections
 ```
 
 ## Restarting the server
@@ -168,7 +203,7 @@ make
 When the API server code changes, the application server needs to be restarted after `git pull`ing the changes. Be sure to create a CloudFront invalidation for the new results to take effect.
 
 ```
-sudo service elections restart
+$ sudo service elections restart
 ```
 
 ## Load testing the server
@@ -176,14 +211,14 @@ sudo service elections restart
 Here's how you can use [`siege`](https://www.joedog.org/siege-home/) to simulate 50 concurrent requests using a list of 1,000 random lat/lng lookups within the U.S.A.
 
 ```
-export SIEGE_SCHEME="https"
-export SIEGE_HOST="elections.api.aclu.org"
-siege -c 50 -t 15S -f server/test_urls.txt -i
+$ export SIEGE_SCHEME="http"
+$ export SIEGE_HOST="localhost:5000"
+$ siege -c 50 -t 15S -f server/test_urls.txt -i
 ```
 
-## Apple Wallet Pass generator
+## See also
 
-The Apple Wallet Pass generator is not currently released publicly, but please [get in touch](dphiffer@aclu.org) if you're interested.
+* [voter-apple-wallet](https://github.com/aclu-national/voter-apple-wallet)
 
 ## Data sources
 

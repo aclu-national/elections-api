@@ -7,8 +7,6 @@ all: congress_sessions \
      counties \
      state_leg \
      elections \
-     election_races \
-     targeted \
      blurbs \
      aclu_ids
 
@@ -39,6 +37,15 @@ state_leg:
 elections:
 	python scripts/index_elections.py
 
+blurbs:
+	python scripts/index_blurbs.py
+
+aclu_ids:
+	python scripts/index_aclu_ids.py
+
+decache:
+	python scripts/decache_google_civic_info.py
+
 election_races:
 	python scripts/index_election_races.py
 	psql elections < sources/aclu/aclu_election_races.sql
@@ -48,12 +55,3 @@ election_candidates:
 
 targeted:
 	python scripts/index_targeted.py
-
-blurbs:
-	python scripts/index_blurbs.py
-
-aclu_ids:
-	python scripts/index_aclu_ids.py
-
-decache:
-	python scripts/decache_google_civic_info.py

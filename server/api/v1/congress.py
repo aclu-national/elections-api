@@ -404,11 +404,17 @@ def get_legislators(cur, score_filter="total", include=None):
 						'aclu_id': aclu_id,
 						'aclu_position': position,
 						'name': name,
-						'status': 'unknown'
+						'status': 'unknown',
+						'score': None,
+						'vote': None
 					}
 					if value == '1' or value == '0':
-						score['vote'] = True if value == '1' else False
 						score['status'] = 'voted'
+						score['score'] = True if value == '1' else False
+						if position == 'supported' and value == '1':
+							score['vote'] = True
+						else:
+							score['vote'] = False
 					elif value == 'Missed':
 						score['status'] = 'missed'
 					elif value == 'Not yet in office':

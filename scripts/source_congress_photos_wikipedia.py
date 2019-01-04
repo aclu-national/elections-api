@@ -28,6 +28,7 @@ for legislator in data:
 
 	if not 'wikipedia' in legislator["id"]:
 		print("no wikipedia article for %s %s (%s)" % (fname, lname, bioguide))
+		print("   maybe check for it here? https://en.wikipedia.org/wiki/%s_%s" % (fname, lname))
 		continue
 
 	wikipedia_slug = legislator["id"]["wikipedia"].replace(' ', '_')

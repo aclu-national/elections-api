@@ -421,6 +421,8 @@ def get_legislators(cur, score_filter="total", include=None):
 						score['status'] = 'not_in_office'
 					elif value == 'Not on committee':
 						score['status'] = 'not_on_committee'
+					else:
+						score['status'] = value.lower().replace(' ', '_')
 
 					if score_filter == 'all' or score_filter == score['status']:
 						legislators[legislator_id]['scores'].append(score)

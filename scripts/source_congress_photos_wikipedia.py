@@ -20,6 +20,9 @@ for legislator in data:
 	path = 'congress_photos/%s.jpg' % bioguide
 	abs_path = '/usr/local/aclu/elections-api/sources/%s' % path
 
+	fname = legislator["name"]["first"]
+	lname = legislator["name"]["last"]
+
 	if os.path.isfile(abs_path):
 		continue
 

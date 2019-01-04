@@ -42,6 +42,18 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://barragan.house.gov"
+    }, 
+    {
+      "address": "1030 Longworth House Office Building; Washington DC 20515-0544", 
+      "district": 44, 
+      "end": "2021-01-03", 
+      "office": "1030 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8220", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://barragan.house.gov"
     }
   ], 
   "url_slug": "ca-nanette-barragan"

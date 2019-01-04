@@ -135,6 +135,18 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://susandavis.house.gov"
+    }, 
+    {
+      "address": "1214 Longworth House Office Building; Washington DC 20515-0553", 
+      "district": 53, 
+      "end": "2021-01-03", 
+      "office": "1214 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2040", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://susandavis.house.gov"
     }
   ], 
   "url_slug": "ca-susan-davis"

@@ -92,6 +92,19 @@
       "state": "RI", 
       "type": "rep", 
       "url": "https://cicilline.house.gov"
+    }, 
+    {
+      "address": "2233 Rayburn House Office Building; Washington DC 20515-3901", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2233 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4911", 
+      "rss_url": "http://cicilline.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "RI", 
+      "type": "rep", 
+      "url": "https://cicilline.house.gov"
     }
   ], 
   "url_slug": "ri-david-cicilline"

@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1965-04-20", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11537", 
+    "bioguide": "A000378", 
+    "fec": [
+      "H8IA03124"
+    ], 
+    "govtrack": 412772
+  }, 
+  "name": {
+    "first": "Cynthia", 
+    "last": "Axne"
+  }, 
+  "terms": [
+    {
+      "address": "330 Cannon House Office Building; Washington DC 20515-1503", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "330 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5476", 
+      "start": "2019-01-03", 
+      "state": "IA", 
+      "type": "rep", 
+      "url": "https://axne.house.gov/"
+    }
+  ], 
+  "url_slug": "ia-cynthia-axne"
+}

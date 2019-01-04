@@ -118,6 +118,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://bilirakis.house.gov"
+    }, 
+    {
+      "address": "2227 Rayburn House Office Building; Washington DC 20515-0912", 
+      "district": 12, 
+      "end": "2021-01-03", 
+      "office": "2227 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5755", 
+      "rss_url": "http://bilirakis.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://bilirakis.house.gov"
     }
   ], 
   "url_slug": "fl-gus-bilirakis"

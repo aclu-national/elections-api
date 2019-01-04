@@ -154,6 +154,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://shimkus.house.gov"
+    }, 
+    {
+      "address": "2217 Rayburn House Office Building; Washington DC 20515-1315", 
+      "district": 15, 
+      "end": "2021-01-03", 
+      "office": "2217 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5271", 
+      "rss_url": "http://shimkus.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://shimkus.house.gov"
     }
   ], 
   "url_slug": "il-john-shimkus"

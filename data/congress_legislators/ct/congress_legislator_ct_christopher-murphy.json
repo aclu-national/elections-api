@@ -85,6 +85,17 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.murphy.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.theday.com/article/20121216/nws12/312169935/1069/rss", 
+      "start": "2019-01-03", 
+      "state": "CT", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.murphy.senate.gov"
     }
   ], 
   "url_slug": "ct-christopher-murphy"

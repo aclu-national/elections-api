@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1980-06-04", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11563", 
+    "bioguide": "P000614", 
+    "fec": [
+      "H8NH01210"
+    ], 
+    "govtrack": 412795
+  }, 
+  "name": {
+    "first": "Chris", 
+    "last": "Pappas"
+  }, 
+  "terms": [
+    {
+      "address": "323 Cannon House Office Building; Washington DC 20515-2901", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "323 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5456", 
+      "start": "2019-01-03", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "https://pappas.house.gov/"
+    }
+  ], 
+  "url_slug": "nh-chris-pappas"
+}

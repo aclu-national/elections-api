@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1976-07-24", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11554", 
+    "bioguide": "T000481", 
+    "fec": [
+      "H8MI13250"
+    ], 
+    "govtrack": 412787
+  }, 
+  "name": {
+    "first": "Rashida", 
+    "last": "Tlaib"
+  }, 
+  "terms": [
+    {
+      "address": "1628 Longworth House Office Building; Washington DC 20515-2213", 
+      "district": 13, 
+      "end": "2021-01-03", 
+      "office": "1628 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5126", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://tlaib.house.gov/"
+    }
+  ], 
+  "url_slug": "mi-rashida-tlaib"
+}

@@ -59,6 +59,18 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://torres.house.gov"
+    }, 
+    {
+      "address": "2444 Rayburn House Office Building; Washington DC 20515-0535", 
+      "district": 35, 
+      "end": "2021-01-03", 
+      "office": "2444 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6161", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://torres.house.gov"
     }
   ], 
   "url_slug": "ca-norma-torres"

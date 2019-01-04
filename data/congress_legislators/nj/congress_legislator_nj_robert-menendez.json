@@ -143,6 +143,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.menendez.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.menendez.senate.gov/rss/feeds/index.cfm?type=news", 
+      "start": "2019-01-03", 
+      "state": "NJ", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.menendez.senate.gov"
     }
   ], 
   "url_slug": "nj-robert-menendez"

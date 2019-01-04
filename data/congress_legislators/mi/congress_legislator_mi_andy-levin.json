@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1960-08-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11551", 
+    "bioguide": "L000592", 
+    "fec": [
+      "H8MI09118"
+    ], 
+    "govtrack": 412785
+  }, 
+  "name": {
+    "first": "Andy", 
+    "last": "Levin"
+  }, 
+  "terms": [
+    {
+      "address": "228 Cannon House Office Building; Washington DC 20515-2209", 
+      "district": 9, 
+      "end": "2021-01-03", 
+      "office": "228 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4961", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://andylevin.house.gov/"
+    }
+  ], 
+  "url_slug": "mi-andy-levin"
+}

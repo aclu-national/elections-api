@@ -44,6 +44,18 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://correa.house.gov"
+    }, 
+    {
+      "address": "1039 Longworth House Office Building; Washington DC 20515-0546", 
+      "district": 46, 
+      "end": "2021-01-03", 
+      "office": "1039 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2965", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://correa.house.gov"
     }
   ], 
   "url_slug": "ca-j-correa"

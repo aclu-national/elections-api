@@ -101,6 +101,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://tonko.house.gov"
+    }, 
+    {
+      "address": "2369 Rayburn House Office Building; Washington DC 20515-3220", 
+      "district": 20, 
+      "end": "2021-01-03", 
+      "office": "2369 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5076", 
+      "rss_url": "http://tonko.house.gov/rss/press-releases.xml", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://tonko.house.gov"
     }
   ], 
   "url_slug": "ny-paul-tonko"

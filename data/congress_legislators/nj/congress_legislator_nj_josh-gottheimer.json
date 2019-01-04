@@ -42,6 +42,18 @@
       "state": "NJ", 
       "type": "rep", 
       "url": "https://gottheimer.house.gov"
+    }, 
+    {
+      "address": "213 Cannon House Office Building; Washington DC 20515-3005", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "213 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4465", 
+      "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://gottheimer.house.gov"
     }
   ], 
   "url_slug": "nj-josh-gottheimer"

@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1970-03-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11606", 
+    "bioguide": "R000611", 
+    "fec": [
+      "H8VA05171"
+    ], 
+    "govtrack": 412831
+  }, 
+  "name": {
+    "first": "Denver", 
+    "last": "Riggleman"
+  }, 
+  "terms": [
+    {
+      "address": "1022 Longworth House Office Building; Washington DC 20515-4605", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "1022 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4711", 
+      "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://riggleman.house.gov/"
+    }
+  ], 
+  "url_slug": "va-denver-riggleman"
+}

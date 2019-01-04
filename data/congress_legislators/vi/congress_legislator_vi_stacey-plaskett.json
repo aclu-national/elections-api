@@ -1,6 +1,6 @@
 {
   "bio": {
-    "birthday": "1964-05-13", 
+    "birthday": "1966-05-13", 
     "gender": "F"
   }, 
   "id": {
@@ -54,6 +54,18 @@
       "party": "Democrat", 
       "phone": "202-225-1790", 
       "start": "2017-01-03", 
+      "state": "VI", 
+      "type": "rep", 
+      "url": "https://plaskett.house.gov"
+    }, 
+    {
+      "address": "2404 Rayburn House Office Building; Washington DC 20515-5500", 
+      "district": 0, 
+      "end": "2021-01-03", 
+      "office": "2404 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1790", 
+      "start": "2019-01-03", 
       "state": "VI", 
       "type": "rep", 
       "url": "https://plaskett.house.gov"

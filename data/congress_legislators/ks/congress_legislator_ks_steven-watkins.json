@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1976-09-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11546", 
+    "bioguide": "W000824", 
+    "fec": [
+      "H8KS02199"
+    ], 
+    "govtrack": 412779
+  }, 
+  "name": {
+    "first": "Steven", 
+    "last": "Watkins", 
+    "middle": "C."
+  }, 
+  "terms": [
+    {
+      "address": "1205 Longworth House Office Building; Washington DC 20515-1602", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "1205 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6601", 
+      "start": "2019-01-03", 
+      "state": "KS", 
+      "type": "rep", 
+      "url": "https://watkins.house.gov/"
+    }
+  ], 
+  "url_slug": "ks-steven-watkins"
+}

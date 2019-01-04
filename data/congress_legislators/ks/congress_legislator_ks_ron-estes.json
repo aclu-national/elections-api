@@ -45,6 +45,18 @@
       "state": "KS", 
       "type": "rep", 
       "url": "https://estes.house.gov"
+    }, 
+    {
+      "address": "1524 Longworth House Office Building; Washington DC 20515-1604", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "1524 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6216", 
+      "start": "2019-01-03", 
+      "state": "KS", 
+      "type": "rep", 
+      "url": "https://estes.house.gov"
     }
   ], 
   "url_slug": "ks-ron-estes"

@@ -76,6 +76,16 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.heinrich.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "start": "2019-01-03", 
+      "state": "NM", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.heinrich.senate.gov"
     }
   ], 
   "url_slug": "nm-martin-heinrich"

@@ -87,6 +87,19 @@
       "state": "NV", 
       "type": "rep", 
       "url": "https://titus.house.gov"
+    }, 
+    {
+      "address": "2464 Rayburn House Office Building; Washington DC 20515-2801", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2464 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5965", 
+      "rss_url": "http://titus.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "https://titus.house.gov"
     }
   ], 
   "url_slug": "nv-dina-titus"

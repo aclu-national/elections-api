@@ -58,6 +58,18 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://kathleenrice.house.gov"
+    }, 
+    {
+      "address": "2435 Rayburn House Office Building; Washington DC 20515-3204", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2435 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5516", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://kathleenrice.house.gov"
     }
   ], 
   "url_slug": "ny-kathleen-rice"

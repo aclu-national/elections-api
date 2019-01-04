@@ -130,6 +130,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://burgess.house.gov"
+    }, 
+    {
+      "address": "2161 Rayburn House Office Building; Washington DC 20515-4326", 
+      "district": 26, 
+      "end": "2021-01-03", 
+      "office": "2161 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-7772", 
+      "rss_url": "http://burgess.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://burgess.house.gov"
     }
   ], 
   "url_slug": "tx-michael-burgess"

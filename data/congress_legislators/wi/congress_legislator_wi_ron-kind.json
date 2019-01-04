@@ -154,6 +154,19 @@
       "state": "WI", 
       "type": "rep", 
       "url": "https://kind.house.gov"
+    }, 
+    {
+      "address": "1502 Longworth House Office Building; Washington DC 20515-4903", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "1502 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5506", 
+      "rss_url": "http://kind.house.gov/common/rss/?rss=52", 
+      "start": "2019-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://kind.house.gov"
     }
   ], 
   "url_slug": "wi-ron-kind"

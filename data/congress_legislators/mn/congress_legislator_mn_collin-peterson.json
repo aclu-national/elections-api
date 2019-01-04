@@ -171,6 +171,19 @@
       "state": "MN", 
       "type": "rep", 
       "url": "https://collinpeterson.house.gov"
+    }, 
+    {
+      "address": "2204 Rayburn House Office Building; Washington DC 20515-2307", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "2204 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2165", 
+      "rss_url": "http://collinpeterson.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://collinpeterson.house.gov"
     }
   ], 
   "url_slug": "mn-collin-peterson"

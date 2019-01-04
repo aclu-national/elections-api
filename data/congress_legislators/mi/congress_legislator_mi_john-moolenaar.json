@@ -58,6 +58,18 @@
       "state": "MI", 
       "type": "rep", 
       "url": "https://moolenaar.house.gov"
+    }, 
+    {
+      "address": "117 Cannon House Office Building; Washington DC 20515-2204", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "117 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3561", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://moolenaar.house.gov"
     }
   ], 
   "url_slug": "mi-john-moolenaar"

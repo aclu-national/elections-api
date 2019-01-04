@@ -41,6 +41,18 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://rutherford.house.gov"
+    }, 
+    {
+      "address": "1711 Longworth House Office Building; Washington DC 20515-0904", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "1711 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2501", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://rutherford.house.gov"
     }
   ], 
   "url_slug": "fl-john-rutherford"

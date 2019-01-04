@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1959-06-06", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11584", 
+    "bioguide": "D000631", 
+    "fec": [
+      "H8PA04116"
+    ], 
+    "govtrack": 412809
+  }, 
+  "name": {
+    "first": "Madeleine", 
+    "last": "Dean"
+  }, 
+  "terms": [
+    {
+      "address": "129 Cannon House Office Building; Washington DC 20515-3804", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "129 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4731", 
+      "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://dean.house.gov/"
+    }
+  ], 
+  "url_slug": "pa-madeleine-dean"
+}

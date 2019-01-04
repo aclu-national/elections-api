@@ -136,6 +136,19 @@
       "state": "WA", 
       "type": "rep", 
       "url": "https://larsen.house.gov"
+    }, 
+    {
+      "address": "2113 Rayburn House Office Building; Washington DC 20515-4702", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "2113 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2605", 
+      "rss_url": "http://larsen.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://larsen.house.gov"
     }
   ], 
   "url_slug": "wa-rick-larsen"

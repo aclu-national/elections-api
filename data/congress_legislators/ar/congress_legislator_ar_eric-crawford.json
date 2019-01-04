@@ -95,6 +95,19 @@
       "state": "AR", 
       "type": "rep", 
       "url": "https://crawford.house.gov"
+    }, 
+    {
+      "address": "2422 Rayburn House Office Building; Washington DC 20515-0401", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2422 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4076", 
+      "rss_url": "http://crawford.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "https://crawford.house.gov"
     }
   ], 
   "url_slug": "ar-eric-crawford"

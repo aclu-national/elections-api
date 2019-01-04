@@ -32,8 +32,8 @@
   }, 
   "social": {
     "facebook": "SenKirstenGillibrand", 
-    "twitter": "SenGillibrand", 
-    "twitter_id": 72198806, 
+    "twitter": "GillibrandNY", 
+    "twitter_id": 899978622416695297, 
     "youtube": "KirstenEGillibrand", 
     "youtube_id": "UCVEloQogVsmnkd5vxJInmYg"
   }, 
@@ -82,6 +82,17 @@
       "phone": "202-224-4451", 
       "rss_url": "http://www.gillibrand.senate.gov/rss/", 
       "start": "2013-01-03", 
+      "state": "NY", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.gillibrand.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.gillibrand.senate.gov/rss/", 
+      "start": "2019-01-03", 
       "state": "NY", 
       "state_rank": "junior", 
       "type": "sen", 

@@ -42,6 +42,18 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://krishnamoorthi.house.gov"
+    }, 
+    {
+      "address": "115 Cannon House Office Building; Washington DC 20515-1308", 
+      "district": 8, 
+      "end": "2021-01-03", 
+      "office": "115 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3711", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://krishnamoorthi.house.gov"
     }
   ], 
   "url_slug": "il-raja-krishnamoorthi"

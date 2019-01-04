@@ -192,6 +192,19 @@
       "state": "OR", 
       "type": "rep", 
       "url": "https://defazio.house.gov"
+    }, 
+    {
+      "address": "2134 Rayburn House Office Building; Washington DC 20515-3704", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2134 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6416", 
+      "rss_url": "http://www.defazio.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "https://defazio.house.gov"
     }
   ], 
   "url_slug": "or-peter-defazio"

@@ -119,6 +119,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://marchant.house.gov"
+    }, 
+    {
+      "address": "2304 Rayburn House Office Building; Washington DC 20515-4324", 
+      "district": 24, 
+      "end": "2021-01-03", 
+      "office": "2304 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6605", 
+      "rss_url": "http://marchant.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://marchant.house.gov"
     }
   ], 
   "url_slug": "tx-kenny-marchant"

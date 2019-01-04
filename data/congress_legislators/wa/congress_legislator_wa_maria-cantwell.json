@@ -84,6 +84,17 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.cantwell.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.cantwell.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2019-01-03", 
+      "state": "WA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.cantwell.senate.gov"
     }
   ], 
   "url_slug": "wa-maria-cantwell"

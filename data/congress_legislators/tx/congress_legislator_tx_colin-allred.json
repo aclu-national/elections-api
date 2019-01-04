@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1983-04-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11594", 
+    "bioguide": "A000376", 
+    "fec": [
+      "H8TX32098"
+    ], 
+    "govtrack": 412828
+  }, 
+  "name": {
+    "first": "Colin", 
+    "last": "Allred", 
+    "middle": "Z."
+  }, 
+  "terms": [
+    {
+      "address": "328 Cannon House Office Building; Washington DC 20515-4332", 
+      "district": 32, 
+      "end": "2021-01-03", 
+      "office": "328 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2231", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://allred.house.gov/"
+    }
+  ], 
+  "url_slug": "tx-colin-allred"
+}

@@ -170,6 +170,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://calvert.house.gov"
+    }, 
+    {
+      "address": "2205 Rayburn House Office Building; Washington DC 20515-0542", 
+      "district": 42, 
+      "end": "2021-01-03", 
+      "office": "2205 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1986", 
+      "rss_url": "http://calvert.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://calvert.house.gov"
     }
   ], 
   "url_slug": "ca-ken-calvert"

@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1979-12-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11560", 
+    "ballotpedia": "Josh Hawley", 
+    "bioguide": "H001089", 
+    "fec": [
+      "S8MO00160"
+    ], 
+    "govtrack": 412840, 
+    "wikidata": "Q23020745", 
+    "wikipedia": "Josh Hawley"
+  }, 
+  "name": {
+    "first": "Joshua", 
+    "last": "Hawley"
+  }, 
+  "terms": [
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "start": "2019-01-03", 
+      "state": "MO", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.hawley.senate.gov"
+    }
+  ], 
+  "url_slug": "mo-joshua-hawley"
+}

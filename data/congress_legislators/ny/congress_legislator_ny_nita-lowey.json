@@ -187,6 +187,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://lowey.house.gov"
+    }, 
+    {
+      "address": "2365 Rayburn House Office Building; Washington DC 20515-3217", 
+      "district": 17, 
+      "end": "2021-01-03", 
+      "office": "2365 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6506", 
+      "rss_url": "http://www.house.gov/common/rss/?rss=18", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://lowey.house.gov"
     }
   ], 
   "url_slug": "ny-nita-lowey"

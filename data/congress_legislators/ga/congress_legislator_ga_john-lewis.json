@@ -195,6 +195,19 @@
       "state": "GA", 
       "type": "rep", 
       "url": "https://johnlewis.house.gov"
+    }, 
+    {
+      "address": "300 Cannon House Office Building; Washington DC 20515-1005", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "300 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3801", 
+      "rss_url": "http://johnlewis.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://johnlewis.house.gov"
     }
   ], 
   "url_slug": "ga-john-lewis"

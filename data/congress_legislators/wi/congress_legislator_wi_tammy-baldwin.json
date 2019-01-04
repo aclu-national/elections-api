@@ -119,6 +119,17 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.baldwin.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.baldwin.senate.gov/rss/feeds/?type=all", 
+      "start": "2019-01-03", 
+      "state": "WI", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.baldwin.senate.gov"
     }
   ], 
   "url_slug": "wi-tammy-baldwin"

@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1983-06-01", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11553", 
+    "bioguide": "S001215", 
+    "fec": [
+      "H8MI11254"
+    ], 
+    "govtrack": 412786
+  }, 
+  "name": {
+    "first": "Haley", 
+    "last": "Stevens", 
+    "middle": "M."
+  }, 
+  "terms": [
+    {
+      "address": "227 Cannon House Office Building; Washington DC 20515-2211", 
+      "district": 11, 
+      "end": "2021-01-03", 
+      "office": "227 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8171", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://stevens.house.gov/"
+    }
+  ], 
+  "url_slug": "mi-haley-stevens"
+}

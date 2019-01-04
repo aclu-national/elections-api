@@ -87,6 +87,17 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.hirono.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.hirono.senate.gov/rss/feeds/?type=all", 
+      "start": "2019-01-03", 
+      "state": "HI", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.hirono.senate.gov"
     }
   ], 
   "url_slug": "hi-mazie-hirono"

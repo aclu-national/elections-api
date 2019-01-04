@@ -77,6 +77,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://bera.house.gov"
+    }, 
+    {
+      "address": "1727 Longworth House Office Building; Washington DC 20515-0507", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1727 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5716", 
+      "rss_url": "http://bera.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://bera.house.gov"
     }
   ], 
   "url_slug": "ca-ami-bera"

@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1965-09-23", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11567", 
+    "bioguide": "M001203", 
+    "fec": [
+      "H8NJ07223"
+    ], 
+    "govtrack": 412798
+  }, 
+  "name": {
+    "first": "Tom", 
+    "last": "Malinowski"
+  }, 
+  "terms": [
+    {
+      "address": "426 Cannon House Office Building; Washington DC 20515-3007", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "426 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5361", 
+      "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://malinowski.house.gov/"
+    }
+  ], 
+  "url_slug": "nj-tom-malinowski"
+}

@@ -78,6 +78,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://huffman.house.gov"
+    }, 
+    {
+      "address": "1527 Longworth House Office Building; Washington DC 20515-0502", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "1527 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5161", 
+      "rss_url": "http://huffman.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://huffman.house.gov"
     }
   ], 
   "url_slug": "ca-jared-huffman"

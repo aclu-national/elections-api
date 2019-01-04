@@ -113,6 +113,19 @@
       "state": "VT", 
       "type": "rep", 
       "url": "https://welch.house.gov"
+    }, 
+    {
+      "address": "2187 Rayburn House Office Building; Washington DC 20515-4500", 
+      "district": 0, 
+      "end": "2021-01-03", 
+      "office": "2187 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4115", 
+      "rss_url": "http://www.welch.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "VT", 
+      "type": "rep", 
+      "url": "https://welch.house.gov"
     }
   ], 
   "url_slug": "vt-peter-welch"

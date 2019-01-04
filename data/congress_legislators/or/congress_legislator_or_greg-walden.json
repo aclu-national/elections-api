@@ -148,6 +148,19 @@
       "state": "OR", 
       "type": "rep", 
       "url": "https://walden.house.gov"
+    }, 
+    {
+      "address": "2185 Rayburn House Office Building; Washington DC 20515-3702", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "2185 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6730", 
+      "rss_url": "http://walden.house.gov/common/rss/?rss=100", 
+      "start": "2019-01-03", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "https://walden.house.gov"
     }
   ], 
   "url_slug": "or-greg-walden"

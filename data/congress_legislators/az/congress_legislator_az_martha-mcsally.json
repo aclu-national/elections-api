@@ -8,6 +8,7 @@
     "bioguide": "M001197", 
     "cspan": 29126, 
     "fec": [
+      "S8AZ00221", 
       "H2AZ08102"
     ], 
     "google_entity_id": "kg:/m/027fybv", 
@@ -25,13 +26,6 @@
     "first": "Martha", 
     "last": "McSally", 
     "official_full": "Martha McSally"
-  }, 
-  "social": {
-    "facebook": "RepMcSally", 
-    "instagram": "repmcsally", 
-    "twitter": "RepMcSally", 
-    "twitter_id": 2964949642, 
-    "youtube_id": "UCfHMG2Db0TJ_RatSBHuH8NA"
   }, 
   "terms": [
     {
@@ -59,6 +53,16 @@
       "state": "AZ", 
       "type": "rep", 
       "url": "https://mcsally.house.gov"
+    }, 
+    {
+      "class": 3, 
+      "end": "2021-01-03", 
+      "party": "Republican", 
+      "start": "2019-01-03", 
+      "state": "AZ", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "http://www.mcsally.senate.gov"
     }
   ], 
   "url_slug": "az-martha-mcsally"

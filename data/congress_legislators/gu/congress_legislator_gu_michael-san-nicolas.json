@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1981-01-30", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11534", 
+    "bioguide": "S001204", 
+    "fec": [
+      "H8GU01020"
+    ], 
+    "govtrack": 412770
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "San Nicolas", 
+    "middle": "F. Q."
+  }, 
+  "terms": [
+    {
+      "address": "1632 Longworth House Office Building; Washington DC 20515-5301", 
+      "district": 0, 
+      "end": "2021-01-03", 
+      "office": "1632 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1188", 
+      "start": "2019-01-03", 
+      "state": "GU", 
+      "type": "rep", 
+      "url": "https://sannicolas.house.gov/"
+    }
+  ], 
+  "url_slug": "gu-michael-san-nicolas"
+}

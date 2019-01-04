@@ -137,6 +137,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://mariodiazbalart.house.gov"
+    }, 
+    {
+      "address": "404 Cannon House Office Building; Washington DC 20515-0925", 
+      "district": 25, 
+      "end": "2021-01-03", 
+      "office": "404 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4211", 
+      "rss_url": "http://mariodiazbalart.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://mariodiazbalart.house.gov"
     }
   ], 
   "url_slug": "fl-mario-diaz-balart"

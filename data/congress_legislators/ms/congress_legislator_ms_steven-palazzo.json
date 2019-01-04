@@ -92,6 +92,19 @@
       "state": "MS", 
       "type": "rep", 
       "url": "https://palazzo.house.gov"
+    }, 
+    {
+      "address": "2349 Rayburn House Office Building; Washington DC 20515-2404", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2349 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5772", 
+      "rss_url": "http://palazzo.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "https://palazzo.house.gov"
     }
   ], 
   "url_slug": "ms-steven-palazzo"

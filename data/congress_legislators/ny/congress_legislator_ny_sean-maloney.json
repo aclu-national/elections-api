@@ -77,6 +77,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://seanmaloney.house.gov"
+    }, 
+    {
+      "address": "2331 Rayburn House Office Building; Washington DC 20515-3218", 
+      "district": 18, 
+      "end": "2021-01-03", 
+      "office": "2331 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5441", 
+      "rss_url": "http://seanmaloney.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://seanmaloney.house.gov"
     }
   ], 
   "url_slug": "ny-sean-maloney"

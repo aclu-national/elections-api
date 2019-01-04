@@ -154,6 +154,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://meeks.house.gov"
+    }, 
+    {
+      "address": "2310 Rayburn House Office Building; Washington DC 20515-3205", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "2310 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3461", 
+      "rss_url": "http://meeks.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://meeks.house.gov"
     }
   ], 
   "url_slug": "ny-gregory-meeks"

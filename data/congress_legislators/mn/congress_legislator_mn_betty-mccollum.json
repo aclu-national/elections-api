@@ -139,6 +139,19 @@
       "state": "MN", 
       "type": "rep", 
       "url": "https://mccollum.house.gov"
+    }, 
+    {
+      "address": "2256 Rayburn House Office Building; Washington DC 20515-2304", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2256 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6631", 
+      "rss_url": "http://mccollum.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://mccollum.house.gov"
     }
   ], 
   "url_slug": "mn-betty-mccollum"

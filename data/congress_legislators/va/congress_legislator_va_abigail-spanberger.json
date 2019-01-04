@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1979-08-07", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11604", 
+    "bioguide": "S001209", 
+    "fec": [
+      "H8VA07094"
+    ], 
+    "govtrack": 412833
+  }, 
+  "name": {
+    "first": "Abigail", 
+    "last": "Spanberger", 
+    "middle": "Davis"
+  }, 
+  "terms": [
+    {
+      "address": "1239 Longworth House Office Building; Washington DC 20515-4607", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1239 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2815", 
+      "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://spanberger.house.gov/"
+    }
+  ], 
+  "url_slug": "va-abigail-spanberger"
+}

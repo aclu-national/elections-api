@@ -166,6 +166,18 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://velazquez.house.gov"
+    }, 
+    {
+      "address": "2302 Rayburn House Office Building; Washington DC 20515-3207", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "2302 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2361", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://velazquez.house.gov"
     }
   ], 
   "url_slug": "ny-nydia-velazquez"

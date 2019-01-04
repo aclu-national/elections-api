@@ -43,6 +43,18 @@
       "state": "MD", 
       "type": "rep", 
       "url": "https://raskin.house.gov"
+    }, 
+    {
+      "address": "412 Cannon House Office Building; Washington DC 20515-2008", 
+      "district": 8, 
+      "end": "2021-01-03", 
+      "office": "412 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5341", 
+      "start": "2019-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://raskin.house.gov"
     }
   ], 
   "url_slug": "md-jamie-raskin"

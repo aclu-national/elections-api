@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1977-01-19", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11574", 
+    "bioguide": "D000630", 
+    "fec": [
+      "H8NY19181"
+    ], 
+    "govtrack": 412805
+  }, 
+  "name": {
+    "first": "Antonio", 
+    "last": "Delgado"
+  }, 
+  "terms": [
+    {
+      "address": "1007 Longworth House Office Building; Washington DC 20515-3219", 
+      "district": 19, 
+      "end": "2021-01-03", 
+      "office": "1007 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5614", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://delgado.house.gov/"
+    }
+  ], 
+  "url_slug": "ny-antonio-delgado"
+}

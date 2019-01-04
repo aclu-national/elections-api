@@ -92,6 +92,19 @@
       "state": "LA", 
       "type": "rep", 
       "url": "https://richmond.house.gov"
+    }, 
+    {
+      "address": "506 Cannon House Office Building; Washington DC 20515-1802", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "506 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6636", 
+      "rss_url": "http://richmond.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "LA", 
+      "type": "rep", 
+      "url": "https://richmond.house.gov"
     }
   ], 
   "url_slug": "la-cedric-richmond"

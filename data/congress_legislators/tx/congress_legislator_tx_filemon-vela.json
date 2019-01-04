@@ -77,6 +77,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://vela.house.gov"
+    }, 
+    {
+      "address": "307 Cannon House Office Building; Washington DC 20515-4334", 
+      "district": 34, 
+      "end": "2021-01-03", 
+      "office": "307 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9901", 
+      "rss_url": "http://vela.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://vela.house.gov"
     }
   ], 
   "url_slug": "tx-filemon-vela"

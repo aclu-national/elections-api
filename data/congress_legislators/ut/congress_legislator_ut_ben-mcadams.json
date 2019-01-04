@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1974-12-05", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11602", 
+    "bioguide": "M001209", 
+    "fec": [
+      "H8UT04053"
+    ], 
+    "govtrack": 412829
+  }, 
+  "name": {
+    "first": "Ben", 
+    "last": "McAdams"
+  }, 
+  "terms": [
+    {
+      "address": "130 Cannon House Office Building; Washington DC 20515-4404", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "130 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3011", 
+      "start": "2019-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://mcadams.house.gov/"
+    }
+  ], 
+  "url_slug": "ut-ben-mcadams"
+}

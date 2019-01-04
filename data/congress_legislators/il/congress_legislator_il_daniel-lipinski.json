@@ -125,6 +125,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://lipinski.house.gov"
+    }, 
+    {
+      "address": "2346 Rayburn House Office Building; Washington DC 20515-1303", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "2346 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5701", 
+      "rss_url": "http://www.lipinski.house.gov/common/rss//index.cfm?rss=25", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://lipinski.house.gov"
     }
   ], 
   "url_slug": "il-daniel-lipinski"

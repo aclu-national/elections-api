@@ -114,6 +114,19 @@
       "state": "GA", 
       "type": "rep", 
       "url": "https://hankjohnson.house.gov"
+    }, 
+    {
+      "address": "2240 Rayburn House Office Building; Washington DC 20515-1004", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2240 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1605", 
+      "rss_url": "http://hankjohnson.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://hankjohnson.house.gov"
     }
   ], 
   "url_slug": "ga-henry-johnson"

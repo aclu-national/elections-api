@@ -91,6 +91,19 @@
       "state": "GA", 
       "type": "rep", 
       "url": "https://woodall.house.gov"
+    }, 
+    {
+      "address": "1724 Longworth House Office Building; Washington DC 20515-1007", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1724 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4272", 
+      "rss_url": "http://woodall.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://woodall.house.gov"
     }
   ], 
   "url_slug": "ga-rob-woodall"

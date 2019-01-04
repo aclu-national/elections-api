@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1975-08-15", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11607", 
+    "bioguide": "L000591", 
+    "fec": [
+      "H8VA02111"
+    ], 
+    "govtrack": 412830
+  }, 
+  "name": {
+    "first": "Elaine", 
+    "last": "Luria", 
+    "middle": "G."
+  }, 
+  "terms": [
+    {
+      "address": "534 Cannon House Office Building; Washington DC 20515-4602", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "534 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4215", 
+      "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://luria.house.gov/"
+    }
+  ], 
+  "url_slug": "va-elaine-luria"
+}

@@ -44,6 +44,18 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://francisrooney.house.gov"
+    }, 
+    {
+      "address": "120 Cannon House Office Building; Washington DC 20515-0919", 
+      "district": 19, 
+      "end": "2021-01-03", 
+      "office": "120 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2536", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://francisrooney.house.gov"
     }
   ], 
   "url_slug": "fl-francis-rooney"

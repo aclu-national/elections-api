@@ -151,6 +151,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.cardin.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.cardin.senate.gov/rss/feeds/?type=all", 
+      "start": "2019-01-03", 
+      "state": "MD", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.cardin.senate.gov"
     }
   ], 
   "url_slug": "md-benjamin-cardin"

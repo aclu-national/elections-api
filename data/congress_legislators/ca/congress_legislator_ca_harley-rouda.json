@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1961-12-10", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11518", 
+    "bioguide": "R000616", 
+    "fec": [
+      "H8CA48035"
+    ], 
+    "govtrack": 412759
+  }, 
+  "name": {
+    "first": "Harley", 
+    "last": "Rouda"
+  }, 
+  "terms": [
+    {
+      "address": "2300 Rayburn House Office Building; Washington DC 20515-0548", 
+      "district": 48, 
+      "end": "2021-01-03", 
+      "office": "2300 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2415", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://rouda.house.gov/"
+    }
+  ], 
+  "url_slug": "ca-harley-rouda"
+}

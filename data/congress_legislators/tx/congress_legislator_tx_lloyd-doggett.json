@@ -162,6 +162,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://doggett.house.gov"
+    }, 
+    {
+      "address": "2307 Rayburn House Office Building; Washington DC 20515-4335", 
+      "district": 35, 
+      "end": "2021-01-03", 
+      "office": "2307 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4865", 
+      "rss_url": "http://doggett.house.gov/index.php/component/ninjarsssyndicator/?feed_id=1&amp;format=raw", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://doggett.house.gov"
     }
   ], 
   "url_slug": "tx-lloyd-doggett"

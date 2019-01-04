@@ -119,6 +119,18 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://conaway.house.gov"
+    }, 
+    {
+      "address": "2469 Rayburn House Office Building; Washington DC 20515-4311", 
+      "district": 11, 
+      "end": "2021-01-03", 
+      "office": "2469 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3605", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://conaway.house.gov"
     }
   ], 
   "url_slug": "tx-k-conaway"

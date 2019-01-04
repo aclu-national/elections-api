@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1975-02-13", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11597", 
+    "bioguide": "F000468", 
+    "fec": [
+      "H8TX07140"
+    ], 
+    "govtrack": 412824
+  }, 
+  "name": {
+    "first": "Lizzie", 
+    "last": "Fletcher"
+  }, 
+  "terms": [
+    {
+      "address": "1429 Longworth House Office Building; Washington DC 20515-4307", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1429 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2571", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://fletcher.house.gov/"
+    }
+  ], 
+  "url_slug": "tx-lizzie-fletcher"
+}

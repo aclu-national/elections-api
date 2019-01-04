@@ -65,15 +65,28 @@
       "url": "http://dennyheck.house.gov"
     }, 
     {
-      "address": "425 Cannon House Office Building; Washington DC 20515-4710", 
+      "address": "2452 Cannon House Office Building; Washington DC 20515-4710", 
       "district": 10, 
       "end": "2019-01-03", 
       "fax": "202-225-0129", 
-      "office": "425 Cannon House Office Building", 
+      "office": "2452 Cannon House Office Building", 
       "party": "Democrat", 
       "phone": "202-225-9740", 
       "rss_url": "http://dennyheck.house.gov/rss.xml", 
       "start": "2017-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://dennyheck.house.gov"
+    }, 
+    {
+      "address": "2452 Rayburn House Office Building; Washington DC 20515-4710", 
+      "district": 10, 
+      "end": "2021-01-03", 
+      "office": "2452 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9740", 
+      "rss_url": "http://dennyheck.house.gov/rss.xml", 
+      "start": "2019-01-03", 
       "state": "WA", 
       "type": "rep", 
       "url": "https://dennyheck.house.gov"

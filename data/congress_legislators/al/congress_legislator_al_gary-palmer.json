@@ -59,6 +59,18 @@
       "state": "AL", 
       "type": "rep", 
       "url": "https://palmer.house.gov"
+    }, 
+    {
+      "address": "207 Cannon House Office Building; Washington DC 20515-0106", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "207 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4921", 
+      "start": "2019-01-03", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "https://palmer.house.gov"
     }
   ], 
   "url_slug": "al-gary-palmer"

@@ -101,6 +101,19 @@
       "state": "OR", 
       "type": "rep", 
       "url": "https://schrader.house.gov"
+    }, 
+    {
+      "address": "2431 Rayburn House Office Building; Washington DC 20515-3705", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "2431 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5711", 
+      "rss_url": "http://schrader.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "https://schrader.house.gov"
     }
   ], 
   "url_slug": "or-kurt-schrader"

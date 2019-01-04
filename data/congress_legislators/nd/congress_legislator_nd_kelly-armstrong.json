@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1976-10-08", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11562", 
+    "bioguide": "A000377", 
+    "fec": [
+      "H8ND00096"
+    ], 
+    "govtrack": 412794
+  }, 
+  "name": {
+    "first": "Kelly", 
+    "last": "Armstrong"
+  }, 
+  "terms": [
+    {
+      "address": "1004 Longworth House Office Building; Washington DC 20515-3400", 
+      "district": 0, 
+      "end": "2021-01-03", 
+      "office": "1004 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2611", 
+      "start": "2019-01-03", 
+      "state": "ND", 
+      "type": "rep", 
+      "url": "https://armstrong.house.gov/"
+    }
+  ], 
+  "url_slug": "nd-kelly-armstrong"
+}

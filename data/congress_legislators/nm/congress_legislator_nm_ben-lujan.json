@@ -103,6 +103,19 @@
       "state": "NM", 
       "type": "rep", 
       "url": "https://lujan.house.gov"
+    }, 
+    {
+      "address": "2323 Rayburn House Office Building; Washington DC 20515-3103", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "2323 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6190", 
+      "rss_url": "http://lujan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1", 
+      "start": "2019-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://lujan.house.gov"
     }
   ], 
   "url_slug": "nm-ben-lujan"

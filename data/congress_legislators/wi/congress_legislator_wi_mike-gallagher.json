@@ -41,6 +41,18 @@
       "state": "WI", 
       "type": "rep", 
       "url": "https://gallagher.house.gov"
+    }, 
+    {
+      "address": "1230 Longworth House Office Building; Washington DC 20515-4908", 
+      "district": 8, 
+      "end": "2021-01-03", 
+      "office": "1230 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5665", 
+      "start": "2019-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://gallagher.house.gov"
     }
   ], 
   "url_slug": "wi-mike-gallagher"

@@ -44,6 +44,18 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://espaillat.house.gov"
+    }, 
+    {
+      "address": "1630 Longworth House Office Building; Washington DC 20515-3213", 
+      "district": 13, 
+      "end": "2021-01-03", 
+      "office": "1630 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4365", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://espaillat.house.gov"
     }
   ], 
   "url_slug": "ny-adriano-espaillat"

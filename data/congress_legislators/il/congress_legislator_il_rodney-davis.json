@@ -77,6 +77,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://rodneydavis.house.gov"
+    }, 
+    {
+      "address": "1740 Longworth House Office Building; Washington DC 20515-1313", 
+      "district": 13, 
+      "end": "2021-01-03", 
+      "office": "1740 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2371", 
+      "rss_url": "http://rodneydavis.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://rodneydavis.house.gov"
     }
   ], 
   "url_slug": "il-rodney-davis"

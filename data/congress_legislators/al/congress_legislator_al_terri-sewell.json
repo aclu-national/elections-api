@@ -92,6 +92,19 @@
       "state": "AL", 
       "type": "rep", 
       "url": "https://sewell.house.gov"
+    }, 
+    {
+      "address": "2201 Rayburn House Office Building; Washington DC 20515-0107", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "2201 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2665", 
+      "rss_url": "http://sewell.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "https://sewell.house.gov"
     }
   ], 
   "url_slug": "al-terri-sewell"

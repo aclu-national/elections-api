@@ -178,6 +178,19 @@
       "state": "CT", 
       "type": "rep", 
       "url": "https://delauro.house.gov"
+    }, 
+    {
+      "address": "2413 Rayburn House Office Building; Washington DC 20515-0703", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "2413 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3661", 
+      "rss_url": "http://delauro.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "https://delauro.house.gov"
     }
   ], 
   "url_slug": "ct-rosa-delauro"

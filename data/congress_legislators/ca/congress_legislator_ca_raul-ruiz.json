@@ -76,6 +76,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://ruiz.house.gov"
+    }, 
+    {
+      "address": "2342 Rayburn House Office Building; Washington DC 20515-0536", 
+      "district": 36, 
+      "end": "2021-01-03", 
+      "office": "2342 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5330", 
+      "rss_url": "http://ruiz.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://ruiz.house.gov"
     }
   ], 
   "url_slug": "ca-raul-ruiz"

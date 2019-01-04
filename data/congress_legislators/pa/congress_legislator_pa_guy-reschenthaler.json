@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1983-04-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11582", 
+    "bioguide": "R000610", 
+    "fec": [
+      "H8PA18199"
+    ], 
+    "govtrack": 412813
+  }, 
+  "name": {
+    "first": "Guy", 
+    "last": "Reschenthaler"
+  }, 
+  "terms": [
+    {
+      "address": "531 Cannon House Office Building; Washington DC 20515-3814", 
+      "district": 14, 
+      "end": "2021-01-03", 
+      "office": "531 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2065", 
+      "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://reschenthaler.house.gov/"
+    }
+  ], 
+  "url_slug": "pa-guy-reschenthaler"
+}

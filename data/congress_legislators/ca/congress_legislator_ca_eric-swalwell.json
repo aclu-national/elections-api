@@ -73,6 +73,18 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://swalwell.house.gov"
+    }, 
+    {
+      "address": "407 Cannon House Office Building; Washington DC 20515-0515", 
+      "district": 15, 
+      "end": "2021-01-03", 
+      "office": "407 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5065", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://swalwell.house.gov"
     }
   ], 
   "url_slug": "ca-eric-swalwell"

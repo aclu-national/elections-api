@@ -138,6 +138,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://schiff.house.gov"
+    }, 
+    {
+      "address": "2269 Rayburn House Office Building; Washington DC 20515-0528", 
+      "district": 28, 
+      "end": "2021-01-03", 
+      "office": "2269 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4176", 
+      "rss_url": "http://schiff.house.gov/common/rss/?rss=49", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://schiff.house.gov"
     }
   ], 
   "url_slug": "ca-adam-schiff"

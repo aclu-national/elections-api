@@ -79,6 +79,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://veasey.house.gov"
+    }, 
+    {
+      "address": "2348 Rayburn House Office Building; Washington DC 20515-4333", 
+      "district": 33, 
+      "end": "2021-01-03", 
+      "office": "2348 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9897", 
+      "rss_url": "http://veasey.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://veasey.house.gov"
     }
   ], 
   "url_slug": "tx-marc-veasey"

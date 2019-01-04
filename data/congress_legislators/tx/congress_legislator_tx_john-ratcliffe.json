@@ -59,6 +59,18 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://ratcliffe.house.gov"
+    }, 
+    {
+      "address": "223 Cannon House Office Building; Washington DC 20515-4304", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "223 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6673", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://ratcliffe.house.gov"
     }
   ], 
   "url_slug": "tx-john-ratcliffe"

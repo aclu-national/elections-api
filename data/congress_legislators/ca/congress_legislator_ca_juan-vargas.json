@@ -78,6 +78,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://vargas.house.gov"
+    }, 
+    {
+      "address": "2244 Rayburn House Office Building; Washington DC 20515-0551", 
+      "district": 51, 
+      "end": "2021-01-03", 
+      "office": "2244 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8045", 
+      "rss_url": "http://vargas.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://vargas.house.gov"
     }
   ], 
   "url_slug": "ca-juan-vargas"

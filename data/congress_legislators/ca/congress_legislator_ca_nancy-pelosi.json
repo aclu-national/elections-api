@@ -50,6 +50,7 @@
     }, 
     {
       "chamber": "house", 
+      "end": "2019-01-03", 
       "start": "2017-01-03", 
       "title": "Minority Leader"
     }
@@ -221,6 +222,19 @@
       "phone": "202-225-4965", 
       "rss_url": "http://pelosi.house.gov/atom.xml", 
       "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://pelosi.house.gov"
+    }, 
+    {
+      "address": "1236 Longworth House Office Building; Washington DC 20515-0512", 
+      "district": 12, 
+      "end": "2021-01-03", 
+      "office": "1236 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4965", 
+      "rss_url": "http://pelosi.house.gov/atom.xml", 
+      "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://pelosi.house.gov"

@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1960-12-02", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11568", 
+    "bioguide": "H001080", 
+    "fec": [
+      "H8NM01331"
+    ], 
+    "govtrack": 412800
+  }, 
+  "name": {
+    "first": "Debra", 
+    "last": "Haaland", 
+    "middle": "A."
+  }, 
+  "terms": [
+    {
+      "address": "1237 Longworth House Office Building; Washington DC 20515-3101", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "1237 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6316", 
+      "start": "2019-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://haaland.house.gov/"
+    }
+  ], 
+  "url_slug": "nm-debra-haaland"
+}

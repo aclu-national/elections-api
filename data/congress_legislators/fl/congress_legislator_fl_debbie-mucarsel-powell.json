@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1971-01-18", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11527", 
+    "bioguide": "M001207", 
+    "fec": [
+      "H8FL26039"
+    ], 
+    "govtrack": 412767
+  }, 
+  "name": {
+    "first": "Debbie", 
+    "last": "Mucarsel-Powell"
+  }, 
+  "terms": [
+    {
+      "address": "114 Cannon House Office Building; Washington DC 20515-0926", 
+      "district": 26, 
+      "end": "2021-01-03", 
+      "office": "114 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2778", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://mucarsel-powell.house.gov/"
+    }
+  ], 
+  "url_slug": "fl-debbie-mucarsel-powell"
+}

@@ -202,6 +202,19 @@
       "state": "IN", 
       "type": "rep", 
       "url": "https://visclosky.house.gov"
+    }, 
+    {
+      "address": "2328 Rayburn House Office Building; Washington DC 20515-1401", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2328 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2461", 
+      "rss_url": "http://visclosky.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://visclosky.house.gov"
     }
   ], 
   "url_slug": "in-peter-visclosky"

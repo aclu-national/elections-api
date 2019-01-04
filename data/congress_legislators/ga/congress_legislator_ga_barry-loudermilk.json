@@ -58,6 +58,18 @@
       "state": "GA", 
       "type": "rep", 
       "url": "https://loudermilk.house.gov"
+    }, 
+    {
+      "address": "422 Cannon House Office Building; Washington DC 20515-1011", 
+      "district": 11, 
+      "end": "2021-01-03", 
+      "office": "422 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2931", 
+      "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://loudermilk.house.gov"
     }
   ], 
   "url_slug": "ga-barry-loudermilk"

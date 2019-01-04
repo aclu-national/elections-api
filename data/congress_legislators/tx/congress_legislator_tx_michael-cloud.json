@@ -34,6 +34,18 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://cloud.house.gov/"
+    }, 
+    {
+      "address": "1314 Longworth House Office Building; Washington DC 20515-4327", 
+      "district": 27, 
+      "end": "2021-01-03", 
+      "office": "1314 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-7742", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://cloud.house.gov/"
     }
   ], 
   "url_slug": "tx-michael-cloud"

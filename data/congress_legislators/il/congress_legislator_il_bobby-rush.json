@@ -170,6 +170,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://rush.house.gov"
+    }, 
+    {
+      "address": "2188 Rayburn House Office Building; Washington DC 20515-1301", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2188 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4372", 
+      "rss_url": "http://rush.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://rush.house.gov"
     }
   ], 
   "url_slug": "il-bobby-rush"

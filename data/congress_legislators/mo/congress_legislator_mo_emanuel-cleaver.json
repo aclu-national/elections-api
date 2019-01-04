@@ -118,6 +118,19 @@
       "state": "MO", 
       "type": "rep", 
       "url": "https://cleaver.house.gov"
+    }, 
+    {
+      "address": "2335 Rayburn House Office Building; Washington DC 20515-2505", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "2335 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4535", 
+      "rss_url": "http://cleaver.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://cleaver.house.gov"
     }
   ], 
   "url_slug": "mo-emanuel-cleaver"

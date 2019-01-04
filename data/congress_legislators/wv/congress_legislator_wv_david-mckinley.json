@@ -92,6 +92,19 @@
       "state": "WV", 
       "type": "rep", 
       "url": "https://mckinley.house.gov"
+    }, 
+    {
+      "address": "2239 Rayburn House Office Building; Washington DC 20515-4801", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2239 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4172", 
+      "rss_url": "http://mckinley.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2019-01-03", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "https://mckinley.house.gov"
     }
   ], 
   "url_slug": "wv-david-mckinley"

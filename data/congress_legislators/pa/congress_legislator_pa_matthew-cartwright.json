@@ -78,6 +78,19 @@
       "state": "PA", 
       "type": "rep", 
       "url": "https://cartwright.house.gov"
+    }, 
+    {
+      "address": "1034 Longworth House Office Building; Washington DC 20515-3808", 
+      "district": 8, 
+      "end": "2021-01-03", 
+      "office": "1034 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5546", 
+      "rss_url": "http://cartwright.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://cartwright.house.gov"
     }
   ], 
   "url_slug": "pa-matthew-cartwright"

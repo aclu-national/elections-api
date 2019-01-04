@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1966-11-07", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11571", 
+    "bioguide": "L000590", 
+    "fec": [
+      "H8NV03200"
+    ], 
+    "govtrack": 412802
+  }, 
+  "name": {
+    "first": "Susie", 
+    "last": "Lee"
+  }, 
+  "terms": [
+    {
+      "address": "522 Cannon House Office Building; Washington DC 20515-2803", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "522 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3252", 
+      "start": "2019-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "https://susielee.house.gov/"
+    }
+  ], 
+  "url_slug": "nv-susie-lee"
+}

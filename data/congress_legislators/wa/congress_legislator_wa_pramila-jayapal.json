@@ -43,6 +43,18 @@
       "state": "WA", 
       "type": "rep", 
       "url": "https://jayapal.house.gov"
+    }, 
+    {
+      "address": "1510 Longworth House Office Building; Washington DC 20515-4707", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1510 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3106", 
+      "start": "2019-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://jayapal.house.gov"
     }
   ], 
   "url_slug": "wa-pramila-jayapal"

@@ -59,6 +59,18 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://walker.house.gov"
+    }, 
+    {
+      "address": "1725 Longworth House Office Building; Washington DC 20515-3306", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "1725 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3065", 
+      "start": "2019-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://walker.house.gov"
     }
   ], 
   "url_slug": "nc-mark-walker"

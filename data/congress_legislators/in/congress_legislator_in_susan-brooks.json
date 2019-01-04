@@ -80,6 +80,19 @@
       "state": "IN", 
       "type": "rep", 
       "url": "https://susanwbrooks.house.gov"
+    }, 
+    {
+      "address": "2211 Rayburn House Office Building; Washington DC 20515-1405", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "2211 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2276", 
+      "rss_url": "http://susanwbrooks.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://susanwbrooks.house.gov"
     }
   ], 
   "url_slug": "in-susan-brooks"

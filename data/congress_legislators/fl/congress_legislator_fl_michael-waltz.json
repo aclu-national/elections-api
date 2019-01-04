@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1974-01-31", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11529", 
+    "bioguide": "W000823", 
+    "fec": [
+      "H8FL06148"
+    ], 
+    "govtrack": 412764
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "Waltz"
+  }, 
+  "terms": [
+    {
+      "address": "216 Cannon House Office Building; Washington DC 20515-0906", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "216 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2706", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://waltz.house.gov/"
+    }
+  ], 
+  "url_slug": "fl-michael-waltz"
+}

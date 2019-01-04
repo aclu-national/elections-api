@@ -93,6 +93,19 @@
       "state": "AZ", 
       "type": "rep", 
       "url": "https://gosar.house.gov"
+    }, 
+    {
+      "address": "2057 Rayburn House Office Building; Washington DC 20515-0304", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2057 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2315", 
+      "rss_url": "http://gosar.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://gosar.house.gov"
     }
   ], 
   "url_slug": "az-paul-gosar"

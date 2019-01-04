@@ -78,6 +78,19 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://holding.house.gov"
+    }, 
+    {
+      "address": "1110 Longworth House Office Building; Washington DC 20515-3302", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "1110 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3032", 
+      "rss_url": "http://holding.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://holding.house.gov"
     }
   ], 
   "url_slug": "nc-george-holding"

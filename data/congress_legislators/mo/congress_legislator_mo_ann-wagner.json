@@ -76,6 +76,19 @@
       "state": "MO", 
       "type": "rep", 
       "url": "https://wagner.house.gov"
+    }, 
+    {
+      "address": "2350 Rayburn House Office Building; Washington DC 20515-2502", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "2350 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1621", 
+      "rss_url": "http://wagner.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://wagner.house.gov"
     }
   ], 
   "url_slug": "mo-ann-wagner"

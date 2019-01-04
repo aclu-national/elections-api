@@ -1,0 +1,50 @@
+{
+  "bio": {
+    "birthday": "1957-06-07", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11586", 
+    "ballotpedia": "Susan Wild", 
+    "bioguide": "W000826", 
+    "fec": [
+      "H8PA15229"
+    ], 
+    "govtrack": 412751, 
+    "wikidata": "Q58323072", 
+    "wikipedia": "Susan Wild"
+  }, 
+  "name": {
+    "first": "Susan", 
+    "last": "Wild", 
+    "middle": "Ellis", 
+    "official_full": "Susan Wild"
+  }, 
+  "terms": [
+    {
+      "address": "2082 Rayburn House Office Building; Washington DC 20515-3815", 
+      "district": 15, 
+      "end": "2019-01-03", 
+      "office": "2082 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6411", 
+      "start": "2018-11-27", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://wild.house.gov"
+    }, 
+    {
+      "address": "1607 Longworth House Office Building; Washington DC 20515-3807", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1607 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6411", 
+      "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://wild.house.gov"
+    }
+  ], 
+  "url_slug": "pa-susan-wild"
+}

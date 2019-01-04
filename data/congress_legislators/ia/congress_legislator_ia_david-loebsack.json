@@ -110,6 +110,19 @@
       "state": "IA", 
       "type": "rep", 
       "url": "https://loebsack.house.gov"
+    }, 
+    {
+      "address": "1211 Longworth House Office Building; Washington DC 20515-1502", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "1211 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6576", 
+      "rss_url": "http://loebsack.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "IA", 
+      "type": "rep", 
+      "url": "https://loebsack.house.gov"
     }
   ], 
   "url_slug": "ia-david-loebsack"

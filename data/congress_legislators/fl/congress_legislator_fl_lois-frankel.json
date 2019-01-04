@@ -80,6 +80,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://frankel.house.gov"
+    }, 
+    {
+      "address": "2305 Rayburn House Office Building; Washington DC 20515-0921", 
+      "district": 21, 
+      "end": "2021-01-03", 
+      "office": "2305 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9890", 
+      "rss_url": "http://frankel.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://frankel.house.gov"
     }
   ], 
   "url_slug": "fl-lois-frankel"

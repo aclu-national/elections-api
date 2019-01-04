@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1972-01-19", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11566", 
+    "bioguide": "S001207", 
+    "fec": [
+      "H8NJ11142"
+    ], 
+    "govtrack": 412799
+  }, 
+  "name": {
+    "first": "Mikie", 
+    "last": "Sherrill"
+  }, 
+  "terms": [
+    {
+      "address": "1208 Longworth House Office Building; Washington DC 20515-3011", 
+      "district": 11, 
+      "end": "2021-01-03", 
+      "office": "1208 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5034", 
+      "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://sherrill.house.gov/"
+    }
+  ], 
+  "url_slug": "nj-mikie-sherrill"
+}

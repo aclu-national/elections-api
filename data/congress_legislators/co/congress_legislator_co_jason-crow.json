@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1979-03-15", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11524", 
+    "bioguide": "C001121", 
+    "fec": [
+      "H8CO06229"
+    ], 
+    "govtrack": 412762
+  }, 
+  "name": {
+    "first": "Jason", 
+    "last": "Crow"
+  }, 
+  "terms": [
+    {
+      "address": "1229 Longworth House Office Building; Washington DC 20515-0606", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "1229 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7882", 
+      "start": "2019-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "https://crow.house.gov/"
+    }
+  ], 
+  "url_slug": "co-jason-crow"
+}

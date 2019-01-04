@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1970-02-04", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11561", 
+    "bioguide": "G000591", 
+    "fec": [
+      "H8MS03125"
+    ], 
+    "govtrack": 412793
+  }, 
+  "name": {
+    "first": "Michael", 
+    "last": "Guest"
+  }, 
+  "terms": [
+    {
+      "address": "230 Cannon House Office Building; Washington DC 20515-2403", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "230 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5031", 
+      "start": "2019-01-03", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "https://guest.house.gov/"
+    }
+  ], 
+  "url_slug": "ms-michael-guest"
+}

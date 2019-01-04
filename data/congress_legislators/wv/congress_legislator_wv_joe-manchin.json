@@ -64,6 +64,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.manchin.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.manchin.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2019-01-03", 
+      "state": "WV", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.manchin.senate.gov"
     }
   ], 
   "url_slug": "wv-joe-manchin"

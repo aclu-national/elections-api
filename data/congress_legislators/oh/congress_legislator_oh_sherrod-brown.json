@@ -125,6 +125,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.brown.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.brown.senate.gov/rss/feeds/?type=all&amp;", 
+      "start": "2019-01-03", 
+      "state": "OH", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.brown.senate.gov"
     }
   ], 
   "url_slug": "oh-sherrod-brown"

@@ -55,6 +55,18 @@
       "state": "AZ", 
       "type": "rep", 
       "url": "https://rubengallego.house.gov"
+    }, 
+    {
+      "address": "1131 Longworth House Office Building; Washington DC 20515-0307", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1131 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4065", 
+      "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://rubengallego.house.gov"
     }
   ], 
   "url_slug": "az-ruben-gallego"

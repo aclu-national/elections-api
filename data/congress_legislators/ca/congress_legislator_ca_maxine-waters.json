@@ -178,6 +178,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://waters.house.gov"
+    }, 
+    {
+      "address": "2221 Rayburn House Office Building; Washington DC 20515-0543", 
+      "district": 43, 
+      "end": "2021-01-03", 
+      "office": "2221 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2201", 
+      "rss_url": "http://waters.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://waters.house.gov"
     }
   ], 
   "url_slug": "ca-maxine-waters"

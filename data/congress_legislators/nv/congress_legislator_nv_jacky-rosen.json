@@ -42,6 +42,16 @@
       "state": "NV", 
       "type": "rep", 
       "url": "https://rosen.house.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "start": "2019-01-03", 
+      "state": "NV", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.rosen.senate.gov"
     }
   ], 
   "url_slug": "nv-jacky-rosen"

@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1972", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11517", 
+    "bioguide": "C001123", 
+    "fec": [
+      "H8CA39174"
+    ], 
+    "govtrack": 412757
+  }, 
+  "name": {
+    "first": "Gilbert", 
+    "last": "Cisneros", 
+    "middle": "Ray"
+  }, 
+  "terms": [
+    {
+      "address": "431 Cannon House Office Building; Washington DC 20515-0539", 
+      "district": 39, 
+      "end": "2021-01-03", 
+      "office": "431 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4111", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://cisneros.house.gov/"
+    }
+  ], 
+  "url_slug": "ca-gilbert-cisneros"
+}

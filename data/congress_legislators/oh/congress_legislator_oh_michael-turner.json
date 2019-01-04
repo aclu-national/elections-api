@@ -131,6 +131,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://turner.house.gov"
+    }, 
+    {
+      "address": "2082 Rayburn House Office Building; Washington DC 20515-3510", 
+      "district": 10, 
+      "end": "2021-01-03", 
+      "office": "2082 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6465", 
+      "rss_url": "http://turner.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://turner.house.gov"
     }
   ], 
   "url_slug": "oh-michael-turner"

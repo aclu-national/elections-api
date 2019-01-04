@@ -78,6 +78,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://beatty.house.gov"
+    }, 
+    {
+      "address": "2303 Rayburn House Office Building; Washington DC 20515-3503", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "2303 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4324", 
+      "rss_url": "http://beatty.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://beatty.house.gov"
     }
   ], 
   "url_slug": "oh-joyce-beatty"

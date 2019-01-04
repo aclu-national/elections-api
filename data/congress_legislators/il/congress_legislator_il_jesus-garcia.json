@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1956-04-12", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11539", 
+    "bioguide": "G000586", 
+    "fec": [
+      "H8IL04134"
+    ], 
+    "govtrack": 412774
+  }, 
+  "name": {
+    "first": "Jes\u00fas", 
+    "last": "Garc\u00eda", 
+    "middle": "G."
+  }, 
+  "terms": [
+    {
+      "address": "530 Cannon House Office Building; Washington DC 20515-1304", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "530 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8203", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://jesusgarcia.house.gov/"
+    }
+  ], 
+  "url_slug": "il-jesus-garcia"
+}

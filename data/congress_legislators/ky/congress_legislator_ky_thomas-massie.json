@@ -89,6 +89,19 @@
       "state": "KY", 
       "type": "rep", 
       "url": "https://massie.house.gov"
+    }, 
+    {
+      "address": "2453 Rayburn House Office Building; Washington DC 20515-1704", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2453 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3465", 
+      "rss_url": "http://massie.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "KY", 
+      "type": "rep", 
+      "url": "https://massie.house.gov"
     }
   ], 
   "url_slug": "ky-thomas-massie"

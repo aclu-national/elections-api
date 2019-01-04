@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1973-03-08", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11526", 
+    "bioguide": "H001081", 
+    "fec": [
+      "H8CT05245"
+    ], 
+    "govtrack": 412763
+  }, 
+  "name": {
+    "first": "Jahana", 
+    "last": "Hayes"
+  }, 
+  "terms": [
+    {
+      "address": "1415 Longworth House Office Building; Washington DC 20515-0705", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "1415 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4476", 
+      "start": "2019-01-03", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "https://hayes.house.gov/"
+    }
+  ], 
+  "url_slug": "ct-jahana-hayes"
+}

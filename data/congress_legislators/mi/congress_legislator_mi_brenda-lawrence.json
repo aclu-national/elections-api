@@ -59,6 +59,18 @@
       "state": "MI", 
       "type": "rep", 
       "url": "https://lawrence.house.gov"
+    }, 
+    {
+      "address": "2463 Rayburn House Office Building; Washington DC 20515-2214", 
+      "district": 14, 
+      "end": "2021-01-03", 
+      "office": "2463 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5802", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://lawrence.house.gov"
     }
   ], 
   "url_slug": "mi-brenda-lawrence"

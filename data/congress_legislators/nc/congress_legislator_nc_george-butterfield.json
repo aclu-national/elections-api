@@ -131,6 +131,19 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://butterfield.house.gov"
+    }, 
+    {
+      "address": "2080 Rayburn House Office Building; Washington DC 20515-3301", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2080 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3101", 
+      "rss_url": "http://butterfield.house.gov/rss/press-releases.xml/", 
+      "start": "2019-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://butterfield.house.gov"
     }
   ], 
   "url_slug": "nc-george-butterfield"

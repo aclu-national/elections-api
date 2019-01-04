@@ -155,6 +155,19 @@
       "state": "MA", 
       "type": "rep", 
       "url": "https://mcgovern.house.gov"
+    }, 
+    {
+      "address": "408 Cannon House Office Building; Washington DC 20515-2102", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "408 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6101", 
+      "rss_url": "http://mcgovern.house.gov/common/rss/?rss=15", 
+      "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://mcgovern.house.gov"
     }
   ], 
   "url_slug": "ma-james-mcgovern"

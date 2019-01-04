@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1969-09-15", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11601", 
+    "bioguide": "E000299", 
+    "fec": [
+      "H8TX16109"
+    ], 
+    "govtrack": 412825
+  }, 
+  "name": {
+    "first": "Veronica", 
+    "last": "Escobar"
+  }, 
+  "terms": [
+    {
+      "address": "1505 Longworth House Office Building; Washington DC 20515-4316", 
+      "district": 16, 
+      "end": "2021-01-03", 
+      "office": "1505 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4831", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://escobar.house.gov/"
+    }
+  ], 
+  "url_slug": "tx-veronica-escobar"
+}

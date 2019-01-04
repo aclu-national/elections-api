@@ -146,6 +146,19 @@
       "state": "CT", 
       "type": "rep", 
       "url": "https://larson.house.gov"
+    }, 
+    {
+      "address": "1501 Longworth House Office Building; Washington DC 20515-0701", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "1501 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2265", 
+      "rss_url": "http://www.larson.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "https://larson.house.gov"
     }
   ], 
   "url_slug": "ct-john-larson"

@@ -74,6 +74,18 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://adams.house.gov"
+    }, 
+    {
+      "address": "2436 Rayburn House Office Building; Washington DC 20515-3312", 
+      "district": 12, 
+      "end": "2021-01-03", 
+      "office": "2436 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1510", 
+      "start": "2019-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://adams.house.gov"
     }
   ], 
   "url_slug": "nc-alma-adams"

@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1968-08-23", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11609", 
+    "bioguide": "S001216", 
+    "fec": [
+      "H8WA08189"
+    ], 
+    "govtrack": 412835
+  }, 
+  "name": {
+    "first": "Kim", 
+    "last": "Schrier"
+  }, 
+  "terms": [
+    {
+      "address": "1123 Longworth House Office Building; Washington DC 20515-4708", 
+      "district": 8, 
+      "end": "2021-01-03", 
+      "office": "1123 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7761", 
+      "start": "2019-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://schrier.house.gov/"
+    }
+  ], 
+  "url_slug": "wa-kim-schrier"
+}

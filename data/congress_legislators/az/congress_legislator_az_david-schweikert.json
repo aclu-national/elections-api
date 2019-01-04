@@ -93,6 +93,19 @@
       "state": "AZ", 
       "type": "rep", 
       "url": "https://schweikert.house.gov"
+    }, 
+    {
+      "address": "1526 Longworth House Office Building; Washington DC 20515-0306", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "1526 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2190", 
+      "rss_url": "http://schweikert.house.gov/rss/press-releases.xml", 
+      "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://schweikert.house.gov"
     }
   ], 
   "url_slug": "az-david-schweikert"

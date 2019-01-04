@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1953-02-23", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11565", 
+    "bioguide": "V000133", 
+    "fec": [
+      "H8NJ02166"
+    ], 
+    "govtrack": 412796
+  }, 
+  "name": {
+    "first": "Jefferson", 
+    "last": "Van Drew"
+  }, 
+  "terms": [
+    {
+      "address": "331 Cannon House Office Building; Washington DC 20515-3002", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "331 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6572", 
+      "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://vandrew.house.gov/"
+    }
+  ], 
+  "url_slug": "nj-jefferson-van-drew"
+}

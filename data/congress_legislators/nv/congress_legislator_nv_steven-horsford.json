@@ -1,0 +1,60 @@
+{
+  "bio": {
+    "birthday": "1973-04-29", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11570", 
+    "ballotpedia": "Steven Horsford", 
+    "bioguide": "H001066", 
+    "cspan": 79614, 
+    "fec": [
+      "H2NV04011"
+    ], 
+    "google_entity_id": "kg:/m/03c01w9", 
+    "govtrack": 412559, 
+    "icpsr": 21339, 
+    "maplight": 1783, 
+    "opensecrets": "N00033638", 
+    "thomas": "02147", 
+    "votesmart": 44064, 
+    "wikidata": "Q3514907", 
+    "wikipedia": "Steven Horsford"
+  }, 
+  "name": {
+    "first": "Steven", 
+    "last": "Horsford", 
+    "middle": "A.", 
+    "official_full": "Steven A. Horsford"
+  }, 
+  "terms": [
+    {
+      "address": "1330 Longworth HOB; Washington DC 20515-2804", 
+      "contact_form": "https://horsford.house.gov/contact/email-me", 
+      "district": 4, 
+      "end": "2015-01-03", 
+      "office": "1330 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9894", 
+      "rss_url": "http://horsford.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://horsford.house.gov"
+    }, 
+    {
+      "address": "1330 Longworth House Office Building; Washington DC 20515-2804", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "1330 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9894", 
+      "rss_url": "http://horsford.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "http://horsford.house.gov"
+    }
+  ], 
+  "url_slug": "nv-steven-horsford"
+}

@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1984-09-19", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11577", 
+    "bioguide": "G000588", 
+    "fec": [
+      "H8OH16124"
+    ], 
+    "govtrack": 412807
+  }, 
+  "name": {
+    "first": "Anthony", 
+    "last": "Gonzalez"
+  }, 
+  "terms": [
+    {
+      "address": "1023 Longworth House Office Building; Washington DC 20515-3516", 
+      "district": 16, 
+      "end": "2021-01-03", 
+      "office": "1023 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3876", 
+      "start": "2019-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://anthonygonzalez.house.gov/"
+    }
+  ], 
+  "url_slug": "oh-anthony-gonzalez"
+}

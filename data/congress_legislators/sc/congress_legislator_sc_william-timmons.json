@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1984-04-30", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11588", 
+    "bioguide": "T000480", 
+    "fec": [
+      "H8SC04250"
+    ], 
+    "govtrack": 412815
+  }, 
+  "name": {
+    "first": "William", 
+    "last": "Timmons", 
+    "middle": "R."
+  }, 
+  "terms": [
+    {
+      "address": "313 Cannon House Office Building; Washington DC 20515-4004", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "313 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6030", 
+      "start": "2019-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://timmons.house.gov/"
+    }
+  ], 
+  "url_slug": "sc-william-timmons"
+}

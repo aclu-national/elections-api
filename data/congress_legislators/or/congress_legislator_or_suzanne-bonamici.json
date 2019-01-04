@@ -92,6 +92,19 @@
       "state": "OR", 
       "type": "rep", 
       "url": "https://bonamici.house.gov"
+    }, 
+    {
+      "address": "2231 Rayburn House Office Building; Washington DC 20515-3701", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2231 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0855", 
+      "rss_url": "http://bonamici.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "OR", 
+      "type": "rep", 
+      "url": "https://bonamici.house.gov"
     }
   ], 
   "url_slug": "or-suzanne-bonamici"

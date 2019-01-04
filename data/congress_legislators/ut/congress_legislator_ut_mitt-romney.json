@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1947-03-12", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11603", 
+    "ballotpedia": "Mitt Romney", 
+    "bioguide": "R000615", 
+    "fec": [
+      "S4MA00143"
+    ], 
+    "govtrack": 412841, 
+    "wikidata": "Q4496", 
+    "wikipedia": "MItt Romney"
+  }, 
+  "name": {
+    "first": "Mitt", 
+    "last": "Romney"
+  }, 
+  "terms": [
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "start": "2019-01-03", 
+      "state": "UT", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.romney.senate.gov"
+    }
+  ], 
+  "url_slug": "ut-mitt-romney"
+}

@@ -100,6 +100,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://olson.house.gov"
+    }, 
+    {
+      "address": "2133 Rayburn House Office Building; Washington DC 20515-4322", 
+      "district": 22, 
+      "end": "2021-01-03", 
+      "office": "2133 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5951", 
+      "rss_url": "feed://olson.house.gov/common/rss/?rss=82", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://olson.house.gov"
     }
   ], 
   "url_slug": "tx-pete-olson"

@@ -100,6 +100,18 @@
       "state": "TN", 
       "type": "rep", 
       "url": "https://roe.house.gov"
+    }, 
+    {
+      "address": "102 Cannon House Office Building; Washington DC 20515-4201", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "102 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6356", 
+      "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://roe.house.gov"
     }
   ], 
   "url_slug": "tn-david-roe"

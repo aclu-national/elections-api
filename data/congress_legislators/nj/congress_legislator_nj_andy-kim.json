@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1982-07-12", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11564", 
+    "bioguide": "K000394", 
+    "fec": [
+      "H8NJ03206"
+    ], 
+    "govtrack": 412797
+  }, 
+  "name": {
+    "first": "Andy", 
+    "last": "Kim"
+  }, 
+  "terms": [
+    {
+      "address": "1516 Longworth House Office Building; Washington DC 20515-3003", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "1516 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4765", 
+      "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://kim.house.gov/"
+    }
+  ], 
+  "url_slug": "nj-andy-kim"
+}

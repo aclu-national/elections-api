@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1974-01-03", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11521", 
+    "bioguide": "P000618", 
+    "fec": [
+      "H8CA45130"
+    ], 
+    "govtrack": 412758
+  }, 
+  "name": {
+    "first": "Katie", 
+    "last": "Porter"
+  }, 
+  "terms": [
+    {
+      "address": "1117 Longworth House Office Building; Washington DC 20515-0545", 
+      "district": 45, 
+      "end": "2021-01-03", 
+      "office": "1117 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5611", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://porter.house.gov/"
+    }
+  ], 
+  "url_slug": "ca-katie-porter"
+}

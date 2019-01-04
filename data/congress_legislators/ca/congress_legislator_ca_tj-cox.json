@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1963-07-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11523", 
+    "bioguide": "C001124", 
+    "fec": [
+      "H8CA10167"
+    ], 
+    "govtrack": 412755
+  }, 
+  "name": {
+    "first": "TJ", 
+    "last": "Cox"
+  }, 
+  "terms": [
+    {
+      "address": "1728 Longworth House Office Building; Washington DC 20515-0521", 
+      "district": 21, 
+      "end": "2021-01-03", 
+      "office": "1728 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4695", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://cox.house.gov/"
+    }
+  ], 
+  "url_slug": "ca-tj-cox"
+}

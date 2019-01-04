@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1981-10-04", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11557", 
+    "bioguide": "O000173", 
+    "fec": [
+      "H8MN05239"
+    ], 
+    "govtrack": 412791
+  }, 
+  "name": {
+    "first": "Ilhan", 
+    "last": "Omar"
+  }, 
+  "terms": [
+    {
+      "address": "1517 Longworth House Office Building; Washington DC 20515-2305", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "1517 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4755", 
+      "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://omar.house.gov/"
+    }
+  ], 
+  "url_slug": "mn-ilhan-omar"
+}

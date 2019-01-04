@@ -146,6 +146,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://napolitano.house.gov"
+    }, 
+    {
+      "address": "1610 Longworth House Office Building; Washington DC 20515-0532", 
+      "district": 32, 
+      "end": "2021-01-03", 
+      "office": "1610 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5256", 
+      "rss_url": "http://napolitano.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://napolitano.house.gov"
     }
   ], 
   "url_slug": "ca-grace-napolitano"

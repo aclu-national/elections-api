@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1988-12-27", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11536", 
+    "bioguide": "F000467", 
+    "fec": [
+      "H8IA01094"
+    ], 
+    "govtrack": 412771
+  }, 
+  "name": {
+    "first": "Abby", 
+    "last": "Finkenauer"
+  }, 
+  "terms": [
+    {
+      "address": "124 Cannon House Office Building; Washington DC 20515-1501", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "124 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2911", 
+      "start": "2019-01-03", 
+      "state": "IA", 
+      "type": "rep", 
+      "url": "https://finkenauer.house.gov/"
+    }
+  ], 
+  "url_slug": "ia-abby-finkenauer"
+}

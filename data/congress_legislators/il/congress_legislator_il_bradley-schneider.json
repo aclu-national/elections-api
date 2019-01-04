@@ -62,6 +62,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://schneider.house.gov"
+    }, 
+    {
+      "address": "1432 Longworth House Office Building; Washington DC 20515-1310", 
+      "district": 10, 
+      "end": "2021-01-03", 
+      "office": "1432 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4835", 
+      "rss_url": "http://schneider.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://schneider.house.gov"
     }
   ], 
   "url_slug": "il-bradley-schneider"

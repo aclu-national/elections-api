@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1969-01-20", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11556", 
+    "bioguide": "P000616", 
+    "fec": [
+      "H8MN03143"
+    ], 
+    "govtrack": 412790
+  }, 
+  "name": {
+    "first": "Dean", 
+    "last": "Phillips"
+  }, 
+  "terms": [
+    {
+      "address": "1305 Longworth House Office Building; Washington DC 20515-2303", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "1305 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2871", 
+      "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://phillips.house.gov/"
+    }
+  ], 
+  "url_slug": "mn-dean-phillips"
+}

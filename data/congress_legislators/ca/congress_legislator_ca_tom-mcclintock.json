@@ -101,6 +101,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://mcclintock.house.gov"
+    }, 
+    {
+      "address": "2312 Rayburn House Office Building; Washington DC 20515-0504", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2312 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2511", 
+      "rss_url": "http://mcclintock.house.gov/atom.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://mcclintock.house.gov"
     }
   ], 
   "url_slug": "ca-tom-mcclintock"

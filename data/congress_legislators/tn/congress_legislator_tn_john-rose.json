@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1965-02-23", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11590", 
+    "bioguide": "R000612", 
+    "fec": [
+      "H8TN06094"
+    ], 
+    "govtrack": 412818
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Rose", 
+    "middle": "W."
+  }, 
+  "terms": [
+    {
+      "address": "1232 Longworth House Office Building; Washington DC 20515-4206", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "1232 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4231", 
+      "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://johnrose.house.gov/"
+    }
+  ], 
+  "url_slug": "tn-john-rose"
+}

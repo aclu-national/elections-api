@@ -44,6 +44,18 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://mast.house.gov"
+    }, 
+    {
+      "address": "2182 Rayburn House Office Building; Washington DC 20515-0918", 
+      "district": 18, 
+      "end": "2021-01-03", 
+      "office": "2182 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3026", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://mast.house.gov"
     }
   ], 
   "url_slug": "fl-brian-mast"

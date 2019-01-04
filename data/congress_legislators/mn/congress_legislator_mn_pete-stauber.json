@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1966-05-10", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11559", 
+    "bioguide": "S001212", 
+    "fec": [
+      "H8MN08043"
+    ], 
+    "govtrack": 412792
+  }, 
+  "name": {
+    "first": "Pete", 
+    "last": "Stauber"
+  }, 
+  "terms": [
+    {
+      "address": "126 Cannon House Office Building; Washington DC 20515-2308", 
+      "district": 8, 
+      "end": "2021-01-03", 
+      "office": "126 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6211", 
+      "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://stauber.house.gov/"
+    }
+  ], 
+  "url_slug": "mn-pete-stauber"
+}

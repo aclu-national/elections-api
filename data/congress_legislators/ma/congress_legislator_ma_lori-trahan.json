@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1973-10-27", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11548", 
+    "bioguide": "T000482", 
+    "fec": [
+      "H8MA03106"
+    ], 
+    "govtrack": 412781
+  }, 
+  "name": {
+    "first": "Lori", 
+    "last": "Trahan"
+  }, 
+  "terms": [
+    {
+      "address": "1616 Longworth House Office Building; Washington DC 20515-2103", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "1616 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3411", 
+      "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://trahan.house.gov/"
+    }
+  ], 
+  "url_slug": "ma-lori-trahan"
+}

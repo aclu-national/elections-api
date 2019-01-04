@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1986-10-04", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11540", 
+    "bioguide": "U000040", 
+    "fec": [
+      "H8IL14174"
+    ], 
+    "govtrack": 412776
+  }, 
+  "name": {
+    "first": "Lauren", 
+    "last": "Underwood"
+  }, 
+  "terms": [
+    {
+      "address": "1118 Longworth House Office Building; Washington DC 20515-1314", 
+      "district": 14, 
+      "end": "2021-01-03", 
+      "office": "1118 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2976", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://underwood.house.gov/"
+    }
+  ], 
+  "url_slug": "il-lauren-underwood"
+}

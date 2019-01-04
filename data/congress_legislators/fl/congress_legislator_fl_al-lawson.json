@@ -1,6 +1,6 @@
 {
   "bio": {
-    "birthday": "1948-09-21", 
+    "birthday": "1948-09-23", 
     "gender": "M"
   }, 
   "id": {
@@ -38,6 +38,18 @@
       "party": "Democrat", 
       "phone": "202-225-0123", 
       "start": "2017-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://lawson.house.gov"
+    }, 
+    {
+      "address": "1406 Longworth House Office Building; Washington DC 20515-0905", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "1406 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0123", 
+      "start": "2019-01-03", 
       "state": "FL", 
       "type": "rep", 
       "url": "https://lawson.house.gov"

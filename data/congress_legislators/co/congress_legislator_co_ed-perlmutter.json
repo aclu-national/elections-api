@@ -110,6 +110,19 @@
       "state": "CO", 
       "type": "rep", 
       "url": "https://perlmutter.house.gov"
+    }, 
+    {
+      "address": "1226 Longworth House Office Building; Washington DC 20515-0607", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1226 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2645", 
+      "rss_url": "http://perlmutter.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "https://perlmutter.house.gov"
     }
   ], 
   "url_slug": "co-ed-perlmutter"

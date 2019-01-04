@@ -129,6 +129,19 @@
       "state": "UT", 
       "type": "rep", 
       "url": "https://robbishop.house.gov"
+    }, 
+    {
+      "address": "123 Cannon House Office Building; Washington DC 20515-4401", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "123 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-0453", 
+      "rss_url": "http://robbishop.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://robbishop.house.gov"
     }
   ], 
   "url_slug": "ut-rob-bishop"

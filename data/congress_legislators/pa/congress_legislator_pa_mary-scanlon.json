@@ -1,0 +1,50 @@
+{
+  "bio": {
+    "birthday": "1959-08-30", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11585", 
+    "ballotpedia": "Mary Gay Scanlon", 
+    "bioguide": "S001205", 
+    "fec": [
+      "H8PA07200"
+    ], 
+    "govtrack": 412750, 
+    "wikidata": "Q54611716", 
+    "wikipedia": "Mary Gay Scanlon"
+  }, 
+  "name": {
+    "first": "Mary", 
+    "last": "Scanlon", 
+    "middle": "Gay", 
+    "official_full": "Mary Gay Scanlon"
+  }, 
+  "terms": [
+    {
+      "address": "2305 Rayburn House Office Building; Washington DC 20515-3807", 
+      "district": 7, 
+      "end": "2019-01-03", 
+      "office": "2305 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2011", 
+      "start": "2018-11-13", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://scanlon.house.gov"
+    }, 
+    {
+      "address": "1535 Longworth House Office Building; Washington DC 20515-3805", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "1535 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2011", 
+      "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://scanlon.house.gov"
+    }
+  ], 
+  "url_slug": "pa-mary-scanlon"
+}

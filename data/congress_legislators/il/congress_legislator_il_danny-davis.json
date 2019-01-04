@@ -154,6 +154,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://davis.house.gov"
+    }, 
+    {
+      "address": "2159 Rayburn House Office Building; Washington DC 20515-1307", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "2159 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5006", 
+      "rss_url": "http://davis.house.gov/index.php?format=feed&type=rss", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://davis.house.gov"
     }
   ], 
   "url_slug": "il-danny-davis"

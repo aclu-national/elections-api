@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1964-11-08", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11591", 
+    "bioguide": "G000590", 
+    "fec": [
+      "H8TN07076"
+    ], 
+    "govtrack": 412819
+  }, 
+  "name": {
+    "first": "Mark", 
+    "last": "Green", 
+    "middle": "E."
+  }, 
+  "terms": [
+    {
+      "address": "533 Cannon House Office Building; Washington DC 20515-4207", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "533 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2811", 
+      "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://markgreen.house.gov"
+    }
+  ], 
+  "url_slug": "tn-mark-green"
+}

@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1978-11-22", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11573", 
+    "bioguide": "B001308", 
+    "fec": [
+      "H8NY22151"
+    ], 
+    "govtrack": 412806
+  }, 
+  "name": {
+    "first": "Anthony", 
+    "last": "Brindisi"
+  }, 
+  "terms": [
+    {
+      "address": "329 Cannon House Office Building; Washington DC 20515-3222", 
+      "district": 22, 
+      "end": "2021-01-03", 
+      "office": "329 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3665", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://brindisi.house.gov/"
+    }
+  ], 
+  "url_slug": "ny-anthony-brindisi"
+}

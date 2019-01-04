@@ -59,6 +59,18 @@
       "state": "MI", 
       "type": "rep", 
       "url": "https://debbiedingell.house.gov"
+    }, 
+    {
+      "address": "116 Cannon House Office Building; Washington DC 20515-2212", 
+      "district": 12, 
+      "end": "2021-01-03", 
+      "office": "116 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4071", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://debbiedingell.house.gov"
     }
   ], 
   "url_slug": "mi-debbie-dingell"

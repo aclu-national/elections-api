@@ -92,6 +92,19 @@
       "state": "MI", 
       "type": "rep", 
       "url": "https://huizenga.house.gov"
+    }, 
+    {
+      "address": "2232 Rayburn House Office Building; Washington DC 20515-2202", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "2232 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4401", 
+      "rss_url": "http://huizenga.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://huizenga.house.gov"
     }
   ], 
   "url_slug": "mi-bill-huizenga"

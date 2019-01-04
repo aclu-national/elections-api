@@ -75,6 +75,18 @@
       "state": "MA", 
       "type": "rep", 
       "url": "https://katherineclark.house.gov"
+    }, 
+    {
+      "address": "2448 Rayburn House Office Building; Washington DC 20515-2105", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "2448 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2836", 
+      "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://katherineclark.house.gov"
     }
   ], 
   "url_slug": "ma-katherine-clark"

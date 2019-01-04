@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1950-11-04", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11611", 
+    "bioguide": "M001205", 
+    "fec": [
+      "H8WV03097"
+    ], 
+    "govtrack": 412837
+  }, 
+  "name": {
+    "first": "Carol", 
+    "last": "Miller", 
+    "middle": "D."
+  }, 
+  "terms": [
+    {
+      "address": "1605 Longworth House Office Building; Washington DC 20515-4803", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "1605 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3452", 
+      "start": "2019-01-03", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "https://miller.house.gov/"
+    }
+  ], 
+  "url_slug": "wv-carol-miller"
+}

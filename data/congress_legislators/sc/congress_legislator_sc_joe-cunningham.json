@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1982-05-26", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11587", 
+    "bioguide": "C001122", 
+    "fec": [
+      "H8SC01116"
+    ], 
+    "govtrack": 412814
+  }, 
+  "name": {
+    "first": "Joe", 
+    "last": "Cunningham"
+  }, 
+  "terms": [
+    {
+      "address": "423 Cannon House Office Building; Washington DC 20515-4001", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "423 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3176", 
+      "start": "2019-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://cunningham.house.gov/"
+    }
+  ], 
+  "url_slug": "sc-joe-cunningham"
+}

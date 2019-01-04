@@ -131,6 +131,16 @@
       "state": "TN", 
       "type": "rep", 
       "url": "https://blackburn.house.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "start": "2019-01-03", 
+      "state": "TN", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.blackburn.senate.gov"
     }
   ], 
   "url_slug": "tn-marsha-blackburn"

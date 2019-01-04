@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1982-07-25", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11550", 
+    "bioguide": "G000592", 
+    "fec": [
+      "H8ME02185"
+    ], 
+    "govtrack": 412842
+  }, 
+  "name": {
+    "first": "Jared", 
+    "last": "Golden", 
+    "middle": "Forrest"
+  }, 
+  "terms": [
+    {
+      "address": "1223 Longworth House Office Building; Washington DC 20515-1902", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "1223 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6306", 
+      "start": "2019-01-03", 
+      "state": "ME", 
+      "type": "rep", 
+      "url": "https://golden.house.gov"
+    }
+  ], 
+  "url_slug": "me-jared-golden"
+}

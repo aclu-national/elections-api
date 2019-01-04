@@ -130,6 +130,19 @@
       "state": "OK", 
       "type": "rep", 
       "url": "https://cole.house.gov"
+    }, 
+    {
+      "address": "2207 Rayburn House Office Building; Washington DC 20515-3604", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "2207 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6165", 
+      "rss_url": "http://cole.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://cole.house.gov"
     }
   ], 
   "url_slug": "ok-tom-cole"

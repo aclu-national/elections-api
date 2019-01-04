@@ -1,0 +1,50 @@
+{
+  "bio": {
+    "birthday": "1957-04-29", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11575", 
+    "ballotpedia": "Joseph Morelle", 
+    "bioguide": "M001206", 
+    "fec": [
+      "H8NY25105"
+    ], 
+    "govtrack": 412749, 
+    "wikidata": "Q6285623", 
+    "wikipedia": "Joseph D. Morelle"
+  }, 
+  "name": {
+    "first": "Joseph", 
+    "last": "Morelle", 
+    "middle": "D.", 
+    "official_full": "Joseph D. Morelle"
+  }, 
+  "terms": [
+    {
+      "address": "2469 Rayburn House Office Building; Washington DC 20515-3225", 
+      "district": 25, 
+      "end": "2019-01-03", 
+      "office": "2469 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3615", 
+      "start": "2018-11-13", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://morelle.house.gov"
+    }, 
+    {
+      "address": "1317 Longworth House Office Building; Washington DC 20515-3225", 
+      "district": 25, 
+      "end": "2021-01-03", 
+      "office": "1317 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3615", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://morelle.house.gov"
+    }
+  ], 
+  "url_slug": "ny-joseph-morelle"
+}

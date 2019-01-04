@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1982-12-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11596", 
+    "bioguide": "G000589", 
+    "fec": [
+      "H8TX05144"
+    ], 
+    "govtrack": 412822
+  }, 
+  "name": {
+    "first": "Lance", 
+    "last": "Gooden"
+  }, 
+  "terms": [
+    {
+      "address": "425 Cannon House Office Building; Washington DC 20515-4305", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "425 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3484", 
+      "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://gooden.house.gov/"
+    }
+  ], 
+  "url_slug": "tx-lance-gooden"
+}

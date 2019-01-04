@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1955-09-21", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11549", 
+    "bioguide": "T000483", 
+    "fec": [
+      "H8MD06168"
+    ], 
+    "govtrack": 412783
+  }, 
+  "name": {
+    "first": "David", 
+    "last": "Trone", 
+    "middle": "J."
+  }, 
+  "terms": [
+    {
+      "address": "1213 Longworth House Office Building; Washington DC 20515-2006", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "1213 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2721", 
+      "start": "2019-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://trone.house.gov/"
+    }
+  ], 
+  "url_slug": "md-david-trone"
+}

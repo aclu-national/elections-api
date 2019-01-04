@@ -56,6 +56,7 @@
     }, 
     {
       "chamber": "house", 
+      "end": "2019-01-03", 
       "start": "2017-01-03", 
       "title": "Minority Whip"
     }
@@ -254,6 +255,19 @@
       "phone": "202-225-4131", 
       "rss_url": "http://hoyer.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2017-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://hoyer.house.gov"
+    }, 
+    {
+      "address": "1705 Longworth House Office Building; Washington DC 20515-2005", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "1705 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4131", 
+      "rss_url": "http://hoyer.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
       "state": "MD", 
       "type": "rep", 
       "url": "https://hoyer.house.gov"

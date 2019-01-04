@@ -78,6 +78,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://scottpeters.house.gov"
+    }, 
+    {
+      "address": "2338 Rayburn House Office Building; Washington DC 20515-0552", 
+      "district": 52, 
+      "end": "2021-01-03", 
+      "office": "2338 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0508", 
+      "rss_url": "http://scottpeters.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://scottpeters.house.gov"
     }
   ], 
   "url_slug": "ca-scott-peters"

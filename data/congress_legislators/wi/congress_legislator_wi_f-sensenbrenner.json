@@ -228,6 +228,19 @@
       "state": "WI", 
       "type": "rep", 
       "url": "https://sensenbrenner.house.gov"
+    }, 
+    {
+      "address": "2449 Rayburn House Office Building; Washington DC 20515-4905", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "2449 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5101", 
+      "rss_url": "http://sensenbrenner.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://sensenbrenner.house.gov"
     }
   ], 
   "url_slug": "wi-f-sensenbrenner"

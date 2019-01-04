@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1952-12-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11530", 
+    "ballotpedia": "Rick Scott", 
+    "bioguide": "S001217", 
+    "fec": [
+      "S8FL00273"
+    ], 
+    "govtrack": 412838, 
+    "wikidata": "Q439729", 
+    "wikipedia": "Rick Scott"
+  }, 
+  "name": {
+    "first": "Rick", 
+    "last": "Scott"
+  }, 
+  "terms": [
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "state_rank": "junior", 
+      "type": "sen"
+    }
+  ], 
+  "url_slug": "fl-rick-scott"
+}

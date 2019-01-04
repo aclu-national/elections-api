@@ -92,6 +92,19 @@
       "state": "AL", 
       "type": "rep", 
       "url": "https://roby.house.gov"
+    }, 
+    {
+      "address": "504 Cannon House Office Building; Washington DC 20515-0102", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "504 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2901", 
+      "rss_url": "http://roby.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "AL", 
+      "type": "rep", 
+      "url": "https://roby.house.gov"
     }
   ], 
   "url_slug": "al-martha-roby"

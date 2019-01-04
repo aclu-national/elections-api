@@ -103,6 +103,19 @@
       "state": "GA", 
       "type": "rep", 
       "url": "https://tomgraves.house.gov"
+    }, 
+    {
+      "address": "2078 Rayburn House Office Building; Washington DC 20515-1014", 
+      "district": 14, 
+      "end": "2021-01-03", 
+      "office": "2078 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5211", 
+      "rss_url": "http://tomgraves.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://tomgraves.house.gov"
     }
   ], 
   "url_slug": "ga-tom-graves"

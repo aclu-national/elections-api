@@ -58,6 +58,18 @@
       "state": "LA", 
       "type": "rep", 
       "url": "https://garretgraves.house.gov"
+    }, 
+    {
+      "address": "2402 Rayburn House Office Building; Washington DC 20515-1806", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "2402 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3901", 
+      "start": "2019-01-03", 
+      "state": "LA", 
+      "type": "rep", 
+      "url": "https://garretgraves.house.gov"
     }
   ], 
   "url_slug": "la-garret-graves"

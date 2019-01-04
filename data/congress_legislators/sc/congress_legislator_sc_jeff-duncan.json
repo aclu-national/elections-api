@@ -93,6 +93,19 @@
       "state": "SC", 
       "type": "rep", 
       "url": "https://jeffduncan.house.gov"
+    }, 
+    {
+      "address": "2229 Rayburn House Office Building; Washington DC 20515-4003", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "2229 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5301", 
+      "rss_url": "http://jeffduncan.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://jeffduncan.house.gov"
     }
   ], 
   "url_slug": "sc-jeff-duncan"

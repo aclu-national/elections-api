@@ -93,6 +93,19 @@
       "state": "WI", 
       "type": "rep", 
       "url": "https://duffy.house.gov"
+    }, 
+    {
+      "address": "1714 Longworth House Office Building; Washington DC 20515-4907", 
+      "district": 7, 
+      "end": "2021-01-03", 
+      "office": "1714 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3365", 
+      "rss_url": "http://duffy.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://duffy.house.gov"
     }
   ], 
   "url_slug": "wi-sean-duffy"

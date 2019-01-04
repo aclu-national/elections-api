@@ -1,0 +1,59 @@
+{
+  "bio": {
+    "birthday": "1952-09-27", 
+    "gender": "M", 
+    "religion": "Protestant"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11535", 
+    "bioguide": "C001055", 
+    "fec": [
+      "H2HI02128"
+    ], 
+    "google_entity_id": "kg:/m/0255s6", 
+    "govtrack": 400069, 
+    "house_history": 11776, 
+    "icpsr": 20322, 
+    "opensecrets": "N00025882", 
+    "thomas": "01693", 
+    "wikidata": "Q597613", 
+    "wikipedia": "Ed Case"
+  }, 
+  "name": {
+    "first": "Ed", 
+    "last": "Case"
+  }, 
+  "terms": [
+    {
+      "district": 2, 
+      "end": "2005-01-03", 
+      "party": "Democrat", 
+      "start": "2003-01-07", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/case"
+    }, 
+    {
+      "district": 2, 
+      "end": "2007-01-03", 
+      "party": "Democrat", 
+      "start": "2005-01-04", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "http://www.house.gov/case"
+    }, 
+    {
+      "address": "2443 Rayburn House Office Building; Washington DC 20515-1101", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2443 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2726", 
+      "start": "2019-01-03", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "https://case.house.gov"
+    }
+  ], 
+  "url_slug": "hi-ed-case"
+}

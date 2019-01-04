@@ -130,6 +130,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://timryan.house.gov"
+    }, 
+    {
+      "address": "1126 Longworth House Office Building; Washington DC 20515-3513", 
+      "district": 13, 
+      "end": "2021-01-03", 
+      "office": "1126 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5261", 
+      "rss_url": "http://timryan.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://timryan.house.gov"
     }
   ], 
   "url_slug": "oh-tim-ryan"

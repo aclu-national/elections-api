@@ -42,6 +42,18 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://crist.house.gov"
+    }, 
+    {
+      "address": "215 Cannon House Office Building; Washington DC 20515-0913", 
+      "district": 13, 
+      "end": "2021-01-03", 
+      "office": "215 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5961", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://crist.house.gov"
     }
   ], 
   "url_slug": "fl-charlie-crist"

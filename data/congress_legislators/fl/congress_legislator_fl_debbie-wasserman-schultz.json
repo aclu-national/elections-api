@@ -120,6 +120,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://wassermanschultz.house.gov"
+    }, 
+    {
+      "address": "1114 Longworth House Office Building; Washington DC 20515-0923", 
+      "district": 23, 
+      "end": "2021-01-03", 
+      "office": "1114 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7931", 
+      "rss_url": "http://wassermanschultz.house.gov/atom.xml", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://wassermanschultz.house.gov"
     }
   ], 
   "url_slug": "fl-debbie-wasserman-schultz"

@@ -75,6 +75,18 @@
       "state": "NJ", 
       "type": "rep", 
       "url": "https://norcross.house.gov"
+    }, 
+    {
+      "address": "2437 Rayburn House Office Building; Washington DC 20515-3001", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2437 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6501", 
+      "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://norcross.house.gov"
     }
   ], 
   "url_slug": "nj-donald-norcross"

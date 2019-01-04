@@ -1,0 +1,50 @@
+{
+  "bio": {
+    "birthday": "1961-12-04", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11579", 
+    "ballotpedia": "Kevin Hern", 
+    "bioguide": "H001082", 
+    "fec": [
+      "H8OK01157"
+    ], 
+    "govtrack": 412748, 
+    "wikidata": "Q58333614", 
+    "wikipedia": "Kevin Hern"
+  }, 
+  "name": {
+    "first": "Kevin", 
+    "last": "Hern", 
+    "middle": "R.", 
+    "official_full": "Kevin Hern"
+  }, 
+  "terms": [
+    {
+      "address": "216 Cannon House Office Building; Washington DC 20515-3601", 
+      "district": 1, 
+      "end": "2019-01-03", 
+      "office": "216 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2211", 
+      "start": "2018-11-13", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://hern.house.gov"
+    }, 
+    {
+      "address": "1019 Longworth House Office Building; Washington DC 20515-3601", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "1019 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2211", 
+      "start": "2019-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://hern.house.gov"
+    }
+  ], 
+  "url_slug": "ok-kevin-hern"
+}

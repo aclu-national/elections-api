@@ -116,6 +116,19 @@
       "state": "MD", 
       "type": "rep", 
       "url": "https://sarbanes.house.gov"
+    }, 
+    {
+      "address": "2370 Rayburn House Office Building; Washington DC 20515-2003", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "2370 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4016", 
+      "rss_url": "http://sarbanes.house.gov/rss_news.asp", 
+      "start": "2019-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://sarbanes.house.gov"
     }
   ], 
   "url_slug": "md-john-sarbanes"

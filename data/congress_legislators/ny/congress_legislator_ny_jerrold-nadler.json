@@ -177,6 +177,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://nadler.house.gov"
+    }, 
+    {
+      "address": "2132 Rayburn House Office Building; Washington DC 20515-3210", 
+      "district": 10, 
+      "end": "2021-01-03", 
+      "office": "2132 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5635", 
+      "rss_url": "http://nadler.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://nadler.house.gov"
     }
   ], 
   "url_slug": "ny-jerrold-nadler"

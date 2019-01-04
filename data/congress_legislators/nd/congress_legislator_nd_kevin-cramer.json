@@ -79,6 +79,16 @@
       "state": "ND", 
       "type": "rep", 
       "url": "https://cramer.house.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "start": "2019-01-03", 
+      "state": "ND", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.cramer.senate.gov"
     }
   ], 
   "url_slug": "nd-kevin-cramer"

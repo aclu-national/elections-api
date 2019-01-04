@@ -47,6 +47,20 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.smith.senate.gov"
+    }, 
+    {
+      "address": "309 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.smith.senate.gov/content/contact-senator", 
+      "end": "2021-01-03", 
+      "office": "309 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5641", 
+      "start": "2018-11-07", 
+      "state": "MN", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.smith.senate.gov"
     }
   ], 
   "url_slug": "mn-tina-smith"

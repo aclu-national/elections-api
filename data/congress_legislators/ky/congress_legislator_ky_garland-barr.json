@@ -75,6 +75,19 @@
       "state": "KY", 
       "type": "rep", 
       "url": "https://barr.house.gov"
+    }, 
+    {
+      "address": "2430 Rayburn House Office Building; Washington DC 20515-1706", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "2430 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4706", 
+      "rss_url": "http://barr.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "KY", 
+      "type": "rep", 
+      "url": "https://barr.house.gov"
     }
   ], 
   "url_slug": "ky-garland-barr"

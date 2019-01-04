@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1972-02-29", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11605", 
+    "bioguide": "C001118", 
+    "fec": [
+      "H8VA06104"
+    ], 
+    "govtrack": 412832
+  }, 
+  "name": {
+    "first": "Ben", 
+    "last": "Cline"
+  }, 
+  "terms": [
+    {
+      "address": "1009 Longworth House Office Building; Washington DC 20515-4606", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "1009 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5431", 
+      "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://cline.house.gov/"
+    }
+  ], 
+  "url_slug": "va-ben-cline"
+}

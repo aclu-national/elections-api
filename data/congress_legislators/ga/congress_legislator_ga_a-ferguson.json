@@ -1,6 +1,6 @@
 {
   "bio": {
-    "birthday": "1967-11-15", 
+    "birthday": "1966-11-15", 
     "gender": "M"
   }, 
   "id": {
@@ -43,6 +43,18 @@
       "party": "Republican", 
       "phone": "202-225-5901", 
       "start": "2017-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://ferguson.house.gov"
+    }, 
+    {
+      "address": "1032 Longworth House Office Building; Washington DC 20515-1003", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "1032 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5901", 
+      "start": "2019-01-03", 
       "state": "GA", 
       "type": "rep", 
       "url": "https://ferguson.house.gov"

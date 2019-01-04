@@ -101,6 +101,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://garamendi.house.gov"
+    }, 
+    {
+      "address": "2368 Rayburn House Office Building; Washington DC 20515-0503", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "2368 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1880", 
+      "rss_url": "http://garamendi.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://garamendi.house.gov"
     }
   ], 
   "url_slug": "ca-john-garamendi"

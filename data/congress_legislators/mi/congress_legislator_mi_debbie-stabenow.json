@@ -93,6 +93,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.stabenow.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://stabenow.senate.gov/rss/?p=news", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.stabenow.senate.gov"
     }
   ], 
   "url_slug": "mi-debbie-stabenow"

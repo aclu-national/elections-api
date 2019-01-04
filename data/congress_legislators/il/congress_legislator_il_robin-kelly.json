@@ -78,6 +78,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://robinkelly.house.gov"
+    }, 
+    {
+      "address": "2416 Rayburn House Office Building; Washington DC 20515-1302", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "2416 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0773", 
+      "rss_url": "http://robinkelly.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://robinkelly.house.gov"
     }
   ], 
   "url_slug": "il-robin-kelly"

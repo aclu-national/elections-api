@@ -43,6 +43,18 @@
       "state": "MI", 
       "type": "rep", 
       "url": "https://mitchell.house.gov"
+    }, 
+    {
+      "address": "211 Cannon House Office Building; Washington DC 20515-2210", 
+      "district": 10, 
+      "end": "2021-01-03", 
+      "office": "211 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2106", 
+      "start": "2019-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://mitchell.house.gov"
     }
   ], 
   "url_slug": "mi-paul-mitchell"

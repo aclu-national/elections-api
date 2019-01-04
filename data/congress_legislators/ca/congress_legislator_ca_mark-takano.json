@@ -77,6 +77,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://takano.house.gov"
+    }, 
+    {
+      "address": "420 Cannon House Office Building; Washington DC 20515-0541", 
+      "district": 41, 
+      "end": "2021-01-03", 
+      "office": "420 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2305", 
+      "rss_url": "http://takano.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://takano.house.gov"
     }
   ], 
   "url_slug": "ca-mark-takano"

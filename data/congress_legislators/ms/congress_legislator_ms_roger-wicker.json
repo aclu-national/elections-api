@@ -129,6 +129,16 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.wicker.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "start": "2019-01-03", 
+      "state": "MS", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.wicker.senate.gov"
     }
   ], 
   "url_slug": "ms-roger-wicker"

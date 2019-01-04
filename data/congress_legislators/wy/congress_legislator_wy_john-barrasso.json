@@ -66,6 +66,17 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.barrasso.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "rss_url": "http://www.barrasso.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
+      "start": "2019-01-03", 
+      "state": "WY", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.barrasso.senate.gov"
     }
   ], 
   "url_slug": "wy-john-barrasso"

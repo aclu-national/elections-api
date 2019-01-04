@@ -170,6 +170,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://alceehastings.house.gov"
+    }, 
+    {
+      "address": "2353 Rayburn House Office Building; Washington DC 20515-0920", 
+      "district": 20, 
+      "end": "2021-01-03", 
+      "office": "2353 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1313", 
+      "rss_url": "http://www.alceehastings.house.gov/news/rss.aspx", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://alceehastings.house.gov"
     }
   ], 
   "url_slug": "fl-alcee-hastings"

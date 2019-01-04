@@ -68,6 +68,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.casey.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.casey.senate.gov/rss/feeds/?all", 
+      "start": "2019-01-03", 
+      "state": "PA", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.casey.senate.gov"
     }
   ], 
   "url_slug": "pa-robert-casey"

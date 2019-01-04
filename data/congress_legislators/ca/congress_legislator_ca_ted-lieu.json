@@ -59,6 +59,18 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://lieu.house.gov"
+    }, 
+    {
+      "address": "403 Cannon House Office Building; Washington DC 20515-0533", 
+      "district": 33, 
+      "end": "2021-01-03", 
+      "office": "403 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3976", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://lieu.house.gov"
     }
   ], 
   "url_slug": "ca-ted-lieu"

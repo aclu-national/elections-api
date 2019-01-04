@@ -50,6 +50,7 @@
     }, 
     {
       "chamber": "house", 
+      "end": "2019-01-03", 
       "start": "2017-01-03", 
       "title": "Majority Leader"
     }
@@ -140,6 +141,19 @@
       "phone": "202-225-2915", 
       "rss_url": "http://kevinmccarthy.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://kevinmccarthy.house.gov"
+    }, 
+    {
+      "address": "2468 Rayburn House Office Building; Washington DC 20515-0523", 
+      "district": 23, 
+      "end": "2021-01-03", 
+      "office": "2468 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2915", 
+      "rss_url": "http://kevinmccarthy.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://kevinmccarthy.house.gov"

@@ -52,6 +52,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.fischer.senate.gov"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Republican", 
+      "rss_url": "http://www.fischer.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2019-01-03", 
+      "state": "NE", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.fischer.senate.gov"
     }
   ], 
   "url_slug": "ne-deb-fischer"

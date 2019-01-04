@@ -57,6 +57,18 @@
       "state": "LA", 
       "type": "rep", 
       "url": "https://abraham.house.gov"
+    }, 
+    {
+      "address": "417 Cannon House Office Building; Washington DC 20515-1805", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "417 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-8490", 
+      "start": "2019-01-03", 
+      "state": "LA", 
+      "type": "rep", 
+      "url": "https://abraham.house.gov"
     }
   ], 
   "url_slug": "la-ralph-abraham"

@@ -177,6 +177,19 @@
       "state": "SC", 
       "type": "rep", 
       "url": "https://clyburn.house.gov"
+    }, 
+    {
+      "address": "200 Cannon House Office Building; Washington DC 20515-4006", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "200 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3315", 
+      "rss_url": "http://clyburn.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://clyburn.house.gov"
     }
   ], 
   "url_slug": "sc-james-clyburn"

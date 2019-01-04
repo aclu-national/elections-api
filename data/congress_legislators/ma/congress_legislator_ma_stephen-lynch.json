@@ -139,6 +139,19 @@
       "state": "MA", 
       "type": "rep", 
       "url": "https://lynch.house.gov"
+    }, 
+    {
+      "address": "2109 Rayburn House Office Building; Washington DC 20515-2108", 
+      "district": 8, 
+      "end": "2021-01-03", 
+      "office": "2109 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8273", 
+      "rss_url": "http://lynch.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://lynch.house.gov"
     }
   ], 
   "url_slug": "ma-stephen-lynch"

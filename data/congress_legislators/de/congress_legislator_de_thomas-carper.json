@@ -116,6 +116,17 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.carper.senate.gov/public"
+    }, 
+    {
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Democrat", 
+      "rss_url": "http://www.carper.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2019-01-03", 
+      "state": "DE", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.carper.senate.gov/public"
     }
   ], 
   "url_slug": "de-thomas-carper"

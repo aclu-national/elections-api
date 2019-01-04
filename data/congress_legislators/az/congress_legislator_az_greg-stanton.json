@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1970-03-08", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11516", 
+    "bioguide": "S001211", 
+    "fec": [
+      "H8AZ09040"
+    ], 
+    "govtrack": 412753
+  }, 
+  "name": {
+    "first": "Greg", 
+    "last": "Stanton"
+  }, 
+  "terms": [
+    {
+      "address": "128 Cannon House Office Building; Washington DC 20515-0309", 
+      "district": 9, 
+      "end": "2021-01-03", 
+      "office": "128 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9888", 
+      "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://stanton.house.gov/"
+    }
+  ], 
+  "url_slug": "az-greg-stanton"
+}

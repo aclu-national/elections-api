@@ -51,6 +51,18 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.king.senate.gov"
+    }, 
+    {
+      "caucus": "Democrat", 
+      "class": 1, 
+      "end": "2025-01-03", 
+      "party": "Independent", 
+      "rss_url": "http://www.king.senate.gov/rss/feeds/?type=all", 
+      "start": "2019-01-03", 
+      "state": "ME", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.king.senate.gov"
     }
   ], 
   "url_slug": "me-angus-king"

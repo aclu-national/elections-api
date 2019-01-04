@@ -135,6 +135,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://lindasanchez.house.gov"
+    }, 
+    {
+      "address": "2329 Rayburn House Office Building; Washington DC 20515-0538", 
+      "district": 38, 
+      "end": "2021-01-03", 
+      "office": "2329 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6676", 
+      "rss_url": "http://lindasanchez.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://lindasanchez.house.gov"
     }
   ], 
   "url_slug": "ca-linda-sanchez"

@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1976-06-09", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11578", 
+    "bioguide": "H001083", 
+    "fec": [
+      "H8OK05109"
+    ], 
+    "govtrack": 412808
+  }, 
+  "name": {
+    "first": "Kendra", 
+    "last": "Horn", 
+    "middle": "S."
+  }, 
+  "terms": [
+    {
+      "address": "415 Cannon House Office Building; Washington DC 20515-3605", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "office": "415 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2132", 
+      "start": "2019-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://horn.house.gov/"
+    }
+  ], 
+  "url_slug": "ok-kendra-horn"
+}

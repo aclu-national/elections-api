@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1964-08-25", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11592", 
+    "bioguide": "B001309", 
+    "fec": [
+      "H8TN02119"
+    ], 
+    "govtrack": 412817
+  }, 
+  "name": {
+    "first": "Tim", 
+    "last": "Burchett"
+  }, 
+  "terms": [
+    {
+      "address": "1122 Longworth House Office Building; Washington DC 20515-4202", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "1122 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5435", 
+      "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://burchett.house.gov/"
+    }
+  ], 
+  "url_slug": "tn-tim-burchett"
+}

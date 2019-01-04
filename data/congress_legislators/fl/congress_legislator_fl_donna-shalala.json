@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1941-02-14", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11528", 
+    "bioguide": "S001206", 
+    "fec": [
+      "H8FL27193"
+    ], 
+    "govtrack": 412768
+  }, 
+  "name": {
+    "first": "Donna", 
+    "last": "Shalala", 
+    "middle": "E."
+  }, 
+  "terms": [
+    {
+      "address": "1320 Longworth House Office Building; Washington DC 20515-0927", 
+      "district": 27, 
+      "end": "2021-01-03", 
+      "office": "1320 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3931", 
+      "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://shalala.house.gov/"
+    }
+  ], 
+  "url_slug": "fl-donna-shalala"
+}

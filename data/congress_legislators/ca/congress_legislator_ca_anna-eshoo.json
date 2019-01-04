@@ -170,6 +170,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "http://eshoo.house.gov"
+    }, 
+    {
+      "address": "202 Cannon House Office Building; Washington DC 20515-0518", 
+      "district": 18, 
+      "end": "2021-01-03", 
+      "office": "202 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8104", 
+      "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "http://eshoo.house.gov"
     }
   ], 
   "url_slug": "ca-anna-eshoo"

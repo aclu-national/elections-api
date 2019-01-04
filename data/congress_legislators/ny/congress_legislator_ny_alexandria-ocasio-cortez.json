@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1989-10-13", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11572", 
+    "bioguide": "O000172", 
+    "fec": [
+      "H8NY15148"
+    ], 
+    "govtrack": 412804
+  }, 
+  "name": {
+    "first": "Alexandria", 
+    "last": "Ocasio-Cortez"
+  }, 
+  "terms": [
+    {
+      "address": "229 Cannon House Office Building; Washington DC 20515-3214", 
+      "district": 14, 
+      "end": "2021-01-03", 
+      "office": "229 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3965", 
+      "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://ocasio-cortez.house.gov/"
+    }
+  ], 
+  "url_slug": "ny-alexandria-ocasio-cortez"
+}

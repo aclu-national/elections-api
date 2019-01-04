@@ -102,6 +102,19 @@
       "state": "ME", 
       "type": "rep", 
       "url": "https://pingree.house.gov"
+    }, 
+    {
+      "address": "2162 Rayburn House Office Building; Washington DC 20515-1901", 
+      "district": 1, 
+      "end": "2021-01-03", 
+      "office": "2162 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6116", 
+      "rss_url": "http://pingree.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "ME", 
+      "type": "rep", 
+      "url": "https://pingree.house.gov"
     }
   ], 
   "url_slug": "me-chellie-pingree"

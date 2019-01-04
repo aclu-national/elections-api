@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1971-11-23", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11541", 
+    "bioguide": "C001117", 
+    "fec": [
+      "H8IL06139"
+    ], 
+    "govtrack": 412775
+  }, 
+  "name": {
+    "first": "Sean", 
+    "last": "Casten"
+  }, 
+  "terms": [
+    {
+      "address": "429 Cannon House Office Building; Washington DC 20515-1306", 
+      "district": 6, 
+      "end": "2021-01-03", 
+      "office": "429 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4561", 
+      "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://casten.house.gov/"
+    }
+  ], 
+  "url_slug": "il-sean-casten"
+}

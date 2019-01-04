@@ -91,6 +91,19 @@
       "state": "MA", 
       "type": "rep", 
       "url": "https://keating.house.gov"
+    }, 
+    {
+      "address": "2351 Rayburn House Office Building; Washington DC 20515-2109", 
+      "district": 9, 
+      "end": "2021-01-03", 
+      "office": "2351 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3111", 
+      "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://keating.house.gov"
     }
   ], 
   "url_slug": "ma-william-keating"

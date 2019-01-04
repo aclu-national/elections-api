@@ -1,0 +1,85 @@
+{
+  "bio": {
+    "birthday": "1950-03-24", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11515", 
+    "ballotpedia": "Ann Kirkpatrick", 
+    "bioguide": "K000368", 
+    "cspan": 1031338, 
+    "fec": [
+      "H8AZ01104"
+    ], 
+    "google_entity_id": "kg:/m/02qtczp", 
+    "govtrack": 412286, 
+    "house_history": 16560, 
+    "icpsr": 20902, 
+    "maplight": 768, 
+    "opensecrets": "N00029260", 
+    "thomas": "01907", 
+    "votesmart": 28425, 
+    "wikidata": "Q558460", 
+    "wikipedia": "Ann Kirkpatrick"
+  }, 
+  "name": {
+    "first": "Ann", 
+    "last": "Kirkpatrick", 
+    "official_full": "Ann Kirkpatrick"
+  }, 
+  "terms": [
+    {
+      "district": 1, 
+      "end": "2011-01-03", 
+      "party": "Democrat", 
+      "start": "2009-01-06", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "http://kirkpatrick.house.gov"
+    }, 
+    {
+      "address": "330 Cannon HOB; Washington DC 20515-0301", 
+      "contact_form": "https://kirkpatrick.house.gov/contact/email-me", 
+      "district": 1, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3462", 
+      "office": "330 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3361", 
+      "rss_url": "http://kirkpatrick.house.gov/rss.xml", 
+      "start": "2013-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "http://kirkpatrick.house.gov"
+    }, 
+    {
+      "address": "201 Cannon HOB; Washington DC 20515-0301", 
+      "contact_form": "https://kirkpatrick.house.gov/contact/email-me", 
+      "district": 1, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3462", 
+      "office": "201 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3361", 
+      "rss_url": "http://kirkpatrick.house.gov/rss.xml", 
+      "start": "2015-01-06", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "http://kirkpatrick.house.gov"
+    }, 
+    {
+      "address": "309 Cannon House Office Building; Washington DC 20515-0302", 
+      "district": 2, 
+      "end": "2021-01-03", 
+      "office": "309 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2542", 
+      "rss_url": "http://kirkpatrick.house.gov/rss.xml", 
+      "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "http://kirkpatrick.house.gov"
+    }
+  ], 
+  "url_slug": "az-ann-kirkpatrick"
+}

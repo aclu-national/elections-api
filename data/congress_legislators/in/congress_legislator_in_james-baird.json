@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1945-06-04", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11543", 
+    "bioguide": "B001307", 
+    "fec": [
+      "H8IN04199"
+    ], 
+    "govtrack": 412777
+  }, 
+  "name": {
+    "first": "James", 
+    "last": "Baird", 
+    "middle": "R."
+  }, 
+  "terms": [
+    {
+      "address": "532 Cannon House Office Building; Washington DC 20515-1404", 
+      "district": 4, 
+      "end": "2021-01-03", 
+      "office": "532 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5037", 
+      "start": "2019-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://baird.house.gov/"
+    }
+  ], 
+  "url_slug": "in-james-baird"
+}

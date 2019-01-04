@@ -1,0 +1,33 @@
+{
+  "bio": {
+    "birthday": "1980-05-22", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11545", 
+    "bioguide": "D000629", 
+    "fec": [
+      "H8KS03155"
+    ], 
+    "govtrack": 412780
+  }, 
+  "name": {
+    "first": "Sharice", 
+    "last": "Davids"
+  }, 
+  "terms": [
+    {
+      "address": "1541 Longworth House Office Building; Washington DC 20515-1603", 
+      "district": 3, 
+      "end": "2021-01-03", 
+      "office": "1541 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2865", 
+      "start": "2019-01-03", 
+      "state": "KS", 
+      "type": "rep", 
+      "url": "https://davids.house.gov/"
+    }
+  ], 
+  "url_slug": "ks-sharice-davids"
+}

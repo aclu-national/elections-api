@@ -6,7 +6,7 @@ source_path="$project_path/sources/congress_photos"
 data_path="$project_path/data/congress_photos"
 
 node="/usr/local/bin/node"
-smartcrop="$project_path/node_modules/smartcrop-cli/smartcrop-cli.js"
+smartcrop="/usr/local/bin/smartcrop"
 width="175"
 height="175"
 

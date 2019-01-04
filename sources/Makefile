@@ -35,8 +35,8 @@ congress_legislators:
 
 congress_photos:
 	mkdir -p congress_photos
-	python ../scripts/source_congress_photos_bioguide.py
 	python ../scripts/source_congress_photos_wikipedia.py
+	python ../scripts/source_congress_photos_bioguide.py
 
 states:
 	mkdir -p states

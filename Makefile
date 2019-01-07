@@ -23,7 +23,7 @@ congress_scores:
 	python scripts/index_congress_scores.py 115
 
 congress_details:
-	python scripts/index_congress_details.py
+	python scripts/index_congress_details.py 115
 
 states:
 	python scripts/index_states.py

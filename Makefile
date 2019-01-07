@@ -20,7 +20,7 @@ congress_legislators:
 	python scripts/index_congress_legislators.py
 
 congress_scores:
-	python scripts/index_congress_scores.py
+	python scripts/index_congress_scores.py 115
 
 congress_details:
 	python scripts/index_congress_details.py

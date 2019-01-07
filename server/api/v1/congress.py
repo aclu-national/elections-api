@@ -151,15 +151,19 @@ def get_district_by_id(aclu_id):
 	cur.close()
 	return district
 
-def get_all_legislators(include=None):
+def get_all_legislators(include=None, session_num=115):
+
+	sessions = get_sessions()
+	session = sessions[session_num]
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
-		WHERE end_date >= CURRENT_DATE
+		WHERE start_date >= '{start_date}' AND end_date <= '{end_date}'
+	       OR start_date <= '{start_date}' AND end_date >= '{end_date}'
 		ORDER BY end_date DESC
-	''')
+	'''.format(start_date=session['start_date'], end_date=session['end_date']))
 
 	return get_legislators(cur, "total", include)
 
@@ -172,27 +176,36 @@ def get_legislators_by_state(state, session_num=115):
 	cur.execute('''
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
-		WHERE end_date >= CURRENT_DATE
-		  AND state = %s
+		WHERE (
+			start_date >= '{start_date}' AND end_date <= '{end_date}'
+			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+		)
+		AND state = %s
 		ORDER BY end_date DESC
-	''', (state,))
+	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state,))
 
 	return get_legislators(cur)
 
-def get_legislators_by_district(state, district_num):
+def get_legislators_by_district(state, district_num, session_num=115):
+
+	sessions = get_sessions()
+	session = sessions[session_num]
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
-		WHERE end_date >= CURRENT_DATE
-		  AND state = %s
-		  AND (
+		WHERE (
+			start_date >= '{start_date}' AND end_date <= '{end_date}'
+			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+		)
+		AND state = %s
+		AND (
 			district_num IS NULL OR
 			district_num = %s
-		  )
+		)
 		ORDER BY end_date DESC
-	''', (state, district_num))
+	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state, district_num))
 
 	return get_legislators(cur)
 
@@ -205,7 +218,6 @@ def get_legislators_by_url_slug(url_slug, include):
 		     congress_legislators AS l
 		WHERE l.url_slug = %s
 		  AND l.aclu_id = t.aclu_id
-		  AND t.end_date >= CURRENT_DATE
 		ORDER BY t.end_date DESC
 	''', (url_slug,))
 
@@ -222,7 +234,6 @@ def get_legislators_by_id(id, include):
 		     congress_legislators AS l
 		WHERE l.aclu_id LIKE '%congress_legislator:{id}'
 		  AND l.aclu_id = t.aclu_id
-		  AND t.end_date >= CURRENT_DATE
 		ORDER BY t.end_date DESC
 	'''.format(id=id))
 

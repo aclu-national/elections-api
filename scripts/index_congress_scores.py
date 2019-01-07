@@ -4,6 +4,11 @@ import psycopg2, os, re, sys, csv, arrow
 import postgres_db
 import unicodedata
 
+if len(sys.argv) < 2:
+	sys.exit('Usage: %s [congress session]' % sys.argv[0])
+
+session = int(sys.argv[1])
+
 def strip_accents(s):
 	s = s.decode('utf-8')
 	return ''.join(c for c in unicodedata.normalize('NFD', s)
@@ -22,6 +27,7 @@ cur.execute('''
 	CREATE TABLE congress_legislator_scores (
 		aclu_id VARCHAR(255),
 		legislator_id VARCHAR(255),
+		session INTEGER,
 		position VARCHAR(255),
 		name VARCHAR(512),
 		value VARCHAR(255)
@@ -32,6 +38,7 @@ cur.execute("DROP TABLE IF EXISTS congress_legislator_score_index CASCADE")
 cur.execute('''
 	CREATE TABLE congress_legislator_score_index (
 		aclu_id VARCHAR(255),
+		session INTEGER,
 		vote_context VARCHAR(255),
 		roll_call INTEGER,
 		vote_date DATE,
@@ -50,15 +57,17 @@ legislator_score_insert_sql = '''
 	INSERT INTO congress_legislator_scores (
 		aclu_id,
 		legislator_id,
+		session,
 		position,
 		name,
 		value
-	) VALUES (%s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s)
 '''
 
 legislator_score_index_insert_sql = '''
 	INSERT INTO congress_legislator_score_index (
 		aclu_id,
+		session,
 		vote_context,
 		roll_call,
 		vote_date,
@@ -69,7 +78,7 @@ legislator_score_index_insert_sql = '''
 		description,
 		committee,
 		link
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 reps = {}
@@ -78,10 +87,15 @@ sens = {}
 cur.execute('''
 	SELECT lt.aclu_id, lt.state, lt.district_num, lt.type, l.last_name
 	FROM congress_legislator_terms AS lt,
-	     congress_legislators AS l
-	WHERE lt.end_date >= CURRENT_DATE
-	  AND lt.aclu_id = l.aclu_id
-''')
+	     congress_legislators AS l,
+	     congress_sessions AS s
+	WHERE s.id = 115
+	  AND (
+	  	lt.start_date >= s.start_date AND lt.end_date <= s.end_date
+	  	OR lt.start_date <= s.start_date AND lt.end_date >= s.end_date
+	  )
+  AND lt.aclu_id = l.aclu_id
+'''.format(session=session))
 
 rs = cur.fetchall()
 if rs:
@@ -102,16 +116,23 @@ if rs:
 		else:
 			if not state in sens:
 				sens[state] = []
-			sens[state].append({
-				'aclu_id': aclu_id,
-				'last_name': row[4]
-			})
+
+			found = False
+			for rep in sens[state]:
+				if rep['last_name'] == row[4]:
+					found = True
+
+			if not found:
+				sens[state].append({
+					'aclu_id': aclu_id,
+					'last_name': row[4]
+				})
 
 # NOTE: there are two blocks of code here that look pretty similar, but vary
 # a bit, so don't make the mistake of changing one and not the other.
 # (20180613/dphiffer)
 
-rep_scores_csv = '%s/sources/aclu/aclu_rep_scores.csv' % root_dir
+rep_scores_csv = '%s/sources/aclu/aclu_rep_scores_%d.csv' % (root_dir, session)
 with open(rep_scores_csv, 'rb') as csvfile:
 
 	reader = csv.reader(csvfile)
@@ -149,6 +170,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 				values = [
 					'',
 					legislator_id,
+					session,
 					'',
 					'total',
 					total_score
@@ -174,6 +196,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 					values = [
 						aclu_id,
 						legislator_id,
+						session,
 						position,
 						name,
 						value
@@ -190,7 +213,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 # a bit, so don't make the mistake of changing one and not the other.
 # (20180613/dphiffer)
 
-sen_scores_csv = '%s/sources/aclu/aclu_sen_scores.csv' % root_dir
+sen_scores_csv = '%s/sources/aclu/aclu_sen_scores_%d.csv' % (root_dir, session)
 with open(sen_scores_csv, 'rb') as csvfile:
 
 	reader = csv.reader(csvfile)
@@ -219,20 +242,22 @@ with open(sen_scores_csv, 'rb') as csvfile:
 		elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
 			print name
 
-			lname0 = strip_accents(sens[state][0]["last_name"])
-			lname1 = strip_accents(sens[state][1]["last_name"])
+			found = False
+			for rep in sens[state]:
+				lname = strip_accents(rep["last_name"])
+				if name.find(lname) != -1:
+					legislator_id = rep["aclu_id"]
+					found = True
 
-			if name.find(lname0) != -1:
-				legislator_id = sens[state][0]["aclu_id"]
-			elif name.find(lname1) != -1:
-				legislator_id = sens[state][1]["aclu_id"]
-			else:
-				print "COULD NOT FIND %s" % name
+			if not found:
+				print("COULD NOT FIND %s" % name)
+				print(sens[state])
 				continue
 
 			values = [
 				'',
 				legislator_id,
+				session,
 				'',
 				'total',
 				total_score
@@ -259,6 +284,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				values = [
 					aclu_id,
 					legislator_id,
+					session,
 					position,
 					name,
 					value
@@ -273,7 +299,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 
 for chamber in ['rep', 'sen']:
 
-	filename = '%s/sources/aclu/aclu_%s_score_index.csv' % (root_dir, chamber)
+	filename = '%s/sources/aclu/aclu_%s_score_index_%d.csv' % (root_dir, chamber, session)
 	with open(filename, 'rb') as csvfile:
 
 		reader = csv.reader(csvfile)
@@ -326,6 +352,7 @@ for chamber in ['rep', 'sen']:
 
 			values = (
 				aclu_id,
+				session,
 				vote_context,
 				roll_call,
 				vote_date,

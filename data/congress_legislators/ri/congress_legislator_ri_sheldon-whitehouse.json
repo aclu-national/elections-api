@@ -67,9 +67,13 @@
       "url": "https://www.whitehouse.senate.gov"
     }, 
     {
+      "address": "530 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.whitehouse.senate.gov/contact/email-sheldon", 
       "end": "2025-01-03", 
+      "office": "530 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-2921", 
       "rss_url": "http://www.whitehouse.senate.gov/rss/feeds/?type=all&amp;cachebuster=1", 
       "start": "2019-01-03", 
       "state": "RI", 

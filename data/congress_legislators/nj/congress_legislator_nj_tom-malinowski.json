@@ -5,11 +5,15 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11567", 
+    "ballotpedia": "Tom Malinowski", 
     "bioguide": "M001203", 
     "fec": [
       "H8NJ07223"
     ], 
+    "google_entity_id": "kg:/g/11cmhw_v1s", 
     "govtrack": 412798, 
+    "votesmart": 179645, 
+    "wikidata": "Q23772336", 
     "wikipedia": "Tom Malinowski"
   }, 
   "name": {

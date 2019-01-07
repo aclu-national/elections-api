@@ -5,17 +5,23 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11607", 
+    "ballotpedia": "Elaine Luria", 
     "bioguide": "L000591", 
     "fec": [
       "H8VA02111"
     ], 
     "govtrack": 412830, 
+    "votesmart": 179677, 
+    "wikidata": "Q58323073", 
     "wikipedia": "Elaine Luria"
   }, 
   "name": {
     "first": "Elaine", 
     "last": "Luria", 
     "middle": "G."
+  }, 
+  "social": {
+    "twitter": "RepElaineLuria"
   }, 
   "terms": [
     {

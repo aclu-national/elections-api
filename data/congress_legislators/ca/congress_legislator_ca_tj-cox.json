@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11523", 
+    "ballotpedia": "TJ Cox", 
     "bioguide": "C001124", 
     "fec": [
       "H8CA10167"
     ], 
     "govtrack": 412755, 
+    "votesmart": 57197, 
+    "wikidata": "Q59306065", 
     "wikipedia": "TJ Cox"
   }, 
   "name": {
     "first": "TJ", 
     "last": "Cox"
+  }, 
+  "social": {
+    "twitter": "RepTjCox"
   }, 
   "terms": [
     {

@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11545", 
+    "ballotpedia": "Sharice Davids", 
     "bioguide": "D000629", 
     "fec": [
       "H8KS03155"
     ], 
     "govtrack": 412780, 
+    "votesmart": 181201, 
+    "wikidata": "Q58322868", 
     "wikipedia": "Sharice Davids"
   }, 
   "name": {
     "first": "Sharice", 
     "last": "Davids"
+  }, 
+  "social": {
+    "twitter": "RepDavids"
   }, 
   "terms": [
     {

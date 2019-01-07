@@ -87,9 +87,13 @@
       "url": "https://www.murphy.senate.gov"
     }, 
     {
+      "address": "136 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "http://www.murphy.senate.gov/contact", 
       "end": "2025-01-03", 
+      "office": "136 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-4041", 
       "rss_url": "http://www.theday.com/article/20121216/nws12/312169935/1069/rss", 
       "start": "2019-01-03", 
       "state": "CT", 

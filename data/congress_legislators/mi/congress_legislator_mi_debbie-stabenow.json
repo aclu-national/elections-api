@@ -95,9 +95,13 @@
       "url": "https://www.stabenow.senate.gov"
     }, 
     {
+      "address": "731 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.stabenow.senate.gov/contact", 
       "end": "2025-01-03", 
+      "office": "731 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-4822", 
       "rss_url": "http://stabenow.senate.gov/rss/?p=news", 
       "start": "2019-01-03", 
       "state": "MI", 

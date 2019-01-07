@@ -9,12 +9,18 @@
     "fec": [
       "H8AZ09040"
     ], 
+    "google_entity_id": "kg:/m/0hgrxqb", 
     "govtrack": 412753, 
+    "votesmart": 72030, 
+    "wikidata": "Q5606289", 
     "wikipedia": "Greg Stanton"
   }, 
   "name": {
     "first": "Greg", 
     "last": "Stanton"
+  }, 
+  "social": {
+    "twitter": "RepGregStanton"
   }, 
   "terms": [
     {

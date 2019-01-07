@@ -15,6 +15,7 @@
     "govtrack": 412509, 
     "house_history": 15032387755, 
     "icpsr": 21300, 
+    "lis": "S403", 
     "maplight": 1733, 
     "opensecrets": "N00033983", 
     "thomas": "02099", 
@@ -30,7 +31,7 @@
   "social": {
     "facebook": "CongresswomanSinema", 
     "instagram": "repsinema", 
-    "twitter": "RepSinema", 
+    "twitter": "SenatorSinema", 
     "twitter_id": 1080844782, 
     "youtube": "repsinema", 
     "youtube_id": "UC4NzhW7D4lQdukSGWmFnK9w"
@@ -81,9 +82,12 @@
       "url": "https://sinema.house.gov"
     }, 
     {
+      "address": "825B&C Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
       "end": "2025-01-03", 
+      "office": "825b&c Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-4521", 
       "start": "2019-01-03", 
       "state": "AZ", 
       "state_rank": "senior", 

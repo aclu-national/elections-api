@@ -9,13 +9,19 @@
     "fec": [
       "H8TN07076"
     ], 
+    "google_entity_id": "kg:/m/09rx6jq", 
     "govtrack": 412819, 
+    "votesmart": 139030, 
+    "wikidata": "Q16224587", 
     "wikipedia": "Mark E. Green"
   }, 
   "name": {
     "first": "Mark", 
     "last": "Green", 
     "middle": "E."
+  }, 
+  "social": {
+    "twitter": "RepMarkGreen"
   }, 
   "terms": [
     {

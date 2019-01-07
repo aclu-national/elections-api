@@ -10,15 +10,20 @@
     "fec": [
       "H8NY25105"
     ], 
+    "google_entity_id": "kg:/m/03d820m", 
     "govtrack": 412749, 
+    "votesmart": 4362, 
     "wikidata": "Q6285623", 
-    "wikipedia": "Joseph D. Morelle"
+    "wikipedia": "Joseph Morelle"
   }, 
   "name": {
     "first": "Joseph", 
     "last": "Morelle", 
     "middle": "D.", 
     "official_full": "Joseph D. Morelle"
+  }, 
+  "social": {
+    "twitter": "repjoemorelle"
   }, 
   "terms": [
     {

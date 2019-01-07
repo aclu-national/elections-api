@@ -9,12 +9,17 @@
     "fec": [
       "H8TX03123"
     ], 
+    "google_entity_id": "kg:/m/0f9kk3", 
     "govtrack": 412821, 
+    "wikidata": "Q7913689", 
     "wikipedia": "Van Taylor"
   }, 
   "name": {
     "first": "Van", 
     "last": "Taylor"
+  }, 
+  "social": {
+    "twitter": "RepVanTaylor"
   }, 
   "terms": [
     {

@@ -54,9 +54,13 @@
       "url": "https://www.warren.senate.gov"
     }, 
     {
+      "address": "317 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.warren.senate.gov/?p=email_senator", 
       "end": "2025-01-03", 
+      "office": "317 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-4543", 
       "rss_url": "http://www.warren.senate.gov/rss/?p=hot_topic", 
       "start": "2019-01-03", 
       "state": "MA", 

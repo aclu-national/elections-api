@@ -9,13 +9,19 @@
     "fec": [
       "H8SC04250"
     ], 
+    "google_entity_id": "kg:/g/11g6ns21_f", 
     "govtrack": 412815, 
+    "votesmart": 168923, 
+    "wikidata": "Q28837296", 
     "wikipedia": "William Timmons (politician)"
   }, 
   "name": {
     "first": "William", 
     "last": "Timmons", 
     "middle": "R."
+  }, 
+  "social": {
+    "twitter": "RepTimmons"
   }, 
   "terms": [
     {

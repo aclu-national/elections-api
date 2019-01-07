@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11519", 
+    "ballotpedia": "Josh Harder", 
     "bioguide": "H001090", 
     "fec": [
       "H8CA10126"
     ], 
     "govtrack": 412754, 
+    "votesmart": 179326, 
+    "wikidata": "Q58494468", 
     "wikipedia": "Josh Harder"
   }, 
   "name": {
     "first": "Josh", 
     "last": "Harder"
+  }, 
+  "social": {
+    "twitter": "RepJoshHarder"
   }, 
   "terms": [
     {

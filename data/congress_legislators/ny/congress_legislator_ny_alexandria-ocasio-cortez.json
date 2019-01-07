@@ -5,11 +5,14 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11572", 
+    "ballotpedia": "Alexandria Ocasio-Cortez", 
     "bioguide": "O000172", 
     "fec": [
       "H8NY15148"
     ], 
     "govtrack": 412804, 
+    "votesmart": 180416, 
+    "wikidata": "Q55223040", 
     "wikipedia": "Alexandria Ocasio-Cortez"
   }, 
   "name": {

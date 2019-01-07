@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11552", 
+    "ballotpedia": "Elissa Slotkin", 
     "bioguide": "S001208", 
     "fec": [
       "H8MI08102"
     ], 
     "govtrack": 412784, 
+    "votesmart": 181080, 
+    "wikidata": "Q30323721", 
     "wikipedia": "Elissa Slotkin"
   }, 
   "name": {
     "first": "Elissa", 
     "last": "Slotkin"
+  }, 
+  "social": {
+    "twitter": "RepSlotkin"
   }, 
   "terms": [
     {

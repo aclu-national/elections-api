@@ -10,19 +10,26 @@
     "fec": [
       "S8MO00160"
     ], 
+    "google_entity_id": "kg:/g/11bwy_95zy", 
     "govtrack": 412840, 
+    "lis": "S399", 
+    "votesmart": 169716, 
     "wikidata": "Q23020745", 
     "wikipedia": "Josh Hawley"
   }, 
   "name": {
     "first": "Joshua", 
-    "last": "Hawley"
+    "last": "Hawley", 
+    "official_full": "Josh Hawley"
   }, 
   "terms": [
     {
+      "address": "B40A Dirksen Senate Office Building Washington DC 20510", 
       "class": 1, 
       "end": "2025-01-03", 
+      "office": "B40a Dirksen Senate Office Building", 
       "party": "Republican", 
+      "phone": "202-224-6154", 
       "start": "2019-01-03", 
       "state": "MO", 
       "state_rank": "junior", 

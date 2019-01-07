@@ -50,9 +50,13 @@
       "url": "https://www.kaine.senate.gov"
     }, 
     {
+      "address": "231 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.kaine.senate.gov/contact", 
       "end": "2025-01-03", 
+      "office": "231 Russell Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-4024", 
       "rss_url": "http://www.kaine.senate.gov/rss/feeds/?type=all", 
       "start": "2019-01-03", 
       "state": "VA", 

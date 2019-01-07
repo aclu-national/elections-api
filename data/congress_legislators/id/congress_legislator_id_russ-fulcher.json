@@ -9,12 +9,18 @@
     "fec": [
       "H8ID01124"
     ], 
+    "google_entity_id": "kg:/m/05h4vgh", 
     "govtrack": 412773, 
+    "votesmart": 33091, 
+    "wikidata": "Q7381134", 
     "wikipedia": "Russ Fulcher"
   }, 
   "name": {
     "first": "Russ", 
     "last": "Fulcher"
+  }, 
+  "social": {
+    "twitter": "RepRussFulcher"
   }, 
   "terms": [
     {

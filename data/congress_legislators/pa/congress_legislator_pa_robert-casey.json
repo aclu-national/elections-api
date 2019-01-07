@@ -70,9 +70,13 @@
       "url": "https://www.casey.senate.gov"
     }, 
     {
+      "address": "393 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.casey.senate.gov/contact/", 
       "end": "2025-01-03", 
+      "office": "393 Russell Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-6324", 
       "rss_url": "http://www.casey.senate.gov/rss/feeds/?all", 
       "start": "2019-01-03", 
       "state": "PA", 

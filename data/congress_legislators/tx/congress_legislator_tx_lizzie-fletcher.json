@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11597", 
+    "ballotpedia": "Lizzie Pannill Fletcher", 
     "bioguide": "F000468", 
     "fec": [
       "H8TX07140"
     ], 
     "govtrack": 412824, 
+    "votesmart": 177031, 
+    "wikidata": "Q58324313", 
     "wikipedia": "Lizzie Pannill Fletcher"
   }, 
   "name": {
     "first": "Lizzie", 
     "last": "Fletcher"
+  }, 
+  "social": {
+    "twitter": "RepFletcher"
   }, 
   "terms": [
     {

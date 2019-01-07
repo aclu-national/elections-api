@@ -51,9 +51,13 @@
       "url": "https://www.cruz.senate.gov"
     }, 
     {
+      "address": "404 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.cruz.senate.gov/?p=form&id=16", 
       "end": "2025-01-03", 
+      "office": "404 Russell Senate Office Building", 
       "party": "Republican", 
+      "phone": "202-224-5922", 
       "start": "2019-01-03", 
       "state": "TX", 
       "state_rank": "junior", 

@@ -9,12 +9,18 @@
     "fec": [
       "H8TX02166"
     ], 
+    "google_entity_id": "kg:/g/11hcj7fy00", 
     "govtrack": 412820, 
+    "votesmart": 177270, 
+    "wikidata": "Q58301995", 
     "wikipedia": "Dan Crenshaw"
   }, 
   "name": {
     "first": "Dan", 
     "last": "Crenshaw"
+  }, 
+  "social": {
+    "twitter": "RepDanCrenshaw"
   }, 
   "terms": [
     {

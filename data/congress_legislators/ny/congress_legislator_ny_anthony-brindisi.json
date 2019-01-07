@@ -5,11 +5,15 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11573", 
+    "ballotpedia": "Anthony Brindisi", 
     "bioguide": "B001308", 
     "fec": [
       "H8NY22151"
     ], 
+    "google_entity_id": "kg:/m/0hhqfyc", 
     "govtrack": 412806, 
+    "votesmart": 135258, 
+    "wikidata": "Q4772153", 
     "wikipedia": "Anthony Brindisi"
   }, 
   "name": {

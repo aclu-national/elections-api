@@ -9,12 +9,18 @@
     "fec": [
       "H8TN02119"
     ], 
+    "google_entity_id": "kg:/m/03yt07", 
     "govtrack": 412817, 
+    "votesmart": 24379, 
+    "wikidata": "Q7803244", 
     "wikipedia": "Tim Burchett"
   }, 
   "name": {
     "first": "Tim", 
     "last": "Burchett"
+  }, 
+  "social": {
+    "twitter": "RepTimBurchett"
   }, 
   "terms": [
     {

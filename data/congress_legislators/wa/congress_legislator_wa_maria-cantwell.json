@@ -86,9 +86,13 @@
       "url": "https://www.cantwell.senate.gov"
     }, 
     {
+      "address": "511 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "http://www.cantwell.senate.gov/public/index.cfm/email-maria", 
       "end": "2025-01-03", 
+      "office": "511 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-3441", 
       "rss_url": "http://www.cantwell.senate.gov/public/index.cfm/rss/feed", 
       "start": "2019-01-03", 
       "state": "WA", 

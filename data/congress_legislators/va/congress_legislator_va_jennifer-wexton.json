@@ -9,12 +9,18 @@
     "fec": [
       "H8VA10106"
     ], 
+    "google_entity_id": "kg:/m/0_flt0x", 
     "govtrack": 412834, 
+    "votesmart": 147013, 
+    "wikidata": "Q16206735", 
     "wikipedia": "Jennifer Wexton"
   }, 
   "name": {
     "first": "Jennifer", 
     "last": "Wexton"
+  }, 
+  "social": {
+    "twitter": "RepWexton"
   }, 
   "terms": [
     {

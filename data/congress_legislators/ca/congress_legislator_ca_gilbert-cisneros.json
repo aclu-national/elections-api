@@ -1,6 +1,6 @@
 {
   "bio": {
-    "birthday": "1972", 
+    "birthday": "1971-02-12", 
     "gender": "M"
   }, 
   "id": {
@@ -10,6 +10,8 @@
       "H8CA39174"
     ], 
     "govtrack": 412757, 
+    "votesmart": 179370, 
+    "wikidata": "Q54958760", 
     "wikipedia": "Gil Cisneros"
   }, 
   "name": {

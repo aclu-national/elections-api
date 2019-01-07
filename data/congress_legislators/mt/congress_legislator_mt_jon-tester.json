@@ -66,9 +66,13 @@
       "url": "https://www.tester.senate.gov"
     }, 
     {
+      "address": "311 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.tester.senate.gov/?p=email_senator", 
       "end": "2025-01-03", 
+      "office": "311 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-2644", 
       "rss_url": "http://www.tester.senate.gov/rss/?p=hot_topic", 
       "start": "2019-01-03", 
       "state": "MT", 

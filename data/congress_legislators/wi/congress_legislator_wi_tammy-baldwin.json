@@ -121,9 +121,13 @@
       "url": "https://www.baldwin.senate.gov"
     }, 
     {
+      "address": "709 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.baldwin.senate.gov/feedback", 
       "end": "2025-01-03", 
+      "office": "709 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-5653", 
       "rss_url": "http://www.baldwin.senate.gov/rss/feeds/?type=all", 
       "start": "2019-01-03", 
       "state": "WI", 

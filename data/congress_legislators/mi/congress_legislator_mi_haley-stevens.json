@@ -5,17 +5,23 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11553", 
+    "ballotpedia": "Haley Stevens", 
     "bioguide": "S001215", 
     "fec": [
       "H8MI11254"
     ], 
     "govtrack": 412786, 
+    "votesmart": 181092, 
+    "wikidata": "Q58322563", 
     "wikipedia": "Haley Stevens"
   }, 
   "name": {
     "first": "Haley", 
     "last": "Stevens", 
     "middle": "M."
+  }, 
+  "social": {
+    "twitter": "RepHaleyStevens"
   }, 
   "terms": [
     {

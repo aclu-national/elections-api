@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11555", 
+    "ballotpedia": "Angie Craig", 
     "bioguide": "C001119", 
     "fec": [
       "H6MN02131"
     ], 
     "govtrack": 412789, 
+    "votesmart": 166261, 
+    "wikidata": "Q58324174", 
     "wikipedia": "Angie Craig"
   }, 
   "name": {
     "first": "Angie", 
     "last": "Craig"
+  }, 
+  "social": {
+    "twitter": "RepAngieCraig"
   }, 
   "terms": [
     {

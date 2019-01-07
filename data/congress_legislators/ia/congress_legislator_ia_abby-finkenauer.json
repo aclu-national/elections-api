@@ -5,11 +5,14 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11536", 
+    "ballotpedia": "Abby Finkenauer", 
     "bioguide": "F000467", 
     "fec": [
       "H8IA01094"
     ], 
     "govtrack": 412771, 
+    "votesmart": 151127, 
+    "wikidata": "Q24435337", 
     "wikipedia": "Abby Finkenauer"
   }, 
   "name": {

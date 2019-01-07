@@ -9,12 +9,18 @@
     "fec": [
       "H8MI13250"
     ], 
+    "google_entity_id": "kg:/m/059_x6c", 
     "govtrack": 412787, 
+    "votesmart": 105368, 
+    "wikidata": "Q7294939", 
     "wikipedia": "Rashida Tlaib"
   }, 
   "name": {
     "first": "Rashida", 
     "last": "Tlaib"
+  }, 
+  "social": {
+    "twitter": "RepRashida"
   }, 
   "terms": [
     {

@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11580", 
+    "ballotpedia": "Chrissy Houlahan", 
     "bioguide": "H001085", 
     "fec": [
       "H8PA06087"
     ], 
     "govtrack": 412810, 
+    "votesmart": 178893, 
+    "wikidata": "Q56274180", 
     "wikipedia": "Chrissy Houlahan"
   }, 
   "name": {
     "first": "Chrissy", 
     "last": "Houlahan"
+  }, 
+  "social": {
+    "twitter": "RepHoulahan"
   }, 
   "terms": [
     {

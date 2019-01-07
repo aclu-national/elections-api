@@ -9,12 +9,18 @@
     "fec": [
       "H8VA06104"
     ], 
+    "google_entity_id": "kg:/m/04yf6mk", 
     "govtrack": 412832, 
+    "votesmart": 50959, 
+    "wikidata": "Q4885439", 
     "wikipedia": "Ben Cline"
   }, 
   "name": {
     "first": "Ben", 
     "last": "Cline"
+  }, 
+  "social": {
+    "twitter": "RepBenCline"
   }, 
   "terms": [
     {

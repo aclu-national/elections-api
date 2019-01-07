@@ -10,8 +10,10 @@
     "fec": [
       "H8OH12180"
     ], 
+    "google_entity_id": "kg:/m/09ry4tm", 
     "govtrack": 412747, 
     "opensecrets": "N00042194", 
+    "votesmart": 102781, 
     "wikidata": "Q16194422", 
     "wikipedia": "Troy Balderson"
   }, 
@@ -19,6 +21,9 @@
     "first": "Troy", 
     "last": "Balderson", 
     "official_full": "Troy Balderson"
+  }, 
+  "social": {
+    "twitter": "RepBalderson"
   }, 
   "terms": [
     {

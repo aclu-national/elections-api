@@ -10,19 +10,26 @@
     "fec": [
       "S8IN00171"
     ], 
+    "google_entity_id": "kg:/g/11f2ckdwty", 
     "govtrack": 412839, 
+    "lis": "S397", 
+    "votesmart": 148564, 
     "wikidata": "Q42804470", 
     "wikipedia": "Mike Braun"
   }, 
   "name": {
     "first": "Mike", 
-    "last": "Braun"
+    "last": "Braun", 
+    "official_full": "Mike Braun"
   }, 
   "terms": [
     {
+      "address": "B85 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
       "end": "2025-01-03", 
+      "office": "B85 Russell Senate Office Building", 
       "party": "Republican", 
+      "phone": "202-224-4814", 
       "start": "2019-01-03", 
       "state": "IN", 
       "state_rank": "junior", 

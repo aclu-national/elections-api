@@ -93,9 +93,13 @@
       "url": "https://www.feinstein.senate.gov"
     }, 
     {
+      "address": "331 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me", 
       "end": "2025-01-03", 
+      "office": "331 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-3841", 
       "rss_url": "http://www.feinstein.senate.gov/public/?a=rss.feed", 
       "start": "2019-01-03", 
       "state": "CA", 

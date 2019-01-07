@@ -10,19 +10,26 @@
     "fec": [
       "S4MA00143"
     ], 
+    "google_entity_id": "kg:/m/0271_s", 
     "govtrack": 412841, 
+    "lis": "S401", 
+    "votesmart": 21942, 
     "wikidata": "Q4496", 
-    "wikipedia": "MItt Romney"
+    "wikipedia": "Mitt Romney"
   }, 
   "name": {
     "first": "Mitt", 
-    "last": "Romney"
+    "last": "Romney", 
+    "official_full": "Mitt Romney"
   }, 
   "terms": [
     {
+      "address": "B33 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
       "end": "2025-01-03", 
+      "office": "B33 Russell Senate Office Building", 
       "party": "Republican", 
+      "phone": "202-224-5251", 
       "start": "2019-01-03", 
       "state": "UT", 
       "state_rank": "junior", 

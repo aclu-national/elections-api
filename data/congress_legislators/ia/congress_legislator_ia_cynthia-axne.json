@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11537", 
+    "ballotpedia": "Cindy Axne", 
     "bioguide": "A000378", 
     "fec": [
       "H8IA03124"
     ], 
     "govtrack": 412772, 
+    "votesmart": 179226, 
+    "wikidata": "Q58324150", 
     "wikipedia": "Cindy Axne"
   }, 
   "name": {
     "first": "Cynthia", 
     "last": "Axne"
+  }, 
+  "social": {
+    "twitter": "RepCindyAxne"
   }, 
   "terms": [
     {

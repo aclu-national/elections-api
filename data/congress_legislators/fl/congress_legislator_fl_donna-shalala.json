@@ -9,13 +9,19 @@
     "fec": [
       "H8FL27193"
     ], 
+    "google_entity_id": "kg:/m/01v3vb", 
     "govtrack": 412768, 
+    "votesmart": 182301, 
+    "wikidata": "Q292569", 
     "wikipedia": "Donna Shalala"
   }, 
   "name": {
     "first": "Donna", 
     "last": "Shalala", 
     "middle": "E."
+  }, 
+  "social": {
+    "twitter": "RepShalala"
   }, 
   "terms": [
     {

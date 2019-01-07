@@ -15,6 +15,7 @@
     "google_entity_id": "kg:/m/02rhrnw", 
     "govtrack": 412555, 
     "icpsr": 21350, 
+    "lis": "S398", 
     "maplight": 1779, 
     "opensecrets": "N00004614", 
     "thomas": "02144", 
@@ -30,7 +31,7 @@
   "social": {
     "facebook": "CongressmanKevinCramer", 
     "instagram": "repkevincramer", 
-    "twitter": "RepKevinCramer", 
+    "twitter": "SenKevinCramer", 
     "twitter_id": 1048784496, 
     "youtube": "kevincramer", 
     "youtube_id": "UCqUPdO9XaAW-dvwwXKbIVdA"
@@ -81,9 +82,12 @@
       "url": "https://cramer.house.gov"
     }, 
     {
+      "address": "B40C Dirksen Senate Office Building Washington DC 20510", 
       "class": 1, 
       "end": "2025-01-03", 
+      "office": "B40c Dirksen Senate Office Building", 
       "party": "Republican", 
+      "phone": "202-224-2043", 
       "start": "2019-01-03", 
       "state": "ND", 
       "state_rank": "junior", 

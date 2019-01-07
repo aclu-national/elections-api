@@ -5,11 +5,14 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11527", 
+    "ballotpedia": "Debbie Mucarsel-Powell", 
     "bioguide": "M001207", 
     "fec": [
       "H8FL26039"
     ], 
     "govtrack": 412767, 
+    "votesmart": 173449, 
+    "wikidata": "Q58323616", 
     "wikipedia": "Debbie Mucarsel-Powell"
   }, 
   "name": {

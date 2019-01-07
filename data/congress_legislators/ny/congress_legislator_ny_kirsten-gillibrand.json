@@ -88,9 +88,13 @@
       "url": "https://www.gillibrand.senate.gov"
     }, 
     {
+      "address": "478 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.gillibrand.senate.gov/contact/email-me", 
       "end": "2025-01-03", 
+      "office": "478 Russell Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-4451", 
       "rss_url": "http://www.gillibrand.senate.gov/rss/", 
       "start": "2019-01-03", 
       "state": "NY", 

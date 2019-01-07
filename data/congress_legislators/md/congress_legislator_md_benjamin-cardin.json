@@ -153,9 +153,13 @@
       "url": "https://www.cardin.senate.gov"
     }, 
     {
+      "address": "509 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "http://www.cardin.senate.gov/contact/", 
       "end": "2025-01-03", 
+      "office": "509 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-4524", 
       "rss_url": "http://www.cardin.senate.gov/rss/feeds/?type=all", 
       "start": "2019-01-03", 
       "state": "MD", 

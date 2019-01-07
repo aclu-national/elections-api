@@ -53,10 +53,14 @@
       "url": "https://www.king.senate.gov"
     }, 
     {
+      "address": "133 Hart Senate Office Building Washington DC 20510", 
       "caucus": "Democrat", 
       "class": 1, 
+      "contact_form": "https://www.king.senate.gov/contact", 
       "end": "2025-01-03", 
+      "office": "133 Hart Senate Office Building", 
       "party": "Independent", 
+      "phone": "202-224-5344", 
       "rss_url": "http://www.king.senate.gov/rss/feeds/?type=all", 
       "start": "2019-01-03", 
       "state": "ME", 

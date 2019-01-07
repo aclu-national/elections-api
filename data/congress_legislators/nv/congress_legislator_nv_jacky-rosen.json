@@ -13,6 +13,7 @@
     "google_entity_id": "kg:/g/11cntnvwkg", 
     "govtrack": 412715, 
     "icpsr": 21743, 
+    "lis": "S402", 
     "maplight": 2227, 
     "opensecrets": "N00038734", 
     "votesmart": 169471, 
@@ -27,7 +28,7 @@
   "social": {
     "facebook": "RepJackyRosen", 
     "instagram": "repjackyrosen", 
-    "twitter": "repjackyrosen", 
+    "twitter": "SenJackyRosen", 
     "twitter_id": 818554054309715969
   }, 
   "terms": [
@@ -44,9 +45,12 @@
       "url": "https://rosen.house.gov"
     }, 
     {
+      "address": "G12 Dirksen Senate Office Building Washington DC 20510", 
       "class": 1, 
       "end": "2025-01-03", 
+      "office": "G12 Dirksen Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-6244", 
       "start": "2019-01-03", 
       "state": "NV", 
       "state_rank": "junior", 

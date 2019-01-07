@@ -9,12 +9,18 @@
     "fec": [
       "H8PA10147"
     ], 
+    "google_entity_id": "kg:/m/03wf1q3", 
     "govtrack": 412811, 
+    "votesmart": 102438, 
+    "wikidata": "Q5214012", 
     "wikipedia": "Dan Meuser"
   }, 
   "name": {
     "first": "Daniel", 
     "last": "Meuser"
+  }, 
+  "social": {
+    "twitter": "RepMeuser"
   }, 
   "terms": [
     {

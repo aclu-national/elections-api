@@ -78,9 +78,13 @@
       "url": "https://www.heinrich.senate.gov"
     }, 
     {
+      "address": "303 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "http://www.heinrich.senate.gov/contact", 
       "end": "2025-01-03", 
+      "office": "303 Hart Senate Office Building", 
       "party": "Democrat", 
+      "phone": "202-224-5521", 
       "start": "2019-01-03", 
       "state": "NM", 
       "state_rank": "junior", 

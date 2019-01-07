@@ -9,12 +9,18 @@
     "fec": [
       "H8UT04053"
     ], 
+    "google_entity_id": "kg:/m/0bbv3kw", 
     "govtrack": 412829, 
+    "votesmart": 117512, 
+    "wikidata": "Q4886138", 
     "wikipedia": "Ben McAdams"
   }, 
   "name": {
     "first": "Ben", 
     "last": "McAdams"
+  }, 
+  "social": {
+    "twitter": "RepBenMcAdams"
   }, 
   "terms": [
     {

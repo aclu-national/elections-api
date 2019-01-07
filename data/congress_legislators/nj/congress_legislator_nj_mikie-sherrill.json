@@ -5,16 +5,22 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11566", 
+    "ballotpedia": "Mikie Sherrill", 
     "bioguide": "S001207", 
     "fec": [
       "H8NJ11142"
     ], 
     "govtrack": 412799, 
+    "votesmart": 179651, 
+    "wikidata": "Q47087146", 
     "wikipedia": "Mikie Sherrill"
   }, 
   "name": {
     "first": "Mikie", 
     "last": "Sherrill"
+  }, 
+  "social": {
+    "twitter": "RepSherrill"
   }, 
   "terms": [
     {

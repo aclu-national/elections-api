@@ -68,9 +68,13 @@
       "url": "https://www.barrasso.senate.gov"
     }, 
     {
+      "address": "307 Dirksen Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.barrasso.senate.gov/public/index.cfm/contact-form", 
       "end": "2025-01-03", 
+      "office": "307 Dirksen Senate Office Building", 
       "party": "Republican", 
+      "phone": "202-224-6441", 
       "rss_url": "http://www.barrasso.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
       "start": "2019-01-03", 
       "state": "WY", 

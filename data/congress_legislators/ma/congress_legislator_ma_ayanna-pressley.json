@@ -9,12 +9,18 @@
     "fec": [
       "H8MA07032"
     ], 
+    "google_entity_id": "kg:/m/0bmh9vc", 
     "govtrack": 412782, 
+    "votesmart": 122700, 
+    "wikidata": "Q13562359", 
     "wikipedia": "Ayanna Pressley"
   }, 
   "name": {
     "first": "Ayanna", 
     "last": "Pressley"
+  }, 
+  "social": {
+    "twitter": "RepPressley"
   }, 
   "terms": [
     {

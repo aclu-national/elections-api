@@ -61,7 +61,9 @@ def index():
 			},
 			'/v1/congress/scores': {
 				'description': 'Index of congressional legislator scores.',
-				'args': {}
+				'args': {
+					'session': 'Congressional session (optional; defaults to 116)'
+				}
 			},
 			'/v1/congress/legislators': {
 				'description': 'Index of all congressional legislators.',
@@ -363,6 +365,8 @@ def congress_district():
 @api.route("/congress/scores")
 def congress_scores():
 
+	session = int(flask.request.args.get('session', curr_session))
+
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT aclu_id, vote_context, roll_call, vote_date, vote_type, bill,
@@ -505,8 +509,6 @@ def google_civic_info():
 
 @api.route("/calendar")
 def calendar():
-
-	global elections
 
 	state = flask.request.args.get('state', None)
 	format = flask.request.args.get('format', 'json')

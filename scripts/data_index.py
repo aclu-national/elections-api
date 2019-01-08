@@ -14,8 +14,6 @@ def get_csv_path(repo):
 
 def get_index(repo):
 
-	global index
-
 	if index and repo in index:
 		return index[repo]
 
@@ -56,8 +54,6 @@ def get_index(repo):
 	return index[repo]
 
 def save_index(repo):
-
-	global index
 
 	csv_path = get_csv_path(repo)
 

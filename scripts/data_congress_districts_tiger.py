@@ -33,8 +33,6 @@ encoder = mapzen.whosonfirst.geojson.encoder(precision=None)
 
 def get_filename(props):
 
-	global options
-
 	state_geoid = props["STATEFP"]
 	state_upper = str(us.states.lookup(state_geoid).abbr)
 	state = state_upper.lower()

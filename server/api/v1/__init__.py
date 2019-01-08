@@ -15,6 +15,7 @@ from copy import deepcopy
 from ics import Calendar, Event
 
 api = flask.Blueprint('api', __name__)
+curr_session = 116
 
 google_civic_info_api.setup()
 
@@ -67,7 +68,8 @@ def index():
 				'args': {
 					'id': 'Numeric part of aclu_id (optional; returns a single match).',
 					'url_slug': 'State and name URL slug (optional; returns a single match).',
-					'include': 'Fields to include (optional; include=name)'
+					'include': 'Fields to include (optional; include=name)',
+					'session': 'Congressional session (optional; defaults to 116)'
 				}
 			},
 			'/v1/county': {
@@ -400,13 +402,14 @@ def congress_legislators():
 	id = flask.request.args.get('id', None)
 	url_slug = flask.request.args.get('url_slug', None)
 	include = flask.request.args.get('include', None)
+	session = int(flask.request.args.get('session', curr_session))
 
 	if id:
 		legislators = congress_api.get_legislators_by_id(id, include)
 	elif url_slug:
 		legislators = congress_api.get_legislators_by_url_slug(url_slug, include)
 	else:
-		legislators = congress_api.get_all_legislators(include)
+		legislators = congress_api.get_all_legislators(include, session)
 
 	return flask.jsonify({
 		'ok': True,

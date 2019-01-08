@@ -1,5 +1,7 @@
 import flask, json, os, re, sys, arrow, us
 
+curr_session = 116
+
 def get_sessions():
 
 	sessions = {}
@@ -151,7 +153,7 @@ def get_district_by_id(aclu_id):
 	cur.close()
 	return district
 
-def get_all_legislators(include=None, session_num=115):
+def get_all_legislators(include=None, session_num=curr_session):
 
 	sessions = get_sessions()
 	session = sessions[session_num]
@@ -167,7 +169,7 @@ def get_all_legislators(include=None, session_num=115):
 
 	return get_legislators(cur, "total", include)
 
-def get_legislators_by_state(state, session_num=115):
+def get_legislators_by_state(state, session_num=curr_session):
 
 	sessions = get_sessions()
 	session = sessions[session_num]
@@ -186,7 +188,7 @@ def get_legislators_by_state(state, session_num=115):
 
 	return get_legislators(cur)
 
-def get_legislators_by_district(state, district_num, session_num=115):
+def get_legislators_by_district(state, district_num, session_num=curr_session):
 
 	sessions = get_sessions()
 	session = sessions[session_num]
@@ -426,12 +428,6 @@ def get_legislators(cur, score_filter="total", include=None):
 							score['vote'] = True
 						else:
 							score['vote'] = False
-					elif value == 'Missed':
-						score['status'] = 'missed'
-					elif value == 'Not yet in office':
-						score['status'] = 'not_in_office'
-					elif value == 'Not on committee':
-						score['status'] = 'not_on_committee'
 					else:
 						score['status'] = value.lower().replace(' ', '_')
 
@@ -472,7 +468,9 @@ def get_congress_by_coords(lat, lng):
 	# going to need to make them ~less~ hardecoded.
 	# (20180716/dphiffer)
 
-	curr_session = 115
+	# UPDATE we are now using a global var curr_district, which is still hard-
+	# coded. It's just not hardcoded in here. (20190108/dphiffer)
+
 	redistricted = ['pa']
 
 	curr_district = get_district_by_coords(lat, lng, curr_session)

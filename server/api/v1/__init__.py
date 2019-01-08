@@ -15,7 +15,7 @@ from copy import deepcopy
 from ics import Calendar, Event
 
 api = flask.Blueprint('api', __name__)
-curr_session = 116
+curr_session = 115
 
 google_civic_info_api.setup()
 
@@ -372,8 +372,9 @@ def congress_scores():
 		SELECT aclu_id, vote_context, roll_call, vote_date, vote_type, bill,
 		       amendment, title, bill_summary, description, committee, link
 		FROM congress_legislator_score_index
+		WHERE session = %s
 		ORDER BY aclu_id
-	''')
+	''', (session,))
 
 	scores = []
 

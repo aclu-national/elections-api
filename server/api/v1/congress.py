@@ -1,6 +1,6 @@
 import flask, json, os, re, sys, arrow, us
 
-curr_session = 116
+curr_session = 115
 
 def get_sessions():
 

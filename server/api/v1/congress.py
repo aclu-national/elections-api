@@ -437,10 +437,23 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 					if value == '1' or value == '0':
 						score['status'] = 'voted'
 						score['score'] = True if value == '1' else False
-						if position == 'supported' and value == '1':
-							score['vote'] = True
+
+						# Hey this part is confusing! score['score'] matches what
+						# we get out of the spreadsheet (1 or 0) which is optimized
+						# for calculating the percentage.
+						#
+						# if score is 1 and aclu supported, then vote is 1
+						# if score is 1 and aclu didn't support then vote is 0
+						# if score is 0 and aclu supported then vote is 0
+						# if score is 0 and aclu didn't support then vote is 1
+						#
+						# (20190110/dphiffer) with help from kateray
+
+						if score['score']:
+							score['vote'] = True if score['aclu_position'] == 'supported' else False
 						else:
-							score['vote'] = False
+							score['vote'] = False if score['aclu_position'] == 'supported' else True
+
 					else:
 						score['status'] = value.lower().replace(' ', '_')
 

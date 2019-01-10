@@ -20,8 +20,8 @@ cur.execute('''
 	CREATE TABLE congress_legislator_details (
 		aclu_id VARCHAR(255),
 		session INTEGER,
-		display_name VARCHAR(255),
-		running_in_2018 INT
+		detail_name VARCHAR(255),
+		detail_value TEXT
 	)
 ''')
 
@@ -29,8 +29,8 @@ insert_sql = '''
 	INSERT INTO congress_legislator_details (
 		aclu_id,
 		session,
-		display_name,
-		running_in_2018
+		detail_name,
+		detail_value
 	) VALUES (%s, %s, %s, %s)
 '''
 
@@ -48,17 +48,20 @@ for chamber in ['rep', 'sen']:
 		else:
 			print(row[1])
 
-			running_in_2018 = None
-			if row[2] == '1' or row[2] == '0':
-				running_in_2018 = int(row[2])
+			col_num = 0
+			for value in row:
 
-			values = (
-				row[0],
-				session,
-				row[1],
-				running_in_2018
-			)
-			cur.execute(insert_sql, values)
+				name = headers[col_num]
+
+				values = (
+					row[0],
+					session,
+					name,
+					value
+				)
+				cur.execute(insert_sql, values)
+
+				col_num += 1
 
 		row_num = row_num + 1
 

@@ -167,7 +167,7 @@ def get_all_legislators(include=None, session_num=curr_session):
 		ORDER BY end_date DESC
 	'''.format(start_date=session['start_date'], end_date=session['end_date']))
 
-	return get_legislators(cur, "total", include)
+	return get_legislators(cur, "total", include, session_num)
 
 def get_legislators_by_state(state, session_num=curr_session):
 
@@ -186,7 +186,7 @@ def get_legislators_by_state(state, session_num=curr_session):
 		ORDER BY end_date DESC
 	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state,))
 
-	return get_legislators(cur)
+	return get_legislators(cur, "total", None, session_num)
 
 def get_legislators_by_district(state, district_num, session_num=curr_session):
 
@@ -209,9 +209,9 @@ def get_legislators_by_district(state, district_num, session_num=curr_session):
 		ORDER BY end_date DESC
 	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state, district_num))
 
-	return get_legislators(cur)
+	return get_legislators(cur, "total", None, session_num)
 
-def get_legislators_by_url_slug(url_slug, include):
+def get_legislators_by_url_slug(url_slug, include, session_num=curr_session):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -223,9 +223,9 @@ def get_legislators_by_url_slug(url_slug, include):
 		ORDER BY t.end_date DESC
 	''', (url_slug,))
 
-	return get_legislators(cur, "all", include)
+	return get_legislators(cur, "all", include, session_num)
 
-def get_legislators_by_id(id, include):
+def get_legislators_by_id(id, include, session_num=curr_session):
 
 	id = int(id)
 
@@ -239,9 +239,9 @@ def get_legislators_by_id(id, include):
 		ORDER BY t.end_date DESC
 	'''.format(id=id))
 
-	return get_legislators(cur, 'all', include)
+	return get_legislators(cur, 'all', include, session_num)
 
-def get_legislators(cur, score_filter="total", include=None):
+def get_legislators(cur, score_filter="total", include=None, session_num=curr_session):
 
 	legislators = {}
 	aclu_ids = []
@@ -306,18 +306,28 @@ def get_legislators(cur, score_filter="total", include=None):
 		cur.close()
 		return legislator_list
 
+	values = list(aclu_id_values)
+	values.append(session_num)
+	values = tuple(values)
+
 	cur.execute('''
-		SELECT aclu_id, display_name, running_in_2018
+		SELECT aclu_id, detail_name, detail_value
 		FROM congress_legislator_details
 		WHERE aclu_id IN ({aclu_ids})
-	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
+		  AND session = %s
+	'''.format(aclu_ids=aclu_id_list), values)
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
 			aclu_id = row[0]
-			legislators[aclu_id]['name']['display_name'] = row[1]
-			legislators[aclu_id]['running_in_2018'] = True if row[2] else False
+			name = row[1]
+			value = row[2]
+			if name == 'display_name':
+				legislators[aclu_id]['name'][name] = value
+			elif name == 'running_in_2018':
+				value = True if value == '1' else False
+				legislators[aclu_id][name] = value
 
 	term_id_list = ', '.join(['%s'] * len(term_ids))
 	term_id_values = tuple(term_ids)
@@ -468,7 +478,7 @@ def get_congress_by_coords(lat, lng):
 	# going to need to make them ~less~ hardecoded.
 	# (20180716/dphiffer)
 
-	# UPDATE we are now using a global var curr_district, which is still hard-
+	# UPDATE we are now using a global var curr_session, which is still hard-
 	# coded. It's just not hardcoded in here. (20190108/dphiffer)
 
 	redistricted = ['pa']

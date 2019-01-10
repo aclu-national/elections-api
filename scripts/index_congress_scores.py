@@ -3,6 +3,7 @@
 import psycopg2, os, re, sys, csv, arrow
 import postgres_db
 import unicodedata
+import index_congress_details as congress_details
 
 if len(sys.argv) < 2:
 	sys.exit('Usage: %s [congress session]' % sys.argv[0])
@@ -149,6 +150,9 @@ with open(rep_scores_csv, 'rb') as csvfile:
 		party = row.pop(0)
 		total_score = row.pop(0)
 
+		votes_total = 0
+		votes_agreed = 0
+
 		if name == 'LEGEND:':
 			break
 
@@ -193,6 +197,11 @@ with open(rep_scores_csv, 'rb') as csvfile:
 					name = bills[col_num]
 					value = row[col_num]
 
+					if value == '1' or value == '0':
+						votes_total += 1
+						if value == '1':
+							votes_agreed += 1
+
 					values = [
 						aclu_id,
 						legislator_id,
@@ -204,6 +213,9 @@ with open(rep_scores_csv, 'rb') as csvfile:
 					values = tuple(values)
 					cur.execute(legislator_score_insert_sql, values)
 					col_num = col_num + 1
+
+				congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
+				congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
 
 		row_num = row_num + 1
 
@@ -230,6 +242,9 @@ with open(sen_scores_csv, 'rb') as csvfile:
 		party = row.pop(0)
 		total_score = row.pop(0)
 
+		votes_total = 0
+		votes_agreed = 0
+
 		if name == 'LEGEND:':
 			break
 
@@ -253,6 +268,11 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				print("COULD NOT FIND %s" % name)
 				print(sens[state])
 				continue
+
+			if value == '1' or value == '0':
+				votes_total += 1
+				if value == '1':
+					votes_agreed += 1
 
 			values = [
 				'',
@@ -292,6 +312,9 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				values = tuple(values)
 				cur.execute(legislator_score_insert_sql, values)
 				col_num = col_num + 1
+
+			congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
+			congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
 
 		row_num = row_num + 1
 

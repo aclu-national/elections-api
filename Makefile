@@ -1,8 +1,8 @@
 all: congress_sessions \
      congress_districts \
      congress_legislators \
-     congress_scores \
      congress_details \
+     congress_scores \
      states \
      counties \
      state_leg \

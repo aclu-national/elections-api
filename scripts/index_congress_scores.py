@@ -269,11 +269,6 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				print(sens[state])
 				continue
 
-			if value == '1' or value == '0':
-				votes_total += 1
-				if value == '1':
-					votes_agreed += 1
-
 			values = [
 				'',
 				legislator_id,
@@ -300,6 +295,11 @@ with open(sen_scores_csv, 'rb') as csvfile:
 				aclu_id = 'aclu/elections-api/sen_score:%s' % score_num
 				name = bills[col_num]
 				value = row[col_num]
+
+				if value == '1' or value == '0':
+					votes_total += 1
+					if value == '1':
+						votes_agreed += 1
 
 				values = [
 					aclu_id,

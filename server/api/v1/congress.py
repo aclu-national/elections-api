@@ -328,6 +328,9 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			elif name == 'running_in_2018':
 				value = True if value == '1' else False
 				legislators[aclu_id][name] = value
+			elif name == 'votes_total' or name == 'votes_agreed':
+				value = int(value)
+				legislators[aclu_id][name] = value
 
 	term_id_list = ', '.join(['%s'] * len(term_ids))
 	term_id_values = tuple(term_ids)

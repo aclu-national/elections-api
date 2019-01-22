@@ -264,7 +264,8 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			}
 			if row[4] == 'rep':
 				legislators[aclu_id]['term']['district_num'] = row[6]
-			aclu_ids.append(aclu_id)
+			if not aclu_id in aclu_ids:
+				aclu_ids.append(aclu_id)
 			term_ids.append(str(row[0]))
 
 	if len(aclu_ids) == 0:
@@ -412,7 +413,6 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 
 	rs = cur.fetchall()
 	if rs:
-
 		for row in rs:
 			aclu_id = row[0]
 			legislator_id = row[1]
@@ -461,6 +461,23 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 				if score_filter == 'all' or score_filter == score['status']:
 					legislators[legislator_id]['scores'].append(score)
 
+	cur.execute('''
+		SELECT legislator_id, session
+		FROM congress_legislator_scores
+		WHERE legislator_id IN ({aclu_ids})
+		GROUP BY legislator_id, session
+		ORDER BY session
+	'''.format(aclu_ids=aclu_id_list, filter=sql_filter), aclu_id_values)
+
+	rs = cur.fetchall()
+	if rs:
+		for row in rs:
+			legislator_id = row[0]
+			session = row[1]
+			if not "score_sessions" in legislators[legislator_id]:
+				legislators[legislator_id]["score_sessions"] = []
+			legislators[legislator_id]["score_sessions"].append(session)
+
 	cur.close()
 
 	legislator_list = []
@@ -469,6 +486,8 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			legislators[aclu_id]["scores"] = []
 		if not "total_score" in legislators[aclu_id]:
 			legislators[aclu_id]["total_score"] = None
+		if not "score_sessions" in legislators[aclu_id]:
+			legislators[aclu_id]["score_sessions"] = []
 		legislator_list.append(legislators[aclu_id])
 
 	def sort_legislators(a, b):

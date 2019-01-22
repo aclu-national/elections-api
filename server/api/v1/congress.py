@@ -467,7 +467,7 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 		WHERE legislator_id IN ({aclu_ids})
 		GROUP BY legislator_id, session
 		ORDER BY session
-	'''.format(aclu_ids=aclu_id_list, filter=sql_filter), aclu_id_values)
+	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
 
 	rs = cur.fetchall()
 	if rs:

@@ -410,9 +410,9 @@ def congress_legislators():
 	session = int(flask.request.args.get('session', curr_session))
 
 	if id:
-		legislators = congress_api.get_legislators_by_id(id, include)
+		legislators = congress_api.get_legislators_by_id(id, include, session)
 	elif url_slug:
-		legislators = congress_api.get_legislators_by_url_slug(url_slug, include)
+		legislators = congress_api.get_legislators_by_url_slug(url_slug, include, session)
 	else:
 		legislators = congress_api.get_all_legislators(include, session)
 

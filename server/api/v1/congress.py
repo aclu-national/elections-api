@@ -399,71 +399,76 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 				legislators[aclu_id]['social'] = {}
 			legislators[aclu_id]['social'][key] = value
 
-		sql_filter = ''
-		if score_filter == "total":
-			sql_filter = "AND name = 'total'"
+	sql_filter = 'AND session = %d' % session_num
+	if score_filter == "total":
+		sql_filter += " AND name = 'total'"
 
-		cur.execute('''
-			SELECT aclu_id, legislator_id, position, name, value
-			FROM congress_legislator_scores
-			WHERE legislator_id IN ({aclu_ids})
-			{filter}
-		'''.format(aclu_ids=aclu_id_list, filter=sql_filter), aclu_id_values)
+	cur.execute('''
+		SELECT aclu_id, legislator_id, position, name, value
+		FROM congress_legislator_scores
+		WHERE legislator_id IN ({aclu_ids})
+		{filter}
+	'''.format(aclu_ids=aclu_id_list, filter=sql_filter), aclu_id_values)
 
-		rs = cur.fetchall()
-		if rs:
-			for row in rs:
-				aclu_id = row[0]
-				legislator_id = row[1]
-				position = row[2]
-				name = row[3]
-				value = row[4]
+	rs = cur.fetchall()
+	if rs:
 
-				if name == 'total':
-					legislators[legislator_id]['total_score'] = value
-				else:
+		for row in rs:
+			aclu_id = row[0]
+			legislator_id = row[1]
+			position = row[2]
+			name = row[3]
+			value = row[4]
 
-					if not 'scores' in legislators[legislator_id]:
-						legislators[legislator_id]['scores'] = []
+			if name == 'total':
+				legislators[legislator_id]['total_score'] = value
+			else:
 
-					score = {
-						'aclu_id': aclu_id,
-						'aclu_position': position,
-						'name': name,
-						'status': 'unknown',
-						'vote_matches_aclu_position': None,
-						'vote': None
-					}
-					if value == '1' or value == '0':
-						score['status'] = 'voted'
-						score['vote_matches_aclu_position'] = True if value == '1' else False
+				if not 'scores' in legislators[legislator_id]:
+					legislators[legislator_id]['scores'] = []
 
-						# Hey this part is confusing! score['vote_matches_aclu_position'] is what
-						# we get out of the spreadsheet (1 or 0) which is optimized
-						# for calculating the total percentage.
-						#
-						# if vote_matches_aclu_position is 1 and aclu supported, then vote is 1
-						# if vote_matches_aclu_position is 1 and aclu opposed then vote is 0
-						# if vote_matches_aclu_position is 0 and aclu supported then vote is 0
-						# if vote_matches_aclu_position is 0 and aclu opposed then vote is 1
-						#
-						# (20190110/dphiffer) with help from kateray
+				score = {
+					'aclu_id': aclu_id,
+					'aclu_position': position,
+					'name': name,
+					'status': 'unknown',
+					'vote_matches_aclu_position': None,
+					'vote': None
+				}
+				if value == '1' or value == '0':
+					score['status'] = 'voted'
+					score['vote_matches_aclu_position'] = True if value == '1' else False
 
-						if score['vote_matches_aclu_position']:
-							score['vote'] = True if score['aclu_position'] == 'supported' else False
-						else:
-							score['vote'] = False if score['aclu_position'] == 'supported' else True
+					# Hey this part is confusing! score['vote_matches_aclu_position'] is what
+					# we get out of the spreadsheet (1 or 0) which is optimized
+					# for calculating the total percentage.
+					#
+					# if vote_matches_aclu_position is 1 and aclu supported, then vote is 1
+					# if vote_matches_aclu_position is 1 and aclu opposed then vote is 0
+					# if vote_matches_aclu_position is 0 and aclu supported then vote is 0
+					# if vote_matches_aclu_position is 0 and aclu opposed then vote is 1
+					#
+					# (20190110/dphiffer) with help from kateray
 
+					if score['vote_matches_aclu_position']:
+						score['vote'] = True if score['aclu_position'] == 'supported' else False
 					else:
-						score['status'] = value.lower().replace(' ', '_')
+						score['vote'] = False if score['aclu_position'] == 'supported' else True
 
-					if score_filter == 'all' or score_filter == score['status']:
-						legislators[legislator_id]['scores'].append(score)
+				else:
+					score['status'] = value.lower().replace(' ', '_')
+
+				if score_filter == 'all' or score_filter == score['status']:
+					legislators[legislator_id]['scores'].append(score)
 
 	cur.close()
 
 	legislator_list = []
 	for aclu_id in legislators:
+		if not "scores" in legislators[aclu_id]:
+			legislators[aclu_id]["scores"] = []
+		if not "total_score" in legislators[aclu_id]:
+			legislators[aclu_id]["total_score"] = None
 		legislator_list.append(legislators[aclu_id])
 
 	def sort_legislators(a, b):

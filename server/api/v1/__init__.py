@@ -134,6 +134,8 @@ def pip(req=None):
 	calendar_url = None
 	state_only_congress = None
 
+	session = int(flask.request.args.get('session', curr_session))
+
 	if type(req) == str:
 		return flask.jsonify({
 			'ok': False,
@@ -144,7 +146,7 @@ def pip(req=None):
 		lat = req['lat']
 		lng = req['lng']
 
-		congress = congress_api.get_congress_by_coords(lat, lng)
+		congress = congress_api.get_congress_by_coords(lat, lng, session)
 		if (congress["ok"]):
 			del congress["ok"]
 			state = state_api.get_state_by_abbrev(congress['district']['state'])

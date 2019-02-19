@@ -146,9 +146,9 @@ The API relies on other upstream services and expects some API keys to be define
 * [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/start): `GOOGLE_API_KEY` (optional; only used for polling places)
 * [ipstack](https://ipstack.com/): `IPSTACK_API_KEY` (optional; defaults to Maxmind)
 
-## Running the server
+## Running the server locally
 
-Here are the steps to run the server locally.
+Here are the steps to run the server locally for development purposes. For now you _must_ run everything from the `/usr/local/aclu` directory.
 
 ```
 $ cd elections-api
@@ -161,7 +161,7 @@ $ export MAPBOX_API_KEY="..."
 $ python server.py
 ```
 
-## Server setup
+## Ubuntu server setup
 
 The API server is designed to run on Ubuntu 16.04.
 

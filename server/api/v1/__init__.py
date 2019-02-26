@@ -337,8 +337,9 @@ def congress():
 
 	lat = req['lat']
 	lng = req['lng']
+	session = int(flask.request.args.get('session', curr_session))
 
-	rsp = congress_api.get_congress_by_coords(lat, lng)
+	rsp = congress_api.get_congress_by_coords(lat, lng, session)
 	return flask.jsonify({
 		'ok': True,
 		'congress': rsp
@@ -356,8 +357,9 @@ def congress_district():
 
 	lat = req['lat']
 	lng = req['lng']
+	session = int(flask.request.args.get('session', curr_session))
 
-	district = congress_api.get_district_by_coords(lat, lng)
+	district = congress_api.get_district_by_coords(lat, lng, session)
 
 	return flask.jsonify({
 		'ok': True,

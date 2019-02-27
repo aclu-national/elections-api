@@ -133,7 +133,7 @@ if rs:
 # a bit, so don't make the mistake of changing one and not the other.
 # (20180613/dphiffer)
 
-rep_scores_csv = '%s/sources/aclu/aclu_rep_scores_%d.csv' % (root_dir, session)
+rep_scores_csv = '%s/elections-api-private/aclu/aclu_rep_scores_%d.csv' % (root_dir, session)
 with open(rep_scores_csv, 'rb') as csvfile:
 
 	reader = csv.reader(csvfile)
@@ -225,7 +225,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 # a bit, so don't make the mistake of changing one and not the other.
 # (20180613/dphiffer)
 
-sen_scores_csv = '%s/sources/aclu/aclu_sen_scores_%d.csv' % (root_dir, session)
+sen_scores_csv = '%s/elections-api-private/aclu/aclu_sen_scores_%d.csv' % (root_dir, session)
 with open(sen_scores_csv, 'rb') as csvfile:
 
 	reader = csv.reader(csvfile)
@@ -322,7 +322,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 
 for chamber in ['rep', 'sen']:
 
-	filename = '%s/sources/aclu/aclu_%s_score_index_%d.csv' % (root_dir, chamber, session)
+	filename = '%s/elections-api-private/aclu/aclu_%s_score_index_%d.csv' % (root_dir, chamber, session)
 	with open(filename, 'rb') as csvfile:
 
 		reader = csv.reader(csvfile)

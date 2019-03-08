@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Lance", 
-    "last": "Gooden"
+    "last": "Gooden", 
+    "official_full": "Lance Gooden"
+  }, 
+  "social": {
+    "twitter": "RepLanceGooden", 
+    "twitter_id": 412595957
   }, 
   "terms": [
     {

@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1950-10-11", 
-    "gender": "F", 
-    "religion": "Roman Catholic"
+    "gender": "F"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1021", 
@@ -24,6 +23,13 @@
     "wikidata": "Q258825", 
     "wikipedia": "Patty Murray"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Assistant Senate Minority Leader"
+    }
+  ], 
   "name": {
     "first": "Patty", 
     "last": "Murray", 

@@ -18,10 +18,12 @@
   "name": {
     "first": "Sylvia", 
     "last": "Garcia", 
-    "middle": "R."
+    "middle": "R.", 
+    "official_full": "Sylvia R. Garcia"
   }, 
   "social": {
-    "twitter": "RepSylviaGarcia"
+    "twitter": "RepSylviaGarcia", 
+    "twitter_id": 1080587263132733442
   }, 
   "terms": [
     {

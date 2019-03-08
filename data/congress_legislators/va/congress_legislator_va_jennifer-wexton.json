@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Jennifer", 
-    "last": "Wexton"
+    "last": "Wexton", 
+    "official_full": "Jennifer Wexton"
   }, 
   "social": {
-    "twitter": "RepWexton"
+    "twitter": "RepWexton", 
+    "twitter_id": 1017819745880543238
   }, 
   "terms": [
     {

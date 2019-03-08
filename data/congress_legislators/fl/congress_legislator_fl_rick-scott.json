@@ -12,23 +12,30 @@
     ], 
     "google_entity_id": "kg:/m/0btx2g", 
     "govtrack": 412838, 
+    "lis": "S404", 
     "votesmart": 124204, 
     "wikidata": "Q439729", 
     "wikipedia": "Rick Scott"
   }, 
   "name": {
     "first": "Rick", 
-    "last": "Scott"
+    "last": "Scott", 
+    "official_full": "Rick Scott"
   }, 
   "terms": [
     {
+      "address": "716 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "mailto:help@rickscott.senate.gov", 
       "end": "2025-01-03", 
+      "office": "716 Hart Senate Office Building", 
       "party": "Republican", 
-      "start": "2019-01-03", 
+      "phone": "202-224-5274", 
+      "start": "2019-01-08", 
       "state": "FL", 
       "state_rank": "junior", 
-      "type": "sen"
+      "type": "sen", 
+      "url": "https://www.senate.gov/senators/116thCongress/ScottRick.htm"
     }
   ], 
   "url_slug": "fl-rick-scott"

@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1950-11-23", 
-    "gender": "M", 
-    "religion": "Jewish"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:854", 
@@ -30,7 +29,12 @@
       "chamber": "senate", 
       "end": "2019-01-03", 
       "start": "2017-01-03", 
-      "title": "Minority Leader"
+      "title": "Senate Minority Leader"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Senate Minority Leader"
     }
   ], 
   "name": {

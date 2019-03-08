@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Susie", 
-    "last": "Lee"
+    "last": "Lee", 
+    "official_full": "Susie Lee"
   }, 
   "social": {
-    "twitter": "RepSusieLee"
+    "twitter": "RepSusieLee", 
+    "twitter_id": 1079061579973439488
   }, 
   "terms": [
     {

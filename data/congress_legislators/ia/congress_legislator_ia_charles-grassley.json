@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1933-09-17", 
-    "gender": "M", 
-    "religion": "Baptist"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:669", 
@@ -24,6 +23,13 @@
     "wikidata": "Q529294", 
     "wikipedia": "Chuck Grassley"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "President Pro Tempore of the Senate"
+    }
+  ], 
   "name": {
     "first": "Charles", 
     "last": "Grassley", 

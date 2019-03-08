@@ -18,10 +18,12 @@
   "name": {
     "first": "Haley", 
     "last": "Stevens", 
-    "middle": "M."
+    "middle": "M.", 
+    "official_full": "Haley M. Stevens"
   }, 
   "social": {
-    "twitter": "RepHaleyStevens"
+    "twitter": "RepHaleyStevens", 
+    "twitter_id": 1076161611033968640
   }, 
   "terms": [
     {

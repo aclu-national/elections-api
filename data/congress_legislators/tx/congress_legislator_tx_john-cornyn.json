@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1952-02-02", 
-    "gender": "M", 
-    "religion": "Church of Christ"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:967", 
@@ -28,19 +27,19 @@
       "chamber": "senate", 
       "end": "2015-01-03", 
       "start": "2013-01-03", 
-      "title": "Minority Whip"
+      "title": "Senate Minority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2017-01-03", 
       "start": "2015-01-03", 
-      "title": "Majority Whip"
+      "title": "Senate Majority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2019-01-03", 
       "start": "2017-01-03", 
-      "title": "Majority Whip"
+      "title": "Senate Majority Whip"
     }
   ], 
   "name": {

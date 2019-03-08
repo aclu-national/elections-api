@@ -23,6 +23,13 @@
     "wikidata": "Q22237", 
     "wikipedia": "Amy Klobuchar"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Senate Democratic Steering Committee Chair"
+    }
+  ], 
   "name": {
     "first": "Amy", 
     "last": "Klobuchar", 
@@ -65,11 +72,11 @@
       "url": "https://www.klobuchar.senate.gov"
     }, 
     {
-      "address": "302 Hart Senate Office Building Washington DC 20510", 
+      "address": "425 Dirksen Senate Office Building Washington DC 20510", 
       "class": 1, 
       "contact_form": "http://www.klobuchar.senate.gov/public/index.cfm/contact", 
       "end": "2025-01-03", 
-      "office": "302 Hart Senate Office Building", 
+      "office": "425 Dirksen Senate Office Building", 
       "party": "Democrat", 
       "phone": "202-224-3244", 
       "start": "2019-01-03", 

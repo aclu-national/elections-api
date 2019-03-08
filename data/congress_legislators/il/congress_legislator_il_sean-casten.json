@@ -15,7 +15,12 @@
   }, 
   "name": {
     "first": "Sean", 
-    "last": "Casten"
+    "last": "Casten", 
+    "official_full": "Sean Casten"
+  }, 
+  "social": {
+    "twitter": "RepCasten", 
+    "twitter_id": 1083472286089396224
   }, 
   "terms": [
     {

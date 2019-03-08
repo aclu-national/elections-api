@@ -22,10 +22,15 @@
     "last": "Braun", 
     "official_full": "Mike Braun"
   }, 
+  "social": {
+    "twitter": "SenatorBraun", 
+    "twitter_id": 1080870981877534720
+  }, 
   "terms": [
     {
       "address": "B85 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "http://www.braun.senate.gov/contact-mike", 
       "end": "2025-01-03", 
       "office": "B85 Russell Senate Office Building", 
       "party": "Republican", 

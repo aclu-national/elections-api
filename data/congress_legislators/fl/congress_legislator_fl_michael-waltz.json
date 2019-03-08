@@ -15,7 +15,12 @@
   }, 
   "name": {
     "first": "Michael", 
-    "last": "Waltz"
+    "last": "Waltz", 
+    "official_full": "Michael Waltz"
+  }, 
+  "social": {
+    "twitter": "RepMichaelWaltz", 
+    "twitter_id": 1082416697380913152
   }, 
   "terms": [
     {

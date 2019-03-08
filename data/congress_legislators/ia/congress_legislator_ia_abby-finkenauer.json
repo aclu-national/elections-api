@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Abby", 
-    "last": "Finkenauer"
+    "last": "Finkenauer", 
+    "official_full": "Abby Finkenauer"
+  }, 
+  "social": {
+    "twitter": "RepFinkenauer", 
+    "twitter_id": 1081256295469068288
   }, 
   "terms": [
     {

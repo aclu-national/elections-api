@@ -16,7 +16,12 @@
   }, 
   "name": {
     "first": "Chip", 
-    "last": "Roy"
+    "last": "Roy", 
+    "official_full": "Chip Roy"
+  }, 
+  "social": {
+    "twitter": "RepChipRoy", 
+    "twitter_id": 1082790600292925440
   }, 
   "terms": [
     {

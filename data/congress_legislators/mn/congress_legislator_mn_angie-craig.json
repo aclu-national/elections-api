@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Angie", 
-    "last": "Craig"
+    "last": "Craig", 
+    "official_full": "Angie Craig"
   }, 
   "social": {
-    "twitter": "RepAngieCraig"
+    "twitter": "RepAngieCraig", 
+    "twitter_id": 1080222360643485698
   }, 
   "terms": [
     {

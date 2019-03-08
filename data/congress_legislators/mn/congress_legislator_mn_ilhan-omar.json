@@ -16,7 +16,12 @@
   }, 
   "name": {
     "first": "Ilhan", 
-    "last": "Omar"
+    "last": "Omar", 
+    "official_full": "Ilhan Omar"
+  }, 
+  "social": {
+    "twitter": "Ilhan", 
+    "twitter_id": 1082334352711790593
   }, 
   "terms": [
     {

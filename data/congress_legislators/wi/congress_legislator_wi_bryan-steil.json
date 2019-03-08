@@ -15,10 +15,12 @@
   }, 
   "name": {
     "first": "Bryan", 
-    "last": "Steil"
+    "last": "Steil", 
+    "official_full": "Bryan Steil"
   }, 
   "social": {
-    "twitter": "RepBryanSteil"
+    "twitter": "RepBryanSteil", 
+    "twitter_id": 1075205691621720064
   }, 
   "terms": [
     {

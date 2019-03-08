@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1955-12-19", 
-    "gender": "M", 
-    "religion": "Methodist"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:890", 

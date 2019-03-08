@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "TJ", 
-    "last": "Cox"
+    "last": "Cox", 
+    "official_full": "TJ Cox"
   }, 
   "social": {
-    "twitter": "RepTjCox"
+    "twitter": "RepTjCox", 
+    "twitter_id": 1080875913926139910
   }, 
   "terms": [
     {

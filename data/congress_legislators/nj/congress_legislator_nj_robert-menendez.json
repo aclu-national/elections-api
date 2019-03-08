@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1954-01-01", 
-    "gender": "M", 
-    "religion": "Roman Catholic"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:837", 
@@ -27,7 +26,7 @@
   }, 
   "name": {
     "first": "Robert", 
-    "last": "Men\u00e9ndez", 
+    "last": "Menendez", 
     "nickname": "Bob", 
     "official_full": "Robert Menendez"
   }, 

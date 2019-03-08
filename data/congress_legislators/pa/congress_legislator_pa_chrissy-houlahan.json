@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Chrissy", 
-    "last": "Houlahan"
+    "last": "Houlahan", 
+    "official_full": "Chrissy Houlahan"
   }, 
   "social": {
-    "twitter": "RepHoulahan"
+    "twitter": "RepHoulahan", 
+    "twitter_id": 1052896620797460481
   }, 
   "terms": [
     {

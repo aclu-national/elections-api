@@ -18,7 +18,12 @@
   }, 
   "name": {
     "first": "Tom", 
-    "last": "Malinowski"
+    "last": "Malinowski", 
+    "official_full": "Tom Malinowski"
+  }, 
+  "social": {
+    "twitter": "RepMalinowski", 
+    "twitter_id": 1080898026418384897
   }, 
   "terms": [
     {

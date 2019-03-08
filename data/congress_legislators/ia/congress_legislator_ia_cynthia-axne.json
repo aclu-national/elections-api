@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Cynthia", 
-    "last": "Axne"
+    "last": "Axne", 
+    "official_full": "Cynthia Axne"
   }, 
   "social": {
-    "twitter": "RepCindyAxne"
+    "twitter": "RepCindyAxne", 
+    "twitter_id": 1080865917377097728
   }, 
   "terms": [
     {

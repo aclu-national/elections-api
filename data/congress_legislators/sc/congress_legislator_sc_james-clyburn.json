@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1940-07-21", 
-    "gender": "M", 
-    "religion": "African Methodist Episcopal"
+    "gender": "M"
   }, 
   "family": [
     {
@@ -29,6 +28,13 @@
     "wikidata": "Q1289889", 
     "wikipedia": "Jim Clyburn"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "house", 
+      "start": "2019-01-03", 
+      "title": "House Majority Whip"
+    }
+  ], 
   "name": {
     "first": "James", 
     "last": "Clyburn", 

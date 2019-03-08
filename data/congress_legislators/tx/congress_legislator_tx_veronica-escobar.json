@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Veronica", 
-    "last": "Escobar"
+    "last": "Escobar", 
+    "official_full": "Veronica Escobar"
   }, 
   "social": {
-    "twitter": "RepEscobar"
+    "twitter": "RepEscobar", 
+    "twitter_id": 1075517806551154689
   }, 
   "terms": [
     {

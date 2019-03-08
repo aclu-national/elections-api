@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1936-09-05", 
-    "gender": "M", 
-    "religion": "African Methodist Episcopal"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:621", 

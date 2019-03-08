@@ -17,7 +17,12 @@
   "name": {
     "first": "Gilbert", 
     "last": "Cisneros", 
-    "middle": "Ray"
+    "middle": "Ray", 
+    "official_full": "Gil Cisneros"
+  }, 
+  "social": {
+    "twitter": "RepGilCisneros", 
+    "twitter_id": 1080986167003230208
   }, 
   "terms": [
     {

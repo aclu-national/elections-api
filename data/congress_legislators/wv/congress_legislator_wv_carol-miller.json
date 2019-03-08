@@ -18,7 +18,12 @@
   "name": {
     "first": "Carol", 
     "last": "Miller", 
-    "middle": "D."
+    "middle": "D.", 
+    "official_full": "Carol D. Miller"
+  }, 
+  "social": {
+    "twitter": "RepCarolMiller", 
+    "twitter_id": 1081318716573470720
   }, 
   "terms": [
     {

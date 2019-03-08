@@ -16,7 +16,12 @@
   "name": {
     "first": "Steven", 
     "last": "Watkins", 
-    "middle": "C."
+    "middle": "C.", 
+    "official_full": "Steven C. Watkins, Jr."
+  }, 
+  "social": {
+    "twitter": "Rep_Watkins", 
+    "twitter_id": 1080307235350241280
   }, 
   "terms": [
     {

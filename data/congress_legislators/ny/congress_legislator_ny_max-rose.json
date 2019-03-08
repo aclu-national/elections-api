@@ -15,10 +15,12 @@
   }, 
   "name": {
     "first": "Max", 
-    "last": "Rose"
+    "last": "Rose", 
+    "official_full": "Max Rose"
   }, 
   "social": {
-    "twitter": "RepMaxRose"
+    "twitter": "RepMaxRose", 
+    "twitter_id": 1078692057940742144
   }, 
   "terms": [
     {

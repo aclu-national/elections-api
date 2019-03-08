@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1952-09-27", 
-    "gender": "M", 
-    "religion": "Protestant"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11535", 
@@ -21,7 +20,12 @@
   }, 
   "name": {
     "first": "Ed", 
-    "last": "Case"
+    "last": "Case", 
+    "official_full": "Ed Case"
+  }, 
+  "social": {
+    "twitter": "RepEdCase", 
+    "twitter_id": 1081350574589833221
   }, 
   "terms": [
     {

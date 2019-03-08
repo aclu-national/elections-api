@@ -18,10 +18,12 @@
   "name": {
     "first": "William", 
     "last": "Timmons", 
-    "middle": "R."
+    "middle": "R.", 
+    "official_full": "William R. Timmons IV"
   }, 
   "social": {
-    "twitter": "RepTimmons"
+    "twitter": "RepTimmons", 
+    "twitter_id": 1079770852302958592
   }, 
   "terms": [
     {

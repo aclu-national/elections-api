@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Madeleine", 
-    "last": "Dean"
+    "last": "Dean", 
+    "official_full": "Madeleine Dean"
+  }, 
+  "social": {
+    "twitter": "RepDean", 
+    "twitter_id": 567508925
   }, 
   "terms": [
     {

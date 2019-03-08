@@ -16,7 +16,12 @@
   }, 
   "name": {
     "first": "Katie", 
-    "last": "Porter"
+    "last": "Porter", 
+    "official_full": "Katie Porter"
+  }, 
+  "social": {
+    "twitter": "RepKatiePorter", 
+    "twitter_id": 1081222837459996672
   }, 
   "terms": [
     {

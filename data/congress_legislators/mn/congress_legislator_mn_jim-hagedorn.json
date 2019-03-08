@@ -16,7 +16,12 @@
   }, 
   "name": {
     "first": "Jim", 
-    "last": "Hagedorn"
+    "last": "Hagedorn", 
+    "official_full": "Jim Hagedorn"
+  }, 
+  "social": {
+    "twitter": "RepHagedorn", 
+    "twitter_id": 1083474782602125318
   }, 
   "terms": [
     {

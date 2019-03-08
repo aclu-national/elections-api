@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Lori", 
-    "last": "Trahan"
+    "last": "Trahan", 
+    "official_full": "Lori Trahan"
   }, 
   "social": {
-    "twitter": "RepLoriTrahan"
+    "twitter": "RepLoriTrahan", 
+    "twitter_id": 1079802482640019456
   }, 
   "terms": [
     {

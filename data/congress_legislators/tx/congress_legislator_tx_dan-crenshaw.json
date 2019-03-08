@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Dan", 
-    "last": "Crenshaw"
+    "last": "Crenshaw", 
+    "official_full": "Dan Crenshaw"
   }, 
   "social": {
-    "twitter": "RepDanCrenshaw"
+    "twitter": "RepDanCrenshaw", 
+    "twitter_id": 1080894931311431682
   }, 
   "terms": [
     {

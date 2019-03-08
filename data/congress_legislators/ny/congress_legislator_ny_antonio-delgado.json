@@ -15,10 +15,12 @@
   }, 
   "name": {
     "first": "Antonio", 
-    "last": "Delgado"
+    "last": "Delgado", 
+    "official_full": "Antonio Delgado"
   }, 
   "social": {
-    "twitter": "repdelgado"
+    "twitter": "repdelgado", 
+    "twitter_id": 1080485692298444800
   }, 
   "terms": [
     {

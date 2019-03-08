@@ -22,10 +22,15 @@
     "last": "Hawley", 
     "official_full": "Josh Hawley"
   }, 
+  "social": {
+    "twitter": "SenHawleyPress", 
+    "twitter_id": 1080960924687704064
+  }, 
   "terms": [
     {
       "address": "B40A Dirksen Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "mailto:senator@hawley.senate.gov", 
       "end": "2025-01-03", 
       "office": "B40a Dirksen Senate Office Building", 
       "party": "Republican", 
@@ -34,7 +39,7 @@
       "state": "MO", 
       "state_rank": "junior", 
       "type": "sen", 
-      "url": "https://www.hawley.senate.gov"
+      "url": "https://www.senate.gov/senators/116thCongress/HawleyJosh.htm"
     }
   ], 
   "url_slug": "mo-joshua-hawley"

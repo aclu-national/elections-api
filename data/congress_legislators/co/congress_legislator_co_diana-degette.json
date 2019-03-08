@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1957-07-29", 
-    "gender": "F", 
-    "religion": "Presbyterian"
+    "gender": "F"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:601", 

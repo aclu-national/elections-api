@@ -16,7 +16,12 @@
   }, 
   "name": {
     "first": "Chris", 
-    "last": "Pappas"
+    "last": "Pappas", 
+    "official_full": "Chris Pappas"
+  }, 
+  "social": {
+    "twitter": "RepChrisPappas", 
+    "twitter_id": 1067748650485497862
   }, 
   "terms": [
     {

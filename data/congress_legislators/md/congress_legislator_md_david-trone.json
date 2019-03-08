@@ -7,7 +7,7 @@
     "aclu_id": "aclu/elections-api/congress_legislator:11549", 
     "bioguide": "T000483", 
     "fec": [
-      "H8MD06168"
+      "H6MD08549"
     ], 
     "govtrack": 412783, 
     "votesmart": 167336, 
@@ -17,10 +17,12 @@
   "name": {
     "first": "David", 
     "last": "Trone", 
-    "middle": "J."
+    "middle": "J.", 
+    "official_full": "David J. Trone"
   }, 
   "social": {
-    "twitter": "RepDavidTrone"
+    "twitter": "repdavidtrone", 
+    "twitter_id": 1080573351914061825
   }, 
   "terms": [
     {

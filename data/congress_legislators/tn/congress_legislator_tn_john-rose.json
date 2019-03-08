@@ -17,7 +17,12 @@
   "name": {
     "first": "John", 
     "last": "Rose", 
-    "middle": "W."
+    "middle": "W.", 
+    "official_full": "John W. Rose"
+  }, 
+  "social": {
+    "twitter": "RepJohnRose", 
+    "twitter_id": 1081312310059253763
   }, 
   "terms": [
     {

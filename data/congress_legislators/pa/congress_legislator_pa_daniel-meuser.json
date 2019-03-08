@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Daniel", 
-    "last": "Meuser"
+    "last": "Meuser", 
+    "official_full": "Daniel Meuser"
   }, 
   "social": {
-    "twitter": "RepMeuser"
+    "twitter": "RepMeuser", 
+    "twitter_id": 1080574793630527505
   }, 
   "terms": [
     {

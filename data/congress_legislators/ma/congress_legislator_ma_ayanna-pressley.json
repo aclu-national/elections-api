@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Ayanna", 
-    "last": "Pressley"
+    "last": "Pressley", 
+    "official_full": "Ayanna Pressley"
   }, 
   "social": {
-    "twitter": "RepPressley"
+    "twitter": "RepPressley", 
+    "twitter_id": 1080584229510172678
   }, 
   "terms": [
     {

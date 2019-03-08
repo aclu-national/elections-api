@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Debbie", 
-    "last": "Mucarsel-Powell"
+    "last": "Mucarsel-Powell", 
+    "official_full": "Debbie Mucarsel-Powell"
+  }, 
+  "social": {
+    "twitter": "RepDMP", 
+    "twitter_id": 1080941062028447744
   }, 
   "terms": [
     {

@@ -17,10 +17,12 @@
   "name": {
     "first": "Abigail", 
     "last": "Spanberger", 
-    "middle": "Davis"
+    "middle": "Davis", 
+    "official_full": "Abigail Davis Spanberger"
   }, 
   "social": {
-    "twitter": "RepSpanberger"
+    "twitter": "RepSpanberger", 
+    "twitter_id": 1078771401497161728
   }, 
   "terms": [
     {

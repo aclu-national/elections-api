@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Denver", 
-    "last": "Riggleman"
+    "last": "Riggleman", 
+    "official_full": "Denver Riggleman"
   }, 
   "social": {
-    "twitter": "RepRiggleman"
+    "twitter": "RepRiggleman", 
+    "twitter_id": 1080504024695222273
   }, 
   "terms": [
     {

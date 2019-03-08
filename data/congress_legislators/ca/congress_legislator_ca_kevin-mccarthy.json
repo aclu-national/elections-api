@@ -28,31 +28,36 @@
       "chamber": "house", 
       "end": "2013-01-03", 
       "start": "2011-01-05", 
-      "title": "Majority Whip"
+      "title": "House Majority Whip"
     }, 
     {
       "chamber": "house", 
       "end": "2014-07-31", 
       "start": "2013-01-03", 
-      "title": "Majority Whip"
+      "title": "House Majority Whip"
     }, 
     {
       "chamber": "house", 
       "end": "2015-01-03", 
       "start": "2014-08-01", 
-      "title": "Majority Leader"
+      "title": "House Majority Leader"
     }, 
     {
       "chamber": "house", 
       "end": "2017-01-03", 
       "start": "2015-01-06", 
-      "title": "Majority Leader"
+      "title": "House Majority Leader"
     }, 
     {
       "chamber": "house", 
       "end": "2019-01-03", 
       "start": "2017-01-03", 
-      "title": "Majority Leader"
+      "title": "House Majority Leader"
+    }, 
+    {
+      "chamber": "house", 
+      "start": "2019-01-03", 
+      "title": "House Minority Leader"
     }
   ], 
   "name": {

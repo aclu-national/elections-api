@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1951-05-20", 
-    "gender": "M", 
-    "religion": "Latter Day Saints"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:676", 

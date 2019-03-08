@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1944-11-21", 
-    "gender": "M", 
-    "religion": "Roman Catholic"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:695", 
@@ -30,43 +29,48 @@
       "chamber": "senate", 
       "end": "2007-01-03", 
       "start": "2005-01-04", 
-      "title": "Minority Whip"
+      "title": "Senate Minority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2009-01-06", 
       "start": "2007-01-04", 
-      "title": "Majority Whip"
+      "title": "Senate Majority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2011-01-05", 
       "start": "2009-01-06", 
-      "title": "Majority Whip"
+      "title": "Senate Majority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2013-01-03", 
       "start": "2011-01-05", 
-      "title": "Majority Whip"
+      "title": "Senate Majority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2015-01-03", 
       "start": "2013-01-03", 
-      "title": "Majority Whip"
+      "title": "Senate Majority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2017-01-03", 
       "start": "2015-01-03", 
-      "title": "Minority Whip"
+      "title": "Senate Minority Whip"
     }, 
     {
       "chamber": "senate", 
       "end": "2019-01-03", 
       "start": "2017-01-03", 
-      "title": "Minority Whip"
+      "title": "Senate Minority Whip"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Senate Minority Whip"
     }
   ], 
   "name": {

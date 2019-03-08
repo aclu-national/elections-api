@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Van", 
-    "last": "Taylor"
+    "last": "Taylor", 
+    "official_full": "Van Taylor"
   }, 
   "social": {
-    "twitter": "RepVanTaylor"
+    "twitter": "RepVanTaylor", 
+    "twitter_id": 1075040139351597056
   }, 
   "terms": [
     {

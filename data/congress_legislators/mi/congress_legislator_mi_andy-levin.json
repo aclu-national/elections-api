@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Andy", 
-    "last": "Levin"
+    "last": "Levin", 
+    "official_full": "Andy Levin"
   }, 
   "social": {
-    "twitter": "RepAndyLevin"
+    "twitter": "RepAndyLevin", 
+    "twitter_id": 1080277407867772930
   }, 
   "terms": [
     {

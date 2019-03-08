@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1950-01-12", 
-    "gender": "F", 
-    "religion": "Seventh Day Adventist"
+    "gender": "F"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:986", 

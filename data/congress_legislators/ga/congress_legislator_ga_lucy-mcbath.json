@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Lucy", 
-    "last": "McBath"
+    "last": "McBath", 
+    "official_full": "Lucy McBath"
+  }, 
+  "social": {
+    "twitter": "replucymcbath", 
+    "twitter_id": 1082380458976051202
   }, 
   "terms": [
     {

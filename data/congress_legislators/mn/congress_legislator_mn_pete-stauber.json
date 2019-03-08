@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Pete", 
-    "last": "Stauber"
+    "last": "Stauber", 
+    "official_full": "Pete Stauber"
   }, 
   "social": {
-    "twitter": "RepPeteStauber"
+    "twitter": "RepPeteStauber", 
+    "twitter_id": 1075830599007510535
   }, 
   "terms": [
     {

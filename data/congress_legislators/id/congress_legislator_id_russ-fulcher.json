@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Russ", 
-    "last": "Fulcher"
+    "last": "Fulcher", 
+    "official_full": "Russ Fulcher"
   }, 
   "social": {
-    "twitter": "RepRussFulcher"
+    "twitter": "RepRussFulcher", 
+    "twitter_id": 1078741899572240384
   }, 
   "terms": [
     {

@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1950-01-10", 
-    "gender": "M", 
-    "religion": "Baptist"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:787", 
@@ -25,6 +24,13 @@
     "wikidata": "Q1525924", 
     "wikipedia": "Roy Blunt"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Senate Republican Policy Committee Chair"
+    }
+  ], 
   "name": {
     "first": "Roy", 
     "last": "Blunt", 

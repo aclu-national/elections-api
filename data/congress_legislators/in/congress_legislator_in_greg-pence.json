@@ -16,7 +16,12 @@
   }, 
   "name": {
     "first": "Greg", 
-    "last": "Pence"
+    "last": "Pence", 
+    "official_full": "Greg Pence"
+  }, 
+  "social": {
+    "twitter": "RepGregPence", 
+    "twitter_id": 1082369392229400576
   }, 
   "terms": [
     {

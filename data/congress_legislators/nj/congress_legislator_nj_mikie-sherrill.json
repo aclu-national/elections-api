@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Mikie", 
-    "last": "Sherrill"
+    "last": "Sherrill", 
+    "official_full": "Mikie Sherrill"
   }, 
   "social": {
-    "twitter": "RepSherrill"
+    "twitter": "RepSherrill", 
+    "twitter_id": 1080569698536878081
   }, 
   "terms": [
     {

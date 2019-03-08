@@ -84,6 +84,7 @@
     {
       "address": "B40C Dirksen Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "", 
       "end": "2025-01-03", 
       "office": "B40c Dirksen Senate Office Building", 
       "party": "Republican", 
@@ -92,7 +93,7 @@
       "state": "ND", 
       "state_rank": "junior", 
       "type": "sen", 
-      "url": "https://www.cramer.senate.gov"
+      "url": "https://www.senate.gov/senators/116thCongress/CramerKevin.htm"
     }
   ], 
   "url_slug": "nd-kevin-cramer"

@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Ben", 
-    "last": "Cline"
+    "last": "Cline", 
+    "official_full": "Ben Cline"
   }, 
   "social": {
-    "twitter": "RepBenCline"
+    "twitter": "RepBenCline", 
+    "twitter_id": 1072158357237174272
   }, 
   "terms": [
     {

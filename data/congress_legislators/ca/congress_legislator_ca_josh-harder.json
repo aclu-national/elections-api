@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Josh", 
-    "last": "Harder"
+    "last": "Harder", 
+    "official_full": "Josh Harder"
   }, 
   "social": {
-    "twitter": "RepJoshHarder"
+    "twitter": "RepJoshHarder", 
+    "twitter_id": 1080851152151953410
   }, 
   "terms": [
     {

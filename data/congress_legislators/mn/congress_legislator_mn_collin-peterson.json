@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1944-06-29", 
-    "gender": "M", 
-    "religion": "Lutheran"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1045", 

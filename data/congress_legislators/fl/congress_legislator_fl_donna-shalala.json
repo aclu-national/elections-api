@@ -18,10 +18,12 @@
   "name": {
     "first": "Donna", 
     "last": "Shalala", 
-    "middle": "E."
+    "middle": "E.", 
+    "official_full": "Donna E. Shalala"
   }, 
   "social": {
-    "twitter": "RepShalala"
+    "twitter": "RepShalala", 
+    "twitter_id": 1060584809095925762
   }, 
   "terms": [
     {

@@ -7,7 +7,7 @@
     "aclu_id": "aclu/elections-api/congress_legislator:11525", 
     "bioguide": "N000191", 
     "fec": [
-      "H8CO02178"
+      "H8CO02160"
     ], 
     "govtrack": 412761, 
     "votesmart": 151075, 
@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Joe", 
-    "last": "Neguse"
+    "last": "Neguse", 
+    "official_full": "Joe Neguse"
   }, 
   "social": {
-    "twitter": "RepJoeNeguse"
+    "twitter": "RepJoeNeguse", 
+    "twitter_id": 1078749802765139968
   }, 
   "terms": [
     {

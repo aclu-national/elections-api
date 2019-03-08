@@ -17,7 +17,12 @@
   "name": {
     "first": "James", 
     "last": "Baird", 
-    "middle": "R."
+    "middle": "R.", 
+    "official_full": "James R. Baird"
+  }, 
+  "social": {
+    "twitter": "RepJimBaird", 
+    "twitter_id": 1086316494450032640
   }, 
   "terms": [
     {

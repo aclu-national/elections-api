@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Kelly", 
-    "last": "Armstrong"
+    "last": "Armstrong", 
+    "official_full": "Kelly Armstrong"
   }, 
   "social": {
-    "twitter": "RepArmstrongND"
+    "twitter": "RepArmstrongND", 
+    "twitter_id": 1080515866255593472
   }, 
   "terms": [
     {

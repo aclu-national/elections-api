@@ -15,7 +15,12 @@
   }, 
   "name": {
     "first": "Michael", 
-    "last": "Guest"
+    "last": "Guest", 
+    "official_full": "Michael Guest"
+  }, 
+  "social": {
+    "twitter": "RepMichaelGuest", 
+    "twitter_id": 1081243468327018496
   }, 
   "terms": [
     {

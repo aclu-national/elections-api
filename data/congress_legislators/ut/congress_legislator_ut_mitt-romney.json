@@ -8,6 +8,7 @@
     "ballotpedia": "Mitt Romney", 
     "bioguide": "R000615", 
     "fec": [
+      "S8UT00176", 
       "S4MA00143"
     ], 
     "google_entity_id": "kg:/m/0271_s", 
@@ -22,10 +23,14 @@
     "last": "Romney", 
     "official_full": "Mitt Romney"
   }, 
+  "social": {
+    "twitter": "SenatorRomney"
+  }, 
   "terms": [
     {
       "address": "B33 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
+      "contact_form": "https://www.romney.senate.gov/contact-senator-romney", 
       "end": "2025-01-03", 
       "office": "B33 Russell Senate Office Building", 
       "party": "Republican", 

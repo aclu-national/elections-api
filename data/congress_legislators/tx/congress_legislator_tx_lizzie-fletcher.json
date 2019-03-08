@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Lizzie", 
-    "last": "Fletcher"
+    "last": "Fletcher", 
+    "official_full": "Lizzie Fletcher"
   }, 
   "social": {
-    "twitter": "RepFletcher"
+    "twitter": "RepFletcher", 
+    "twitter_id": 1075904377221722113
   }, 
   "terms": [
     {

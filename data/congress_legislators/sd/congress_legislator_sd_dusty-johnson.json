@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Dusty", 
-    "last": "Johnson"
+    "last": "Johnson", 
+    "official_full": "Dusty Johnson"
   }, 
   "social": {
-    "twitter": "RepJohnson"
+    "twitter": "RepDustyJohnson", 
+    "twitter_id": 1074782372594413569
   }, 
   "terms": [
     {

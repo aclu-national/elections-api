@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Harley", 
-    "last": "Rouda"
+    "last": "Rouda", 
+    "official_full": "Harley Rouda"
   }, 
   "social": {
-    "twitter": "RepHarley"
+    "twitter": "RepHarley", 
+    "twitter_id": 1075080722241736704
   }, 
   "terms": [
     {

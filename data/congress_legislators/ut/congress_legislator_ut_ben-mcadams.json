@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Ben", 
-    "last": "McAdams"
+    "last": "McAdams", 
+    "official_full": "Ben McAdams"
   }, 
   "social": {
-    "twitter": "RepBenMcAdams"
+    "twitter": "RepBenMcAdams", 
+    "twitter_id": 196362083
   }, 
   "terms": [
     {

@@ -17,10 +17,12 @@
   "name": {
     "first": "Jared", 
     "last": "Golden", 
-    "middle": "Forrest"
+    "middle": "Forrest", 
+    "official_full": "Jared F. Golden"
   }, 
   "social": {
-    "twitter": "RepGolden"
+    "twitter": "repgolden", 
+    "twitter_id": 1080891667308298240
   }, 
   "terms": [
     {

@@ -22,6 +22,13 @@
     "wikidata": "Q13475242", 
     "wikipedia": "Joni Ernst"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Senate Republican Conference Vice Chair"
+    }
+  ], 
   "name": {
     "first": "Joni", 
     "last": "Ernst", 

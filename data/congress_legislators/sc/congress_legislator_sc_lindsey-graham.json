@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1955-07-09", 
-    "gender": "M", 
-    "religion": "Southern Baptist"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:934", 

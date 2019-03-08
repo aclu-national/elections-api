@@ -15,7 +15,12 @@
   }, 
   "name": {
     "first": "Andy", 
-    "last": "Kim"
+    "last": "Kim", 
+    "official_full": "Andy Kim"
+  }, 
+  "social": {
+    "twitter": "RepAndyKimNJ", 
+    "twitter_id": 1078771848882593793
   }, 
   "terms": [
     {

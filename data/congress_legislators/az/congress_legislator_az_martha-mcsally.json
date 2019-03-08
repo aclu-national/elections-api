@@ -28,6 +28,9 @@
     "last": "McSally", 
     "official_full": "Martha McSally"
   }, 
+  "social": {
+    "twitter": "SenMcSallyAZ"
+  }, 
   "terms": [
     {
       "address": "1029 Longworth HOB; Washington DC 20515-0302", 
@@ -58,6 +61,7 @@
     {
       "address": "B40D Dirksen Senate Office Building Washington DC 20510", 
       "class": 3, 
+      "contact_form": "https://www.mcsally.senate.gov/contact_martha", 
       "end": "2021-01-03", 
       "office": "B40d Dirksen Senate Office Building", 
       "party": "Republican", 

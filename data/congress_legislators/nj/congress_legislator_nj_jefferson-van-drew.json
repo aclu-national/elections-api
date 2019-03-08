@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Jefferson", 
-    "last": "Van Drew"
+    "last": "Van Drew", 
+    "official_full": "Jefferson Van Drew"
+  }, 
+  "social": {
+    "twitter": "CongressmanJVD", 
+    "twitter_id": 1083469084648505344
   }, 
   "terms": [
     {

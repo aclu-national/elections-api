@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Greg", 
-    "last": "Stanton"
+    "last": "Stanton", 
+    "official_full": "Greg Stanton"
   }, 
   "social": {
-    "twitter": "RepGregStanton"
+    "twitter": "RepGregStanton", 
+    "twitter_id": 1080885078425784320
   }, 
   "terms": [
     {

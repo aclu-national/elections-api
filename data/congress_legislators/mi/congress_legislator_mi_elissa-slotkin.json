@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Elissa", 
-    "last": "Slotkin"
+    "last": "Slotkin", 
+    "official_full": "Elissa Slotkin"
   }, 
   "social": {
-    "twitter": "RepSlotkin"
+    "twitter": "RepSlotkin", 
+    "twitter_id": 1078401427347857408
   }, 
   "terms": [
     {

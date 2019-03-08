@@ -19,6 +19,13 @@
     "wikidata": "Q5362573", 
     "wikipedia": "Liz Cheney"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "house", 
+      "start": "2019-01-03", 
+      "title": "House Republican Conference Chair"
+    }
+  ], 
   "name": {
     "first": "Liz", 
     "last": "Cheney", 

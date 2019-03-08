@@ -18,7 +18,12 @@
   }, 
   "name": {
     "first": "Anthony", 
-    "last": "Brindisi"
+    "last": "Brindisi", 
+    "official_full": "Anthony Brindisi"
+  }, 
+  "social": {
+    "twitter": "RepBrindisi", 
+    "twitter_id": 1080978331535896576
   }, 
   "terms": [
     {

@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Tim", 
-    "last": "Burchett"
+    "last": "Burchett", 
+    "official_full": "Tim Burchett"
   }, 
   "social": {
-    "twitter": "RepTimBurchett"
+    "twitter": "RepTimBurchett", 
+    "twitter_id": 1028854804087492613
   }, 
   "terms": [
     {

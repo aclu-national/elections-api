@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1940-03-26", 
-    "gender": "F", 
-    "religion": "Roman Catholic"
+    "gender": "F"
   }, 
   "family": [
     {
@@ -34,25 +33,30 @@
       "chamber": "house", 
       "end": "2013-01-03", 
       "start": "2011-01-05", 
-      "title": "Minority Leader"
+      "title": "House Minority Leader"
     }, 
     {
       "chamber": "house", 
       "end": "2015-01-03", 
       "start": "2013-01-03", 
-      "title": "Minority Leader"
+      "title": "House Minority Leader"
     }, 
     {
       "chamber": "house", 
       "end": "2017-01-03", 
       "start": "2015-01-06", 
-      "title": "Minority Leader"
+      "title": "House Minority Leader"
     }, 
     {
       "chamber": "house", 
       "end": "2019-01-03", 
       "start": "2017-01-03", 
-      "title": "Minority Leader"
+      "title": "House Minority Leader"
+    }, 
+    {
+      "chamber": "house", 
+      "start": "2019-01-03", 
+      "title": "Speaker of the House"
     }
   ], 
   "name": {

@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Alexandria", 
-    "last": "Ocasio-Cortez"
+    "last": "Ocasio-Cortez", 
+    "official_full": "Alexandria Ocasio-Cortez"
+  }, 
+  "social": {
+    "twitter": "RepAOC", 
+    "twitter_id": 1079104563280527364
   }, 
   "terms": [
     {

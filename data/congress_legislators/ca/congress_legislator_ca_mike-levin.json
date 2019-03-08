@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Mike", 
-    "last": "Levin"
+    "last": "Levin", 
+    "official_full": "Mike Levin"
   }, 
   "social": {
-    "twitter": "RepMikeLevin"
+    "twitter": "RepMikeLevin", 
+    "twitter_id": 1072134139560620033
   }, 
   "terms": [
     {

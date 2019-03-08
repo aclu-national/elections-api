@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1953-08-05", 
-    "gender": "M", 
-    "religion": "Roman Catholic"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:918", 

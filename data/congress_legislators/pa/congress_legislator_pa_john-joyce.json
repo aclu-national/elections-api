@@ -15,7 +15,12 @@
   }, 
   "name": {
     "first": "John", 
-    "last": "Joyce"
+    "last": "Joyce", 
+    "official_full": "John Joyce"
+  }, 
+  "social": {
+    "twitter": "RepJohnJoyce", 
+    "twitter_id": 1082311988926124036
   }, 
   "terms": [
     {

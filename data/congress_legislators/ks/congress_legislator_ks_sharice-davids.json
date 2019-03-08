@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Sharice", 
-    "last": "Davids"
+    "last": "Davids", 
+    "official_full": "Sharice Davids"
   }, 
   "social": {
-    "twitter": "RepDavids"
+    "twitter": "RepDavids", 
+    "twitter_id": 1080516116395499522
   }, 
   "terms": [
     {

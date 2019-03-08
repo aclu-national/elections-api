@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Jason", 
-    "last": "Crow"
+    "last": "Crow", 
+    "official_full": "Jason Crow"
   }, 
   "social": {
-    "twitter": "RepJasonCrow"
+    "twitter": "RepJasonCrow", 
+    "twitter_id": 1080191866509901826
   }, 
   "terms": [
     {

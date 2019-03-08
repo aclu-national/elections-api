@@ -17,10 +17,12 @@
   "name": {
     "first": "Colin", 
     "last": "Allred", 
-    "middle": "Z."
+    "middle": "Z.", 
+    "official_full": "Colin Z. Allred"
   }, 
   "social": {
-    "twitter": "RepColinAllred"
+    "twitter": "RepColinAllred", 
+    "twitter_id": 1078355119920562176
   }, 
   "terms": [
     {

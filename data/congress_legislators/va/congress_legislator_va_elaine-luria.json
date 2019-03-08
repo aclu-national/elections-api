@@ -18,10 +18,12 @@
   "name": {
     "first": "Elaine", 
     "last": "Luria", 
-    "middle": "G."
+    "middle": "G.", 
+    "official_full": "Elaine G. Luria"
   }, 
   "social": {
-    "twitter": "RepElaineLuria"
+    "twitter": "RepElaineLuria", 
+    "twitter_id": 1080292515939565568
   }, 
   "terms": [
     {

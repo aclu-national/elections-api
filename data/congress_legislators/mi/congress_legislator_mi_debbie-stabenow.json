@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1950-04-29", 
-    "gender": "F", 
-    "religion": "United Methodist"
+    "gender": "F"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:762", 
@@ -25,6 +24,13 @@
     "wikidata": "Q241092", 
     "wikipedia": "Debbie Stabenow"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Senate Democratic Policy & Communications Committee Chair"
+    }
+  ], 
   "name": {
     "first": "Debbie", 
     "last": "Stabenow", 

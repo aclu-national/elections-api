@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Lauren", 
-    "last": "Underwood"
+    "last": "Underwood", 
+    "official_full": "Lauren Underwood"
   }, 
   "social": {
-    "twitter": "RepUnderwood"
+    "twitter": "RepUnderwood", 
+    "twitter_id": 1080539438508400642
   }, 
   "terms": [
     {

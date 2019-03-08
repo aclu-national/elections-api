@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Joe", 
-    "last": "Cunningham"
+    "last": "Cunningham", 
+    "official_full": "Joe Cunningham"
   }, 
   "social": {
-    "twitter": "RepCunningham"
+    "twitter": "RepCunningham", 
+    "twitter_id": 1080198683713507335
   }, 
   "terms": [
     {

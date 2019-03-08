@@ -17,7 +17,12 @@
   }, 
   "name": {
     "first": "Guy", 
-    "last": "Reschenthaler"
+    "last": "Reschenthaler", 
+    "official_full": "Guy Reschenthaler"
+  }, 
+  "social": {
+    "twitter": "GReschenthaler", 
+    "twitter_id": 4205133682
   }, 
   "terms": [
     {

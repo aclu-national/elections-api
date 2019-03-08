@@ -15,10 +15,12 @@
   }, 
   "name": {
     "first": "Ron", 
-    "last": "Wright"
+    "last": "Wright", 
+    "official_full": "Ron Wright"
   }, 
   "social": {
-    "twitter": "RepRonWright"
+    "twitter": "RepRonWright", 
+    "twitter_id": 1080854935535800320
   }, 
   "terms": [
     {

@@ -16,7 +16,12 @@
   }, 
   "name": {
     "first": "Anthony", 
-    "last": "Gonzalez"
+    "last": "Gonzalez", 
+    "official_full": "Anthony Gonzalez"
+  }, 
+  "social": {
+    "twitter": "RepAGonzalez", 
+    "twitter_id": 1054381765224210432
   }, 
   "terms": [
     {

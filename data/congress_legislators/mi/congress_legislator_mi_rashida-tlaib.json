@@ -17,10 +17,12 @@
   }, 
   "name": {
     "first": "Rashida", 
-    "last": "Tlaib"
+    "last": "Tlaib", 
+    "official_full": "Rashida Tlaib"
   }, 
   "social": {
-    "twitter": "RepRashida"
+    "twitter": "RepRashida", 
+    "twitter_id": 1079769536730140672
   }, 
   "terms": [
     {

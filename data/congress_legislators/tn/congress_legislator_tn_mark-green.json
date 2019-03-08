@@ -18,10 +18,12 @@
   "name": {
     "first": "Mark", 
     "last": "Green", 
-    "middle": "E."
+    "middle": "E.", 
+    "official_full": "Mark E. Green"
   }, 
   "social": {
-    "twitter": "RepMarkGreen"
+    "twitter": "RepMarkGreen", 
+    "twitter_id": 1080477288955826176
   }, 
   "terms": [
     {

@@ -24,6 +24,13 @@
     "wikidata": "Q462981", 
     "wikipedia": "John Thune"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2019-01-03", 
+      "title": "Assistant Senate Majority Leader"
+    }
+  ], 
   "name": {
     "first": "John", 
     "last": "Thune", 

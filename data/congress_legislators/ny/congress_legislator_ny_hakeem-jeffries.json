@@ -21,6 +21,13 @@
     "wikidata": "Q5640425", 
     "wikipedia": "Hakeem Jeffries"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "house", 
+      "start": "2019-01-03", 
+      "title": "House Democratic Caucus Chair"
+    }
+  ], 
   "name": {
     "first": "Hakeem", 
     "last": "Jeffries", 

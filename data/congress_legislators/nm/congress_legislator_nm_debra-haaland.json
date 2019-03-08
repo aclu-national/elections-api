@@ -17,10 +17,12 @@
   "name": {
     "first": "Debra", 
     "last": "Haaland", 
-    "middle": "A."
+    "middle": "A.", 
+    "official_full": "Debra A. Haaland"
   }, 
   "social": {
-    "twitter": "RepDebHaaland"
+    "twitter": "RepDebHaaland", 
+    "twitter_id": 1080695666760929280
   }, 
   "terms": [
     {

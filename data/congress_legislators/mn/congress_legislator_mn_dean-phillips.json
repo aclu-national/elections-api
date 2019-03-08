@@ -16,10 +16,12 @@
   }, 
   "name": {
     "first": "Dean", 
-    "last": "Phillips"
+    "last": "Phillips", 
+    "official_full": "Dean Phillips"
   }, 
   "social": {
-    "twitter": "RepDeanPhillips"
+    "twitter": "RepDeanPhillips", 
+    "twitter_id": 1061310112013434882
   }, 
   "terms": [
     {

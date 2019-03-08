@@ -21,9 +21,11 @@ congress_legislators:
 
 congress_scores:
 	python scripts/index_congress_scores.py 115
+	python scripts/index_congress_scores.py 116
 
 congress_details:
 	python scripts/index_congress_details.py 115
+	python scripts/index_congress_details.py 116
 
 states:
 	python scripts/index_states.py

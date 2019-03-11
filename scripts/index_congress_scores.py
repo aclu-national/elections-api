@@ -22,37 +22,44 @@ root_dir = os.path.dirname(scripts_dir)
 conn = postgres_db.connect()
 cur = conn.cursor()
 
-cur.execute("DROP TABLE IF EXISTS legislator_scores CASCADE")
-cur.execute("DROP TABLE IF EXISTS congress_legislator_scores CASCADE")
-cur.execute('''
-	CREATE TABLE congress_legislator_scores (
-		aclu_id VARCHAR(255),
-		legislator_id VARCHAR(255),
-		session INTEGER,
-		position VARCHAR(255),
-		name VARCHAR(512),
-		value VARCHAR(255)
-	)
-''')
+if len(sys.argv) > 2 and sys.argv[2] == '--reset':
+	print("resetting data tables")
 
-cur.execute("DROP TABLE IF EXISTS congress_legislator_score_index CASCADE")
-cur.execute('''
-	CREATE TABLE congress_legislator_score_index (
-		aclu_id VARCHAR(255),
-		session INTEGER,
-		vote_context VARCHAR(255),
-		roll_call INTEGER,
-		vote_date DATE,
-		vote_type VARCHAR(255),
-		bill VARCHAR(255),
-		amendment VARCHAR(255),
-		title VARCHAR(512),
-		bill_summary VARCHAR(512),
-		description TEXT,
-		committee VARCHAR(255),
-		link VARCHAR(255)
-	)
-''')
+	cur.execute("DROP TABLE IF EXISTS legislator_scores CASCADE")
+	cur.execute("DROP TABLE IF EXISTS congress_legislator_scores CASCADE")
+	cur.execute('''
+		CREATE TABLE congress_legislator_scores (
+			aclu_id VARCHAR(255),
+			legislator_id VARCHAR(255),
+			session INTEGER,
+			position VARCHAR(255),
+			name VARCHAR(512),
+			value VARCHAR(255)
+		)
+	''')
+
+	cur.execute("DROP TABLE IF EXISTS congress_legislator_score_index CASCADE")
+	cur.execute('''
+		CREATE TABLE congress_legislator_score_index (
+			aclu_id VARCHAR(255),
+			session INTEGER,
+			vote_context VARCHAR(255),
+			roll_call INTEGER,
+			vote_date DATE,
+			vote_type VARCHAR(255),
+			bill VARCHAR(255),
+			amendment VARCHAR(255),
+			outcome VARCHAR(255),
+			title VARCHAR(512),
+			description TEXT,
+			bill_summary VARCHAR(512),
+			committee VARCHAR(255),
+			link VARCHAR(255)
+		)
+	''')
+
+else:
+	print("using existing data tables")
 
 legislator_score_insert_sql = '''
 	INSERT INTO congress_legislator_scores (
@@ -75,11 +82,13 @@ legislator_score_index_insert_sql = '''
 		vote_type,
 		bill,
 		amendment,
+		outcome,
 		title,
 		description,
+		bill_summary,
 		committee,
 		link
-	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
 reps = {}
@@ -90,7 +99,7 @@ cur.execute('''
 	FROM congress_legislator_terms AS lt,
 	     congress_legislators AS l,
 	     congress_sessions AS s
-	WHERE s.id = 115
+	WHERE s.id = {session}
 	  AND (
 	  	lt.start_date >= s.start_date AND lt.end_date <= s.end_date
 	  	OR lt.start_date <= s.start_date AND lt.end_date >= s.end_date
@@ -146,6 +155,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 	for row in reader:
 
 		name = row.pop(0)
+		id = row.pop(0)
 		state_district = row.pop(0)
 		party = row.pop(0)
 		total_score = row.pop(0)
@@ -184,6 +194,11 @@ with open(rep_scores_csv, 'rb') as csvfile:
 
 				for col in row:
 
+					score_num = headers[col_num]
+					if not re.search('^\d+$', score_num):
+						col_num += 1
+						continue
+
 					if aclu_position[col_num] == 'ACLU Opposed':
 						position = 'opposed'
 					elif aclu_position[col_num] == 'ACLU Supported':
@@ -193,7 +208,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 						position = 'unknown'
 
 					score_num = headers[col_num]
-					aclu_id = 'aclu/elections-api/rep_score:%s' % score_num
+					aclu_id = 'aclu/us-congress-%d/rep_score:%s' % (session, score_num)
 					name = bills[col_num]
 					value = row[col_num]
 
@@ -212,7 +227,7 @@ with open(rep_scores_csv, 'rb') as csvfile:
 					]
 					values = tuple(values)
 					cur.execute(legislator_score_insert_sql, values)
-					col_num = col_num + 1
+					col_num += 1
 
 				congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
 				congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
@@ -238,6 +253,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 	for row in reader:
 
 		name = row.pop(0)
+		id = row.pop(0)
 		state = row.pop(0)
 		party = row.pop(0)
 		total_score = row.pop(0)
@@ -292,7 +308,7 @@ with open(sen_scores_csv, 'rb') as csvfile:
 					position = 'unknown'
 
 				score_num = headers[col_num]
-				aclu_id = 'aclu/elections-api/sen_score:%s' % score_num
+				aclu_id = 'aclu/us-congress-%d/sen_score:%s' % (session, score_num)
 				name = bills[col_num]
 				value = row[col_num]
 
@@ -329,6 +345,7 @@ for chamber in ['rep', 'sen']:
 
 		row_num = 0
 		headers = []
+		vote_context = 'floor'
 
 		for row in reader:
 
@@ -347,7 +364,7 @@ for chamber in ['rep', 'sen']:
 				continue
 
 			score_num = row[0]
-			aclu_id = 'aclu/elections-api/%s_score:%s' % (chamber, score_num)
+			aclu_id = 'aclu/us-congress-%d/%s_score:%s' % (session, chamber, score_num)
 
 			if re.search('^\d+$', row[1]):
 				roll_call = int(row[1])
@@ -365,11 +382,12 @@ for chamber in ['rep', 'sen']:
 			vote_type = row[3]
 			bill = row[4]
 			amendment = row[5]
-			title = row[6]
-			#bill_summary = row[7]
-			description = row[7]
-			committee = row[8]
-			link = row[9]
+			outcome = row[6]
+			title = row[7]
+			description = row[8]
+			bill_summary = row[9]
+			committee = row[10]
+			link = row[11]
 
 			print(aclu_id)
 
@@ -382,9 +400,10 @@ for chamber in ['rep', 'sen']:
 				vote_type,
 				bill,
 				amendment,
+				outcome,
 				title,
-				#bill_summary,
 				description,
+				bill_summary,
 				committee,
 				link
 			)

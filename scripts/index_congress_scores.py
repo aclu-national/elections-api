@@ -122,7 +122,10 @@ if rs:
 			else:
 				district_num = str(district_num)
 			state_district = "%s-%s" % (state, district_num)
-			reps[state_district] = aclu_id
+			reps[state_district] = {
+				'aclu_id': aclu_id,
+				'last_name': row[4]
+			}
 		else:
 			if not state in sens:
 				sens[state] = []
@@ -138,48 +141,175 @@ if rs:
 					'last_name': row[4]
 				})
 
-# NOTE: there are two blocks of code here that look pretty similar, but vary
-# a bit, so don't make the mistake of changing one and not the other.
-# (20180613/dphiffer)
+def get_rep_id(state_district, name):
+	if not state_district in reps:
+		return None
+	rep = reps[state_district]
+	name = strip_accents(name)
+	lname = strip_accents(rep["last_name"])
+	if name.find(lname) == -1:
+		return None
+	return rep["aclu_id"]
 
-rep_scores_csv = '%s/elections-api-private/aclu/aclu_rep_scores_%d.csv' % (root_dir, session)
-with open(rep_scores_csv, 'rb') as csvfile:
-
-	reader = csv.reader(csvfile)
-
-	row_num = 0
-	headers = []
-	bills = []
-	aclu_position = []
-
-	for row in reader:
-
-		name = row.pop(0)
-		id = row.pop(0)
-		state_district = row.pop(0)
-		party = row.pop(0)
-		total_score = row.pop(0)
-
-		votes_total = 0
-		votes_agreed = 0
-
-		if name == 'LEGEND:':
+def get_sen_id(state, name):
+	found = False
+	name = strip_accents(name)
+	for rep in sens[state]:
+		lname = strip_accents(rep["last_name"])
+		if name.find(lname) != -1:
+			legislator_id = rep["aclu_id"]
+			found = True
 			break
+	if not found:
+		return None
+	return legislator_id
 
-		if row_num == 0:
-			headers = row
-		elif row_num == 1:
-			bills = row
-		elif row_num == 2:
-			aclu_position = row
-		elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
+if __name__ == "__main__":
 
-			print(name)
+	# NOTE: there are two blocks of code here that look pretty similar, but vary
+	# a bit, so don't make the mistake of changing one and not the other.
+	# (20180613/dphiffer)
 
-			if state_district in reps:
-				col_num = 0
+	rep_scores_csv = '%s/elections-api-private/aclu/aclu_rep_scores_%d.csv' % (root_dir, session)
+	with open(rep_scores_csv, 'rb') as csvfile:
 
-				legislator_id = reps[state_district]
+		reader = csv.reader(csvfile)
+
+		row_num = 0
+		headers = []
+		bills = []
+		aclu_position = []
+
+		for row in reader:
+
+			name = row.pop(0)
+			id = row.pop(0)
+			state_district = row.pop(0)
+			party = row.pop(0)
+			total_score = row.pop(0)
+
+			votes_total = 0
+			votes_agreed = 0
+
+			if name == 'LEGEND:':
+				break
+
+			if row_num == 0:
+				headers = row
+			elif row_num == 1:
+				bills = row
+			elif row_num == 2:
+				aclu_position = row
+			elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
+
+				print(name)
+
+				if state_district in reps:
+					col_num = 0
+
+					legislator_id = get_rep_id(state_district, name)
+					if not legislator_id:
+						print("COULD NOT FIND %s" % name)
+						print(sens[state])
+						continue
+
+					values = [
+						'',
+						legislator_id,
+						session,
+						'',
+						'total',
+						total_score
+					]
+					values = tuple(values)
+					cur.execute(legislator_score_insert_sql, values)
+
+					for col in row:
+
+						score_num = headers[col_num]
+						if not re.search('^\d+$', score_num):
+							col_num += 1
+							continue
+
+						if aclu_position[col_num] == 'ACLU Opposed':
+							position = 'opposed'
+						elif aclu_position[col_num] == 'ACLU Supported':
+							position = 'supported'
+						else:
+							print('WARNING: unknown position for column num %s: %s' % (col_num, aclu_position[col_num]))
+							position = 'unknown'
+
+						score_num = headers[col_num]
+						aclu_id = 'aclu/us-congress-%d/rep_score:%s' % (session, score_num)
+						name = bills[col_num]
+						value = row[col_num]
+
+						if value == '1' or value == '0':
+							votes_total += 1
+							if value == '1':
+								votes_agreed += 1
+
+						values = [
+							aclu_id,
+							legislator_id,
+							session,
+							position,
+							name,
+							value
+						]
+						values = tuple(values)
+						cur.execute(legislator_score_insert_sql, values)
+						col_num += 1
+
+					congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
+					congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
+
+			row_num = row_num + 1
+
+			conn.commit()
+
+	# NOTE: there are two blocks of code here that look pretty similar, but vary
+	# a bit, so don't make the mistake of changing one and not the other.
+	# (20180613/dphiffer)
+
+	sen_scores_csv = '%s/elections-api-private/aclu/aclu_sen_scores_%d.csv' % (root_dir, session)
+	with open(sen_scores_csv, 'rb') as csvfile:
+
+		reader = csv.reader(csvfile)
+
+		row_num = 0
+		headers = []
+		bills = []
+		aclu_position = []
+
+		for row in reader:
+
+			name = row.pop(0)
+			id = row.pop(0)
+			state = row.pop(0)
+			party = row.pop(0)
+			total_score = row.pop(0)
+
+			votes_total = 0
+			votes_agreed = 0
+
+			if name == 'LEGEND:':
+				break
+
+			if row_num == 0:
+				headers = row
+			elif row_num == 1:
+				bills = row
+			elif row_num == 2:
+				aclu_position = row
+			elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
+				print name
+
+				legislator_id = get_sen_id(state, name)
+				if not legislator_id:
+					print("COULD NOT FIND %s" % name)
+					print(sens[state])
+					continue
 
 				values = [
 					'',
@@ -192,23 +322,19 @@ with open(rep_scores_csv, 'rb') as csvfile:
 				values = tuple(values)
 				cur.execute(legislator_score_insert_sql, values)
 
+				col_num = 0
 				for col in row:
 
-					score_num = headers[col_num]
-					if not re.search('^\d+$', score_num):
-						col_num += 1
-						continue
-
-					if aclu_position[col_num] == 'ACLU Opposed':
+					if aclu_position[col_num] == 'ACLU Opposed' or aclu_position[col_num] == 'ACLU ACLU Opposed':
 						position = 'opposed'
 					elif aclu_position[col_num] == 'ACLU Supported':
 						position = 'supported'
 					else:
-						print('WARNING: unknown position for column num %s: %s' % (col_num, aclu_position[col_num]))
+						print('WARNING: unknown position for column num %s' % col_num)
 						position = 'unknown'
 
 					score_num = headers[col_num]
-					aclu_id = 'aclu/us-congress-%d/rep_score:%s' % (session, score_num)
+					aclu_id = 'aclu/us-congress-%d/sen_score:%s' % (session, score_num)
 					name = bills[col_num]
 					value = row[col_num]
 
@@ -227,189 +353,89 @@ with open(rep_scores_csv, 'rb') as csvfile:
 					]
 					values = tuple(values)
 					cur.execute(legislator_score_insert_sql, values)
-					col_num += 1
+					col_num = col_num + 1
 
 				congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
 				congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
 
-		row_num = row_num + 1
+			row_num = row_num + 1
 
-		conn.commit()
-
-# NOTE: there are two blocks of code here that look pretty similar, but vary
-# a bit, so don't make the mistake of changing one and not the other.
-# (20180613/dphiffer)
-
-sen_scores_csv = '%s/elections-api-private/aclu/aclu_sen_scores_%d.csv' % (root_dir, session)
-with open(sen_scores_csv, 'rb') as csvfile:
-
-	reader = csv.reader(csvfile)
-
-	row_num = 0
-	headers = []
-	bills = []
-	aclu_position = []
-
-	for row in reader:
-
-		name = row.pop(0)
-		id = row.pop(0)
-		state = row.pop(0)
-		party = row.pop(0)
-		total_score = row.pop(0)
-
-		votes_total = 0
-		votes_agreed = 0
-
-		if name == 'LEGEND:':
-			break
-
-		if row_num == 0:
-			headers = row
-		elif row_num == 1:
-			bills = row
-		elif row_num == 2:
-			aclu_position = row
-		elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
-			print name
-
-			found = False
-			for rep in sens[state]:
-				lname = strip_accents(rep["last_name"])
-				if name.find(lname) != -1:
-					legislator_id = rep["aclu_id"]
-					found = True
-
-			if not found:
-				print("COULD NOT FIND %s" % name)
-				print(sens[state])
-				continue
-
-			values = [
-				'',
-				legislator_id,
-				session,
-				'',
-				'total',
-				total_score
-			]
-			values = tuple(values)
-			cur.execute(legislator_score_insert_sql, values)
-
-			col_num = 0
-			for col in row:
-
-				if aclu_position[col_num] == 'ACLU Opposed' or aclu_position[col_num] == 'ACLU ACLU Opposed':
-					position = 'opposed'
-				elif aclu_position[col_num] == 'ACLU Supported':
-					position = 'supported'
-				else:
-					print('WARNING: unknown position for column num %s' % col_num)
-					position = 'unknown'
-
-				score_num = headers[col_num]
-				aclu_id = 'aclu/us-congress-%d/sen_score:%s' % (session, score_num)
-				name = bills[col_num]
-				value = row[col_num]
-
-				if value == '1' or value == '0':
-					votes_total += 1
-					if value == '1':
-						votes_agreed += 1
-
-				values = [
-					aclu_id,
-					legislator_id,
-					session,
-					position,
-					name,
-					value
-				]
-				values = tuple(values)
-				cur.execute(legislator_score_insert_sql, values)
-				col_num = col_num + 1
-
-			congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
-			congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
-
-		row_num = row_num + 1
-
-		conn.commit()
-
-for chamber in ['rep', 'sen']:
-
-	filename = '%s/elections-api-private/aclu/aclu_%s_score_index_%d.csv' % (root_dir, chamber, session)
-	with open(filename, 'rb') as csvfile:
-
-		reader = csv.reader(csvfile)
-
-		row_num = 0
-		headers = []
-		vote_context = 'floor'
-
-		for row in reader:
-
-			row_num = row_num + 1 # 1-indexed
-
-			if row_num == 1:
-				headers = row
-				continue
-			elif row[1] == 'FLOOR VOTES':
-				vote_context = 'floor'
-				continue
-			elif row[1] == 'COMMITTEE VOTES':
-				vote_context = 'committee'
-				continue
-			elif not re.search('^\d+$', row[0]):
-				continue
-
-			score_num = row[0]
-			aclu_id = 'aclu/us-congress-%d/%s_score:%s' % (session, chamber, score_num)
-
-			if re.search('^\d+$', row[1]):
-				roll_call = int(row[1])
-			else:
-				roll_call = None
-
-			if re.match('\d*/\d*/\d{4}', row[2]):
-				vote_date = arrow.get(row[2], 'M/D/YYYY').format('YYYY-MM-DD')
-			elif re.match('\d*/\d*/\d{2}', row[2]):
-				vote_date = arrow.get(row[2], 'M/D/YY').format('YYYY-MM-DD')
-			else:
-				print("WARNING: could not parse date")
-				continue
-
-			vote_type = row[3]
-			bill = row[4]
-			amendment = row[5]
-			outcome = row[6]
-			title = row[7]
-			description = row[8]
-			bill_summary = row[9]
-			committee = row[10]
-			link = row[11]
-
-			print(aclu_id)
-
-			values = (
-				aclu_id,
-				session,
-				vote_context,
-				roll_call,
-				vote_date,
-				vote_type,
-				bill,
-				amendment,
-				outcome,
-				title,
-				description,
-				bill_summary,
-				committee,
-				link
-			)
-			cur.execute(legislator_score_index_insert_sql, values)
 			conn.commit()
 
-conn.close()
+	for chamber in ['rep', 'sen']:
 
-print("Done")
+		filename = '%s/elections-api-private/aclu/aclu_%s_score_index_%d.csv' % (root_dir, chamber, session)
+		with open(filename, 'rb') as csvfile:
+
+			reader = csv.reader(csvfile)
+
+			row_num = 0
+			headers = []
+			vote_context = 'floor'
+
+			for row in reader:
+
+				row_num = row_num + 1 # 1-indexed
+
+				if row_num == 1:
+					headers = row
+					continue
+				elif row[1] == 'FLOOR VOTES':
+					vote_context = 'floor'
+					continue
+				elif row[1] == 'COMMITTEE VOTES':
+					vote_context = 'committee'
+					continue
+				elif not re.search('^\d+$', row[0]):
+					continue
+
+				score_num = row[0]
+				aclu_id = 'aclu/us-congress-%d/%s_score:%s' % (session, chamber, score_num)
+
+				if re.search('^\d+$', row[1]):
+					roll_call = int(row[1])
+				else:
+					roll_call = None
+
+				if re.match('\d*/\d*/\d{4}', row[2]):
+					vote_date = arrow.get(row[2], 'M/D/YYYY').format('YYYY-MM-DD')
+				elif re.match('\d*/\d*/\d{2}', row[2]):
+					vote_date = arrow.get(row[2], 'M/D/YY').format('YYYY-MM-DD')
+				else:
+					print("WARNING: could not parse date")
+					continue
+
+				vote_type = row[3]
+				bill = row[4]
+				amendment = row[5]
+				outcome = row[6]
+				title = row[7]
+				description = row[8]
+				bill_summary = row[9]
+				committee = row[10]
+				link = row[11]
+
+				print(aclu_id)
+
+				values = (
+					aclu_id,
+					session,
+					vote_context,
+					roll_call,
+					vote_date,
+					vote_type,
+					bill,
+					amendment,
+					outcome,
+					title,
+					description,
+					bill_summary,
+					committee,
+					link
+				)
+				cur.execute(legislator_score_index_insert_sql, values)
+				conn.commit()
+
+	conn.close()
+
+	print("Done")

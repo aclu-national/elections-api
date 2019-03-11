@@ -7,6 +7,10 @@ conn = postgres_db.connect()
 cur = conn.cursor()
 
 def add_legislator_detail(aclu_id, session, name, value):
+
+	if re.search('^\d+$', aclu_id):
+		aclu_id = 'aclu/elections-api/congress_legislator:%s' % aclu_id
+
 	insert_sql = '''
 		INSERT INTO congress_legislator_details (
 			aclu_id,

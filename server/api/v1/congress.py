@@ -215,7 +215,6 @@ def get_legislators_by_district(state, district_num, session_num=curr_session):
 			district_num = %s
 		)
 		ORDER BY end_date DESC
-		LIMIT 1
 	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state, district_num))
 
 	return get_legislators(cur, "total", None, session_num)
@@ -230,7 +229,6 @@ def get_legislators_by_url_slug(url_slug, include, session_num=curr_session):
 		WHERE l.url_slug = %s
 		  AND l.aclu_id = t.aclu_id
 		ORDER BY t.end_date DESC
-		LIMIT 1
 	''', (url_slug,))
 
 	return get_legislators(cur, "all", include, session_num)
@@ -247,7 +245,6 @@ def get_legislators_by_id(id, include, session_num=curr_session):
 		WHERE l.aclu_id LIKE '%congress_legislator:{id}'
 		  AND l.aclu_id = t.aclu_id
 		ORDER BY t.end_date DESC
-		LIMIT 1
 	'''.format(id=id))
 
 	return get_legislators(cur, 'all', include, session_num)

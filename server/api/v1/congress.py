@@ -435,7 +435,7 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 				legislators[aclu_id]['social'] = {}
 			legislators[aclu_id]['social'][key] = value
 
-	if score_filter == 'all' or score_filter == score['status']:
+	if score_filter == 'all':
 		cur.execute('''
 			SELECT aclu_id, session, legislator_id, position, name, value
 			FROM congress_legislator_scores

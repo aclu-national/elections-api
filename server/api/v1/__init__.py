@@ -612,7 +612,9 @@ def geoip():
 					pip_data = json.loads(pip_rsp.data)
 					rsp['congress_legislators'] = pip_data['congress']['legislators']
 			except:
+				e = sys.exc_info()[0]
 				print("error doing pip on geoip")
+				print(e)
 
 		rsp_json = json.dumps(rsp)
 

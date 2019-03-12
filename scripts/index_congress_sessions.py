@@ -7,12 +7,12 @@ script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
-curr_session = 115
-curr_end_date = "2019-01-03"
+curr_session = 116
+curr_end_date = "2021-01-03"
 
-next_session = 116
-next_start_date = "2019-01-03"
-next_end_date = "2021-01-03"
+next_session = 117
+next_start_date = "2021-01-03"
+next_end_date = "2023-01-03"
 
 conn = postgres_db.connect()
 cur = conn.cursor()

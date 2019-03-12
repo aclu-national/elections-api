@@ -15,7 +15,7 @@ from copy import deepcopy
 from ics import Calendar, Event
 
 api = flask.Blueprint('api', __name__)
-curr_session = 115
+curr_session = 116
 
 google_civic_info_api.setup()
 

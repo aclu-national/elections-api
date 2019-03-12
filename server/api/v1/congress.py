@@ -1,6 +1,6 @@
 import flask, json, os, re, sys, arrow, us
 
-curr_session = 115
+curr_session = 116
 
 def get_sessions():
 
@@ -254,7 +254,10 @@ def get_legislators_by_id(id, include, session_num=curr_session):
 
 def set_legislator_session_value(legislator, session_num, name, value):
 
-	bool_types = ["running_in_2018"]
+	bool_types = [
+		"running_in_2018",
+		"running_for_president"
+	]
 
 	if name == "aclu_id":
 		return
@@ -432,32 +435,22 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 				legislators[aclu_id]['social'] = {}
 			legislators[aclu_id]['social'][key] = value
 
-	sql_filter = 'AND session = %d' % session_num
-	if score_filter == "total":
-		sql_filter += " AND name = 'total'"
+	if score_filter == 'all' or score_filter == score['status']:
+		cur.execute('''
+			SELECT aclu_id, session, legislator_id, position, name, value
+			FROM congress_legislator_scores
+			WHERE legislator_id IN ({aclu_ids})
+		'''.format(aclu_ids=aclu_id_list), aclu_id_values)
 
-	cur.execute('''
-		SELECT aclu_id, legislator_id, position, name, value
-		FROM congress_legislator_scores
-		WHERE legislator_id IN ({aclu_ids})
-		{filter}
-	'''.format(aclu_ids=aclu_id_list, filter=sql_filter), aclu_id_values)
-
-	rs = cur.fetchall()
-	if rs:
-		for row in rs:
-			aclu_id = row[0]
-			legislator_id = row[1]
-			position = row[2]
-			name = row[3]
-			value = row[4]
-
-			if name == 'total':
-				legislators[legislator_id]['total_score'] = value
-			else:
-
-				if not 'scores' in legislators[legislator_id]:
-					legislators[legislator_id]['scores'] = []
+		rs = cur.fetchall()
+		if rs:
+			for row in rs:
+				aclu_id = row[0]
+				session = row[1]
+				legislator_id = row[2]
+				position = row[3]
+				name = row[4]
+				value = row[5]
 
 				score = {
 					'aclu_id': aclu_id,
@@ -490,8 +483,11 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 				else:
 					score['status'] = value.lower().replace(' ', '_')
 
-				if score_filter == 'all' or score_filter == score['status']:
-					legislators[legislator_id]['scores'].append(score)
+				for s in legislators[legislator_id]['sessions']:
+					if s['session'] == session:
+						if not 'scores' in s:
+							s['scores'] = []
+						s['scores'].append(score)
 
 	cur.execute('''
 		SELECT legislator_id, session
@@ -514,10 +510,6 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 
 	legislator_list = []
 	for aclu_id in legislators:
-		if not "scores" in legislators[aclu_id]:
-			legislators[aclu_id]["scores"] = []
-		if not "total_score" in legislators[aclu_id]:
-			legislators[aclu_id]["total_score"] = None
 		if not "score_sessions" in legislators[aclu_id]:
 			legislators[aclu_id]["score_sessions"] = []
 		legislator_list.append(legislators[aclu_id])

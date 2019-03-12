@@ -213,17 +213,6 @@ if __name__ == "__main__":
 						print(sens[state])
 						continue
 
-					values = [
-						'',
-						legislator_id,
-						session,
-						'',
-						'total',
-						total_score
-					]
-					values = tuple(values)
-					cur.execute(legislator_score_insert_sql, values)
-
 					for col in row:
 
 						score_num = headers[col_num]
@@ -263,6 +252,7 @@ if __name__ == "__main__":
 
 					congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
 					congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
+					congress_details.add_legislator_detail(legislator_id, session, 'total_score', total_score)
 
 			row_num = row_num + 1
 
@@ -311,17 +301,6 @@ if __name__ == "__main__":
 					print(sens[state])
 					continue
 
-				values = [
-					'',
-					legislator_id,
-					session,
-					'',
-					'total',
-					total_score
-				]
-				values = tuple(values)
-				cur.execute(legislator_score_insert_sql, values)
-
 				col_num = 0
 				for col in row:
 
@@ -357,6 +336,7 @@ if __name__ == "__main__":
 
 				congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
 				congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
+				congress_details.add_legislator_detail(legislator_id, session, 'total_score', total_score)
 
 			row_num = row_num + 1
 

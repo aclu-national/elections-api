@@ -39,15 +39,19 @@ if __name__ == "__main__":
 	scripts_dir = os.path.dirname(script)
 	root_dir = os.path.dirname(scripts_dir)
 
-	cur.execute("DROP TABLE IF EXISTS congress_legislator_details CASCADE")
-	cur.execute('''
-		CREATE TABLE congress_legislator_details (
-			aclu_id VARCHAR(255),
-			session INTEGER,
-			detail_name VARCHAR(255),
-			detail_value TEXT
-		)
-	''')
+	if len(sys.argv) > 2 and sys.argv[2] == '--reset':
+		print("resetting data tables")
+		cur.execute("DROP TABLE IF EXISTS congress_legislator_details CASCADE")
+		cur.execute('''
+			CREATE TABLE congress_legislator_details (
+				aclu_id VARCHAR(255),
+				session INTEGER,
+				detail_name VARCHAR(255),
+				detail_value TEXT
+			)
+		''')
+	else:
+		print("using existing data tables")
 
 	for chamber in ['rep', 'sen']:
 		path = '%s/sources/aclu/aclu_%s_details_%d.csv' % (root_dir, chamber, session)

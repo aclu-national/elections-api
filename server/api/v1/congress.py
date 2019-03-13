@@ -478,7 +478,7 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 						score['vote'] = False if score['aclu_position'] == 'supported' else True
 
 				else:
-					score['status'] = value.lower().replace(' ', '_')
+					score['status'] = value
 
 				for s in legislators[legislator_id]['sessions']:
 					if s['session'] == session:

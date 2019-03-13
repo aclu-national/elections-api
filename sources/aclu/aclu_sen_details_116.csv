@@ -7,7 +7,7 @@ aclu_id,display_name,running_for_president
 533,Sen. Tom Cotton,0
 539,Sen. Kyrsten Sinema,0
 540,Sen. Martha McSally,0
-574,Sen. Kamala Harris,0
+574,Sen. Kamala Harris,1
 555,Sen. Dianne Feinstein,0
 606,Sen. Michael Bennet,0
 600,Sen. Cory Gardner,0
@@ -36,14 +36,14 @@ aclu_id,display_name,running_for_president
 724,Sen. Bill Cassidy,0
 728,Sen. John Kennedy,0
 732,Sen. Ed Markey,0
-733,Sen. Elizabeth Warren,0
+733,Sen. Elizabeth Warren,1
 747,Sen. Chris Van Hollen,0
 745,Sen. Ben Cardin,0
 756,Sen. Susan Collins,0
 753,Sen. Angus King,0
 764,Sen. Gary Peters,0
 762,Sen. Debbie Stabenow,0
-772,Sen. Amy Klobuchar,0
+772,Sen. Amy Klobuchar,1
 779,Sen. Tina Smith,0
 787,Sen. Roy Blunt,0
 11560,Sen. Josh Hawley,0
@@ -59,13 +59,13 @@ aclu_id,display_name,running_for_president
 819,Sen. Deb Fischer,0
 824,Sen. Jeanne Shaheen,0
 825,Sen. Maggie Hassan,0
-830,Sen. Cory Booker,0
+830,Sen. Cory Booker,1
 837,Sen. Bob Menendez,0
 844,Sen. Tom Udall,0
 841,Sen. Martin Heinrich,0
 845,Sen. Catherine Cortez Masto,0
 848,Sen. Jacky Rosen,0
-869,Sen. Kirsten Gillibrand,0
+869,Sen. Kirsten Gillibrand,1
 854,Sen. Chuck Schumer,0
 891,Sen. Sherrod Brown,0
 890,Sen. Rob Portman,0
@@ -90,7 +90,7 @@ aclu_id,display_name,running_for_president
 1003,Sen. Mark Warner,0
 1008,Sen. Tim Kaine,0
 1011,Sen. Pat Leahy,0
-1010,Sen. Bernie Sanders,0
+1010,Sen. Bernie Sanders,1
 1021,Sen. Patty Murray,0
 1020,Sen. Maria Cantwell,0
 1034,Sen. Tammy Baldwin,0

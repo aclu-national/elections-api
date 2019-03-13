@@ -374,7 +374,7 @@ def congress_scores():
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT aclu_id, vote_context, roll_call, vote_date, vote_type, bill,
-		       amendment, title, bill_summary, description, committee, link
+		       amendment, outcome, title, bill_summary, description, committee, link
 		FROM congress_legislator_score_index
 		WHERE session = %s
 		ORDER BY aclu_id
@@ -393,11 +393,12 @@ def congress_scores():
 				'bill': row[5],
 				'bill_status': row[4], # stored in the db as vote_type
 				'amendment': row[6],
-				'title': row[7],
-				'summary': row[8],
-				'description': row[9],
-				'committee': row[10],
-				'link': row[11]
+				'outcome': row[7],
+				'title': row[8],
+				'summary': row[9],
+				'description': row[10],
+				'committee': row[11],
+				'link': row[12]
 			})
 
 	return flask.jsonify({

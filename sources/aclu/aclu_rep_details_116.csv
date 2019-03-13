@@ -34,7 +34,7 @@ aclu_id,display_name,running_for_president
 585,Speaker Nancy Pelosi,0
 549,Rep. Barbara Lee,0
 563,Rep. Jackie Speier,0
-560,Rep. Eric Swalwell,0
+560,Rep. Eric Swalwell,1
 567,Rep. James Costa,0
 591,Rep. Ro Khanna,0
 548,Rep. Anna Eshoo,0
@@ -128,7 +128,7 @@ aclu_id,display_name,running_for_president
 654,Rep. David Scott,0
 663,Rep. Tom Graves,0
 11535,Rep. Ed Case,0
-668,Rep. Tulsi Gabbard,0
+668,Rep. Tulsi Gabbard,1
 11536,Rep. Abby Finkenauer,0
 670,Rep. Dave Loebsack,0
 11537,Rep. Cindy Axne,0

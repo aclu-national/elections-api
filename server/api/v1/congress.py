@@ -457,8 +457,13 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 					'vote_matches_aclu_position': None,
 					'vote': None
 				}
+
+				normalized_value = value.lower()
+				if normalized_value == "nay":
+					value = '0'
+
 				if value == '1' or value == '0':
-					score['status'] = 'voted'
+					score['status'] = 'Voted'
 					score['vote_matches_aclu_position'] = True if value == '1' else False
 
 					# Hey this part is confusing! score['vote_matches_aclu_position'] is what
@@ -478,6 +483,8 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 						score['vote'] = False if score['aclu_position'] == 'supported' else True
 
 				else:
+					if normalized_value == "missed" or normalized_value == "not voting":
+						value = "Did not vote"
 					score['status'] = value
 
 				for s in legislators[legislator_id]['sessions']:

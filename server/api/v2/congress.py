@@ -483,8 +483,37 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 						score['vote'] = False if score['aclu_position'] == 'supported' else True
 
 				else:
-					if normalized_value == "missed" or normalized_value == "not voting":
+
+					# Okay this part is a little tweaky. We are normalizing the
+					# values we get from the scorecard, which have more detailed
+					# descriptions than we actually want to passs along to
+					# website visitors. So we are grouping the reasons for a
+					# non-vote into 3 broad categories. (dphiffer/20190314)
+
+					did_not_vote_values = [
+						"did not vote",
+						"not voting",
+						"missed",
+						"present"
+					]
+
+					not_on_committee_values = [
+						"not on committee",
+						"not yet on committee"
+					]
+
+					not_in_office_values = [
+						"not in office",
+						"not yet in office"
+					]
+
+					if normalized_value in did_not_vote_values:
 						value = "Did not vote"
+					elif normalized_value in not_on_committee_values:
+						value = "Not on committee"
+					elif normalized_value in not_in_office_values:
+						value = "Not in office"
+
 					score['status'] = value
 
 				for s in legislators[legislator_id]['sessions']:

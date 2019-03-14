@@ -14,7 +14,7 @@ import apple_wallet as apple_wallet_api
 from copy import deepcopy
 from ics import Calendar, Event
 
-api = flask.Blueprint('api_v1', __name__)
+api = flask.Blueprint('api_v2', __name__)
 curr_session = 116
 
 google_civic_info_api.setup()
@@ -25,7 +25,7 @@ def index():
 		'ok': False,
 		'error': 'Please pick a valid endpoint.',
 		'valid_endpoints': {
-			'/v1/pip': {
+			'/v2/pip': {
 				'description': 'Point in polygon election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
@@ -35,7 +35,7 @@ def index():
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)',
 				}
 			},
-			'/v1/state': {
+			'/v2/state': {
 				'description': 'State election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
@@ -43,7 +43,7 @@ def index():
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
-			'/v1/congress': {
+			'/v2/congress': {
 				'description': 'Congress election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
@@ -51,7 +51,7 @@ def index():
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
-			'/v1/congress/district': {
+			'/v2/congress/district': {
 				'description': 'Congressional district lookup by location.',
 				'args': {
 					'lat': 'Latitude',
@@ -59,13 +59,13 @@ def index():
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
-			'/v1/congress/scores': {
+			'/v2/congress/scores': {
 				'description': 'Index of congressional legislator scores.',
 				'args': {
 					'session': 'Congressional session (optional; defaults to 116)'
 				}
 			},
-			'/v1/congress/legislators': {
+			'/v2/congress/legislators': {
 				'description': 'Index of all congressional legislators.',
 				'args': {
 					'id': 'Numeric part of aclu_id (optional; returns a single match).',
@@ -74,7 +74,7 @@ def index():
 					'session': 'Congressional session (optional; defaults to 116)'
 				}
 			},
-			'/v1/county': {
+			'/v2/county': {
 				'description': 'County election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
@@ -82,7 +82,7 @@ def index():
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
-			'/v1/state_leg': {
+			'/v2/state_leg': {
 				'description': 'State legislature election lookup by location.',
 				'args': {
 					'lat': 'Latitude',
@@ -90,21 +90,21 @@ def index():
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},
-			'/v1/google_civic_info': {
+			'/v2/google_civic_info': {
 				'description': 'Lookup Google Civic Info for an election.',
 				'args': {
 					'ocd_id': 'An Open Civic Data ID for the election.',
 					'address': 'Address search string.'
 				}
 			},
-			'/v1/calendar': {
+			'/v2/calendar': {
 				'description': 'Get an election calendar for a given state.',
 				'args': {
 					'state': 'The state to load (e.g., ny).',
 					'format': 'Response format (optional; json or ics).'
 				}
 			},
-			'/v1/geoip': {
+			'/v2/geoip': {
 				'description': 'Get an approximate lat/lng location based on IPv4.',
 				'args': {
 					'ip': 'The IPv4 address to look up (optional; e.g., 38.109.115.130)',
@@ -112,7 +112,7 @@ def index():
 					'legislators': 'Use the resulting location to do a point-in-polygon congress_legislators lookup. (optional; set to 1 to include)'
 				}
 			},
-			'/v1/apple_wallet': {
+			'/v2/apple_wallet': {
 				'description': 'Get an Apple Wallet pkpass based on polling place info.',
 				'args': {
 					'address': 'The polling place address',
@@ -195,7 +195,7 @@ def pip(req=None):
 	if state:
 		areas.append(state)
 		api_url = os.getenv('API_URL', '')
-		calendar_url = "%s/v1/calendar?state=%s&format=ics" % (api_url, state['state'])
+		calendar_url = "%s/v2/calendar?state=%s&format=ics" % (api_url, state['state'])
 
 	if county:
 		areas.append(county)

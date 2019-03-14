@@ -2,10 +2,12 @@
 
 import flask, flask_cors, json, os, psycopg2, re, sys, arrow
 from api.v1 import api as api_v1
+from api.v2 import api as api_v2
 
 app = flask.Flask(__name__)
 flask_cors.CORS(app)
 app.register_blueprint(api_v1, url_prefix='/v1')
+app.register_blueprint(api_v2, url_prefix='/v2')
 
 @app.before_request
 def init():
@@ -17,9 +19,10 @@ def init():
 def index():
 	return flask.jsonify({
 		'ok': False,
-		'error': 'Please use the /v1 endpoint.',
+		'error': 'Please use the /v2 endpoint.',
 		'valid_endpoints': [
-			'/v1/'
+			'/v1',
+			'/v2'
 		]
 	})
 

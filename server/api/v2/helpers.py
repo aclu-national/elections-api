@@ -229,3 +229,21 @@ def get_spatial_request():
 
 	else:
 		return 'Could not understand spatial request.'
+
+def get_scores_last_updated(session):
+
+	cur = flask.g.db.cursor()
+
+	cur.execute('''
+		SELECT vote_date
+		FROM congress_legislator_score_index
+		WHERE session = %s
+		ORDER BY vote_date DESC
+		LIMIT 1;
+	''', (session,))
+
+	row = cur.fetchone()
+	if row:
+		return arrow.get(row[0]).format('YYYY-MM-DD')
+	else:
+		return None

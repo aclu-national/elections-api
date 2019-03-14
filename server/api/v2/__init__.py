@@ -342,7 +342,8 @@ def congress():
 	rsp = congress_api.get_congress_by_coords(lat, lng, session)
 	return flask.jsonify({
 		'ok': True,
-		'congress': rsp
+		'congress': rsp,
+		'scores_last_updated': helpers.get_scores_last_updated(curr_session)
 	})
 
 @api.route("/congress/district")
@@ -403,7 +404,8 @@ def congress_scores():
 
 	return flask.jsonify({
 		'ok': True,
-		'congress_scores': scores
+		'congress_scores': scores,
+		'scores_last_updated': helpers.get_scores_last_updated(curr_session)
 	})
 
 @api.route("/congress/legislators")
@@ -423,7 +425,8 @@ def congress_legislators():
 
 	return flask.jsonify({
 		'ok': True,
-		'congress_legislators': legislators
+		'congress_legislators': legislators,
+		'scores_last_updated': helpers.get_scores_last_updated(curr_session)
 	})
 
 @api.route("/county")
@@ -612,6 +615,7 @@ def geoip():
 				if legislator_filter == '1':
 					pip_data = json.loads(pip_rsp.data)
 					rsp['congress_legislators'] = pip_data['congress']['legislators']
+					rsp['scores_last_updated'] = helpers.get_scores_last_updated(curr_session)
 			except:
 				e = sys.exc_info()[0]
 				print("error doing pip on geoip")

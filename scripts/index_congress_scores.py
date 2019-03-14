@@ -11,6 +11,7 @@ if len(sys.argv) < 2:
 session = int(sys.argv[1])
 
 def strip_accents(s):
+	s = s.replace("'", "")
 	s = s.decode('utf-8')
 	return ''.join(c for c in unicodedata.normalize('NFD', s)
 		if unicodedata.category(c) != 'Mn')
@@ -148,7 +149,7 @@ def get_rep_id(state_district, name):
 	name = strip_accents(name)
 	lname = strip_accents(rep["last_name"])
 	if name.find(lname) == -1:
-		return None
+		print("Warning: could not find %s" % name)
 	return rep["aclu_id"]
 
 def get_sen_id(state, name):
@@ -210,7 +211,7 @@ if __name__ == "__main__":
 					legislator_id = get_rep_id(state_district, name)
 					if not legislator_id:
 						print("COULD NOT FIND %s" % name)
-						print(sens[state])
+						print(reps[state_district])
 						continue
 
 					for col in row:

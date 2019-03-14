@@ -1,101 +1,101 @@
-aclu_id,display_name,running_in_2018
-516,Sen. Dan Sullivan,0
-518,Sen. Lisa Murkowski,0
-525,Sen. Richard Shelby,0
-520,Sen. Doug Jones,0
-531,Sen. John Boozman,0
-533,Sen. Tom Cotton,0
-537,Sen. Jeff Flake,0
-538,Sen. John McCain,0
-555,Sen. Dianne Feinstein,1
-574,Sen. Kamala Harris,0
-600,Sen. Cory Gardner,0
-606,Sen. Michael Bennet,0
-609,Sen. Chris Murphy,1
-614,"Sen. Richard ""Dick"" Blumenthal",0
-617,"Sen. Christopher ""Chris"" Coons",0
-619,Sen. Tom Carper,1
-638,Sen. Marco Rubio,0
-622,Sen. Bill Nelson,1
-653,Sen. David Perdue,0
-658,Sen. Johnny Isakson,0
-665,Sen. Brian Schatz,0
-667,Sen. Mazie Hirono,1
-669,Sen. Chuck Grassley,0
-672,Sen. Joni Ernst,0
-675,"Sen. James ""Jim"" Risch",0
-676,Sen. Mike Crapo,0
-698,Sen. Tammy Duckworth,0
-695,Whip Dick Durbin,0
-708,Sen. Todd Young,0
-702,Sen. Joe Donnelly,1
-710,Sen. Jerry Moran,0
-713,Sen. Pat Roberts,0
-721,Leader Mitch McConnell,0
-722,Sen. Rand Paul,0
-724,Sen. Bill Cassidy,0
-728,Sen. John Kennedy,0
-732,"Sen. Edward ""Ed"" Markey",0
-733,Sen. Elizabeth Warren,1
-745,Sen. Ben Cardin,1
-747,Sen. Chris Van Hollen,0
-753,Sen. Angus King,1
-756,Sen. Susan Collins,0
-762,Sen. Debbie Stabenow,1
-764,Sen. Gary Peters,0
-772,Sen. Amy Klobuchar,1
-779,Sen. Tina Smith,1
-787,Sen. Roy Blunt,0
-784,Sen. Claire McCaskill,1
-1046,Sen. Cindy Hyde-Smith,1
-794,Sen. Roger Wicker,1
-798,Sen. Steve Daines,0
-797,Sen. Jon Tester,1
-807,Sen. Richard Burr,0
-811,Sen. Thom Tillis,0
-815,Sen. John Hoeven,0
-814,Sen. Heidi Heitkamp,1
-818,"Sen. Benjamin ""Ben"" Sasse",0
-819,Sen. Deb Fischer,1
-824,Sen. Jeanne Shaheen,0
-825,Sen. Maggie Hassan,0
-830,Sen. Cory Booker,0
-837,"Sen. Robert ""Bob"" Menendez",1
-841,Sen. Martin Heinrich,1
-844,Sen. Tom Udall,0
-846,Sen. Dean Heller,1
-845,Sen. Catherine Cortez Masto,0
-854,"Leader Charles ""Chuck"" Schumer",0
-869,Sen. Kirsten Gillibrand,1
-890,Sen. Rob Portman,0
-891,Sen. Sherrod Brown,1
-897,"Sen. James ""Jim"" Inhofe",0
-898,Sen. James Lankford,0
-904,Sen. Jeff Merkley,0
-907,Sen. Ron Wyden,0
-920,Sen. Pat Toomey,0
-922,"Sen. Robert ""Bob"" Casey",1
-929,Sen. Jack Reed,0
-930,Sen. Sheldon Whitehouse,1
-934,Sen. Lindsey Graham,0
-937,Sen. Tim Scott,0
-940,Sen. John Thune,0
-942,Sen. Mike Rounds,0
-943,Sen. Bob Corker,0
-950,Sen. Lamar Alexander,0
-987,Sen. Ted Cruz,1
-967,Whip John Cornyn,0
-993,Sen. Mike Lee,0
-994,Sen. Orrin Hatch,0
-1003,Sen. Mark Warner,0
-1008,Sen. Tim Kaine,1
-1010,Sen. Bernie Sanders,1
-1011,"Sen. Patrick ""Pat"" Leahy",0
-1020,Sen. Maria Cantwell,1
-1021,Sen. Patty Murray,0
-1031,Sen. Ron Johnson,0
-1034,Sen. Tammy Baldwin,1
-1039,Sen. Shelley Capito,0
-1038,Sen. Joe Manchin,1
-1040,Sen. John Barrasso,1
-1042,Sen. Mike Enzi,0
+aclu_id,display_name,running_in_2018,running_for_president
+516,Sen. Dan Sullivan,0,0
+518,Sen. Lisa Murkowski,0,0
+525,Sen. Richard Shelby,0,0
+520,Sen. Doug Jones,0,0
+531,Sen. John Boozman,0,0
+533,Sen. Tom Cotton,0,0
+537,Sen. Jeff Flake,0,0
+538,Sen. John McCain,0,0
+555,Sen. Dianne Feinstein,1,0
+574,Sen. Kamala Harris,0,0
+600,Sen. Cory Gardner,0,0
+606,Sen. Michael Bennet,0,0
+609,Sen. Chris Murphy,1,0
+614,"Sen. Richard ""Dick"" Blumenthal",0,0
+617,"Sen. Christopher ""Chris"" Coons",0,0
+619,Sen. Tom Carper,1,0
+638,Sen. Marco Rubio,0,0
+622,Sen. Bill Nelson,1,0
+653,Sen. David Perdue,0,0
+658,Sen. Johnny Isakson,0,0
+665,Sen. Brian Schatz,0,0
+667,Sen. Mazie Hirono,1,0
+669,Sen. Chuck Grassley,0,0
+672,Sen. Joni Ernst,0,0
+675,"Sen. James ""Jim"" Risch",0,0
+676,Sen. Mike Crapo,0,0
+698,Sen. Tammy Duckworth,0,0
+695,Whip Dick Durbin,0,0
+708,Sen. Todd Young,0,0
+702,Sen. Joe Donnelly,1,0
+710,Sen. Jerry Moran,0,0
+713,Sen. Pat Roberts,0,0
+721,Leader Mitch McConnell,0,0
+722,Sen. Rand Paul,0,0
+724,Sen. Bill Cassidy,0,0
+728,Sen. John Kennedy,0,0
+732,"Sen. Edward ""Ed"" Markey",0,0
+733,Sen. Elizabeth Warren,1,0
+745,Sen. Ben Cardin,1,0
+747,Sen. Chris Van Hollen,0,0
+753,Sen. Angus King,1,0
+756,Sen. Susan Collins,0,0
+762,Sen. Debbie Stabenow,1,0
+764,Sen. Gary Peters,0,0
+772,Sen. Amy Klobuchar,1,0
+779,Sen. Tina Smith,1,0
+787,Sen. Roy Blunt,0,0
+784,Sen. Claire McCaskill,1,0
+1046,Sen. Cindy Hyde-Smith,1,0
+794,Sen. Roger Wicker,1,0
+798,Sen. Steve Daines,0,0
+797,Sen. Jon Tester,1,0
+807,Sen. Richard Burr,0,0
+811,Sen. Thom Tillis,0,0
+815,Sen. John Hoeven,0,0
+814,Sen. Heidi Heitkamp,1,0
+818,"Sen. Benjamin ""Ben"" Sasse",0,0
+819,Sen. Deb Fischer,1,0
+824,Sen. Jeanne Shaheen,0,0
+825,Sen. Maggie Hassan,0,0
+830,Sen. Cory Booker,0,0
+837,"Sen. Robert ""Bob"" Menendez",1,0
+841,Sen. Martin Heinrich,1,0
+844,Sen. Tom Udall,0,0
+846,Sen. Dean Heller,1,0
+845,Sen. Catherine Cortez Masto,0,0
+854,"Leader Charles ""Chuck"" Schumer",0,0
+869,Sen. Kirsten Gillibrand,1,0
+890,Sen. Rob Portman,0,0
+891,Sen. Sherrod Brown,1,0
+897,"Sen. James ""Jim"" Inhofe",0,0
+898,Sen. James Lankford,0,0
+904,Sen. Jeff Merkley,0,0
+907,Sen. Ron Wyden,0,0
+920,Sen. Pat Toomey,0,0
+922,"Sen. Robert ""Bob"" Casey",1,0
+929,Sen. Jack Reed,0,0
+930,Sen. Sheldon Whitehouse,1,0
+934,Sen. Lindsey Graham,0,0
+937,Sen. Tim Scott,0,0
+940,Sen. John Thune,0,0
+942,Sen. Mike Rounds,0,0
+943,Sen. Bob Corker,0,0
+950,Sen. Lamar Alexander,0,0
+987,Sen. Ted Cruz,1,0
+967,Whip John Cornyn,0,0
+993,Sen. Mike Lee,0,0
+994,Sen. Orrin Hatch,0,0
+1003,Sen. Mark Warner,0,0
+1008,Sen. Tim Kaine,1,0
+1010,Sen. Bernie Sanders,1,0
+1011,"Sen. Patrick ""Pat"" Leahy",0,0
+1020,Sen. Maria Cantwell,1,0
+1021,Sen. Patty Murray,0,0
+1031,Sen. Ron Johnson,0,0
+1034,Sen. Tammy Baldwin,1,0
+1039,Sen. Shelley Capito,0,0
+1038,Sen. Joe Manchin,1,0
+1040,Sen. John Barrasso,1,0
+1042,Sen. Mike Enzi,0,0

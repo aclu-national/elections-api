@@ -15,7 +15,6 @@ from copy import deepcopy
 from ics import Calendar, Event
 
 api = flask.Blueprint('api_v1', __name__)
-curr_session = 116
 
 google_civic_info_api.setup()
 
@@ -61,17 +60,14 @@ def index():
 			},
 			'/v1/congress/scores': {
 				'description': 'Index of congressional legislator scores.',
-				'args': {
-					'session': 'Congressional session (optional; defaults to 116)'
-				}
+				'args': {}
 			},
 			'/v1/congress/legislators': {
 				'description': 'Index of all congressional legislators.',
 				'args': {
 					'id': 'Numeric part of aclu_id (optional; returns a single match).',
 					'url_slug': 'State and name URL slug (optional; returns a single match).',
-					'include': 'Fields to include (optional; include=name)',
-					'session': 'Congressional session (optional; defaults to 116)'
+					'include': 'Fields to include (optional; include=name)'
 				}
 			},
 			'/v1/county': {
@@ -134,8 +130,6 @@ def pip(req=None):
 	calendar_url = None
 	state_only_congress = None
 
-	session = int(flask.request.args.get('session', curr_session))
-
 	if type(req) == str:
 		return flask.jsonify({
 			'ok': False,
@@ -146,7 +140,7 @@ def pip(req=None):
 		lat = req['lat']
 		lng = req['lng']
 
-		congress = congress_api.get_congress_by_coords(lat, lng, session)
+		congress = congress_api.get_congress_by_coords(lat, lng)
 		if (congress["ok"]):
 			del congress["ok"]
 			state = state_api.get_state_by_abbrev(congress['district']['state'])
@@ -337,9 +331,8 @@ def congress():
 
 	lat = req['lat']
 	lng = req['lng']
-	session = int(flask.request.args.get('session', curr_session))
 
-	rsp = congress_api.get_congress_by_coords(lat, lng, session)
+	rsp = congress_api.get_congress_by_coords(lat, lng)
 	return flask.jsonify({
 		'ok': True,
 		'congress': rsp
@@ -357,9 +350,8 @@ def congress_district():
 
 	lat = req['lat']
 	lng = req['lng']
-	session = int(flask.request.args.get('session', curr_session))
 
-	district = congress_api.get_district_by_coords(lat, lng, session)
+	district = congress_api.get_district_by_coords(lat, lng)
 
 	return flask.jsonify({
 		'ok': True,
@@ -369,16 +361,13 @@ def congress_district():
 @api.route("/congress/scores")
 def congress_scores():
 
-	session = int(flask.request.args.get('session', curr_session))
-
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT aclu_id, vote_context, roll_call, vote_date, vote_type, bill,
-		       amendment, outcome, title, bill_summary, description, committee, link
+		       amendment, title, bill_summary, description, committee, link
 		FROM congress_legislator_score_index
-		WHERE session = %s
 		ORDER BY aclu_id
-	''', (session,))
+	''')
 
 	scores = []
 
@@ -393,12 +382,11 @@ def congress_scores():
 				'bill': row[5],
 				'bill_status': row[4], # stored in the db as vote_type
 				'amendment': row[6],
-				'outcome': row[7],
-				'title': row[8],
-				'summary': row[9],
-				'description': row[10],
-				'committee': row[11],
-				'link': row[12]
+				'title': row[7],
+				'summary': row[8],
+				'description': row[9],
+				'committee': row[10],
+				'link': row[11]
 			})
 
 	return flask.jsonify({
@@ -412,14 +400,13 @@ def congress_legislators():
 	id = flask.request.args.get('id', None)
 	url_slug = flask.request.args.get('url_slug', None)
 	include = flask.request.args.get('include', None)
-	session = int(flask.request.args.get('session', curr_session))
 
 	if id:
-		legislators = congress_api.get_legislators_by_id(id, include, session)
+		legislators = congress_api.get_legislators_by_id(id, include)
 	elif url_slug:
-		legislators = congress_api.get_legislators_by_url_slug(url_slug, include, session)
+		legislators = congress_api.get_legislators_by_url_slug(url_slug, include)
 	else:
-		legislators = congress_api.get_all_legislators(include, session)
+		legislators = congress_api.get_all_legislators(include)
 
 	return flask.jsonify({
 		'ok': True,
@@ -515,6 +502,8 @@ def google_civic_info():
 
 @api.route("/calendar")
 def calendar():
+
+	global elections
 
 	state = flask.request.args.get('state', None)
 	format = flask.request.args.get('format', 'json')
@@ -613,9 +602,7 @@ def geoip():
 					pip_data = json.loads(pip_rsp.data)
 					rsp['congress_legislators'] = pip_data['congress']['legislators']
 			except:
-				e = sys.exc_info()[0]
 				print("error doing pip on geoip")
-				print(e)
 
 		rsp_json = json.dumps(rsp)
 

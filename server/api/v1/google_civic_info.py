@@ -10,6 +10,8 @@ features = {
 
 def setup():
 
+	global postgres_dsn
+
 	db = psycopg2.connect(postgres_dsn)
 	cur = db.cursor()
 
@@ -63,6 +65,8 @@ def cache_set(name, value):
 
 def get_elections():
 
+	global api_key
+
 	ttl = 60 * 60
 	(cached, updated) = cache_get('elections', ttl)
 
@@ -110,6 +114,8 @@ def get_election_id(ocd_id):
 	return None
 
 def get_polling_places(ocd_id, address):
+
+	global features
 
 	cur = flask.g.db.cursor()
 	election_id = get_election_id(ocd_id)
@@ -210,6 +216,8 @@ def get_polling_places(ocd_id, address):
 
 def get_voter_info(election_id, address):
 
+	global api_key
+
 	cache_key = "voter_info:%s:%s" % (election_id, address)
 	ttl = 60 * 60
 	(cached, updated) = cache_get(cache_key, ttl)
@@ -242,6 +250,8 @@ def google_geocode(address):
 
 	# Takes an address string and returns a dict with lat/lng properties or
 	# None. (20181029/dphiffer)
+
+	global api_key
 
 	address = address.encode("utf-8")
 	query = urllib.quote_plus(address)

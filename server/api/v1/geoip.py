@@ -5,12 +5,16 @@ api_key = os.getenv('IPSTACK_API_KEY', None)
 
 def get_coords(ip):
 
+	global api_key
+
 	if api_key:
 		return get_ipstack_coords(ip)
 	else:
 		return get_maxmind_coords(ip)
 
 def get_ipstack_coords(ip):
+
+	global api_key
 
 	try:
 		base_url = "http://api.ipstack.com"

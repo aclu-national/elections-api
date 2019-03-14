@@ -5,6 +5,7 @@ mapbox_api_key = os.getenv('MAPBOX_API_KEY', None)
 
 def get_pass(address, hours, lat, lng):
 
+	global mapbox_api_key
 	hash = hashlib.sha1(address).hexdigest()
 
 	base_dir = "/usr/local/aclu/voter-apple-wallet"

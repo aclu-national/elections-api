@@ -1,7 +1,5 @@
 import flask, json, os, re, sys, arrow, us
 
-curr_session = 116
-
 def get_sessions():
 
 	sessions = {}
@@ -35,17 +33,10 @@ def get_district_by_coords(lat, lng, session=None):
 	if include_geometry == '1':
 		columns += ', boundary_simple'
 
-	# This session filter used to be:
-	#
-	# if not session:
-	#   filter = 'AND start_session >= %d AND end_session <= %d' % (session, session)
-	#
-	# This new version gives us the newest district that isn't *newer* than the
-	# requested session. This may have adverse consequences for things like
-	# recently redistricted districts. (20190311/dphiffer)
-
-	if session:
-		filter = 'AND start_session < %d' % session
+	if not session:
+		filter = 'ORDER BY start_session DESC'
+	else:
+		filter = 'AND start_session >= %d AND end_session <= %d' % (session, session)
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -53,7 +44,6 @@ def get_district_by_coords(lat, lng, session=None):
 		FROM congress_districts
 		WHERE ST_within(ST_GeomFromText('POINT({lng} {lat})', 4326), boundary_geom)
 		{filter}
-		ORDER BY start_session DESC
 		LIMIT 1
 	'''.format(columns=columns, lng=lng, lat=lat, filter=filter))
 
@@ -161,23 +151,19 @@ def get_district_by_id(aclu_id):
 	cur.close()
 	return district
 
-def get_all_legislators(include=None, session_num=curr_session):
-
-	sessions = get_sessions()
-	session = sessions[session_num]
+def get_all_legislators(include=None):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
-		WHERE start_date >= '{start_date}' AND end_date <= '{end_date}'
-	       OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+		WHERE end_date >= CURRENT_DATE
 		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']))
+	''')
 
-	return get_legislators(cur, "total", include, session_num)
+	return get_legislators(cur, "total", include)
 
-def get_legislators_by_state(state, session_num=curr_session):
+def get_legislators_by_state(state, session_num=115):
 
 	sessions = get_sessions()
 	session = sessions[session_num]
@@ -186,40 +172,31 @@ def get_legislators_by_state(state, session_num=curr_session):
 	cur.execute('''
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
-		WHERE (
-			start_date >= '{start_date}' AND end_date <= '{end_date}'
-			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
-		)
-		AND state = %s
+		WHERE end_date >= CURRENT_DATE
+		  AND state = %s
 		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state,))
+	''', (state,))
 
-	return get_legislators(cur, "total", None, session_num)
+	return get_legislators(cur)
 
-def get_legislators_by_district(state, district_num, session_num=curr_session):
-
-	sessions = get_sessions()
-	session = sessions[session_num]
+def get_legislators_by_district(state, district_num):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
-		WHERE (
-			start_date >= '{start_date}' AND end_date <= '{end_date}'
-			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
-		)
-		AND state = %s
-		AND (
+		WHERE end_date >= CURRENT_DATE
+		  AND state = %s
+		  AND (
 			district_num IS NULL OR
 			district_num = %s
-		)
+		  )
 		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state, district_num))
+	''', (state, district_num))
 
-	return get_legislators(cur, "total", None, session_num)
+	return get_legislators(cur)
 
-def get_legislators_by_url_slug(url_slug, include, session_num=curr_session):
+def get_legislators_by_url_slug(url_slug, include):
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -228,12 +205,13 @@ def get_legislators_by_url_slug(url_slug, include, session_num=curr_session):
 		     congress_legislators AS l
 		WHERE l.url_slug = %s
 		  AND l.aclu_id = t.aclu_id
+		  AND t.end_date >= CURRENT_DATE
 		ORDER BY t.end_date DESC
 	''', (url_slug,))
 
-	return get_legislators(cur, "all", include, session_num)
+	return get_legislators(cur, "all", include)
 
-def get_legislators_by_id(id, include, session_num=curr_session):
+def get_legislators_by_id(id, include):
 
 	id = int(id)
 
@@ -244,46 +222,13 @@ def get_legislators_by_id(id, include, session_num=curr_session):
 		     congress_legislators AS l
 		WHERE l.aclu_id LIKE '%congress_legislator:{id}'
 		  AND l.aclu_id = t.aclu_id
+		  AND t.end_date >= CURRENT_DATE
 		ORDER BY t.end_date DESC
 	'''.format(id=id))
 
-	return get_legislators(cur, 'all', include, session_num)
+	return get_legislators(cur, 'all', include)
 
-def set_legislator_session_value(legislator, session_num, name, value):
-
-	bool_types = [
-		"running_in_2018",
-		"running_for_president"
-	]
-
-	if name == "aclu_id":
-		return
-
-	if not 'sessions' in legislator:
-		legislator['sessions'] = []
-
-	session = None
-
-	for s in legislator['sessions']:
-		if s['session'] == session_num:
-			session = s
-
-	if not session:
-		session = {
-			'session': session_num
-		}
-		legislator['sessions'].append(session)
-
-	if name in bool_types:
-		# 0 = False
-		# 1 = True
-		if value == "0" or value == "1":
-			value = int(value)
-		value = bool(value)
-
-	session[name] = value
-
-def get_legislators(cur, score_filter="total", include=None, session_num=curr_session):
+def get_legislators(cur, score_filter="total", include=None):
 
 	legislators = {}
 	aclu_ids = []
@@ -306,8 +251,7 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			}
 			if row[4] == 'rep':
 				legislators[aclu_id]['term']['district_num'] = row[6]
-			if not aclu_id in aclu_ids:
-				aclu_ids.append(aclu_id)
+			aclu_ids.append(aclu_id)
 			term_ids.append(str(row[0]))
 
 	if len(aclu_ids) == 0:
@@ -349,21 +293,27 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 		cur.close()
 		return legislator_list
 
-	values = list(aclu_id_values)
-	values = tuple(values)
+	aclu_id_list = ', '.join(['%s'] * len(aclu_ids))
+	aclu_id_values = tuple(aclu_ids)
 
 	cur.execute('''
-		SELECT aclu_id, session, detail_name, detail_value
+		SELECT aclu_id, detail_name, detail_value
 		FROM congress_legislator_details
 		WHERE aclu_id IN ({aclu_ids})
-	'''.format(aclu_ids=aclu_id_list), values)
+	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
 
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
 			aclu_id = row[0]
-			legislator = legislators[aclu_id]
-			set_legislator_session_value(legislator, row[1], row[2], row[3])
+			name = row[1]
+			value = row[2]
+			if name == 'display_name':
+				legislators[aclu_id]['name'][name] = value
+			elif name == 'running_in_2018' or name == 'running_for_president':
+				legislators[aclu_id][name] = True if value else False
+			else:
+				legislators[aclu_id][name] = value
 
 	term_id_list = ', '.join(['%s'] * len(term_ids))
 	term_id_values = tuple(term_ids)
@@ -432,90 +382,62 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 				legislators[aclu_id]['social'] = {}
 			legislators[aclu_id]['social'][key] = value
 
-	if score_filter == 'all':
+		sql_filter = ''
+		if score_filter == "total":
+			sql_filter = "AND name = 'total'"
+
 		cur.execute('''
-			SELECT aclu_id, session, legislator_id, position, name, value
+			SELECT aclu_id, legislator_id, position, name, value
 			FROM congress_legislator_scores
 			WHERE legislator_id IN ({aclu_ids})
-		'''.format(aclu_ids=aclu_id_list), aclu_id_values)
+			{filter}
+		'''.format(aclu_ids=aclu_id_list, filter=sql_filter), aclu_id_values)
 
 		rs = cur.fetchall()
 		if rs:
 			for row in rs:
 				aclu_id = row[0]
-				session = row[1]
-				legislator_id = row[2]
-				position = row[3]
-				name = row[4]
-				value = row[5]
+				legislator_id = row[1]
+				position = row[2]
+				name = row[3]
+				value = row[4]
 
-				score = {
-					'aclu_id': aclu_id,
-					'aclu_position': position,
-					'name': name,
-					'status': 'unknown',
-					'vote_matches_aclu_position': None,
-					'vote': None
-				}
-
-				normalized_value = value.lower()
-				if normalized_value == "nay":
-					value = '0'
-
-				if value == '1' or value == '0':
-					score['status'] = 'Voted'
-					score['vote_matches_aclu_position'] = True if value == '1' else False
-
-					# Hey this part is confusing! score['vote_matches_aclu_position'] is what
-					# we get out of the spreadsheet (1 or 0) which is optimized
-					# for calculating the total percentage.
-					#
-					# if vote_matches_aclu_position is 1 and aclu supported, then vote is 1
-					# if vote_matches_aclu_position is 1 and aclu opposed then vote is 0
-					# if vote_matches_aclu_position is 0 and aclu supported then vote is 0
-					# if vote_matches_aclu_position is 0 and aclu opposed then vote is 1
-					#
-					# (20190110/dphiffer) with help from kateray
-
-					if score['vote_matches_aclu_position']:
-						score['vote'] = True if score['aclu_position'] == 'supported' else False
-					else:
-						score['vote'] = False if score['aclu_position'] == 'supported' else True
-
+				if name == 'total':
+					legislators[legislator_id]['total_score'] = value
 				else:
-					if normalized_value == "missed" or normalized_value == "not voting":
-						value = "Did not vote"
-					score['status'] = value
 
-				for s in legislators[legislator_id]['sessions']:
-					if s['session'] == session:
-						if not 'scores' in s:
-							s['scores'] = []
-						s['scores'].append(score)
+					if not 'scores' in legislators[legislator_id]:
+						legislators[legislator_id]['scores'] = []
 
-	cur.execute('''
-		SELECT legislator_id, session
-		FROM congress_legislator_scores
-		WHERE legislator_id IN ({aclu_ids})
-		GROUP BY legislator_id, session
-		ORDER BY session
-	'''.format(aclu_ids=aclu_id_list), aclu_id_values)
+					score = {
+						'aclu_id': aclu_id,
+						'aclu_position': position,
+						'name': name,
+						'status': 'unknown',
+						'score': None,
+						'vote': None
+					}
+					if value == '1' or value == '0':
+						score['status'] = 'voted'
+						score['score'] = True if value == '1' else False
+						if position == 'supported' and value == '1':
+							score['vote'] = True
+						else:
+							score['vote'] = False
+					elif value == 'Missed':
+						score['status'] = 'missed'
+					elif value == 'Not yet in office':
+						score['status'] = 'not_in_office'
+					elif value == 'Not on committee':
+						score['status'] = 'not_on_committee'
 
-	rs = cur.fetchall()
-	if rs:
-		for row in rs:
-			legislator_id = row[0]
-			session = row[1]
-			if not "score_sessions" in legislators[legislator_id]:
-				legislators[legislator_id]["score_sessions"] = []
-			legislators[legislator_id]["score_sessions"].append(session)
+					if score_filter == 'all' or score_filter == score['status']:
+						legislators[legislator_id]['scores'].append(score)
 
 	cur.close()
 
 	legislator_list = []
 	for aclu_id in legislators:
-		if not "score_sessions" in legislators[aclu_id]:
-			legislators[aclu_id]["score_sessions"] = []
 		legislator_list.append(legislators[aclu_id])
 
 	def sort_legislators(a, b):
@@ -540,21 +462,19 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 
 	return legislator_list
 
-def get_congress_by_coords(lat, lng, session):
+def get_congress_by_coords(lat, lng):
 
 	# HELLO quick warning here: these next two vars are hardcoded, and we are
 	# going to need to make them ~less~ hardecoded.
 	# (20180716/dphiffer)
 
-	# UPDATE we are now using a global var curr_session, which is still hard-
-	# coded. It's just not hardcoded in here. (20190108/dphiffer)
-
+	curr_session = 115
 	redistricted = ['pa']
 
-	curr_district = get_district_by_coords(lat, lng, session)
+	curr_district = get_district_by_coords(lat, lng, curr_session)
 
 	if curr_district and curr_district['state'] in redistricted:
-		next_district = get_district_by_coords(lat, lng, session + 1)
+		next_district = get_district_by_coords(lat, lng)
 	else:
 		next_district = curr_district
 

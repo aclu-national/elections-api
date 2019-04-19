@@ -206,6 +206,14 @@ When the API server code changes, the application server needs to be restarted a
 $ sudo service elections restart
 ```
 
+## Restarting Ubuntu
+
+When you ssh into the box and get a message like *** System restart required *** just reboot ubuntu
+
+```
+$ sudo reboot
+```
+
 ## Load testing the server
 
 Here's how you can use [`siege`](https://www.joedog.org/siege-home/) to simulate 50 concurrent requests using a list of 1,000 random lat/lng lookups within the U.S.A.

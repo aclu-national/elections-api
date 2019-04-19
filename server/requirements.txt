@@ -8,3 +8,4 @@ pyyaml
 ics
 maxminddb
 us
+requests

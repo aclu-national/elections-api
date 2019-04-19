@@ -7,6 +7,15 @@ script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
+source_path = "%s/sources/congress_sessions/congress_sessions.html" % root_dir
+
+if not os.path.exists(source_path):
+	print("ERROR: You need to download the congress_sessions:")
+	print("")
+	print("    cd sources/")
+	print("    make congress_sessions")
+	sys.exit(0)
+
 curr_session = 116
 curr_end_date = "2021-01-03"
 
@@ -43,7 +52,6 @@ values = [
 ]
 cur.execute(insert_sql, values)
 
-source_path = "%s/sources/congress_sessions/congress_sessions.html" % root_dir
 with open(source_path) as source_file:
 	soup = bs4.BeautifulSoup(source_file.read(), "html.parser")
 

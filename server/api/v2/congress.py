@@ -229,6 +229,7 @@ def get_legislators_by_url_slug(url_slug, include, session_num=curr_session):
 		WHERE l.url_slug = %s
 		  AND l.aclu_id = t.aclu_id
 		ORDER BY t.end_date DESC
+		LIMIT 1
 	''', (url_slug,))
 
 	return get_legislators(cur, "all", include, session_num)
@@ -245,6 +246,7 @@ def get_legislators_by_id(id, include, session_num=curr_session):
 		WHERE l.aclu_id LIKE '%congress_legislator:{id}'
 		  AND l.aclu_id = t.aclu_id
 		ORDER BY t.end_date DESC
+		LIMIT 1
 	'''.format(id=id))
 
 	return get_legislators(cur, 'all', include, session_num)

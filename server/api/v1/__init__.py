@@ -1,6 +1,9 @@
 __import__('pkg_resources').declare_namespace(__name__)
 
 import flask, json, os, re, sys, arrow, us
+
+sys.path.insert(1, os.path.dirname(__file__))
+
 import helpers
 import congress as congress_api
 import state as state_api

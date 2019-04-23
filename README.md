@@ -169,19 +169,22 @@ The API server is designed to run on Ubuntu 16.04.
 $ sudo mkdir -p /usr/local/aclu
 $ sudo chown $USER:$USER /usr/local/aclu
 $ cd /usr/local/aclu
+```
+If you work at the ACLU and have access to the private repo included as a submodule in the project, run:
+```
+$ git clone --recurse-submodules git@github.com:aclu-national/elections-api.git
+```
+Otherwise
+```
 $ git clone https://github.com/aclu-national/elections-api.git
+```
+
+```
 $ cd elections-api
 $ sudo ./scripts/setup_ubuntu.sh
 ```
 
 The config file `server/gunicorn.py` has environment variables and feature flags that you will need to edit.
-
-There is also a [private repo](https://github.com/aclu-national/elections-api-private) of data we cannot release. You can include it as a submodule if you work at the ACLU and have access to the repo.
-
-```
-$ git submodule init
-$ git submodule update
-```
 
 ## Reindexing the data
 

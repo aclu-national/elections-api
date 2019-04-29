@@ -95,17 +95,13 @@ legislator_score_index_insert_sql = '''
 reps = {}
 sens = {}
 
+# Get all the legislators (indexed from the unitedstates congress repo)
 cur.execute('''
 	SELECT lt.aclu_id, lt.state, lt.district_num, lt.type, l.last_name
 	FROM congress_legislator_terms AS lt,
 	     congress_legislators AS l,
 	     congress_sessions AS s
-	WHERE s.id = {session}
-	  AND (
-	  	lt.start_date >= s.start_date AND lt.end_date <= s.end_date
-	  	OR lt.start_date <= s.start_date AND lt.end_date >= s.end_date
-	  )
-  AND lt.aclu_id = l.aclu_id
+  WHERE lt.aclu_id = l.aclu_id
 '''.format(session=session))
 
 rs = cur.fetchall()
@@ -115,6 +111,7 @@ if rs:
 		state = row[1].upper()
 		district_num = row[2]
 		type = row[3]
+		# they are a representative, so we use district numbers
 		if type == 'rep':
 			if district_num == 0:
 				district_num = 1
@@ -127,10 +124,10 @@ if rs:
 				'aclu_id': aclu_id,
 				'last_name': row[4]
 			}
+		# they are a senator, so we expect more than one per state
 		else:
 			if not state in sens:
 				sens[state] = []
-
 			found = False
 			for rep in sens[state]:
 				if rep['last_name'] == row[4]:
@@ -298,7 +295,7 @@ if __name__ == "__main__":
 
 				legislator_id = get_sen_id(state, name)
 				if not legislator_id:
-					print("COULD NOT FIND %s" % name)
+					print("COULD NOT FIND senator %s" % name)
 					print(sens[state])
 					continue
 

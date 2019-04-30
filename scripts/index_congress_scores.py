@@ -92,76 +92,6 @@ legislator_score_index_insert_sql = '''
 	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
-reps = {}
-sens = {}
-
-# Get all the legislators (indexed from the unitedstates congress repo)
-cur.execute('''
-	SELECT lt.aclu_id, lt.state, lt.district_num, lt.type, l.last_name
-	FROM congress_legislator_terms AS lt,
-	     congress_legislators AS l,
-	     congress_sessions AS s
-  WHERE lt.aclu_id = l.aclu_id
-'''.format(session=session))
-
-rs = cur.fetchall()
-if rs:
-	for row in rs:
-		aclu_id = row[0]
-		state = row[1].upper()
-		district_num = row[2]
-		type = row[3]
-		# they are a representative, so we use district numbers
-		if type == 'rep':
-			if district_num == 0:
-				district_num = 1
-			if int(district_num) < 10:
-				district_num = "0%s" % district_num
-			else:
-				district_num = str(district_num)
-			state_district = "%s-%s" % (state, district_num)
-			reps[state_district] = {
-				'aclu_id': aclu_id,
-				'last_name': row[4]
-			}
-		# they are a senator, so we expect more than one per state
-		else:
-			if not state in sens:
-				sens[state] = []
-			found = False
-			for rep in sens[state]:
-				if rep['last_name'] == row[4]:
-					found = True
-
-			if not found:
-				sens[state].append({
-					'aclu_id': aclu_id,
-					'last_name': row[4]
-				})
-
-def get_rep_id(state_district, name):
-	if not state_district in reps:
-		return None
-	rep = reps[state_district]
-	name = strip_accents(name)
-	lname = strip_accents(rep["last_name"])
-	if name.find(lname) == -1:
-		print("Warning: could not find %s" % name)
-	return rep["aclu_id"]
-
-def get_sen_id(state, name):
-	found = False
-	name = strip_accents(name)
-	for rep in sens[state]:
-		lname = strip_accents(rep["last_name"])
-		if name.find(lname) != -1:
-			legislator_id = rep["aclu_id"]
-			found = True
-			break
-	if not found:
-		return None
-	return legislator_id
-
 if __name__ == "__main__":
 
 	# NOTE: there are two blocks of code here that look pretty similar, but vary
@@ -181,7 +111,7 @@ if __name__ == "__main__":
 		for row in reader:
 
 			name = row.pop(0)
-			id = row.pop(0)
+			legislator_id = row.pop(0)
 			state_district = row.pop(0)
 			party = row.pop(0)
 			total_score = row.pop(0)
@@ -199,54 +129,46 @@ if __name__ == "__main__":
 			elif row_num == 2:
 				aclu_position = row
 			elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
-
 				print(name)
 
-				if state_district in reps:
-					col_num = 0
+				col_num = 0
 
-					legislator_id = get_rep_id(state_district, name)
-					if not legislator_id:
-						print("COULD NOT FIND %s" % name)
-						print(reps[state_district])
+				for col in row:
+
+					score_num = headers[col_num]
+					if not re.search('^\d+$', score_num):
+						col_num += 1
 						continue
 
-					for col in row:
+					if aclu_position[col_num] == 'ACLU Opposed':
+						position = 'opposed'
+					elif aclu_position[col_num] == 'ACLU Supported':
+						position = 'supported'
+					else:
+						print('WARNING: unknown position for column num %s: %s' % (col_num, aclu_position[col_num]))
+						position = 'unknown'
 
-						score_num = headers[col_num]
-						if not re.search('^\d+$', score_num):
-							col_num += 1
-							continue
+					score_num = headers[col_num]
+					aclu_id = 'aclu/us-congress-%d/rep_score:%s' % (session, score_num)
+					name = bills[col_num]
+					value = row[col_num]
 
-						if aclu_position[col_num] == 'ACLU Opposed':
-							position = 'opposed'
-						elif aclu_position[col_num] == 'ACLU Supported':
-							position = 'supported'
-						else:
-							print('WARNING: unknown position for column num %s: %s' % (col_num, aclu_position[col_num]))
-							position = 'unknown'
+					if value == '1' or value == '0':
+						votes_total += 1
+						if value == '1':
+							votes_agreed += 1
 
-						score_num = headers[col_num]
-						aclu_id = 'aclu/us-congress-%d/rep_score:%s' % (session, score_num)
-						name = bills[col_num]
-						value = row[col_num]
-
-						if value == '1' or value == '0':
-							votes_total += 1
-							if value == '1':
-								votes_agreed += 1
-
-						values = [
-							aclu_id,
-							legislator_id,
-							session,
-							position,
-							name,
-							value
-						]
-						values = tuple(values)
-						cur.execute(legislator_score_insert_sql, values)
-						col_num += 1
+					values = [
+						aclu_id,
+						legislator_id,
+						session,
+						position,
+						name,
+						value
+					]
+					values = tuple(values)
+					cur.execute(legislator_score_insert_sql, values)
+					col_num += 1
 
 					congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
 					congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
@@ -273,7 +195,7 @@ if __name__ == "__main__":
 		for row in reader:
 
 			name = row.pop(0)
-			id = row.pop(0)
+			legislator_id = row.pop(0)
 			state = row.pop(0)
 			party = row.pop(0)
 			total_score = row.pop(0)
@@ -292,12 +214,6 @@ if __name__ == "__main__":
 				aclu_position = row
 			elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
 				print name
-
-				legislator_id = get_sen_id(state, name)
-				if not legislator_id:
-					print("COULD NOT FIND senator %s" % name)
-					print(sens[state])
-					continue
 
 				col_num = 0
 				for col in row:

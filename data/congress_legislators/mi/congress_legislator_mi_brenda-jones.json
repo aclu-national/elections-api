@@ -1,0 +1,38 @@
+{
+  "bio": {
+    "birthday": "1959-10-24", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11612", 
+    "ballotpedia": "Brenda Jones (Michigan)", 
+    "bioguide": "J000303", 
+    "fec": [
+      "H8MI13243"
+    ], 
+    "govtrack": 412752, 
+    "opensecrets": "N00042648", 
+    "wikidata": "Q58806791", 
+    "wikipedia": "Brenda Jones (politician)"
+  }, 
+  "name": {
+    "first": "Brenda", 
+    "last": "Jones", 
+    "middle": "B.", 
+    "official_full": "Brenda Jones"
+  }, 
+  "terms": [
+    {
+      "address": "2426 Rayburn House Office Building; Washington DC 20515-2213", 
+      "district": 13, 
+      "end": "2019-01-03", 
+      "office": "2426 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5126", 
+      "start": "2018-11-29", 
+      "state": "MI", 
+      "type": "rep"
+    }
+  ], 
+  "url_slug": "mi-brenda-jones"
+}

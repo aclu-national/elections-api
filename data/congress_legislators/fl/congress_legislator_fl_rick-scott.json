@@ -22,11 +22,17 @@
     "last": "Scott", 
     "official_full": "Rick Scott"
   }, 
+  "social": {
+    "facebook": "RickScottSenOffice", 
+    "twitter": "SenRickScott", 
+    "twitter_id": 131546062, 
+    "youtube_id": "UC-Y9pFmW4PYGZHkC8lcqSkQ"
+  }, 
   "terms": [
     {
       "address": "716 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
-      "contact_form": "mailto:help@rickscott.senate.gov", 
+      "contact_form": "https://www.rickscott.senate.gov/contact_rick", 
       "end": "2025-01-03", 
       "office": "716 Hart Senate Office Building", 
       "party": "Republican", 
@@ -35,7 +41,7 @@
       "state": "FL", 
       "state_rank": "junior", 
       "type": "sen", 
-      "url": "https://www.senate.gov/senators/116thCongress/ScottRick.htm"
+      "url": "https://www.rickscott.senate.gov"
     }
   ], 
   "url_slug": "fl-rick-scott"

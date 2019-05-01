@@ -118,6 +118,7 @@ if __name__ == "__main__":
 
 				votes_total = 0
 				votes_agreed = 0
+				legislator_id = "aclu/elections-api/congress_legislator:%s" % legislator_id
 
 				if name == 'LEGEND:':
 					break
@@ -149,7 +150,7 @@ if __name__ == "__main__":
 							print('WARNING: unknown position for column num %s: %s' % (col_num, aclu_position[col_num]))
 							position = 'unknown'
 
-						aclu_id = 'aclu/us-congress-%d/rep_score:%s' % (session, score_num)
+						aclu_id = 'aclu/us-congress-%d/%s_score:%s' % (session, chamber, score_num)
 						name = bills[col_num]
 						value = row[col_num]
 

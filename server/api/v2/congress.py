@@ -164,16 +164,23 @@ def get_district_by_id(aclu_id):
 def get_all_legislators(include=None, session_num=curr_session):
 
 	sessions = get_sessions()
-	session = sessions[session_num]
 
 	cur = flask.g.db.cursor()
-	cur.execute('''
-		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
-		FROM congress_legislator_terms
-		WHERE start_date >= '{start_date}' AND end_date <= '{end_date}'
-	       OR start_date <= '{start_date}' AND end_date >= '{end_date}'
-		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']))
+	if session_num == 'all':
+		cur.execute('''
+			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
+			FROM congress_legislator_terms
+			ORDER BY end_date DESC
+		''')
+	else:
+		session = sessions[session_num]
+		cur.execute('''
+			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
+			FROM congress_legislator_terms
+			WHERE start_date >= '{start_date}' AND end_date <= '{end_date}'
+					OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+			ORDER BY end_date DESC
+		'''.format(start_date=session['start_date'], end_date=session['end_date']))
 
 	return get_legislators(cur, "total", include, session_num)
 

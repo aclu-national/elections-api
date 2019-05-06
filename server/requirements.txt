@@ -9,3 +9,4 @@ ics
 maxminddb
 us
 requests
+pytest

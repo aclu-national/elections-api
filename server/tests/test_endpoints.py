@@ -1,56 +1,66 @@
 #!/usr/bin/env python
 
-# from flask import request, jsonify
 import pytest
-import json
 
 # ---------------
-# Top-level endpoints(?)
+# Ensure that we're returning json and HTTP status code 200 for each valid endpoint.
 # ---------------
 
-def test_endpoint(client):
-	"""
-	Test '/' route. is there a better name for this function
-	"""
-	res = client.get('/')
-	json_data = res.get_json()
-	assert json_data['ok'] == False
+VALID_ENDPOINTS = [
 
-def test_v1(client):
-	"""
-	Test '/v1/' route
-	"""
-	res = client.get('/v1/')
-	json_data = res.get_json()
-	assert json_data['ok'] == False
+	# Top-level(?) endpoints
+	'/',
+	'/v1/',
+	'/v2/',
 
-def test_v2(client):
-	"""
-	Test '/v2/' route
-	"""
-	res = client.get('/v2/')
-	json_data = res.get_json()
-	assert json_data['ok'] == False
+	# v1 endpoints
+	'/v1/apple_wallet', 
+	'/v1/calendar',
+	'/v1/congress',
+	'/v1/congress/district',
+	'/v1/congress/legislators',
+	'/v1/congress/scores',
+	'/v1/county',
+	'/v1/geoip', 
+	'/v1/google_civic_info',
+	'/v1/pip', 
+	'/v1/state',
+	'/v1/state_leg', 
+	
+	# v2 endpoints
+	'/v2/apple_wallet', 
+	'/v2/calendar',
+	'/v2/congress',
+	'/v2/congress/district',
+	'/v2/congress/legislators',
+	'/v2/congress/scores',
+	'/v2/county',
+	'/v2/geoip', 
+	'/v2/google_civic_info',
+	'/v2/pip', 
+	'/v2/state',
+	'/v2/state_leg'
+]
 
-# ---------------
-# V1 Endpoints
-# ---------------
+@pytest.mark.parametrize('endpoint', VALID_ENDPOINTS)
+def test_json_response(endpoint, client):
+	"""
+	Asserts that an endpoint returns a json response.
+	This creates a test case for each endpoint in VALID_ENDPOINTS
+	"""
+	response = client.get(endpoint)
+	json_data = response.get_json()
+	assert (json_data != None), "Endpoint "+endpoint+" did not return json"
 
-def test_v1_pip(client):
-	"""
-	Test '/v1/pip' route without data
-	"""
-	res = client.get('/v1/pip')
-	json_data = res.get_json()
-	assert json_data['ok'] == False
 
-def test_v1_congress_legislators(client):
+@pytest.mark.parametrize('endpoint', VALID_ENDPOINTS)
+def test_status_code(endpoint, client):
 	"""
-	Test '/v1/congress/legislators' route
+	Asserts that an endpoint returns HTTP status code 200.
+	This creates a test case for each endpoint in VALID_ENDPOINTS
 	"""
-	res = client.get('/v1/congress/legislators')
-	json_data = res.get_json()
-	assert json_data['ok'] == True
-
+	response = client.get(endpoint)
+	json_data = response.get_json()
+	assert (response.status_code == 200), "Expected status code 200, got "+response.status_code
 
 

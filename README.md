@@ -239,3 +239,14 @@ $ siege -c 50 -t 15S -f server/test_urls.txt -i
 * [The Unified Judicial System of Pennsylvania](http://www.pacourts.us/news-and-statistics/cases-of-public-interest/league-of-women-voters-et-al-v-the-commonwealth-of-pennsylvania-et-al-159-mm-2017)
 * [@unitedstates](https://github.com/unitedstates/congress-legislators)
 * [Ballotpedia](https://ballotpedia.org/Main_Page) (not available for public release)
+
+## Testing the API
+
+This assumes you have the `pytest` package installed.
+To run the tests:
+
+```
+$ cd server
+$ pytest -s
+```
+The `-s` is optional but will allow you to view anything printed to `stdout` etc. 

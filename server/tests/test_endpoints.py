@@ -34,7 +34,6 @@ def test_v2(client):
 
 # ---------------
 # V1 Endpoints
-# TODO test all of em here
 # ---------------
 
 def test_v1_pip(client):

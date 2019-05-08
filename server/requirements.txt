@@ -9,4 +9,4 @@ ics
 maxminddb
 us
 requests
-pytest
+pytest==4.4.1

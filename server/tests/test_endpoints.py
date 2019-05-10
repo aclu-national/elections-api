@@ -3,7 +3,11 @@
 import pytest
 
 # ---------------
-# Ensure that we're returning json and HTTP status code 200 for each valid endpoint.
+# For each valid endpoint, ensure that we're returning:
+# 	- JSON response
+# 	- HTTP status code 200
+# 
+# Note: pytest.mark.parametrize creates a test case for each endpoint in VALID_ENDPOINTS
 # ---------------
 
 VALID_ENDPOINTS = [
@@ -45,22 +49,17 @@ VALID_ENDPOINTS = [
 @pytest.mark.parametrize('endpoint', VALID_ENDPOINTS)
 def test_json_response(endpoint, client):
 	"""
-	Asserts that an endpoint returns a json response.
-	This creates a test case for each endpoint in VALID_ENDPOINTS
+	Asserts that an endpoint returns a JSON response.
 	"""
 	response = client.get(endpoint)
 	json_data = response.get_json()
-	assert (json_data != None), "Endpoint "+endpoint+" did not return json"
-
+	assert (json_data != None), "Endpoint "+endpoint+" did not return JSON"
 
 @pytest.mark.parametrize('endpoint', VALID_ENDPOINTS)
 def test_status_code(endpoint, client):
 	"""
 	Asserts that an endpoint returns HTTP status code 200.
-	This creates a test case for each endpoint in VALID_ENDPOINTS
 	"""
 	response = client.get(endpoint)
 	json_data = response.get_json()
 	assert (response.status_code == 200), "Expected status code 200, got "+response.status_code
-
-

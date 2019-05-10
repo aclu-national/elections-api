@@ -247,6 +247,7 @@ To run the tests:
 
 ```
 $ cd server
-$ pytest -s
+$ pytest -v -s
 ```
-The `-s` is optional but will allow you to view anything printed to `stdout` etc. 
+`-v` is optional, prints verbose output.
+`-s` is also optional, will allow you to view anything printed to `stdout` or `stderr`. 

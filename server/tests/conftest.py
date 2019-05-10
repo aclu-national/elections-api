@@ -4,10 +4,6 @@ import server
 import pytest
 import os
 
-# @pytest.fixture
-# def app():
-# 	app = server.app
-# 	return app
 
 @pytest.fixture
 def client():

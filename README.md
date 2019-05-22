@@ -201,6 +201,8 @@ You can also reindex selected database tables.
 $ make elections
 ```
 
+WARNING: If you want to update the scores, by running `make congress_scores`, make sure to run `make congress_details` first. You can chain these together as one command: `make congress_details && make congress_scores`
+
 ## Restarting the server
 
 When the API server code changes, the application server needs to be restarted after `git pull`ing the changes. Be sure to create a CloudFront invalidation for the new results to take effect.

@@ -247,7 +247,8 @@ To run the tests:
 
 ```
 $ cd server
-$ pytest -v -s
+$ pytest -v --tb=short -p no:warnings
 ```
-`-v` is optional, prints verbose output.
-`-s` is also optional, will allow you to view anything printed to `stdout` or `stderr`. 
+`-v` is optional, prints a statement after each test.
+`--tb=short` is also optional, but makes the errors easier to scan as it shortens the traceback.
+`-p no:warnings` is also optional, but not including this will print many warnings about missing legislator optional fields.

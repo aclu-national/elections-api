@@ -251,4 +251,4 @@ $ pytest -v --tb=short -p no:warnings
 ```
 `-v` is optional, prints a statement after each test.
 `--tb=short` is also optional, but makes the errors easier to scan as it shortens the traceback.
-`-p no:warnings` is also optional, but not including this will print many warnings about missing legislator optional fields.
+`-p no:warnings` is also optional, but not including this will cause the printing of many warnings about missing non-required legislator data.

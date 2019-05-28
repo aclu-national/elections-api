@@ -22,7 +22,7 @@ ENDPOINTS = [
     {
         'version': 'v2',
         'endpoint': '/v2/congress/legislators?session=115',
-        'legislator_count': 540 #why did this change?
+        'legislator_count': 540
     },
     {
         'version': 'v2',
@@ -54,7 +54,7 @@ LEGISLATOR_FIELDS = [
         'field': 'id',
         'required': True,
         'required_subfields': ['aclu_id'],
-        'optional_subfields': ['ballotpedia', 'bioguide', 'fec', 'google_entity_id', 'govtrack', 'icpsr', 'lis', 'maplight', 'opensecrets', 'thomas', 'votesmart', 'wikidata', 'wikipedia']
+        'optional_subfields': ['ballotpedia', 'bioguide', 'fec', 'google_entity_id', 'govtrack', 'house_history', 'icpsr', 'lis', 'maplight', 'opensecrets', 'thomas', 'votesmart', 'wikidata', 'wikipedia']
     },
     {
         'field': 'name',
@@ -84,13 +84,13 @@ LEGISLATOR_FIELDS = [
         'field': 'social',
         'required': True,
         'required_subfields': [],
-        'optional_subfields': ['facebook', 'instagram', 'twitter', 'twitter_id', 'youtube', 'youtube_id']
+        'optional_subfields': ['facebook', 'instagram', 'instagram_id', 'twitter', 'twitter_id', 'youtube', 'youtube_id']
     },
     {
         'field': 'term',
         'required': True,
         'required_subfields': ['end_date', 'office', 'party', 'start_date', 'state', 'state_full'],
-        'optional_subfields': ['class', 'state_rank']
+        'optional_subfields': ['district_num', 'class', 'state_rank']
     },
     {
         'field': 'url_slug',
@@ -99,6 +99,12 @@ LEGISLATOR_FIELDS = [
         'optional_subfields': []
     }
 ]
+
+# Each field in the sessions objects returned in v2/congress/legislators
+SESSION_FIELDS = {
+    'required_subfields': ['display_name', 'session', 'total_score', 'votes_agreed', 'votes_total'],
+    'optional_subfields': []
+}
 
 
 # ---------------
@@ -166,10 +172,19 @@ def test_legislator_required_subfields(endpoint, client):
 def test_legislator_optional_subfields(endpoint, client):
     """
     Asserts that all legislators in a given endpoint have all optional subfields.
-    Note: This will only throw up a warning if fields are missing.
+    Note: This will only show a warning (not raise an error) if fields are missing
     """
     fields = all_optional_subfields()
     assert legislators_have_fields(fields, endpoint, client, required=False)
+
+@pytest.mark.parametrize('endpoint', v2_endpoints())
+def test_legislator_sessions(endpoint, client):
+    """
+    Asserts that all legislators in a given endpoint have the subfields required for sessions
+    """
+    fields = SESSION_FIELDS['required_subfields']
+    assert legislators_have_sessions_fields(fields, endpoint, client, required=True)
+
 
 # ---------------
 # Helpers
@@ -177,7 +192,7 @@ def test_legislator_optional_subfields(endpoint, client):
 
 def valid_json_keys(json_data, keys):
     """
-    Checks that a sequence of keys exists in a json object
+    Checks that a sequence of keys exists in a json object. 
     """
     obj = json_data
     try:
@@ -203,12 +218,12 @@ def legislators_have_fields(fields, endpoint, client, required):
             if not valid_json_keys(legislator, field):
                 incomplete_legislators.append((legislator, field))
 
+    # Format and raise error / warn
     if len(incomplete_legislators) != 0:
         error_message = "\n----------------\n"
         error_message += "Endpoint %s" % (endpoint)
         error_message += "\n----------------\n"
-        error_message += "\t"
-        error_message += '\n\t'.join(map(lambda x: format_legislator_error(x[0], x[1]), incomplete_legislators))
+        error_message += '\n'.join(map(lambda x: format_legislator_error(x[0], x[1]), incomplete_legislators))
         if (required):
             raise AssertionError(error_message)
         else:
@@ -216,6 +231,40 @@ def legislators_have_fields(fields, endpoint, client, required):
             return True
     else:
         return True
+
+def legislators_have_sessions_fields(fields, endpoint, client, required):
+    """
+    Checks that all legislators in a given endpoint have properly structured 'sessions' objects
+    Raises AssertionError if any 'sessions' fields are missing
+    """
+    response = client.get(endpoint)
+    json_data = response.get_json()
+    legislators = json_data['congress_legislators']
+
+    # Check each legislator for their 'sessions' list
+    incomplete_legislators = []
+    for legislator in legislators:
+        if ('sessions' in legislator and len(legislator['sessions']) >= 0):
+            sessions = legislator['sessions']
+            for session in sessions: #this checks each session
+                for field in fields:
+                    if not valid_json_keys(session, [field]):
+                        incomplete_legislators.append((legislator, ['sessions', field]))
+
+    # Format and raise error / warn
+    if len(incomplete_legislators) != 0:
+        error_message = "\n----------------\n"
+        error_message += "Endpoint %s" % (endpoint)
+        error_message += "\n----------------\n"
+        error_message += '\n'.join(map(lambda x: format_legislator_error(x[0], x[1]), incomplete_legislators))
+        if (required):
+            raise AssertionError(error_message)
+        else:
+            warnings.warn(UserWarning(error_message.encode('utf-8')))
+            return True
+    else:
+        return True
+
 
 def format_legislator_error(legislator, field):
 	# Todo: raise an exception if the legislator doesn't have a full name ?

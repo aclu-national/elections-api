@@ -417,7 +417,9 @@ def congress_legislators():
 	id = flask.request.args.get('id', None)
 	url_slug = flask.request.args.get('url_slug', None)
 	include = flask.request.args.get('include', None)
-	session = int(flask.request.args.get('session', curr_session))
+	session = flask.request.args.get('session', curr_session)
+	if session != 'all':
+		session = int(session)
 
 	if id:
 		legislators = congress_api.get_legislators_by_id(id, include, session)

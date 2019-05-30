@@ -29,11 +29,11 @@ ENDPOINTS = [
         'endpoint': '/v2/congress/legislators?session=116',
         'legislator_count': 537
     },
-    # {
-    #   'version': 'v2',
-    #   'endpoint': '/v2/congress/legislators?session=all',
-    #   'legislator_count': 537
-    # }
+    {
+        'version': 'v2',
+        'endpoint': '/v2/congress/legislators?session=all',
+        'legislator_count': 635
+    }
 ]
 
 # Each field in 'congress/legislators' that we'd like to test

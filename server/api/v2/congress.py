@@ -448,6 +448,18 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			legislators[aclu_id]['social'][key] = value
 
 	if score_filter == 'all':
+
+		vote_dates = {}
+		cur.execute('''
+			SELECT aclu_id, vote_date
+			FROM congress_legislator_score_index
+		''')
+		rs = cur.fetchall()
+		if rs:
+			for row in rs:
+				vote_id = row[0]
+				vote_dates[vote_id] = arrow.get(row[1]).format('YYYY-MM-DD')
+
 		cur.execute('''
 			SELECT aclu_id, session, legislator_id, position, name, value
 			FROM congress_legislator_scores
@@ -535,7 +547,14 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 					if s['session'] == session:
 						if not 'scores' in s:
 							s['scores'] = []
-						s['scores'].append(score)
+						id = score['aclu_id']
+						score['vote_date'] = vote_dates[id]
+
+						# This conditional exists to ensure we don't include
+						# votes that occur after someone's term ends (e.g., they
+						# pass away). (20191028/dphiffer)
+						if score['vote_date'] <= legislators[legislator_id]['term']['end_date']:
+							s['scores'].append(score)
 
 	cur.execute('''
 		SELECT legislator_id, session

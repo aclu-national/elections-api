@@ -403,6 +403,14 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 					legislators[aclu_id]['contact'] = {}
 				legislators[aclu_id]['contact'][key] = value
 
+	for aclu_id in legislators:
+		# district_num = 98 is how the Census denotes non-state districts.
+		term = legislators[aclu_id]['term']
+		if term['office'] == 'us_representative' and term['district_num'] == 98:
+			legislators[aclu_id]['term']['is_delegate'] = True
+		else:
+			legislators[aclu_id]['term']['is_delegate'] = False
+
 	cur.execute('''
 		SELECT aclu_id, concordance_name, concordance_value
 		FROM congress_legislator_concordances

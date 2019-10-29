@@ -171,9 +171,9 @@ if __name__ == "__main__":
 						cur.execute(legislator_score_insert_sql, values)
 						col_num += 1
 
-						congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
-						congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
-						congress_details.add_legislator_detail(legislator_id, session, 'total_score', total_score)
+					congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
+					congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
+					congress_details.add_legislator_detail(legislator_id, session, 'total_score', total_score)
 
 				row_num = row_num + 1
 

@@ -10,6 +10,8 @@
       "H6MD08549"
     ], 
     "govtrack": 412783, 
+    "icpsr": 21978, 
+    "opensecrets": "N00039122", 
     "votesmart": 167336, 
     "wikidata": "Q29446408", 
     "wikipedia": "David Trone"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "MD", 
       "type": "rep", 
-      "url": "https://trone.house.gov/"
+      "url": "https://trone.house.gov"
     }
   ], 
   "url_slug": "md-david-trone"

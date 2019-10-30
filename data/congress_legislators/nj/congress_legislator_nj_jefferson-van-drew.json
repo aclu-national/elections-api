@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/08h3sl", 
     "govtrack": 412796, 
+    "icpsr": 21980, 
+    "opensecrets": "N00042164", 
     "votesmart": 24685, 
     "wikidata": "Q6175202", 
     "wikipedia": "Jeff Van Drew"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "NJ", 
       "type": "rep", 
-      "url": "https://vandrew.house.gov/"
+      "url": "https://vandrew.house.gov"
     }
   ], 
   "url_slug": "nj-jefferson-van-drew"

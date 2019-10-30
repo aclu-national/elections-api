@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0nfwmy_", 
     "govtrack": 412809, 
+    "icpsr": 21915, 
+    "opensecrets": "N00042894", 
     "votesmart": 136484, 
     "wikidata": "Q6726900", 
     "wikipedia": "Madeleine Dean"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "PA", 
       "type": "rep", 
-      "url": "https://dean.house.gov/"
+      "url": "https://dean.house.gov"
     }
   ], 
   "url_slug": "pa-madeleine-dean"

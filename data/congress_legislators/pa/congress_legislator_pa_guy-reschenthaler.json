@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/g/11bwn3bsvm", 
     "govtrack": 412813, 
+    "icpsr": 21956, 
+    "opensecrets": "N00041871", 
     "votesmart": 166004, 
     "wikidata": "Q22096097", 
     "wikipedia": "Guy Reschenthaler"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "PA", 
       "type": "rep", 
-      "url": "https://reschenthaler.house.gov/"
+      "url": "https://reschenthaler.house.gov"
     }
   ], 
   "url_slug": "pa-guy-reschenthaler"

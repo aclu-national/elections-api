@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0102fnyn", 
     "govtrack": 412837, 
+    "icpsr": 21946, 
+    "opensecrets": "N00041542", 
     "votesmart": 52123, 
     "wikidata": "Q16145531", 
     "wikipedia": "Carol Miller (politician)"
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "WV", 
       "type": "rep", 
-      "url": "https://miller.house.gov/"
+      "url": "https://miller.house.gov"
     }
   ], 
   "url_slug": "wv-carol-miller"

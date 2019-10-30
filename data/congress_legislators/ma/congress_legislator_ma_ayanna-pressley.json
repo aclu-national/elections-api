@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0bmh9vc", 
     "govtrack": 412782, 
+    "icpsr": 21955, 
+    "opensecrets": "N00042581", 
     "votesmart": 122700, 
     "wikidata": "Q13562359", 
     "wikipedia": "Ayanna Pressley"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "MA", 
       "type": "rep", 
-      "url": "https://pressley.house.gov/"
+      "url": "https://pressley.house.gov"
     }
   ], 
   "url_slug": "ma-ayanna-pressley"

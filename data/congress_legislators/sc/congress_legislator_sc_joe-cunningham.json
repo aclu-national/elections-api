@@ -10,6 +10,8 @@
       "H8SC01116"
     ], 
     "govtrack": 412814, 
+    "icpsr": 21913, 
+    "opensecrets": "N00041400", 
     "votesmart": 179601, 
     "wikidata": "Q58993183", 
     "wikipedia": "Joe Cunningham (American politician)"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "SC", 
       "type": "rep", 
-      "url": "https://cunningham.house.gov/"
+      "url": "https://cunningham.house.gov"
     }
   ], 
   "url_slug": "sc-joe-cunningham"

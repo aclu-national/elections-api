@@ -11,6 +11,8 @@
       "H8PA06087"
     ], 
     "govtrack": 412810, 
+    "icpsr": 21934, 
+    "opensecrets": "N00040949", 
     "votesmart": 178893, 
     "wikidata": "Q56274180", 
     "wikipedia": "Chrissy Houlahan"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "PA", 
       "type": "rep", 
-      "url": "https://houlahan.house.gov/"
+      "url": "https://houlahan.house.gov"
     }
   ], 
   "url_slug": "pa-chrissy-houlahan"

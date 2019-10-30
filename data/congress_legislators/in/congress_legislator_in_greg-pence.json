@@ -10,6 +10,8 @@
       "H8IN06129"
     ], 
     "govtrack": 412778, 
+    "icpsr": 21952, 
+    "opensecrets": "N00041956", 
     "votesmart": 177876, 
     "wikidata": "Q52151577", 
     "wikipedia": "Greg Pence"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "IN", 
       "type": "rep", 
-      "url": "https://pence.house.gov/"
+      "url": "https://pence.house.gov"
     }
   ], 
   "url_slug": "in-greg-pence"

@@ -10,6 +10,8 @@
       "H8MN08043"
     ], 
     "govtrack": 412792, 
+    "icpsr": 21969, 
+    "opensecrets": "N00041511", 
     "votesmart": 159954, 
     "wikidata": "Q55955746", 
     "wikipedia": "Pete Stauber"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "MN", 
       "type": "rep", 
-      "url": "https://stauber.house.gov/"
+      "url": "https://stauber.house.gov"
     }
   ], 
   "url_slug": "mn-pete-stauber"

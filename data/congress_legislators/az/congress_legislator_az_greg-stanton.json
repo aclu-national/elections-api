@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0hgrxqb", 
     "govtrack": 412753, 
+    "icpsr": 21968, 
+    "opensecrets": "N00041750", 
     "votesmart": 72030, 
     "wikidata": "Q5606289", 
     "wikipedia": "Greg Stanton"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "AZ", 
       "type": "rep", 
-      "url": "https://stanton.house.gov/"
+      "url": "https://stanton.house.gov"
     }
   ], 
   "url_slug": "az-greg-stanton"

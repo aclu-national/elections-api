@@ -10,6 +10,8 @@
       "H8PA13125"
     ], 
     "govtrack": 412812, 
+    "icpsr": 21936, 
+    "opensecrets": "N00043242", 
     "wikidata": "Q60428839", 
     "wikipedia": "John Joyce (American politician)"
   }, 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "PA", 
       "type": "rep", 
-      "url": "https://johnjoyce.house.gov/"
+      "url": "https://johnjoyce.house.gov"
     }
   ], 
   "url_slug": "pa-john-joyce"

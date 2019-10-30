@@ -10,6 +10,8 @@
       "H8NJ03206"
     ], 
     "govtrack": 412797, 
+    "icpsr": 21937, 
+    "opensecrets": "N00041370", 
     "wikidata": "Q55639180", 
     "wikipedia": "Andy Kim (politician)"
   }, 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "NJ", 
       "type": "rep", 
-      "url": "https://kim.house.gov/"
+      "url": "https://kim.house.gov"
     }
   ], 
   "url_slug": "nj-andy-kim"

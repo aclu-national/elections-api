@@ -10,6 +10,8 @@
       "H8SD01055"
     ], 
     "govtrack": 412816, 
+    "icpsr": 21935, 
+    "opensecrets": "N00040559", 
     "votesmart": 48307, 
     "wikidata": "Q30015838", 
     "wikipedia": "Dusty Johnson"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "SD", 
       "type": "rep", 
-      "url": "https://dustyjohnson.house.gov/"
+      "url": "https://dustyjohnson.house.gov"
     }
   ], 
   "url_slug": "sd-dusty-johnson"

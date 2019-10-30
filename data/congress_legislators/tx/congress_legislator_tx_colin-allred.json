@@ -10,6 +10,8 @@
       "H8TX32098"
     ], 
     "govtrack": 412828, 
+    "icpsr": 21900, 
+    "opensecrets": "N00040989", 
     "votesmart": 177357, 
     "wikidata": "Q5144845", 
     "wikipedia": "Colin Allred"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://allred.house.gov/"
+      "url": "https://allred.house.gov"
     }
   ], 
   "url_slug": "tx-colin-allred"

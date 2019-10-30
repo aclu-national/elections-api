@@ -10,6 +10,8 @@
       "H8IL14174"
     ], 
     "govtrack": 412776, 
+    "icpsr": 21979, 
+    "opensecrets": "N00041569", 
     "votesmart": 177001, 
     "wikidata": "Q48471874", 
     "wikipedia": "Lauren Underwood"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "IL", 
       "type": "rep", 
-      "url": "https://underwood.house.gov/"
+      "url": "https://underwood.house.gov"
     }
   ], 
   "url_slug": "il-lauren-underwood"

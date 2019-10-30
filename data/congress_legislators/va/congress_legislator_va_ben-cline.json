@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/04yf6mk", 
     "govtrack": 412832, 
+    "icpsr": 21908, 
+    "opensecrets": "N00042296", 
     "votesmart": 50959, 
     "wikidata": "Q4885439", 
     "wikipedia": "Ben Cline"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "VA", 
       "type": "rep", 
-      "url": "https://cline.house.gov/"
+      "url": "https://cline.house.gov"
     }
   ], 
   "url_slug": "va-ben-cline"

@@ -11,6 +11,8 @@
       "H8CA10126"
     ], 
     "govtrack": 412754, 
+    "icpsr": 21930, 
+    "opensecrets": "N00040853", 
     "votesmart": 179326, 
     "wikidata": "Q58494468", 
     "wikipedia": "Josh Harder"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
-      "url": "https://harder.house.gov/"
+      "url": "https://harder.house.gov"
     }
   ], 
   "url_slug": "ca-josh-harder"

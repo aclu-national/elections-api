@@ -12,7 +12,9 @@
     ], 
     "google_entity_id": "kg:/g/11bwy_95zy", 
     "govtrack": 412840, 
+    "icpsr": 41901, 
     "lis": "S399", 
+    "opensecrets": "N00041620", 
     "votesmart": 169716, 
     "wikidata": "Q23020745", 
     "wikipedia": "Josh Hawley"
@@ -28,11 +30,11 @@
   }, 
   "terms": [
     {
-      "address": "B40A Dirksen Senate Office Building Washington DC 20510", 
+      "address": "212 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
       "contact_form": "https://www.hawley.senate.gov/contact-senator-hawley", 
       "end": "2025-01-03", 
-      "office": "B40a Dirksen Senate Office Building", 
+      "office": "212 Russell Senate Office Building", 
       "party": "Republican", 
       "phone": "202-224-6154", 
       "start": "2019-01-03", 

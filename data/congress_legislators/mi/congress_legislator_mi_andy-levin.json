@@ -10,6 +10,8 @@
       "H8MI09118"
     ], 
     "govtrack": 412785, 
+    "icpsr": 21940, 
+    "opensecrets": "N00042149", 
     "votesmart": 66287, 
     "wikidata": "Q4760938", 
     "wikipedia": "Andy Levin"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "MI", 
       "type": "rep", 
-      "url": "https://andylevin.house.gov/"
+      "url": "https://andylevin.house.gov"
     }
   ], 
   "url_slug": "mi-andy-levin"

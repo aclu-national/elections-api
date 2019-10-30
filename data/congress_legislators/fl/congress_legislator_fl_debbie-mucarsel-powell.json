@@ -11,6 +11,8 @@
       "H8FL26039"
     ], 
     "govtrack": 412767, 
+    "icpsr": 21947, 
+    "opensecrets": "N00041561", 
     "votesmart": 173449, 
     "wikidata": "Q58323616", 
     "wikipedia": "Debbie Mucarsel-Powell"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "FL", 
       "type": "rep", 
-      "url": "https://mucarsel-powell.house.gov/"
+      "url": "https://mucarsel-powell.house.gov"
     }
   ], 
   "url_slug": "fl-debbie-mucarsel-powell"

@@ -12,6 +12,8 @@
     ], 
     "google_entity_id": "kg:/m/0hhqfyc", 
     "govtrack": 412806, 
+    "icpsr": 21904, 
+    "opensecrets": "N00041385", 
     "votesmart": 135258, 
     "wikidata": "Q4772153", 
     "wikipedia": "Anthony Brindisi"
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "NY", 
       "type": "rep", 
-      "url": "https://brindisi.house.gov/"
+      "url": "https://brindisi.house.gov"
     }
   ], 
   "url_slug": "ny-anthony-brindisi"

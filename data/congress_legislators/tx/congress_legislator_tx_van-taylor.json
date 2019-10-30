@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0f9kk3", 
     "govtrack": 412821, 
+    "icpsr": 21973, 
+    "opensecrets": "N00027709", 
     "wikidata": "Q7913689", 
     "wikipedia": "Van Taylor"
   }, 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://vantaylor.house.gov/"
+      "url": "https://vantaylor.house.gov"
     }
   ], 
   "url_slug": "tx-van-taylor"

@@ -10,6 +10,8 @@
       "H8KS02199"
     ], 
     "govtrack": 412779, 
+    "icpsr": 21982, 
+    "opensecrets": "N00042126", 
     "wikidata": "Q60428824", 
     "wikipedia": "Steve Watkins (politician)"
   }, 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "KS", 
       "type": "rep", 
-      "url": "https://watkins.house.gov/"
+      "url": "https://watkins.house.gov"
     }
   ], 
   "url_slug": "ks-steven-watkins"

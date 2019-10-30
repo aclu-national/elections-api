@@ -10,6 +10,8 @@
       "H8OK05109"
     ], 
     "govtrack": 412808, 
+    "icpsr": 21933, 
+    "opensecrets": "N00041394", 
     "votesmart": 180018, 
     "wikidata": "Q58323559", 
     "wikipedia": "Kendra Horn"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "OK", 
       "type": "rep", 
-      "url": "https://horn.house.gov/"
+      "url": "https://horn.house.gov"
     }
   ], 
   "url_slug": "ok-kendra-horn"

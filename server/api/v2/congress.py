@@ -181,9 +181,9 @@ def get_all_legislators(include=None, session_num=curr_session):
 		cur.execute('''
 			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 			FROM congress_legislator_terms
-			WHERE start_date < '{end_date}' AND end_date > '{start_date}'
+			WHERE start_date < '{session_end_date}' AND end_date > '{session_start_date}'
 			ORDER BY end_date DESC
-		'''.format(start_date=session['start_date'], end_date=session['end_date']))
+		'''.format(session_start_date=session['start_date'], session_end_date=session['end_date']))
 
 	return get_legislators(cur, "total", include, session_num)
 
@@ -197,11 +197,11 @@ def get_legislators_by_state(state, session_num=curr_session):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE (
-			start_date < '{end_date}' AND end_date > '{start_date}'
+			start_date < '{session_end_date}' AND end_date > '{session_start_date}'
 		)
 		AND state = %s
 		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state,))
+	'''.format(session_start_date=session['start_date'], session_end_date=session['end_date']), (state,))
 
 	return get_legislators(cur, "total", None, session_num)
 
@@ -215,7 +215,7 @@ def get_legislators_by_district(state, district_num, session_num=curr_session):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE (
-			start_date < '{end_date}' AND end_date > '{start_date}'
+			start_date < '{session_end_date}' AND end_date > '{session_start_date}'
 		)
 		AND state = %s
 		AND (
@@ -223,7 +223,7 @@ def get_legislators_by_district(state, district_num, session_num=curr_session):
 			district_num = %s
 		)
 		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state, district_num))
+	'''.format(session_start_date=session['start_date'], session_end_date=session['end_date']), (state, district_num))
 
 	return get_legislators(cur, "total", None, session_num)
 

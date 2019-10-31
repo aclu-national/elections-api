@@ -172,10 +172,8 @@ def get_all_legislators(include=None, session_num=curr_session):
 		cur.execute('''
 			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 			FROM congress_legislator_terms
-			WHERE start_date >= '{start_date_115}' AND end_date <= '{end_date_115}'
-				OR start_date <= '{start_date_115}' AND end_date >= '{end_date_115}'
-				OR start_date >= '{start_date_116}' AND end_date <= '{end_date_116}'
-				OR start_date <= '{start_date_116}' AND end_date >= '{end_date_116}'
+			WHERE start_date < '{end_date_115}' AND end_date > '{start_date_115}'
+				OR start_date < '{end_date_116}' AND end_date > '{start_date_116}'
 			ORDER BY end_date DESC
 		'''.format(start_date_115=session_115['start_date'], end_date_115=session_115['end_date'], start_date_116=session_116['start_date'], end_date_116=session_116['end_date']))
 	else:
@@ -183,8 +181,7 @@ def get_all_legislators(include=None, session_num=curr_session):
 		cur.execute('''
 			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 			FROM congress_legislator_terms
-			WHERE start_date >= '{start_date}' AND end_date <= '{end_date}'
-					OR start_date < '{end_date}' AND end_date >= '{end_date}'
+			WHERE start_date < '{end_date}' AND end_date > '{start_date}'
 			ORDER BY end_date DESC
 		'''.format(start_date=session['start_date'], end_date=session['end_date']))
 
@@ -200,8 +197,7 @@ def get_legislators_by_state(state, session_num=curr_session):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE (
-			start_date >= '{start_date}' AND end_date <= '{end_date}'
-			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+			start_date < '{end_date}' AND end_date > '{start_date}'
 		)
 		AND state = %s
 		ORDER BY end_date DESC
@@ -219,8 +215,7 @@ def get_legislators_by_district(state, district_num, session_num=curr_session):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE (
-			start_date >= '{start_date}' AND end_date <= '{end_date}'
-			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+			start_date < '{end_date}' AND end_date > '{start_date}'
 		)
 		AND state = %s
 		AND (

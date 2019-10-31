@@ -11,6 +11,8 @@
       "H8IA01094"
     ], 
     "govtrack": 412771, 
+    "icpsr": 21918, 
+    "opensecrets": "N00040888", 
     "votesmart": 151127, 
     "wikidata": "Q24435337", 
     "wikipedia": "Abby Finkenauer"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "IA", 
       "type": "rep", 
-      "url": "https://finkenauer.house.gov/"
+      "url": "https://finkenauer.house.gov"
     }
   ], 
   "url_slug": "ia-abby-finkenauer"

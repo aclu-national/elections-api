@@ -12,6 +12,7 @@
     ], 
     "google_entity_id": "kg:/m/0zwmkgq", 
     "govtrack": 412745, 
+    "icpsr": 21757, 
     "opensecrets": "N00042056", 
     "votesmart": 106483, 
     "wikidata": "Q16731415", 
@@ -50,7 +51,7 @@
       "start": "2019-01-03", 
       "state": "AZ", 
       "type": "rep", 
-      "url": "https://lesko.house.gov/"
+      "url": "https://lesko.house.gov"
     }
   ], 
   "url_slug": "az-debbie-lesko"

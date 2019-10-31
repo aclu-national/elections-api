@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0ryt4bt", 
     "govtrack": 412827, 
+    "icpsr": 21922, 
+    "opensecrets": "N00042282", 
     "votesmart": 49734, 
     "wikidata": "Q13562489", 
     "wikipedia": "Sylvia Garcia"
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://sylviagarcia.house.gov/"
+      "url": "https://sylviagarcia.house.gov"
     }
   ], 
   "url_slug": "tx-sylvia-garcia"

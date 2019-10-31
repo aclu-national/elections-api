@@ -10,6 +10,8 @@
       "H8CT05245"
     ], 
     "govtrack": 412763, 
+    "icpsr": 21931, 
+    "opensecrets": "N00043421", 
     "votesmart": 181744, 
     "wikidata": "Q24951316", 
     "wikipedia": "Jahana Hayes"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "CT", 
       "type": "rep", 
-      "url": "https://hayes.house.gov/"
+      "url": "https://hayes.house.gov"
     }
   ], 
   "url_slug": "ct-jahana-hayes"

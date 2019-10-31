@@ -11,6 +11,7 @@
     ], 
     "google_entity_id": "kg:/m/0wy0mjt", 
     "govtrack": 412770, 
+    "opensecrets": "N00042619", 
     "wikidata": "Q16221559", 
     "wikipedia": "Michael San Nicolas"
   }, 
@@ -19,6 +20,13 @@
     "last": "San Nicolas", 
     "middle": "F. Q.", 
     "official_full": "Michael F. Q. San Nicolas"
+  }, 
+  "social": {
+    "facebook": "CongressmanMichaelF.Q.SanNicolas", 
+    "instagram": "michael.fq.san.nicolas", 
+    "twitter": "GuamCongressman", 
+    "twitter_id": 346509049, 
+    "youtube_id": "UCVroMJWH3jsh4shPSlp24sw"
   }, 
   "terms": [
     {
@@ -31,7 +39,7 @@
       "start": "2019-01-03", 
       "state": "GU", 
       "type": "rep", 
-      "url": "https://sannicolas.house.gov/"
+      "url": "https://sannicolas.house.gov"
     }
   ], 
   "url_slug": "gu-michael-san-nicolas"

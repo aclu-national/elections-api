@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0gznlq", 
     "govtrack": 412807, 
+    "icpsr": 21924, 
+    "opensecrets": "N00041690", 
     "wikidata": "Q3487172", 
     "wikipedia": "Anthony Gonzalez"
   }, 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "OH", 
       "type": "rep", 
-      "url": "https://anthonygonzalez.house.gov/"
+      "url": "https://anthonygonzalez.house.gov"
     }
   ], 
   "url_slug": "oh-anthony-gonzalez"

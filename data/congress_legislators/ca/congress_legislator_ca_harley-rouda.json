@@ -10,6 +10,8 @@
       "H8CA48035"
     ], 
     "govtrack": 412759, 
+    "icpsr": 21960, 
+    "opensecrets": "N00040666", 
     "votesmart": 179404, 
     "wikidata": "Q58333597", 
     "wikipedia": "Harley Rouda"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
-      "url": "https://rouda.house.gov/"
+      "url": "https://rouda.house.gov"
     }
   ], 
   "url_slug": "ca-harley-rouda"

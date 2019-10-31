@@ -95,7 +95,19 @@
       "district": 3, 
       "end": "2021-01-03", 
       "office": "106 Cannon House Office Building", 
-      "party": "Independent",
+      "party": "Independent", 
+      "party_affiliations": [
+        {
+          "end": "2019-07-07", 
+          "party": "Republican", 
+          "start": "2019-01-03"
+        }, 
+        {
+          "end": "2021-01-03", 
+          "party": "Independent", 
+          "start": "2019-07-08"
+        }
+      ], 
       "phone": "202-225-3831", 
       "rss_url": "http://amash.house.gov/rss.xml", 
       "start": "2019-01-03", 

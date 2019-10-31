@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/012c8r5x", 
     "govtrack": 412774, 
+    "icpsr": 21921, 
+    "opensecrets": "N00042114", 
     "votesmart": 6261, 
     "wikidata": "Q18631698", 
     "wikipedia": "Jes\u00fas \"Chuy\" Garc\u00eda"
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "IL", 
       "type": "rep", 
-      "url": "https://jesusgarcia.house.gov/"
+      "url": "https://chuygarcia.house.gov"
     }
   ], 
   "url_slug": "il-jesus-garcia"

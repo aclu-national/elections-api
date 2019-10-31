@@ -12,6 +12,7 @@
     ], 
     "google_entity_id": "kg:/g/11gdj36kt1", 
     "govtrack": 412744, 
+    "icpsr": 21756, 
     "opensecrets": "N00041870", 
     "votesmart": 177656, 
     "wikidata": "Q43387164", 
@@ -51,7 +52,7 @@
       "start": "2019-01-03", 
       "state": "PA", 
       "type": "rep", 
-      "url": "https://lamb.house.gov/"
+      "url": "https://lamb.house.gov"
     }
   ], 
   "url_slug": "pa-conor-lamb"

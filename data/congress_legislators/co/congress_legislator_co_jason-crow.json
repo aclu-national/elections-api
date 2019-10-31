@@ -10,6 +10,8 @@
       "H8CO06229"
     ], 
     "govtrack": 412762, 
+    "icpsr": 21912, 
+    "opensecrets": "N00040876", 
     "votesmart": 180218, 
     "wikidata": "Q58323071", 
     "wikipedia": "Jason Crow"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "CO", 
       "type": "rep", 
-      "url": "https://crow.house.gov/"
+      "url": "https://crow.house.gov"
     }
   ], 
   "url_slug": "co-jason-crow"

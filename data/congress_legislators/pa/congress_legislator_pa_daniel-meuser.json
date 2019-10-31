@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/03wf1q3", 
     "govtrack": 412811, 
+    "icpsr": 21945, 
+    "opensecrets": "N00029416", 
     "votesmart": 102438, 
     "wikidata": "Q5214012", 
     "wikipedia": "Dan Meuser"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "PA", 
       "type": "rep", 
-      "url": "https://meuser.house.gov/"
+      "url": "https://meuser.house.gov"
     }
   ], 
   "url_slug": "pa-daniel-meuser"

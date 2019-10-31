@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/g/11g6ns21_f", 
     "govtrack": 412815, 
+    "icpsr": 21974, 
+    "opensecrets": "N00042715", 
     "votesmart": 168923, 
     "wikidata": "Q28837296", 
     "wikipedia": "William Timmons (politician)"
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "SC", 
       "type": "rep", 
-      "url": "https://timmons.house.gov/"
+      "url": "https://timmons.house.gov"
     }
   ], 
   "url_slug": "sc-william-timmons"

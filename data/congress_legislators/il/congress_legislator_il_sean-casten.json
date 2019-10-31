@@ -10,6 +10,8 @@
       "H8IL06139"
     ], 
     "govtrack": 412775, 
+    "icpsr": 21906, 
+    "opensecrets": "N00041338", 
     "wikidata": "Q55386655", 
     "wikipedia": "Sean Casten"
   }, 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "IL", 
       "type": "rep", 
-      "url": "https://casten.house.gov/"
+      "url": "https://casten.house.gov"
     }
   ], 
   "url_slug": "il-sean-casten"

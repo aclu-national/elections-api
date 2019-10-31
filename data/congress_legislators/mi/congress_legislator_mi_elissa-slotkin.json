@@ -11,6 +11,8 @@
       "H8MI08102"
     ], 
     "govtrack": 412784, 
+    "icpsr": 21965, 
+    "opensecrets": "N00041357", 
     "votesmart": 181080, 
     "wikidata": "Q30323721", 
     "wikipedia": "Elissa Slotkin"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "MI", 
       "type": "rep", 
-      "url": "https://slotkin.house.gov/"
+      "url": "https://slotkin.house.gov"
     }
   ], 
   "url_slug": "mi-elissa-slotkin"

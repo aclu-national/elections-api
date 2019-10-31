@@ -10,6 +10,8 @@
       "H8CA45130"
     ], 
     "govtrack": 412758, 
+    "icpsr": 21954, 
+    "opensecrets": "N00040865", 
     "votesmart": 179393, 
     "wikidata": "Q58754391", 
     "wikipedia": "Katie Porter"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
-      "url": "https://porter.house.gov/"
+      "url": "https://porter.house.gov"
     }
   ], 
   "url_slug": "ca-katie-porter"

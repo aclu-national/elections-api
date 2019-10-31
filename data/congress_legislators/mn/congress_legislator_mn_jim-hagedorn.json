@@ -10,6 +10,8 @@
       "H0MN01045"
     ], 
     "govtrack": 412788, 
+    "icpsr": 21929, 
+    "opensecrets": "N00031390", 
     "votesmart": 146027, 
     "wikidata": "Q58494532", 
     "wikipedia": "Jim Hagedorn"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "MN", 
       "type": "rep", 
-      "url": "https://hagedorn.house.gov/"
+      "url": "https://hagedorn.house.gov"
     }
   ], 
   "url_slug": "mn-jim-hagedorn"

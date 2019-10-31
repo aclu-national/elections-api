@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0jkx4bp", 
     "govtrack": 412822, 
+    "icpsr": 21925, 
+    "opensecrets": "N00042237", 
     "votesmart": 177282, 
     "wikidata": "Q6483406", 
     "wikipedia": "Lance Gooden"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://gooden.house.gov/"
+      "url": "https://gooden.house.gov"
     }
   ], 
   "url_slug": "tx-lance-gooden"

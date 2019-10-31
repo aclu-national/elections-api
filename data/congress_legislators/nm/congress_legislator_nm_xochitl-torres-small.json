@@ -10,6 +10,8 @@
       "H8NM02248"
     ], 
     "govtrack": 412801, 
+    "icpsr": 21976, 
+    "opensecrets": "N00042467", 
     "votesmart": 177978, 
     "wikidata": "Q58399761", 
     "wikipedia": "Xochitl Torres Small"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "NM", 
       "type": "rep", 
-      "url": "http://torressmall.house.gov"
+      "url": "https://torressmall.house.gov"
     }
   ], 
   "url_slug": "nm-xochitl-torres-small"

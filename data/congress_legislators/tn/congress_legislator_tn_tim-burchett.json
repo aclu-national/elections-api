@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/03yt07", 
     "govtrack": 412817, 
+    "icpsr": 21905, 
+    "opensecrets": "N00041594", 
     "votesmart": 24379, 
     "wikidata": "Q7803244", 
     "wikipedia": "Tim Burchett"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "TN", 
       "type": "rep", 
-      "url": "https://burchett.house.gov/"
+      "url": "https://burchett.house.gov"
     }
   ], 
   "url_slug": "tn-tim-burchett"

@@ -10,6 +10,8 @@
       "H8TN06094"
     ], 
     "govtrack": 412818, 
+    "icpsr": 21959, 
+    "opensecrets": "N00041599", 
     "votesmart": 180452, 
     "wikidata": "Q33044040", 
     "wikipedia": "John Rose (Tennessee politician)"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "TN", 
       "type": "rep", 
-      "url": "https://johnrose.house.gov/"
+      "url": "https://johnrose.house.gov"
     }
   ], 
   "url_slug": "tn-john-rose"

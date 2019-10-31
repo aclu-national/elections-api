@@ -10,6 +10,8 @@
       "H8VA07094"
     ], 
     "govtrack": 412833, 
+    "icpsr": 21966, 
+    "opensecrets": "N00041418", 
     "votesmart": 179682, 
     "wikidata": "Q55603085", 
     "wikipedia": "Abigail Spanberger"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "VA", 
       "type": "rep", 
-      "url": "https://spanberger.house.gov/"
+      "url": "https://spanberger.house.gov"
     }
   ], 
   "url_slug": "va-abigail-spanberger"

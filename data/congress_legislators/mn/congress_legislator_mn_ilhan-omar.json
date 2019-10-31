@@ -10,6 +10,8 @@
       "H8MN05239"
     ], 
     "govtrack": 412791, 
+    "icpsr": 21950, 
+    "opensecrets": "N00043581", 
     "votesmart": 171628, 
     "wikidata": "Q26436159", 
     "wikipedia": "Ilhan Omar"
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "MN", 
       "type": "rep", 
-      "url": "https://omar.house.gov/"
+      "url": "https://omar.house.gov"
     }
   ], 
   "url_slug": "mn-ilhan-omar"

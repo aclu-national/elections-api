@@ -10,6 +10,8 @@
       "H8IN04199"
     ], 
     "govtrack": 412777, 
+    "icpsr": 21903, 
+    "opensecrets": "N00041954", 
     "votesmart": 86013, 
     "wikidata": "Q48813213", 
     "wikipedia": "Jim Baird (American politician)"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "IN", 
       "type": "rep", 
-      "url": "https://baird.house.gov/"
+      "url": "https://baird.house.gov"
     }
   ], 
   "url_slug": "in-james-baird"

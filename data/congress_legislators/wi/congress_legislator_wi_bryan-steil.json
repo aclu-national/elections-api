@@ -10,6 +10,8 @@
       "H8WI01156"
     ], 
     "govtrack": 412836, 
+    "icpsr": 21970, 
+    "opensecrets": "N00043379", 
     "wikidata": "Q58494431", 
     "wikipedia": "Bryan Steil"
   }, 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "WI", 
       "type": "rep", 
-      "url": "https://steil.house.gov/"
+      "url": "https://steil.house.gov"
     }
   ], 
   "url_slug": "wi-bryan-steil"

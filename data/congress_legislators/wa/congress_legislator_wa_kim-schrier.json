@@ -10,6 +10,8 @@
       "H8WA08189"
     ], 
     "govtrack": 412835, 
+    "icpsr": 21962, 
+    "opensecrets": "N00041606", 
     "votesmart": 181124, 
     "wikidata": "Q58333616", 
     "wikipedia": "Kim Schrier"
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "WA", 
       "type": "rep", 
-      "url": "https://schrier.house.gov/"
+      "url": "https://schrier.house.gov"
     }
   ], 
   "url_slug": "wa-kim-schrier"

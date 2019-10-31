@@ -10,7 +10,10 @@
     "fec": [
       "H8CA10167"
     ], 
+    "google_entity_id": "kg:/g/11fj7r9gm5", 
     "govtrack": 412755, 
+    "icpsr": 21909, 
+    "opensecrets": "N00028122", 
     "votesmart": 57197, 
     "wikidata": "Q59306065", 
     "wikipedia": "TJ Cox"
@@ -35,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
-      "url": "https://cox.house.gov/"
+      "url": "https://cox.house.gov"
     }
   ], 
   "url_slug": "ca-tj-cox"

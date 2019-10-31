@@ -10,6 +10,8 @@
       "H8MS03125"
     ], 
     "govtrack": 412793, 
+    "icpsr": 21927, 
+    "opensecrets": "N00042458", 
     "wikidata": "Q60428645", 
     "wikipedia": "Michael Guest (politician)"
   }, 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "MS", 
       "type": "rep", 
-      "url": "https://guest.house.gov/"
+      "url": "https://guest.house.gov"
     }
   ], 
   "url_slug": "ms-michael-guest"

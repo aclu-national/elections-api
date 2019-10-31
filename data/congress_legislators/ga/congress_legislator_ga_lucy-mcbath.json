@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/g/11f647_0gj", 
     "govtrack": 412769, 
+    "icpsr": 21944, 
+    "opensecrets": "N00042813", 
     "votesmart": 178538, 
     "wikidata": "Q54358424", 
     "wikipedia": "Lucy McBath"
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "GA", 
       "type": "rep", 
-      "url": "https://mcbath.house.gov/"
+      "url": "https://mcbath.house.gov"
     }
   ], 
   "url_slug": "ga-lucy-mcbath"

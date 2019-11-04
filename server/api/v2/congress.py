@@ -560,9 +560,9 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 						start_date = legislators[legislator_id]['term']['start_date']
 						end_date = legislators[legislator_id]['term']['end_date']
 
-						# This conditional exists to ensure we don't include
-						# votes that occur after someone's term ends (e.g., they
-						# pass away). (20191028/dphiffer)
+						# This conditional exists to ensure we only include
+						# votes that occur inside of a time span bounded by
+						# the legislators start/end dates. (20191101/dphiffer)
 						if score['vote_date'] <= end_date and score['vote_date'] >= start_date:
 							s['scores'].append(score)
 

@@ -26,6 +26,14 @@ def get_sessions():
 
 	return sessions
 
+def get_session_by_dates(start_date, end_date):
+	sessions = get_sessions()
+	for num in sessions:
+		s = sessions[num]
+		if start_date >= s['start_date'] and end_date <= s['end_date']:
+			return s
+	return None
+
 def get_district_by_coords(lat, lng, session=None):
 
 	include_geometry = flask.request.args.get('geometry', False)
@@ -309,16 +317,25 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 		for row in rs:
 			aclu_id = row[1]
 			office = 'us_representative' if row[4] == 'rep' else 'us_senator'
+
+			start_date = arrow.get(row[2]).format('YYYY-MM-DD')
+			end_date = arrow.get(row[3]).format('YYYY-MM-DD')
+			session = get_session_by_dates(start_date, end_date)
+
 			legislators[aclu_id] = {
 				'term': {
-					'start_date': arrow.get(row[2]).format('YYYY-MM-DD'),
-					'end_date': arrow.get(row[3]).format('YYYY-MM-DD'),
+					'session': session,
+					'start_date': start_date,
+					'end_date': end_date,
 					'office': office,
 					'state': row[5],
 					'state_full': us.states.lookup(row[5]).name,
-					'party': row[7]
+					'party': row[7],
+					'term_started_late': start_date > session['start_date'],
+					'term_ended_early': end_date < session['end_date']
 				}
 			}
+
 			if row[4] == 'rep':
 				legislators[aclu_id]['term']['district_num'] = row[6]
 			if not aclu_id in aclu_ids:

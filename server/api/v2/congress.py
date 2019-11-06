@@ -1,10 +1,13 @@
 import flask, json, os, re, sys, arrow, us
 
+first_session = 115
 curr_session = 116
+sessions = {}
 
 def get_sessions():
 
-	sessions = {}
+	if curr_session in sessions:
+		return sessions
 
 	cur = flask.g.db.cursor()
 
@@ -25,14 +28,6 @@ def get_sessions():
 			}
 
 	return sessions
-
-def get_session_by_dates(start_date, end_date):
-	sessions = get_sessions()
-	for num in sessions:
-		s = sessions[num]
-		if start_date >= s['start_date'] and end_date <= s['end_date']:
-			return s
-	return None
 
 def get_district_by_coords(lat, lng, session=None):
 
@@ -312,6 +307,12 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 	aclu_ids = []
 	term_ids = []
 
+	all_sessions = get_sessions()
+	supported_sessions = {}
+	for num in all_sessions:
+		if num >= first_session:
+			supported_sessions[num] = all_sessions[num]
+
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
@@ -320,19 +321,26 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 
 			start_date = arrow.get(row[2]).format('YYYY-MM-DD')
 			end_date = arrow.get(row[3]).format('YYYY-MM-DD')
-			session = get_session_by_dates(start_date, end_date)
+
+			term_started_late = True
+			term_ended_early = True
+
+			for num in supported_sessions:
+				if supported_sessions[num]['start_date'] == start_date:
+					term_started_late = False
+				if supported_sessions[num]['end_date'] == end_date:
+					term_ended_early = False
 
 			legislators[aclu_id] = {
 				'term': {
-					'session': session,
 					'start_date': start_date,
 					'end_date': end_date,
 					'office': office,
 					'state': row[5],
 					'state_full': us.states.lookup(row[5]).name,
 					'party': row[7],
-					'term_started_late': start_date > session['start_date'],
-					'term_ended_early': end_date < session['end_date']
+					'term_started_late': term_started_late,
+					'term_ended_early': term_ended_early
 				}
 			}
 

@@ -322,14 +322,15 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			start_date = arrow.get(row[2]).format('YYYY-MM-DD')
 			end_date = arrow.get(row[3]).format('YYYY-MM-DD')
 
-			term_started_late = True
-			term_ended_early = True
+			term_started_late = False
+			term_ended_early = False
 
 			for num in supported_sessions:
-				if supported_sessions[num]['start_date'] == start_date:
-					term_started_late = False
-				if supported_sessions[num]['end_date'] == end_date:
-					term_ended_early = False
+				session = supported_sessions[num]
+				if start_date > session['start_date'] and start_date < session['end_date']:
+					term_started_late = True
+				if end_date < session['end_date'] and end_date > session['start_date']:
+					term_ended_early = True
 
 			legislators[aclu_id] = {
 				'term': {

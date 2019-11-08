@@ -106,6 +106,8 @@ if __name__ == "__main__":
 			bills = []
 			aclu_position = []
 
+			skip_legend = False
+
 			for row in reader:
 
 				# The reason to pop these values out of the row, is so we can assume all the data
@@ -125,7 +127,12 @@ if __name__ == "__main__":
 				legislator_id = "aclu/elections-api/congress_legislator:%s" % legislator_id
 
 				if first_name == 'LEGEND:':
-					break
+					skip_legend = True
+					continue
+				if skip_legend:
+					if first_name == 'Members no longer in Congress':
+						skip_legend = False
+					continue
 
 				if row_num == 0:
 					headers = row

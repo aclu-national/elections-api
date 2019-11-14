@@ -589,7 +589,10 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 						# This conditional exists to ensure we only include
 						# votes that occur inside of a time span bounded by
 						# the legislators start/end dates. (20191101/dphiffer)
-						if score['vote_date'] <= end_date and score['vote_date'] >= start_date:
+						#
+						# Modified the conditional to treat the spreadsheet
+						# vote label as the source of truth (20191113/kokonakajima)
+						if score['status'] != "Not in office":
 							s['scores'].append(score)
 
 	cur.execute('''

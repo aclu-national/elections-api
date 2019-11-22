@@ -1,4 +1,4 @@
-## API endpoints
+## API Endpoints (v1)
 
 All endpoints expect an HTTP GET request and respond in JSON format. The base URL for API requests is `https://elections.api.aclu.org`.
 

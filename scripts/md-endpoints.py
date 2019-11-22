@@ -2,7 +2,7 @@
 
 import requests
 
-url = "https://elections.api.aclu.org/v1"
+url = "https://elections.api.aclu.org/v2"
 rsp = requests.get(url).json()
 
 for path in sorted(rsp['valid_endpoints']):

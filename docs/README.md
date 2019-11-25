@@ -10,7 +10,7 @@
 The API endpoints documentation is generated programmatically:
 
 ```
-python md-endpoints.py | pbcopy
+python scripts/md-endpoints.py | pbcopy
 ```
 
 This will copy the API endpoints Markdown to your clipboard.

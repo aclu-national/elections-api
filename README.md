@@ -22,6 +22,7 @@ Documentation: [API endpoints](/docs/endpoints.md)
 * [API endpoints](/docs/endpoints.md)
 * [How to install](/docs/install.md)
 * [Care and maintenance](/docs/maintenance.md)
+* [Common tasks](docs/tasks.md)
 
 ## See also
 

@@ -1,3 +1,5 @@
+[*ACLU Elections API*](https://github.com/aclu-national/elections-api)
+
 # How to install
 
 The Elections API is meant to be a public reference for others doing work on US elections.

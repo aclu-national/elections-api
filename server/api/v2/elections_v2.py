@@ -1,6 +1,6 @@
 import flask, json, os, re, sys, arrow
 from copy import deepcopy
-import helpers
+import helpers_v2 as helpers
 
 def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 

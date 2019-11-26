@@ -635,7 +635,7 @@ def apple_wallet():
 		})
 
 	path = apple_wallet_api.get_pass(address, hours, lat, lng)
-	file = open(path, 'r')
+	file = open(path, 'rb')
 
 	rsp = flask.Response(file, mimetype='application/vnd.apple.pkpass')
 	rsp.headers['Content-Disposition'] = 'inline; filename="aclu_voter.pkpass"'

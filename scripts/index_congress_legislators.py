@@ -143,7 +143,7 @@ cur = conn.cursor()
 for filename in files:
 
 	print("Loading %s" % filename)
-	file = open(filename, "r")
+	file = open(filename, 'r', encoding='utf-8')
 	legislator = json.load(file)
 
 	aclu_id = legislator["id"]["aclu_id"]

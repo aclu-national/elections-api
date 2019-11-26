@@ -52,7 +52,7 @@ insert_sql = '''
 	) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 '''
 
-fh = open('%s/sources/aclu/aclu_election_info.csv' % root_dir, 'rb')
+fh = open('%s/sources/aclu/aclu_election_info.csv' % root_dir, 'r', encoding='utf-8')
 reader = csv.reader(fh)
 
 row_num = 0
@@ -106,7 +106,7 @@ insert_sql = '''
 
 for type in ['primary', 'general']:
 
-	fh = open('%s/sources/aclu/aclu_election_%s.csv' % (root_dir, type), 'rb')
+	fh = open('%s/sources/aclu/aclu_election_%s.csv' % (root_dir, type), 'r', encoding='utf-8')
 	reader = csv.reader(fh)
 
 	row_num = 0

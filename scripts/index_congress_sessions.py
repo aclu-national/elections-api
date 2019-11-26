@@ -52,7 +52,7 @@ values = [
 ]
 cur.execute(insert_sql, values)
 
-with open(source_path) as source_file:
+with open(source_path, 'r', encoding='utf-8') as source_file:
 	soup = bs4.BeautifulSoup(source_file.read(), "html.parser")
 
 last_cell = None

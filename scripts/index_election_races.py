@@ -48,7 +48,7 @@ files = []
 
 source_dir = "%s/elections-api-private/ballotpedia" % root_dir
 path = "%s/ballotpedia_races.csv" % source_dir
-csvfile = open(path, 'rb')
+csvfile = open(path, 'r', encoding='utf-8')
 
 reader = csv.reader(csvfile)
 
@@ -277,7 +277,7 @@ for row in reader:
 conn.commit()
 
 path = "%s/sources/aclu/aclu_election_races.csv" % root_dir
-csvfile = open(path, 'rb')
+csvfile = open(path, 'r', encoding='utf-8')
 reader = csv.reader(csvfile)
 
 row_num = 0

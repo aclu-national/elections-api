@@ -97,7 +97,7 @@ if __name__ == "__main__":
 	for chamber in ['rep', 'sen']:
 
 		scores_csv = '%s/elections-api-private/aclu/aclu_%s_scores_%d.csv' % (root_dir, chamber, session)
-		with open(scores_csv, 'rb') as csvfile:
+		with open(scores_csv, 'r', encoding='utf-8') as csvfile:
 
 			reader = csv.reader(csvfile)
 
@@ -192,7 +192,7 @@ if __name__ == "__main__":
 
 		# Gets data from index files
 		filename = '%s/elections-api-private/aclu/aclu_%s_score_index_%d.csv' % (root_dir, chamber, session)
-		with open(filename, 'rb') as csvfile:
+		with open(filename, 'r', encoding='utf-8') as csvfile:
 
 			reader = csv.reader(csvfile)
 

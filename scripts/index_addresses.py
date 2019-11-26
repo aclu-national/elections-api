@@ -10,7 +10,7 @@ if __name__ == "__main__":
 		exit(1)
 
 	path = sys.argv[1]
-	file = open(path, 'rb')
+	file = open(path, 'r', encoding='utf-8')
 	reader = csv.reader(file)
 
 	header = None

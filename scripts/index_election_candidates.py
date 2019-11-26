@@ -101,7 +101,7 @@ files = []
 
 source_dir = "%s/elections-api-private/ballotpedia" % root_dir
 path = "%s/ballotpedia_candidates.csv" % source_dir
-csvfile = open(path, 'rb')
+csvfile = open(path, 'r', encoding='utf-8')
 
 reader = csv.reader(csvfile)
 

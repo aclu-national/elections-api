@@ -543,7 +543,7 @@ def calendar():
 		c.name = "%s Elections" % state_name
 
 		for election in rsp['calendar']:
-			for name, date in election['dates'].iteritems():
+			for name, date in election['dates'].items():
 				e = Event()
 
 				if name in human_readable:

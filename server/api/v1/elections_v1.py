@@ -322,7 +322,7 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 	for ballot in elections['ballots']:
 		for office_level in ballot['offices']:
-			ballot['offices'][office_level] = filter(filter_offices, ballot['offices'][office_level])
+			ballot['offices'][office_level] = list(filter(filter_offices, ballot['offices'][office_level]))
 
 	def sort_ballots(ballot):
 		return ballot['date']
@@ -343,7 +343,6 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		WHERE ocd_id IN ({ocd_ids})
 		  AND general_status = 'On the Ballot'
 	'''.format(ocd_ids=ocd_id_list), tuple(ocd_ids))
-	print(ocd_ids)
 
 	candidate_lookup = {}
 	rs = cur.fetchall()

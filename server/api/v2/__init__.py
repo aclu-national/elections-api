@@ -297,7 +297,6 @@ def pip(req=None):
 			}
 			del leg['geometry']
 
-	print(rsp)
 	return flask.jsonify(rsp)
 
 @api.route("/state")

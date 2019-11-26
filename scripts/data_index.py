@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import os, sys, re
-import unicodecsv as csv
+import csv
 
 index = None
 

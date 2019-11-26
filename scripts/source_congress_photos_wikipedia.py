@@ -32,7 +32,7 @@ for legislator in data:
 		continue
 
 	wikipedia_slug = legislator["id"]["wikipedia"].replace(' ', '_')
-	wikipedia_slug = urllib2.quote(wikipedia_slug.encode('utf-8'))
+	wikipedia_slug = urllib2.quote(wikipedia_slug)
 	wikipedia_url = 'https://en.wikipedia.org/wiki/%s' % wikipedia_slug
 
 	print("Downloading %s" % path)

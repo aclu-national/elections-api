@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-import postgres_db, optparse, sys, os, json, us
-import unicodecsv as csv
+import postgres_db, optparse, sys, os, json, us, csv
 
 if __name__ == "__main__":
 
@@ -87,7 +86,7 @@ if __name__ == "__main__":
 			if state == '':
 				continue
 
-			state_obj = us.states.lookup(unicode(state))
+			state_obj = us.states.lookup(state)
 			state = state_obj.abbr
 
 		except:

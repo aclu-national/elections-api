@@ -73,14 +73,14 @@ def guess_ocd_id(name):
 
 	match = re.match('^U.S. House (.+) At-large District$', name, re.I)
 	if match:
-		state_name = unicode(match.group(1))
+		state_name = match.group(1)
 		state = us.states.lookup(state_name)
 		if state:
 			return "ocd-division/country:us/state:%s" % state.abbr.lower()
 
 	match = re.match('^(.+?) Supreme Court', name)
 	if match:
-		state_name = unicode(match.group(1))
+		state_name = match.group(1)
 		state = us.states.lookup(state_name)
 		if state:
 			return "ocd-division/country:us/state:%s" % state.abbr.lower()
@@ -88,7 +88,7 @@ def guess_ocd_id(name):
 	# Maryland Court of Appeals
 	match = re.match('^(.+?) Court of (Criminal )?Appeals', name)
 	if match:
-		state_name = unicode(match.group(1))
+		state_name = match.group(1)
 		state = us.states.lookup(state_name)
 		if state:
 			return "ocd-division/country:us/state:%s" % state.abbr.lower()

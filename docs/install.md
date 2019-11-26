@@ -24,14 +24,46 @@ The API relies on other upstream services and expects some API keys to be define
 
 ## Running the server locally
 
-Here are the steps to run the server locally for development purposes. For now you _must_ run everything from the `/usr/local/aclu` directory.
+Here are the steps to run the server locally for development purposes.
+
+For now you _must_ run everything from the `/usr/local/aclu` directory.
+
+```
+$ sudo mkdir -p /usr/local/aclu
+$ sudo chown $(whoami) /usr/local/aclu
+$ cd /usr/local/aclu
+$ git clone https://github.com/aclu-national/elections-api.git
+```
+
+Next we will install the required Python modules. Note that you may need to go on a side quest here to loosen the appropriate directory file permissions, or use `sudo` to install the packages.
 
 ```
 $ cd elections-api
+$ pip install -r server/requirements.txt
+```
+
+The folder structure of the API code includes `sources` and `data` subdirectories. The `sources` data generally feeds into `data`, creating more stable records with ACLU-assigned stable IDs. Some data sources need to be downloaded before we can index the database. The Congressional sessions data (mostly for start/end dates) is one that we'll need to download first.
+
+```
+$ cd sources/
+$ make congress_sessions
+```
+
+Now we can setup the PostgreSQL database.
+
+```
 $ createdb elections
+$ psql elections -c "CREATE EXTENSION postgis";
+$ cd ../
 $ make
+```
+
+The indexing will take a while to run.
+
+Finally, we can start up the server.
+
+```
 $ cd server/
-$ pip install -r requirements.txt
 $ export GOOGLE_API_KEY="..."
 $ export MAPBOX_API_KEY="..."
 $ python server.py

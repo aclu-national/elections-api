@@ -1,4 +1,5 @@
-import flask, json, os, re, sys, arrow, requests, psycopg2, urllib, traceback
+import flask, json, os, re, sys, arrow, requests, psycopg2, traceback
+import urllib.parse as urllib
 import mapbox_v2 as mapbox_api
 
 api_key = os.getenv('GOOGLE_API_KEY', None)
@@ -243,7 +244,6 @@ def google_geocode(address):
 	# Takes an address string and returns a dict with lat/lng properties or
 	# None. (20181029/dphiffer)
 
-	address = address.encode("utf-8")
 	query = urllib.quote_plus(address)
 	url = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s" % (query, api_key)
 	rsp = requests.get(url)

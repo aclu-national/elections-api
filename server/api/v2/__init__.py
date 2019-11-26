@@ -157,7 +157,7 @@ def pip(req=None):
 			state = state_api.get_state_by_coords(lat, lng)
 
 		county = county_api.get_county_by_coords(lat, lng)
-		state_legs = state_leg.get_state_legs_by_coords(lat, lng)
+		state_legs = state_leg_api.get_state_legs_by_coords(lat, lng)
 
 	else:
 		congress = None
@@ -297,6 +297,7 @@ def pip(req=None):
 			}
 			del leg['geometry']
 
+	print(rsp)
 	return flask.jsonify(rsp)
 
 @api.route("/state")
@@ -534,7 +535,7 @@ def calendar():
 		})
 
 	ocd_ids = ['ocd-division/country:us/state:%s' % state]
-	rsp = elections.get_elections_by_ocd_ids(ocd_ids)
+	rsp = elections_api.get_elections_by_ocd_ids(ocd_ids)
 
 	if not 'calendar' in rsp:
 		return flask.jsonify({

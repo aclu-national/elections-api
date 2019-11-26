@@ -507,8 +507,6 @@ def google_civic_info():
 @api.route("/calendar")
 def calendar():
 
-	global elections
-
 	state = flask.request.args.get('state', None)
 	format = flask.request.args.get('format', 'json')
 
@@ -519,7 +517,7 @@ def calendar():
 		})
 
 	ocd_ids = ['ocd-division/country:us/state:%s' % state]
-	rsp = elections.get_elections_by_ocd_ids(ocd_ids)
+	rsp = elections_api.get_elections_by_ocd_ids(ocd_ids)
 
 	if not 'calendar' in rsp:
 		return flask.jsonify({

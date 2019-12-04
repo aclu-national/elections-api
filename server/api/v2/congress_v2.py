@@ -620,25 +620,23 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			legislators[aclu_id]["score_sessions"] = []
 		legislator_list.append(legislators[aclu_id])
 
-	def sort_legislators(a, b):
-		if a['term']['office'] == 'us_senator' and b['term']['office'] == 'us_senator':
-			if a['term']['class'] > b['term']['class']:
-				return -1
-			elif a['term']['class'] < b['term']['class']:
-				return 1
-		elif a['term']['office'] == 'us_senator' and b['term']['office'] == 'us_representative':
-			return -1
-		elif a['term']['office'] == 'us_representative' and b['term']['office'] == 'us_senator':
-			return 1
+	def sort_legislators(legislator):
+		# Sort by:
+		# 1. Senators, then House Reps
+		# 2. if Senator, by seniority
+		# 3. by last name, first name
+		key = ''
+		if legislator['term']['office'] == 'us_senator':
+			# This assumes no Senator will hold office for over 99 years
+			key += "0"
+			key += str(100 - legislator['term']['class'])
+		elif legislator['term']['office'] == 'us_representative':
+			key += "100"
+		key += legislator['name']['last_name']
+		key += legislator['name']['first_name']
+		return key
 
-		if a['name']['last_name'] < b['name']['last_name']:
-			return -1
-		elif a['name']['last_name'] > b['name']['last_name']:
-			return 1
-		else:
-			return 0
-
-	legislator_list.sort(cmp=sort_legislators)
+	legislator_list.sort(key=sort_legislators)
 
 	return legislator_list
 

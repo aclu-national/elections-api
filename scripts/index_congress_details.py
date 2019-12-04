@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
 	for chamber in ['rep', 'sen']:
 		path = '%s/sources/aclu/aclu_%s_details_%d.csv' % (root_dir, chamber, session)
-		file = open(path, 'rb')
+		file = open(path, 'r', encoding='utf-8')
 		reader = csv.reader(file)
 
 		row_num = 0

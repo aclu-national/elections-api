@@ -70,7 +70,7 @@ for feature in data["features"]:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	with open(abs_path, 'w') as outfile:
+	with open(abs_path, 'w', encoding='utf-8') as outfile:
 		encoder.encode_feature(feature, outfile)
 
 print("Saving index")

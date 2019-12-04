@@ -143,7 +143,7 @@ cur = conn.cursor()
 for filename in files:
 
 	print("Loading %s" % filename)
-	file = open(filename, "r")
+	file = open(filename, 'r', encoding='utf-8')
 	legislator = json.load(file)
 
 	aclu_id = legislator["id"]["aclu_id"]
@@ -186,7 +186,7 @@ for filename in files:
 			WHERE aclu_id = %s
 		''', (legislator["bio"]["gender"], aclu_id))
 
-	for key, value in legislator["id"].iteritems():
+	for key, value in legislator["id"].items():
 
 		if isinstance(value, list):
 			value = ",".join(value)
@@ -206,7 +206,7 @@ for filename in files:
 		placeholders = ["%s"]
 		details = []
 
-		for key, value in term.iteritems():
+		for key, value in term.items():
 			if key in ["type", "state", "district", "start", "end", "party"]:
 
 				if key == "start" or key == "end":

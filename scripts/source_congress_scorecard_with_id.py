@@ -114,14 +114,14 @@ if rs:
 for chamber in ['rep', 'sen']:
 
 	scores_path = '%s/elections-api-private/aclu/aclu_%s_scores_%d.csv' % (root_dir, chamber, session)
-	scores_file = open(scores_path, 'rb')
+	scores_file = open(scores_path, 'r', encoding='utf-8')
 	reader = csv.reader(scores_file)
 
 	print("reading from %s" % scores_path)
 
   # This file doesn't exist until we write to it
 	scores_with_id_path = "%s/sources/aclu/aclu_%s_scores_with_id_%d.csv" % (root_dir, chamber, session)
-	scores_with_id_file = open(scores_with_id_path, 'wb')
+	scores_with_id_file = open(scores_with_id_path, 'w', encoding='utf-8')
 	writer = csv.writer(scores_with_id_file)
 
 	print("writing to %s" % scores_with_id_path)

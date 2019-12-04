@@ -65,7 +65,7 @@ alt_name_insert_sql = '''
 '''
 
 filename = "%s/sources/aclu/aclu_blurbs.json" % root_dir
-file = open(filename, 'rb')
+file = open(filename, 'r', encoding='utf-8')
 data = json.load(file)
 
 for office in data:

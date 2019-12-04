@@ -1,5 +1,6 @@
-import flask, json, os, re, sys, arrow, requests, psycopg2, urllib, traceback
-import mapbox as mapbox_api
+import flask, json, os, re, sys, arrow, requests, psycopg2, traceback
+import urllib.parse as urllib
+import mapbox_v1 as mapbox_api
 
 api_key = os.getenv('GOOGLE_API_KEY', None)
 postgres_dsn = os.getenv('POSTGRES_DSN', 'dbname=elections')
@@ -253,7 +254,6 @@ def google_geocode(address):
 
 	global api_key
 
-	address = address.encode("utf-8")
 	query = urllib.quote_plus(address)
 	url = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s" % (query, api_key)
 	rsp = requests.get(url)

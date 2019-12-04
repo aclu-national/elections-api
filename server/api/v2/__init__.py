@@ -4,16 +4,16 @@ import flask, json, os, re, sys, arrow, us
 
 sys.path.insert(1, os.path.dirname(__file__))
 
-import helpers
-import congress as congress_api
-import state as state_api
-import county as county_api
-import state_leg as state_leg_api
-import elections as elections_api
-import google_civic_info as google_civic_info_api
-import mapbox as mapbox_api
-import geoip as geoip_api
-import apple_wallet as apple_wallet_api
+import helpers_v2 as helpers
+import congress_v2 as congress_api
+import state_v2 as state_api
+import county_v2 as county_api
+import state_leg_v2 as state_leg_api
+import elections_v2 as elections_api
+import google_civic_info_v2 as google_civic_info_api
+import mapbox_v2 as mapbox_api
+import geoip_v2 as geoip_api
+import apple_wallet_v2 as apple_wallet_api
 from copy import deepcopy
 from ics import Calendar, Event
 
@@ -157,7 +157,7 @@ def pip(req=None):
 			state = state_api.get_state_by_coords(lat, lng)
 
 		county = county_api.get_county_by_coords(lat, lng)
-		state_legs = state_leg.get_state_legs_by_coords(lat, lng)
+		state_legs = state_leg_api.get_state_legs_by_coords(lat, lng)
 
 	else:
 		congress = None
@@ -534,7 +534,7 @@ def calendar():
 		})
 
 	ocd_ids = ['ocd-division/country:us/state:%s' % state]
-	rsp = elections.get_elections_by_ocd_ids(ocd_ids)
+	rsp = elections_api.get_elections_by_ocd_ids(ocd_ids)
 
 	if not 'calendar' in rsp:
 		return flask.jsonify({
@@ -559,7 +559,7 @@ def calendar():
 		c.name = "%s Elections" % state_name
 
 		for election in rsp['calendar']:
-			for name, date in election['dates'].iteritems():
+			for name, date in election['dates'].items():
 				e = Event()
 
 				if name in human_readable:
@@ -654,7 +654,7 @@ def apple_wallet():
 		})
 
 	path = apple_wallet_api.get_pass(address, hours, lat, lng)
-	file = open(path, 'r')
+	file = open(path, 'rb')
 
 	rsp = flask.Response(file, mimetype='application/vnd.apple.pkpass')
 	rsp.headers['Content-Disposition'] = 'inline; filename="aclu_voter.pkpass"'

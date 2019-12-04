@@ -27,7 +27,7 @@ files.sort()
 for filename in files:
 
 	print("Loading %s" % filename)
-	with open(filename) as data_file:
+	with open(filename, 'r', encoding='utf-8') as data_file:
 		data = json.load(data_file)
 
 	for feature in data["features"]:
@@ -85,7 +85,7 @@ for filename in files:
 		if not os.path.exists(dirname):
 			os.makedirs(dirname)
 
-		with open(abs_path, 'w') as outfile:
+		with open(abs_path, 'w', encoding='utf-8') as outfile:
 			encoder.encode_feature(feature, outfile)
 
 print("Saving index")

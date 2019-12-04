@@ -8,7 +8,7 @@ root_dir = os.path.dirname(scripts_dir)
 
 source_path = "%s/sources/congress_legislators/legislators-current.yaml" % root_dir
 print("Loading %s" % source_path)
-file = open(source_path, "r")
+file = open(source_path, 'r', encoding='utf-8')
 data = yaml.load(file)
 
 exists = 0
@@ -32,7 +32,7 @@ for legislator in data:
 		continue
 
 	wikipedia_slug = legislator["id"]["wikipedia"].replace(' ', '_')
-	wikipedia_slug = urllib2.quote(wikipedia_slug.encode('utf-8'))
+	wikipedia_slug = urllib2.quote(wikipedia_slug)
 	wikipedia_url = 'https://en.wikipedia.org/wiki/%s' % wikipedia_slug
 
 	print("Downloading %s" % path)

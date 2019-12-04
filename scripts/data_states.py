@@ -15,7 +15,7 @@ path = "%s/sources/states/states_lookup.geojson" % root_dir
 encoder = mapzen.whosonfirst.geojson.encoder(precision=None)
 
 print("Loading %s" % path)
-with open(path) as data_file:
+with open(path, 'r', encoding='utf-8') as data_file:
 	data = json.load(data_file)
 
 def sort_states(a, b):
@@ -56,13 +56,13 @@ for feature in data["features"]:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	with open(abs_path, 'w') as outfile:
+	with open(abs_path, 'w', encoding='utf-8') as outfile:
 		encoder.encode_feature(feature, outfile)
 
 path = "%s/sources/states/states_display.geojson" % root_dir
 
 print("Loading %s" % path)
-with open(path) as data_file:
+with open(path, 'r', encoding='utf-8') as data_file:
 	data = json.load(data_file)
 
 def sort_states(a, b):
@@ -107,7 +107,7 @@ for feature in data["features"]:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	with open(abs_path, 'w') as outfile:
+	with open(abs_path, 'w', encoding='utf-8') as outfile:
 		json.dump(feature, outfile)
 
 	print("Simplifying %s" % path)

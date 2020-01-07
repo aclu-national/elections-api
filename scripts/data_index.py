@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import os, sys, re
-import unicodecsv as csv
+import csv
 
 index = None
 
@@ -34,7 +34,7 @@ def get_index(repo):
 	if not os.path.isfile(csv_path):
 		return index[repo]
 	else:
-		with open(csv_path, 'rb') as csv_file:
+		with open(csv_path, 'r', encoding='utf-8') as csv_file:
 			reader = csv.reader(csv_file)
 			row_num = 0
 			for row in reader:
@@ -59,7 +59,7 @@ def save_index(repo):
 
 	csv_path = get_csv_path(repo)
 
-	with open(csv_path, 'wb') as csv_file:
+	with open(csv_path, 'w', encoding='utf-8') as csv_file:
 		writer = csv.writer(csv_file, delimiter=',', encoding='utf-8')
 		headers = ['id', 'path', 'name']
 		writer.writerow(headers)

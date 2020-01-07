@@ -34,6 +34,9 @@ def get_targeted():
 		'initiatives': {}
 	}
 
+	if not os.getenv('ENABLE_FEATURE_TARGETED_RACES', False):
+		return targeted
+
 	cur = flask.g.db.cursor()
 
 	cur.execute('''

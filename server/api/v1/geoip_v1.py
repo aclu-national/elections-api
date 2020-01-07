@@ -1,4 +1,5 @@
-import os, requests, urllib
+import os, requests
+import urllib.parse as urllib
 import maxminddb
 
 api_key = os.getenv('IPSTACK_API_KEY', None)

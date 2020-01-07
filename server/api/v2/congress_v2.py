@@ -245,7 +245,6 @@ def get_legislators_by_url_slug(url_slug, include, session_num=curr_session):
 		WHERE l.url_slug = %s
 		  AND l.aclu_id = t.aclu_id
 		ORDER BY t.end_date DESC
-		LIMIT 1
 	''', (url_slug,))
 
 	return get_legislators(cur, "all", include, session_num)
@@ -262,7 +261,6 @@ def get_legislators_by_id(id, include, session_num=curr_session):
 		WHERE l.aclu_id LIKE '%congress_legislator:{id}'
 		  AND l.aclu_id = t.aclu_id
 		ORDER BY t.end_date DESC
-		LIMIT 1
 	'''.format(id=id))
 
 	return get_legislators(cur, 'all', include, session_num)
@@ -332,23 +330,30 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 				if end_date < session['end_date'] and end_date > session['start_date']:
 					term_ended_early = True
 
-			legislators[aclu_id] = {
-				'term': {
-					'start_date': start_date,
-					'end_date': end_date,
-					'office': office,
-					'state': row[5],
-					'state_full': us.states.lookup(row[5]).name,
-					'party': row[7],
-					'term_started_late': term_started_late,
-					'term_ended_early': term_ended_early
+			if not aclu_id in legislators:
+				legislators[aclu_id] = {
+					'terms': []
 				}
-			}
 
+			term = {
+				'id': row[0],
+				'start_date': start_date,
+				'end_date': end_date,
+				'office': office,
+				'state': row[5],
+				'state_full': us.states.lookup(row[5]).name,
+				'party': row[7],
+				'term_started_late': term_started_late,
+				'term_ended_early': term_ended_early
+			}
 			if row[4] == 'rep':
-				legislators[aclu_id]['term']['district_num'] = row[6]
+				term['district_num'] = row[6]
+
+			legislators[aclu_id]['terms'].append(term)
+
 			if not aclu_id in aclu_ids:
 				aclu_ids.append(aclu_id)
+
 			term_ids.append(str(row[0]))
 
 	if len(aclu_ids) == 0:
@@ -409,7 +414,7 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 	term_id_list = ', '.join(['%s'] * len(term_ids))
 	term_id_values = tuple(term_ids)
 	cur.execute('''
-		SELECT aclu_id, detail_name, detail_value
+		SELECT aclu_id, term_id, detail_name, detail_value
 		FROM congress_legislator_term_details
 		WHERE term_id IN ({term_ids})
 	'''.format(term_ids=term_id_list), term_id_values)
@@ -418,24 +423,29 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 	if rs:
 		for row in rs:
 			aclu_id = row[0]
-			key = row[1]
-			value = row[2]
-			if key == 'class':
-				legislators[aclu_id]['term'][key] = int(value)
-			elif key == 'state_rank':
-				legislators[aclu_id]['term'][key] = value
+			term_id = row[1]
+			key = row[2]
+			value = row[3]
+			if key == 'class' or key == 'state_rank':
+				for term in legislators[aclu_id]['terms']:
+					if term_id == term['id']:
+						if key == 'class':
+							term[key] = int(value)
+						else:
+							term[key] = value
 			else:
 				if not 'contact' in legislators[aclu_id]:
 					legislators[aclu_id]['contact'] = {}
-				legislators[aclu_id]['contact'][key] = value
+				if not key in legislators[aclu_id]['contact']:
+					legislators[aclu_id]['contact'][key] = value
 
 	for aclu_id in legislators:
 		# district_num = 98 is how the Census denotes non-state districts.
-		term = legislators[aclu_id]['term']
-		if term['office'] == 'us_representative' and term['district_num'] == 98:
-			legislators[aclu_id]['term']['is_delegate'] = True
-		else:
-			legislators[aclu_id]['term']['is_delegate'] = False
+		for term in legislators[aclu_id]['terms']:
+			if term['office'] == 'us_representative' and term['district_num'] == 98:
+				term['is_delegate'] = True
+			else:
+				term['is_delegate'] = False
 
 	cur.execute('''
 		SELECT aclu_id, concordance_name, concordance_value
@@ -583,8 +593,8 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 							s['scores'] = []
 						id = score['aclu_id']
 						score['vote_date'] = vote_dates[id]
-						start_date = legislators[legislator_id]['term']['start_date']
-						end_date = legislators[legislator_id]['term']['end_date']
+						start_date = legislators[legislator_id]['terms'][0]['start_date']
+						end_date = legislators[legislator_id]['terms'][0]['end_date']
 
 						# This conditional exists to ensure we only include
 						# votes that occur inside of a time span bounded by
@@ -620,25 +630,23 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 			legislators[aclu_id]["score_sessions"] = []
 		legislator_list.append(legislators[aclu_id])
 
-	def sort_legislators(a, b):
-		if a['term']['office'] == 'us_senator' and b['term']['office'] == 'us_senator':
-			if a['term']['class'] > b['term']['class']:
-				return -1
-			elif a['term']['class'] < b['term']['class']:
-				return 1
-		elif a['term']['office'] == 'us_senator' and b['term']['office'] == 'us_representative':
-			return -1
-		elif a['term']['office'] == 'us_representative' and b['term']['office'] == 'us_senator':
-			return 1
+	def sort_legislators(legislator):
+		# Sort by:
+		# 1. Senators, then House Reps
+		# 2. if Senator, by seniority
+		# 3. by last name, first name
+		key = ''
+		if legislator['terms'][0]['office'] == 'us_senator':
+			# This assumes no Senator will hold office for over 99 years
+			key += "0"
+			key += str(100 - legislator['terms'][0]['class'])
+		elif legislator['terms'][0]['office'] == 'us_representative':
+			key += "100"
+		key += legislator['name']['last_name']
+		key += legislator['name']['first_name']
+		return key
 
-		if a['name']['last_name'] < b['name']['last_name']:
-			return -1
-		elif a['name']['last_name'] > b['name']['last_name']:
-			return 1
-		else:
-			return 0
-
-	legislator_list.sort(cmp=sort_legislators)
+	legislator_list.sort(key=sort_legislators)
 
 	return legislator_list
 

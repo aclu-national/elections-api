@@ -9,7 +9,7 @@ root_dir = os.path.dirname(scripts_dir)
 
 source_path = "%s/sources/congress_legislators/legislators-current.yaml" % root_dir
 print("Loading %s" % source_path)
-file = open(source_path, "r")
+file = open(source_path, 'r', encoding='utf-8')
 data = yaml.load(file)
 
 for legislator in data:

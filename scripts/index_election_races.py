@@ -48,7 +48,7 @@ files = []
 
 source_dir = "%s/elections-api-private/ballotpedia" % root_dir
 path = "%s/ballotpedia_races.csv" % source_dir
-csvfile = open(path, 'rb')
+csvfile = open(path, 'r', encoding='utf-8')
 
 reader = csv.reader(csvfile)
 
@@ -73,14 +73,14 @@ def guess_ocd_id(name):
 
 	match = re.match('^U.S. House (.+) At-large District$', name, re.I)
 	if match:
-		state_name = unicode(match.group(1))
+		state_name = match.group(1)
 		state = us.states.lookup(state_name)
 		if state:
 			return "ocd-division/country:us/state:%s" % state.abbr.lower()
 
 	match = re.match('^(.+?) Supreme Court', name)
 	if match:
-		state_name = unicode(match.group(1))
+		state_name = match.group(1)
 		state = us.states.lookup(state_name)
 		if state:
 			return "ocd-division/country:us/state:%s" % state.abbr.lower()
@@ -88,7 +88,7 @@ def guess_ocd_id(name):
 	# Maryland Court of Appeals
 	match = re.match('^(.+?) Court of (Criminal )?Appeals', name)
 	if match:
-		state_name = unicode(match.group(1))
+		state_name = match.group(1)
 		state = us.states.lookup(state_name)
 		if state:
 			return "ocd-division/country:us/state:%s" % state.abbr.lower()
@@ -277,7 +277,7 @@ for row in reader:
 conn.commit()
 
 path = "%s/sources/aclu/aclu_election_races.csv" % root_dir
-csvfile = open(path, 'rb')
+csvfile = open(path, 'r', encoding='utf-8')
 reader = csv.reader(csvfile)
 
 row_num = 0

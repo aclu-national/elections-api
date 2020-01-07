@@ -67,11 +67,11 @@ for filename in files:
 
 	print(filename)
 
-	with open(filename) as geojson:
+	with open(filename, 'r', encoding='utf-8') as geojson:
 		feature = json.load(geojson)
 
 	display_path = filename.replace('.geojson', '.display.geojson')
-	with open(display_path) as display_geojson:
+	with open(display_path, 'r', encoding='utf-8') as display_geojson:
 		display_feature = json.load(display_geojson)
 
 	aclu_id = feature["properties"]["aclu_id"]

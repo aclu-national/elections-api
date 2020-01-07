@@ -57,7 +57,7 @@ def sort_districts(a, b):
 session = options.start
 source_path = "%s/sources/congress_districts_%s/congress_districts_%s_lookup.geojson" % (root_dir, session, session)
 print("Loading %s" % source_path)
-with open(source_path) as data_file:
+with open(source_path, 'r', encoding='utf-8') as data_file:
 	data = json.load(data_file)
 
 data["features"].sort(sort_districts)
@@ -117,13 +117,13 @@ for feature in data["features"]:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	with open(abs_path, 'w') as outfile:
+	with open(abs_path, 'w', encoding='utf-8') as outfile:
 		encoder.encode_feature(feature, outfile)
 
 session = options.start
 source_path = "%s/sources/congress_districts_%s/congress_districts_%s_display.geojson" % (root_dir, session, session)
 print("Loading %s" % source_path)
-with open(source_path) as data_file:
+with open(source_path, 'r', encoding='utf-8') as data_file:
 	data = json.load(data_file)
 
 data["features"].sort(sort_districts)
@@ -187,7 +187,7 @@ for feature in data["features"]:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	with open(abs_path, 'w') as outfile:
+	with open(abs_path, 'w', encoding='utf-8') as outfile:
 		json.dump(feature, outfile)
 
 	print("Simplifying %s" % path)

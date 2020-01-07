@@ -21,7 +21,7 @@ sessions = {
 encoder = mapzen.whosonfirst.geojson.encoder(precision=None)
 
 print("Loading %s" % source_path)
-with open(source_path) as data_file:
+with open(source_path, 'r', encoding='utf-8') as data_file:
 	data = json.load(data_file)
 
 for feature in data["features"]:
@@ -68,7 +68,7 @@ for feature in data["features"]:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	with open(abs_path, 'w') as outfile:
+	with open(abs_path, 'w', encoding='utf-8') as outfile:
 		encoder.encode_feature(feature, outfile)
 
 print("Saving index")

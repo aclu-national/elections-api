@@ -1,8 +1,6 @@
 all: congress_sessions \
      congress_districts \
      congress_legislators \
-     congress_details \
-     congress_scores \
      states \
      counties \
      state_leg \
@@ -19,7 +17,7 @@ congress_districts:
 congress_legislators:
 	python scripts/index_congress_legislators.py
 
-congress_scores:
+congress_scores: congress_details
 	python scripts/index_congress_scores.py 115 --reset
 	python scripts/index_congress_scores.py 116
 

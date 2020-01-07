@@ -1,6 +1,6 @@
 import flask, json, os, re, sys, arrow
 from copy import deepcopy
-import helpers
+import helpers_v2 as helpers
 
 def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
@@ -322,15 +322,15 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 
 	for ballot in elections['ballots']:
 		for office_level in ballot['offices']:
-			ballot['offices'][office_level] = filter(filter_offices, ballot['offices'][office_level])
+			ballot['offices'][office_level] = list(filter(filter_offices, ballot['offices'][office_level]))
 
-	def sort_ballots(a, b):
-		return 1 if a['date'] > b['date'] else -1
-	elections['ballots'].sort(cmp=sort_ballots)
+	def sort_ballots(ballot):
+		return ballot['date']
+	elections['ballots'].sort(key=sort_ballots, reverse=True)
 
-	def sort_calendar(a, b):
-		return 1 if a['dates']['election_date'] > b['dates']['election_date'] else -1
-	elections['calendar'].sort(cmp=sort_calendar)
+	def sort_calendar(calendar):
+		return calendar['dates']['election_date']
+	elections['calendar'].sort(key=sort_calendar, reverse=True)
 
 	for ocd_id in ocd_ids:
 		if ocd_id in targeted['initiatives']:
@@ -343,7 +343,6 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 		WHERE ocd_id IN ({ocd_ids})
 		  AND general_status = 'On the Ballot'
 	'''.format(ocd_ids=ocd_id_list), tuple(ocd_ids))
-	print(ocd_ids)
 
 	candidate_lookup = {}
 	rs = cur.fetchall()
@@ -360,18 +359,8 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 				'ballotpedia_url': row[5]
 			})
 
-	def sort_candidates(a, b):
-		if a['party'] == b['party']:
-			if a['last_name'] == b['last_name']:
-				return 1 if a['first_name'] > b['first_name'] else -1
-			else:
-				return 1 if a['last_name'] > b['last_name'] else -1
-		elif a['party'] == 'Independent':
-			return 1
-		elif b['party'] == 'Independent':
-			return -1
-		else:
-			return 1 if a['party'] > b['party'] else -1
+	def sort_candidates(candidate):
+		return "%s-%s-%s" % (candidate['party'], candidate['last_name'], candidate['first_name'])
 
 	for ballot in elections['ballots']:
 
@@ -385,6 +374,6 @@ def get_elections_by_ocd_ids(ocd_ids, year = '2018'):
 					if race['name'] in candidate_lookup:
 						name = race['name']
 						race['candidates'] = candidate_lookup[name]
-						race['candidates'].sort(cmp=sort_candidates)
+						race['candidates'].sort(key=sort_candidates)
 
 	return elections

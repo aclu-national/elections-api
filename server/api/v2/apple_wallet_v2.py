@@ -11,11 +11,7 @@ def get_pass(address, hours, lat, lng):
 	path = "%s/passes/%s/pass.pkpass" % (base_dir, hash)
 
 	if not os.path.isfile(path):
-
 		cmd = ["/usr/local/aclu/voter-apple-wallet/pkpass.sh", address, hours, lat, lng]
-
-		print(" ".join(cmd))
-
 		call(cmd, env={"MAPBOX_API_KEY": mapbox_api_key})
 
 	return path

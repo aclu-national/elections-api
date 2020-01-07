@@ -9,7 +9,7 @@ root_dir = os.path.dirname(scripts_dir)
 
 source_path = "%s/sources/congress_legislators/legislators-current.yaml" % root_dir
 print("Loading %s" % source_path)
-file = open(source_path, "r")
+file = open(source_path, 'r', encoding='utf-8')
 data = yaml.load(file)
 
 legislator_lookup = {}
@@ -22,7 +22,7 @@ for legislator in data:
 
 source_path = "%s/sources/congress_legislators/legislators-social-media.yaml" % root_dir
 print("Loading %s" % source_path)
-file = open(source_path, "r")
+file = open(source_path, 'r', encoding='utf-8')
 data = yaml.load(file)
 
 for legislator in data:
@@ -84,7 +84,7 @@ for legislator in legislator_list:
 	if not os.path.exists(dirname):
 		os.makedirs(dirname)
 
-	with open(abs_path, 'w') as outfile:
+	with open(abs_path, 'w', encoding='utf-8') as outfile:
 		json.dump(legislator, outfile, indent=2, sort_keys=True)
 
 print("Saving index")

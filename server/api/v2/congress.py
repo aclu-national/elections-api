@@ -47,8 +47,14 @@ def get_district_by_coords(lat, lng, session=None):
 	# requested session. This may have adverse consequences for things like
 	# recently redistricted districts. (20190311/dphiffer)
 
+	# Updated the session filter from
+	# 	filter = 'AND start_session < %d' % session
+	#
+	# because as Dan pointed out above, the filter wasn't returning
+	# recently redistricted districts. (20200108/kokonakajima)
+
 	if session:
-		filter = 'AND start_session < %d' % session
+		filter = 'AND start_session <= %d' % session
 
 	cur = flask.g.db.cursor()
 	cur.execute('''

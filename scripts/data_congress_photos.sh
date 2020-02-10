@@ -18,7 +18,7 @@ for path in `ls $source_path/*.jpg` ; do
 	if [ ! -f "$cropped" ] ; then
 		echo "Cropping $filename"
 		json=`echo $cropped | sed 's/.jpg/.json/'`
-		$smartcrop --width $width --height $height $path $cropped > $json
+		$smartcrop --faceDetection --width $width --height $height $path $cropped > $json
 	fi
 done
 

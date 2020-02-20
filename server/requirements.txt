@@ -5,7 +5,7 @@ gunicorn
 bs4
 arrow==0.12.1
 pyyaml
-ics
+ics==0.4
 maxminddb
 us
 requests

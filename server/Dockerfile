@@ -1,5 +1,5 @@
 # pull official base image
-FROM python:3.8.0-alpine
+FROM python:2.7
 
 # set work directory
 WORKDIR /usr/local/aclu/elections-api
@@ -9,8 +9,10 @@ ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 
 # install psycopg2 dependencies
-RUN apk update \
-    && apk add postgresql-dev gcc python3-dev musl-dev make curl
+RUN apt update \
+    && apt -y install libghc-hdbc-postgresql-dev gcc python2-dev musl-dev make curl postgis \
+      fail2ban ufw htop emacs24-nox \
+      build-essential gdal-bin unzip
 
 # install dependencies
 RUN pip install --upgrade pip

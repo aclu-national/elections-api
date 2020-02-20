@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+  elections-api:
+    build: ./server
+    command: python server/server.py run -h 0.0.0.0
+    volumes:
+      - ./:/usr/local/aclu/elections-api
+    ports:
+      - 5000:5000
+    env_file:
+      - ./.env.dev
+    depends_on:
+      - elections-db
+  elections-db:
+    build: ./database
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    env_file:
+      - ./.env.dev
+
+volumes:
+  postgres_data:

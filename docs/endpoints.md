@@ -111,6 +111,5 @@ Arguments:
 * `geometry`: Include GeoJSON geometries with districts (optional; geometry=1)
 * `lat`: Latitude
 * `lng`: Longitude
-* Example: https://elections.api.aclu.org/v2/state_leg?lat=40.7023587&lng=-74.0124621
 
-[See example response](./responses/v2-state_leg.json)
+[Example lookup](https://elections.api.aclu.org/v2/state_leg?lat=40.7023587&lng=-74.0124621) | [Example response](./responses/v2-state_leg.js)

@@ -1,3 +1,5 @@
+// Example response from https://elections.api.aclu.org/v2/state_leg?lat=40.7023587&lng=-74.0124621
+
 {
   ok: true,
   state_leg: [{

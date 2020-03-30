@@ -46,7 +46,7 @@ Arguments:
 * `lat`: Latitude
 * `lng`: Longitude
 
-[Example lookup](https://elections.api.aclu.org/v2/congress/district?lat=40.7023587&lng=-74.0124621) | [Example response](./responses/v2-congress-district.js)
+[Example lookup](https://elections.api.aclu.org/v2/congress/district?lat=40.7023587&lng=-74.0124621) | [Example response](./responses/v2-congress-district.js) | [Example response with geometry](./responses/v2-congress-district-with-geometry.js)
 
 ### `/v2/congress/legislators`
 

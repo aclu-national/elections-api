@@ -1,25 +1,25 @@
-// Example response from https://elections.api.aclu.org/v2/geoip
+// Example response from https://elections.api.aclu.org/v2/geoip?ip=38.109.115.130
 
 {
-  ip: "2601:642:4301:d260:4d23:7f17:929a:f485",
+  ip: "38.109.115.130",
   source: "ipstack",
   ok: true,
   location: {
-    latitude: 37.61840057373047,
-    longitude: -122.03455352783203
+    latitude: 40.7022705078125,
+    longitude: -74.01061248779297
   },
   ipstack_details: {
-    city: "Hayward",
-    region_code: "CA",
-    region_name: "California",
-    zip: "94544",
-    latitude: 37.61840057373047,
-    ip: "2601:642:4301:d260:4d23:7f17:929a:f485",
+    city: "Manhattan",
+    region_code: "NY",
+    region_name: "New York",
+    zip: "10004",
+    latitude: 40.7022705078125,
+    ip: "38.109.115.130",
     time_zone: {
-      gmt_offset: -25200,
-      current_time: "2020-03-30T16:18:28-07:00",
-      code: "PDT",
-      id: "America/Los_Angeles",
+      gmt_offset: -14400,
+      current_time: "2020-03-30T19:25:50-04:00",
+      code: "EDT",
+      id: "America/New_York",
       is_daylight_saving: true
     },
     continent_code: "NA",
@@ -32,13 +32,13 @@
     },
     country_name: "United States",
     connection: {
-      isp: "Comcast Cable Communications LLC",
-      asn: 7922
+      isp: "Cogent Communications",
+      asn: 174
     },
-    longitude: -122.03455352783203,
+    longitude: -74.01061248779297,
     country_code: "US",
     continent_name: "North America",
-    type: "ipv6",
+    type: "ipv4",
     location: {
       calling_code: "1",
       languages: [{
@@ -49,7 +49,7 @@
       capital: "Washington D.C.",
       country_flag_emoji_unicode: "U+1F1FA U+1F1F8",
       is_eu: false,
-      geoname_id: 5355933,
+      geoname_id: 5125771,
       country_flag_emoji: "🇺🇸",
       country_flag: "http://assets.ipstack.com/flags/us.svg"
     }

@@ -14,7 +14,7 @@ Arguments:
 * `lat`: Latitude
 * `lng`: Longitude
 
-[Example lookup]() | [Example response](./responses/v2-EXAMPLE.js) (*Coming soon*)
+[Old V1 lookup](https://elections-stg.api.aclu.org/v1/apple_wallet?address=30%20Rockefeller%20Plaza%2C%20New%20York%2C%20NY%2010111&hours=6am-9pm&lat=40.7591837&lng=-73.9818335) (V2 version is returning an invalid pass as of 04/2020)
 
 ### `/v2/calendar`
 
@@ -93,13 +93,13 @@ Arguments:
 
 ### `/v2/google_civic_info`
 
-*Lookup Google Civic Info for an election.*
+*Look up [Google Civic Info](https://developers.google.com/civic-information) for an election. Information is only available and returned during an election.*
 
 Arguments:
 * `address`: Address search string.
 * `ocd_id`: An Open Civic Data ID for the election.
 
-[Example lookup]() | [Example response](./responses/v2-EXAMPLE.js) (*Coming soon*)
+[Example lookup](https://elections.api.aclu.org/v2/google_civic_info?ocd_id=ocd-division%2Fcountry%3Aus%2Fstate%3Aga&address=878%20Peachtree%20Street%20Northeast%2C%20Atlanta%2C%20GA%2030309)
 
 ### `/v2/pip`
 

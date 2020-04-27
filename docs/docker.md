@@ -33,5 +33,7 @@ docker-compose down -v
 
 To open a shell inside a container that is already running:
 ```sh
-docker-compose exec elections-api /bin/sh
+docker-compose exec elections-api /bin/bash
 ```
+
+You'll need to be inside the container to run all `make` commands.

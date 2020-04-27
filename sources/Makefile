@@ -8,7 +8,7 @@ all: congress_sessions \
 
 congress_sessions:
 	mkdir -p congress_sessions
-	curl -o congress_sessions/congress_sessions.html https://www.senate.gov/reference/Sessions/sessionDates.htm
+	curl -o congress_sessions/congress_sessions.html https://www.senate.gov/legislative/DatesofSessionsofCongress.htm
 
 congress_districts: congress_districts_115 \
                     congress_districts_116_pa

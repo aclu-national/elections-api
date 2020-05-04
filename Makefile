@@ -1,3 +1,5 @@
+DATABASE_URL ?= elections
+
 all: congress_sessions \
      congress_districts \
      congress_legislators \

@@ -29,6 +29,7 @@
     {
       "address": "131 Russell Senate Office Building Washington DC 20510", 
       "class": 3, 
+      "contact_form": "https://www.loeffler.senate.gov", 
       "end": "2020-11-03", 
       "end-type": "special-election", 
       "how": "appointment", 
@@ -39,7 +40,7 @@
       "state": "GA", 
       "state_rank": "junior", 
       "type": "sen", 
-      "url": "https://www.senate.gov/senators/116thCongress/LoefflerKelly.htm"
+      "url": "https://www.loeffler.senate.gov"
     }
   ], 
   "url_slug": "ga-kelly-loeffler"

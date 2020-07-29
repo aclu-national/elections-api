@@ -23,10 +23,15 @@ RUN pip install --upgrade pip
 COPY ./requirements.txt /usr/local/aclu/elections-api/requirements.txt
 RUN pip install -r requirements.txt
 
+# smartcrop + dependencies
+RUN apt update && apt -y install libopencv-dev
+RUN pip install git+https://chromium.googlesource.com/external/gyp
+RUN npm install -g opencv --unsafe-perm=true
+RUN npm install -g smartcrop-cli --unsafe-perm=true
+
 # install non-server python dependencies
 RUN pip install area==1.1.1
 RUN pip install unicodecsv==0.14.1
-RUN pip install smartcrop==0.3.0
 RUN pip install git+https://github.com/whosonfirst/py-mapzen-whosonfirst-geojson.git
 RUN pip install git+https://github.com/whosonfirst/py-mapzen-whosonfirst-utils.git
 RUN pip install git+https://github.com/whosonfirst/py-mapzen-whosonfirst-placetypes.git

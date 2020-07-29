@@ -16,7 +16,7 @@ RUN apt update \
 
 # install data/make dependencies
 RUN npm install -g mapshaper
-RUN apt-get -y install jq
+RUN apt update && apt -y install jq
 
 # install python dependencies
 RUN pip install --upgrade pip

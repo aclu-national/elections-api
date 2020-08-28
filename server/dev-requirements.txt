@@ -1,0 +1,17 @@
+# for data/make scripts
+area==1.1.1
+unicodecsv==0.14.1
+git+https://github.com/whosonfirst/py-mapzen-whosonfirst-geojson.git
+git+https://github.com/whosonfirst/py-mapzen-whosonfirst-utils.git
+git+https://github.com/whosonfirst/py-mapzen-whosonfirst-placetypes.git
+git+https://github.com/whosonfirst/py-mapzen-whosonfirst-meta.git
+git+https://github.com/whosonfirst/py-mapzen-whosonfirst-uri.git
+git+https://github.com/whosonfirst/py-mapzen-whosonfirst-sources.git
+
+# for whosonfirst
+shapely==1.7.0
+geojson==2.5.0
+atomicwrites==1.3.0
+
+# for smartcrop
+git+https://chromium.googlesource.com/external/gyp

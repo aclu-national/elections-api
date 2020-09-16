@@ -43,6 +43,7 @@ def index():
 				'args': {
 					'lat': 'Latitude',
 					'lng': 'Longitude',
+					'state': 'Instead of lat/lng or id, specify a state (e.g., state=ny)',
 					'geometry': 'Include GeoJSON geometries with districts (optional; geometry=1)'
 				}
 			},

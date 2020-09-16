@@ -309,10 +309,13 @@ def state():
 			'error': req
 		})
 
-	lat = req['lat']
-	lng = req['lng']
+	if 'lat' in req and 'lng' in req:
+		rsp = state_api.get_state_by_coords(req['lat'], req['lng'])
+	elif 'state' in req:
+		rsp = state_api.get_state_by_id(req['state'])
+	else:
+		rsp = None
 
-	rsp = state_api.get_state_by_coords(lat, lng)
 	if rsp == None:
 		return flask.jsonify({
 			'ok': False,

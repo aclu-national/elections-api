@@ -277,7 +277,9 @@ def set_legislator_session_value(legislator, session_num, name, value):
 
 	bool_types = [
 		"running_in_2018",
-		"running_for_president"
+		"running_for_president",
+		"running_for_next_term",
+		"seat_up"
 	]
 
 	if name == "aclu_id":

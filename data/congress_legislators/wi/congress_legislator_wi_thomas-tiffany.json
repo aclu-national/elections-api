@@ -18,11 +18,12 @@
   "name": {
     "first": "Thomas", 
     "last": "Tiffany", 
-    "middle": "P."
+    "middle": "P.", 
+    "official_full": "Thomas P. Tiffany"
   }, 
   "terms": [
     {
-      "address": "1714 Longworth House Office Building; Washington DC 20515-4907", 
+      "address": "1714 Longworth House Office Building Washington DC 20515-4907", 
       "district": 7, 
       "end": "2021-01-03", 
       "office": "1714 Longworth House Office Building", 

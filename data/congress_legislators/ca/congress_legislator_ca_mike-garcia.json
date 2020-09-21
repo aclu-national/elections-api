@@ -17,11 +17,12 @@
   }, 
   "name": {
     "first": "Mike", 
-    "last": "Garcia"
+    "last": "Garcia", 
+    "official_full": "Mike Garcia"
   }, 
   "terms": [
     {
-      "address": "1130 Longworth House Office Building; Washington DC 20515-0525", 
+      "address": "1130 Longworth House Office Building Washington DC 20515-0525", 
       "district": 25, 
       "end": "2021-01-03", 
       "office": "1130 Longworth House Office Building", 

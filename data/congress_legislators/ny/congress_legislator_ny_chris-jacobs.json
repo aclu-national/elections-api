@@ -1,0 +1,37 @@
+{
+  "bio": {
+    "birthday": "1966-11-28", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11620", 
+    "ballotpedia": "Chris Jacobs", 
+    "bioguide": "J000020", 
+    "fec": [
+      "H0NY27090"
+    ], 
+    "govtrack": 456793, 
+    "opensecrets": "N00044575", 
+    "wikidata": "Q5112625", 
+    "wikipedia": "Chris Jacobs (politician)"
+  }, 
+  "name": {
+    "first": "Chris", 
+    "last": "Jacobs", 
+    "official_full": "Chris Jacobs"
+  }, 
+  "terms": [
+    {
+      "address": "2243 Rayburn House Office Building Washington DC 20515-3227", 
+      "district": 27, 
+      "end": "2021-01-03", 
+      "office": "2243 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5265", 
+      "start": "2020-07-21", 
+      "state": "NY", 
+      "type": "rep"
+    }
+  ], 
+  "url_slug": "ny-chris-jacobs"
+}

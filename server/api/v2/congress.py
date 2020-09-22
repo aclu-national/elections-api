@@ -209,8 +209,7 @@ def get_legislators_by_state(state, session_num=curr_session):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE (
-			start_date >= '{start_date}' AND end_date <= '{end_date}'
-			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+			end_date > '{start_date}' AND start_date < '{end_date}'
 		)
 		AND state = %s
 		ORDER BY end_date DESC

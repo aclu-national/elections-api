@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/059_x6c", 
     "govtrack": 412787, 
+    "icpsr": 21975, 
+    "opensecrets": "N00042649", 
     "votesmart": 105368, 
     "wikidata": "Q7294939", 
     "wikipedia": "Rashida Tlaib"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1628 Longworth House Office Building; Washington DC 20515-2213", 
+      "address": "1628 Longworth House Office Building Washington DC 20515-2213", 
       "district": 13, 
       "end": "2021-01-03", 
       "office": "1628 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "MI", 
       "type": "rep", 
-      "url": "https://tlaib.house.gov/"
+      "url": "https://tlaib.house.gov"
     }
   ], 
   "url_slug": "mi-rashida-tlaib"

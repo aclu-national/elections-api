@@ -12,6 +12,7 @@
     ], 
     "google_entity_id": "kg:/m/09ry4tm", 
     "govtrack": 412747, 
+    "icpsr": 21759, 
     "opensecrets": "N00042194", 
     "votesmart": 102781, 
     "wikidata": "Q16194422", 
@@ -40,7 +41,7 @@
       "url": "https://balderson.house.gov/"
     }, 
     {
-      "address": "1221 Longworth House Office Building; Washington DC 20515-3512", 
+      "address": "1221 Longworth House Office Building Washington DC 20515-3512", 
       "district": 12, 
       "end": "2021-01-03", 
       "office": "1221 Longworth House Office Building", 
@@ -49,7 +50,7 @@
       "start": "2019-01-03", 
       "state": "OH", 
       "type": "rep", 
-      "url": "https://balderson.house.gov/"
+      "url": "https://balderson.house.gov"
     }
   ], 
   "url_slug": "oh-troy-balderson"

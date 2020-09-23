@@ -1,3 +1,5 @@
+DATABASE_URL ?= elections
+
 all: congress_sessions \
      congress_districts \
      congress_legislators \
@@ -50,7 +52,7 @@ decache:
 
 election_races:
 	python scripts/index_election_races.py
-	psql elections < sources/aclu/aclu_election_races.sql
+	psql ${DATABASE_URL} < sources/aclu/aclu_election_races.sql
 
 election_candidates:
 	python scripts/index_election_candidates.py

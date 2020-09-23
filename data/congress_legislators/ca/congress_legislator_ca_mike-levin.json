@@ -10,6 +10,8 @@
       "H8CA49058"
     ], 
     "govtrack": 412760, 
+    "icpsr": 21939, 
+    "opensecrets": "N00040667", 
     "votesmart": 179416, 
     "wikidata": "Q55424854", 
     "wikipedia": "Mike Levin"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1626 Longworth House Office Building; Washington DC 20515-0549", 
+      "address": "1626 Longworth House Office Building Washington DC 20515-0549", 
       "district": 49, 
       "end": "2021-01-03", 
       "office": "1626 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
-      "url": "https://mikelevin.house.gov/"
+      "url": "https://mikelevin.house.gov"
     }
   ], 
   "url_slug": "ca-mike-levin"

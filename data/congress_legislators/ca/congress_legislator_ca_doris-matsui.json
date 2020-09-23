@@ -127,7 +127,7 @@
       "url": "http://matsui.house.gov"
     }, 
     {
-      "address": "2311 Rayburn House Office Building; Washington DC 20515-0506", 
+      "address": "2311 Rayburn House Office Building Washington DC 20515-0506", 
       "district": 6, 
       "end": "2021-01-03", 
       "office": "2311 Rayburn House Office Building", 
@@ -137,7 +137,7 @@
       "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
-      "url": "http://matsui.house.gov"
+      "url": "https://matsui.house.gov"
     }
   ], 
   "url_slug": "ca-doris-matsui"

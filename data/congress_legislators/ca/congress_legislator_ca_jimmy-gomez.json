@@ -14,6 +14,7 @@
     "google_entity_id": "kg:/m/0n_73h1", 
     "govtrack": 412739, 
     "house_history": 15032449022, 
+    "icpsr": 21754, 
     "maplight": 2250, 
     "opensecrets": "N00040597", 
     "votesmart": 138524, 
@@ -44,7 +45,7 @@
       "url": "https://gomez.house.gov"
     }, 
     {
-      "address": "1530 Longworth House Office Building; Washington DC 20515-0534", 
+      "address": "1530 Longworth House Office Building Washington DC 20515-0534", 
       "district": 34, 
       "end": "2021-01-03", 
       "office": "1530 Longworth House Office Building", 

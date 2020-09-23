@@ -10,6 +10,8 @@
       "H8NY11113"
     ], 
     "govtrack": 412803, 
+    "icpsr": 21958, 
+    "opensecrets": "N00041588", 
     "wikidata": "Q56046860", 
     "wikipedia": "Max Rose (politician)"
   }, 
@@ -24,7 +26,7 @@
   }, 
   "terms": [
     {
-      "address": "1529 Longworth House Office Building; Washington DC 20515-3211", 
+      "address": "1529 Longworth House Office Building Washington DC 20515-3211", 
       "district": 11, 
       "end": "2021-01-03", 
       "office": "1529 Longworth House Office Building", 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "NY", 
       "type": "rep", 
-      "url": "https://maxrose.house.gov/"
+      "url": "https://maxrose.house.gov"
     }
   ], 
   "url_slug": "ny-max-rose"

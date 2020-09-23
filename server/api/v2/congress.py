@@ -1,10 +1,13 @@
 import flask, json, os, re, sys, arrow, us
 
+first_session = 115
 curr_session = 116
+sessions = {}
 
 def get_sessions():
 
-	sessions = {}
+	if curr_session in sessions:
+		return sessions
 
 	cur = flask.g.db.cursor()
 
@@ -44,8 +47,14 @@ def get_district_by_coords(lat, lng, session=None):
 	# requested session. This may have adverse consequences for things like
 	# recently redistricted districts. (20190311/dphiffer)
 
+	# Updated the session filter from
+	# 	filter = 'AND start_session < %d' % session
+	#
+	# because as Dan pointed out above, the filter wasn't returning
+	# recently redistricted districts. (20200108/kokonakajima)
+
 	if session:
-		filter = 'AND start_session < %d' % session
+		filter = 'AND start_session <= %d' % session
 
 	cur = flask.g.db.cursor()
 	cur.execute('''
@@ -267,7 +276,10 @@ def set_legislator_session_value(legislator, session_num, name, value):
 
 	bool_types = [
 		"running_in_2018",
-		"running_for_president"
+		"running_for_president",
+		"running_for_next_term",
+		"seat_up",
+		"special_election"
 	]
 
 	if name == "aclu_id":
@@ -303,21 +315,44 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 	aclu_ids = []
 	term_ids = []
 
+	all_sessions = get_sessions()
+	supported_sessions = {}
+	for num in all_sessions:
+		if num >= first_session:
+			supported_sessions[num] = all_sessions[num]
+
 	rs = cur.fetchall()
 	if rs:
 		for row in rs:
 			aclu_id = row[1]
 			office = 'us_representative' if row[4] == 'rep' else 'us_senator'
+
+			start_date = arrow.get(row[2]).format('YYYY-MM-DD')
+			end_date = arrow.get(row[3]).format('YYYY-MM-DD')
+
+			term_started_late = False
+			term_ended_early = False
+
+			for num in supported_sessions:
+				session = supported_sessions[num]
+				if start_date > session['start_date'] and start_date < session['end_date']:
+					term_started_late = True
+				if end_date < session['end_date'] and end_date > session['start_date']:
+					term_ended_early = True
+
 			legislators[aclu_id] = {
 				'term': {
-					'start_date': arrow.get(row[2]).format('YYYY-MM-DD'),
-					'end_date': arrow.get(row[3]).format('YYYY-MM-DD'),
+					'start_date': start_date,
+					'end_date': end_date,
 					'office': office,
 					'state': row[5],
 					'state_full': us.states.lookup(row[5]).name,
-					'party': row[7]
+					'party': row[7],
+					'term_started_late': term_started_late,
+					'term_ended_early': term_ended_early
 				}
 			}
+
 			if row[4] == 'rep':
 				legislators[aclu_id]['term']['district_num'] = row[6]
 			if not aclu_id in aclu_ids:
@@ -556,11 +591,16 @@ def get_legislators(cur, score_filter="total", include=None, session_num=curr_se
 							s['scores'] = []
 						id = score['aclu_id']
 						score['vote_date'] = vote_dates[id]
+						start_date = legislators[legislator_id]['term']['start_date']
+						end_date = legislators[legislator_id]['term']['end_date']
 
-						# This conditional exists to ensure we don't include
-						# votes that occur after someone's term ends (e.g., they
-						# pass away). (20191028/dphiffer)
-						if score['vote_date'] <= legislators[legislator_id]['term']['end_date']:
+						# This conditional exists to ensure we only include
+						# votes that occur inside of a time span bounded by
+						# the legislators start/end dates. (20191101/dphiffer)
+						#
+						# Modified the conditional to treat the spreadsheet
+						# vote label as the source of truth (20191113/kokonakajima)
+						if score['status'] != "Not in office":
 							s['scores'].append(score)
 
 	cur.execute('''

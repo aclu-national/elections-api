@@ -11,6 +11,8 @@
       "H8NY15148"
     ], 
     "govtrack": 412804, 
+    "icpsr": 21949, 
+    "opensecrets": "N00041162", 
     "votesmart": 180416, 
     "wikidata": "Q55223040", 
     "wikipedia": "Alexandria Ocasio-Cortez"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "229 Cannon House Office Building; Washington DC 20515-3214", 
+      "address": "229 Cannon House Office Building Washington DC 20515-3214", 
       "district": 14, 
       "end": "2021-01-03", 
       "office": "229 Cannon House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "NY", 
       "type": "rep", 
-      "url": "https://ocasio-cortez.house.gov/"
+      "url": "https://ocasio-cortez.house.gov"
     }
   ], 
   "url_slug": "ny-alexandria-ocasio-cortez"

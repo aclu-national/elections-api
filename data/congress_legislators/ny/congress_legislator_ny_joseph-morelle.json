@@ -12,6 +12,8 @@
     ], 
     "google_entity_id": "kg:/m/03d820m", 
     "govtrack": 412749, 
+    "icpsr": 21761, 
+    "opensecrets": "N00043207", 
     "votesmart": 4362, 
     "wikidata": "Q6285623", 
     "wikipedia": "Joseph Morelle"
@@ -40,7 +42,7 @@
       "url": "https://morelle.house.gov"
     }, 
     {
-      "address": "1317 Longworth House Office Building; Washington DC 20515-3225", 
+      "address": "1317 Longworth House Office Building Washington DC 20515-3225", 
       "district": 25, 
       "end": "2021-01-03", 
       "office": "1317 Longworth House Office Building", 

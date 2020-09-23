@@ -10,6 +10,8 @@
       "H8VA05171"
     ], 
     "govtrack": 412831, 
+    "icpsr": 21957, 
+    "opensecrets": "N00043541", 
     "votesmart": 181445, 
     "wikidata": "Q28086149", 
     "wikipedia": "Denver Riggleman"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1022 Longworth House Office Building; Washington DC 20515-4605", 
+      "address": "1022 Longworth House Office Building Washington DC 20515-4605", 
       "district": 5, 
       "end": "2021-01-03", 
       "office": "1022 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "VA", 
       "type": "rep", 
-      "url": "https://riggleman.house.gov/"
+      "url": "https://riggleman.house.gov"
     }
   ], 
   "url_slug": "va-denver-riggleman"

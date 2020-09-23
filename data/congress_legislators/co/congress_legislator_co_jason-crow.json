@@ -10,6 +10,8 @@
       "H8CO06229"
     ], 
     "govtrack": 412762, 
+    "icpsr": 21912, 
+    "opensecrets": "N00040876", 
     "votesmart": 180218, 
     "wikidata": "Q58323071", 
     "wikipedia": "Jason Crow"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1229 Longworth House Office Building; Washington DC 20515-0606", 
+      "address": "1229 Longworth House Office Building Washington DC 20515-0606", 
       "district": 6, 
       "end": "2021-01-03", 
       "office": "1229 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "CO", 
       "type": "rep", 
-      "url": "https://crow.house.gov/"
+      "url": "https://crow.house.gov"
     }
   ], 
   "url_slug": "co-jason-crow"

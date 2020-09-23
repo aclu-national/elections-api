@@ -10,6 +10,8 @@
       "H8MN08043"
     ], 
     "govtrack": 412792, 
+    "icpsr": 21969, 
+    "opensecrets": "N00041511", 
     "votesmart": 159954, 
     "wikidata": "Q55955746", 
     "wikipedia": "Pete Stauber"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "126 Cannon House Office Building; Washington DC 20515-2308", 
+      "address": "126 Cannon House Office Building Washington DC 20515-2308", 
       "district": 8, 
       "end": "2021-01-03", 
       "office": "126 Cannon House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "MN", 
       "type": "rep", 
-      "url": "https://stauber.house.gov/"
+      "url": "https://stauber.house.gov"
     }
   ], 
   "url_slug": "mn-pete-stauber"

@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/05h4vgh", 
     "govtrack": 412773, 
+    "icpsr": 21920, 
+    "opensecrets": "N00041335", 
     "votesmart": 33091, 
     "wikidata": "Q7381134", 
     "wikipedia": "Russ Fulcher"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1520 Longworth House Office Building; Washington DC 20515-1201", 
+      "address": "1520 Longworth House Office Building Washington DC 20515-1201", 
       "district": 1, 
       "end": "2021-01-03", 
       "office": "1520 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "ID", 
       "type": "rep", 
-      "url": "https://fulcher.house.gov/"
+      "url": "https://fulcher.house.gov"
     }
   ], 
   "url_slug": "id-russ-fulcher"

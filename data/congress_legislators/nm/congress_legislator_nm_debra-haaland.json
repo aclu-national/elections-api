@@ -10,6 +10,8 @@
       "H8NM01331"
     ], 
     "govtrack": 412800, 
+    "icpsr": 21928, 
+    "opensecrets": "N00040933", 
     "votesmart": 149368, 
     "wikidata": "Q54860790", 
     "wikipedia": "Deb Haaland"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1237 Longworth House Office Building; Washington DC 20515-3101", 
+      "address": "1237 Longworth House Office Building Washington DC 20515-3101", 
       "district": 1, 
       "end": "2021-01-03", 
       "office": "1237 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "NM", 
       "type": "rep", 
-      "url": "https://haaland.house.gov/"
+      "url": "https://haaland.house.gov"
     }
   ], 
   "url_slug": "nm-debra-haaland"

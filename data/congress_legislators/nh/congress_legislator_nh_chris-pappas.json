@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0nd3t8z", 
     "govtrack": 412795, 
+    "icpsr": 21951, 
+    "opensecrets": "N00042161", 
     "wikidata": "Q5107684", 
     "wikipedia": "Chris Pappas (politician)"
   }, 
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "323 Cannon House Office Building; Washington DC 20515-2901", 
+      "address": "323 Cannon House Office Building Washington DC 20515-2901", 
       "district": 1, 
       "end": "2021-01-03", 
       "office": "323 Cannon House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "NH", 
       "type": "rep", 
-      "url": "https://pappas.house.gov/"
+      "url": "https://pappas.house.gov"
     }
   ], 
   "url_slug": "nh-chris-pappas"

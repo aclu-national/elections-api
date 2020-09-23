@@ -35,18 +35,18 @@
   }, 
   "terms": [
     {
-      "address": "185 Dirksen Senate Office Building Washington DC 20510", 
+      "address": "113 Dirksen Senate Office Building Washington DC 20510", 
       "class": 2, 
       "contact_form": "https://www.tillis.senate.gov/public/index.cfm/email-me", 
       "end": "2021-01-03", 
-      "office": "185 Dirksen Senate Office Building", 
+      "office": "113 Dirksen Senate Office Building", 
       "party": "Republican", 
       "phone": "202-224-6342", 
       "start": "2015-01-06", 
       "state": "NC", 
       "state_rank": "junior", 
       "type": "sen", 
-      "url": "https://www.tillis.senate.gov/public"
+      "url": "https://www.tillis.senate.gov"
     }
   ], 
   "url_slug": "nc-thom-tillis"

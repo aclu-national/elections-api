@@ -91,11 +91,28 @@
       "url": "https://amash.house.gov"
     }, 
     {
-      "address": "106 Cannon House Office Building; Washington DC 20515-2203", 
+      "address": "106 Cannon House Office Building Washington DC 20515-2203", 
       "district": 3, 
       "end": "2021-01-03", 
       "office": "106 Cannon House Office Building", 
-      "party": "Independent",
+      "party": "Libertarian", 
+      "party_affiliations": [
+        {
+          "end": "2019-07-03", 
+          "party": "Republican", 
+          "start": "2019-01-03"
+        }, 
+        {
+          "end": "2020-04-30", 
+          "party": "Independent", 
+          "start": "2019-07-04"
+        }, 
+        {
+          "end": "2021-01-03", 
+          "party": "Libertarian", 
+          "start": "2020-05-01"
+        }
+      ], 
       "phone": "202-225-3831", 
       "rss_url": "http://amash.house.gov/rss.xml", 
       "start": "2019-01-03", 

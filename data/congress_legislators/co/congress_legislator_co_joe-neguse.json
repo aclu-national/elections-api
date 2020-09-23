@@ -10,6 +10,8 @@
       "H8CO02160"
     ], 
     "govtrack": 412761, 
+    "icpsr": 21948, 
+    "opensecrets": "N00041080", 
     "votesmart": 151075, 
     "wikidata": "Q57242006", 
     "wikipedia": "Joe Neguse"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1419 Longworth House Office Building; Washington DC 20515-0602", 
+      "address": "1419 Longworth House Office Building Washington DC 20515-0602", 
       "district": 2, 
       "end": "2021-01-03", 
       "office": "1419 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "CO", 
       "type": "rep", 
-      "url": "https://neguse.house.gov/"
+      "url": "https://neguse.house.gov"
     }
   ], 
   "url_slug": "co-joe-neguse"

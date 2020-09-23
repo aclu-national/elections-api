@@ -28,7 +28,8 @@
     "official_full": "Ann Kirkpatrick"
   }, 
   "social": {
-    "twitter": "RepKirkpatrick"
+    "twitter": "RepKirkpatrick", 
+    "twitter_id": 1081240074946252801
   }, 
   "terms": [
     {
@@ -71,7 +72,7 @@
       "url": "http://kirkpatrick.house.gov"
     }, 
     {
-      "address": "309 Cannon House Office Building; Washington DC 20515-0302", 
+      "address": "309 Cannon House Office Building Washington DC 20515-0302", 
       "district": 2, 
       "end": "2021-01-03", 
       "office": "309 Cannon House Office Building", 
@@ -81,7 +82,7 @@
       "start": "2019-01-03", 
       "state": "AZ", 
       "type": "rep", 
-      "url": "http://kirkpatrick.house.gov"
+      "url": "https://kirkpatrick.house.gov"
     }
   ], 
   "url_slug": "az-ann-kirkpatrick"

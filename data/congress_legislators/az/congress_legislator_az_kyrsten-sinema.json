@@ -9,7 +9,8 @@
     "bioguide": "S001191", 
     "cspan": 68489, 
     "fec": [
-      "H2AZ09019"
+      "H2AZ09019", 
+      "S8AZ00197"
     ], 
     "google_entity_id": "kg:/m/03qnndb", 
     "govtrack": 412509, 
@@ -82,11 +83,11 @@
       "url": "https://sinema.house.gov"
     }, 
     {
-      "address": "825B&C Hart Senate Office Building Washington DC 20510", 
+      "address": "317 Hart Senate Office Building Washington DC 20510", 
       "class": 1, 
       "contact_form": "https://www.sinema.senate.gov/contact-kyrsten", 
       "end": "2025-01-03", 
-      "office": "825b&c Hart Senate Office Building", 
+      "office": "317 Hart Senate Office Building", 
       "party": "Democrat", 
       "phone": "202-224-4521", 
       "start": "2019-01-03", 

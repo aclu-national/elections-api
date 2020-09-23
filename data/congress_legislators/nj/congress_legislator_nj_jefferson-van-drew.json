@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/08h3sl", 
     "govtrack": 412796, 
+    "icpsr": 21980, 
+    "opensecrets": "N00042164", 
     "votesmart": 24685, 
     "wikidata": "Q6175202", 
     "wikipedia": "Jeff Van Drew"
@@ -26,16 +28,28 @@
   }, 
   "terms": [
     {
-      "address": "331 Cannon House Office Building; Washington DC 20515-3002", 
+      "address": "331 Cannon House Office Building Washington DC 20515-3002", 
       "district": 2, 
       "end": "2021-01-03", 
       "office": "331 Cannon House Office Building", 
-      "party": "Democrat", 
+      "party": "Republican", 
+      "party_affiliations": [
+        {
+          "end": "2019-12-18", 
+          "party": "Democrat", 
+          "start": "2019-01-03"
+        }, 
+        {
+          "end": "2021-01-03", 
+          "party": "Republican", 
+          "start": "2019-12-19"
+        }
+      ], 
       "phone": "202-225-6572", 
       "start": "2019-01-03", 
       "state": "NJ", 
       "type": "rep", 
-      "url": "https://vandrew.house.gov/"
+      "url": "https://vandrew.house.gov"
     }
   ], 
   "url_slug": "nj-jefferson-van-drew"

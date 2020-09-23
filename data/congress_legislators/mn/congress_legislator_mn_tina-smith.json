@@ -29,7 +29,8 @@
   }, 
   "social": {
     "facebook": "USSenTinaSmith", 
-    "twitter": "SenTinaSmith"
+    "twitter": "SenTinaSmith", 
+    "twitter_id": 941000686275387392
   }, 
   "terms": [
     {
@@ -51,7 +52,7 @@
     {
       "address": "720 Hart Senate Office Building Washington DC 20510", 
       "class": 2, 
-      "contact_form": "https://www.smith.senate.gov/content/contact-senator", 
+      "contact_form": "https://www.smith.senate.gov/contact-tina", 
       "end": "2021-01-03", 
       "office": "720 Hart Senate Office Building", 
       "party": "Democrat", 

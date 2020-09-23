@@ -10,6 +10,8 @@
       "H8MN03143"
     ], 
     "govtrack": 412790, 
+    "icpsr": 21953, 
+    "opensecrets": "N00041134", 
     "votesmart": 181357, 
     "wikidata": "Q58323131", 
     "wikipedia": "Dean Phillips"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1305 Longworth House Office Building; Washington DC 20515-2303", 
+      "address": "1305 Longworth House Office Building Washington DC 20515-2303", 
       "district": 3, 
       "end": "2021-01-03", 
       "office": "1305 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "MN", 
       "type": "rep", 
-      "url": "https://phillips.house.gov/"
+      "url": "https://phillips.house.gov"
     }
   ], 
   "url_slug": "mn-dean-phillips"

@@ -11,6 +11,8 @@
       "H8PA07200"
     ], 
     "govtrack": 412750, 
+    "icpsr": 21762, 
+    "opensecrets": "N00042706", 
     "votesmart": 178890, 
     "wikidata": "Q54611716", 
     "wikipedia": "Mary Gay Scanlon"
@@ -39,7 +41,7 @@
       "url": "https://scanlon.house.gov"
     }, 
     {
-      "address": "1535 Longworth House Office Building; Washington DC 20515-3805", 
+      "address": "1535 Longworth House Office Building Washington DC 20515-3805", 
       "district": 5, 
       "end": "2021-01-03", 
       "office": "1535 Longworth House Office Building", 

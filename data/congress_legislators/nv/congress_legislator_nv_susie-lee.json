@@ -7,9 +7,11 @@
     "aclu_id": "aclu/elections-api/congress_legislator:11571", 
     "bioguide": "L000590", 
     "fec": [
-      "H8NV03200"
+      "H6NV04020"
     ], 
     "govtrack": 412802, 
+    "icpsr": 21938, 
+    "opensecrets": "N00037247", 
     "votesmart": 169344, 
     "wikidata": "Q58333611", 
     "wikipedia": "Susie Lee"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "522 Cannon House Office Building; Washington DC 20515-2803", 
+      "address": "522 Cannon House Office Building Washington DC 20515-2803", 
       "district": 3, 
       "end": "2021-01-03", 
       "office": "522 Cannon House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "NV", 
       "type": "rep", 
-      "url": "https://susielee.house.gov/"
+      "url": "https://susielee.house.gov"
     }
   ], 
   "url_slug": "nv-susie-lee"

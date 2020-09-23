@@ -12,6 +12,8 @@
     ], 
     "google_entity_id": "kg:/g/11cmhw_v1s", 
     "govtrack": 412798, 
+    "icpsr": 21942, 
+    "opensecrets": "N00041843", 
     "votesmart": 179645, 
     "wikidata": "Q23772336", 
     "wikipedia": "Tom Malinowski"
@@ -27,7 +29,7 @@
   }, 
   "terms": [
     {
-      "address": "426 Cannon House Office Building; Washington DC 20515-3007", 
+      "address": "426 Cannon House Office Building Washington DC 20515-3007", 
       "district": 7, 
       "end": "2021-01-03", 
       "office": "426 Cannon House Office Building", 
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "NJ", 
       "type": "rep", 
-      "url": "https://malinowski.house.gov/"
+      "url": "https://malinowski.house.gov"
     }
   ], 
   "url_slug": "nj-tom-malinowski"

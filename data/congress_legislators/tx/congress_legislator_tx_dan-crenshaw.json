@@ -9,8 +9,10 @@
     "fec": [
       "H8TX02166"
     ], 
-    "google_entity_id": "kg:/g/11hcj7fy00", 
+    "google_entity_id": "kg:/g/11fk40sjyz", 
     "govtrack": 412820, 
+    "icpsr": 21911, 
+    "opensecrets": "N00042224", 
     "votesmart": 177270, 
     "wikidata": "Q58301995", 
     "wikipedia": "Dan Crenshaw"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "413 Cannon House Office Building; Washington DC 20515-4302", 
+      "address": "413 Cannon House Office Building Washington DC 20515-4302", 
       "district": 2, 
       "end": "2021-01-03", 
       "office": "413 Cannon House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://crenshaw.house.gov/"
+      "url": "https://crenshaw.house.gov"
     }
   ], 
   "url_slug": "tx-dan-crenshaw"

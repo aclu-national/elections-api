@@ -178,24 +178,25 @@ def get_all_legislators(include=None, session_num=curr_session):
 	if session_num == 'all':
 		session_115 = sessions[115]
 		session_116 = sessions[116]
+		# If any portion of a legislator's term overlaps with session 115 or 116,
+		# we want to include them in this endpoint
 		cur.execute('''
 			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 			FROM congress_legislator_terms
-			WHERE start_date >= '{start_date_115}' AND end_date <= '{end_date_115}'
-				OR start_date <= '{start_date_115}' AND end_date >= '{end_date_115}'
-				OR start_date >= '{start_date_116}' AND end_date <= '{end_date_116}'
-				OR start_date <= '{start_date_116}' AND end_date >= '{end_date_116}'
+			WHERE start_date < '{end_date_115}' AND end_date > '{start_date_115}'
+				OR start_date < '{end_date_116}' AND end_date > '{start_date_116}'
 			ORDER BY end_date DESC
 		'''.format(start_date_115=session_115['start_date'], end_date_115=session_115['end_date'], start_date_116=session_116['start_date'], end_date_116=session_116['end_date']))
 	else:
 		session = sessions[session_num]
+		# If any portion of a legislator's term overlaps with the selected session,
+		# we want to include them in this endpoint
 		cur.execute('''
 			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 			FROM congress_legislator_terms
-			WHERE start_date >= '{start_date}' AND end_date <= '{end_date}'
-					OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+			WHERE start_date < '{session_end_date}' AND end_date > '{session_start_date}'
 			ORDER BY end_date DESC
-		'''.format(start_date=session['start_date'], end_date=session['end_date']))
+		'''.format(session_start_date=session['start_date'], session_end_date=session['end_date']))
 
 	return get_legislators(cur, "total", include, session_num)
 
@@ -209,12 +210,11 @@ def get_legislators_by_state(state, session_num=curr_session):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE (
-			start_date >= '{start_date}' AND end_date <= '{end_date}'
-			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+			start_date < '{session_end_date}' AND end_date > '{session_start_date}'
 		)
 		AND state = %s
 		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state,))
+	'''.format(session_start_date=session['start_date'], session_end_date=session['end_date']), (state,))
 
 	return get_legislators(cur, "total", None, session_num)
 
@@ -228,8 +228,7 @@ def get_legislators_by_district(state, district_num, session_num=curr_session):
 		SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 		FROM congress_legislator_terms
 		WHERE (
-			start_date >= '{start_date}' AND end_date <= '{end_date}'
-			OR start_date <= '{start_date}' AND end_date >= '{end_date}'
+			start_date < '{session_end_date}' AND end_date > '{session_start_date}'
 		)
 		AND state = %s
 		AND (
@@ -237,7 +236,7 @@ def get_legislators_by_district(state, district_num, session_num=curr_session):
 			district_num = %s
 		)
 		ORDER BY end_date DESC
-	'''.format(start_date=session['start_date'], end_date=session['end_date']), (state, district_num))
+	'''.format(session_start_date=session['start_date'], session_end_date=session['end_date']), (state, district_num))
 
 	return get_legislators(cur, "total", None, session_num)
 

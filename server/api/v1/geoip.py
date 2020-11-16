@@ -17,7 +17,7 @@ def get_ipstack_coords(ip):
 	global api_key
 
 	try:
-		base_url = "http://api.ipstack.com"
+		base_url = "https://api.ipstack.com"
 		path = "/%s" % urllib.quote_plus(ip)
 		url = "%s%s?access_key=%s" % (base_url, path, api_key)
 		rsp = requests.get(url).json()

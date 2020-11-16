@@ -29,7 +29,8 @@
     "official_full": "Martha McSally"
   }, 
   "social": {
-    "twitter": "SenMcSallyAZ"
+    "twitter": "SenMcSallyAZ", 
+    "twitter_id": 2964949642
   }, 
   "terms": [
     {
@@ -59,11 +60,11 @@
       "url": "https://mcsally.house.gov"
     }, 
     {
-      "address": "B40D Dirksen Senate Office Building Washington DC 20510", 
+      "address": "404 Russell Senate Office Building Washington DC 20510", 
       "class": 3, 
       "contact_form": "https://www.mcsally.senate.gov/contact_martha", 
       "end": "2021-01-03", 
-      "office": "B40d Dirksen Senate Office Building", 
+      "office": "404 Russell Senate Office Building", 
       "party": "Republican", 
       "phone": "202-224-2235", 
       "start": "2019-01-03", 

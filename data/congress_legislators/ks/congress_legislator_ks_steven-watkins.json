@@ -10,6 +10,8 @@
       "H8KS02199"
     ], 
     "govtrack": 412779, 
+    "icpsr": 21982, 
+    "opensecrets": "N00042126", 
     "wikidata": "Q60428824", 
     "wikipedia": "Steve Watkins (politician)"
   }, 
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1205 Longworth House Office Building; Washington DC 20515-1602", 
+      "address": "1205 Longworth House Office Building Washington DC 20515-1602", 
       "district": 2, 
       "end": "2021-01-03", 
       "office": "1205 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "KS", 
       "type": "rep", 
-      "url": "https://watkins.house.gov/"
+      "url": "https://watkins.house.gov"
     }
   ], 
   "url_slug": "ks-steven-watkins"

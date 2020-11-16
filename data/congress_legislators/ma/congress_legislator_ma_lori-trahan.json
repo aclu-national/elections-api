@@ -10,6 +10,8 @@
       "H8MA03106"
     ], 
     "govtrack": 412781, 
+    "icpsr": 21977, 
+    "opensecrets": "N00041808", 
     "votesmart": 182310, 
     "wikidata": "Q56486676", 
     "wikipedia": "Lori Trahan"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1616 Longworth House Office Building; Washington DC 20515-2103", 
+      "address": "1616 Longworth House Office Building Washington DC 20515-2103", 
       "district": 3, 
       "end": "2021-01-03", 
       "office": "1616 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "MA", 
       "type": "rep", 
-      "url": "https://trahan.house.gov/"
+      "url": "https://trahan.house.gov"
     }
   ], 
   "url_slug": "ma-lori-trahan"

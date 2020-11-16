@@ -10,6 +10,8 @@
       "H8TX21307"
     ], 
     "govtrack": 412826, 
+    "icpsr": 21961, 
+    "opensecrets": "N00042268", 
     "votesmart": 177319, 
     "wikidata": "Q58333615", 
     "wikipedia": "Chip Roy"
@@ -25,7 +27,7 @@
   }, 
   "terms": [
     {
-      "address": "1319 Longworth House Office Building; Washington DC 20515-4321", 
+      "address": "1319 Longworth House Office Building Washington DC 20515-4321", 
       "district": 21, 
       "end": "2021-01-03", 
       "office": "1319 Longworth House Office Building", 
@@ -34,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://roy.house.gov/"
+      "url": "https://roy.house.gov"
     }
   ], 
   "url_slug": "tx-chip-roy"

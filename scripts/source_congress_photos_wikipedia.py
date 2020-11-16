@@ -1,6 +1,6 @@
 #/bin/env python
 
-import os, re, sys, yaml, urllib2
+import os, re, sys, yaml, urllib2, json
 
 script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
@@ -33,15 +33,19 @@ for legislator in data:
 
 	wikipedia_slug = legislator["id"]["wikipedia"].replace(' ', '_')
 	wikipedia_slug = urllib2.quote(wikipedia_slug.encode('utf-8'))
-	wikipedia_url = 'https://en.wikipedia.org/wiki/%s' % wikipedia_slug
+	wikipedia_url = 'https://en.wikipedia.org/w/api.php?action=query&titles=%s&prop=pageimages&format=json&formatversion=2&pithumbsize=500' % wikipedia_slug
 
-	print("Downloading %s" % path)
+	print("Downloading %s" % wikipedia_url)
 
-	cmd = "/usr/bin/curl -s '%s' | /usr/local/bin/pup '.infobox img attr{src}'" % wikipedia_url
-	image_url = os.popen(cmd).read()
-	image_url = image_url.split('\n')[0]
-	image_url = 'https:' + image_url.strip()
+	response = urllib2.urlopen(wikipedia_url)
+	data = json.loads(response.read())
+	page = data['query']['pages'][0]
 
-	os.popen("/usr/bin/curl --fail -s -o %s '%s'" % (abs_path, image_url))
+	if not 'thumbnail' in page: 
+		print("No image available")
+	else: 
+		image_url = page['thumbnail']['source']
+		print("Downloading image %s" % image_url)
+		os.popen("/usr/bin/curl --fail -s -o %s '%s'" % (abs_path, image_url))
 
 print("Done")

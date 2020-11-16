@@ -14,7 +14,7 @@ data = yaml.load(file)
 
 for legislator in data:
 	bioguide = legislator["id"]["bioguide"]
-	url = "http://bioguide.congress.gov/bioguide/photo/%s/%s.jpg" % (bioguide[0], bioguide)
+	url = "https://bioguideretro.congress.gov/Static_Files/images/photos/%s/%s.jpg" % (bioguide[0], bioguide)
 	path = "%s/sources/congress_photos/%s.jpg" % (root_dir, bioguide)
 	if not os.path.exists(path):
 		cmd = ["/usr/bin/curl", "--fail", "-s", "-o", path, url]

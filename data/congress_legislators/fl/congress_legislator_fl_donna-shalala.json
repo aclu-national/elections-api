@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/01v3vb", 
     "govtrack": 412768, 
+    "icpsr": 21963, 
+    "opensecrets": "N00042811", 
     "votesmart": 182301, 
     "wikidata": "Q292569", 
     "wikipedia": "Donna Shalala"
@@ -27,7 +29,7 @@
   }, 
   "terms": [
     {
-      "address": "1320 Longworth House Office Building; Washington DC 20515-0927", 
+      "address": "1320 Longworth House Office Building Washington DC 20515-0927", 
       "district": 27, 
       "end": "2021-01-03", 
       "office": "1320 Longworth House Office Building", 
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "FL", 
       "type": "rep", 
-      "url": "https://shalala.house.gov/"
+      "url": "https://shalala.house.gov"
     }
   ], 
   "url_slug": "fl-donna-shalala"

@@ -10,6 +10,8 @@
       "H8WA08189"
     ], 
     "govtrack": 412835, 
+    "icpsr": 21962, 
+    "opensecrets": "N00041606", 
     "votesmart": 181124, 
     "wikidata": "Q58333616", 
     "wikipedia": "Kim Schrier"
@@ -20,11 +22,12 @@
     "official_full": "Kim Schrier"
   }, 
   "social": {
-    "twitter": "RepKimSchrier"
+    "twitter": "RepKimSchrier", 
+    "twitter_id": 1080462532815532032
   }, 
   "terms": [
     {
-      "address": "1123 Longworth House Office Building; Washington DC 20515-4708", 
+      "address": "1123 Longworth House Office Building Washington DC 20515-4708", 
       "district": 8, 
       "end": "2021-01-03", 
       "office": "1123 Longworth House Office Building", 
@@ -33,7 +36,7 @@
       "start": "2019-01-03", 
       "state": "WA", 
       "type": "rep", 
-      "url": "https://schrier.house.gov/"
+      "url": "https://schrier.house.gov"
     }
   ], 
   "url_slug": "wa-kim-schrier"

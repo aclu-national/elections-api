@@ -1,5 +1,5 @@
 {
-  "calendar_url": "https://elections.api.aclu.org/v1/calendar?state=ny&format=ics",
+  "calendar_url": "https://elections.api.aclu.org/v2/calendar?state=ny&format=ics",
   "congress": {
     "district": {
       "aclu_id": "aclu/elections-api/congress_district:11084",
@@ -50,14 +50,35 @@
           "wikipedia": "Chuck Schumer"
         },
         "name": {
-          "display_name": "Leader Charles \"Chuck\" Schumer (D-NY)",
           "first_name": "Charles",
           "full_name": "Charles \"Chuck\" E. Schumer",
           "last_name": "Schumer",
           "nickname": "Chuck"
         },
         "photo": "https://elections.api.aclu.org/congress_photos/S000148.jpg",
-        "running_in_2018": false,
+        "score_sessions": [
+          115,
+          116
+        ],
+        "sessions": [
+          {
+            "display_name": "Leader Charles \"Chuck\" Schumer",
+            "running_for_president": false,
+            "running_in_2018": false,
+            "session": 115,
+            "total_score": "70%",
+            "votes_agreed": "19",
+            "votes_total": "27"
+          },
+          {
+            "display_name": "Sen. Chuck Schumer",
+            "running_for_president": false,
+            "session": 116,
+            "total_score": "78%",
+            "votes_agreed": "7",
+            "votes_total": "9"
+          }
+        ],
         "social": {
           "facebook": "senschumer",
           "twitter": "SenSchumer",
@@ -68,14 +89,16 @@
         "term": {
           "class": 3,
           "end_date": "2023-01-03",
+          "is_delegate": false,
           "office": "us_senator",
           "party": "Democrat",
           "start_date": "2017-01-03",
           "state": "ny",
           "state_full": "New York",
-          "state_rank": "senior"
+          "state_rank": "senior",
+          "term_ended_early": false,
+          "term_started_late": false
         },
-        "total_score": "67%",
         "url_slug": "ny-charles-schumer"
       },
       {
@@ -86,7 +109,6 @@
         "contact": {
           "address": "478 Russell Senate Office Building Washington DC 20510",
           "contact_form": "https://www.gillibrand.senate.gov/contact/email-me",
-          "fax": "202-228-0282",
           "office": "478 Russell Senate Office Building",
           "phone": "202-224-4451",
           "rss_url": "http://www.gillibrand.senate.gov/rss/",
@@ -111,32 +133,55 @@
           "wikipedia": "Kirsten Gillibrand"
         },
         "name": {
-          "display_name": "Sen. Kirsten Gillibrand (D-NY)",
           "first_name": "Kirsten",
           "full_name": "Kirsten E. Gillibrand",
           "last_name": "Gillibrand",
           "nickname": null
         },
         "photo": "https://elections.api.aclu.org/congress_photos/G000555.jpg",
-        "running_in_2018": true,
+        "score_sessions": [
+          115,
+          116
+        ],
+        "sessions": [
+          {
+            "display_name": "Sen. Kirsten Gillibrand",
+            "running_for_president": false,
+            "running_in_2018": true,
+            "session": 115,
+            "total_score": "85%",
+            "votes_agreed": "23",
+            "votes_total": "27"
+          },
+          {
+            "display_name": "Sen. Kirsten Gillibrand",
+            "running_for_president": false,
+            "session": 116,
+            "total_score": "100%",
+            "votes_agreed": "9",
+            "votes_total": "9"
+          }
+        ],
         "social": {
           "facebook": "SenKirstenGillibrand",
-          "twitter": "SenGillibrand",
-          "twitter_id": "72198806",
+          "twitter": "GillibrandNY",
+          "twitter_id": "899978622416695297",
           "youtube": "KirstenEGillibrand",
           "youtube_id": "UCVEloQogVsmnkd5vxJInmYg"
         },
         "term": {
           "class": 1,
-          "end_date": "2019-01-03",
+          "end_date": "2025-01-03",
+          "is_delegate": false,
           "office": "us_senator",
           "party": "Democrat",
-          "start_date": "2013-01-03",
+          "start_date": "2019-01-03",
           "state": "ny",
           "state_full": "New York",
-          "state_rank": "junior"
+          "state_rank": "junior",
+          "term_ended_early": false,
+          "term_started_late": false
         },
-        "total_score": "86%",
         "url_slug": "ny-kirsten-gillibrand"
       },
       {
@@ -145,9 +190,8 @@
           "gender": "M"
         },
         "contact": {
-          "address": "2109 Rayburn House Office Building; Washington DC 20515-3210",
-          "fax": "202-225-6923",
-          "office": "2109 Rayburn House Office Building",
+          "address": "2132 Rayburn House Office Building; Washington DC 20515-3210",
+          "office": "2132 Rayburn House Office Building",
           "phone": "202-225-5635",
           "rss_url": "http://nadler.house.gov/rss.xml",
           "url": "https://nadler.house.gov"
@@ -169,14 +213,35 @@
           "wikipedia": "Jerrold Nadler"
         },
         "name": {
-          "display_name": "Rep. Jerry Nadler (D-NY-10)",
           "first_name": "Jerrold",
           "full_name": "Jerrold Nadler",
           "last_name": "Nadler",
           "nickname": null
         },
         "photo": "https://elections.api.aclu.org/congress_photos/N000002.jpg",
-        "running_in_2018": true,
+        "score_sessions": [
+          115,
+          116
+        ],
+        "sessions": [
+          {
+            "display_name": "Rep. Jerry Nadler",
+            "running_for_president": false,
+            "running_in_2018": true,
+            "session": 115,
+            "total_score": "87%",
+            "votes_agreed": "34",
+            "votes_total": "39"
+          },
+          {
+            "display_name": "Rep. Jerry Nadler",
+            "running_for_president": false,
+            "session": 116,
+            "total_score": "82%",
+            "votes_agreed": "23",
+            "votes_total": "28"
+          }
+        ],
         "social": {
           "facebook": "CongressmanNadler",
           "twitter": "RepJerryNadler",
@@ -186,14 +251,16 @@
         },
         "term": {
           "district_num": 10,
-          "end_date": "2019-01-03",
+          "end_date": "2021-01-03",
+          "is_delegate": false,
           "office": "us_representative",
           "party": "Democrat",
-          "start_date": "2017-01-03",
+          "start_date": "2019-01-03",
           "state": "ny",
-          "state_full": "New York"
+          "state_full": "New York",
+          "term_ended_early": false,
+          "term_started_late": false
         },
-        "total_score": "86%",
         "url_slug": "ny-jerrold-nadler"
       }
     ],

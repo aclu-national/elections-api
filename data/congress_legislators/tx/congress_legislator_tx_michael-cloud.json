@@ -12,6 +12,7 @@
       "H8TX27049"
     ], 
     "govtrack": 412746, 
+    "icpsr": 21758, 
     "opensecrets": "N00041882", 
     "votesmart": 177350, 
     "wikidata": "Q55313952", 
@@ -40,7 +41,7 @@
       "url": "https://cloud.house.gov/"
     }, 
     {
-      "address": "1314 Longworth House Office Building; Washington DC 20515-4327", 
+      "address": "1314 Longworth House Office Building Washington DC 20515-4327", 
       "district": 27, 
       "end": "2021-01-03", 
       "office": "1314 Longworth House Office Building", 
@@ -49,7 +50,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://cloud.house.gov/"
+      "url": "https://cloud.house.gov"
     }
   ], 
   "url_slug": "tx-michael-cloud"

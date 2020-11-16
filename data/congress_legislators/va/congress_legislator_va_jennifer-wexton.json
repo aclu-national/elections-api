@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0_flt0x", 
     "govtrack": 412834, 
+    "icpsr": 21983, 
+    "opensecrets": "N00041002", 
     "votesmart": 147013, 
     "wikidata": "Q16206735", 
     "wikipedia": "Jennifer Wexton"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1217 Longworth House Office Building; Washington DC 20515-4610", 
+      "address": "1217 Longworth House Office Building Washington DC 20515-4610", 
       "district": 10, 
       "end": "2021-01-03", 
       "office": "1217 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "VA", 
       "type": "rep", 
-      "url": "https://wexton.house.gov/"
+      "url": "https://wexton.house.gov"
     }
   ], 
   "url_slug": "va-jennifer-wexton"

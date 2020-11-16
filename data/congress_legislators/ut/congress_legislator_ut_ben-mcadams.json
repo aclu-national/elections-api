@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0bbv3kw", 
     "govtrack": 412829, 
+    "icpsr": 21943, 
+    "opensecrets": "N00042013", 
     "votesmart": 117512, 
     "wikidata": "Q4886138", 
     "wikipedia": "Ben McAdams"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "130 Cannon House Office Building; Washington DC 20515-4404", 
+      "address": "130 Cannon House Office Building Washington DC 20515-4404", 
       "district": 4, 
       "end": "2021-01-03", 
       "office": "130 Cannon House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "UT", 
       "type": "rep", 
-      "url": "https://mcadams.house.gov/"
+      "url": "https://mcadams.house.gov"
     }
   ], 
   "url_slug": "ut-ben-mcadams"

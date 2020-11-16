@@ -10,6 +10,8 @@
       "H8CA39174"
     ], 
     "govtrack": 412757, 
+    "icpsr": 21907, 
+    "opensecrets": "N00041464", 
     "votesmart": 179370, 
     "wikidata": "Q54958760", 
     "wikipedia": "Gil Cisneros"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "431 Cannon House Office Building; Washington DC 20515-0539", 
+      "address": "431 Cannon House Office Building Washington DC 20515-0539", 
       "district": 39, 
       "end": "2021-01-03", 
       "office": "431 Cannon House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "CA", 
       "type": "rep", 
-      "url": "https://cisneros.house.gov/"
+      "url": "https://cisneros.house.gov"
     }
   ], 
   "url_slug": "ca-gilbert-cisneros"

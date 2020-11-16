@@ -1,0 +1,47 @@
+{
+  "bio": {
+    "birthday": "1970-11-27", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11616", 
+    "ballotpedia": "Kelly Loeffler", 
+    "bioguide": "L000594", 
+    "fec": [
+      "S0GA00526"
+    ], 
+    "govtrack": 456790, 
+    "lis": "S405", 
+    "wikidata": "Q76570207", 
+    "wikipedia": "Kelly Loeffler"
+  }, 
+  "name": {
+    "first": "Kelly", 
+    "last": "Loeffler", 
+    "official_full": "Kelly Loeffler"
+  }, 
+  "social": {
+    "facebook": "SenLoeffler", 
+    "twitter": "SenatorLoeffler", 
+    "twitter_id": 1200451909406121984
+  }, 
+  "terms": [
+    {
+      "address": "131 Russell Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.loeffler.senate.gov", 
+      "end": "2021-01-05",
+      "end-type": "special-election", 
+      "how": "appointment", 
+      "office": "131 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3643", 
+      "start": "2020-01-06", 
+      "state": "GA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.loeffler.senate.gov"
+    }
+  ], 
+  "url_slug": "ga-kelly-loeffler"
+}

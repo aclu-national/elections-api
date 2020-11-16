@@ -11,6 +11,8 @@
       "H8KS03155"
     ], 
     "govtrack": 412780, 
+    "icpsr": 21914, 
+    "opensecrets": "N00042626", 
     "votesmart": 181201, 
     "wikidata": "Q58322868", 
     "wikipedia": "Sharice Davids"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1541 Longworth House Office Building; Washington DC 20515-1603", 
+      "address": "1541 Longworth House Office Building Washington DC 20515-1603", 
       "district": 3, 
       "end": "2021-01-03", 
       "office": "1541 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "KS", 
       "type": "rep", 
-      "url": "https://davids.house.gov/"
+      "url": "https://davids.house.gov"
     }
   ], 
   "url_slug": "ks-sharice-davids"

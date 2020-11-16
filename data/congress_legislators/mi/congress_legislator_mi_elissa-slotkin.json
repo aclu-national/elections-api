@@ -11,6 +11,8 @@
       "H8MI08102"
     ], 
     "govtrack": 412784, 
+    "icpsr": 21965, 
+    "opensecrets": "N00041357", 
     "votesmart": 181080, 
     "wikidata": "Q30323721", 
     "wikipedia": "Elissa Slotkin"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1531 Longworth House Office Building; Washington DC 20515-2208", 
+      "address": "1531 Longworth House Office Building Washington DC 20515-2208", 
       "district": 8, 
       "end": "2021-01-03", 
       "office": "1531 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "MI", 
       "type": "rep", 
-      "url": "https://slotkin.house.gov/"
+      "url": "https://slotkin.house.gov"
     }
   ], 
   "url_slug": "mi-elissa-slotkin"

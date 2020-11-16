@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0v3c060", 
     "govtrack": 412765, 
+    "icpsr": 21967, 
+    "opensecrets": "N00043319", 
     "votesmart": 142164, 
     "wikidata": "Q16196710", 
     "wikipedia": "Ross Spano"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "224 Cannon House Office Building; Washington DC 20515-0915", 
+      "address": "224 Cannon House Office Building Washington DC 20515-0915", 
       "district": 15, 
       "end": "2021-01-03", 
       "office": "224 Cannon House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "FL", 
       "type": "rep", 
-      "url": "https://spano.house.gov/"
+      "url": "https://spano.house.gov"
     }
   ], 
   "url_slug": "fl-ross-spano"

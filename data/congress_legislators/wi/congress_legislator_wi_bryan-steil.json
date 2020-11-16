@@ -10,6 +10,8 @@
       "H8WI01156"
     ], 
     "govtrack": 412836, 
+    "icpsr": 21970, 
+    "opensecrets": "N00043379", 
     "wikidata": "Q58494431", 
     "wikipedia": "Bryan Steil"
   }, 
@@ -24,7 +26,7 @@
   }, 
   "terms": [
     {
-      "address": "1408 Longworth House Office Building; Washington DC 20515-4901", 
+      "address": "1408 Longworth House Office Building Washington DC 20515-4901", 
       "district": 1, 
       "end": "2021-01-03", 
       "office": "1408 Longworth House Office Building", 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "WI", 
       "type": "rep", 
-      "url": "https://steil.house.gov/"
+      "url": "https://steil.house.gov"
     }
   ], 
   "url_slug": "wi-bryan-steil"

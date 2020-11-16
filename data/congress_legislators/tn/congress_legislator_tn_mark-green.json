@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/09rx6jq", 
     "govtrack": 412819, 
+    "icpsr": 21926, 
+    "opensecrets": "N00041873", 
     "votesmart": 139030, 
     "wikidata": "Q16224587", 
     "wikipedia": "Mark E. Green"
@@ -27,7 +29,7 @@
   }, 
   "terms": [
     {
-      "address": "533 Cannon House Office Building; Washington DC 20515-4207", 
+      "address": "533 Cannon House Office Building Washington DC 20515-4207", 
       "district": 7, 
       "end": "2021-01-03", 
       "office": "533 Cannon House Office Building", 

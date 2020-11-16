@@ -11,6 +11,8 @@
       "H8NJ11142"
     ], 
     "govtrack": 412799, 
+    "icpsr": 21964, 
+    "opensecrets": "N00041154", 
     "votesmart": 179651, 
     "wikidata": "Q47087146", 
     "wikipedia": "Mikie Sherrill"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1208 Longworth House Office Building; Washington DC 20515-3011", 
+      "address": "1208 Longworth House Office Building Washington DC 20515-3011", 
       "district": 11, 
       "end": "2021-01-03", 
       "office": "1208 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "NJ", 
       "type": "rep", 
-      "url": "https://sherrill.house.gov/"
+      "url": "https://sherrill.house.gov"
     }
   ], 
   "url_slug": "nj-mikie-sherrill"

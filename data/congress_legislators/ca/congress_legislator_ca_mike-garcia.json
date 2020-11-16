@@ -1,0 +1,37 @@
+{
+  "bio": {
+    "birthday": "1976-04-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11617", 
+    "ballotpedia": "Mike Garcia", 
+    "bioguide": "G000061", 
+    "fec": [
+      "H0CA25105"
+    ], 
+    "govtrack": 456792, 
+    "opensecrets": "N00044298", 
+    "wikidata": "Q94236068", 
+    "wikipedia": "Mike Garcia (politician)"
+  }, 
+  "name": {
+    "first": "Mike", 
+    "last": "Garcia", 
+    "official_full": "Mike Garcia"
+  }, 
+  "terms": [
+    {
+      "address": "1130 Longworth House Office Building Washington DC 20515-0525", 
+      "district": 25, 
+      "end": "2021-01-03", 
+      "office": "1130 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1956", 
+      "start": "2020-05-19", 
+      "state": "CA", 
+      "type": "rep"
+    }
+  ], 
+  "url_slug": "ca-mike-garcia"
+}

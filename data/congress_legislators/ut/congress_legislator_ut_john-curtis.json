@@ -12,6 +12,7 @@
     ], 
     "google_entity_id": "kg:/m/0bmdhtb", 
     "govtrack": 412740, 
+    "icpsr": 21755, 
     "maplight": 2251, 
     "opensecrets": "N00041221", 
     "votesmart": 123390, 
@@ -27,6 +28,7 @@
     "facebook": "RepJohnCurtis", 
     "instagram": "repjohncurtis", 
     "twitter": "RepJohnCurtis", 
+    "twitter_id": 931614483050414080, 
     "youtube_id": "UChAQ4MD-HigmGnImSoAKBVA"
   }, 
   "terms": [
@@ -43,7 +45,7 @@
       "url": "https://curtis.house.gov"
     }, 
     {
-      "address": "125 Cannon House Office Building; Washington DC 20515-4403", 
+      "address": "125 Cannon House Office Building Washington DC 20515-4403", 
       "district": 3, 
       "end": "2021-01-03", 
       "office": "125 Cannon House Office Building", 

@@ -11,6 +11,8 @@
       "H6MN02131"
     ], 
     "govtrack": 412789, 
+    "icpsr": 21910, 
+    "opensecrets": "N00037039", 
     "votesmart": 166261, 
     "wikidata": "Q58324174", 
     "wikipedia": "Angie Craig"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1523 Longworth House Office Building; Washington DC 20515-2302", 
+      "address": "1523 Longworth House Office Building Washington DC 20515-2302", 
       "district": 2, 
       "end": "2021-01-03", 
       "office": "1523 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "MN", 
       "type": "rep", 
-      "url": "https://craig.house.gov/"
+      "url": "https://craig.house.gov"
     }
   ], 
   "url_slug": "mn-angie-craig"

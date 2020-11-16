@@ -106,22 +106,33 @@ if __name__ == "__main__":
 			bills = []
 			aclu_position = []
 
+			skip_legend = False
+
 			for row in reader:
 
 				# The reason to pop these values out of the row, is so we can assume all the data
 				# left in 'row' is voting data
-				name = row.pop(0)
+				first_name = row.pop(0)
+				last_name = row.pop(0)
 				legislator_id = row.pop(0)
 				state_district = row.pop(0)
 				party = row.pop(0)
 				total_score = row.pop(0)
 
+				if not re.search('^\d+%$', total_score):
+					total_score = 'N/A'
+
 				votes_total = 0
 				votes_agreed = 0
 				legislator_id = "aclu/elections-api/congress_legislator:%s" % legislator_id
 
-				if name == 'LEGEND:':
-					break
+				if first_name == 'LEGEND:':
+					skip_legend = True
+					continue
+				if skip_legend:
+					if first_name == 'Members no longer in Congress':
+						skip_legend = False
+					continue
 
 				if row_num == 0:
 					headers = row
@@ -129,8 +140,8 @@ if __name__ == "__main__":
 					bills = row
 				elif row_num == 2:
 					aclu_position = row
-				elif name != 'LEGEND:' and name != '' and name != 'Z-Vacant':
-					print(name)
+				elif first_name != 'LEGEND:' and first_name != '' and first_name != 'Z-Vacant':
+					print('%s %s' % (first_name, last_name))
 
 					col_num = 0
 
@@ -171,9 +182,9 @@ if __name__ == "__main__":
 						cur.execute(legislator_score_insert_sql, values)
 						col_num += 1
 
-						congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
-						congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
-						congress_details.add_legislator_detail(legislator_id, session, 'total_score', total_score)
+					congress_details.add_legislator_detail(legislator_id, session, 'votes_total', votes_total)
+					congress_details.add_legislator_detail(legislator_id, session, 'votes_agreed', votes_agreed)
+					congress_details.add_legislator_detail(legislator_id, session, 'total_score', total_score)
 
 				row_num = row_num + 1
 

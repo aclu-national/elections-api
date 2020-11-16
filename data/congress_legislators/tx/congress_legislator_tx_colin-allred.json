@@ -10,6 +10,8 @@
       "H8TX32098"
     ], 
     "govtrack": 412828, 
+    "icpsr": 21900, 
+    "opensecrets": "N00040989", 
     "votesmart": 177357, 
     "wikidata": "Q5144845", 
     "wikipedia": "Colin Allred"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "328 Cannon House Office Building; Washington DC 20515-4332", 
+      "address": "328 Cannon House Office Building Washington DC 20515-4332", 
       "district": 32, 
       "end": "2021-01-03", 
       "office": "328 Cannon House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://allred.house.gov/"
+      "url": "https://allred.house.gov"
     }
   ], 
   "url_slug": "tx-colin-allred"

@@ -14,6 +14,7 @@
     "google_entity_id": "kg:/m/0gfgsrm", 
     "govtrack": 412735, 
     "house_history": 15032448694, 
+    "icpsr": 21750, 
     "maplight": 2246, 
     "opensecrets": "N00040712", 
     "votesmart": 125031, 
@@ -47,7 +48,7 @@
       "url": "https://estes.house.gov"
     }, 
     {
-      "address": "1524 Longworth House Office Building; Washington DC 20515-1604", 
+      "address": "1524 Longworth House Office Building Washington DC 20515-1604", 
       "district": 4, 
       "end": "2021-01-03", 
       "office": "1524 Longworth House Office Building", 

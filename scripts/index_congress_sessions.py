@@ -62,45 +62,35 @@ for row in soup.find_all('tr'):
 	if len(list(cells)) < 4:
 		continue
 
+	# Clear superscript
 	for cell in cells:
 		sup = cell.find('sup')
 		if sup:
 			sup.clear()
 
-	label = cells[0].get_text().strip()
-	if label:
-		if last_cell:
-			start_date = last_cell
-			start_date = arrow.get(start_date, 'MMM D, YYYY').format('YYYY-MM-DD')
-			print("%s: %s to %s" % (session, start_date, end_date))
-			values = [
-				int(session),
-				start_date,
-				end_date
-			]
-			cur.execute(insert_sql, values)
+	session = cells[0].get_text().strip()
+	num_sessions = len(list(cells[2].strings))
 
-		session = label
+	# Get start date
+	start_date = list(cells[2].strings)[num_sessions - 1].strip()
+	start_date = arrow.get(start_date, 'MMM D, YYYY').format('YYYY-MM-DD')
 
-		# Current session doesn't include an end date, weirdly
-		if int(session) == curr_session:
-			end_date = curr_end_date
-		else:
-			end_date = cells[3].get_text().strip()
-			end_date = arrow.get(end_date, 'MMM D, YYYY').format('YYYY-MM-DD')
+	# Get end date; the current session doesn't include an end date
+	if int(session) == curr_session:
+		end_date = curr_end_date
+	else:
+		end_date = list(cells[3].strings)[0]
+		end_date = arrow.get(end_date, 'MMM D, YYYY').format('YYYY-MM-DD')
 
-	last_cell = cells[2].get_text().strip()
+	print("%s: %s to %s" % (session, start_date, end_date))
 
-start_date = last_cell
-start_date = arrow.get(start_date, 'MMM D, YYYY').format('YYYY-MM-DD')
-print("%s: %s to %s" % (session, start_date, end_date))
-
-values = [
-	int(session),
-	start_date,
-	end_date
-]
-cur.execute(insert_sql, values)
+	# Insert in db
+	values = [
+		int(session),
+		start_date,
+		end_date
+	]
+	cur.execute(insert_sql, values)
 
 conn.commit()
 conn.close()

@@ -10,6 +10,8 @@
       "H8FL06148"
     ], 
     "govtrack": 412764, 
+    "icpsr": 21981, 
+    "opensecrets": "N00042403", 
     "wikidata": "Q55386653", 
     "wikipedia": "Michael Waltz"
   }, 
@@ -24,7 +26,7 @@
   }, 
   "terms": [
     {
-      "address": "216 Cannon House Office Building; Washington DC 20515-0906", 
+      "address": "216 Cannon House Office Building Washington DC 20515-0906", 
       "district": 6, 
       "end": "2021-01-03", 
       "office": "216 Cannon House Office Building", 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "FL", 
       "type": "rep", 
-      "url": "https://waltz.house.gov/"
+      "url": "https://waltz.house.gov"
     }
   ], 
   "url_slug": "fl-michael-waltz"

@@ -11,6 +11,8 @@
     ], 
     "google_entity_id": "kg:/m/0k3lrh0", 
     "govtrack": 412766, 
+    "icpsr": 21971, 
+    "opensecrets": "N00042808", 
     "votesmart": 117248, 
     "wikidata": "Q5606295", 
     "wikipedia": "Greg Steube"
@@ -27,7 +29,7 @@
   }, 
   "terms": [
     {
-      "address": "521 Cannon House Office Building; Washington DC 20515-0917", 
+      "address": "521 Cannon House Office Building Washington DC 20515-0917", 
       "district": 17, 
       "end": "2021-01-03", 
       "office": "521 Cannon House Office Building", 
@@ -36,7 +38,7 @@
       "start": "2019-01-03", 
       "state": "FL", 
       "type": "rep", 
-      "url": "https://steube.house.gov/"
+      "url": "https://steube.house.gov"
     }
   ], 
   "url_slug": "fl-w-steube"

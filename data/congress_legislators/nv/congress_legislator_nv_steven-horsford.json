@@ -28,7 +28,8 @@
     "official_full": "Steven Horsford"
   }, 
   "social": {
-    "twitter": "RepHorsford"
+    "twitter": "RepHorsford", 
+    "twitter_id": 389840566
   }, 
   "terms": [
     {
@@ -46,7 +47,7 @@
       "url": "http://horsford.house.gov"
     }, 
     {
-      "address": "1330 Longworth House Office Building; Washington DC 20515-2804", 
+      "address": "1330 Longworth House Office Building Washington DC 20515-2804", 
       "district": 4, 
       "end": "2021-01-03", 
       "office": "1330 Longworth House Office Building", 
@@ -56,7 +57,7 @@
       "start": "2019-01-03", 
       "state": "NV", 
       "type": "rep", 
-      "url": "http://horsford.house.gov"
+      "url": "https://horsford.house.gov"
     }
   ], 
   "url_slug": "nv-steven-horsford"

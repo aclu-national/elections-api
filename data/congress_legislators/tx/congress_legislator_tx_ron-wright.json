@@ -10,6 +10,8 @@
       "H8TX06233"
     ], 
     "govtrack": 412823, 
+    "icpsr": 21984, 
+    "opensecrets": "N00042240", 
     "wikidata": "Q60428775", 
     "wikipedia": "Ron Wright (politician)"
   }, 
@@ -24,7 +26,7 @@
   }, 
   "terms": [
     {
-      "address": "428 Cannon House Office Building; Washington DC 20515-4306", 
+      "address": "428 Cannon House Office Building Washington DC 20515-4306", 
       "district": 6, 
       "end": "2021-01-03", 
       "office": "428 Cannon House Office Building", 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://wright.house.gov/"
+      "url": "https://wright.house.gov"
     }
   ], 
   "url_slug": "tx-ron-wright"

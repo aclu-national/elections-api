@@ -10,6 +10,8 @@
       "H8NY19181"
     ], 
     "govtrack": 412805, 
+    "icpsr": 21916, 
+    "opensecrets": "N00040741", 
     "wikidata": "Q60428696", 
     "wikipedia": "Antonio Delgado (politician)"
   }, 
@@ -24,7 +26,7 @@
   }, 
   "terms": [
     {
-      "address": "1007 Longworth House Office Building; Washington DC 20515-3219", 
+      "address": "1007 Longworth House Office Building Washington DC 20515-3219", 
       "district": 19, 
       "end": "2021-01-03", 
       "office": "1007 Longworth House Office Building", 
@@ -33,7 +35,7 @@
       "start": "2019-01-03", 
       "state": "NY", 
       "type": "rep", 
-      "url": "https://delgado.house.gov/"
+      "url": "https://delgado.house.gov"
     }
   ], 
   "url_slug": "ny-antonio-delgado"

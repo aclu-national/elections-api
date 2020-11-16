@@ -11,6 +11,8 @@
       "H8TX07140"
     ], 
     "govtrack": 412824, 
+    "icpsr": 21919, 
+    "opensecrets": "N00041194", 
     "votesmart": 177031, 
     "wikidata": "Q58324313", 
     "wikipedia": "Lizzie Pannill Fletcher"
@@ -26,7 +28,7 @@
   }, 
   "terms": [
     {
-      "address": "1429 Longworth House Office Building; Washington DC 20515-4307", 
+      "address": "1429 Longworth House Office Building Washington DC 20515-4307", 
       "district": 7, 
       "end": "2021-01-03", 
       "office": "1429 Longworth House Office Building", 
@@ -35,7 +37,7 @@
       "start": "2019-01-03", 
       "state": "TX", 
       "type": "rep", 
-      "url": "https://fletcher.house.gov/"
+      "url": "https://fletcher.house.gov"
     }
   ], 
   "url_slug": "tx-lizzie-fletcher"

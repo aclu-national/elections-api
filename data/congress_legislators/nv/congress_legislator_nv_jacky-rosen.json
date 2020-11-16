@@ -8,7 +8,8 @@
     "bioguide": "R000608", 
     "cspan": 104738, 
     "fec": [
-      "H6NV03139"
+      "H6NV03139", 
+      "S8NV00156"
     ], 
     "google_entity_id": "kg:/g/11cntnvwkg", 
     "govtrack": 412715, 
@@ -45,11 +46,11 @@
       "url": "https://rosen.house.gov"
     }, 
     {
-      "address": "G12 Dirksen Senate Office Building Washington DC 20510", 
+      "address": "144 Russell Senate Office Building Washington DC 20510", 
       "class": 1, 
       "contact_form": "https://www.rosen.senate.gov/contact_jacky", 
       "end": "2025-01-03", 
-      "office": "G12 Dirksen Senate Office Building", 
+      "office": "144 Russell Senate Office Building", 
       "party": "Democrat", 
       "phone": "202-224-6244", 
       "start": "2019-01-03", 

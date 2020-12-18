@@ -185,7 +185,7 @@ def get_all_legislators(include=None, session_num=curr_session):
 			FROM congress_legislator_terms
 			WHERE start_date < '{end_date_115}' AND end_date > '{start_date_115}'
 				OR start_date < '{end_date_116}' AND end_date > '{start_date_116}'
-			ORDER BY end_date DESC
+			ORDER BY end_date ASC
 		'''.format(start_date_115=session_115['start_date'], end_date_115=session_115['end_date'], start_date_116=session_116['start_date'], end_date_116=session_116['end_date']))
 	else:
 		session = sessions[session_num]

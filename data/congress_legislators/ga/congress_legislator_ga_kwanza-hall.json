@@ -1,0 +1,34 @@
+{
+  "bio": {
+    "birthday": "1971-05-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11621", 
+    "ballotpedia": "Kwanza Hall", 
+    "bioguide": "H001092", 
+    "fec": [
+      "H0GA05327"
+    ], 
+    "govtrack": 456795, 
+    "wikidata": "Q6450209", 
+    "wikipedia": "Kwanza Hall"
+  }, 
+  "name": {
+    "first": "Kwanza", 
+    "last": "Hall"
+  }, 
+  "terms": [
+    {
+      "contact_form": "https://hall.house.gov/contact", 
+      "district": 5, 
+      "end": "2021-01-03", 
+      "party": "Democrat", 
+      "start": "2020-12-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://hall.house.gov/"
+    }
+  ], 
+  "url_slug": "ga-kwanza-hall"
+}

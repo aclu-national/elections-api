@@ -24,6 +24,7 @@ congress_legislators:
 congress_scores:
 	python scripts/index_congress_scores.py 115 --reset
 	python scripts/index_congress_scores.py 116
+	python scripts/index_congress_scores.py 117
 
 congress_details:
 	python scripts/index_congress_details.py 115 --reset

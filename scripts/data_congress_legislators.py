@@ -7,6 +7,17 @@ script = os.path.realpath(sys.argv[0])
 scripts_dir = os.path.dirname(script)
 root_dir = os.path.dirname(scripts_dir)
 
+# Build lookup of existing legislators to avoid duplicate records
+existing_legislator_lookup = {}
+index = data_index.get_index('elections-api')
+for path in index['lookup'] :
+	if ('congress_legislators' in path) :
+		abs_path = "%s/data/%s" % (root_dir, path)
+		with open(abs_path, 'r') as f:
+			legislator = json.load(f)
+			bioguide_id = legislator['id']['bioguide']
+			existing_legislator_lookup[bioguide_id] = index['lookup'][path]
+
 source_path = "%s/sources/congress_legislators/legislators-current.yaml" % root_dir
 print("Loading %s" % source_path)
 file = open(source_path, "r")
@@ -18,7 +29,8 @@ legislator_list = []
 for legislator in data:
 	id = legislator["id"]["bioguide"]
 	legislator_lookup[id] = legislator
-	legislator_list.append(legislator)
+	if (id not in existing_legislator_lookup):
+		legislator_list.append(legislator)
 
 source_path = "%s/sources/congress_legislators/legislators-social-media.yaml" % root_dir
 print("Loading %s" % source_path)

@@ -18,7 +18,7 @@ from copy import deepcopy
 from ics import Calendar, Event
 
 api = flask.Blueprint('api_v2', __name__)
-curr_session = 116
+curr_session = 117
 
 google_civic_info_api.setup()
 
@@ -66,7 +66,7 @@ def index():
 			'/v2/congress/scores': {
 				'description': 'Index of congressional legislator scores.',
 				'args': {
-					'session': 'Congressional session (optional; defaults to 116)'
+					'session': 'Congressional session (optional; defaults to 117)'
 				}
 			},
 			'/v2/congress/legislators': {
@@ -75,7 +75,7 @@ def index():
 					'id': 'Numeric part of aclu_id (optional; returns a single match).',
 					'url_slug': 'State and name URL slug (optional; returns a single match).',
 					'include': 'Fields to include (optional; include=name)',
-					'session': 'Congressional session (optional; defaults to 116)'
+					'session': 'Congressional session (optional; defaults to 117)'
 				}
 			},
 			'/v2/county': {

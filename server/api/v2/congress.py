@@ -1,7 +1,7 @@
 import flask, json, os, re, sys, arrow, us
 
 first_session = 115
-curr_session = 116
+curr_session = 117
 sessions = {}
 
 def get_sessions():
@@ -178,15 +178,17 @@ def get_all_legislators(include=None, session_num=curr_session):
 	if session_num == 'all':
 		session_115 = sessions[115]
 		session_116 = sessions[116]
-		# If any portion of a legislator's term overlaps with session 115 or 116,
+		session_117 = sessions[117]
+		# If any portion of a legislator's term overlaps with session 115 or 116 or 117,
 		# we want to include them in this endpoint
 		cur.execute('''
 			SELECT id, aclu_id, start_date, end_date, type, state, district_num, party
 			FROM congress_legislator_terms
 			WHERE start_date < '{end_date_115}' AND end_date > '{start_date_115}'
 				OR start_date < '{end_date_116}' AND end_date > '{start_date_116}'
+				OR start_date < '{end_date_117}' AND end_date > '{start_date_117}'
 			ORDER BY end_date ASC
-		'''.format(start_date_115=session_115['start_date'], end_date_115=session_115['end_date'], start_date_116=session_116['start_date'], end_date_116=session_116['end_date']))
+		'''.format(start_date_115=session_115['start_date'], end_date_115=session_115['end_date'], start_date_116=session_116['start_date'], end_date_116=session_116['end_date'], start_date_117=session_117['start_date'], end_date_117=session_117['end_date']))
 	else:
 		session = sessions[session_num]
 		# If any portion of a legislator's term overlaps with the selected session,

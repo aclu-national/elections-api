@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1980-06-22", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11681", 
+    "bioguide": "M001213", 
+    "fec": [
+      "H0UT01205"
+    ], 
+    "google_entity_id": "kg:/g/11ftchfsgn", 
+    "govtrack": 456851, 
+    "wikidata": "Q101196971", 
+    "wikipedia": "Blake Moore"
+  }, 
+  "name": {
+    "first": "Blake", 
+    "last": "Moore", 
+    "middle": "David", 
+    "official_full": "Blake D. Moore"
+  }, 
+  "social": {
+    "twitter": "RepBlakeMoore", 
+    "twitter_id": 1337452596093587462
+  }, 
+  "terms": [
+    {
+      "address": "1320 Longworth House Office Building Washington DC 20515-4401", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1320 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-0453", 
+      "start": "2021-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://blakemoore.house.gov"
+    }
+  ], 
+  "url_slug": "ut-blake-moore"
+}

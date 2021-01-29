@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1963-06-20", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11661", 
+    "ballotpedia": "Deborah Ross", 
+    "bioguide": "R000305", 
+    "fec": [
+      "H0NC02125"
+    ], 
+    "google_entity_id": "kg:/m/02b3x2", 
+    "govtrack": 456831, 
+    "wikidata": "Q5248285", 
+    "wikipedia": "Deborah K. Ross"
+  }, 
+  "name": {
+    "first": "Deborah", 
+    "last": "Ross", 
+    "middle": "Koff", 
+    "official_full": "Deborah K. Ross"
+  }, 
+  "social": {
+    "twitter": "RepDeborahRoss", 
+    "twitter_id": 1348683154815655940
+  }, 
+  "terms": [
+    {
+      "address": "1208 Longworth House Office Building Washington DC 20515-3302", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1208 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3032", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://ross.house.gov"
+    }
+  ], 
+  "url_slug": "nc-deborah-ross"
+}

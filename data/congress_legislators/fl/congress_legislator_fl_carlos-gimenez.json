@@ -1,0 +1,44 @@
+{
+  "bio": {
+    "birthday": "1954-01-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11635", 
+    "ballotpedia": "Carlos Gimenez", 
+    "bioguide": "G000593", 
+    "fec": [
+      "H0FL26036"
+    ], 
+    "google_entity_id": "kg:/m/03cc6vt", 
+    "govtrack": 456809, 
+    "votesmart": 81366, 
+    "wikidata": "Q5041653", 
+    "wikipedia": "Carlos A. Gim\u00e9nez"
+  }, 
+  "name": {
+    "first": "Carlos", 
+    "last": "Gimenez", 
+    "middle": "A.", 
+    "official_full": "Carlos A. Gimenez"
+  }, 
+  "social": {
+    "twitter": "RepCarlos", 
+    "twitter_id": 1343679195034103808
+  }, 
+  "terms": [
+    {
+      "address": "419 Cannon House Office Building Washington DC 20515-0926", 
+      "district": 26, 
+      "end": "2023-01-03", 
+      "office": "419 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2778", 
+      "start": "2021-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://gimenez.house.gov"
+    }
+  ], 
+  "url_slug": "fl-carlos-gimenez"
+}

@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1952-02-07", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11631", 
+    "ballotpedia": "John Hickenlooper", 
+    "bioguide": "H000273", 
+    "fec": [
+      "S0CO00575"
+    ], 
+    "google_entity_id": "kg:/m/04g_1z", 
+    "govtrack": 456797, 
+    "lis": "S408", 
+    "wikidata": "Q430518", 
+    "wikipedia": "John Hickenlooper"
+  }, 
+  "name": {
+    "first": "John", 
+    "last": "Hickenlooper", 
+    "middle": "Wright", 
+    "official_full": "John W. Hickenlooper"
+  }, 
+  "terms": [
+    {
+      "address": "B85 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.hickenlooper.senate.gov", 
+      "end": "2027-01-03", 
+      "office": "B85 Russell Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5941", 
+      "start": "2021-01-03", 
+      "state": "CO", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.hickenlooper.senate.gov"
+    }
+  ], 
+  "url_slug": "co-john-hickenlooper"
+}

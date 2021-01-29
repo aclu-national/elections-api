@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1967-12-19", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11678", 
+    "bioguide": "F000246", 
+    "fec": [
+      "H0TX04219"
+    ], 
+    "google_entity_id": "kg:/m/0100nvdw", 
+    "govtrack": 456845, 
+    "wikidata": "Q16196923", 
+    "wikipedia": "Pat Fallon"
+  }, 
+  "name": {
+    "first": "Patrick", 
+    "last": "Fallon", 
+    "middle": "Edward", 
+    "nickname": "Pat", 
+    "official_full": "Pat Fallon"
+  }, 
+  "social": {
+    "twitter": "RepPatFallon", 
+    "twitter_id": 1343258042704527362
+  }, 
+  "terms": [
+    {
+      "address": "1118 Longworth House Office Building Washington DC 20515-4304", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "1118 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6673", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://fallon.house.gov"
+    }
+  ], 
+  "url_slug": "tx-patrick-fallon"
+}

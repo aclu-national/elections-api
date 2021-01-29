@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1969-04-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11650", 
+    "bioguide": "M001214", 
+    "fec": [
+      "H0IN01150"
+    ], 
+    "google_entity_id": "kg:/g/11gtz3tlbh", 
+    "govtrack": 456821, 
+    "wikidata": "Q96077897", 
+    "wikipedia": "Frank J. Mrvan"
+  }, 
+  "name": {
+    "first": "Frank", 
+    "last": "Mrvan", 
+    "middle": "John", 
+    "official_full": "Frank J. Mrvan"
+  }, 
+  "social": {
+    "twitter": "RepMrvan", 
+    "twitter_id": 1346205046036377601
+  }, 
+  "terms": [
+    {
+      "address": "1607 Longworth House Office Building Washington DC 20515-1401", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1607 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2461", 
+      "start": "2021-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://mrvan.house.gov"
+    }
+  ], 
+  "url_slug": "in-frank-mrvan"
+}

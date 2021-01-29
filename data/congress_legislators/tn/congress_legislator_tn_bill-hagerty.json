@@ -1,0 +1,47 @@
+{
+  "bio": {
+    "birthday": "1959-08-14", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11673", 
+    "ballotpedia": "Bill Hagerty", 
+    "bioguide": "H000601", 
+    "fec": [
+      "S0TN00169"
+    ], 
+    "google_entity_id": "kg:/g/11c1xp6h9v", 
+    "govtrack": 456798, 
+    "lis": "S407", 
+    "votesmart": 128466, 
+    "wikidata": "Q27734214", 
+    "wikipedia": "Bill Hagerty (politician)"
+  }, 
+  "name": {
+    "first": "Bill", 
+    "last": "Hagerty", 
+    "middle": "Francis", 
+    "official_full": "Bill Hagerty"
+  }, 
+  "social": {
+    "twitter": "SenatorHagerty", 
+    "twitter_id": 1346873610875654147
+  }, 
+  "terms": [
+    {
+      "address": "B11 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.hagerty.senate.gov", 
+      "end": "2027-01-03", 
+      "office": "B11 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4944", 
+      "start": "2021-01-03", 
+      "state": "TN", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.hagerty.senate.gov"
+    }
+  ], 
+  "url_slug": "tn-bill-hagerty"
+}

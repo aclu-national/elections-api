@@ -1,0 +1,44 @@
+{
+  "bio": {
+    "birthday": "1955-09-06", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11646", 
+    "ballotpedia": "Mariannette Miller-Meeks", 
+    "bioguide": "M001215", 
+    "fec": [
+      "H8IA02043"
+    ], 
+    "google_entity_id": "kg:/g/11fhm4wv8g", 
+    "govtrack": 456817, 
+    "votesmart": 103294, 
+    "wikidata": "Q58495662", 
+    "wikipedia": "Mariannette Miller-Meeks"
+  }, 
+  "name": {
+    "first": "Mariannette", 
+    "last": "Miller-Meeks", 
+    "middle": "Jane", 
+    "official_full": "Mariannette Miller-Meeks"
+  }, 
+  "social": {
+    "twitter": "RepMMM", 
+    "twitter_id": 1345807954604412929
+  }, 
+  "terms": [
+    {
+      "address": "1716 Longworth House Office Building Washington DC 20515-1502", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1716 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6576", 
+      "start": "2021-01-03", 
+      "state": "IA", 
+      "type": "rep", 
+      "url": "https://millermeeks.house.gov"
+    }
+  ], 
+  "url_slug": "ia-mariannette-miller-meeks"
+}

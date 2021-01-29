@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1987-05-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11667", 
+    "ballotpedia": "Mondaire Jones", 
+    "bioguide": "J000306", 
+    "fec": [
+      "H0NY17174"
+    ], 
+    "google_entity_id": "kg:/g/11fsfpp4wj", 
+    "govtrack": 456840, 
+    "wikidata": "Q96781248", 
+    "wikipedia": "Mondaire Jones"
+  }, 
+  "name": {
+    "first": "Mondaire", 
+    "last": "Jones", 
+    "official_full": "Mondaire Jones"
+  }, 
+  "social": {
+    "twitter": "RepJones", 
+    "twitter_id": 1345883634046279681
+  }, 
+  "terms": [
+    {
+      "address": "1017 Longworth House Office Building Washington DC 20515-3217", 
+      "district": 17, 
+      "end": "2023-01-03", 
+      "office": "1017 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6506", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://jones.house.gov"
+    }
+  ], 
+  "url_slug": "ny-mondaire-jones"
+}

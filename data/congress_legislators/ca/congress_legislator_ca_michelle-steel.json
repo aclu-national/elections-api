@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1955-06-21", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11628", 
+    "bioguide": "S001135", 
+    "fec": [
+      "H0CA48198"
+    ], 
+    "google_entity_id": "kg:/m/028bz6v", 
+    "govtrack": 456803, 
+    "wikidata": "Q6837200", 
+    "wikipedia": "Michelle Steel"
+  }, 
+  "name": {
+    "first": "Michelle", 
+    "last": "Steel", 
+    "middle": "Eunjoo", 
+    "official_full": "Michelle Steel"
+  }, 
+  "social": {
+    "twitter": "RepSteel", 
+    "twitter_id": 1343740146630451200
+  }, 
+  "terms": [
+    {
+      "address": "1113 Longworth House Office Building Washington DC 20515-0548", 
+      "district": 48, 
+      "end": "2023-01-03", 
+      "office": "1113 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2415", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://steel.house.gov"
+    }
+  ], 
+  "url_slug": "ca-michelle-steel"
+}

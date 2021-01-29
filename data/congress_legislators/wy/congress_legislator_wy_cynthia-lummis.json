@@ -1,0 +1,107 @@
+{
+  "bio": {
+    "birthday": "1954-09-10", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11686", 
+    "ballotpedia": "Cynthia Lummis", 
+    "bioguide": "L000571", 
+    "cspan": 1031365, 
+    "fec": [
+      "H8WY00148", 
+      "S0WY00137"
+    ], 
+    "google_entity_id": "kg:/m/02qvjv3", 
+    "govtrack": 412294, 
+    "house_history": 17319, 
+    "icpsr": 20953, 
+    "lis": "S410", 
+    "maplight": 776, 
+    "opensecrets": "N00029788", 
+    "thomas": "01960", 
+    "votesmart": 15546, 
+    "wikidata": "Q456064", 
+    "wikipedia": "Cynthia Lummis"
+  }, 
+  "name": {
+    "first": "Cynthia", 
+    "last": "Lummis", 
+    "middle": "M.", 
+    "official_full": "Cynthia M. Lummis"
+  }, 
+  "social": {
+    "twitter": "SenLummis", 
+    "twitter_id": 22831059
+  }, 
+  "terms": [
+    {
+      "district": 0, 
+      "end": "2011-01-03", 
+      "party": "Republican", 
+      "start": "2009-01-06", 
+      "state": "WY", 
+      "type": "rep", 
+      "url": "http://lummis.house.gov"
+    }, 
+    {
+      "address": "113 Cannon HOB; Washington DC 20515-5001", 
+      "contact_form": "https://forms.house.gov/lummis/contact-form.shtml", 
+      "district": 0, 
+      "end": "2013-01-03", 
+      "fax": "202-225-3057", 
+      "office": "113 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2311", 
+      "start": "2011-01-05", 
+      "state": "WY", 
+      "type": "rep", 
+      "url": "http://lummis.house.gov"
+    }, 
+    {
+      "address": "113 Cannon HOB; Washington DC 20515-5000", 
+      "contact_form": "http://lummis.house.gov/contact/", 
+      "district": 0, 
+      "end": "2015-01-03", 
+      "fax": "202-225-3057", 
+      "office": "113 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2311", 
+      "rss_url": "http://lummis.house.gov/news/rss.aspx", 
+      "start": "2013-01-03", 
+      "state": "WY", 
+      "type": "rep", 
+      "url": "http://lummis.house.gov"
+    }, 
+    {
+      "address": "2433 Rayburn HOB; Washington DC 20515-5000", 
+      "contact_form": "http://lummis.house.gov/contact/", 
+      "district": 0, 
+      "end": "2017-01-03", 
+      "fax": "202-225-3057", 
+      "office": "2433 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2311", 
+      "rss_url": "http://lummis.house.gov/news/rss.aspx", 
+      "start": "2015-01-06", 
+      "state": "WY", 
+      "type": "rep", 
+      "url": "http://lummis.house.gov"
+    }, 
+    {
+      "address": "G12 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.lummis.senate.gov", 
+      "end": "2027-01-03", 
+      "office": "G12 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3424", 
+      "start": "2021-01-03", 
+      "state": "WY", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.lummis.senate.gov"
+    }
+  ], 
+  "url_slug": "wy-cynthia-lummis"
+}

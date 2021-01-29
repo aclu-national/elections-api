@@ -1,0 +1,39 @@
+{
+  "bio": {
+    "birthday": "1963-11-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11685", 
+    "bioguide": "F000471", 
+    "fec": [
+      "H0WI05113"
+    ], 
+    "google_entity_id": "kg:/m/03nvqsc", 
+    "govtrack": 456855, 
+    "votesmart": 3446, 
+    "wikidata": "Q7436650", 
+    "wikipedia": "Scott L. Fitzgerald"
+  }, 
+  "name": {
+    "first": "Scott", 
+    "last": "Fitzgerald", 
+    "middle": "L.", 
+    "official_full": "Scott Fitzgerald"
+  }, 
+  "terms": [
+    {
+      "address": "1507 Longworth House Office Building Washington DC 20515-4905", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1507 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5101", 
+      "start": "2021-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://fitzgerald.house.gov"
+    }
+  ], 
+  "url_slug": "wi-scott-fitzgerald"
+}

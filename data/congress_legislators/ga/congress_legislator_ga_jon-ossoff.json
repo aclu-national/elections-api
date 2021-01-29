@@ -1,0 +1,39 @@
+{
+  "bio": {
+    "birthday": "1987-02-16", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11640", 
+    "ballotpedia": "Jon Ossoff", 
+    "bioguide": "O000174", 
+    "fec": [
+      "H8GA06195", 
+      "S8GA00180"
+    ], 
+    "govtrack": 456857, 
+    "lis": "S414", 
+    "wikidata": "Q28839536", 
+    "wikipedia": "Jon Ossoff"
+  }, 
+  "name": {
+    "first": "Jon", 
+    "last": "Ossoff", 
+    "official_full": "Jon Ossoff"
+  }, 
+  "terms": [
+    {
+      "address": "825 B&C Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "end": "2027-01-03", 
+      "office": "825 B&c Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-3521", 
+      "start": "2021-01-20", 
+      "state": "GA", 
+      "state_rank": "senior", 
+      "type": "sen"
+    }
+  ], 
+  "url_slug": "ga-jon-ossoff"
+}

@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1962-10-18", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11630", 
+    "bioguide": "K000397", 
+    "fec": [
+      "H8CA39240"
+    ], 
+    "google_entity_id": "kg:/m/012c98r4", 
+    "govtrack": 456802, 
+    "votesmart": 151787, 
+    "wikidata": "Q19662859", 
+    "wikipedia": "Young Kim"
+  }, 
+  "name": {
+    "first": "Young", 
+    "last": "Kim", 
+    "middle": "Oak", 
+    "official_full": "Young Kim"
+  }, 
+  "social": {
+    "twitter": "RepYoungKim", 
+    "twitter_id": 1344677401465397249
+  }, 
+  "terms": [
+    {
+      "address": "1306 Longworth House Office Building Washington DC 20515-0539", 
+      "district": 39, 
+      "end": "2023-01-03", 
+      "office": "1306 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4111", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://youngkim.house.gov"
+    }
+  ], 
+  "url_slug": "ca-young-kim"
+}

@@ -1,0 +1,41 @@
+{
+  "bio": {
+    "birthday": "1978-10-06", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11651", 
+    "bioguide": "S000929", 
+    "fec": [
+      "H0IN05326"
+    ], 
+    "google_entity_id": "kg:/g/11h23hjb94", 
+    "govtrack": 456822, 
+    "wikidata": "Q44059867", 
+    "wikipedia": "Victoria Spartz"
+  }, 
+  "name": {
+    "first": "Victoria", 
+    "last": "Spartz", 
+    "official_full": "Victoria Spartz"
+  }, 
+  "social": {
+    "twitter": "RepSpartz", 
+    "twitter_id": 1344845201479663621
+  }, 
+  "terms": [
+    {
+      "address": "1523 Longworth House Office Building Washington DC 20515-1405", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1523 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2276", 
+      "start": "2021-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://spartz.house.gov"
+    }
+  ], 
+  "url_slug": "in-victoria-spartz"
+}

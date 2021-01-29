@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1995-08-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11660", 
+    "ballotpedia": "Madison Cawthorn", 
+    "bioguide": "C001104", 
+    "fec": [
+      "H0NC11233"
+    ], 
+    "google_entity_id": "kg:/g/11jcrrfg9t", 
+    "govtrack": 456833, 
+    "wikidata": "Q96633736", 
+    "wikipedia": "Madison Cawthorn"
+  }, 
+  "name": {
+    "first": "David", 
+    "last": "Cawthorn", 
+    "nickname": "Madison", 
+    "official_full": "Madison Cawthorn"
+  }, 
+  "social": {
+    "twitter": "RepCawthorn", 
+    "twitter_id": 1344007696555663360
+  }, 
+  "terms": [
+    {
+      "address": "102 Cannon House Office Building Washington DC 20515-3311", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "102 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6401", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://cawthorn.house.gov"
+    }
+  ], 
+  "url_slug": "nc-david-cawthorn"
+}

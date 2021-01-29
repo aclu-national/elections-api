@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1976-04-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11666", 
+    "ballotpedia": "Jamaal Bowman", 
+    "bioguide": "B001223", 
+    "fec": [
+      "H0NY16143"
+    ], 
+    "google_entity_id": "kg:/g/11fsgvc0xx", 
+    "govtrack": 456839, 
+    "wikidata": "Q96419280", 
+    "wikipedia": "Jamaal Bowman"
+  }, 
+  "name": {
+    "first": "Jamaal", 
+    "last": "Bowman", 
+    "official_full": "Jamaal Bowman"
+  }, 
+  "social": {
+    "twitter": "RepBowman", 
+    "twitter_id": 1344389506963808264
+  }, 
+  "terms": [
+    {
+      "address": "1605 Longworth House Office Building Washington DC 20515-3216", 
+      "district": 16, 
+      "end": "2023-01-03", 
+      "office": "1605 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2464", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://bowman.house.gov"
+    }
+  ], 
+  "url_slug": "ny-jamaal-bowman"
+}

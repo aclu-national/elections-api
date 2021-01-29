@@ -1,0 +1,41 @@
+{
+  "bio": {
+    "birthday": "1959-07-01", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11663", 
+    "bioguide": "L000273", 
+    "fec": [
+      "H0NM03102"
+    ], 
+    "google_entity_id": "kg:/g/11h_x7n8f5", 
+    "govtrack": 456835, 
+    "wikidata": "Q96054905", 
+    "wikipedia": "Teresa Leger Fernandez"
+  }, 
+  "name": {
+    "first": "Teresa", 
+    "last": "Leger Fernandez", 
+    "official_full": "Teresa Leger Fernandez"
+  }, 
+  "social": {
+    "twitter": "RepTeresaLF", 
+    "twitter_id": 1345147845926670337
+  }, 
+  "terms": [
+    {
+      "address": "1432 Longworth House Office Building Washington DC 20515-3103", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1432 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6190", 
+      "start": "2021-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://fernandez.house.gov"
+    }
+  ], 
+  "url_slug": "nm-teresa-leger-fernandez"
+}

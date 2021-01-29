@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1964-03-16", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11664", 
+    "ballotpedia": "Yvette Herrell", 
+    "bioguide": "H001084", 
+    "fec": [
+      "H8NM02156"
+    ], 
+    "google_entity_id": "kg:/m/0_qf84y", 
+    "govtrack": 456834, 
+    "votesmart": 121681, 
+    "wikidata": "Q16225780", 
+    "wikipedia": "Yvette Herrell"
+  }, 
+  "name": {
+    "first": "Yvette", 
+    "last": "Herrell", 
+    "official_full": "Yvette Herrell"
+  }, 
+  "social": {
+    "twitter": "RepHerrell", 
+    "twitter_id": 1344416719260016641
+  }, 
+  "terms": [
+    {
+      "address": "1305 Longworth House Office Building Washington DC 20515-3102", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1305 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2365", 
+      "start": "2021-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://herrell.house.gov"
+    }
+  ], 
+  "url_slug": "nm-yvette-herrell"
+}

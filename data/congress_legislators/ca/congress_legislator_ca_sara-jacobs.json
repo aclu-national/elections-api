@@ -1,0 +1,41 @@
+{
+  "bio": {
+    "birthday": "1989-02-01", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11629", 
+    "bioguide": "J000305", 
+    "fec": [
+      "H0CA53115"
+    ], 
+    "google_entity_id": "kg:/g/11ghs2x3tm", 
+    "govtrack": 456804, 
+    "wikidata": "Q50825637", 
+    "wikipedia": "Sara Jacobs"
+  }, 
+  "name": {
+    "first": "Sara", 
+    "last": "Jacobs", 
+    "official_full": "Sara Jacobs"
+  }, 
+  "social": {
+    "twitter": "RepSaraJacobs", 
+    "twitter_id": 1345103905869455361
+  }, 
+  "terms": [
+    {
+      "address": "1232 Longworth House Office Building Washington DC 20515-0553", 
+      "district": 53, 
+      "end": "2023-01-03", 
+      "office": "1232 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2040", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://sarajacobs.house.gov"
+    }
+  ], 
+  "url_slug": "ca-sara-jacobs"
+}

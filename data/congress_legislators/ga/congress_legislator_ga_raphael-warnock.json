@@ -1,0 +1,44 @@
+{
+  "bio": {
+    "birthday": "1969-07-23", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11643", 
+    "ballotpedia": "Raphael Warnock", 
+    "bioguide": "W000790", 
+    "fec": [
+      "S0GA00559"
+    ], 
+    "govtrack": 456858, 
+    "lis": "S415", 
+    "wikidata": "Q84146599", 
+    "wikipedia": "Raphael Warnock"
+  }, 
+  "name": {
+    "first": "Raphael", 
+    "last": "Warnock", 
+    "middle": "Gamaliel", 
+    "official_full": "Raphael G. Warnock"
+  }, 
+  "social": {
+    "twitter": "SenatorWarnock", 
+    "twitter_id": 1352287997853622273
+  }, 
+  "terms": [
+    {
+      "address": "B40D Dirksen Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "end": "2023-01-03", 
+      "how": "special-election", 
+      "office": "B40d Dirksen Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-3643", 
+      "start": "2021-01-20", 
+      "state": "GA", 
+      "state_rank": "junior", 
+      "type": "sen"
+    }
+  ], 
+  "url_slug": "ga-raphael-warnock"
+}

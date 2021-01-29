@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1980-10-10", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11677", 
+    "bioguide": "G000594", 
+    "fec": [
+      "H0TX35015"
+    ], 
+    "google_entity_id": "kg:/g/11fs52clcr", 
+    "govtrack": 456849, 
+    "wikidata": ""
+  }, 
+  "name": {
+    "first": "Ernest", 
+    "last": "Gonzales", 
+    "middle": "Anthony", 
+    "nickname": "Tony", 
+    "official_full": "Tony Gonzales"
+  }, 
+  "social": {
+    "twitter": "RepTonyGonzales", 
+    "twitter_id": 1343627416120532992
+  }, 
+  "terms": [
+    {
+      "address": "1009 Longworth House Office Building Washington DC 20515-4323", 
+      "district": 23, 
+      "end": "2023-01-03", 
+      "office": "1009 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4511", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://gonzales.house.gov"
+    }
+  ], 
+  "url_slug": "tx-ernest-gonzales"
+}

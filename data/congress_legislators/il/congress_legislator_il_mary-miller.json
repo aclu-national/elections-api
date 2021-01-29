@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1959-08-27", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11649", 
+    "bioguide": "M001211", 
+    "fec": [
+      "H0IL15129"
+    ], 
+    "google_entity_id": "kg:/g/11fsd5mh_l", 
+    "govtrack": 456820, 
+    "wikidata": "Q101204553", 
+    "wikipedia": "Mary Miller (politician)"
+  }, 
+  "name": {
+    "first": "Mary", 
+    "last": "Miller", 
+    "middle": "E.", 
+    "official_full": "Mary E. Miller"
+  }, 
+  "social": {
+    "twitter": "RepMaryMiller", 
+    "twitter_id": 1343656635907125250
+  }, 
+  "terms": [
+    {
+      "address": "1529 Longworth House Office Building Washington DC 20515-1315", 
+      "district": 15, 
+      "end": "2023-01-03", 
+      "office": "1529 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5271", 
+      "start": "2021-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://marymiller.house.gov"
+    }
+  ], 
+  "url_slug": "il-mary-miller"
+}

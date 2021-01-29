@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1964-08-23", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11634", 
+    "bioguide": "F000472", 
+    "fec": [
+      "H0FL15104"
+    ], 
+    "google_entity_id": "kg:/g/11ft5hszwx", 
+    "govtrack": 456807, 
+    "wikidata": "Q101198561", 
+    "wikipedia": "Scott Franklin (politician)"
+  }, 
+  "name": {
+    "first": "C.", 
+    "last": "Franklin", 
+    "middle": "Scott", 
+    "official_full": "C. Scott Franklin"
+  }, 
+  "social": {
+    "twitter": "RepFranklin", 
+    "twitter_id": 1343664721384398849
+  }, 
+  "terms": [
+    {
+      "address": "1517 Longworth House Office Building Washington DC 20515-0915", 
+      "district": 15, 
+      "end": "2023-01-03", 
+      "office": "1517 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1252", 
+      "start": "2021-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://franklin.house.gov"
+    }
+  ], 
+  "url_slug": "fl-c-franklin"
+}

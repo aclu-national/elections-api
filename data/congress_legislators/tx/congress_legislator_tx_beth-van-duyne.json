@@ -1,0 +1,44 @@
+{
+  "bio": {
+    "birthday": "1970-11-16", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11676", 
+    "ballotpedia": "Beth Van Duyne", 
+    "bioguide": "V000134", 
+    "fec": [
+      "H0TX24209"
+    ], 
+    "google_entity_id": "kg:/m/0k1c6d8", 
+    "govtrack": 456850, 
+    "votesmart": 79150, 
+    "wikidata": "Q66309702", 
+    "wikipedia": "Beth Van Duyne"
+  }, 
+  "name": {
+    "first": "Beth", 
+    "last": "Van Duyne", 
+    "middle": "Ann", 
+    "official_full": "Beth Van Duyne"
+  }, 
+  "social": {
+    "twitter": "RepBethVanDuyne", 
+    "twitter_id": 1339633259349745670
+  }, 
+  "terms": [
+    {
+      "address": "1337 Longworth House Office Building Washington DC 20515-4324", 
+      "district": 24, 
+      "end": "2023-01-03", 
+      "office": "1337 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6605", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://vanduyne.house.gov"
+    }
+  ], 
+  "url_slug": "tx-beth-van-duyne"
+}

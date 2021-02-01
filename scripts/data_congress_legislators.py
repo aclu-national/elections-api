@@ -29,8 +29,6 @@ legislator_list = []
 for legislator in data:
 	id = legislator["id"]["bioguide"]
 	legislator_lookup[id] = legislator
-	if (id not in existing_legislator_lookup):
-		legislator_list.append(legislator)
 
 source_path = "%s/sources/congress_legislators/legislators-social-media.yaml" % root_dir
 print("Loading %s" % source_path)
@@ -74,15 +72,22 @@ def sort_legislators(a, b):
 
 legislator_list.sort(sort_legislators)
 
-for legislator in legislator_list:
+# TODO: sort the list of keys instead?
+for bioguide_id in legislator_lookup:
+	legislator = legislator_lookup[bioguide_id]
 
-	filename = get_filename(legislator)
-	state = legislator["terms"][0]["state"].lower()
+	if (bioguide_id in existing_legislator_lookup):
+		path_index = 1
+		path = existing_legislator_lookup[bioguide_id][path_index]
+	else:
+		filename = get_filename(legislator)
+		state = legislator["terms"][0]["state"].lower()
+		path = "congress_legislators/%s/%s" % (state, filename)
+
 	fname = legislator["name"]["first"]
 	lname = legislator["name"]["last"]
 	name = "%s %s" % (fname, lname)
 
-	path = "congress_legislators/%s/%s" % (state, filename)
 	abs_path = "%s/data/%s" % (root_dir, path)
 
 	aclu_id = data_index.get_id('elections-api', 'congress_legislator', path, name)

@@ -11,6 +11,7 @@
     "fec": [
       "H8TX27049"
     ], 
+    "google_entity_id": "kg:/g/11f6y3n6vk", 
     "govtrack": 412746, 
     "icpsr": 21758, 
     "opensecrets": "N00041882", 
@@ -48,6 +49,18 @@
       "party": "Republican", 
       "phone": "202-225-7742", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://cloud.house.gov"
+    }, 
+    {
+      "address": "512 Cannon House Office Building Washington DC 20515-4327", 
+      "district": 27, 
+      "end": "2023-01-03", 
+      "office": "512 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-7742", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://cloud.house.gov"

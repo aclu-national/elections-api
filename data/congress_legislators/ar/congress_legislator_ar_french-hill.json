@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:530", 
+    "ballotpedia": "French Hill", 
     "bioguide": "H001072", 
     "cspan": 9265172, 
     "fec": [
@@ -21,9 +22,10 @@
     "wikipedia": "French Hill (politician)"
   }, 
   "name": {
-    "first": "French", 
+    "first": "J.", 
     "last": "Hill", 
-    "official_full": "J. French Hill"
+    "middle": "French", 
+    "official_full": "J. Hill"
   }, 
   "social": {
     "facebook": "RepFrenchHill", 
@@ -70,7 +72,19 @@
       "state": "AR", 
       "type": "rep", 
       "url": "https://hill.house.gov"
+    }, 
+    {
+      "address": "1533 Longworth House Office Building Washington DC 20515-0402", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1533 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2506", 
+      "start": "2021-01-03", 
+      "state": "AR", 
+      "type": "rep", 
+      "url": "https://hill.house.gov"
     }
   ], 
-  "url_slug": "ar-french-hill"
+  "url_slug": "ar-j-hill"
 }

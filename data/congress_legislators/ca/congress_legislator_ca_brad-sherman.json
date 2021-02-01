@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:550", 
+    "ballotpedia": "Brad Sherman", 
     "bioguide": "S000344", 
     "cspan": 45124, 
     "fec": [
@@ -162,6 +163,19 @@
       "phone": "202-225-5911", 
       "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://sherman.house.gov"
+    }, 
+    {
+      "address": "2181 Rayburn House Office Building Washington DC 20515-0530", 
+      "district": 30, 
+      "end": "2023-01-03", 
+      "office": "2181 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5911", 
+      "rss_url": "http://bradsherman.house.gov/press-releases-and-columns/rss.shtml", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://sherman.house.gov"

@@ -5,13 +5,16 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11564", 
+    "ballotpedia": "Andrew Kim (New Jersey)", 
     "bioguide": "K000394", 
     "fec": [
       "H8NJ03206"
     ], 
+    "google_entity_id": "kg:/g/11f730yxds", 
     "govtrack": 412797, 
     "icpsr": 21937, 
     "opensecrets": "N00041370", 
+    "votesmart": 179640, 
     "wikidata": "Q55639180", 
     "wikipedia": "Andy Kim (politician)"
   }, 
@@ -33,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-4765", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://kim.house.gov"
+    }, 
+    {
+      "address": "2444 Rayburn House Office Building Washington DC 20515-3003", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2444 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4765", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://kim.house.gov"

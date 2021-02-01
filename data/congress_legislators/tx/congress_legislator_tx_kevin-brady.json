@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:973", 
+    "ballotpedia": "Kevin Brady (Texas)", 
     "bioguide": "B000755", 
     "cspan": 45749, 
     "fec": [
@@ -164,6 +165,19 @@
       "phone": "202-225-4901", 
       "rss_url": "http://kevinbrady.house.gov/common/rss/index.cfm?rss=49", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://kevinbrady.house.gov"
+    }, 
+    {
+      "address": "1011 Longworth House Office Building Washington DC 20515-4308", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "1011 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4901", 
+      "rss_url": "http://kevinbrady.house.gov/common/rss/index.cfm?rss=49", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://kevinbrady.house.gov"

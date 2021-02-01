@@ -193,6 +193,19 @@
       "state": "TN", 
       "type": "rep", 
       "url": "https://cooper.house.gov"
+    }, 
+    {
+      "address": "1536 Longworth House Office Building Washington DC 20515-4205", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1536 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4311", 
+      "rss_url": "http://cooper.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://cooper.house.gov"
     }
   ], 
   "url_slug": "tn-jim-cooper"

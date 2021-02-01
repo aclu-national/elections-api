@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:586", 
+    "ballotpedia": "Nanette Barrag\u00e1n", 
     "bioguide": "B001300", 
     "cspan": 104730, 
     "fec": [
@@ -22,6 +23,7 @@
   "name": {
     "first": "Nanette", 
     "last": "Barrag\u00e1n", 
+    "middle": "Diaz", 
     "official_full": "Nanette Diaz Barrag\u00e1n"
   }, 
   "social": {
@@ -51,6 +53,18 @@
       "party": "Democrat", 
       "phone": "202-225-8220", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://barragan.house.gov"
+    }, 
+    {
+      "address": "2246 Longworth House Office Building Washington DC 20515-0544", 
+      "district": 44, 
+      "end": "2023-01-03", 
+      "office": "2246 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8220", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://barragan.house.gov"

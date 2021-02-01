@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11524", 
+    "ballotpedia": "Jason Crow", 
     "bioguide": "C001121", 
     "fec": [
       "H8CO06229"
     ], 
+    "google_entity_id": "kg:/g/11gzqdw_wg", 
     "govtrack": 412762, 
     "icpsr": 21912, 
     "opensecrets": "N00040876", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-7882", 
       "start": "2019-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "https://crow.house.gov"
+    }, 
+    {
+      "address": "1229 Longworth House Office Building Washington DC 20515-0606", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "1229 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7882", 
+      "start": "2021-01-03", 
       "state": "CO", 
       "type": "rep", 
       "url": "https://crow.house.gov"

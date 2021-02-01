@@ -124,6 +124,19 @@
       "state": "CT", 
       "type": "rep", 
       "url": "https://courtney.house.gov"
+    }, 
+    {
+      "address": "2449 Rayburn House Office Building Washington DC 20515-0702", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2449 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2076", 
+      "rss_url": "http://courtney.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "https://courtney.house.gov"
     }
   ], 
   "url_slug": "ct-joe-courtney"

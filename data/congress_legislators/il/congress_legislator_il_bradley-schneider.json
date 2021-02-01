@@ -24,7 +24,7 @@
   "name": {
     "first": "Bradley", 
     "last": "Schneider", 
-    "middle": "S.", 
+    "middle": "Scott", 
     "nickname": "Brad", 
     "official_full": "Bradley Scott Schneider"
   }, 
@@ -73,6 +73,19 @@
       "phone": "202-225-4835", 
       "rss_url": "http://schneider.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://schneider.house.gov"
+    }, 
+    {
+      "address": "300 Cannon House Office Building Washington DC 20515-1310", 
+      "district": 10, 
+      "end": "2023-01-03", 
+      "office": "300 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4835", 
+      "rss_url": "http://schneider.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "IL", 
       "type": "rep", 
       "url": "https://schneider.house.gov"

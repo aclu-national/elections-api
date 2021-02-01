@@ -54,6 +54,18 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://budd.house.gov"
+    }, 
+    {
+      "address": "103 Cannon House Office Building Washington DC 20515-3313", 
+      "district": 13, 
+      "end": "2023-01-03", 
+      "office": "103 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4531", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://budd.house.gov"
     }
   ], 
   "url_slug": "nc-ted-budd"

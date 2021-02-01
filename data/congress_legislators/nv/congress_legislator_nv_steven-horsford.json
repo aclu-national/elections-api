@@ -58,6 +58,19 @@
       "state": "NV", 
       "type": "rep", 
       "url": "https://horsford.house.gov"
+    }, 
+    {
+      "address": "562 Cannon House Office Building Washington DC 20515-2804", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "562 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9894", 
+      "rss_url": "http://horsford.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "https://horsford.house.gov"
     }
   ], 
   "url_slug": "nv-steven-horsford"

@@ -69,8 +69,20 @@
     }, 
     {
       "chamber": "senate", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
       "title": "Senate Minority Whip"
+    }, 
+    {
+      "chamber": "senate", 
+      "end": "2021-01-20", 
+      "start": "2021-01-03", 
+      "title": "Senate Minority Whip"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2021-01-20", 
+      "title": "Senate Majority Whip"
     }
   ], 
   "name": {
@@ -187,6 +199,21 @@
       "phone": "202-224-2152", 
       "rss_url": "http://durbin.senate.gov/public/index.cfm/rss/feed", 
       "start": "2015-01-06", 
+      "state": "IL", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.durbin.senate.gov"
+    }, 
+    {
+      "address": "711 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.durbin.senate.gov/contact/", 
+      "end": "2027-01-03", 
+      "office": "711 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2152", 
+      "rss_url": "http://durbin.senate.gov/public/index.cfm/rss/feed", 
+      "start": "2021-01-03", 
       "state": "IL", 
       "state_rank": "senior", 
       "type": "sen", 

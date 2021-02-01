@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1976-07-21", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11658", 
+    "ballotpedia": "Cori Bush", 
+    "bioguide": "B001224", 
+    "fec": [
+      "H8MO01143"
+    ], 
+    "google_entity_id": "kg:/g/11cntkcbkt", 
+    "govtrack": 456829, 
+    "wikidata": "Q98084800", 
+    "wikipedia": "Cori Bush"
+  }, 
+  "name": {
+    "first": "Cori", 
+    "last": "Bush", 
+    "official_full": "Cori Bush"
+  }, 
+  "social": {
+    "twitter": "RepCori", 
+    "twitter_id": 1002630999052865536
+  }, 
+  "terms": [
+    {
+      "address": "1016 Longworth House Office Building Washington DC 20515-2501", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1016 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2406", 
+      "start": "2021-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://bush.house.gov"
+    }
+  ], 
+  "url_slug": "mo-cori-bush"
+}

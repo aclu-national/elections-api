@@ -1,0 +1,37 @@
+{
+  "bio": {
+    "birthday": "1974-03-28", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11644", 
+    "bioguide": "K000396", 
+    "fec": [
+      "H0HI02155"
+    ], 
+    "google_entity_id": "kg:/g/11g6p5g_0c", 
+    "govtrack": 456815, 
+    "wikidata": "Q28861508", 
+    "wikipedia": "Kai Kahele"
+  }, 
+  "name": {
+    "first": "Kaiali\u02bbi", 
+    "last": "Kahele", 
+    "official_full": "Kaiali\u2019i Kahele"
+  }, 
+  "terms": [
+    {
+      "address": "1205 Longworth House Office Building Washington DC 20515-1102", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1205 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4906", 
+      "start": "2021-01-03", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "https://kahele.house.gov"
+    }
+  ], 
+  "url_slug": "hi-kaiali-i-kahele"
+}

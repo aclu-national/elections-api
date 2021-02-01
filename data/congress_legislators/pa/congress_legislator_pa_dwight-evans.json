@@ -71,6 +71,19 @@
       "state": "PA", 
       "type": "rep", 
       "url": "https://evans.house.gov"
+    }, 
+    {
+      "address": "1105 Longworth House Office Building Washington DC 20515-3803", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1105 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4001", 
+      "rss_url": "https://evans.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://evans.house.gov"
     }
   ], 
   "url_slug": "pa-dwight-evans"

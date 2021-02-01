@@ -104,6 +104,19 @@
       "state": "IN", 
       "type": "rep", 
       "url": "https://bucshon.house.gov"
+    }, 
+    {
+      "address": "2313 Rayburn House Office Building Washington DC 20515-1408", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2313 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4636", 
+      "rss_url": "http://bucshon.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://bucshon.house.gov"
     }
   ], 
   "url_slug": "in-larry-bucshon"

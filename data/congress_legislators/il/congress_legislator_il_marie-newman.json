@@ -1,0 +1,41 @@
+{
+  "bio": {
+    "birthday": "1964-04-13", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11648", 
+    "bioguide": "N000192", 
+    "fec": [
+      "H8IL03102"
+    ], 
+    "google_entity_id": "kg:/g/11f4yffn3m", 
+    "govtrack": 456819, 
+    "wikidata": "Q47960940", 
+    "wikipedia": "Marie Newman"
+  }, 
+  "name": {
+    "first": "Marie", 
+    "last": "Newman", 
+    "official_full": "Marie Newman"
+  }, 
+  "social": {
+    "twitter": "RepMarieNewman", 
+    "twitter_id": 1343578440977494018
+  }, 
+  "terms": [
+    {
+      "address": "1022 Longworth House Office Building Washington DC 20515-1303", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1022 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5701", 
+      "start": "2021-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://newman.house.gov"
+    }
+  ], 
+  "url_slug": "il-marie-newman"
+}

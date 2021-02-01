@@ -71,6 +71,18 @@
       "state": "NJ", 
       "type": "rep", 
       "url": "https://watsoncoleman.house.gov"
+    }, 
+    {
+      "address": "168 Cannon House Office Building Washington DC 20515-3012", 
+      "district": 12, 
+      "end": "2023-01-03", 
+      "office": "168 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5801", 
+      "start": "2021-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://watsoncoleman.house.gov"
     }
   ], 
   "url_slug": "nj-bonnie-watson-coleman"

@@ -11,6 +11,7 @@
   ], 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:556", 
+    "ballotpedia": "Doris Matsui", 
     "bioguide": "M001163", 
     "cspan": 26602, 
     "fec": [
@@ -135,6 +136,19 @@
       "phone": "202-225-7163", 
       "rss_url": "http://matsui.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://matsui.house.gov"
+    }, 
+    {
+      "address": "2311 Rayburn House Office Building Washington DC 20515-0506", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "2311 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7163", 
+      "rss_url": "http://matsui.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://matsui.house.gov"

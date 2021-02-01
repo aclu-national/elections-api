@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11600", 
+    "ballotpedia": "Van Taylor", 
     "bioguide": "T000479", 
     "fec": [
       "H8TX03123"
@@ -13,6 +14,7 @@
     "govtrack": 412821, 
     "icpsr": 21973, 
     "opensecrets": "N00027709", 
+    "votesmart": 147737, 
     "wikidata": "Q7913689", 
     "wikipedia": "Van Taylor"
   }, 
@@ -34,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-4201", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://vantaylor.house.gov"
+    }, 
+    {
+      "address": "1404 Longworth House Office Building Washington DC 20515-4303", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1404 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4201", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://vantaylor.house.gov"

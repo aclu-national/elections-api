@@ -92,6 +92,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://cardenas.house.gov"
+    }, 
+    {
+      "address": "2438 Rayburn House Office Building Washington DC 20515-0529", 
+      "district": 29, 
+      "end": "2023-01-03", 
+      "office": "2438 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6131", 
+      "rss_url": "http://cardenas.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://cardenas.house.gov"
     }
   ], 
   "url_slug": "ca-tony-cardenas"

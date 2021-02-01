@@ -27,7 +27,13 @@
   "leadership_roles": [
     {
       "chamber": "senate", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
+      "title": "Senate Democratic Policy & Communications Committee Chair"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2021-01-03", 
       "title": "Senate Democratic Policy & Communications Committee Chair"
     }
   ], 

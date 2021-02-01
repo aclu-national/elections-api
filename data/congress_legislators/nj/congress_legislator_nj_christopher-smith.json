@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:829", 
+    "ballotpedia": "Chris Smith (New Jersey)", 
     "bioguide": "S000522", 
     "cspan": 6411, 
     "fec": [
@@ -227,6 +228,19 @@
       "phone": "202-225-3765", 
       "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://chrissmith.house.gov"
+    }, 
+    {
+      "address": "2373 Rayburn House Office Building Washington DC 20515-3004", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "2373 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3765", 
+      "rss_url": "http://chrissmith.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://chrissmith.house.gov"

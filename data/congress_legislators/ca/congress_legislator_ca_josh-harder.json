@@ -10,6 +10,7 @@
     "fec": [
       "H8CA10126"
     ], 
+    "google_entity_id": "kg:/g/11fhwknffg", 
     "govtrack": 412754, 
     "icpsr": 21930, 
     "opensecrets": "N00040853", 
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-4540", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://harder.house.gov"
+    }, 
+    {
+      "address": "209 Cannon House Office Building Washington DC 20515-0510", 
+      "district": 10, 
+      "end": "2023-01-03", 
+      "office": "209 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4540", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://harder.house.gov"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:587", 
+    "ballotpedia": "Norma Torres", 
     "bioguide": "T000474", 
     "cspan": 76129, 
     "fec": [
@@ -24,6 +25,7 @@
   "name": {
     "first": "Norma", 
     "last": "Torres", 
+    "middle": "J.", 
     "official_full": "Norma J. Torres"
   }, 
   "social": {
@@ -68,6 +70,18 @@
       "party": "Democrat", 
       "phone": "202-225-6161", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://torres.house.gov"
+    }, 
+    {
+      "address": "2227 Rayburn House Office Building Washington DC 20515-0535", 
+      "district": 35, 
+      "end": "2023-01-03", 
+      "office": "2227 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6161", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://torres.house.gov"

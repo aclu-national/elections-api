@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:628", 
+    "ballotpedia": "Darren Soto", 
     "bioguide": "S001200", 
     "cspan": 104534, 
     "fec": [
@@ -52,6 +53,18 @@
       "party": "Democrat", 
       "phone": "202-225-9889", 
       "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://soto.house.gov"
+    }, 
+    {
+      "address": "2353 Rayburn House Office Building Washington DC 20515-0909", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2353 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9889", 
+      "start": "2021-01-03", 
       "state": "FL", 
       "type": "rep", 
       "url": "https://soto.house.gov"

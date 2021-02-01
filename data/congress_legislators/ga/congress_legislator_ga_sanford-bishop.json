@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:662", 
+    "ballotpedia": "Sanford Bishop Jr.", 
     "bioguide": "B000490", 
     "cspan": 26194, 
     "fec": [
@@ -179,6 +180,19 @@
       "phone": "202-225-3631", 
       "rss_url": "http://bishop.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://bishop.house.gov"
+    }, 
+    {
+      "address": "2407 Rayburn House Office Building Washington DC 20515-1002", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2407 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3631", 
+      "rss_url": "http://bishop.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "GA", 
       "type": "rep", 
       "url": "https://bishop.house.gov"

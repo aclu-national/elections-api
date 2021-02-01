@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:915", 
+    "ballotpedia": "Lloyd Smucker", 
     "bioguide": "S001199", 
     "cspan": 103540, 
     "fec": [
@@ -51,6 +52,18 @@
       "party": "Republican", 
       "phone": "202-225-2411", 
       "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://smucker.house.gov"
+    }, 
+    {
+      "address": "302 Cannon House Office Building Washington DC 20515-3811", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "302 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2411", 
+      "start": "2021-01-03", 
       "state": "PA", 
       "type": "rep", 
       "url": "https://smucker.house.gov"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11584", 
+    "ballotpedia": "Madeleine Dean", 
     "bioguide": "D000631", 
     "fec": [
       "H8PA04116"
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-4731", 
       "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://dean.house.gov"
+    }, 
+    {
+      "address": "120 Cannon House Office Building Washington DC 20515-3804", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "120 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4731", 
+      "start": "2021-01-03", 
       "state": "PA", 
       "type": "rep", 
       "url": "https://dean.house.gov"

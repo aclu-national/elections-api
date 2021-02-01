@@ -1,0 +1,47 @@
+{
+  "bio": {
+    "birthday": "1954-09-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11624", 
+    "ballotpedia": "Tommy Tuberville", 
+    "bioguide": "T000278", 
+    "fec": [
+      "S0AL00230"
+    ], 
+    "google_entity_id": "kg:/m/04tmr4", 
+    "govtrack": 456796, 
+    "lis": "S412", 
+    "votesmart": 188306, 
+    "wikidata": "Q7819948", 
+    "wikipedia": "Tommy Tuberville"
+  }, 
+  "name": {
+    "first": "Tommy", 
+    "last": "Tuberville", 
+    "middle": "Hawley", 
+    "official_full": "Tommy Tuberville"
+  }, 
+  "social": {
+    "twitter": "SenTuberville", 
+    "twitter_id": 1345739193721487362
+  }, 
+  "terms": [
+    {
+      "address": "B40A Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.tuberville.senate.gov", 
+      "end": "2027-01-03", 
+      "office": "B40a Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4124", 
+      "start": "2021-01-03", 
+      "state": "AL", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.tuberville.senate.gov"
+    }
+  ], 
+  "url_slug": "al-tommy-tuberville"
+}

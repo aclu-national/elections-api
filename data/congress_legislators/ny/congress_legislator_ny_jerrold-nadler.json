@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:863", 
+    "ballotpedia": "Jerrold Nadler", 
     "bioguide": "N000002", 
     "cspan": 26159, 
     "fec": [
@@ -19,7 +20,7 @@
     "thomas": "00850", 
     "votesmart": 26980, 
     "wikidata": "Q505598", 
-    "wikipedia": "Jerrold Nadler"
+    "wikipedia": "Jerry Nadler"
   }, 
   "name": {
     "first": "Jerrold", 
@@ -186,6 +187,19 @@
       "phone": "202-225-5635", 
       "rss_url": "http://nadler.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://nadler.house.gov"
+    }, 
+    {
+      "address": "2132 Rayburn House Office Building Washington DC 20515-3210", 
+      "district": 10, 
+      "end": "2023-01-03", 
+      "office": "2132 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5635", 
+      "rss_url": "http://nadler.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://nadler.house.gov"

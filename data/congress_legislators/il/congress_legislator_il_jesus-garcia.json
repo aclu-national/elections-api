@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11539", 
+    "ballotpedia": "Jesus Garcia", 
     "bioguide": "G000586", 
     "fec": [
       "H8IL04134"
@@ -21,6 +22,7 @@
     "first": "Jes\u00fas", 
     "last": "Garc\u00eda", 
     "middle": "G.", 
+    "nickname": "Chuy", 
     "official_full": "Jes\u00fas G. \"Chuy\" Garc\u00eda"
   }, 
   "social": {
@@ -36,6 +38,18 @@
       "party": "Democrat", 
       "phone": "202-225-8203", 
       "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://chuygarcia.house.gov"
+    }, 
+    {
+      "address": "1519 Longworth House Office Building Washington DC 20515-1304", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "1519 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8203", 
+      "start": "2021-01-03", 
       "state": "IL", 
       "type": "rep", 
       "url": "https://chuygarcia.house.gov"

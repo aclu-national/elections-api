@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:827", 
+    "ballotpedia": "Bill Pascrell", 
     "bioguide": "P000096", 
     "cspan": 45543, 
     "fec": [
@@ -163,6 +164,19 @@
       "phone": "202-225-5751", 
       "rss_url": "http://www.house.gov/apps/list/press/nj08_pascrell/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://pascrell.house.gov"
+    }, 
+    {
+      "address": "2409 Rayburn House Office Building Washington DC 20515-3009", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2409 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5751", 
+      "rss_url": "http://www.house.gov/apps/list/press/nj08_pascrell/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://pascrell.house.gov"

@@ -27,7 +27,9 @@
   }, 
   "social": {
     "facebook": "congressmancomer", 
-    "instagram": "congressmancomer"
+    "instagram": "congressmancomer", 
+    "twitter": "RepJamesComer", 
+    "twitter_id": 1274852794206388225
   }, 
   "terms": [
     {
@@ -66,6 +68,19 @@
       "phone": "202-225-3115", 
       "rss_url": "https://comer.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "KY", 
+      "type": "rep", 
+      "url": "https://comer.house.gov"
+    }, 
+    {
+      "address": "2410 Rayburn House Office Building Washington DC 20515-1701", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "2410 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3115", 
+      "rss_url": "https://comer.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "KY", 
       "type": "rep", 
       "url": "https://comer.house.gov"

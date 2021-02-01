@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11549", 
+    "ballotpedia": "David Trone", 
     "bioguide": "T000483", 
     "fec": [
       "H6MD08549"
     ], 
+    "google_entity_id": "kg:/g/11dxnzbmvl", 
     "govtrack": 412783, 
     "icpsr": 21978, 
     "opensecrets": "N00039122", 
@@ -35,6 +37,18 @@
       "party": "Democrat", 
       "phone": "202-225-2721", 
       "start": "2019-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://trone.house.gov"
+    }, 
+    {
+      "address": "1110 Longworth House Office Building Washington DC 20515-2006", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "1110 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2721", 
+      "start": "2021-01-03", 
       "state": "MD", 
       "type": "rep", 
       "url": "https://trone.house.gov"

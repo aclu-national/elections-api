@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1015", 
+    "ballotpedia": "Dan Newhouse", 
     "bioguide": "N000189", 
     "cspan": 78315, 
     "fec": [
@@ -66,6 +67,18 @@
       "party": "Republican", 
       "phone": "202-225-5816", 
       "start": "2019-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://newhouse.house.gov"
+    }, 
+    {
+      "address": "504 Cannon House Office Building Washington DC 20515-4704", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "504 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5816", 
+      "start": "2021-01-03", 
       "state": "WA", 
       "type": "rep", 
       "url": "https://newhouse.house.gov"

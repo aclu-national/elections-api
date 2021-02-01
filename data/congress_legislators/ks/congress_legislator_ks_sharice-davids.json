@@ -10,6 +10,7 @@
     "fec": [
       "H8KS03155"
     ], 
+    "google_entity_id": "kg:/g/11fgm1fq16", 
     "govtrack": 412780, 
     "icpsr": 21914, 
     "opensecrets": "N00042626", 
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-2865", 
       "start": "2019-01-03", 
+      "state": "KS", 
+      "type": "rep", 
+      "url": "https://davids.house.gov"
+    }, 
+    {
+      "address": "1541 Longworth House Office Building Washington DC 20515-1603", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1541 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2865", 
+      "start": "2021-01-03", 
       "state": "KS", 
       "type": "rep", 
       "url": "https://davids.house.gov"

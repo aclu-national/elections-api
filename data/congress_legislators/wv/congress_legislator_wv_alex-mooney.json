@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1035", 
+    "ballotpedia": "Alexander Mooney", 
     "bioguide": "M001195", 
     "cspan": 76588, 
     "fec": [
@@ -21,9 +22,10 @@
     "wikipedia": "Alex Mooney"
   }, 
   "name": {
-    "first": "Alex", 
+    "first": "Alexander", 
     "last": "Mooney", 
-    "official_full": "Alexander X. Mooney"
+    "middle": "X.", 
+    "official_full": "Alexander Mooney"
   }, 
   "social": {
     "facebook": "CongressmanAlexMooney", 
@@ -70,7 +72,19 @@
       "state": "WV", 
       "type": "rep", 
       "url": "https://mooney.house.gov"
+    }, 
+    {
+      "address": "2228 Rayburn House Office Building Washington DC 20515-4802", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2228 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2711", 
+      "start": "2021-01-03", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "https://mooney.house.gov"
     }
   ], 
-  "url_slug": "wv-alex-mooney"
+  "url_slug": "wv-alexander-mooney"
 }

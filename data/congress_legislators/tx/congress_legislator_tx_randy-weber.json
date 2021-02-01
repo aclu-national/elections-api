@@ -25,7 +25,8 @@
     "first": "Randy", 
     "last": "Weber", 
     "middle": "K.", 
-    "official_full": "Randy K. Weber, Sr."
+    "official_full": "Randy K. Weber, Sr.", 
+    "suffix": "Sr."
   }, 
   "social": {
     "facebook": "TXRandy14", 
@@ -89,6 +90,19 @@
       "phone": "202-225-2831", 
       "rss_url": "http://weber.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://weber.house.gov"
+    }, 
+    {
+      "address": "107 Cannon House Office Building Washington DC 20515-4314", 
+      "district": 14, 
+      "end": "2023-01-03", 
+      "office": "107 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2831", 
+      "rss_url": "http://weber.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://weber.house.gov"

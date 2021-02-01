@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11565", 
+    "ballotpedia": "Jeff Van Drew", 
     "bioguide": "V000133", 
     "fec": [
       "H8NJ02166"
@@ -47,6 +48,18 @@
       ], 
       "phone": "202-225-6572", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://vandrew.house.gov"
+    }, 
+    {
+      "address": "2447 Rayburn House Office Building Washington DC 20515-3002", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2447 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6572", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://vandrew.house.gov"

@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1978-12-28", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11675", 
+    "bioguide": "P000048", 
+    "fec": [
+      "H0TX11230"
+    ], 
+    "google_entity_id": "kg:/g/11f3szpd4x", 
+    "govtrack": 456846, 
+    "wikidata": "Q101196462", 
+    "wikipedia": "August Pfluger"
+  }, 
+  "name": {
+    "first": "August", 
+    "last": "Pfluger", 
+    "middle": "Lee", 
+    "official_full": "August Pfluger", 
+    "suffix": "II"
+  }, 
+  "social": {
+    "twitter": "RepPfluger", 
+    "twitter_id": 1341120751399809026
+  }, 
+  "terms": [
+    {
+      "address": "1531 Longworth House Office Building Washington DC 20515-4311", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "1531 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3605", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://pfluger.house.gov"
+    }
+  ], 
+  "url_slug": "tx-august-pfluger"
+}

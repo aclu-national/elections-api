@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:592", 
+    "ballotpedia": "Salud Carbajal", 
     "bioguide": "C001112", 
     "cspan": 104728, 
     "fec": [
@@ -22,6 +23,7 @@
   "name": {
     "first": "Salud", 
     "last": "Carbajal", 
+    "middle": "O.", 
     "official_full": "Salud O. Carbajal"
   }, 
   "social": {
@@ -52,6 +54,18 @@
       "party": "Democrat", 
       "phone": "202-225-3601", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://carbajal.house.gov"
+    }, 
+    {
+      "address": "2331 Rayburn House Office Building Washington DC 20515-0524", 
+      "district": 24, 
+      "end": "2023-01-03", 
+      "office": "2331 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3601", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://carbajal.house.gov"

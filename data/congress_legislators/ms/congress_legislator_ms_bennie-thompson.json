@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:792", 
+    "ballotpedia": "Bennie Thompson", 
     "bioguide": "T000193", 
     "cspan": 7304, 
     "fec": [
@@ -180,6 +181,19 @@
       "phone": "202-225-5876", 
       "rss_url": "http://benniethompson.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2019-01-03", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "https://benniethompson.house.gov"
+    }, 
+    {
+      "address": "2466 Rayburn House Office Building Washington DC 20515-2402", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2466 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5876", 
+      "rss_url": "http://benniethompson.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
       "state": "MS", 
       "type": "rep", 
       "url": "https://benniethompson.house.gov"

@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1984-09-27", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11665", 
+    "bioguide": "G000597", 
+    "fec": [
+      "H0NY02234"
+    ], 
+    "google_entity_id": "kg:/g/11bw8f4j8q", 
+    "govtrack": 456836, 
+    "wikidata": "Q21257859", 
+    "wikipedia": "Andrew Garbarino"
+  }, 
+  "name": {
+    "first": "Andrew", 
+    "last": "Garbarino", 
+    "middle": "R.", 
+    "official_full": "Andrew R. Garbarino"
+  }, 
+  "social": {
+    "twitter": "RepGarbarino", 
+    "twitter_id": 1344349650447433729
+  }, 
+  "terms": [
+    {
+      "address": "1516 Longworth House Office Building Washington DC 20515-3202", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1516 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-7896", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://garbarino.house.gov"
+    }
+  ], 
+  "url_slug": "ny-andrew-garbarino"
+}

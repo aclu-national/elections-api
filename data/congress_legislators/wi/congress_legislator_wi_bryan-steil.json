@@ -5,13 +5,16 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11610", 
+    "ballotpedia": "Bryan Steil", 
     "bioguide": "S001213", 
     "fec": [
       "H8WI01156"
     ], 
+    "google_entity_id": "kg:/g/11fhnfybnd", 
     "govtrack": 412836, 
     "icpsr": 21970, 
     "opensecrets": "N00043379", 
+    "votesmart": 181289, 
     "wikidata": "Q58494431", 
     "wikipedia": "Bryan Steil"
   }, 
@@ -33,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-3031", 
       "start": "2019-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://steil.house.gov"
+    }, 
+    {
+      "address": "1526 Longworth House Office Building Washington DC 20515-4901", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1526 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3031", 
+      "start": "2021-01-03", 
       "state": "WI", 
       "type": "rep", 
       "url": "https://steil.house.gov"

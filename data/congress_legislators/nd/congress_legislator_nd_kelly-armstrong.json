@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11562", 
+    "ballotpedia": "Kelly Armstrong", 
     "bioguide": "A000377", 
     "fec": [
       "H8ND00096"
     ], 
+    "google_entity_id": "kg:/g/11hcszksh3", 
     "govtrack": 412794, 
     "icpsr": 21901, 
     "opensecrets": "N00042868", 
@@ -34,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-2611", 
       "start": "2019-01-03", 
+      "state": "ND", 
+      "type": "rep", 
+      "url": "https://armstrong.house.gov"
+    }, 
+    {
+      "address": "1740 Longworth House Office Building Washington DC 20515-3400", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "1740 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2611", 
+      "start": "2021-01-03", 
       "state": "ND", 
       "type": "rep", 
       "url": "https://armstrong.house.gov"

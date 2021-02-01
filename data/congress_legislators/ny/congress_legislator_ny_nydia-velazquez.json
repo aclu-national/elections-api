@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:872", 
+    "ballotpedia": "Nydia Velazquez", 
     "bioguide": "V000081", 
     "cspan": 26160, 
     "fec": [
@@ -174,6 +175,18 @@
       "party": "Democrat", 
       "phone": "202-225-2361", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://velazquez.house.gov"
+    }, 
+    {
+      "address": "2302 Rayburn House Office Building Washington DC 20515-3207", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "2302 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2361", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://velazquez.house.gov"

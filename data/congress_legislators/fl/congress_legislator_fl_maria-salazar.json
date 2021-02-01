@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1961-11-01", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11637", 
+    "bioguide": "S000168", 
+    "fec": [
+      "H8FL27185"
+    ], 
+    "google_entity_id": "kg:/g/1hb_g7r18", 
+    "govtrack": 456810, 
+    "votesmart": 182300, 
+    "wikidata": "Q6003715", 
+    "wikipedia": "Maria Elvira Salazar"
+  }, 
+  "name": {
+    "first": "Maria", 
+    "last": "Salazar", 
+    "middle": "Elvira", 
+    "official_full": "Maria Elvira Salazar"
+  }, 
+  "social": {
+    "twitter": "RepMariaSalazar", 
+    "twitter_id": 1325928411689349120
+  }, 
+  "terms": [
+    {
+      "address": "1616 Longworth House Office Building Washington DC 20515-0927", 
+      "district": 27, 
+      "end": "2023-01-03", 
+      "office": "1616 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3931", 
+      "start": "2021-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://salazar.house.gov"
+    }
+  ], 
+  "url_slug": "fl-maria-salazar"
+}

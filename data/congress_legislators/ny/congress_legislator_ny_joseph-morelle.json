@@ -52,6 +52,18 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://morelle.house.gov"
+    }, 
+    {
+      "address": "1317 Longworth House Office Building Washington DC 20515-3225", 
+      "district": 25, 
+      "end": "2023-01-03", 
+      "office": "1317 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3615", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://morelle.house.gov"
     }
   ], 
   "url_slug": "ny-joseph-morelle"

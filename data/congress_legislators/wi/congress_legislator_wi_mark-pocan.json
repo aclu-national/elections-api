@@ -92,6 +92,19 @@
       "state": "WI", 
       "type": "rep", 
       "url": "https://pocan.house.gov"
+    }, 
+    {
+      "address": "1727 Longworth House Office Building Washington DC 20515-4902", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1727 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2906", 
+      "rss_url": "http://pocan.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://pocan.house.gov"
     }
   ], 
   "url_slug": "wi-mark-pocan"

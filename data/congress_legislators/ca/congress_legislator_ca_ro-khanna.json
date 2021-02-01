@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:591", 
+    "ballotpedia": "Ro Khanna", 
     "bioguide": "K000389", 
     "cspan": 31129, 
     "fec": [
@@ -52,6 +53,18 @@
       "party": "Democrat", 
       "phone": "202-225-2631", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://khanna.house.gov"
+    }, 
+    {
+      "address": "306 Cannon House Office Building Washington DC 20515-0517", 
+      "district": 17, 
+      "end": "2023-01-03", 
+      "office": "306 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2631", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://khanna.house.gov"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:693", 
+    "ballotpedia": "Raja Krishnamoorthi", 
     "bioguide": "K000391", 
     "cspan": 103408, 
     "fec": [
@@ -51,6 +52,18 @@
       "party": "Democrat", 
       "phone": "202-225-3711", 
       "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://krishnamoorthi.house.gov"
+    }, 
+    {
+      "address": "115 Cannon House Office Building Washington DC 20515-1308", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "115 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3711", 
+      "start": "2021-01-03", 
       "state": "IL", 
       "type": "rep", 
       "url": "https://krishnamoorthi.house.gov"

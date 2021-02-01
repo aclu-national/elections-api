@@ -1,0 +1,47 @@
+{
+  "bio": {
+    "birthday": "1964-02-21", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11625", 
+    "ballotpedia": "Mark Kelly", 
+    "bioguide": "K000377", 
+    "fec": [
+      "S0AZ00350"
+    ], 
+    "govtrack": 456794, 
+    "lis": "S406", 
+    "opensecrets": "N00044223", 
+    "wikidata": "Q357510", 
+    "wikipedia": "Mark Kelly"
+  }, 
+  "name": {
+    "first": "Mark", 
+    "last": "Kelly", 
+    "official_full": "Mark Kelly"
+  }, 
+  "social": {
+    "facebook": "SenMarkKelly", 
+    "twitter": "SenMarkKelly", 
+    "twitter_id": 1324926274888888320
+  }, 
+  "terms": [
+    {
+      "address": "B40B Dirksen Senate Office Building Washington DC 20510", 
+      "class": 3, 
+      "contact_form": "https://www.kelly.senate.gov", 
+      "end": "2023-01-03", 
+      "how": "special-election", 
+      "office": "B40b Dirksen Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2235", 
+      "start": "2020-12-02", 
+      "state": "AZ", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.kelly.senate.gov"
+    }
+  ], 
+  "url_slug": "az-mark-kelly"
+}

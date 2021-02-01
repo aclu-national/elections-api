@@ -105,6 +105,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://gibbs.house.gov"
+    }, 
+    {
+      "address": "2217 Rayburn House Office Building Washington DC 20515-3507", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "2217 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6265", 
+      "rss_url": "http://gibbs.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://gibbs.house.gov"
     }
   ], 
   "url_slug": "oh-bob-gibbs"

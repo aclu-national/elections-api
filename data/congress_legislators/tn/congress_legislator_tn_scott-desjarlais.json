@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:952", 
+    "ballotpedia": "Scott DesJarlais", 
     "bioguide": "D000616", 
     "cspan": 623517, 
     "fec": [
@@ -102,6 +103,19 @@
       "phone": "202-225-6831", 
       "rss_url": "http://desjarlais.house.gov/news/rss.aspx", 
       "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://desjarlais.house.gov"
+    }, 
+    {
+      "address": "2304 Rayburn House Office Building Washington DC 20515-4204", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "2304 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6831", 
+      "rss_url": "http://desjarlais.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
       "state": "TN", 
       "type": "rep", 
       "url": "https://desjarlais.house.gov"

@@ -83,6 +83,19 @@
       "state": "AZ", 
       "type": "rep", 
       "url": "https://kirkpatrick.house.gov"
+    }, 
+    {
+      "address": "309 Cannon House Office Building Washington DC 20515-0302", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "309 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2542", 
+      "rss_url": "http://kirkpatrick.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://kirkpatrick.house.gov"
     }
   ], 
   "url_slug": "az-ann-kirkpatrick"

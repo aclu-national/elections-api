@@ -20,15 +20,13 @@
     "thomas": "00316", 
     "votesmart": 21853, 
     "wikidata": "Q1344200", 
-    "wikipedia": "Michael F. Doyle"
+    "wikipedia": "Mike Doyle (American politician)"
   }, 
   "name": {
     "first": "Michael", 
     "last": "Doyle", 
     "middle": "F.", 
-    "nickname": "Mike", 
-    "official_full": "Michael F. Doyle", 
-    "suffix": "Jr."
+    "official_full": "Michael F. Doyle"
   }, 
   "social": {
     "facebook": "usrepmikedoyle", 
@@ -173,6 +171,19 @@
       "phone": "202-225-2135", 
       "rss_url": "http://doyle.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://doyle.house.gov"
+    }, 
+    {
+      "address": "270 Cannon House Office Building Washington DC 20515-3818", 
+      "district": 18, 
+      "end": "2023-01-03", 
+      "office": "270 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2135", 
+      "rss_url": "http://doyle.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "PA", 
       "type": "rep", 
       "url": "https://doyle.house.gov"

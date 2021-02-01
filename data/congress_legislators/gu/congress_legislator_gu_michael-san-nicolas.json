@@ -40,6 +40,18 @@
       "state": "GU", 
       "type": "rep", 
       "url": "https://sannicolas.house.gov"
+    }, 
+    {
+      "address": "1632 Longworth House Office Building Washington DC 20515-5301", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "1632 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1188", 
+      "start": "2021-01-03", 
+      "state": "GU", 
+      "type": "rep", 
+      "url": "https://sannicolas.house.gov"
     }
   ], 
   "url_slug": "gu-michael-san-nicolas"

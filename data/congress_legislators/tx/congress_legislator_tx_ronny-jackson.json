@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1967-05-04", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11679", 
+    "ballotpedia": "Ronny Jackson", 
+    "bioguide": "J000304", 
+    "fec": [
+      "H0TX13228"
+    ], 
+    "google_entity_id": "kg:/g/11gfhx0vbg", 
+    "govtrack": 456847, 
+    "wikidata": "Q47270118", 
+    "wikipedia": "Ronny Jackson"
+  }, 
+  "name": {
+    "first": "Ronny", 
+    "last": "Jackson", 
+    "middle": "Lynn", 
+    "official_full": "Ronny Jackson"
+  }, 
+  "social": {
+    "twitter": "RepRonnyJackson", 
+    "twitter_id": 1341903465610686464
+  }, 
+  "terms": [
+    {
+      "address": "118 Cannon House Office Building Washington DC 20515-4313", 
+      "district": 13, 
+      "end": "2023-01-03", 
+      "office": "118 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3706", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://jackson.house.gov"
+    }
+  ], 
+  "url_slug": "tx-ronny-jackson"
+}

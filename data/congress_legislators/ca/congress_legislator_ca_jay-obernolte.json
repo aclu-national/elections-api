@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1970-08-18", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11627", 
+    "ballotpedia": "Jay Obernolte", 
+    "bioguide": "O000019", 
+    "fec": [
+      "H0CA08135"
+    ], 
+    "google_entity_id": "kg:/m/02hpvtf", 
+    "govtrack": 456801, 
+    "wikidata": "Q16849797", 
+    "wikipedia": "Jay Obernolte"
+  }, 
+  "name": {
+    "first": "Jay", 
+    "last": "Obernolte", 
+    "middle": "Phillip", 
+    "official_full": "Jay Obernolte"
+  }, 
+  "social": {
+    "twitter": "JayObernolte", 
+    "twitter_id": 272482466
+  }, 
+  "terms": [
+    {
+      "address": "1029 Longworth House Office Building Washington DC 20515-0508", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "1029 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5861", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://obernolte.house.gov"
+    }
+  ], 
+  "url_slug": "ca-jay-obernolte"
+}

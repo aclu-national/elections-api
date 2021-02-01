@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11571", 
+    "ballotpedia": "Susie Lee", 
     "bioguide": "L000590", 
     "fec": [
       "H6NV04020"
     ], 
+    "google_entity_id": "kg:/g/11gtdntn1_", 
     "govtrack": 412802, 
     "icpsr": 21938, 
     "opensecrets": "N00037247", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-3252", 
       "start": "2019-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "https://susielee.house.gov"
+    }, 
+    {
+      "address": "365 Cannon House Office Building Washington DC 20515-2803", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "365 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3252", 
+      "start": "2021-01-03", 
       "state": "NV", 
       "type": "rep", 
       "url": "https://susielee.house.gov"

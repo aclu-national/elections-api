@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1978-07-30", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11642", 
+    "ballotpedia": "Nikema Williams", 
+    "bioguide": "W000788", 
+    "fec": [
+      "H0GA05301"
+    ], 
+    "google_entity_id": "kg:/g/11fctqx0jy", 
+    "govtrack": 456811, 
+    "wikidata": "Q56486570", 
+    "wikipedia": "Nikema Williams"
+  }, 
+  "name": {
+    "first": "Nikema", 
+    "last": "Williams", 
+    "middle": "Natassha", 
+    "official_full": "Nikema Williams"
+  }, 
+  "social": {
+    "twitter": "RepNikema", 
+    "twitter_id": 1345461797361504259
+  }, 
+  "terms": [
+    {
+      "address": "1406 Longworth House Office Building Washington DC 20515-1005", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1406 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3801", 
+      "start": "2021-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://nikemawilliams.house.gov"
+    }
+  ], 
+  "url_slug": "ga-nikema-williams"
+}

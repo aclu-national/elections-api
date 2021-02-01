@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1983-06-27", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11645", 
+    "ballotpedia": "Ashley Hinson", 
+    "bioguide": "H001091", 
+    "fec": [
+      "H0IA01174"
+    ], 
+    "google_entity_id": "kg:/g/11fjq_fl2t", 
+    "govtrack": 456816, 
+    "votesmart": 168783, 
+    "wikidata": "Q60713905", 
+    "wikipedia": "Ashley Hinson"
+  }, 
+  "name": {
+    "first": "Ashley", 
+    "last": "Hinson", 
+    "official_full": "Ashley Hinson"
+  }, 
+  "social": {
+    "twitter": "RepAshleyHinson", 
+    "twitter_id": 1340783304304410625
+  }, 
+  "terms": [
+    {
+      "address": "1429 Longworth House Office Building Washington DC 20515-1501", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1429 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2911", 
+      "start": "2021-01-03", 
+      "state": "IA", 
+      "type": "rep", 
+      "url": "https://hinson.house.gov"
+    }
+  ], 
+  "url_slug": "ia-ashley-hinson"
+}

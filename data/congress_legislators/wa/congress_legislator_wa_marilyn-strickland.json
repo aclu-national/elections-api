@@ -1,0 +1,41 @@
+{
+  "bio": {
+    "birthday": "1962-09-25", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11684", 
+    "bioguide": "S001159", 
+    "fec": [
+      "H0WA10034"
+    ], 
+    "google_entity_id": "kg:/m/0bhb38l", 
+    "govtrack": 456854, 
+    "wikidata": "Q1898180", 
+    "wikipedia": "Marilyn Strickland"
+  }, 
+  "name": {
+    "first": "Marilyn", 
+    "last": "Strickland", 
+    "official_full": "Marilyn Strickland"
+  }, 
+  "social": {
+    "twitter": "RepStricklandWA", 
+    "twitter_id": 1343646545955213312
+  }, 
+  "terms": [
+    {
+      "address": "1004 Longworth House Office Building Washington DC 20515-4710", 
+      "district": 10, 
+      "end": "2023-01-03", 
+      "office": "1004 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9740", 
+      "start": "2021-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://strickland.house.gov"
+    }
+  ], 
+  "url_slug": "wa-marilyn-strickland"
+}

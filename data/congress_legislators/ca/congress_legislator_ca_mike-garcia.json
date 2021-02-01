@@ -10,6 +10,7 @@
     "fec": [
       "H0CA25105"
     ], 
+    "google_entity_id": "kg:/g/11j2j3x1pl", 
     "govtrack": 456792, 
     "opensecrets": "N00044298", 
     "wikidata": "Q94236068", 
@@ -19,6 +20,11 @@
     "first": "Mike", 
     "last": "Garcia", 
     "official_full": "Mike Garcia"
+  }, 
+  "social": {
+    "facebook": "RepMikeGarcia", 
+    "twitter": "repmikegarcia", 
+    "twitter_id": 1262531473057423361
   }, 
   "terms": [
     {
@@ -31,6 +37,18 @@
       "start": "2020-05-19", 
       "state": "CA", 
       "type": "rep"
+    }, 
+    {
+      "address": "1535 Longworth House Office Building Washington DC 20515-0525", 
+      "district": 25, 
+      "end": "2023-01-03", 
+      "office": "1535 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1956", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://mikegarcia.house.gov"
     }
   ], 
   "url_slug": "ca-mike-garcia"

@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1970-06-03", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11639", 
+    "bioguide": "B001312", 
+    "fec": [
+      "H8GA07201"
+    ], 
+    "google_entity_id": "kg:/g/11fgm1glqj", 
+    "govtrack": 456812, 
+    "votesmart": 178540, 
+    "wikidata": "Q58333638", 
+    "wikipedia": "Carolyn Bourdeaux"
+  }, 
+  "name": {
+    "first": "Carolyn", 
+    "last": "Bourdeaux", 
+    "official_full": "Carolyn Bourdeaux"
+  }, 
+  "social": {
+    "twitter": "RepBourdeaux", 
+    "twitter_id": 1343620645452595200
+  }, 
+  "terms": [
+    {
+      "address": "1319 Longworth House Office Building Washington DC 20515-1007", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "1319 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4272", 
+      "start": "2021-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://bourdeaux.house.gov"
+    }
+  ], 
+  "url_slug": "ga-carolyn-bourdeaux"
+}

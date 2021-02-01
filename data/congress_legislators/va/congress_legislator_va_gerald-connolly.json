@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1001", 
+    "ballotpedia": "Gerald Connolly", 
     "bioguide": "C001078", 
     "cspan": 1015936, 
     "fec": [
@@ -111,6 +112,19 @@
       "phone": "202-225-1492", 
       "rss_url": "http://connolly.house.gov/common/rss//index.cfm?rss=44", 
       "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://connolly.house.gov"
+    }, 
+    {
+      "address": "2238 Rayburn House Office Building Washington DC 20515-4611", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "2238 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1492", 
+      "rss_url": "http://connolly.house.gov/common/rss//index.cfm?rss=44", 
+      "start": "2021-01-03", 
       "state": "VA", 
       "type": "rep", 
       "url": "https://connolly.house.gov"

@@ -185,6 +185,19 @@
       "state": "VA", 
       "type": "rep", 
       "url": "https://bobbyscott.house.gov"
+    }, 
+    {
+      "address": "2328 Rayburn House Office Building Washington DC 20515-4603", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2328 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8351", 
+      "rss_url": "http://www.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://bobbyscott.house.gov"
     }
   ], 
   "url_slug": "va-robert-scott"

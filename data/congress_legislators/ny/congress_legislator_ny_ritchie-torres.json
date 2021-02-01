@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1988-03-12", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11669", 
+    "ballotpedia": "Ritchie Torres", 
+    "bioguide": "T000486", 
+    "fec": [
+      "H0NY15160"
+    ], 
+    "google_entity_id": "kg:/m/0x11h9s", 
+    "govtrack": 456838, 
+    "wikidata": "Q16205227", 
+    "wikipedia": "Ritchie Torres"
+  }, 
+  "name": {
+    "first": "Ritchie", 
+    "last": "Torres", 
+    "middle": "John", 
+    "official_full": "Ritchie Torres"
+  }, 
+  "social": {
+    "twitter": "RepRitchie", 
+    "twitter_id": 1276403757224546304
+  }, 
+  "terms": [
+    {
+      "address": "317 Cannon House Office Building Washington DC 20515-3215", 
+      "district": 15, 
+      "end": "2023-01-03", 
+      "office": "317 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4361", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://ritchietorres.house.gov"
+    }
+  ], 
+  "url_slug": "ny-ritchie-torres"
+}

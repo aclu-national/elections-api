@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:618", 
+    "ballotpedia": "Lisa Blunt Rochester", 
     "bioguide": "B001303", 
     "cspan": 104772, 
     "fec": [
@@ -50,6 +51,18 @@
       "party": "Democrat", 
       "phone": "202-225-4165", 
       "start": "2019-01-03", 
+      "state": "DE", 
+      "type": "rep", 
+      "url": "https://bluntrochester.house.gov"
+    }, 
+    {
+      "address": "1724 Longworth House Office Building Washington DC 20515-0800", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "1724 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4165", 
+      "start": "2021-01-03", 
       "state": "DE", 
       "type": "rep", 
       "url": "https://bluntrochester.house.gov"

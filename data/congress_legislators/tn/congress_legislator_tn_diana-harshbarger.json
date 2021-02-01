@@ -1,0 +1,41 @@
+{
+  "bio": {
+    "birthday": "1960-01-01", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11674", 
+    "bioguide": "H001086", 
+    "fec": [
+      "H0TN01118"
+    ], 
+    "google_entity_id": "kg:/g/11f67z977k", 
+    "govtrack": 456844, 
+    "wikidata": "Q101197341", 
+    "wikipedia": "Diana Harshbarger"
+  }, 
+  "name": {
+    "first": "Diana", 
+    "last": "Harshbarger", 
+    "official_full": "Diana Harshbarger"
+  }, 
+  "social": {
+    "twitter": "RepHarshbarger", 
+    "twitter_id": 1345787285179162624
+  }, 
+  "terms": [
+    {
+      "address": "167 Cannon House Office Building Washington DC 20515-4201", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "167 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6356", 
+      "start": "2021-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://harshbarger.house.gov"
+    }
+  ], 
+  "url_slug": "tn-diana-harshbarger"
+}

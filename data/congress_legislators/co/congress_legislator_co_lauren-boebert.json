@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1986-12-15", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11632", 
+    "ballotpedia": "Lauren Boebert", 
+    "bioguide": "B000825", 
+    "fec": [
+      "H0CO03165"
+    ], 
+    "google_entity_id": "kg:/g/11j2v06x6p", 
+    "govtrack": 456805, 
+    "wikidata": "Q96761544", 
+    "wikipedia": "Lauren Boebert"
+  }, 
+  "name": {
+    "first": "Lauren", 
+    "last": "Boebert", 
+    "middle": "Opal", 
+    "official_full": "Lauren Boebert"
+  }, 
+  "social": {
+    "twitter": "RepBoebert", 
+    "twitter_id": 1342989756611907584
+  }, 
+  "terms": [
+    {
+      "address": "1609 Longworth House Office Building Washington DC 20515-0603", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1609 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4761", 
+      "start": "2021-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "https://boebert.house.gov"
+    }
+  ], 
+  "url_slug": "co-lauren-boebert"
+}

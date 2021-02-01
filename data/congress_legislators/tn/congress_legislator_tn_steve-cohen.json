@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:953", 
+    "ballotpedia": "Steve Cohen", 
     "bioguide": "C001068", 
     "cspan": 1022876, 
     "fec": [
@@ -119,6 +120,19 @@
       "phone": "202-225-3265", 
       "rss_url": "http://cohen.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://cohen.house.gov"
+    }, 
+    {
+      "address": "2104 Rayburn House Office Building Washington DC 20515-4209", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2104 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3265", 
+      "rss_url": "http://cohen.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "TN", 
       "type": "rep", 
       "url": "https://cohen.house.gov"

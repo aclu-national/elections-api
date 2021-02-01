@@ -25,6 +25,11 @@
     "last": "Mfume", 
     "official_full": "Kweisi Mfume"
   }, 
+  "social": {
+    "facebook": "RepKweisiMfume", 
+    "twitter": "RepKweisiMfume", 
+    "twitter_id": 1276209702322438148
+  }, 
   "terms": [
     {
       "district": 7, 
@@ -76,6 +81,18 @@
       "start": "2020-05-05", 
       "state": "MD", 
       "type": "rep"
+    }, 
+    {
+      "address": "2263 Rayburn House Office Building Washington DC 20515-2007", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "2263 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4741", 
+      "start": "2021-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://mfume.house.gov"
     }
   ], 
   "url_slug": "md-kweisi-mfume"

@@ -104,6 +104,19 @@
       "state": "GA", 
       "type": "rep", 
       "url": "https://austinscott.house.gov"
+    }, 
+    {
+      "address": "2417 Rayburn House Office Building Washington DC 20515-1008", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2417 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6531", 
+      "rss_url": "http://austinscott.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://austinscott.house.gov"
     }
   ], 
   "url_slug": "ga-austin-scott"

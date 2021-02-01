@@ -5,13 +5,16 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11529", 
+    "ballotpedia": "Michael Waltz", 
     "bioguide": "W000823", 
     "fec": [
       "H8FL06148"
     ], 
+    "google_entity_id": "kg:/g/11f50xlkjm", 
     "govtrack": 412764, 
     "icpsr": 21981, 
     "opensecrets": "N00042403", 
+    "votesmart": 182261, 
     "wikidata": "Q55386653", 
     "wikipedia": "Michael Waltz"
   }, 
@@ -33,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-2706", 
       "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://waltz.house.gov"
+    }, 
+    {
+      "address": "213 Cannon House Office Building Washington DC 20515-0906", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "213 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2706", 
+      "start": "2021-01-03", 
       "state": "FL", 
       "type": "rep", 
       "url": "https://waltz.house.gov"

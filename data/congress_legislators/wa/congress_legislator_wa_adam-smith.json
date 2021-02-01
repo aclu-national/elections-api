@@ -165,6 +165,19 @@
       "state": "WA", 
       "type": "rep", 
       "url": "https://adamsmith.house.gov"
+    }, 
+    {
+      "address": "2264 Rayburn House Office Building Washington DC 20515-4709", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2264 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8901", 
+      "rss_url": "http://www.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://adamsmith.house.gov"
     }
   ], 
   "url_slug": "wa-adam-smith"

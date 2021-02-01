@@ -92,6 +92,19 @@
       "state": "IN", 
       "type": "rep", 
       "url": "https://walorski.house.gov"
+    }, 
+    {
+      "address": "466 Cannon House Office Building Washington DC 20515-1402", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "466 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3915", 
+      "rss_url": "http://walorski.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://walorski.house.gov"
     }
   ], 
   "url_slug": "in-jackie-walorski"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:583", 
+    "ballotpedia": "Mike Thompson (California)", 
     "bioguide": "T000460", 
     "cspan": 57872, 
     "fec": [
@@ -154,6 +155,19 @@
       "phone": "202-225-3311", 
       "rss_url": "http://mikethompson.house.gov/news/rss.aspx", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://mikethompson.house.gov"
+    }, 
+    {
+      "address": "268 Cannon House Office Building Washington DC 20515-0505", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "268 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3311", 
+      "rss_url": "http://mikethompson.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://mikethompson.house.gov"

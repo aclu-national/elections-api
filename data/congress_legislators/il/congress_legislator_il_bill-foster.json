@@ -110,6 +110,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://foster.house.gov"
+    }, 
+    {
+      "address": "2366 Rayburn House Office Building Washington DC 20515-1311", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "2366 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3515", 
+      "rss_url": "http://foster.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://foster.house.gov"
     }
   ], 
   "url_slug": "il-bill-foster"

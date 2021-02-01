@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:877", 
+    "ballotpedia": "Tom Reed (New York)", 
     "bioguide": "R000585", 
     "cspan": 623468, 
     "fec": [
@@ -25,8 +26,7 @@
     "first": "Tom", 
     "last": "Reed", 
     "middle": "W.", 
-    "official_full": "Tom Reed", 
-    "suffix": "II"
+    "official_full": "Tom Reed"
   }, 
   "social": {
     "facebook": "RepTomReed", 
@@ -110,6 +110,19 @@
       "phone": "202-225-3161", 
       "rss_url": "http://reed.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://reed.house.gov"
+    }, 
+    {
+      "address": "1203 Longworth House Office Building Washington DC 20515-3223", 
+      "district": 23, 
+      "end": "2023-01-03", 
+      "office": "1203 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3161", 
+      "rss_url": "http://reed.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://reed.house.gov"

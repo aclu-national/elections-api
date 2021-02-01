@@ -1,0 +1,44 @@
+{
+  "bio": {
+    "birthday": "1968-04-07", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11680", 
+    "ballotpedia": "Troy Nehls", 
+    "bioguide": "N000026", 
+    "fec": [
+      "H0TX22302"
+    ], 
+    "google_entity_id": "kg:/g/11c580_xf2", 
+    "govtrack": 456848, 
+    "votesmart": 188334, 
+    "wikidata": "Q96741441", 
+    "wikipedia": "Troy Nehls"
+  }, 
+  "name": {
+    "first": "Troy", 
+    "last": "Nehls", 
+    "middle": "E.", 
+    "official_full": "Troy E. Nehls"
+  }, 
+  "social": {
+    "twitter": "RepTroyNehls", 
+    "twitter_id": 1347318288850825217
+  }, 
+  "terms": [
+    {
+      "address": "1104 Longworth House Office Building Washington DC 20515-4322", 
+      "district": 22, 
+      "end": "2023-01-03", 
+      "office": "1104 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5951", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://nehls.house.gov"
+    }
+  ], 
+  "url_slug": "tx-troy-nehls"
+}

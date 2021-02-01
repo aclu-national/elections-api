@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11568", 
+    "ballotpedia": "Debra Haaland", 
     "bioguide": "H001080", 
     "fec": [
       "H8NM01331"
     ], 
+    "google_entity_id": "kg:/g/11ght0_d8m", 
     "govtrack": 412800, 
     "icpsr": 21928, 
     "opensecrets": "N00040933", 
@@ -35,6 +37,18 @@
       "party": "Democrat", 
       "phone": "202-225-6316", 
       "start": "2019-01-03", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://haaland.house.gov"
+    }, 
+    {
+      "address": "1421 Longworth House Office Building Washington DC 20515-3101", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1421 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6316", 
+      "start": "2021-01-03", 
       "state": "NM", 
       "type": "rep", 
       "url": "https://haaland.house.gov"

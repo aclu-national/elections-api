@@ -130,6 +130,19 @@
       "state": "IN", 
       "type": "rep", 
       "url": "https://carson.house.gov"
+    }, 
+    {
+      "address": "2135 Rayburn House Office Building Washington DC 20515-1407", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "2135 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4011", 
+      "rss_url": "http://carson.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=1", 
+      "start": "2021-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://carson.house.gov"
     }
   ], 
   "url_slug": "in-andre-carson"

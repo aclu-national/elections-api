@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1976-12-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11653", 
+    "bioguide": "M000871", 
+    "fec": [
+      "H0KS01123"
+    ], 
+    "google_entity_id": "kg:/g/11hcbb5b38", 
+    "govtrack": 456823, 
+    "wikidata": "Q48767554", 
+    "wikipedia": "Tracey Mann"
+  }, 
+  "name": {
+    "first": "Tracey", 
+    "last": "Mann", 
+    "middle": "Robert", 
+    "official_full": "Tracey Mann"
+  }, 
+  "social": {
+    "twitter": "RepMann", 
+    "twitter_id": 1345825008887721986
+  }, 
+  "terms": [
+    {
+      "address": "522 Cannon House Office Building Washington DC 20515-1601", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "522 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2715", 
+      "start": "2021-01-03", 
+      "state": "KS", 
+      "type": "rep", 
+      "url": "https://mann.house.gov"
+    }
+  ], 
+  "url_slug": "ks-tracey-mann"
+}

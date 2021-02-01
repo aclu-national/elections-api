@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11611", 
+    "ballotpedia": "Carol Miller (West Virginia)", 
     "bioguide": "M001205", 
     "fec": [
       "H8WV03097"
@@ -36,6 +37,18 @@
       "party": "Republican", 
       "phone": "202-225-3452", 
       "start": "2019-01-03", 
+      "state": "WV", 
+      "type": "rep", 
+      "url": "https://miller.house.gov"
+    }, 
+    {
+      "address": "465 Cannon House Office Building Washington DC 20515-4803", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "465 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3452", 
+      "start": "2021-01-03", 
       "state": "WV", 
       "type": "rep", 
       "url": "https://miller.house.gov"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:739", 
+    "ballotpedia": "Richard Neal", 
     "bioguide": "N000015", 
     "cspan": 6103, 
     "fec": [
@@ -194,6 +195,19 @@
       "phone": "202-225-5601", 
       "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://neal.house.gov"
+    }, 
+    {
+      "address": "372 Cannon House Office Building Washington DC 20515-2101", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "372 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5601", 
+      "rss_url": "http://neal.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
       "state": "MA", 
       "type": "rep", 
       "url": "https://neal.house.gov"

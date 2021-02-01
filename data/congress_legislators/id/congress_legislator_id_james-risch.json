@@ -25,6 +25,7 @@
   "name": {
     "first": "James", 
     "last": "Risch", 
+    "middle": "E.", 
     "official_full": "James E. Risch"
   }, 
   "social": {
@@ -60,6 +61,20 @@
       "party": "Republican", 
       "phone": "202-224-2752", 
       "start": "2015-01-06", 
+      "state": "ID", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.risch.senate.gov"
+    }, 
+    {
+      "address": "483 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.risch.senate.gov/public/index.cfm?p=Email", 
+      "end": "2027-01-03", 
+      "office": "483 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2752", 
+      "start": "2021-01-03", 
       "state": "ID", 
       "state_rank": "junior", 
       "type": "sen", 

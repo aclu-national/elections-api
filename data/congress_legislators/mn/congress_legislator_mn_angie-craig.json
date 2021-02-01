@@ -10,6 +10,7 @@
     "fec": [
       "H6MN02131"
     ], 
+    "google_entity_id": "kg:/g/11fjb43ny7", 
     "govtrack": 412789, 
     "icpsr": 21910, 
     "opensecrets": "N00037039", 
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-2271", 
       "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://craig.house.gov"
+    }, 
+    {
+      "address": "2442 Rayburn House Office Building Washington DC 20515-2302", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2442 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2271", 
+      "start": "2021-01-03", 
       "state": "MN", 
       "type": "rep", 
       "url": "https://craig.house.gov"

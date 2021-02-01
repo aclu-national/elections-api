@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11561", 
+    "ballotpedia": "Michael Guest", 
     "bioguide": "G000591", 
     "fec": [
       "H8MS03125"
     ], 
+    "google_entity_id": "kg:/g/11fjx_n80p", 
     "govtrack": 412793, 
     "icpsr": 21927, 
     "opensecrets": "N00042458", 
@@ -33,6 +35,18 @@
       "party": "Republican", 
       "phone": "202-225-5031", 
       "start": "2019-01-03", 
+      "state": "MS", 
+      "type": "rep", 
+      "url": "https://guest.house.gov"
+    }, 
+    {
+      "address": "418 Cannon House Office Building Washington DC 20515-2403", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "418 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5031", 
+      "start": "2021-01-03", 
       "state": "MS", 
       "type": "rep", 
       "url": "https://guest.house.gov"

@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11542", 
+    "ballotpedia": "Greg Pence", 
     "bioguide": "P000615", 
     "fec": [
       "H8IN06129"
     ], 
+    "google_entity_id": "kg:/g/11gh5qt6_p", 
     "govtrack": 412778, 
     "icpsr": 21952, 
     "opensecrets": "N00041956", 
@@ -34,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-3021", 
       "start": "2019-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://pence.house.gov"
+    }, 
+    {
+      "address": "211 Cannon House Office Building Washington DC 20515-1406", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "211 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3021", 
+      "start": "2021-01-03", 
       "state": "IN", 
       "type": "rep", 
       "url": "https://pence.house.gov"

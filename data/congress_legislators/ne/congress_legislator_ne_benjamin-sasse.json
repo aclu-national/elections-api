@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:818", 
+    "ballotpedia": "Ben Sasse", 
     "bioguide": "S001197", 
     "cspan": 77429, 
     "fec": [
@@ -25,6 +26,7 @@
     "first": "Benjamin", 
     "last": "Sasse", 
     "middle": "Eric", 
+    "nickname": "Ben", 
     "official_full": "Ben Sasse"
   }, 
   "social": {
@@ -45,6 +47,20 @@
       "party": "Republican", 
       "phone": "202-224-4224", 
       "start": "2015-01-06", 
+      "state": "NE", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.sasse.senate.gov/public"
+    }, 
+    {
+      "address": "107 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.sasse.senate.gov/public/index.cfm/email-ben", 
+      "end": "2027-01-03", 
+      "office": "107 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4224", 
+      "start": "2021-01-03", 
       "state": "NE", 
       "state_rank": "junior", 
       "type": "sen", 

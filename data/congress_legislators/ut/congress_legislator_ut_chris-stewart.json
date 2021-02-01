@@ -91,6 +91,19 @@
       "state": "UT", 
       "type": "rep", 
       "url": "https://stewart.house.gov"
+    }, 
+    {
+      "address": "166 Cannon House Office Building Washington DC 20515-4402", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "166 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-9730", 
+      "rss_url": "http://stewart.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://stewart.house.gov"
     }
   ], 
   "url_slug": "ut-chris-stewart"

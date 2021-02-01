@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11593", 
+    "ballotpedia": "Chip Roy", 
     "bioguide": "R000614", 
     "fec": [
       "H8TX21307"
     ], 
+    "google_entity_id": "kg:/g/11fghyq4y1", 
     "govtrack": 412826, 
     "icpsr": 21961, 
     "opensecrets": "N00042268", 
@@ -34,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-4236", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://roy.house.gov"
+    }, 
+    {
+      "address": "1005 Longworth House Office Building Washington DC 20515-4321", 
+      "district": 21, 
+      "end": "2023-01-03", 
+      "office": "1005 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4236", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://roy.house.gov"

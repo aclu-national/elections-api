@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11581", 
+    "ballotpedia": "Dan Meuser", 
     "bioguide": "M001204", 
     "fec": [
       "H8PA10147"
@@ -35,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-6511", 
       "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://meuser.house.gov"
+    }, 
+    {
+      "address": "414 Cannon House Office Building Washington DC 20515-3809", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "414 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6511", 
+      "start": "2021-01-03", 
       "state": "PA", 
       "type": "rep", 
       "url": "https://meuser.house.gov"

@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1988-02-17", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11652", 
+    "bioguide": "L000266", 
+    "fec": [
+      "H0KS02188"
+    ], 
+    "google_entity_id": "kg:/m/0w32xrn", 
+    "govtrack": 456824, 
+    "wikidata": "Q16731273", 
+    "wikipedia": "Jake LaTurner"
+  }, 
+  "name": {
+    "first": "Jacob", 
+    "last": "LaTurner", 
+    "nickname": "Jake", 
+    "official_full": "Jake LaTurner"
+  }, 
+  "social": {
+    "twitter": "RepLaTurner", 
+    "twitter_id": 1345850704800468993
+  }, 
+  "terms": [
+    {
+      "address": "1630 Longworth House Office Building Washington DC 20515-1602", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1630 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6601", 
+      "start": "2021-01-03", 
+      "state": "KS", 
+      "type": "rep", 
+      "url": "https://laturner.house.gov"
+    }
+  ], 
+  "url_slug": "ks-jacob-laturner"
+}

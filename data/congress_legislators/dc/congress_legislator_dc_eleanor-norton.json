@@ -188,6 +188,19 @@
       "state": "DC", 
       "type": "rep", 
       "url": "https://norton.house.gov"
+    }, 
+    {
+      "address": "2136 Rayburn House Office Building Washington DC 20515-5101", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "2136 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8050", 
+      "rss_url": "http://norton.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "DC", 
+      "type": "rep", 
+      "url": "https://norton.house.gov"
     }
   ], 
   "url_slug": "dc-eleanor-norton"

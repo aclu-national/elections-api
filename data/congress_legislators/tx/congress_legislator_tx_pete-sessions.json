@@ -1,8 +1,7 @@
 {
   "bio": {
     "birthday": "1955-03-22", 
-    "gender": "M", 
-    "religion": "Methodist"
+    "gender": "M"
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:982", 
@@ -28,13 +27,6 @@
     "last": "Sessions", 
     "middle": "A.", 
     "official_full": "Pete Sessions"
-  }, 
-  "social": {
-    "facebook": "petesessions", 
-    "twitter": "PeteSessions", 
-    "twitter_id": 24735461, 
-    "youtube": "PeteSessions", 
-    "youtube_id": "UCDSBWdAlrCZq2W8P3wR_LCg"
   }, 
   "terms": [
     {
@@ -151,6 +143,19 @@
       "phone": "202-225-2231", 
       "rss_url": "http://sessions.house.gov/?a=rss.feed", 
       "start": "2017-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://sessions.house.gov"
+    }, 
+    {
+      "address": "2204 Rayburn House Office Building Washington DC 20515-4317", 
+      "district": 17, 
+      "end": "2023-01-03", 
+      "office": "2204 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6105", 
+      "rss_url": "http://sessions.house.gov/?a=rss.feed", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://sessions.house.gov"

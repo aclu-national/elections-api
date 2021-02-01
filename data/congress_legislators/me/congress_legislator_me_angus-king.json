@@ -25,7 +25,9 @@
   "name": {
     "first": "Angus", 
     "last": "King", 
-    "official_full": "Angus S. King, Jr."
+    "middle": "S.", 
+    "official_full": "Angus S. King, Jr.", 
+    "suffix": "Jr."
   }, 
   "social": {
     "facebook": "SenatorAngusSKingJr", 

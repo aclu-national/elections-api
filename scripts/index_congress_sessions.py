@@ -16,12 +16,12 @@ if not os.path.exists(source_path):
 	print("    make congress_sessions")
 	sys.exit(0)
 
-curr_session = 116
-curr_end_date = "2021-01-03"
+curr_session = 117
+curr_end_date = "2023-01-03"
 
-next_session = 117
-next_start_date = "2021-01-03"
-next_end_date = "2023-01-03"
+next_session = 118
+next_start_date = "2023-01-03"
+next_end_date = "2025-01-03"
 
 conn = postgres_db.connect()
 cur = conn.cursor()

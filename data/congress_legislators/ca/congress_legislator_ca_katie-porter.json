@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11521", 
+    "ballotpedia": "Katie Porter", 
     "bioguide": "P000618", 
     "fec": [
       "H8CA45130"
     ], 
+    "google_entity_id": "kg:/g/11fkr56zm6", 
     "govtrack": 412758, 
     "icpsr": 21954, 
     "opensecrets": "N00040865", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-5611", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://porter.house.gov"
+    }, 
+    {
+      "address": "1117 Longworth House Office Building Washington DC 20515-0545", 
+      "district": 45, 
+      "end": "2023-01-03", 
+      "office": "1117 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5611", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://porter.house.gov"

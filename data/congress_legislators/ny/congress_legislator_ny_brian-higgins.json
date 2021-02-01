@@ -133,6 +133,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://higgins.house.gov"
+    }, 
+    {
+      "address": "2459 Rayburn House Office Building Washington DC 20515-3226", 
+      "district": 26, 
+      "end": "2023-01-03", 
+      "office": "2459 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3306", 
+      "rss_url": "http://higgins.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://higgins.house.gov"
     }
   ], 
   "url_slug": "ny-brian-higgins"

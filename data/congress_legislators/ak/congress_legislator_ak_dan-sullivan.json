@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:516", 
+    "ballotpedia": "Daniel S. Sullivan", 
     "bioguide": "S001198", 
     "cspan": 1023262, 
     "fec": [
@@ -44,6 +45,20 @@
       "party": "Republican", 
       "phone": "202-224-3004", 
       "start": "2015-01-06", 
+      "state": "AK", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.sullivan.senate.gov"
+    }, 
+    {
+      "address": "302 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.sullivan.senate.gov/contact/email", 
+      "end": "2027-01-03", 
+      "office": "302 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3004", 
+      "start": "2021-01-03", 
       "state": "AK", 
       "state_rank": "junior", 
       "type": "sen", 

@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1956-12-03", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11662", 
+    "bioguide": "M001135", 
+    "fec": [
+      "H8NC13067"
+    ], 
+    "google_entity_id": "kg:/g/11dxpjz93v", 
+    "govtrack": 456832, 
+    "wikidata": "Q101136890", 
+    "wikipedia": "Kathy Manning"
+  }, 
+  "name": {
+    "first": "Kathy", 
+    "last": "Manning", 
+    "middle": "Ellen", 
+    "official_full": "Kathy E. Manning"
+  }, 
+  "social": {
+    "twitter": "RepKManning", 
+    "twitter_id": 1337115670161608712
+  }, 
+  "terms": [
+    {
+      "address": "415 Cannon House Office Building Washington DC 20515-3306", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "415 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3065", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://manning.house.gov"
+    }
+  ], 
+  "url_slug": "nc-kathy-manning"
+}

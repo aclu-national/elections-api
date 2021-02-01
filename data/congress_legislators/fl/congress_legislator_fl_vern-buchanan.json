@@ -125,6 +125,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://buchanan.house.gov"
+    }, 
+    {
+      "address": "2110 Rayburn House Office Building Washington DC 20515-0916", 
+      "district": 16, 
+      "end": "2023-01-03", 
+      "office": "2110 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5015", 
+      "rss_url": "http://buchanan.house.gov/index.php?option=com_bca-rss-syndicator&amp;feed_id=2", 
+      "start": "2021-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://buchanan.house.gov"
     }
   ], 
   "url_slug": "fl-vern-buchanan"

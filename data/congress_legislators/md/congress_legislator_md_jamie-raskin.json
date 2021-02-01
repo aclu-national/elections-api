@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:749", 
+    "ballotpedia": "Jamie Raskin", 
     "bioguide": "R000606", 
     "cspan": 12924, 
     "fec": [
@@ -52,6 +53,18 @@
       "party": "Democrat", 
       "phone": "202-225-5341", 
       "start": "2019-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://raskin.house.gov"
+    }, 
+    {
+      "address": "2242 Rayburn House Office Building Washington DC 20515-2008", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2242 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5341", 
+      "start": "2021-01-03", 
       "state": "MD", 
       "type": "rep", 
       "url": "https://raskin.house.gov"

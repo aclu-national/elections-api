@@ -25,6 +25,7 @@
     "first": "Matthew", 
     "last": "Cartwright", 
     "middle": "A.", 
+    "nickname": "Matt", 
     "official_full": "Matt Cartwright"
   }, 
   "social": {
@@ -88,6 +89,19 @@
       "phone": "202-225-5546", 
       "rss_url": "http://cartwright.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://cartwright.house.gov"
+    }, 
+    {
+      "address": "2102 Rayburn House Office Building Washington DC 20515-3808", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2102 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5546", 
+      "rss_url": "http://cartwright.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "PA", 
       "type": "rep", 
       "url": "https://cartwright.house.gov"

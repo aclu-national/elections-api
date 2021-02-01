@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11533", 
+    "ballotpedia": "Lucy McBath", 
     "bioguide": "M001208", 
     "fec": [
       "H8GA06393"
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-4501", 
       "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://mcbath.house.gov"
+    }, 
+    {
+      "address": "1513 Longworth House Office Building Washington DC 20515-1006", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "1513 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4501", 
+      "start": "2021-01-03", 
       "state": "GA", 
       "type": "rep", 
       "url": "https://mcbath.house.gov"

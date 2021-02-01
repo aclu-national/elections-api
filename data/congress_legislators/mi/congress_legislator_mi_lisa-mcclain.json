@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1966-04-07", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11655", 
+    "ballotpedia": "Lisa McClain", 
+    "bioguide": "M001136", 
+    "fec": [
+      "H0MI10287"
+    ], 
+    "google_entity_id": "kg:/g/11j1xf64qr", 
+    "govtrack": 456827, 
+    "wikidata": "Q102184540", 
+    "wikipedia": "Lisa McClain"
+  }, 
+  "name": {
+    "first": "Lisa", 
+    "last": "McClain", 
+    "middle": "C.", 
+    "official_full": "Lisa C. McClain"
+  }, 
+  "social": {
+    "twitter": "RepLisaMcClain", 
+    "twitter_id": 1344032292432437248
+  }, 
+  "terms": [
+    {
+      "address": "218 Cannon House Office Building Washington DC 20515-2210", 
+      "district": 10, 
+      "end": "2023-01-03", 
+      "office": "218 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2106", 
+      "start": "2021-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://mcclain.house.gov"
+    }
+  ], 
+  "url_slug": "mi-lisa-mcclain"
+}

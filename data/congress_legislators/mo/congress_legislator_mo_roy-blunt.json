@@ -27,7 +27,13 @@
   "leadership_roles": [
     {
       "chamber": "senate", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
+      "title": "Senate Republican Policy Committee Chair"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2021-01-03", 
       "title": "Senate Republican Policy Committee Chair"
     }
   ], 

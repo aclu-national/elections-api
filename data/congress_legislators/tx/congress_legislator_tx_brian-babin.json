@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:957", 
+    "ballotpedia": "Brian Babin", 
     "bioguide": "B001291", 
     "cspan": 44883, 
     "fec": [
@@ -66,6 +67,18 @@
       "party": "Republican", 
       "phone": "202-225-1555", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://babin.house.gov"
+    }, 
+    {
+      "address": "2236 Rayburn House Office Building Washington DC 20515-4336", 
+      "district": 36, 
+      "end": "2023-01-03", 
+      "office": "2236 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1555", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://babin.house.gov"

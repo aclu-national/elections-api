@@ -1,0 +1,45 @@
+{
+  "bio": {
+    "birthday": "1960-07-07", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11659", 
+    "ballotpedia": "Matthew Rosendale", 
+    "bioguide": "R000103", 
+    "fec": [
+      "H4MT00050"
+    ], 
+    "google_entity_id": "kg:/m/0j260rd", 
+    "govtrack": 456830, 
+    "votesmart": 120815, 
+    "wikidata": "Q6791163", 
+    "wikipedia": "Matt Rosendale"
+  }, 
+  "name": {
+    "first": "Matthew", 
+    "last": "Rosendale", 
+    "middle": "Martin", 
+    "official_full": "Matthew M. Rosendale", 
+    "suffix": "Sr."
+  }, 
+  "social": {
+    "twitter": "RepRosendale", 
+    "twitter_id": 1344751420139040783
+  }, 
+  "terms": [
+    {
+      "address": "1037 Longworth House Office Building Washington DC 20515-2600", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "1037 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3211", 
+      "start": "2021-01-03", 
+      "state": "MT", 
+      "type": "rep", 
+      "url": "https://rosendale.house.gov"
+    }
+  ], 
+  "url_slug": "mt-matthew-rosendale"
+}

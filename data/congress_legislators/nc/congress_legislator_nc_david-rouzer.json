@@ -71,6 +71,18 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://rouzer.house.gov"
+    }, 
+    {
+      "address": "2333 Rayburn House Office Building Washington DC 20515-3307", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "2333 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2731", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://rouzer.house.gov"
     }
   ], 
   "url_slug": "nc-david-rouzer"

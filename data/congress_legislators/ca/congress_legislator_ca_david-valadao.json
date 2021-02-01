@@ -27,13 +27,6 @@
     "middle": "G.", 
     "official_full": "David G. Valadao"
   }, 
-  "social": {
-    "facebook": "CongressmanDavidValadao", 
-    "twitter": "RepDavidValadao", 
-    "twitter_id": 1128514404, 
-    "youtube": "congressmanvaladao", 
-    "youtube_id": "UCWqOVVxQd6IV4mfYMi95LqA"
-  }, 
   "terms": [
     {
       "address": "1004 Longworth HOB; Washington DC 20515-0521", 
@@ -75,6 +68,19 @@
       "phone": "202-225-4695", 
       "rss_url": "http://valadao.house.gov/rss.xml", 
       "start": "2017-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://valadao.house.gov"
+    }, 
+    {
+      "address": "1728 Longworth House Office Building Washington DC 20515-0521", 
+      "district": 21, 
+      "end": "2023-01-03", 
+      "office": "1728 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4695", 
+      "rss_url": "http://valadao.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://valadao.house.gov"

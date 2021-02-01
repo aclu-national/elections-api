@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:876", 
+    "ballotpedia": "Tom Suozzi", 
     "bioguide": "S001201", 
     "cspan": 104747, 
     "fec": [
@@ -22,6 +23,7 @@
   "name": {
     "first": "Thomas", 
     "last": "Suozzi", 
+    "middle": "R.", 
     "official_full": "Thomas R. Suozzi"
   }, 
   "social": {
@@ -52,6 +54,18 @@
       "party": "Democrat", 
       "phone": "202-225-3335", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://suozzi.house.gov"
+    }, 
+    {
+      "address": "407 Cannon House Office Building Washington DC 20515-3203", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "407 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3335", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://suozzi.house.gov"

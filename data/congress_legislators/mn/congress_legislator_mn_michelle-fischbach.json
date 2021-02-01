@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1965-11-03", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11657", 
+    "ballotpedia": "Michelle Fischbach", 
+    "bioguide": "F000470", 
+    "fec": [
+      "H0MN07091"
+    ], 
+    "google_entity_id": "kg:/m/063_kp4", 
+    "govtrack": 456828, 
+    "wikidata": "Q6837025", 
+    "wikipedia": "Michelle Fischbach"
+  }, 
+  "name": {
+    "first": "Michelle", 
+    "last": "Fischbach", 
+    "middle": "Louise Helene", 
+    "official_full": "Michelle Fischbach"
+  }, 
+  "social": {
+    "twitter": "RepFischbach", 
+    "twitter_id": 1344375287484723205
+  }, 
+  "terms": [
+    {
+      "address": "1237 Longworth House Office Building Washington DC 20515-2307", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "1237 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2165", 
+      "start": "2021-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://fischbach.house.gov"
+    }
+  ], 
+  "url_slug": "mn-michelle-fischbach"
+}

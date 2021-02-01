@@ -5,7 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:715", 
-    "ballotpedia": "Ron Estes", 
+    "ballotpedia": "Ron Estes (U.S. House representative)", 
     "bioguide": "E000298", 
     "cspan": 107963, 
     "fec": [
@@ -55,6 +55,18 @@
       "party": "Republican", 
       "phone": "202-225-6216", 
       "start": "2019-01-03", 
+      "state": "KS", 
+      "type": "rep", 
+      "url": "https://estes.house.gov"
+    }, 
+    {
+      "address": "2411 Rayburn House Office Building Washington DC 20515-1604", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "2411 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6216", 
+      "start": "2021-01-03", 
       "state": "KS", 
       "type": "rep", 
       "url": "https://estes.house.gov"

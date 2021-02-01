@@ -10,6 +10,7 @@
     "fec": [
       "H8NJ11142"
     ], 
+    "google_entity_id": "kg:/g/11f3r4x6x5", 
     "govtrack": 412799, 
     "icpsr": 21964, 
     "opensecrets": "N00041154", 
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-5034", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://sherrill.house.gov"
+    }, 
+    {
+      "address": "1414 Longworth House Office Building Washington DC 20515-3011", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "1414 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5034", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://sherrill.house.gov"

@@ -93,6 +93,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://joyce.house.gov"
+    }, 
+    {
+      "address": "2065 Rayburn House Office Building Washington DC 20515-3514", 
+      "district": 14, 
+      "end": "2023-01-03", 
+      "office": "2065 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5731", 
+      "rss_url": "http://joyce.house.gov/rss/press-releases.xml", 
+      "start": "2021-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://joyce.house.gov"
     }
   ], 
   "url_slug": "oh-david-joyce"

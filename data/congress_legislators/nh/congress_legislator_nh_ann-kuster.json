@@ -26,7 +26,7 @@
     "first": "Ann", 
     "last": "Kuster", 
     "middle": "M.", 
-    "official_full": "Ann M. Kuster"
+    "official_full": "Ann Kuster"
   }, 
   "social": {
     "facebook": "CongresswomanAnnieKuster", 
@@ -89,6 +89,19 @@
       "phone": "202-225-5206", 
       "rss_url": "http://kuster.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "https://kuster.house.gov"
+    }, 
+    {
+      "address": "320 Cannon House Office Building Washington DC 20515-2902", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "320 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5206", 
+      "rss_url": "http://kuster.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NH", 
       "type": "rep", 
       "url": "https://kuster.house.gov"

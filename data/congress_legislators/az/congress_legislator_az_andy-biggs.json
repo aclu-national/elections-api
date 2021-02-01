@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:535", 
+    "ballotpedia": "Andy Biggs", 
     "bioguide": "B001302", 
     "cspan": 105145, 
     "fec": [
@@ -52,6 +53,18 @@
       "party": "Republican", 
       "phone": "202-225-2635", 
       "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://biggs.house.gov"
+    }, 
+    {
+      "address": "171 Cannon House Office Building Washington DC 20515-0305", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "171 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2635", 
+      "start": "2021-01-03", 
       "state": "AZ", 
       "type": "rep", 
       "url": "https://biggs.house.gov"

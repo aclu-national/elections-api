@@ -10,9 +10,11 @@
     "fec": [
       "H0NC03172"
     ], 
+    "google_entity_id": "kg:/g/11clyw935r", 
     "govtrack": 412845, 
     "icpsr": 21987, 
     "opensecrets": "N00044027", 
+    "votesmart": 166135, 
     "wikidata": "Q23074266", 
     "wikipedia": "Greg Murphy (politician)"
   }, 
@@ -21,6 +23,11 @@
     "last": "Murphy", 
     "middle": "Francis", 
     "official_full": "Gregory F. Murphy"
+  }, 
+  "social": {
+    "facebook": "RepGregMurphy", 
+    "twitter": "RepGregMurphy", 
+    "twitter_id": 1173978070535024642
   }, 
   "terms": [
     {
@@ -35,6 +42,18 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://gregmurphy.house.gov/"
+    }, 
+    {
+      "address": "313 Cannon House Office Building Washington DC 20515-3303", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "313 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3415", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://gregmurphy.house.gov"
     }
   ], 
   "url_slug": "nc-gregory-murphy"

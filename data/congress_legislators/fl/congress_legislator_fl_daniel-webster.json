@@ -105,6 +105,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://webster.house.gov"
+    }, 
+    {
+      "address": "2184 Rayburn House Office Building Washington DC 20515-0911", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "2184 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1002", 
+      "rss_url": "http://webster.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://webster.house.gov"
     }
   ], 
   "url_slug": "fl-daniel-webster"

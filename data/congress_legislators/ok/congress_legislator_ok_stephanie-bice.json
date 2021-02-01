@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1973-11-11", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11670", 
+    "ballotpedia": "Stephanie Bice", 
+    "bioguide": "B000740", 
+    "fec": [
+      "H0OK05205"
+    ], 
+    "google_entity_id": "kg:/g/11h2hmkrv8", 
+    "govtrack": 456841, 
+    "wikidata": "Q60190894", 
+    "wikipedia": "Stephanie Bice"
+  }, 
+  "name": {
+    "first": "Stephanie", 
+    "last": "Bice", 
+    "middle": "I.", 
+    "official_full": "Stephanie I. Bice"
+  }, 
+  "social": {
+    "twitter": "RepBice", 
+    "twitter_id": 1344260196227555334
+  }, 
+  "terms": [
+    {
+      "address": "1223 Longworth House Office Building Washington DC 20515-3605", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1223 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2132", 
+      "start": "2021-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://bice.house.gov"
+    }
+  ], 
+  "url_slug": "ok-stephanie-bice"
+}

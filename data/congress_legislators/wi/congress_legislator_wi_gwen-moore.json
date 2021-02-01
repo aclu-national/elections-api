@@ -132,6 +132,19 @@
       "state": "WI", 
       "type": "rep", 
       "url": "https://gwenmoore.house.gov"
+    }, 
+    {
+      "address": "2252 Rayburn House Office Building Washington DC 20515-4904", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "2252 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4572", 
+      "rss_url": "http://gwenmoore.house.gov/common/rss/index.cfm?rss=49", 
+      "start": "2021-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://gwenmoore.house.gov"
     }
   ], 
   "url_slug": "wi-gwen-moore"

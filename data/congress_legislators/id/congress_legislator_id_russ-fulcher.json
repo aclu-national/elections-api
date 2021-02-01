@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11538", 
+    "ballotpedia": "Russ Fulcher", 
     "bioguide": "F000469", 
     "fec": [
       "H8ID01124"
@@ -35,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-6611", 
       "start": "2019-01-03", 
+      "state": "ID", 
+      "type": "rep", 
+      "url": "https://fulcher.house.gov"
+    }, 
+    {
+      "address": "1520 Longworth House Office Building Washington DC 20515-1201", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1520 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6611", 
+      "start": "2021-01-03", 
       "state": "ID", 
       "type": "rep", 
       "url": "https://fulcher.house.gov"

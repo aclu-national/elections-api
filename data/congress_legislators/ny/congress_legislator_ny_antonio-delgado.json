@@ -5,13 +5,16 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11574", 
+    "ballotpedia": "Antonio Delgado (New York)", 
     "bioguide": "D000630", 
     "fec": [
       "H8NY19181"
     ], 
+    "google_entity_id": "kg:/g/11gzqgrp2f", 
     "govtrack": 412805, 
     "icpsr": 21916, 
     "opensecrets": "N00040741", 
+    "votesmart": 180313, 
     "wikidata": "Q60428696", 
     "wikipedia": "Antonio Delgado (politician)"
   }, 
@@ -33,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-5614", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://delgado.house.gov"
+    }, 
+    {
+      "address": "1007 Longworth House Office Building Washington DC 20515-3219", 
+      "district": 19, 
+      "end": "2023-01-03", 
+      "office": "1007 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5614", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://delgado.house.gov"

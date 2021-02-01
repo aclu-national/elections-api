@@ -1,0 +1,43 @@
+{
+  "bio": {
+    "birthday": "1965-09-11", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11683", 
+    "bioguide": "G000595", 
+    "fec": [
+      "H0VA05160"
+    ], 
+    "google_entity_id": "kg:/g/11fsfm06kc", 
+    "govtrack": 456853, 
+    "wikidata": "Q103850475", 
+    "wikipedia": "Bob Good"
+  }, 
+  "name": {
+    "first": "Robert", 
+    "last": "Good", 
+    "middle": "G.", 
+    "nickname": "Bob", 
+    "official_full": "Bob Good"
+  }, 
+  "social": {
+    "twitter": "RepBobGood", 
+    "twitter_id": 1345536897838436353
+  }, 
+  "terms": [
+    {
+      "address": "1213 Longworth House Office Building Washington DC 20515-4605", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1213 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4711", 
+      "start": "2021-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://good.house.gov"
+    }
+  ], 
+  "url_slug": "va-robert-good"
+}

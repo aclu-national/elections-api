@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:942", 
+    "ballotpedia": "Mike Rounds", 
     "bioguide": "R000605", 
     "cspan": 78317, 
     "fec": [
@@ -42,6 +43,20 @@
       "party": "Republican", 
       "phone": "202-224-5842", 
       "start": "2015-01-06", 
+      "state": "SD", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.rounds.senate.gov"
+    }, 
+    {
+      "address": "502 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.rounds.senate.gov/contact/email-mike", 
+      "end": "2027-01-03", 
+      "office": "502 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5842", 
+      "start": "2021-01-03", 
       "state": "SD", 
       "state_rank": "junior", 
       "type": "sen", 

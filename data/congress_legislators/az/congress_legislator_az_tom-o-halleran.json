@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:544", 
+    "ballotpedia": "Tom O'Halleran", 
     "bioguide": "O000171", 
     "cspan": 104523, 
     "fec": [
@@ -51,6 +52,18 @@
       "party": "Democrat", 
       "phone": "202-225-3361", 
       "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://ohalleran.house.gov"
+    }, 
+    {
+      "address": "318 Cannon House Office Building Washington DC 20515-0301", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "318 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3361", 
+      "start": "2021-01-03", 
       "state": "AZ", 
       "type": "rep", 
       "url": "https://ohalleran.house.gov"

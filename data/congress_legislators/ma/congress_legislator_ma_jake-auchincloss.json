@@ -1,0 +1,42 @@
+{
+  "bio": {
+    "birthday": "1988-01-29", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11654", 
+    "bioguide": "A000148", 
+    "fec": [
+      "H0MA04192"
+    ], 
+    "google_entity_id": "kg:/g/11f0xw2_p4", 
+    "govtrack": 456825, 
+    "wikidata": "Q101196632", 
+    "wikipedia": "Jake Auchincloss"
+  }, 
+  "name": {
+    "first": "Jake", 
+    "last": "Auchincloss", 
+    "middle": "Daniel", 
+    "official_full": "Jake Auchincloss"
+  }, 
+  "social": {
+    "twitter": "RepAuchincloss", 
+    "twitter_id": 1330278736554582016
+  }, 
+  "terms": [
+    {
+      "address": "1524 Longworth House Office Building Washington DC 20515-2104", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "1524 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5931", 
+      "start": "2021-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://auchincloss.house.gov"
+    }
+  ], 
+  "url_slug": "ma-jake-auchincloss"
+}

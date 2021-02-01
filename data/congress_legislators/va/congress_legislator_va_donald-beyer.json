@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1000", 
+    "ballotpedia": "Don Beyer", 
     "bioguide": "B001292", 
     "cspan": 21141, 
     "fec": [
@@ -23,7 +24,9 @@
   "name": {
     "first": "Donald", 
     "last": "Beyer", 
-    "official_full": "Donald S. Beyer, Jr."
+    "middle": "S.", 
+    "official_full": "Donald S. Beyer, Jr.", 
+    "suffix": "Jr."
   }, 
   "social": {
     "facebook": "RepDonBeyer", 
@@ -67,6 +70,18 @@
       "party": "Democrat", 
       "phone": "202-225-4376", 
       "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://beyer.house.gov"
+    }, 
+    {
+      "address": "1119 Longworth House Office Building Washington DC 20515-4608", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "1119 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4376", 
+      "start": "2021-01-03", 
       "state": "VA", 
       "type": "rep", 
       "url": "https://beyer.house.gov"

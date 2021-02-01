@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11535", 
+    "ballotpedia": "Ed Case", 
     "bioguide": "C001055", 
     "fec": [
       "H2HI02128"
@@ -54,6 +55,18 @@
       "party": "Democrat", 
       "phone": "202-225-2726", 
       "start": "2019-01-03", 
+      "state": "HI", 
+      "type": "rep", 
+      "url": "https://case.house.gov"
+    }, 
+    {
+      "address": "2210 Rayburn House Office Building Washington DC 20515-1101", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "2210 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2726", 
+      "start": "2021-01-03", 
       "state": "HI", 
       "type": "rep", 
       "url": "https://case.house.gov"

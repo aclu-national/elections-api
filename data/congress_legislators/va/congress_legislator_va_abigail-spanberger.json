@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11604", 
+    "ballotpedia": "Abigail Spanberger", 
     "bioguide": "S001209", 
     "fec": [
       "H8VA07094"
     ], 
+    "google_entity_id": "kg:/g/11fgm1ffs7", 
     "govtrack": 412833, 
     "icpsr": 21966, 
     "opensecrets": "N00041418", 
@@ -35,6 +37,18 @@
       "party": "Democrat", 
       "phone": "202-225-2815", 
       "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://spanberger.house.gov"
+    }, 
+    {
+      "address": "1431 Longworth House Office Building Washington DC 20515-4607", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "1431 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2815", 
+      "start": "2021-01-03", 
       "state": "VA", 
       "type": "rep", 
       "url": "https://spanberger.house.gov"

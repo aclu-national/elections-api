@@ -9,6 +9,7 @@
     "fec": [
       "H8IL14174"
     ], 
+    "google_entity_id": "kg:/g/11gfm73_1z", 
     "govtrack": 412776, 
     "icpsr": 21979, 
     "opensecrets": "N00041569", 
@@ -34,6 +35,18 @@
       "party": "Democrat", 
       "phone": "202-225-2976", 
       "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://underwood.house.gov"
+    }, 
+    {
+      "address": "1130 Longworth House Office Building Washington DC 20515-1314", 
+      "district": 14, 
+      "end": "2023-01-03", 
+      "office": "1130 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2976", 
+      "start": "2021-01-03", 
       "state": "IL", 
       "type": "rep", 
       "url": "https://underwood.house.gov"

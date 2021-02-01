@@ -24,7 +24,8 @@
   }, 
   "name": {
     "first": "Cathy", 
-    "last": "McMorris Rodgers", 
+    "last": "Rodgers", 
+    "middle": "McMorris", 
     "official_full": "Cathy McMorris Rodgers"
   }, 
   "social": {
@@ -132,7 +133,20 @@
       "state": "WA", 
       "type": "rep", 
       "url": "https://mcmorris.house.gov"
+    }, 
+    {
+      "address": "1035 Longworth House Office Building Washington DC 20515-4705", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1035 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2006", 
+      "rss_url": "http://mcmorris.house.gov/common/rss/?rss=96", 
+      "start": "2021-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://mcmorris.house.gov"
     }
   ], 
-  "url_slug": "wa-cathy-mcmorris-rodgers"
+  "url_slug": "wa-cathy-rodgers"
 }

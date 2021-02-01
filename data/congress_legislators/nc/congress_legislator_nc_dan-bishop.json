@@ -13,6 +13,7 @@
     "govtrack": 412844, 
     "icpsr": 21986, 
     "opensecrets": "N00044335", 
+    "votesmart": 92423, 
     "wikidata": "Q20090301", 
     "wikipedia": "Dan Bishop"
   }, 
@@ -20,6 +21,11 @@
     "first": "Dan", 
     "last": "Bishop", 
     "official_full": "Dan Bishop"
+  }, 
+  "social": {
+    "facebook": "repdanbishop", 
+    "twitter": "RepDanBishop", 
+    "twitter_id": 1176522535531360257
   }, 
   "terms": [
     {
@@ -34,6 +40,18 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://danbishop.house.gov/"
+    }, 
+    {
+      "address": "1207 Longworth House Office Building Washington DC 20515-3309", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "1207 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-1976", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://danbishop.house.gov"
     }
   ], 
   "url_slug": "nc-dan-bishop"

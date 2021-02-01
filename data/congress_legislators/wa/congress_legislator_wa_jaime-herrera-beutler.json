@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1019", 
+    "ballotpedia": "Jaime Herrera Beutler", 
     "bioguide": "H001056", 
     "cspan": 95198, 
     "fec": [
@@ -104,6 +105,19 @@
       "state": "WA", 
       "type": "rep", 
       "url": "https://herrerabeutler.house.gov"
+    }, 
+    {
+      "address": "2352 Rayburn House Office Building Washington DC 20515-4703", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2352 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3536", 
+      "rss_url": "http://herrerabeutler.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://jhb.house.gov"
     }
   ], 
   "url_slug": "wa-jaime-herrera-beutler"

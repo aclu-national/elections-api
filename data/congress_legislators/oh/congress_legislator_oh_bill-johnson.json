@@ -106,6 +106,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://billjohnson.house.gov"
+    }, 
+    {
+      "address": "2336 Rayburn House Office Building Washington DC 20515-3506", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "2336 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5705", 
+      "rss_url": "http://billjohnson.house.gov/constituentservices/opendoorsschedule.htm", 
+      "start": "2021-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://billjohnson.house.gov"
     }
   ], 
   "url_slug": "oh-bill-johnson"

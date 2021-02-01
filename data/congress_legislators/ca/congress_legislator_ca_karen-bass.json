@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:575", 
+    "ballotpedia": "Karen Bass", 
     "bioguide": "B001270", 
     "cspan": 62502, 
     "fec": [
@@ -100,6 +101,19 @@
       "phone": "202-225-7084", 
       "rss_url": "http://bass.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://bass.house.gov"
+    }, 
+    {
+      "address": "2021 Rayburn House Office Building Washington DC 20515-0537", 
+      "district": 37, 
+      "end": "2023-01-03", 
+      "office": "2021 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7084", 
+      "rss_url": "http://bass.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://bass.house.gov"

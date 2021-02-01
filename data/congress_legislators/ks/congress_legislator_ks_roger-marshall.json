@@ -5,14 +5,17 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:714", 
+    "ballotpedia": "Roger Marshall", 
     "bioguide": "M001198", 
     "cspan": 103425, 
     "fec": [
-      "H6KS01179"
+      "H6KS01179", 
+      "S0KS00315"
     ], 
     "google_entity_id": "kg:/g/11c4btdtm1", 
     "govtrack": 412704, 
     "icpsr": 21734, 
+    "lis": "S411", 
     "maplight": 2216, 
     "opensecrets": "N00037034", 
     "votesmart": 172080, 
@@ -22,14 +25,11 @@
   "name": {
     "first": "Roger", 
     "last": "Marshall", 
-    "official_full": "Roger W. Marshall"
+    "official_full": "Roger Marshall"
   }, 
   "social": {
-    "facebook": "rogermarshallmd", 
-    "instagram": "repmarshall", 
-    "twitter": "RepMarshall", 
-    "twitter_id": 752364246218862592, 
-    "youtube_id": "UCR3nOFMqBB-kRpKFwgapMaQ"
+    "twitter": "SenatorMarshall", 
+    "twitter_id": 1336344005588738052
   }, 
   "terms": [
     {
@@ -55,6 +55,20 @@
       "state": "KS", 
       "type": "rep", 
       "url": "https://marshall.house.gov"
+    }, 
+    {
+      "address": "B33 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.marshall.senate.gov", 
+      "end": "2027-01-03", 
+      "office": "B33 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4774", 
+      "start": "2021-01-03", 
+      "state": "KS", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.marshall.senate.gov"
     }
   ], 
   "url_slug": "ks-roger-marshall"

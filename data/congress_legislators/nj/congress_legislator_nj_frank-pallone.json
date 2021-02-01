@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:834", 
+    "ballotpedia": "Frank Pallone", 
     "bioguide": "P000034", 
     "cspan": 6107, 
     "fec": [
@@ -205,6 +206,19 @@
       "phone": "202-225-4671", 
       "rss_url": "http://pallone.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://pallone.house.gov"
+    }, 
+    {
+      "address": "2107 Rayburn House Office Building Washington DC 20515-3006", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "2107 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4671", 
+      "rss_url": "http://pallone.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://pallone.house.gov"

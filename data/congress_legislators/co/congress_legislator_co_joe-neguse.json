@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11525", 
+    "ballotpedia": "Joe Neguse", 
     "bioguide": "N000191", 
     "fec": [
       "H8CO02160"
     ], 
+    "google_entity_id": "kg:/g/11gnsnch0m", 
     "govtrack": 412761, 
     "icpsr": 21948, 
     "opensecrets": "N00041080", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-2161", 
       "start": "2019-01-03", 
+      "state": "CO", 
+      "type": "rep", 
+      "url": "https://neguse.house.gov"
+    }, 
+    {
+      "address": "1419 Longworth House Office Building Washington DC 20515-0602", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1419 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2161", 
+      "start": "2021-01-03", 
       "state": "CO", 
       "type": "rep", 
       "url": "https://neguse.house.gov"

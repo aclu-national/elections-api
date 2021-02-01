@@ -25,7 +25,13 @@
   "leadership_roles": [
     {
       "chamber": "senate", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
+      "title": "Senate Republican Conference Chair"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2021-01-03", 
       "title": "Senate Republican Conference Chair"
     }
   ], 
@@ -85,7 +91,7 @@
       "rss_url": "http://www.barrasso.senate.gov/public/index.cfm?FuseAction=Rss.Feed", 
       "start": "2019-01-03", 
       "state": "WY", 
-      "state_rank": "junior", 
+      "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.barrasso.senate.gov"
     }

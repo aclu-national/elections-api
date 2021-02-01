@@ -5,16 +5,18 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11543", 
+    "ballotpedia": "James Baird", 
     "bioguide": "B001307", 
     "fec": [
       "H8IN04199"
     ], 
+    "google_entity_id": "kg:/g/11gfd5wndr", 
     "govtrack": 412777, 
     "icpsr": 21903, 
     "opensecrets": "N00041954", 
     "votesmart": 86013, 
     "wikidata": "Q48813213", 
-    "wikipedia": "Jim Baird (American politician)"
+    "wikipedia": "Jim Baird (politician)"
   }, 
   "name": {
     "first": "James", 
@@ -35,6 +37,18 @@
       "party": "Republican", 
       "phone": "202-225-5037", 
       "start": "2019-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://baird.house.gov"
+    }, 
+    {
+      "address": "1314 Longworth House Office Building Washington DC 20515-1404", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "1314 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5037", 
+      "start": "2021-01-03", 
       "state": "IN", 
       "type": "rep", 
       "url": "https://baird.house.gov"

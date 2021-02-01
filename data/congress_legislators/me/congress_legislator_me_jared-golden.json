@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11550", 
+    "ballotpedia": "Jared Golden", 
     "bioguide": "G000592", 
     "fec": [
       "H8ME02185"
     ], 
+    "google_entity_id": "kg:/g/11f1224576", 
     "govtrack": 412842, 
     "icpsr": 21923, 
     "opensecrets": "N00041668", 
@@ -35,6 +37,18 @@
       "party": "Democrat", 
       "phone": "202-225-6306", 
       "start": "2019-01-03", 
+      "state": "ME", 
+      "type": "rep", 
+      "url": "https://golden.house.gov"
+    }, 
+    {
+      "address": "1222 Longworth House Office Building Washington DC 20515-1902", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1222 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6306", 
+      "start": "2021-01-03", 
       "state": "ME", 
       "type": "rep", 
       "url": "https://golden.house.gov"

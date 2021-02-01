@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11599", 
+    "ballotpedia": "Sylvia Garcia", 
     "bioguide": "G000587", 
     "fec": [
       "H8TX29052"
@@ -36,6 +37,18 @@
       "party": "Democrat", 
       "phone": "202-225-1688", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://sylviagarcia.house.gov"
+    }, 
+    {
+      "address": "1620 Longworth House Office Building Washington DC 20515-4329", 
+      "district": 29, 
+      "end": "2023-01-03", 
+      "office": "1620 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1688", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://sylviagarcia.house.gov"

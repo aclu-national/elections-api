@@ -10,6 +10,7 @@
     "fec": [
       "H8VA02111"
     ], 
+    "google_entity_id": "kg:/g/11gtd16xvy", 
     "govtrack": 412830, 
     "icpsr": 21941, 
     "opensecrets": "N00042293", 
@@ -36,6 +37,18 @@
       "party": "Democrat", 
       "phone": "202-225-4215", 
       "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://luria.house.gov"
+    }, 
+    {
+      "address": "412 Cannon House Office Building Washington DC 20515-4602", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "412 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4215", 
+      "start": "2021-01-03", 
       "state": "VA", 
       "type": "rep", 
       "url": "https://luria.house.gov"

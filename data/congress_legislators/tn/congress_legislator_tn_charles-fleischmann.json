@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:944", 
+    "ballotpedia": "Charles Fleischmann", 
     "bioguide": "F000459", 
     "cspan": 95146, 
     "fec": [
@@ -102,6 +103,19 @@
       "phone": "202-225-3271", 
       "rss_url": "http://fleischmann.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://fleischmann.house.gov"
+    }, 
+    {
+      "address": "462 Cannon House Office Building Washington DC 20515-4203", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "462 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3271", 
+      "rss_url": "http://fleischmann.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "TN", 
       "type": "rep", 
       "url": "https://fleischmann.house.gov"

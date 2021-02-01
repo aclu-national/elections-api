@@ -131,6 +131,19 @@
       "state": "NJ", 
       "type": "rep", 
       "url": "https://sires.house.gov"
+    }, 
+    {
+      "address": "2268 Rayburn House Office Building Washington DC 20515-3008", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2268 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7919", 
+      "rss_url": "http://sires.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://sires.house.gov"
     }
   ], 
   "url_slug": "nj-albio-sires"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:971", 
+    "ballotpedia": "Kay Granger", 
     "bioguide": "G000377", 
     "cspan": 45709, 
     "fec": [
@@ -162,6 +163,19 @@
       "phone": "202-225-5071", 
       "rss_url": "http://kaygranger.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://kaygranger.house.gov"
+    }, 
+    {
+      "address": "1026 Longworth House Office Building Washington DC 20515-4312", 
+      "district": 12, 
+      "end": "2023-01-03", 
+      "office": "1026 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5071", 
+      "rss_url": "http://kaygranger.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://kaygranger.house.gov"

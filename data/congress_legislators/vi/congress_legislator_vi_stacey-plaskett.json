@@ -23,6 +23,7 @@
   "name": {
     "first": "Stacey", 
     "last": "Plaskett", 
+    "middle": "E.", 
     "official_full": "Stacey E. Plaskett"
   }, 
   "social": {
@@ -67,6 +68,18 @@
       "party": "Democrat", 
       "phone": "202-225-1790", 
       "start": "2019-01-03", 
+      "state": "VI", 
+      "type": "rep", 
+      "url": "https://plaskett.house.gov"
+    }, 
+    {
+      "address": "2404 Rayburn House Office Building Washington DC 20515-5500", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "2404 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1790", 
+      "start": "2021-01-03", 
       "state": "VI", 
       "type": "rep", 
       "url": "https://plaskett.house.gov"

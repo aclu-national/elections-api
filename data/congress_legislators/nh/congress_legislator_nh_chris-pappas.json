@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11563", 
+    "ballotpedia": "Chris Pappas", 
     "bioguide": "P000614", 
     "fec": [
       "H8NH01210"
@@ -13,6 +14,7 @@
     "govtrack": 412795, 
     "icpsr": 21951, 
     "opensecrets": "N00042161", 
+    "votesmart": 42635, 
     "wikidata": "Q5107684", 
     "wikipedia": "Chris Pappas (politician)"
   }, 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-5456", 
       "start": "2019-01-03", 
+      "state": "NH", 
+      "type": "rep", 
+      "url": "https://pappas.house.gov"
+    }, 
+    {
+      "address": "319 Cannon House Office Building Washington DC 20515-2901", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "319 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5456", 
+      "start": "2021-01-03", 
       "state": "NH", 
       "type": "rep", 
       "url": "https://pappas.house.gov"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11594", 
+    "ballotpedia": "Colin Allred", 
     "bioguide": "A000376", 
     "fec": [
       "H8TX32098"
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-2231", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://allred.house.gov"
+    }, 
+    {
+      "address": "114 Cannon House Office Building Washington DC 20515-4332", 
+      "district": 32, 
+      "end": "2023-01-03", 
+      "office": "114 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2231", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://allred.house.gov"

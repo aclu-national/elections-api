@@ -117,6 +117,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://teddeutch.house.gov"
+    }, 
+    {
+      "address": "2323 Rayburn House Office Building Washington DC 20515-0922", 
+      "district": 22, 
+      "end": "2023-01-03", 
+      "office": "2323 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3001", 
+      "rss_url": "http://teddeutch.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://teddeutch.house.gov"
     }
   ], 
   "url_slug": "fl-theodore-deutch"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11577", 
+    "ballotpedia": "Anthony Gonzalez", 
     "bioguide": "G000588", 
     "fec": [
       "H8OH16124"
@@ -13,6 +14,7 @@
     "govtrack": 412807, 
     "icpsr": 21924, 
     "opensecrets": "N00041690", 
+    "votesmart": 178867, 
     "wikidata": "Q3487172", 
     "wikipedia": "Anthony Gonzalez"
   }, 
@@ -34,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-3876", 
       "start": "2019-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://anthonygonzalez.house.gov"
+    }, 
+    {
+      "address": "2458 Rayburn House Office Building Washington DC 20515-3516", 
+      "district": 16, 
+      "end": "2023-01-03", 
+      "office": "2458 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3876", 
+      "start": "2021-01-03", 
       "state": "OH", 
       "type": "rep", 
       "url": "https://anthonygonzalez.house.gov"

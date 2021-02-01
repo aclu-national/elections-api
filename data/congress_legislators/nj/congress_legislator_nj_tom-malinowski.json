@@ -39,6 +39,18 @@
       "state": "NJ", 
       "type": "rep", 
       "url": "https://malinowski.house.gov"
+    }, 
+    {
+      "address": "1318 Longworth House Office Building Washington DC 20515-3007", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "1318 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5361", 
+      "start": "2021-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://malinowski.house.gov"
     }
   ], 
   "url_slug": "nj-tom-malinowski"

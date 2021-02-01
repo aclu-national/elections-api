@@ -132,6 +132,19 @@
       "state": "NE", 
       "type": "rep", 
       "url": "https://fortenberry.house.gov"
+    }, 
+    {
+      "address": "1514 Longworth House Office Building Washington DC 20515-2701", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1514 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4806", 
+      "rss_url": "http://fortenberry.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "https://fortenberry.house.gov"
     }
   ], 
   "url_slug": "ne-jeff-fortenberry"

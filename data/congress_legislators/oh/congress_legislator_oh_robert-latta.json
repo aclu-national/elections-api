@@ -132,6 +132,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://latta.house.gov"
+    }, 
+    {
+      "address": "2467 Rayburn House Office Building Washington DC 20515-3505", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "2467 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6405", 
+      "rss_url": "http://latta.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://latta.house.gov"
     }
   ], 
   "url_slug": "oh-robert-latta"

@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11589", 
+    "ballotpedia": "Dusty Johnson", 
     "bioguide": "J000301", 
     "fec": [
       "H8SD01055"
     ], 
+    "google_entity_id": "kg:/g/11dyzlcnbr", 
     "govtrack": 412816, 
     "icpsr": 21935, 
     "opensecrets": "N00040559", 
@@ -34,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-2801", 
       "start": "2019-01-03", 
+      "state": "SD", 
+      "type": "rep", 
+      "url": "https://dustyjohnson.house.gov"
+    }, 
+    {
+      "address": "1714 Longworth House Office Building Washington DC 20515-4100", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "1714 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2801", 
+      "start": "2021-01-03", 
       "state": "SD", 
       "type": "rep", 
       "url": "https://dustyjohnson.house.gov"

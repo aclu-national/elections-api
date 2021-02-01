@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:672", 
+    "ballotpedia": "Joni Ernst", 
     "bioguide": "E000295", 
     "cspan": 75342, 
     "fec": [
@@ -25,7 +26,13 @@
   "leadership_roles": [
     {
       "chamber": "senate", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
+      "title": "Senate Republican Conference Vice Chair"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2021-01-03", 
       "title": "Senate Republican Conference Vice Chair"
     }
   ], 
@@ -52,6 +59,20 @@
       "party": "Republican", 
       "phone": "202-224-3254", 
       "start": "2015-01-06", 
+      "state": "IA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.ernst.senate.gov/public"
+    }, 
+    {
+      "address": "730 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.ernst.senate.gov/public/index.cfm/contact", 
+      "end": "2027-01-03", 
+      "office": "730 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-3254", 
+      "start": "2021-01-03", 
       "state": "IA", 
       "state_rank": "junior", 
       "type": "sen", 

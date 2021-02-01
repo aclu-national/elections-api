@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:865", 
+    "ballotpedia": "John Katko", 
     "bioguide": "K000386", 
     "cspan": 76367, 
     "fec": [
@@ -65,6 +66,18 @@
       "party": "Republican", 
       "phone": "202-225-3701", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://katko.house.gov"
+    }, 
+    {
+      "address": "2428 Rayburn House Office Building Washington DC 20515-3224", 
+      "district": 24, 
+      "end": "2023-01-03", 
+      "office": "2428 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3701", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://katko.house.gov"

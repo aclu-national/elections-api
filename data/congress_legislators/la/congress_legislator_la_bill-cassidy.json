@@ -88,6 +88,20 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.cassidy.senate.gov"
+    }, 
+    {
+      "address": "520 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.cassidy.senate.gov/contact", 
+      "end": "2027-01-03", 
+      "office": "520 Hart Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-5824", 
+      "start": "2021-01-03", 
+      "state": "LA", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.cassidy.senate.gov"
     }
   ], 
   "url_slug": "la-bill-cassidy"

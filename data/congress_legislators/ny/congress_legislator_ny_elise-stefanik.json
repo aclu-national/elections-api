@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:859", 
+    "ballotpedia": "Elise Stefanik", 
     "bioguide": "S001196", 
     "cspan": 76364, 
     "fec": [
@@ -24,6 +25,7 @@
   "name": {
     "first": "Elise", 
     "last": "Stefanik", 
+    "middle": "M.", 
     "official_full": "Elise M. Stefanik"
   }, 
   "social": {
@@ -67,6 +69,18 @@
       "party": "Republican", 
       "phone": "202-225-4611", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://stefanik.house.gov"
+    }, 
+    {
+      "address": "2211 Rayburn House Office Building Washington DC 20515-3221", 
+      "district": 21, 
+      "end": "2023-01-03", 
+      "office": "2211 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4611", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://stefanik.house.gov"

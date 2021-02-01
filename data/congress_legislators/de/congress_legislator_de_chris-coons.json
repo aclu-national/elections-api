@@ -23,7 +23,7 @@
     "wikipedia": "Chris Coons"
   }, 
   "name": {
-    "first": "Chris", 
+    "first": "Christopher", 
     "last": "Coons", 
     "middle": "Andrew", 
     "official_full": "Christopher A. Coons"
@@ -69,7 +69,22 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.coons.senate.gov"
+    }, 
+    {
+      "address": "218 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.coons.senate.gov/contact", 
+      "end": "2027-01-03", 
+      "office": "218 Russell Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5042", 
+      "rss_url": "http://www.coons.senate.gov/rss/feeds/?type=all", 
+      "start": "2021-01-03", 
+      "state": "DE", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.coons.senate.gov"
     }
   ], 
-  "url_slug": "de-chris-coons"
+  "url_slug": "de-christopher-coons"
 }

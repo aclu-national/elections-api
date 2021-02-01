@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11605", 
+    "ballotpedia": "Ben Cline", 
     "bioguide": "C001118", 
     "fec": [
       "H8VA06104"
@@ -35,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-5431", 
       "start": "2019-01-03", 
+      "state": "VA", 
+      "type": "rep", 
+      "url": "https://cline.house.gov"
+    }, 
+    {
+      "address": "2443 Rayburn House Office Building Washington DC 20515-4606", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "2443 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5431", 
+      "start": "2021-01-03", 
       "state": "VA", 
       "type": "rep", 
       "url": "https://cline.house.gov"

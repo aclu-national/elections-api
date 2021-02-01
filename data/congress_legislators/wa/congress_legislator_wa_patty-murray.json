@@ -26,8 +26,20 @@
   "leadership_roles": [
     {
       "chamber": "senate", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
       "title": "Assistant Senate Minority Leader"
+    }, 
+    {
+      "chamber": "senate", 
+      "end": "2021-01-20", 
+      "start": "2021-01-03", 
+      "title": "Assistant Senate Minority Leader"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2021-01-20", 
+      "title": "Assistant Senate Majority Leader"
     }
   ], 
   "name": {

@@ -11,6 +11,7 @@
   ], 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:579", 
+    "ballotpedia": "Lucille Roybal-Allard", 
     "bioguide": "R000486", 
     "cspan": 26136, 
     "fec": [
@@ -184,6 +185,19 @@
       "phone": "202-225-1766", 
       "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://roybal-allard.house.gov"
+    }, 
+    {
+      "address": "2083 Rayburn House Office Building Washington DC 20515-0540", 
+      "district": 40, 
+      "end": "2023-01-03", 
+      "office": "2083 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1766", 
+      "rss_url": "http://roybal-allard.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://roybal-allard.house.gov"

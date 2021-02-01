@@ -22,6 +22,13 @@
     "wikidata": "Q59315", 
     "wikipedia": "Patrick Leahy"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2021-01-20", 
+      "title": "President Pro Tempore of the Senate"
+    }
+  ], 
   "name": {
     "first": "Patrick", 
     "last": "Leahy", 

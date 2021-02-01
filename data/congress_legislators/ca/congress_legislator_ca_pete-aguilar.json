@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:589", 
+    "ballotpedia": "Pete Aguilar", 
     "bioguide": "A000371", 
     "cspan": 79994, 
     "fec": [
@@ -20,6 +21,13 @@
     "wikidata": "Q7171821", 
     "wikipedia": "Pete Aguilar"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "house", 
+      "start": "2021-01-03", 
+      "title": "House Democratic Caucus Vice Chair"
+    }
+  ], 
   "name": {
     "first": "Pete", 
     "last": "Aguilar", 
@@ -66,6 +74,18 @@
       "party": "Democrat", 
       "phone": "202-225-3201", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://aguilar.house.gov"
+    }, 
+    {
+      "address": "109 Cannon House Office Building Washington DC 20515-0531", 
+      "district": 31, 
+      "end": "2023-01-03", 
+      "office": "109 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3201", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://aguilar.house.gov"

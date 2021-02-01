@@ -105,6 +105,19 @@
       "state": "OH", 
       "type": "rep", 
       "url": "https://stivers.house.gov"
+    }, 
+    {
+      "address": "2234 Rayburn House Office Building Washington DC 20515-3515", 
+      "district": 15, 
+      "end": "2023-01-03", 
+      "office": "2234 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2015", 
+      "rss_url": "http://stivers.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://stivers.house.gov"
     }
   ], 
   "url_slug": "oh-steve-stivers"

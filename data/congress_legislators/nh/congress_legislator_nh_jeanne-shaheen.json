@@ -68,6 +68,21 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.shaheen.senate.gov"
+    }, 
+    {
+      "address": "506 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.shaheen.senate.gov/contact/contact-jeanne", 
+      "end": "2027-01-03", 
+      "office": "506 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2841", 
+      "rss_url": "http://www.shaheen.senate.gov/rss/", 
+      "start": "2021-01-03", 
+      "state": "NH", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.shaheen.senate.gov"
     }
   ], 
   "url_slug": "nh-jeanne-shaheen"

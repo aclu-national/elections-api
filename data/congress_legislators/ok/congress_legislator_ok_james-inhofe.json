@@ -127,6 +127,21 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.inhofe.senate.gov"
+    }, 
+    {
+      "address": "205 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.inhofe.senate.gov/contact", 
+      "end": "2027-01-03", 
+      "office": "205 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-4721", 
+      "rss_url": "http://www.inhofe.senate.gov/rss/feeds/?type=all&amp;cachebuster=eea6c4d7%2d939c%2d5c1e%2db6c7aa3b8b291208", 
+      "start": "2021-01-03", 
+      "state": "OK", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.inhofe.senate.gov"
     }
   ], 
   "url_slug": "ok-james-inhofe"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:958", 
+    "ballotpedia": "Eddie Bernice Johnson", 
     "bioguide": "J000126", 
     "cspan": 23352, 
     "fec": [
@@ -179,6 +180,19 @@
       "phone": "202-225-8885", 
       "rss_url": "http://ebjohnson.house.gov/common/rss//index.cfm?rss=21", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://ebjohnson.house.gov"
+    }, 
+    {
+      "address": "2306 Rayburn House Office Building Washington DC 20515-4330", 
+      "district": 30, 
+      "end": "2023-01-03", 
+      "office": "2306 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8885", 
+      "rss_url": "http://ebjohnson.house.gov/common/rss//index.cfm?rss=21", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://ebjohnson.house.gov"

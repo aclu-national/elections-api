@@ -40,6 +40,18 @@
       "state": "PA", 
       "type": "rep", 
       "url": "https://keller.house.gov"
+    }, 
+    {
+      "address": "1717 Longworth House Office Building Washington DC 20515-3812", 
+      "district": 12, 
+      "end": "2023-01-03", 
+      "office": "1717 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3731", 
+      "start": "2021-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://keller.house.gov"
     }
   ], 
   "url_slug": "pa-fred-keller"

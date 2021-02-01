@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:835", 
+    "ballotpedia": "Josh Gottheimer", 
     "bioguide": "G000583", 
     "cspan": 9275683, 
     "fec": [
@@ -51,6 +52,18 @@
       "party": "Democrat", 
       "phone": "202-225-4465", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://gottheimer.house.gov"
+    }, 
+    {
+      "address": "203 Cannon House Office Building Washington DC 20515-3005", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "203 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4465", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://gottheimer.house.gov"

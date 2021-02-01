@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11557", 
+    "ballotpedia": "Ilhan Omar", 
     "bioguide": "O000173", 
     "fec": [
       "H8MN05239"
     ], 
+    "google_entity_id": "kg:/g/11c4wx5dm0", 
     "govtrack": 412791, 
     "icpsr": 21950, 
     "opensecrets": "N00043581", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-4755", 
       "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://omar.house.gov"
+    }, 
+    {
+      "address": "1730 Longworth House Office Building Washington DC 20515-2305", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1730 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4755", 
+      "start": "2021-01-03", 
       "state": "MN", 
       "type": "rep", 
       "url": "https://omar.house.gov"

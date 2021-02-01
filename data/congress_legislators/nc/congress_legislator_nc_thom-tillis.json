@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:811", 
+    "ballotpedia": "Thom Tillis (North Carolina)", 
     "bioguide": "T000476", 
     "cspan": 77055, 
     "fec": [
@@ -43,6 +44,20 @@
       "party": "Republican", 
       "phone": "202-224-6342", 
       "start": "2015-01-06", 
+      "state": "NC", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.tillis.senate.gov"
+    }, 
+    {
+      "address": "113 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.tillis.senate.gov/public/index.cfm/email-me", 
+      "end": "2027-01-03", 
+      "office": "113 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-6342", 
+      "start": "2021-01-03", 
       "state": "NC", 
       "state_rank": "junior", 
       "type": "sen", 

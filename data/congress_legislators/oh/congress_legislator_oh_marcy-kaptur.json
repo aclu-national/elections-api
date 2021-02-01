@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:887", 
+    "ballotpedia": "Marcy Kaptur", 
     "bioguide": "K000009", 
     "cspan": 1458, 
     "fec": [
@@ -218,6 +219,19 @@
       "phone": "202-225-4146", 
       "rss_url": "http://kaptur.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2019-01-03", 
+      "state": "OH", 
+      "type": "rep", 
+      "url": "https://kaptur.house.gov"
+    }, 
+    {
+      "address": "2186 Rayburn House Office Building Washington DC 20515-3509", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2186 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4146", 
+      "rss_url": "http://kaptur.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
       "state": "OH", 
       "type": "rep", 
       "url": "https://kaptur.house.gov"

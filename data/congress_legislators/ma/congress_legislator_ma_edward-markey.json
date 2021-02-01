@@ -243,6 +243,20 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.markey.senate.gov"
+    }, 
+    {
+      "address": "255 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.markey.senate.gov/contact", 
+      "end": "2027-01-03", 
+      "office": "255 Dirksen Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-2742", 
+      "start": "2021-01-03", 
+      "state": "MA", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.markey.senate.gov"
     }
   ], 
   "url_slug": "ma-edward-markey"

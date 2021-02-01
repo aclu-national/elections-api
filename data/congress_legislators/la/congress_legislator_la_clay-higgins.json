@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:726", 
+    "ballotpedia": "Clay Higgins", 
     "bioguide": "H001077", 
     "cspan": 106094, 
     "fec": [
@@ -51,6 +52,18 @@
       "party": "Republican", 
       "phone": "202-225-2031", 
       "start": "2019-01-03", 
+      "state": "LA", 
+      "type": "rep", 
+      "url": "https://clayhiggins.house.gov"
+    }, 
+    {
+      "address": "572 Cannon House Office Building Washington DC 20515-1803", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "572 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2031", 
+      "start": "2021-01-03", 
       "state": "LA", 
       "type": "rep", 
       "url": "https://clayhiggins.house.gov"

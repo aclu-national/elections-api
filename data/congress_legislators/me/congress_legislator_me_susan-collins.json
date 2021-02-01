@@ -86,6 +86,21 @@
       "state_rank": "senior", 
       "type": "sen", 
       "url": "https://www.collins.senate.gov"
+    }, 
+    {
+      "address": "413 Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.collins.senate.gov/contact", 
+      "end": "2027-01-03", 
+      "office": "413 Dirksen Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2523", 
+      "rss_url": "http://www.collins.senate.gov/public/?a=rss.feed", 
+      "start": "2021-01-03", 
+      "state": "ME", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.collins.senate.gov"
     }
   ], 
   "url_slug": "me-susan-collins"

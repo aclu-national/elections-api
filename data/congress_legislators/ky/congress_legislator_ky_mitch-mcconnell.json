@@ -61,8 +61,20 @@
     }, 
     {
       "chamber": "senate", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
       "title": "Senate Majority Leader"
+    }, 
+    {
+      "chamber": "senate", 
+      "end": "2021-01-20", 
+      "start": "2021-01-03", 
+      "title": "Senate Majority Leader"
+    }, 
+    {
+      "chamber": "senate", 
+      "start": "2021-01-20", 
+      "title": "Senate Minority Leader"
     }
   ], 
   "name": {
@@ -137,6 +149,21 @@
       "phone": "202-224-2541", 
       "rss_url": "http://www.mcconnell.senate.gov/public/?a=rss.feed", 
       "start": "2015-01-06", 
+      "state": "KY", 
+      "state_rank": "senior", 
+      "type": "sen", 
+      "url": "https://www.mcconnell.senate.gov"
+    }, 
+    {
+      "address": "317 Russell Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "http://www.mcconnell.senate.gov/public/index.cfm?p=contact", 
+      "end": "2027-01-03", 
+      "office": "317 Russell Senate Office Building", 
+      "party": "Republican", 
+      "phone": "202-224-2541", 
+      "rss_url": "http://www.mcconnell.senate.gov/public/?a=rss.feed", 
+      "start": "2021-01-03", 
       "state": "KY", 
       "state_rank": "senior", 
       "type": "sen", 

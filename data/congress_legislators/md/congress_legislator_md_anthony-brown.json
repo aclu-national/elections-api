@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:744", 
+    "ballotpedia": "Anthony Brown (Maryland)", 
     "bioguide": "B001304", 
     "cspan": 1029537, 
     "fec": [
@@ -22,7 +23,8 @@
   "name": {
     "first": "Anthony", 
     "last": "Brown", 
-    "official_full": "Anthony G. Brown"
+    "middle": "G.", 
+    "official_full": "Anthony Brown"
   }, 
   "social": {
     "facebook": "RepAnthonyBrown", 
@@ -52,6 +54,18 @@
       "party": "Democrat", 
       "phone": "202-225-8699", 
       "start": "2019-01-03", 
+      "state": "MD", 
+      "type": "rep", 
+      "url": "https://anthonybrown.house.gov"
+    }, 
+    {
+      "address": "1323 Longworth House Office Building Washington DC 20515-2004", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "1323 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8699", 
+      "start": "2021-01-03", 
       "state": "MD", 
       "type": "rep", 
       "url": "https://anthonybrown.house.gov"

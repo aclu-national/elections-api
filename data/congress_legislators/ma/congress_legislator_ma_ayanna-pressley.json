@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11547", 
+    "ballotpedia": "Ayanna Pressley", 
     "bioguide": "P000617", 
     "fec": [
       "H8MA07032"
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-5111", 
       "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://pressley.house.gov"
+    }, 
+    {
+      "address": "1108 Longworth House Office Building Washington DC 20515-2107", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "1108 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5111", 
+      "start": "2021-01-03", 
       "state": "MA", 
       "type": "rep", 
       "url": "https://pressley.house.gov"

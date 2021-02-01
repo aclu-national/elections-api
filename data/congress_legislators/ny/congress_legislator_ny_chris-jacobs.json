@@ -5,7 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11620", 
-    "ballotpedia": "Chris Jacobs", 
+    "ballotpedia": "Christopher Jacobs", 
     "bioguide": "J000020", 
     "fec": [
       "H0NY27090"
@@ -31,6 +31,18 @@
       "start": "2020-07-21", 
       "state": "NY", 
       "type": "rep"
+    }, 
+    {
+      "address": "214 Cannon House Office Building Washington DC 20515-3227", 
+      "district": 27, 
+      "end": "2023-01-03", 
+      "office": "214 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5265", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://jacobs.house.gov"
     }
   ], 
   "url_slug": "ny-chris-jacobs"

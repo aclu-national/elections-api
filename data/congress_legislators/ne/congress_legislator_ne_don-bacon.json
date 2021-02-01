@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:820", 
+    "ballotpedia": "Don Bacon", 
     "bioguide": "B001298", 
     "cspan": 103442, 
     "fec": [
@@ -52,6 +53,18 @@
       "party": "Republican", 
       "phone": "202-225-4155", 
       "start": "2019-01-03", 
+      "state": "NE", 
+      "type": "rep", 
+      "url": "https://bacon.house.gov"
+    }, 
+    {
+      "address": "1024 Longworth House Office Building Washington DC 20515-2702", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1024 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4155", 
+      "start": "2021-01-03", 
       "state": "NE", 
       "type": "rep", 
       "url": "https://bacon.house.gov"

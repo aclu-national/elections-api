@@ -5,15 +5,18 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:840", 
+    "ballotpedia": "Ben Ray Luj\u00e1n", 
     "bioguide": "L000570", 
     "cspan": 1031351, 
     "fec": [
-      "H8NM03196"
+      "H8NM03196", 
+      "S0NM00058"
     ], 
     "google_entity_id": "kg:/m/0412qzq", 
     "govtrack": 412293, 
     "house_history": 17317, 
     "icpsr": 20932, 
+    "lis": "S409", 
     "maplight": 775, 
     "opensecrets": "N00029562", 
     "thomas": "01939", 
@@ -24,6 +27,7 @@
   "leadership_roles": [
     {
       "chamber": "house", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
       "title": "Assistant Speaker of the House"
     }
@@ -35,13 +39,8 @@
     "official_full": "Ben Ray Luj\u00e1n"
   }, 
   "social": {
-    "facebook": "RepBenRayLujan", 
-    "instagram": "repbenraylujan", 
-    "instagram_id": 1409819789, 
-    "twitter": "RepBenRayLujan", 
-    "twitter_id": 19318314, 
-    "youtube": "Repbenraylujan", 
-    "youtube_id": "UCcO5AmF8HuJo4d0awEbst7Q"
+    "twitter": "SenatorLujan", 
+    "twitter_id": 19318314
   }, 
   "terms": [
     {
@@ -123,6 +122,20 @@
       "state": "NM", 
       "type": "rep", 
       "url": "https://lujan.house.gov"
+    }, 
+    {
+      "address": "B40C Dirksen Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.lujan.senate.gov", 
+      "end": "2027-01-03", 
+      "office": "B40c Dirksen Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-6621", 
+      "start": "2021-01-03", 
+      "state": "NM", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.lujan.senate.gov"
     }
   ], 
   "url_slug": "nm-ben-lujan"

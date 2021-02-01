@@ -98,6 +98,19 @@
       "state": "MI", 
       "type": "rep", 
       "url": "https://dankildee.house.gov"
+    }, 
+    {
+      "address": "200 Cannon House Office Building Washington DC 20515-2205", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "200 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3611", 
+      "rss_url": "http://dankildee.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "MI", 
+      "type": "rep", 
+      "url": "https://dankildee.house.gov"
     }
   ], 
   "url_slug": "mi-daniel-kildee"

@@ -17,11 +17,12 @@
     "opensecrets": "N00041221", 
     "votesmart": 123390, 
     "wikidata": "Q6253810", 
-    "wikipedia": "John Curtis (American politician)"
+    "wikipedia": "John Curtis (Utah politician)"
   }, 
   "name": {
     "first": "John", 
     "last": "Curtis", 
+    "middle": "R.", 
     "official_full": "John R. Curtis"
   }, 
   "social": {
@@ -52,6 +53,18 @@
       "party": "Republican", 
       "phone": "202-225-7751", 
       "start": "2019-01-03", 
+      "state": "UT", 
+      "type": "rep", 
+      "url": "https://curtis.house.gov"
+    }, 
+    {
+      "address": "2400 Rayburn House Office Building Washington DC 20515-4403", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2400 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-7751", 
+      "start": "2021-01-03", 
       "state": "UT", 
       "type": "rep", 
       "url": "https://curtis.house.gov"

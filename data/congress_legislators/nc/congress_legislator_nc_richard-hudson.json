@@ -21,6 +21,13 @@
     "wikidata": "Q3956999", 
     "wikipedia": "Richard Hudson (American politician)"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "house", 
+      "start": "2021-01-03", 
+      "title": "House Republican Conference Secretary"
+    }
+  ], 
   "name": {
     "first": "Richard", 
     "last": "Hudson", 
@@ -87,6 +94,19 @@
       "phone": "202-225-3715", 
       "rss_url": "http://hudson.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://hudson.house.gov"
+    }, 
+    {
+      "address": "2112 Rayburn House Office Building Washington DC 20515-3308", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2112 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3715", 
+      "rss_url": "http://hudson.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NC", 
       "type": "rep", 
       "url": "https://hudson.house.gov"

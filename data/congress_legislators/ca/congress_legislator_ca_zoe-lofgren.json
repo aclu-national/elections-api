@@ -173,6 +173,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://lofgren.house.gov"
+    }, 
+    {
+      "address": "1401 Longworth House Office Building Washington DC 20515-0519", 
+      "district": 19, 
+      "end": "2023-01-03", 
+      "office": "1401 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3072", 
+      "rss_url": "http://lofgren.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://lofgren.house.gov"
     }
   ], 
   "url_slug": "ca-zoe-lofgren"

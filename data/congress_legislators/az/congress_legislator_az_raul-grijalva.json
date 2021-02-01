@@ -142,6 +142,19 @@
       "state": "AZ", 
       "type": "rep", 
       "url": "https://grijalva.house.gov"
+    }, 
+    {
+      "address": "1511 Longworth House Office Building Washington DC 20515-0303", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1511 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2435", 
+      "rss_url": "http://grijalva.house.gov/common/rss/?rss=13", 
+      "start": "2021-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://grijalva.house.gov"
     }
   ], 
   "url_slug": "az-raul-grijalva"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11588", 
+    "ballotpedia": "William Timmons", 
     "bioguide": "T000480", 
     "fec": [
       "H8SC04250"
@@ -15,7 +16,7 @@
     "opensecrets": "N00042715", 
     "votesmart": 168923, 
     "wikidata": "Q28837296", 
-    "wikipedia": "William Timmons (politician)"
+    "wikipedia": "William Timmons"
   }, 
   "name": {
     "first": "William", 
@@ -36,6 +37,18 @@
       "party": "Republican", 
       "phone": "202-225-6030", 
       "start": "2019-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://timmons.house.gov"
+    }, 
+    {
+      "address": "267 Cannon House Office Building Washington DC 20515-4004", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "267 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6030", 
+      "start": "2021-01-03", 
       "state": "SC", 
       "type": "rep", 
       "url": "https://timmons.house.gov"

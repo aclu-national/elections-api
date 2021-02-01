@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:690", 
+    "ballotpedia": "Mike Bost", 
     "bioguide": "B001295", 
     "cspan": 76176, 
     "fec": [
@@ -66,6 +67,18 @@
       "party": "Republican", 
       "phone": "202-225-5661", 
       "start": "2019-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://bost.house.gov"
+    }, 
+    {
+      "address": "1211 Longworth House Office Building Washington DC 20515-1312", 
+      "district": 12, 
+      "end": "2023-01-03", 
+      "office": "1211 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5661", 
+      "start": "2021-01-03", 
       "state": "IL", 
       "type": "rep", 
       "url": "https://bost.house.gov"

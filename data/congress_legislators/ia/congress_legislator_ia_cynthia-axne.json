@@ -10,6 +10,7 @@
     "fec": [
       "H8IA03124"
     ], 
+    "google_entity_id": "kg:/g/11fgktcgcb", 
     "govtrack": 412772, 
     "icpsr": 21902, 
     "opensecrets": "N00041104", 
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-5476", 
       "start": "2019-01-03", 
+      "state": "IA", 
+      "type": "rep", 
+      "url": "https://axne.house.gov"
+    }, 
+    {
+      "address": "1034 Longworth House Office Building Washington DC 20515-1503", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "1034 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5476", 
+      "start": "2021-01-03", 
       "state": "IA", 
       "type": "rep", 
       "url": "https://axne.house.gov"

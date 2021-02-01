@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11526", 
+    "ballotpedia": "Jahana Hayes", 
     "bioguide": "H001081", 
     "fec": [
       "H8CT05245"
     ], 
+    "google_entity_id": "kg:/g/11cn8wstn6", 
     "govtrack": 412763, 
     "icpsr": 21931, 
     "opensecrets": "N00043421", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-4476", 
       "start": "2019-01-03", 
+      "state": "CT", 
+      "type": "rep", 
+      "url": "https://hayes.house.gov"
+    }, 
+    {
+      "address": "1415 Longworth House Office Building Washington DC 20515-0705", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1415 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4476", 
+      "start": "2021-01-03", 
       "state": "CT", 
       "type": "rep", 
       "url": "https://hayes.house.gov"

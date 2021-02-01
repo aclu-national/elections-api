@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:747", 
+    "ballotpedia": "Chris Van Hollen", 
     "bioguide": "V000128", 
     "cspan": 20756, 
     "fec": [
@@ -26,8 +27,7 @@
   "name": {
     "first": "Chris", 
     "last": "Van Hollen", 
-    "official_full": "Chris Van Hollen", 
-    "suffix": "Jr."
+    "official_full": "Chris Van Hollen"
   }, 
   "social": {
     "facebook": "chrisvanhollen", 

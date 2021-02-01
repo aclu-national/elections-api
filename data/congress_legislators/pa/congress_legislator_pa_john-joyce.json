@@ -5,13 +5,16 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11583", 
+    "ballotpedia": "John Joyce (Pennsylvania)", 
     "bioguide": "J000302", 
     "fec": [
       "H8PA13125"
     ], 
+    "google_entity_id": "kg:/g/11fgkqqf2l", 
     "govtrack": 412812, 
     "icpsr": 21936, 
     "opensecrets": "N00043242", 
+    "votesmart": 178911, 
     "wikidata": "Q60428839", 
     "wikipedia": "John Joyce (American politician)"
   }, 
@@ -33,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-2431", 
       "start": "2019-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://johnjoyce.house.gov"
+    }, 
+    {
+      "address": "1221 Longworth House Office Building Washington DC 20515-3813", 
+      "district": 13, 
+      "end": "2023-01-03", 
+      "office": "1221 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2431", 
+      "start": "2021-01-03", 
       "state": "PA", 
       "type": "rep", 
       "url": "https://johnjoyce.house.gov"

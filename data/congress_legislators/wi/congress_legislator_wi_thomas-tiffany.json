@@ -32,6 +32,18 @@
       "start": "2020-05-19", 
       "state": "WI", 
       "type": "rep"
+    }, 
+    {
+      "address": "1719 Longworth House Office Building Washington DC 20515-4907", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "1719 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3365", 
+      "start": "2021-01-03", 
+      "state": "WI", 
+      "type": "rep", 
+      "url": "https://tiffany.house.gov"
     }
   ], 
   "url_slug": "wi-thomas-tiffany"

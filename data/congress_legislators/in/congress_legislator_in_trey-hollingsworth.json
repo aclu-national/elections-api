@@ -55,6 +55,18 @@
       "state": "IN", 
       "type": "rep", 
       "url": "https://hollingsworth.house.gov"
+    }, 
+    {
+      "address": "1641 Longworth House Office Building Washington DC 20515-1409", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "1641 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5315", 
+      "start": "2021-01-03", 
+      "state": "IN", 
+      "type": "rep", 
+      "url": "https://hollingsworth.house.gov"
     }
   ], 
   "url_slug": "in-trey-hollingsworth"

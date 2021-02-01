@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11596", 
+    "ballotpedia": "Lance Gooden", 
     "bioguide": "G000589", 
     "fec": [
       "H8TX05144"
@@ -22,10 +23,6 @@
     "last": "Gooden", 
     "official_full": "Lance Gooden"
   }, 
-  "social": {
-    "twitter": "RepLanceGooden", 
-    "twitter_id": 412595957
-  }, 
   "terms": [
     {
       "address": "425 Cannon House Office Building Washington DC 20515-4305", 
@@ -35,6 +32,18 @@
       "party": "Republican", 
       "phone": "202-225-3484", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://gooden.house.gov"
+    }, 
+    {
+      "address": "1722 Longworth House Office Building Washington DC 20515-4305", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1722 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3484", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://gooden.house.gov"

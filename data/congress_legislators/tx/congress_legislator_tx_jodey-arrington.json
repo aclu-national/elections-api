@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:964", 
+    "ballotpedia": "Jodey Arrington", 
     "bioguide": "A000375", 
     "cspan": 1016482, 
     "fec": [
@@ -22,6 +23,7 @@
   "name": {
     "first": "Jodey", 
     "last": "Arrington", 
+    "middle": "C.", 
     "official_full": "Jodey C. Arrington"
   }, 
   "social": {
@@ -51,6 +53,18 @@
       "party": "Republican", 
       "phone": "202-225-4005", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://arrington.house.gov"
+    }, 
+    {
+      "address": "1107 Longworth House Office Building Washington DC 20515-4319", 
+      "district": 19, 
+      "end": "2023-01-03", 
+      "office": "1107 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4005", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://arrington.house.gov"

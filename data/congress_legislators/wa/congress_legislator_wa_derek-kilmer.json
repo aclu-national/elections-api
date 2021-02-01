@@ -85,6 +85,19 @@
       "state": "WA", 
       "type": "rep", 
       "url": "https://kilmer.house.gov"
+    }, 
+    {
+      "address": "2059 Rayburn House Office Building Washington DC 20515-4706", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "2059 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5916", 
+      "rss_url": "http://kilmer.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://kilmer.house.gov"
     }
   ], 
   "url_slug": "wa-derek-kilmer"

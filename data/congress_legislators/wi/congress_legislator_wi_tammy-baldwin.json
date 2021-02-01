@@ -24,6 +24,13 @@
     "wikidata": "Q40628", 
     "wikipedia": "Tammy Baldwin"
   }, 
+  "leadership_roles": [
+    {
+      "chamber": "senate", 
+      "start": "2021-01-03", 
+      "title": "Senate Democratic Caucus Secretary"
+    }
+  ], 
   "name": {
     "first": "Tammy", 
     "last": "Baldwin", 

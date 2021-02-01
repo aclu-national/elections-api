@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:783", 
+    "ballotpedia": "Blaine Luetkemeyer", 
     "bioguide": "L000569", 
     "cspan": 1031348, 
     "fec": [
@@ -110,6 +111,19 @@
       "phone": "202-225-2956", 
       "rss_url": "http://luetkemeyer.house.gov/news/rss.aspx", 
       "start": "2019-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://luetkemeyer.house.gov"
+    }, 
+    {
+      "address": "2230 Rayburn House Office Building Washington DC 20515-2503", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2230 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2956", 
+      "rss_url": "http://luetkemeyer.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
       "state": "MO", 
       "type": "rep", 
       "url": "https://luetkemeyer.house.gov"

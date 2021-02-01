@@ -109,6 +109,19 @@
       "state": "NV", 
       "type": "rep", 
       "url": "https://amodei.house.gov"
+    }, 
+    {
+      "address": "104 Cannon House Office Building Washington DC 20515-2802", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "104 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6155", 
+      "rss_url": "http://amodei.house.gov/common/rss//?rss=49", 
+      "start": "2021-01-03", 
+      "state": "NV", 
+      "type": "rep", 
+      "url": "https://amodei.house.gov"
     }
   ], 
   "url_slug": "nv-mark-amodei"

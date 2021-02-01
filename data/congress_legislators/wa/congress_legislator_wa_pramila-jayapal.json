@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1022", 
+    "ballotpedia": "Pramila Jayapal", 
     "bioguide": "J000298", 
     "cspan": 9267128, 
     "fec": [
@@ -52,6 +53,18 @@
       "party": "Democrat", 
       "phone": "202-225-3106", 
       "start": "2019-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://jayapal.house.gov"
+    }, 
+    {
+      "address": "2346 Rayburn House Office Building Washington DC 20515-4707", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "2346 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3106", 
+      "start": "2021-01-03", 
       "state": "WA", 
       "type": "rep", 
       "url": "https://jayapal.house.gov"

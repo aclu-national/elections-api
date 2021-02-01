@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:641", 
+    "ballotpedia": "Neal Dunn", 
     "bioguide": "D000628", 
     "cspan": 104529, 
     "fec": [
@@ -22,6 +23,7 @@
   "name": {
     "first": "Neal", 
     "last": "Dunn", 
+    "middle": "P.", 
     "official_full": "Neal P. Dunn"
   }, 
   "social": {
@@ -51,6 +53,18 @@
       "party": "Republican", 
       "phone": "202-225-5235", 
       "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://dunn.house.gov"
+    }, 
+    {
+      "address": "316 Cannon House Office Building Washington DC 20515-0902", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "316 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5235", 
+      "start": "2021-01-03", 
       "state": "FL", 
       "type": "rep", 
       "url": "https://dunn.house.gov"

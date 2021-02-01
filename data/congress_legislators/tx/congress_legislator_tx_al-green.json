@@ -132,6 +132,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://algreen.house.gov"
+    }, 
+    {
+      "address": "2347 Rayburn House Office Building Washington DC 20515-4309", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2347 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7508", 
+      "rss_url": "http://algreen.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://algreen.house.gov"
     }
   ], 
   "url_slug": "tx-al-green"

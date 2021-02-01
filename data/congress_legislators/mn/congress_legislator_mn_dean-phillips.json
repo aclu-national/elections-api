@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11556", 
+    "ballotpedia": "Dean Phillips", 
     "bioguide": "P000616", 
     "fec": [
       "H8MN03143"
     ], 
+    "google_entity_id": "kg:/g/11fg48_c9t", 
     "govtrack": 412790, 
     "icpsr": 21953, 
     "opensecrets": "N00041134", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-2871", 
       "start": "2019-01-03", 
+      "state": "MN", 
+      "type": "rep", 
+      "url": "https://phillips.house.gov"
+    }, 
+    {
+      "address": "2452 Rayburn House Office Building Washington DC 20515-2303", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2452 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2871", 
+      "start": "2021-01-03", 
       "state": "MN", 
       "type": "rep", 
       "url": "https://phillips.house.gov"

@@ -90,6 +90,19 @@
       "state": "TX", 
       "type": "rep", 
       "url": "https://williams.house.gov"
+    }, 
+    {
+      "address": "1708 Longworth House Office Building Washington DC 20515-4325", 
+      "district": 25, 
+      "end": "2023-01-03", 
+      "office": "1708 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-9896", 
+      "rss_url": "http://williams.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://williams.house.gov"
     }
   ], 
   "url_slug": "tx-roger-williams"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:651", 
+    "ballotpedia": "Barry Loudermilk", 
     "bioguide": "L000583", 
     "cspan": 76165, 
     "fec": [
@@ -67,6 +68,18 @@
       "party": "Republican", 
       "phone": "202-225-2931", 
       "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://loudermilk.house.gov"
+    }, 
+    {
+      "address": "2133 Rayburn House Office Building Washington DC 20515-1011", 
+      "district": 11, 
+      "end": "2023-01-03", 
+      "office": "2133 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2931", 
+      "start": "2021-01-03", 
       "state": "GA", 
       "type": "rep", 
       "url": "https://loudermilk.house.gov"

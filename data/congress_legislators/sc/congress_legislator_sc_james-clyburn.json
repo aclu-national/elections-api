@@ -31,7 +31,13 @@
   "leadership_roles": [
     {
       "chamber": "house", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
+      "title": "House Majority Whip"
+    }, 
+    {
+      "chamber": "house", 
+      "start": "2021-01-03", 
       "title": "House Majority Whip"
     }
   ], 
@@ -193,6 +199,19 @@
       "phone": "202-225-3315", 
       "rss_url": "http://clyburn.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "SC", 
+      "type": "rep", 
+      "url": "https://clyburn.house.gov"
+    }, 
+    {
+      "address": "274 Cannon House Office Building Washington DC 20515-4006", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "274 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3315", 
+      "rss_url": "http://clyburn.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "SC", 
       "type": "rep", 
       "url": "https://clyburn.house.gov"

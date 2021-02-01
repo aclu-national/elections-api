@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11548", 
+    "ballotpedia": "Lori Trahan", 
     "bioguide": "T000482", 
     "fec": [
       "H8MA03106"
     ], 
+    "google_entity_id": "kg:/g/11gtcg496z", 
     "govtrack": 412781, 
     "icpsr": 21977, 
     "opensecrets": "N00041808", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-3411", 
       "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://trahan.house.gov"
+    }, 
+    {
+      "address": "2439 Rayburn House Office Building Washington DC 20515-2103", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2439 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3411", 
+      "start": "2021-01-03", 
       "state": "MA", 
       "type": "rep", 
       "url": "https://trahan.house.gov"

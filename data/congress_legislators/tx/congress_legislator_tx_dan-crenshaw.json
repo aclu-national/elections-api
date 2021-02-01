@@ -5,11 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11595", 
+    "ballotpedia": "Daniel Crenshaw", 
     "bioguide": "C001120", 
     "fec": [
       "H8TX02166"
     ], 
-    "google_entity_id": "kg:/g/11fk40sjyz", 
+    "google_entity_id": "kg:/g/11hcj7fy00", 
     "govtrack": 412820, 
     "icpsr": 21911, 
     "opensecrets": "N00042224", 
@@ -35,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-6565", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://crenshaw.house.gov"
+    }, 
+    {
+      "address": "413 Cannon House Office Building Washington DC 20515-4302", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "413 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6565", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://crenshaw.house.gov"

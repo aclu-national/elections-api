@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11590", 
+    "ballotpedia": "John Rose (Tennessee)", 
     "bioguide": "R000612", 
     "fec": [
       "H8TN06094"
     ], 
+    "google_entity_id": "kg:/g/11g8xhg1mz", 
     "govtrack": 412818, 
     "icpsr": 21959, 
     "opensecrets": "N00041599", 
@@ -20,7 +22,7 @@
     "first": "John", 
     "last": "Rose", 
     "middle": "W.", 
-    "official_full": "John W. Rose"
+    "official_full": "John Rose"
   }, 
   "social": {
     "twitter": "RepJohnRose", 
@@ -35,6 +37,18 @@
       "party": "Republican", 
       "phone": "202-225-4231", 
       "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://johnrose.house.gov"
+    }, 
+    {
+      "address": "1124 Longworth House Office Building Washington DC 20515-4206", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "1124 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4231", 
+      "start": "2021-01-03", 
       "state": "TN", 
       "type": "rep", 
       "url": "https://johnrose.house.gov"

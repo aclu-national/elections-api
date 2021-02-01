@@ -62,6 +62,20 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.smith.senate.gov"
+    }, 
+    {
+      "address": "720 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.smith.senate.gov/contact-tina", 
+      "end": "2027-01-03", 
+      "office": "720 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-5641", 
+      "start": "2021-01-03", 
+      "state": "MN", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.smith.senate.gov"
     }
   ], 
   "url_slug": "mn-tina-smith"

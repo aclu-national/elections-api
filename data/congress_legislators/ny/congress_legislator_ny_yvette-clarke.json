@@ -125,6 +125,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://clarke.house.gov"
+    }, 
+    {
+      "address": "2058 Rayburn House Office Building Washington DC 20515-3209", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2058 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6231", 
+      "rss_url": "http://clarke.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://clarke.house.gov"
     }
   ], 
   "url_slug": "ny-yvette-clarke"

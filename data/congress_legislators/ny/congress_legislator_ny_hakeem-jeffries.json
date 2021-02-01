@@ -24,7 +24,13 @@
   "leadership_roles": [
     {
       "chamber": "house", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
+      "title": "House Democratic Caucus Chair"
+    }, 
+    {
+      "chamber": "house", 
+      "start": "2021-01-03", 
       "title": "House Democratic Caucus Chair"
     }
   ], 
@@ -91,6 +97,19 @@
       "phone": "202-225-5936", 
       "rss_url": "http://jeffries.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://jeffries.house.gov"
+    }, 
+    {
+      "address": "2433 Rayburn House Office Building Washington DC 20515-3208", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2433 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5936", 
+      "rss_url": "http://jeffries.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://jeffries.house.gov"

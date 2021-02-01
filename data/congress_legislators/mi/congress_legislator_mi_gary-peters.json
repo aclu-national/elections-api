@@ -92,6 +92,20 @@
       "state_rank": "junior", 
       "type": "sen", 
       "url": "https://www.peters.senate.gov"
+    }, 
+    {
+      "address": "724 Hart Senate Office Building Washington DC 20510", 
+      "class": 2, 
+      "contact_form": "https://www.peters.senate.gov/contact/email-gary", 
+      "end": "2027-01-03", 
+      "office": "724 Hart Senate Office Building", 
+      "party": "Democrat", 
+      "phone": "202-224-6221", 
+      "start": "2021-01-03", 
+      "state": "MI", 
+      "state_rank": "junior", 
+      "type": "sen", 
+      "url": "https://www.peters.senate.gov"
     }
   ], 
   "url_slug": "mi-gary-peters"

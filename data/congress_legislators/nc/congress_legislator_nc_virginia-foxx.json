@@ -132,6 +132,19 @@
       "state": "NC", 
       "type": "rep", 
       "url": "https://foxx.house.gov"
+    }, 
+    {
+      "address": "2462 Rayburn House Office Building Washington DC 20515-3305", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "2462 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2071", 
+      "rss_url": "http://foxx.house.gov/common/rss/?rss=55", 
+      "start": "2021-01-03", 
+      "state": "NC", 
+      "type": "rep", 
+      "url": "https://foxx.house.gov"
     }
   ], 
   "url_slug": "nc-virginia-foxx"

@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11592", 
+    "ballotpedia": "Tim Burchett", 
     "bioguide": "B001309", 
     "fec": [
       "H8TN02119"
@@ -35,6 +36,18 @@
       "party": "Republican", 
       "phone": "202-225-5435", 
       "start": "2019-01-03", 
+      "state": "TN", 
+      "type": "rep", 
+      "url": "https://burchett.house.gov"
+    }, 
+    {
+      "address": "1122 Longworth House Office Building Washington DC 20515-4202", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "1122 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5435", 
+      "start": "2021-01-03", 
       "state": "TN", 
       "type": "rep", 
       "url": "https://burchett.house.gov"

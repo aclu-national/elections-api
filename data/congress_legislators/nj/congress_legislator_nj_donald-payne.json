@@ -11,6 +11,7 @@
   ], 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:832", 
+    "ballotpedia": "Donald Payne Jr.", 
     "bioguide": "P000604", 
     "cspan": 65639, 
     "fec": [
@@ -104,6 +105,19 @@
       "phone": "202-225-3436", 
       "rss_url": "http://payne.house.gov/rss.xml", 
       "start": "2019-01-03", 
+      "state": "NJ", 
+      "type": "rep", 
+      "url": "https://payne.house.gov"
+    }, 
+    {
+      "address": "106 Cannon House Office Building Washington DC 20515-3010", 
+      "district": 10, 
+      "end": "2023-01-03", 
+      "office": "106 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3436", 
+      "rss_url": "http://payne.house.gov/rss.xml", 
+      "start": "2021-01-03", 
       "state": "NJ", 
       "type": "rep", 
       "url": "https://payne.house.gov"

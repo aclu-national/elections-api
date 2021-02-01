@@ -40,6 +40,18 @@
       "state": "PR", 
       "type": "rep", 
       "url": "https://gonzalez-colon.house.gov"
+    }, 
+    {
+      "address": "2338 Rayburn House Office Building Washington DC 20515-5401", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "2338 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2615", 
+      "start": "2021-01-03", 
+      "state": "PR", 
+      "type": "rep", 
+      "url": "https://gonzalez-colon.house.gov"
     }
   ], 
   "url_slug": "pr-jenniffer-gonzalez-colon"

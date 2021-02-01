@@ -182,6 +182,19 @@
       "state": "NY", 
       "type": "rep", 
       "url": "https://maloney.house.gov"
+    }, 
+    {
+      "address": "2308 Rayburn House Office Building Washington DC 20515-3212", 
+      "district": 12, 
+      "end": "2023-01-03", 
+      "office": "2308 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7944", 
+      "rss_url": "http://maloney.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://maloney.house.gov"
     }
   ], 
   "url_slug": "ny-carolyn-maloney"

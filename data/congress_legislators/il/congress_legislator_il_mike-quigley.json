@@ -116,6 +116,19 @@
       "state": "IL", 
       "type": "rep", 
       "url": "https://quigley.house.gov"
+    }, 
+    {
+      "address": "2078 Rayburn House Office Building Washington DC 20515-1305", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "2078 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4061", 
+      "rss_url": "http://quigley.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
+      "state": "IL", 
+      "type": "rep", 
+      "url": "https://quigley.house.gov"
     }
   ], 
   "url_slug": "il-mike-quigley"

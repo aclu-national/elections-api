@@ -92,6 +92,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://lowenthal.house.gov"
+    }, 
+    {
+      "address": "108 Cannon House Office Building Washington DC 20515-0547", 
+      "district": 47, 
+      "end": "2023-01-03", 
+      "office": "108 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7924", 
+      "rss_url": "http://lowenthal.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://lowenthal.house.gov"
     }
   ], 
   "url_slug": "ca-alan-lowenthal"

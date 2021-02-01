@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11609", 
+    "ballotpedia": "Kim Schrier", 
     "bioguide": "S001216", 
     "fec": [
       "H8WA08189"
     ], 
+    "google_entity_id": "kg:/g/11fk1mqvq7", 
     "govtrack": 412835, 
     "icpsr": 21962, 
     "opensecrets": "N00041606", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-7761", 
       "start": "2019-01-03", 
+      "state": "WA", 
+      "type": "rep", 
+      "url": "https://schrier.house.gov"
+    }, 
+    {
+      "address": "1123 Longworth House Office Building Washington DC 20515-4708", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "1123 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-7761", 
+      "start": "2021-01-03", 
       "state": "WA", 
       "type": "rep", 
       "url": "https://schrier.house.gov"

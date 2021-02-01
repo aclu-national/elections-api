@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:647", 
+    "ballotpedia": "Val Demings", 
     "bioguide": "D000627", 
     "cspan": 623713, 
     "fec": [
@@ -22,6 +23,7 @@
   "name": {
     "first": "Val", 
     "last": "Demings", 
+    "middle": "Butler", 
     "official_full": "Val Butler Demings"
   }, 
   "social": {
@@ -52,6 +54,18 @@
       "party": "Democrat", 
       "phone": "202-225-2176", 
       "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://demings.house.gov"
+    }, 
+    {
+      "address": "217 Cannon House Office Building Washington DC 20515-0910", 
+      "district": 10, 
+      "end": "2023-01-03", 
+      "office": "217 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2176", 
+      "start": "2021-01-03", 
       "state": "FL", 
       "type": "rep", 
       "url": "https://demings.house.gov"

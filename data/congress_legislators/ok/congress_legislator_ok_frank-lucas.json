@@ -182,6 +182,19 @@
       "state": "OK", 
       "type": "rep", 
       "url": "https://lucas.house.gov"
+    }, 
+    {
+      "address": "2405 Rayburn House Office Building Washington DC 20515-3603", 
+      "district": 3, 
+      "end": "2023-01-03", 
+      "office": "2405 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5565", 
+      "rss_url": "http://lucas.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "OK", 
+      "type": "rep", 
+      "url": "https://lucas.house.gov"
     }
   ], 
   "url_slug": "ok-frank-lucas"

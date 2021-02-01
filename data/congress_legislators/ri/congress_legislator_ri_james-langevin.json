@@ -151,6 +151,19 @@
       "state": "RI", 
       "type": "rep", 
       "url": "https://langevin.house.gov"
+    }, 
+    {
+      "address": "2077 Rayburn House Office Building Washington DC 20515-3902", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2077 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2735", 
+      "rss_url": "http://langevin.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "RI", 
+      "type": "rep", 
+      "url": "https://langevin.house.gov"
     }
   ], 
   "url_slug": "ri-james-langevin"

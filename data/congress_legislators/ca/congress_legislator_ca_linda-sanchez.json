@@ -11,6 +11,7 @@
   ], 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:578", 
+    "ballotpedia": "Linda S\u00e1nchez", 
     "bioguide": "S001156", 
     "cspan": 1003554, 
     "fec": [
@@ -144,6 +145,19 @@
       "phone": "202-225-6676", 
       "rss_url": "http://lindasanchez.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://lindasanchez.house.gov"
+    }, 
+    {
+      "address": "2329 Rayburn House Office Building Washington DC 20515-0538", 
+      "district": 38, 
+      "end": "2023-01-03", 
+      "office": "2329 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6676", 
+      "rss_url": "http://lindasanchez.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://lindasanchez.house.gov"

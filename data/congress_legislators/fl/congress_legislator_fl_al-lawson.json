@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:620", 
+    "ballotpedia": "Alfred Lawson", 
     "bioguide": "L000586", 
     "cspan": 90480, 
     "fec": [
@@ -22,7 +23,8 @@
   "name": {
     "first": "Al", 
     "last": "Lawson", 
-    "official_full": "Al Lawson, Jr."
+    "official_full": "Al Lawson, Jr.", 
+    "suffix": "Jr."
   }, 
   "social": {
     "facebook": "RepAlLawsonJr", 
@@ -50,6 +52,18 @@
       "party": "Democrat", 
       "phone": "202-225-0123", 
       "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://lawson.house.gov"
+    }, 
+    {
+      "address": "2437 Rayburn House Office Building Washington DC 20515-0905", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "2437 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-0123", 
+      "start": "2021-01-03", 
       "state": "FL", 
       "type": "rep", 
       "url": "https://lawson.house.gov"

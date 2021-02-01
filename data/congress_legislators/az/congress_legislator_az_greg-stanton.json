@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11516", 
+    "ballotpedia": "Greg Stanton", 
     "bioguide": "S001211", 
     "fec": [
       "H8AZ09040"
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-9888", 
       "start": "2019-01-03", 
+      "state": "AZ", 
+      "type": "rep", 
+      "url": "https://stanton.house.gov"
+    }, 
+    {
+      "address": "207 Cannon House Office Building Washington DC 20515-0309", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "207 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-9888", 
+      "start": "2021-01-03", 
       "state": "AZ", 
       "type": "rep", 
       "url": "https://stanton.house.gov"

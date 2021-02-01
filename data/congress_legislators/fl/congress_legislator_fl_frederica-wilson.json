@@ -106,6 +106,19 @@
       "state": "FL", 
       "type": "rep", 
       "url": "https://wilson.house.gov"
+    }, 
+    {
+      "address": "2445 Rayburn House Office Building Washington DC 20515-0924", 
+      "district": 24, 
+      "end": "2023-01-03", 
+      "office": "2445 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4506", 
+      "rss_url": "http://wilson.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2021-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://wilson.house.gov"
     }
   ], 
   "url_slug": "fl-frederica-wilson"

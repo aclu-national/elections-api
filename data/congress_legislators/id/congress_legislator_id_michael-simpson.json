@@ -159,6 +159,19 @@
       "state": "ID", 
       "type": "rep", 
       "url": "https://simpson.house.gov"
+    }, 
+    {
+      "address": "2084 Rayburn House Office Building Washington DC 20515-1202", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2084 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5531", 
+      "rss_url": "http://simpson.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "ID", 
+      "type": "rep", 
+      "url": "https://simpson.house.gov"
     }
   ], 
   "url_slug": "id-michael-simpson"

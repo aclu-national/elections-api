@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:986", 
+    "ballotpedia": "Sheila Jackson Lee", 
     "bioguide": "J000032", 
     "cspan": 36819, 
     "fec": [
@@ -169,6 +170,19 @@
       "phone": "202-225-3816", 
       "rss_url": "http://jacksonlee.house.gov/news/rss.aspx", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://jacksonlee.house.gov"
+    }, 
+    {
+      "address": "2426 Rayburn House Office Building Washington DC 20515-4318", 
+      "district": 18, 
+      "end": "2023-01-03", 
+      "office": "2426 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3816", 
+      "rss_url": "http://jacksonlee.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://jacksonlee.house.gov"

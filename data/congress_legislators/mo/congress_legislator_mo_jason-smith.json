@@ -91,6 +91,19 @@
       "state": "MO", 
       "type": "rep", 
       "url": "https://jasonsmith.house.gov"
+    }, 
+    {
+      "address": "2418 Rayburn House Office Building Washington DC 20515-2508", 
+      "district": 8, 
+      "end": "2023-01-03", 
+      "office": "2418 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-4404", 
+      "rss_url": "http://jasonsmith.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://jasonsmith.house.gov"
     }
   ], 
   "url_slug": "mo-jason-smith"

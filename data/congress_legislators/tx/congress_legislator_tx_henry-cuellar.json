@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:961", 
+    "ballotpedia": "Henry Cuellar", 
     "bioguide": "C001063", 
     "cspan": 1013062, 
     "fec": [
@@ -127,6 +128,19 @@
       "phone": "202-225-1640", 
       "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://cuellar.house.gov"
+    }, 
+    {
+      "address": "2372 Rayburn House Office Building Washington DC 20515-4328", 
+      "district": 28, 
+      "end": "2023-01-03", 
+      "office": "2372 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-1640", 
+      "rss_url": "http://cuellar.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://cuellar.house.gov"

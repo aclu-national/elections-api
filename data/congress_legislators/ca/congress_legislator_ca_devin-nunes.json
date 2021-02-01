@@ -141,6 +141,19 @@
       "state": "CA", 
       "type": "rep", 
       "url": "https://nunes.house.gov"
+    }, 
+    {
+      "address": "1013 Longworth House Office Building Washington DC 20515-0522", 
+      "district": 22, 
+      "end": "2023-01-03", 
+      "office": "1013 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2523", 
+      "rss_url": "http://nunes.house.gov/news/rss.aspx", 
+      "start": "2021-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://nunes.house.gov"
     }
   ], 
   "url_slug": "ca-devin-nunes"

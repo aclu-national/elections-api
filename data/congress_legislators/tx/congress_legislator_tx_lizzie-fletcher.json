@@ -10,12 +10,13 @@
     "fec": [
       "H8TX07140"
     ], 
+    "google_entity_id": "kg:/g/11gzqssv7p", 
     "govtrack": 412824, 
     "icpsr": 21919, 
     "opensecrets": "N00041194", 
     "votesmart": 177031, 
     "wikidata": "Q58324313", 
-    "wikipedia": "Lizzie Pannill Fletcher"
+    "wikipedia": "Lizzie Fletcher"
   }, 
   "name": {
     "first": "Lizzie", 
@@ -35,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-2571", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://fletcher.house.gov"
+    }, 
+    {
+      "address": "119 Cannon House Office Building Washington DC 20515-4307", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "119 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-2571", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://fletcher.house.gov"

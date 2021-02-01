@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:643", 
+    "ballotpedia": "Stephanie Murphy", 
     "bioguide": "M001202", 
     "cspan": 103502, 
     "fec": [
@@ -22,6 +23,7 @@
   "name": {
     "first": "Stephanie", 
     "last": "Murphy", 
+    "middle": "N.", 
     "official_full": "Stephanie N. Murphy"
   }, 
   "social": {
@@ -52,6 +54,18 @@
       "party": "Democrat", 
       "phone": "202-225-4035", 
       "start": "2019-01-03", 
+      "state": "FL", 
+      "type": "rep", 
+      "url": "https://murphy.house.gov"
+    }, 
+    {
+      "address": "1710 Longworth House Office Building Washington DC 20515-0907", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "1710 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4035", 
+      "start": "2021-01-03", 
       "state": "FL", 
       "type": "rep", 
       "url": "https://murphy.house.gov"

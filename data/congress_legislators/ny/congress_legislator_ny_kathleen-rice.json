@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:868", 
+    "ballotpedia": "Kathleen Rice", 
     "bioguide": "R000602", 
     "cspan": 76332, 
     "fec": [
@@ -24,6 +25,7 @@
   "name": {
     "first": "Kathleen", 
     "last": "Rice", 
+    "middle": "M.", 
     "official_full": "Kathleen M. Rice"
   }, 
   "social": {
@@ -67,6 +69,18 @@
       "party": "Democrat", 
       "phone": "202-225-5516", 
       "start": "2019-01-03", 
+      "state": "NY", 
+      "type": "rep", 
+      "url": "https://kathleenrice.house.gov"
+    }, 
+    {
+      "address": "2435 Rayburn House Office Building Washington DC 20515-3204", 
+      "district": 4, 
+      "end": "2023-01-03", 
+      "office": "2435 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-5516", 
+      "start": "2021-01-03", 
       "state": "NY", 
       "type": "rep", 
       "url": "https://kathleenrice.house.gov"

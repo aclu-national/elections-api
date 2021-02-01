@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:548", 
+    "ballotpedia": "Anna Eshoo", 
     "bioguide": "E000215", 
     "cspan": 26130, 
     "fec": [
@@ -179,6 +180,19 @@
       "phone": "202-225-8104", 
       "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2019-01-03", 
+      "state": "CA", 
+      "type": "rep", 
+      "url": "https://eshoo.house.gov"
+    }, 
+    {
+      "address": "272 Cannon House Office Building Washington DC 20515-0518", 
+      "district": 18, 
+      "end": "2023-01-03", 
+      "office": "272 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8104", 
+      "rss_url": "http://eshoo.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
       "state": "CA", 
       "type": "rep", 
       "url": "https://eshoo.house.gov"

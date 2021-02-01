@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:660", 
+    "ballotpedia": "Rick Allen", 
     "bioguide": "A000372", 
     "cspan": 62545, 
     "fec": [
@@ -23,6 +24,7 @@
   "name": {
     "first": "Rick", 
     "last": "Allen", 
+    "middle": "W.", 
     "official_full": "Rick W. Allen"
   }, 
   "social": {
@@ -68,6 +70,18 @@
       "party": "Republican", 
       "phone": "202-225-2823", 
       "start": "2019-01-03", 
+      "state": "GA", 
+      "type": "rep", 
+      "url": "https://allen.house.gov"
+    }, 
+    {
+      "address": "570 Cannon House Office Building Washington DC 20515-1012", 
+      "district": 12, 
+      "end": "2023-01-03", 
+      "office": "570 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2823", 
+      "start": "2021-01-03", 
       "state": "GA", 
       "type": "rep", 
       "url": "https://allen.house.gov"

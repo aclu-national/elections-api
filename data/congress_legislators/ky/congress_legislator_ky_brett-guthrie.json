@@ -114,6 +114,19 @@
       "state": "KY", 
       "type": "rep", 
       "url": "https://guthrie.house.gov"
+    }, 
+    {
+      "address": "2434 Rayburn House Office Building Washington DC 20515-1702", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "2434 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-3501", 
+      "rss_url": "http://guthrie.house.gov/common/rss/?rss=24", 
+      "start": "2021-01-03", 
+      "state": "KY", 
+      "type": "rep", 
+      "url": "https://guthrie.house.gov"
     }
   ], 
   "url_slug": "ky-brett-guthrie"

@@ -104,6 +104,19 @@
       "state": "PA", 
       "type": "rep", 
       "url": "https://kelly.house.gov"
+    }, 
+    {
+      "address": "1707 Longworth House Office Building Washington DC 20515-3816", 
+      "district": 16, 
+      "end": "2023-01-03", 
+      "office": "1707 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-5406", 
+      "rss_url": "http://kelly.house.gov/rss.xml", 
+      "start": "2021-01-03", 
+      "state": "PA", 
+      "type": "rep", 
+      "url": "https://kelly.house.gov"
     }
   ], 
   "url_slug": "pa-mike-kelly"

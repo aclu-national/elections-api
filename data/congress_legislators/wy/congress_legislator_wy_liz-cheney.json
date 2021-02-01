@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:1041", 
+    "ballotpedia": "Liz Cheney", 
     "bioguide": "C001109", 
     "cspan": 86147, 
     "fec": [
@@ -22,7 +23,13 @@
   "leadership_roles": [
     {
       "chamber": "house", 
+      "end": "2021-01-03", 
       "start": "2019-01-03", 
+      "title": "House Republican Conference Chair"
+    }, 
+    {
+      "chamber": "house", 
+      "start": "2021-01-03", 
       "title": "House Republican Conference Chair"
     }
   ], 
@@ -58,6 +65,18 @@
       "party": "Republican", 
       "phone": "202-225-2311", 
       "start": "2019-01-03", 
+      "state": "WY", 
+      "type": "rep", 
+      "url": "https://cheney.house.gov"
+    }, 
+    {
+      "address": "416 Cannon House Office Building Washington DC 20515-5000", 
+      "district": 0, 
+      "end": "2023-01-03", 
+      "office": "416 Cannon House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2311", 
+      "start": "2021-01-03", 
       "state": "WY", 
       "type": "rep", 
       "url": "https://cheney.house.gov"

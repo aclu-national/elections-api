@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:782", 
+    "ballotpedia": "Billy Long", 
     "bioguide": "L000576", 
     "cspan": 61880, 
     "fec": [
@@ -100,6 +101,19 @@
       "phone": "202-225-6536", 
       "rss_url": "http://long.house.gov/common/rss//index.cfm?rss=49", 
       "start": "2019-01-03", 
+      "state": "MO", 
+      "type": "rep", 
+      "url": "https://long.house.gov"
+    }, 
+    {
+      "address": "2454 Rayburn House Office Building Washington DC 20515-2507", 
+      "district": 7, 
+      "end": "2023-01-03", 
+      "office": "2454 Rayburn House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-6536", 
+      "rss_url": "http://long.house.gov/common/rss//index.cfm?rss=49", 
+      "start": "2021-01-03", 
       "state": "MO", 
       "type": "rep", 
       "url": "https://long.house.gov"

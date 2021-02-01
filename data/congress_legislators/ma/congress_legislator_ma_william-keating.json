@@ -5,6 +5,7 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:742", 
+    "ballotpedia": "Bill Keating", 
     "bioguide": "K000375", 
     "cspan": 61856, 
     "fec": [
@@ -101,6 +102,19 @@
       "phone": "202-225-3111", 
       "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
       "start": "2019-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://keating.house.gov"
+    }, 
+    {
+      "address": "2351 Rayburn House Office Building Washington DC 20515-2109", 
+      "district": 9, 
+      "end": "2023-01-03", 
+      "office": "2351 Rayburn House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-3111", 
+      "rss_url": "http://keating.house.gov/index.php?format=feed&amp;type=rss", 
+      "start": "2021-01-03", 
       "state": "MA", 
       "type": "rep", 
       "url": "https://keating.house.gov"

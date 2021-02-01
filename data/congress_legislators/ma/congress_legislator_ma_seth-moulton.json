@@ -71,6 +71,18 @@
       "state": "MA", 
       "type": "rep", 
       "url": "https://moulton.house.gov"
+    }, 
+    {
+      "address": "1127 Longworth House Office Building Washington DC 20515-2106", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "1127 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-8020", 
+      "start": "2021-01-03", 
+      "state": "MA", 
+      "type": "rep", 
+      "url": "https://moulton.house.gov"
     }
   ], 
   "url_slug": "ma-seth-moulton"

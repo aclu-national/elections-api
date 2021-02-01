@@ -5,10 +5,12 @@
   }, 
   "id": {
     "aclu_id": "aclu/elections-api/congress_legislator:11601", 
+    "ballotpedia": "Veronica Escobar", 
     "bioguide": "E000299", 
     "fec": [
       "H8TX16109"
     ], 
+    "google_entity_id": "kg:/g/11ghdw9g9p", 
     "govtrack": 412825, 
     "icpsr": 21917, 
     "opensecrets": "N00041702", 
@@ -34,6 +36,18 @@
       "party": "Democrat", 
       "phone": "202-225-4831", 
       "start": "2019-01-03", 
+      "state": "TX", 
+      "type": "rep", 
+      "url": "https://escobar.house.gov"
+    }, 
+    {
+      "address": "1505 Longworth House Office Building Washington DC 20515-4316", 
+      "district": 16, 
+      "end": "2023-01-03", 
+      "office": "1505 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-4831", 
+      "start": "2021-01-03", 
       "state": "TX", 
       "type": "rep", 
       "url": "https://escobar.house.gov"

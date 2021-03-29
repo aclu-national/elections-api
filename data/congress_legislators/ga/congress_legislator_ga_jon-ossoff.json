@@ -21,10 +21,15 @@
     "last": "Ossoff", 
     "official_full": "Jon Ossoff"
   }, 
+  "social": {
+    "twitter": "SenOssoff", 
+    "twitter_id": 1356714265894408196
+  }, 
   "terms": [
     {
       "address": "825 B&C Hart Senate Office Building Washington DC 20510", 
       "class": 2, 
+      "contact_form": "https://www.ossoff.senate.gov", 
       "end": "2027-01-03", 
       "office": "825 B&c Hart Senate Office Building", 
       "party": "Democrat", 
@@ -32,7 +37,8 @@
       "start": "2021-01-20", 
       "state": "GA", 
       "state_rank": "senior", 
-      "type": "sen"
+      "type": "sen", 
+      "url": "https://www.ossoff.senate.gov"
     }
   ], 
   "url_slug": "ga-jon-ossoff"

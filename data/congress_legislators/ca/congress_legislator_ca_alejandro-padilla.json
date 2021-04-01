@@ -24,17 +24,19 @@
   }, 
   "terms": [
     {
-      "address": "B03 Russell Senate Office Building Washington DC 20510", 
+      "address": "112 Hart Senate Office Building Washington DC 20510", 
       "class": 3, 
+      "contact_form": "http://www.padilla.senate.gov", 
       "end": "2023-01-03", 
       "how": "appointment", 
-      "office": "B03 Russell Senate Office Building", 
+      "office": "112 Hart Senate Office Building", 
       "party": "Democrat", 
       "phone": "202-224-3553", 
       "start": "2021-01-20", 
       "state": "CA", 
       "state_rank": "junior", 
-      "type": "sen"
+      "type": "sen", 
+      "url": "https://www.padilla.senate.gov"
     }
   ], 
   "url_slug": "ca-alejandro-padilla"

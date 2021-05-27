@@ -1,0 +1,37 @@
+{
+  "bio": {
+    "birthday": "1963-10-26", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11687", 
+    "ballotpedia": "Troy Carter", 
+    "bioguide": "C001125", 
+    "fec": [
+      "H2LA02149"
+    ], 
+    "govtrack": 456860, 
+    "wikidata": "Q7846787", 
+    "wikipedia": "Troy Carter (politician)"
+  }, 
+  "name": {
+    "first": "Troy", 
+    "last": "Carter", 
+    "middle": "Anthony", 
+    "official_full": "Troy Carter"
+  }, 
+  "terms": [
+    {
+      "address": "506 Cannon House Office Building Washington DC 20515-1802", 
+      "district": 2, 
+      "end": "2023-01-03", 
+      "office": "506 Cannon House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6636", 
+      "start": "2021-05-11", 
+      "state": "LA", 
+      "type": "rep"
+    }
+  ], 
+  "url_slug": "la-troy-carter"
+}

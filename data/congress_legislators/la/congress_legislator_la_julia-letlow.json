@@ -1,0 +1,37 @@
+{
+  "bio": {
+    "birthday": "1981-03-16", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11688", 
+    "ballotpedia": "Julia Letlow", 
+    "bioguide": "L000595", 
+    "fec": [
+      "H2LA05126"
+    ], 
+    "govtrack": 456859, 
+    "wikidata": "Q106089241", 
+    "wikipedia": "Julia Letlow"
+  }, 
+  "name": {
+    "first": "Julia", 
+    "last": "Letlow", 
+    "official_full": "Julia Letlow"
+  }, 
+  "terms": [
+    {
+      "address": "1408 Longworth House Office Building Washington DC 20515-1805", 
+      "district": 5, 
+      "end": "2023-01-03", 
+      "office": "1408 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-8490", 
+      "start": "2021-04-14", 
+      "state": "LA", 
+      "type": "rep", 
+      "url": "https://letlow.house.gov"
+    }
+  ], 
+  "url_slug": "la-julia-letlow"
+}

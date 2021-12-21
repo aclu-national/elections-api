@@ -1,0 +1,32 @@
+{
+  "bio": {
+    "birthday": "1975-06-24", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11691", 
+    "bioguide": "B001313", 
+    "fec": [
+      "H2OH11169"
+    ], 
+    "govtrack": 456863, 
+    "wikidata": "Q107863952", 
+    "wikipedia": "Shontel Brown"
+  }, 
+  "name": {
+    "first": "Shontel", 
+    "last": "Brown", 
+    "middle": "M."
+  }, 
+  "terms": [
+    {
+      "district": 11, 
+      "end": "2023-01-03", 
+      "party": "Democrat", 
+      "start": "2021-11-04", 
+      "state": "OH", 
+      "type": "rep"
+    }
+  ], 
+  "url_slug": "oh-shontel-brown"
+}

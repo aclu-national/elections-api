@@ -1,0 +1,31 @@
+{
+  "bio": {
+    "birthday": "1971-03-13", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11690", 
+    "bioguide": "C001126", 
+    "fec": [
+      "H2OH15228"
+    ], 
+    "govtrack": 456864, 
+    "wikidata": "Q108010312", 
+    "wikipedia": "Mike Carey (politician)"
+  }, 
+  "name": {
+    "first": "Mike", 
+    "last": "Carey"
+  }, 
+  "terms": [
+    {
+      "district": 15, 
+      "end": "2023-01-03", 
+      "party": "Republican", 
+      "start": "2021-11-04", 
+      "state": "OH", 
+      "type": "rep"
+    }
+  ], 
+  "url_slug": "oh-mike-carey"
+}

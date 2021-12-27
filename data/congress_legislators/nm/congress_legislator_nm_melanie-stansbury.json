@@ -1,0 +1,39 @@
+{
+  "bio": {
+    "birthday": "1979-01-31", 
+    "gender": "F"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11689", 
+    "ballotpedia": "Melanie Ann Stansbury", 
+    "bioguide": "S001218", 
+    "fec": [
+      "H2NM01144"
+    ], 
+    "govtrack": 456861, 
+    "opensecrets": "N00047871", 
+    "wikidata": "Q96184996", 
+    "wikipedia": "Melanie Stansbury"
+  }, 
+  "name": {
+    "first": "Melanie", 
+    "last": "Stansbury", 
+    "middle": "Ann", 
+    "official_full": "Melanie A. Stansbury"
+  }, 
+  "terms": [
+    {
+      "address": "1421 Longworth House Office Building Washington DC 20515-3101", 
+      "district": 1, 
+      "end": "2023-01-03", 
+      "office": "1421 Longworth House Office Building", 
+      "party": "Democrat", 
+      "phone": "202-225-6316", 
+      "start": "2021-06-14", 
+      "state": "NM", 
+      "type": "rep", 
+      "url": "https://stansbury.house.gov"
+    }
+  ], 
+  "url_slug": "nm-melanie-stansbury"
+}

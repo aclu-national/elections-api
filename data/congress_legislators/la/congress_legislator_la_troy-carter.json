@@ -11,6 +11,7 @@
       "H2LA02149"
     ], 
     "govtrack": 456860, 
+    "opensecrets": "N00025766", 
     "wikidata": "Q7846787", 
     "wikipedia": "Troy Carter (politician)"
   }, 
@@ -18,7 +19,7 @@
     "first": "Troy", 
     "last": "Carter", 
     "middle": "Anthony", 
-    "official_full": "Troy Carter"
+    "official_full": "Troy A. Carter"
   }, 
   "terms": [
     {
@@ -30,7 +31,8 @@
       "phone": "202-225-6636", 
       "start": "2021-05-11", 
       "state": "LA", 
-      "type": "rep"
+      "type": "rep", 
+      "url": "https://troycarter.house.gov"
     }
   ], 
   "url_slug": "la-troy-carter"

@@ -157,7 +157,7 @@
     {
       "address": "317 Russell Senate Office Building Washington DC 20510", 
       "class": 2, 
-      "contact_form": "http://www.mcconnell.senate.gov/public/index.cfm?p=contact", 
+      "contact_form": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact", 
       "end": "2027-01-03", 
       "office": "317 Russell Senate Office Building", 
       "party": "Republican", 

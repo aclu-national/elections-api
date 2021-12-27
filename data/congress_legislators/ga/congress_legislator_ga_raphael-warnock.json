@@ -12,6 +12,7 @@
     ], 
     "govtrack": 456858, 
     "lis": "S415", 
+    "opensecrets": "N00046489", 
     "wikidata": "Q84146599", 
     "wikipedia": "Raphael Warnock"
   }, 
@@ -27,12 +28,12 @@
   }, 
   "terms": [
     {
-      "address": "B40D Dirksen Senate Office Building Washington DC 20510", 
+      "address": "388 Russell Senate Office Building Washington DC 20510", 
       "class": 3, 
       "contact_form": "https://www.warnock.senate.gov", 
       "end": "2023-01-03", 
       "how": "special-election", 
-      "office": "B40d Dirksen Senate Office Building", 
+      "office": "388 Russell Senate Office Building", 
       "party": "Democrat", 
       "phone": "202-224-3643", 
       "start": "2021-01-20", 

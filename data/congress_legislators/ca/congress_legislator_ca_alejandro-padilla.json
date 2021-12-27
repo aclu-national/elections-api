@@ -7,8 +7,12 @@
     "aclu_id": "aclu/elections-api/congress_legislator:11626", 
     "ballotpedia": "Alex Padilla", 
     "bioguide": "P000145", 
+    "fec": [
+      "S2CA00955"
+    ], 
     "govtrack": 456856, 
     "lis": "S413", 
+    "opensecrets": "N00047888", 
     "wikidata": "Q4717593", 
     "wikipedia": "Alex Padilla"
   }, 
@@ -26,7 +30,7 @@
     {
       "address": "112 Hart Senate Office Building Washington DC 20510", 
       "class": 3, 
-      "contact_form": "http://www.padilla.senate.gov", 
+      "contact_form": "https://www.padilla.senate.gov", 
       "end": "2023-01-03", 
       "how": "appointment", 
       "office": "112 Hart Senate Office Building", 

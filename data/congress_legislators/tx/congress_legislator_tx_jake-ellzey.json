@@ -1,0 +1,36 @@
+{
+  "bio": {
+    "birthday": "1970-01-24", 
+    "gender": "M"
+  }, 
+  "id": {
+    "aclu_id": "aclu/elections-api/congress_legislator:11692", 
+    "ballotpedia": "Jake Ellzey", 
+    "bioguide": "E000071", 
+    "fec": [
+      "H8TX06266"
+    ], 
+    "govtrack": 456862, 
+    "wikidata": "Q105061782", 
+    "wikipedia": "Jake Ellzey"
+  }, 
+  "name": {
+    "first": "Jake", 
+    "last": "Ellzey", 
+    "official_full": "Jake Ellzey"
+  }, 
+  "terms": [
+    {
+      "address": "1725 Longworth House Office Building Washington DC 20515-4306", 
+      "district": 6, 
+      "end": "2023-01-03", 
+      "office": "1725 Longworth House Office Building", 
+      "party": "Republican", 
+      "phone": "202-225-2002", 
+      "start": "2021-07-30", 
+      "state": "TX", 
+      "type": "rep"
+    }
+  ], 
+  "url_slug": "tx-jake-ellzey"
+}

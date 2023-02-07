@@ -4,7 +4,7 @@ An API for retrieving locally-relevant structured data about US elections.
 
 ## Origins
 
-This API was originally created for [ACLU Voter](https://www.aclu.org/voter/) and was subsequently used by [Vote Smart Justice](https://www.votesmartjustice.org/).
+This API was originally created for [ACLU Voter](https://www.aclu.org/voter/) and was subsequently used by [Vote Smart Justice](https://www.votesmartjustice.org/). Is currently used by [https://github.com/aclu-national/scorecards/](scorecards).
 
 ## Calling the API
 

@@ -3,7 +3,7 @@ flask_cors==3.0.7
 psycopg2-binary==2.8.2
 gunicorn==19.9.0
 bs4==0.0.1
-arrow==0.12.1
+arrow==0.15.1
 pyyaml==5.1
 ics==0.4
 maxminddb==1.4.1

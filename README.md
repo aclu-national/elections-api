@@ -1,3 +1,5 @@
+This repo was archived in November of 2025 when the new wordpress scorecards app was launched, which uses quorum's api for congressional district data
+
 # elections-api
 
 An API for retrieving locally-relevant structured data about US elections.
